@@ -1,0 +1,12 @@
+class minOfCollection{
+	bool opeartor()(const Collection lhs,const Collection rhs)
+	{
+		return (lhs.item() < rhs.getItem()
+	}
+}
+
+class Collection{
+	object & findMin(int size)
+	{
+	}
+}

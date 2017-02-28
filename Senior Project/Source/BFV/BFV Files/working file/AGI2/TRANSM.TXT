@@ -1,0 +1,811 @@
+72,25598,*Definition of the geochronologic unit M (sub 1) , the Eggenburgian stage*
+72,25600,*Holostratotype and facies stratotypes of the Eggenburgian*
+72,25603,*Vertebrates other than Pisces of the Eggenburgian stage*
+72,32461,*The predecessors of modern man in the southern Mediterranean region*
+72,32462,*Recent discoveries of human skeletons at Qafzeh, Israel; preliminary interpretation*
+72,32465,*The closest ancestor to Homo sapiens and the location of his transformation into modern man*
+72,32467,*Was the ancestor of upper Paleolithic man neanderthalian?*
+72,32468,*The polycentric evolution of Homo sapiens*
+72,32474,*Contributions of stratigraphy and typology to interpretations of the origins of modern man in the Maghreb*
+72,32476,*Environment and culture of lower Perigordian man, southwest France; new data*
+72,32477,*The early upper Paleolithic in southern France*
+72,32479,*Relationship between the middle and upper Paleolithic in central Europe*
+72,32484,*From middle Paleolithic to upper Paleolithic, continuity or discontinuity?*
+72,32491,*Problems of the populating of America in light of the discoveries at Tlapacoya, Mexico*
+72,32492,*Dynamics of natural changes in the upper Pleistocene, and the problem of transition from Neanderthalian to Homo sapiens*
+72,32494,*Documented reconstruction of fossil man and the formation of modern man*
+72,85062,*The fish fauna of the Eggenburgian stage*
+73,3959,*Pliocene-Pleistocene data on the evolution of the high slopes of Main, south Germany*
+73,5574,*The Quaternary of the Intracarpathian Depression of Ciuc*
+73,5577,*Tentative chronology of the lower and middle Quaternary of Romania*
+73,5578,*Stratigraphy of the upper Quaternary in Romania*
+73,5582,*The stratigraphy of Quaternary deposits and Paleolithic geology of the southern European USSR*
+73,5659,*Anthropological study of a Mesolithic skeleton from the Maritza Cave, Avezzano, Abruzzi*
+73,5883,*Correlation between the Verrucano deposits in the Western Alps and the Rotliegendes in southern Germany and France*
+73,6637,*The vertebrate fossils of Torralba and Ambrona*
+73,6640,*Fauna from the Qafzeh Massif near Nazareth, Israel*
+73,6642,*The lion of the caves; Panthera (Leo) spelaea and its history in the arctic Holocene*
+73,6646,*Environmental evolution in the Boreal hemisphere during the Pleistocene, and its relation to the history of prehistoric man*
+73,6655,*Is it necessary to replace the term Villafranchian with Arvernian?*
+73,6656,*Quaternary stratigraphy in the Rhone Valley*
+73,6663,*New research on the Villafranchian type area*
+73,6664,*The lower limit of the Quaternary in Yugoslavia*
+73,6759,*History of Pleistocene studies on the Stranska skala locality*
+73,6760,*Review of the history of studies on Quaternary sediments in Stranska skala near Brno*
+73,6763,*The middle Pleistocene bird fauna of Stranska skala*
+73,6766,*Canidae from Stranska skala*
+73,6767,*The bears of Stranska skala*
+73,6769,*The Felidae (Carnivora) from the Pleistocene of Stranska skala*
+73,6770,*Citellus (Rodentia) and Lagomorpha from the early collections of the Pleistocene Stranska skala locality near Brno, Czechoslovakia*
+73,6771,*Hamster and squirrel remains from the Stranska skala deposits near Brno*
+73,6772,*The voles (Microtidae, Mammalia) from the early collections of Stranska skala near Brno*
+73,6773,*The Rhinocerotidae remains of Stranska skala near Brno*
+73,6775,*Elephant remains of Stranska skala*
+73,6776,*The horse fossils of Stranska skala*
+73,6777,*The Cervidae remains of Stranska skala near Brno*
+73,9363,*Remains of mammals of Neogene deposits of Moldavia*
+73,9364,*Remains of mammals from the Karagash Quarry*
+73,9365,*History of the genus Lagomeryx*
+73,9366,*Ecologic characteristics of the Hipparion fauna of southern USSR*
+73,9367,*Middle Sarmatian birds of Moldavia*
+73,9368,*Structural characteristics and facies of terraces in the lower Dniester River region*
+73,10108,*Notes on the biostratigraphy of the Pleistocene*
+73,10109,*New occurrence of the Tiraspol fauna near the village of Malayeshty*
+73,10111,*Some problems of Anthropogene stratigraphy*
+73,10112,*Stratigraphic and nomenclatural significance of the terms "Gunzian," "Mindelian," and "Rissian"*
+73,10113,*Traces of the activity of fossil hominoids in Eopleistocene and early Pleistocene deposits of Europe*
+73,11000,*New finds of remnants of Psammosteidae in the Sventoji Formation of Latvia*
+73,11003,*Sharks of the Anacoracidae family from Cenomanian and Turonian of Lithuania, Volga region, and Central Asia*
+73,11008,*New species of Osteolepidae from middle Devonian in Latvia*
+73,20095,*The middle Pleistocene (Mindel-Riss and Riss) at the Prince Cave, Grimaldi, Italian Liguria*
+73,20795,*The use of scintillation for the discovery of vertebrate rests*
+73,20815,*The continental series to the east of Sierra de Altomira*
+73,22198,*Report on the vertebrates; the use of vertebrate paleontology in stratigraphy*
+73,22199,*Sharks (Cretaceous and Tertiary); stratigraphy and problems*
+73,22200,*Therapsid reptiles in the Permo-Triassic continental stratigraphy; the Beaufort Series (South Africa) and its world-wide equivalents*
+73,22201,*An example of a biometric analysis of some evolutionary lines of rodents and application to the dating of a deposit, Bouzigues, Herault*
+73,22202,*The role of Rodentia in biostratigraphy and a detailed climatic stratigraphy of the Quaternary*
+73,22203,*The stratigraphic value of Tertiary Mammalia*
+73,22204,*Mammals and the problem of distant correlations*
+73,22205,*The contribution of biometry to the biostratigraphy of fossil mammals*
+73,22206,*Stratigraphic interest of the lower vertebrates*
+73,22207,*An example of dating and stratigraphic correlation based on captorhinomorphs, cotylosaurian reptiles*
+73,22208,*Dating, zoning, and mammals*
+73,22209,*The contribution of holostean fishes to stratigraphy*
+73,24118,*The macrofauna*
+73,24131,*The continental equivalents of the Provence marine Aquitanian and attributing the Paulhiac Zone to the base of the Miocene, France*
+73,24214,*The Triassic basin of Ischigualasto-Villa Union, San Juan and La Rioja Provinces, Argentina*
+73,24216,*The San Luis Basin, Argentina*
+73,31097,*Crystalline units and minerals of calcified egg shells*
+73,31425,*Lower Devonian of the Baltic region*
+73,31436,*The importance of the vertebrates for correlating the Silurian and lower and middle Devonian of the USSR*
+73,31437,*Correlation of lower Devonian deposits of southwestern Taymyr and the Siberian Platform, based on brachiopods and vertebrates*
+73,31438,*The lower Devonian of Poland*
+73,31822,*New data on lower and middle Triassic stratigraphy of the Orenburg and Bashkirian regions of the Urals*
+73,32167,*Carnivora from the Pleistocene of Olduvai Gorge, Tanzania*
+74,7844,*Burial conditions of mammalian bones in deposits of Mamont Mountain*
+74,7845,*Rodents from Pleistocene deposits of Mamont Mountain*
+74,7846,*Pleistocene large mammals of Mamont Mountain; elephants, rhinoceroses, deer*
+74,7847,*Fossil bison from deposits of Mamont Mountain*
+74,7848,*Fossil horses of Mamont Mountain*
+74,7849,*Remains of the Trogonotherid beavers from deposits near Port-Katon and Liventsovskiy Pit in the Azov Sea region, and conditions of their habitation*
+74,7850,*Upper Pleistocene rodents from the Lake Nero Basin*
+74,8020,*Biostratigraphy of the Tertiary basins of the Central Massif*
+74,8025,*The contribution of the volcanic Central Massif to the chronology of the European Quaternary*
+74,11524,*The age of alluvium from secondary terraces of the Dniester and Prut rivers*
+74,18288,*Taphonomy of fishes from clays of the Lode quarry and some problems of the early Frasnian paleogeography of northern Latvia*
+74,18357,*Paleontologic-stratigraphic studies on the Grenzbitumenzone (middle Triassic) of Monte San Giorgio, Ticino, Switzerland*
+74,18847,*Preliminary interpretation of fossil rodents in the Bryansk soil*
+74,21929,*The tetrapod footprints in the Permian of Europe*
+74,26867,*Some data on the herpetofauna of the middle Sarmatian of Moldavia*
+74,26868,*A new species of Hipparion from the middle Sarmatian of Moldavia*
+74,26878,*New data on the age of the upper terraces of the middle Dniester Valley*
+74,27286,*A new arvicolid genus (Mammalia, Rodentia) from the Pleistocene of Romania*
+74,27287,*The Rattus and Lemmus genera (Mammalia, Rodentia) in the Pleistocene of Romania*
+74,27288,*The evolution of the castorides; Mammalia, Rodentia*
+74,27289,*The trace of cave bear (Ursus spelaeus) in the caves of Romania*
+74,38142,*Sundgau (France); geologic and structural aspects*
+74,38144,*The Quaternary of the Haut-Rhin, France*
+75,777,*The sequence and environment of the formation of Neogene-Quaternary rock complexes*
+75,1809,*The results of investigations of fossil therians from the southern portion of Kazakhstan*
+75,1810,*New species of Cretaceous fish from Taldy-Say*
+75,1811,*Eocene Amiidae from southeastern Kazakhstan*
+75,1812,*A new species of Miocene tortoise from southeastern Kazakhstan*
+75,1813,*Quaternary elephant from the southeastern part of Kazakhstan*
+75,1814,*Late Pliocene lagomorphs and rodents from Kiikbay*
+75,1815,*New genus of the family Lophialetidae from the Eocene of Kazakhstan*
+75,1816,*A new giant camel from Pliocene deposits of Tekesskaya Basin*
+75,1817,*Fossil ruminants of Karabastuz*
+75,1825,*Holotypes preserved in the paleobiological collection of the Institute of Zoology of the Academy of Sciences of Kazakhstan SSR, in Alma Ata, descriptions of species published in 1970-1974*
+75,2039,*The upper Cretaceous of Montsech, Spain*
+75,2040,*The lagoonal Maestrichtian (Garumnian) of Isona, Spain*
+75,3431,*Stratigraphy of the Quaternary of Poland*
+75,3433,*Evolution of fauna during the Quaternary in Poland*
+75,3434,*Paleolithic man and archaeological cultures during the Pleistocene in Poland*
+75,3439,*Studies of remains of fossil vertebrates*
+75,3445,*Application of fluorine-chlorine-apatite and collagen methods in dating of mammalian bones from Quaternary and Tertiary sediments (system F-Cl-P-Coll.)*
+75,6290,*Speleology, prehistory and modern paleontologic research*
+75,9209,*The immediate tasks of Russian paleontology*
+75,9210,*On the progress of Russian paleontology in the study of vertebrates*
+75,9211,*On a new representation of a giant rhinoceros from the Oligocene of Asia; Indricotherium asiaticum n. gen., n. sp.*
+75,9212,*On the subfamily Indricotheriinae Boris.=Baluchitheriinae Osb.*
+75,9213,*On a new direction in the adaptive radiation of mastodons*
+75,9216,*Paleontology and Darwinism*
+75,9217,*Inaugural address at the Paleontological section of the Moscow Society of Naturalists*
+75,9218,*The main tasks in the evolutionary paleontology*
+75,9219,*The problem of the phylogeny in paleontology*
+75,9220,*The main problems in the evolutionary paleontology*
+75,9221,*G. Cuvier and his scientific significance*
+75,9222,*Ch. Lyell and theory of development*
+75,9223,*Charles Darwin and geological records*
+75,9224,*Kovalevskiy, V. O., his life and scientific works*
+75,9225,*Karpinskiy, Aleksandr Petrovich.*
+75,9226,*Geology and paleontology*
+75,9228,*Take care with the finds of fossil bones!*
+75,9229,*Russian hunters for fossils*
+75,9452,*Problems of the history of fossil man; VIIIth Congress of INQUA, held in France*
+75,9456,*Some bone-bearing sediments of the late Cenozoic in northeastern France*
+75,9457,*Geological excursion to Alsace and Burgundy*
+75,9675,*Evolution and biocenosis of terrestrial tetrapods according to their tracks in the Triassic*
+75,9680,*Problems of Triassic stratigraphy and parallelism of the germanic and tethyan Triassic*
+75,9780,*The dragon's archetype*
+75,9781,*The dinosaurs*
+75,9782,*The dinosaurs in Africa*
+75,9783,*The Italian paleontological studies in Niger*
+75,9784,*The Gadoufaoua deposits, Africa*
+75,10679,*The problem of climatic oscillations in the Pleistocene of Cuba*
+75,12411,*New important discoveries in the Buca dei Ladri, Italy*
+75,13740,*The problems of the Pliocene-Quaternary boundary in the Rhone Basin*
+75,13741,*Stratigraphy, paleopedology and paleogeography of the Languedoc Pliocene-Pleistocene deposits*
+75,13743,*The rodents of Languedoc and Spain and their relationships with the fauna and the climate of Europe, from the "Astian" to the middle Pleistocene*
+75,13744,*The application of geodynamics to the Plio-Pleistocene of the Central Massif*
+75,13745,*The stratigraphy and paleoclimatology of the middle Pleistocene; Mindel and Mindel-Riss*
+75,13746,*The principal French paleontological localities of the middle Pleistocene; classification*
+75,13747,*Climatic chronology of the Riss rodent fauna in France*
+75,21729,*The Colville sedimentary basin*
+75,21738,*The Southern Region*
+75,21749,*The East-Asian region of continental sedimentation*
+75,21758,*The East-Asian region of continental sedimentation; Mongolian Province*
+75,21760,*The Bokhay Province*
+75,21774,*The East-Gobi Province*
+75,21787,*The East-Asian Region; The Far East*
+75,21788,*The Greater Khingan region and the Sungari River Basin*
+75,21791,*The Japanese Islands*
+75,22459,*The Styrian Neogene basin*
+75,22460,*The Drachen Cave at Mixnitz*
+75,23820,*The northwestern region of the Russian Platform; the Glavnoye Devonian field; western part (Baltic region)*
+75,23821,*The eastern part of the Glavnoye Devonian field*
+75,23822,*The northern areas of the Russian Platform*
+75,23824,*The central provinces of the Russian Platform*
+75,23826,*The Timan-Pechora Province*
+75,23827,*The southwestern areas of the Russian Platform; the Lvov Basin, Volyn and Podolia*
+75,23828,*The Pripet Trough*
+75,23876,*The western part of northeastern Kazakhstan*
+75,23884,*Intermontane troughs of the Altai-Sayan fold province*
+75,23885,*The Siberian Platform*
+75,23886,*The Taymyr geosynclinal province; Taymyr*
+75,23895,*History of the evolution of fauna and flora, biogeographic provinces; general characterization of fauna and flora*
+75,23910,*Vertebrates; fishes and jawless vertebrates*
+75,25314,*Characterization of fauna occurring in clayey rocks*
+75,26702,*The significance of finding a skull of Mesoplodon grayi (Cetacea, Odontata) in Monte Hermoso, Buenos Aires*
+75,26703,*Present knowledge on the age of the mammalian continental Cenozoic sediments bordering the Sierras Australes of Buenos Aires*
+76,7025,*Evolution and distribution of the fossil genus Eolates and its affinities with the present genus Lates*
+76,7026,*Revision of the fossil genus Cyclopoma and its affinities with the present genus Percalates*
+76,7030,*Paleontologic study of Acropoma lepidotus*
+76,7031,*The Holocentridae of Bolca; I, Eoholocentrum, n. gen., Eoholocentrum macrocephalum*
+76,7032,*The family Zanclidae*
+76,7033,*The Eocene selacians of Bolca; I, Carcharhinidae*
+76,7037,*The Holocentridae of Bolca; II, Tenuicentrum pattersoni, new data which favors a monophyletic origin for the Bericiformi*
+76,7278,*Evolution of rodents (Rodentia, Mammalia) at the boundary of the Oligocene and Miocene and during the Miocene*
+76,7825,*The first appearance of Hipparion in the intra- and Pre-carpathian area of the Paratethys*
+76,7828,*Listing and characteristics of the holostratotypes of facies and boundary stratotypes of the Sarmatian*
+76,7829,*Stratotypes of the Sarmatian stage M (sub 5a-c(d)) in the eastern Alpine - intra-Carpathian region*
+76,7830,*Stratotypes of the Sarmatian sensu stricto from Vortiefe der Karpaten in Poland and Romania*
+76,7838,*The fish fauna of the Sarmatian sensu stricto*
+76,11590,*The characteristics of the holostratotype and faciostratotypes, including "boundary" and "unit-stratotypes"*
+76,11594,*The holostratotype and faciostratotypes; D, Faciostratotypes of the Puchkirchen Group*
+76,11602,*The vertebrates (excluding Pisces) of the Egerian in Austria*
+76,11603,*The fish fauna of the Egerian*
+76,19278,*The late Pleistocene*
+76,19280,*The southwestern part of the European USSR; the western Black Sea region*
+76,19282,*The eastern Black Sea region; the middle-upper Pliocene*
+76,19283,*The Pleistocene*
+76,19298,*Geochronologic calendars of Cenozoic Era; an archaeological calendar*
+76,24325,*New finds of Quaternary mammals in the Smorgon gravel-sand pit*
+76,34608,*The occurrence of the fish Characidae, which is characteristic of the European lower Eocene, in the lignitic formation of Sardinia*
+76,34621,*The continental formation of Capo Mannu, its Pliocene vertebrate fauna, and the question of the Messinian in Sardinia*
+76,44592,*Extraction of collagen from fossil bones for radiocarbon dating*
+77,951,*Pleistocene stratigraphy in central and southern Afars and Issas Territory*
+77,1701,*The collection of bony material for age dating by the fluorine method*
+77,3518,*A new genus of fishes of the family Palaeoesocidae from the lower Paleogene of the Ukraine*
+77,4953,*The lower/middle Devonian boundary deposits of the Baltic region*
+77,4956,*The structure and ichthyofauna of the Ketleri Suite of Latvia*
+77,15537,*New data on Devonian Acanthodii of the central Baltic region*
+77,15538,*The osteolepid Crossopterygii of the Ketleri Suite of Latvia*
+78,1702,*New data on Buginbaatar (Mammalia, Multituberculata) from Mongolia*
+78,1704,*Primitive form of Brontotheriidae from the Eocene deposits of Mongolia*
+78,1705,*Review of early Tertiary Tapiroidea of Mongolia and the USSR*
+78,1706,*Geographic and stratigraphic distribution of Sinotherium; Mammalia, Rhinocerotidae*
+78,1707,*The remnants of Muntyacus (Dicrocerus, Ruminantia) in Dariganga and some remarks on the age of the Tun-Gur fauna from Inner Mongolia, China*
+78,1708,*Palaeotragus from the Neogene of Asia and Mongolia*
+78,1709,*Fossil antelopes from West Mongolia and certain regions of Central Asia*
+78,1710,*Champsosauridae from the Lower Cretaceous of Mongolia*
+78,1711,*New turtles of the group Basilemys (Chelonia, Dermatemydidae) in Asia*
+78,1712,*New data on the giant turtle Ergilemys insolitus from the lower Oligocene of Mongolia*
+78,1713,*Miocene turtle from western Mongolia*
+78,1723,*Buylyasutuin-Khuduk, a new location of Early Cretaceous dinosaurs*
+78,1724,*New data on Late Cretaceous turtles from South Mongolia*
+78,1725,*Stratigraphy and taphonomy of the upper Paleocene Naran-Bulak occurrence of land vertebrates, South Gobi, Mongolia*
+78,1726,*Paleogene and Neogene stratigraphy in the Valley of Lakes; the problem of separating stratotypical Neogene and Paleogene regions in Central Asia*
+78,18225,*Elements of the anthropogenic Tiraspol and Khaprov faunal complexes in Kamen-on-the-Ob, West Siberia*
+78,18441,*Two aspects of human evolution*
+78,18442,*Geology, climate and the evolution of man*
+78,18445,*The late Cenozoic history of Kazakhstan*
+78,18448,*Climatic fluctuations and detailed stratigraphy of the upper Pliocene-lower Pleistocene deposits of southern USSR*
+78,25304,*Cross-section through Recent sediments in Central Yakutia, Mount Mamontova*
+78,25312,*Periglacial formations of the Pleistocene in the northern part of East Asia*
+78,25313,*Periglacial fauna of the Pleistocene*
+78,25315,*Chronology of climatic variations during the Pleistocene in West Siberia*
+78,25641,*Conditions of the origin of the first Tetrapoda and the problem of their ancestors*
+78,25642,*The paleoecological conditions of the formation of Amphiaspida faunas in Siberia*
+78,30714,*The Bering land bridge mammals in the Paleogene*
+78,30715,*Common elements among the Neogene Mammalian faunas of North America, Asia and eastern Europe*
+78,30716,*The role of the Bering Sea region in the development of the Holarctic Mammalian fauna of the upper Cenozoic*
+78,30717,*Role of the Bering land bridge in the distribution of esocoid fishes*
+78,30718,*Migrations of proboscideans and lagomorphs (Mammalia) via the Bering Strait land bridge in the upper Cenozoic*
+78,30719,*Transberingian carnivore populations in the Pleistocene*
+78,30720,*Southern boundary of the upper Pleistocene Eurosiberian faunal complex in East Asia*
+78,30721,*Some new data on the faunal exchange via the Bering land bridge*
+78,30722,*Early evolutionary stages of collared lemmings (Dicrostonychini, Microtinae, Rodentia) as characteristic representatives of the subarctic fauna of the Bering Sea region*
+78,30723,*The history of collared lemmings in the Pleistocene*
+78,30724,*Environmental influences on body size, social organs, population size and extinction of mammals in the Bering Sea region*
+78,30725,*Evolutionary relationships of some mammals in the Bering Sea region*
+78,30726,*Genetic aspects of the Transberingian connections of Holarctic mammals*
+78,30727,*An ecological and zoogeographical analysis of animal migration across the Bering land bridge during the Quaternary period*
+78,30728,*Basic elements of mountain faunas in northeastern Siberia and northwestern America; the main stages of formation based on biogeographic evidence*
+78,30729,*The distribution of helminths during mammal migration via the Bering land bridge, based on data from Mustelidae*
+78,30730,*Systematic relationships of some old and new world land mammals in connection with the Bering land bridge problem*
+78,36087,*New data on malacologic microfauna and on the continental Pleistocene rodents of the Lower Seine Valley*
+78,36090,*The Paleolithic deposits of Le Havre region*
+78,38798,*Mammals and the Eocene-Oligocene boundary problem in Europe*
+78,38799,*Paleogene mammals of the Zaisan Basin, central Kazakhstan*
+78,38802,*State of the research on the Montian mammalia faunal of Hainin, Belgium*
+78,38807,*The Paleogene holarctic Didelphida; history and evolution*
+78,38809,*The oldest Talpidae*
+78,38812,*The origin of the Rodentia*
+78,38815,*Evolution of the genus Robiacina and origin of the Cainotheriidae; systematic implications*
+78,38816,*Descripton of the first skull of Prodremotherium, primitive ruminant of the Eurasiatic Oligocene*
+78,44754,*The activity of the Committee for the Centennial celebration of the opening of Farneto Cave*
+78,44755,*The safeguarding and improvement of Farneto Cave by the Bologna Speleological Union from 1962 to the present*
+78,44757,*Archaeological documentation of Farneto Cave in the framework of regional prehistory*
+78,44758,*Osteological report on the Farneto station and its anthropologic interest*
+78,44762,*Cavern fauna of the Farneto Cave 7E with particular reference to the fauna from the Bologna chalk*
+78,44766,*The ultimate paleontological discoveries from the Re Tiberio Cave*
+78,44773,*Note on some human skeleton remains found in the Re Tiberio Cave (36 E/RA), Riolo Terme, Ravenna*
+78,48392,*Some definitions of Gondwana*
+78,48393,*Antarctica and Gondwana or synthesis of seven years of geologic research in Antarctica in relation to the Madison symposium, August, 1977*
+78,48400,*Morocco and Gondwana*
+78,48402,*Niger and Gondwana*
+78,48403,*Therapsid reptiles in continental Triassic stratigraphy; the Stormberg fauna in Africa and their global equivalents*
+78,48404,*Discovery of an ichthyofauna in the Upper Carboniferous of Uruguay; relationships with the contemporary ichthyologic fauna from other Gondwana regions*
+78,48405,*Recent data on the geology of Gondwana; recapitulation of pre-Jurassic Gondwanian affinities of Malagasy Republic; fishes, amphibians, reptiles*
+78,48406,*New thelodont material (Agnatha) from Iran and Thailand; report on the geographic and stratigraphic distribution of Agnatha in the middle Paleozoic of the Gondwana regions*
+78,48407,*Devonian vertebrates from two new Middle East deposits; the problem of intercontinental relationships of the middle Paleozoic according to the paleobiogeography of rhipidistian osteolepiformes and the first tetrapods*
+79,1729,*Zoned characteristics of the impact of man and his economic activities on fauna*
+79,1732,*The geology of the open-air stone-age habitation sites in Middle Asia*
+79,2408,*Amphibian and reptilian remains from the Pleistocene of Taubach*
+79,2409,*Fossil bird remains from the travertines of Taubach*
+79,2410,*Fossil birds egg shells from the Pleistocene of Taubach*
+79,2411,*Fossil bison remains of Taubach and their place in the history of the evolution of the genus Bison in Europe*
+79,2412,*Cervidae remains from the travertines of Taubach*
+79,2413,*Sus scrofa from the upper Pleistocene of Taubach near Weimar in Thuringia*
+79,2414,*Equidae remains from the travertines of Taubach*
+79,2415,*Elephant molars from Taubach near Weimar*
+79,2416,*Rhinocerotidae remains from the travertines of Taubach*
+79,2417,*Bear and hyena remains from the Pleistocene of Taubach*
+79,2418,*Carnivora remains (with the exception of the hyenas and bears) from the upper Pleistocene travertines of Taubach near Weimar*
+79,2419,*Castor remains from the travertines of Taubach near Weimar*
+79,2420,*Insectivora and Rodentia from the travertines of Taubach near Weimar*
+79,2452,*The first find of Hyopsodus (Mammalia, Condylarthra) in Mongolia*
+79,2453,*The find-locality of Ergilin-Dzo; the stratotype for the lower Oligocene in southwestern Mongolia*
+79,2454,*Kinesis and specializations in the structure of the jaw apparatus among the Oviraptoridae, Theropoda, Saurischia*
+79,2455,*The evolution of carnivorous dinosaurs*
+79,2456,*The shell and extremities of Basilemys orientalis (Chelonia, Dermatemydidae); the morphology and evolution of the genus*
+79,2461,*A new find-locality of Mesozoic limnic fauna in the vicinity of Bon-Tsagan-Nur Lake; central Mongolia*
+79,10459,*Ampurdan*
+79,11858,*A new genus and two new species of fossil giant sloths of the family Megalonychidae (Edentata, Mammalia) from the Pleistocene of Cuba*
+79,11861,*A varanoid lacertilian (Reptilia, Squamata) from a lower Tertiary fissure filling in Dielsdorf, Zurich*
+79,15461,*The Research Group on Human Paleontology; activities*
+79,15970,*Recent development and role of ichnology in Triassic stratigraphy*
+79,23470,*The multilayered Paleolithic site of Korman' IV and its place in the Paleolithic*
+79,23474,*The vertebrate fauna from the Korman' IV site*
+79,23476,*The geology and paleogeography of the Korman' IV site against the general background of the geological history of the Stone Age in the region of the middle course of the Dniester*
+79,24177,*Tertiary-Quaternary and Pliocene-Pleistocene boundaries in France*
+79,24184,*The remarkable events of the Pliocene-Pleistocene history of the field mouse (Arvicolidae, Rodentia) in the Northern Hemisphere; correlation with the Pliocene-Pleistocene boundary in the Italian marine deposits*
+79,24185,*Pliocene and lowermost Pleistocene in Germany; the Neogene/Quaternary boundary*
+79,24191,*The Villafranchian of North Africa*
+79,28356,*Genesis of karstic caverns on the basis of their fossils*
+79,28882,*The anatomy and special systematic position of Cosesaurus aviceps from the upper Ladinian of Montral, Catalonia*
+79,28888,*Paleontology and paleoecology of the fossiliferous beds of the upper Muschelkalk between Alcover and Mont-Ral, Prades Mountains, Tarragona*
+79,31612,*Palaeoxyris and other egg cases of cartilaginous fishes, Chondrichthyes*
+79,31613,*Hydromedusae (Coelenterata) and medusoid Problematica from the Rotliegendes of Central Europe*
+79,31618,*Contributions to Permian stratigraphy; Part III (1), Correlation of the predominantly continental deposits of the Upper Carboniferous and Permian of Central and Western Europe*
+79,33967,*Geodynamic evolution of the Tertiary intermontane basins of Central Afghanistan; Bamyan, Yakwalang, Ghorband Valley*
+79,33980,*The Devonian fishes of Central Iran and Afghanistan*
+79,33983,*The recent discovery of Cretaceous and Jurassic dinosaurs in Africa, the Near East, the Middle East and India*
+79,37187,*Considerations on the geological evolution of northern part of the State of Sonora*
+79,39329,*Evidence for fluviomarine deposits within the lower Somme alluvial aquifers*
+79,39336,*The Paleolithic of northern France; Nord and Pas-de-Calais*
+79,39340,*The rodents of Biache-Saint-Vaast, Pas-de-Calais, and their stratigraphic and climatic implications*
+79,39341,*Excavations of the Paleolithic Biache-Saint-Vaast deposit, Pas-de-Calais, 1976 and 1977; first results*
+79,39343,*The Pleistocene macrofauna from the Paleolithic site of Biache-Saint-Vaast, Pas-de-Calais*
+79,39344,*Preliminary study of the human cranium from the Paleolithic site of Biache-Saint-Vaast, Pas-de-Calais*
+79,39345,*Weichselian and middle Paleolithic of Seclin, Melantois, northern France; preliminary note*
+80,943,*Pre-Wurm bird fossils from Torre in Pietra*
+80,1964,*The fissure and its filling*
+80,1965,*Amphibia, preliminary study*
+80,1966,*Chelonia*
+80,1967,*Crocodilia*
+80,1968,*Squamata*
+80,1969,*Birds*
+80,1970,*Insectivora and Chiroptera*
+80,1971,*Insectivora and Chiroptera*
+80,1972,*Primates and Artiodactyla*
+80,1973,*Palaeotheriidae, Perissodactyla*
+80,1974,*Creodonta*
+80,1975,*Fissipedia, Carnivora*
+80,1976,*Rodentia*
+80,1977,*General conclusions*
+80,1982,*The geological-paleontological investigation of the Burgtonna travertine deposits*
+80,1988,*The ostracod fauna from the Eemian interglacial travertine of Burgtonna in Thuringia*
+80,1990,*Reptile remains from the late Pleistocene travertine of Burgtonna in Thuringia*
+80,1991,*Evidence of Anas platyrhynchos (Anatidae, Aves) from the travertine of Burgtonna in Thuringia*
+80,1992,*The bison remains from the travertines of Burgtonna in Thuringia*
+80,1993,*The cervid remains from the travertines of Burgtonna in Thuringia*
+80,1994,*The wild boar (Sus scrofa L.) from the late Pleistocene of Burgtonna in Thuringia*
+80,1995,*The rhinocerotid remains from the travertines of Burgtonna in Thuringia*
+80,1996,*The fossil equid remains from the travertines of Burgtonna in Thuringia*
+80,1997,*The elephant molars from the travertines of Burgtonna in Thuringia*
+80,1998,*Bear and hyaena remains from the Pleistocene of Burgtonna in Thuringia*
+80,1999,*The felid and canid remains from the upper Pleistocene travertines of Burgtonna in Thuringia*
+80,2000,*The beaver (Castor fiber L.) from the Pleistocene of Burgtonna in Thuringia*
+80,2001,*Insectivores and rodents from the travertine of Burgtonna in Thuringia*
+80,2002,*Summary review of the stratigraphic position of the travertine deposits of Burgtonna in Thuringia*
+80,2003,*The Paleolithic finds in the travertine of Burgtonna in Thuringia*
+80,2004,*The problem of a bone find from the travertine of Burgtonna in Thuringia*
+80,2005,*On the history of discoveries and research of the vertebrate localities in the late Pleistocene cover layer sequence above the travertine of Burgtonna in Thuringia*
+80,2006,*The stratigraphical subdivision of a fossiliferous upper Pleistocene profile of the covering layers above the interglacial travertine at Burgtonna in Thuringia*
+80,2009,*Amphibian and reptilian remains from the late Pleistocene cover layer sequence of the Burgtonna travertine in Thuringia*
+80,2010,*Fossil bird remains from the late Pleistocene cover layer sequence above the travertine of Burgtonna in Thuringia*
+80,2011,*Fossil mammal remains from a late Pleistocene cover layer sequence above the interglacial travertine of Burgtonna in Thuringia*
+80,2012,*Biometric studies on fossil micromammals from a late Pleistocene cover layer sequence above the interglacial travertine of Burgtonna in Thuringia*
+80,2013,*Summary stratigraphic and paleoecological interpretation of the fossil occurrences in the investigated late Pleistocene cover layer sequence above the travertine of Burgtonna in Thuringia*
+80,2712,*The biostratigraphical subdivision of the Autunian (Lower Permian) in the central Thuringian Forest*
+80,2713,*The position of the Autunian-Saxonian boundary (Lower Permian) in Europe and North America*
+80,2903,*The effects of continental glaciations on the microvertebrate fauna in the periglacial zone*
+80,2904,*Macromammalian stratigraphy in the area of the Scandinavian glaciations*
+80,3082,*Paleontology and age of the Tinacoa Formation, Sierra de Perija, Zulia, Venezuela*
+80,3088,*Paleoecology and paleoenvironment of the Quevedo Member (Navay Formation) in the vicinity of Santa Barbara, Barinas*
+80,4262,*The scientific conference on "the Krapina pre-man and the evolution of the hominids"*
+80,4263,*Dragutin Gorjanovic-Kramberger and the discovery of the Krapina pre-man*
+80,4264,*Dragutin Gorjanovic-Kramberger as an anthropologist*
+80,4265,*The stratigraphical, paleofaunal and paleolithic relationships of the Krapina find-locality*
+80,4268,*Some features of the teeth and of their use among the Krapina Neanderthals*
+80,4270,*Contribution of the Krapina Neanderthals to the knowledge of the temporal region and especially of the tympanic region*
+80,4271,*The development of the idea on the origin of man*
+80,4275,*Cannibalism and cadaver dismemberment among the Krapina Neanderthals*
+80,4276,*Paleoclimatological and paleoecological relationships during the upper Pleistocene in transmontane Croatia*
+80,4277,*Neanderthal and neanderthaloid populations in Croatia*
+80,4304,*Introduction*
+80,4305,*The fish of the Carboniferous*
+80,4306,*The phylogenetic connections between the amphiaspids, the cyathaspids and the cardipeltids; Heterostraci*
+80,4307,*The fish of the Central Devonian Field*
+80,4308,*The systematic position of the antiarchs from central Kazakhstan*
+80,4309,*New data on Asterolepis ornata from the early Frasnian deposits of the Baltic region*
+80,4310,*The structure of the pectoral girdle in early ptyctodonts*
+80,4311,*The structure and the systematic position of the scales of Polymerolepis whitei*
+80,4312,*The phylogenetic connections of the osteolepiform Crossopterygii and their systematic position*
+80,4313,*Rhizodont crossopterygian fish (fam. Rhizodontidae) from middle Paleozoic deposits of the Asiatic part of the USSR*
+80,4314,*The systematics and phylogeny of the Order Palaeonisciformes*
+80,4315,*The phylogenesis of the Acipenseriformes*
+80,4321,*The paleontological characteristics of the material from the site of Timonovka II*
+80,4322,*The cultural layer and the flint industry of the sites*
+80,4324,*The geoecology of the Timonovka sites*
+80,4919,*Stratigraphic separation of Devonian deposits of the Spitsbergen region*
+80,4920,*New data on the stratigraphy of Devonian deposits of the northern coast of Hornsund, Spitsbergen*
+80,6360,*The Metazoic stage in the evolution of the organic world*
+80,6361,*The relationship between the evolution of flora and fauna during the transition from the Paleozoic to the Mesozoic*
+80,6367,*The lower boundary of the Quaternary (Anthropogene) system in structural-facies zones of the West Siberian Lowland*
+80,12922,*Panthera spelaea (Goldfuss) from the Bear Cave at Kletno*
+80,13492,*Results of the Vertebrata Group*
+80,13536,*New rodent localities in the Miocene marine formations of the Mediterranean Languedoc*
+80,13537,*Micromammals and biostratigraphy of Aquitanian horizons of Aquitaine*
+80,13538,*General characteristics of the microevolution of the genus Stephanomys; Rodentia, Muridae*
+80,13539,*Cladism and paleontology; application to the phylogeny of the European Ochotonidae; Lagomorpha, Mammalia*
+80,13540,*New data on the evolution of the fossil Corso-Sardinian endemic rodent Rhagamys; Mammalia, Rodentia*
+80,13541,*Miocene Cricetodontini (Rodentia, Mammalia) of Turkey; evolution and biostratigraphy*
+80,13828,*Vertebrates*
+80,16421,*Introduction*
+80,16422,*Location and description of the cave*
+80,16423,*Description of the figures*
+80,16424,*Analysis and interpretation of Ekain*
+80,16498,*The Epipaleolithic (Mesolithic) faunal assemblage from Smolin*
+80,16997,*Ichnofossils from the Lower Carboniferous sediments in the Moscow Syneclise and their use in stratigraphy*
+80,19383,*The first discovery of the genus Coryphodon (Mammalia, Pantodonta) in the Paleogene of Mongolia*
+80,19384,*New mesonychids (Condylarthra, Mesonychidae) from the Paleogene of Mongolia*
+80,19385,*Tetralophodon sinensis and Anancus sinensis from the Neogene of western Mongolia*
+80,19386,*Epimanteoceras amplus sp. nov. (Mammalia, Perissodactyla, Brontotheriidae) from Mongolia*
+80,19387,*New data on the Entelodontidae (Artiodactyla, Suiformes) from the Oligocene of Mongolia*
+80,19388,*New data on the Pliocene birds from West Mongolia*
+80,19389,*The evolution and systematics of late Mesozoic carnivorous dinosaurs*
+80,19390,*New data on Therizinosaurus; Therizinosauridae, Theropoda*
+80,19391,*A new Late Cretaceous carnosaur from Nogon-Tsav, Mongolia*
+80,19392,*The first discovery of an alligator (Crocodilia) in the early Paleogene of Mongolia*
+80,19393,*Paleocene turtles from Mongolia*
+80,19394,*The first find of Paleozoic fish in Mongolia*
+80,19398,*Ostracods from the Upper Cretaceous Barun-Goyot Formation in the Trans-Altay Gobi, Mongolia*
+80,19403,*A new find-locality of early Tertiary mammals in the Trans-Altai Gobi, Mongolia*
+80,19404,*Revision of the geological structure and new data concerning the fauna of the Gashato find-locality, Paleocene, Mongolia*
+80,19406,*The conditions of burial of the Early Cretaceous fauna and flora at the find-localities of Buylyasutuin-Khuduk and Anda-Khuduk, Valley-of-the-Lakes Depression, Mongolia*
+80,21158,*Foreword*
+80,21159,*Stratigraphy of the archaeological site of Melka-Kunture, Ethiopia*
+80,21160,*Survey of Plio-Pleistocene formations in the lower Omo Valley, Ethiopia*
+80,21161,*Magnetostratigraphy of Pleistocene deposits of Melka-Kunture, Ethiopia; first data*
+80,21162,*Pliocene sedimentation and rift paleoenvironments; example of the hominid-bearing formation of Hadar, Afar, Ethiopia*
+80,21163,*The upper Miocene of the southern Afar Depression, Ethiopia; sediments, fauna, isotope ages*
+80,21164,*Pliocene-Quaternary morphoclimatic evolution of the lower Omo Valley, Ethiopia*
+80,21165,*Proboscideans (Mammalia) from the East African Miocene; preliminary results*
+80,21166,*Recent data on the evolution of proboscideans during the Plio-Pleistocene in East Africa*
+80,21167,*Chalicotheriidae and Rhinocerotidae (Mammalia, Perissodactyla) from the Miocene to the Pleistocene of the Rift Valley, East Africa; an example of evolution; postcranial skeleton of the Plio-Pleistocene Diceros and Ceratotherium*
+80,21168,*Diversification and affinities of the Pliocene Carnivora from the Omo Group and the Hadar Formation, Ethiopia*
+80,21169,*The genus Hipparion (Mammalia, Perissodactyla) and its biostratigraphical importance in Africa*
+80,21170,*Miocene bovids from the East African rift valley; paleobiogeographical implications*
+80,21171,*The rodent and lagomorph faunas from the Pliocene and Pleistocene of East Africa*
+80,21172,*Fossil rodents from the Hadar Formation and their paleoecological interest*
+80,21173,*Pliocene and Pleistocene hominids from the Rift Valley*
+80,21174,*Presence of the crocodilian Euthecodon in the lower Miocene of Ombo, Gulf of Kavirondo, Kenya*
+80,21175,*Chelonians from the East African Miocene and Plio-Pleistocene*
+80,21176,*Snakes from the Rift Valley; a general survey*
+80,21177,*Palynological studies and paleoclimatic reconstructions of the Cenozoic in the East African Rift Valley*
+80,21825,*Bone diagenesis as a dating aid*
+80,21840,*Upper Pleistocene climatic and environmental development in the Ach Valley near Blaubeuren, Swabian Alb*
+80,22862,*The state of knowledge of the Neogene stratigraphy of West Siberia*
+80,22863,*Stratigraphic schemes of Paleogene and Neogene deposits of the southern regions of the West Siberian Lowland*
+80,28635,*Origin and phylogeny of bony fishes*
+80,28651,*The lower boundary of the Eifelian deposits in the Grand Lakes Depression*
+80,28658,*Forword*
+80,28659,*Wurttemberg; classical land of the saurians*
+80,29145,*The skull of Bone Bank (Indiana) and the fossils of Walnut Hills, by Charles-Alexandre Lesueur, 1778-1846*
+80,29442,*Elephant assemblages of Byelorussia*
+80,29741,*The microvertebrates*
+80,29873,*Excavations of Kulna Cave in the Moravian karst, and their significance for the study of the Czechoslovakian Paleolithic*
+80,29877,*Lithostratigraphical depositional formations of the archaeological camp-sites in the caves of the Polish Jura*
+80,29881,*The worked bone from the Timonovka habitation site*
+80,29883,*The vanished wooden artifacts from the second burial at Sungir'*
+80,29887,*A small semi-subterranean hut at the Paleolithic habitation site of Pavlov in Czechoslovakia*
+80,29890,*Utilization analysis of the lithic and ossic assemblage from the upper Paleolithic habitation site of Muralovka*
+80,29892,*Some results from the investigation of many years duration of the Paleolithic and the Mesolithic of Cis-Carpathia*
+80,30547,*Turtles of the genus Adocus from the Late Cretaceous of the USSR*
+80,30548,*Skull structure of an Early Cretaceous turtle from the family of the Adocidae*
+80,30550,*Suborder Sciuromorpha*
+80,30572,*Fossil vertebrates from the Tsutskhvati Caves*
+80,30576,*A unique ceremonial cave*
+80,34396,*The marine and oligohaline Plio-Pliocene in Greece; stratigraphy and paleogeography*
+80,34941,*The Insectivora and Chiroptera of the middle Paleogene of Europe in the history of the mammal fauna on that continent*
+80,38673,*The Badenian formational sequence formational sequence in the Molasse Zone, the Vienna Basin and the eastern margin of the Alps; the Styrian Basin*
+80,38690,*Content and character of the Badenian holostratotype and the faciostratotypes*
+80,38691,*The holostratotype of the Badenian; Baden-Soos*
+80,38697,*Badenian faciostratotypes; 3, Zidlochovice*
+80,38698,*Badenian faciostratotypes; 4, Borac*
+80,38702,*Badenian faciostratotypes; 8, Devinska Nova Ves-Sandberg near Bratislava*
+80,38720,*The Badenian fish fauna*
+80,38721,*Badenian Mammalia*
+80,40384,*Absolute dating and human remains on the Iberian Peninsula*
+80,40385,*Chronology of the Peninsular Paleolithic and Epipaleolithic*
+80,40387,*Absolute chronology and domestic fauna*
+80,40388,*Appendix; index of archaeological C-14 dates for Spain and Portugal*
+80,44789,*Extension of the thermoluminescence dating method to prehistory, oceanography and volcanology*
+80,48178,*The Triassic, 230-195 million years*
+80,48182,*The Devonian, 400-350 million years*
+80,48183,*The Carboniferous, 350-285 million years*
+80,48184,*The Permian, 285-230 million years*
+80,48185,*The Jurassic, 195-135 million years*
+80,48186,*The Cretaceous, 135-65 million years*
+80,48187,*The Tertiary, 65-1.8 million years*
+80,48188,*The Quaternary, 1.8 million years to Recent*
+80,54150,*The Berelekh mammoth "cemetery"*
+80,54151,*The description and metrics of the mammoth teeth from the Berelekh River*
+80,54152,*The results of the mensuration of mammoth long-bones from the Berelekh "cemetery"*
+80,54153,*The living conditions of the Berelekh population of mammoths*
+80,54154,*Engraving on a mammoth tusk from the Berelekh River*
+80,54155,*Coleopterological analysis of the geological sections of mammoth cemeteries in northern Yakutia*
+80,54156,*Mammalian remains from paleolithic habitation sites on the Don and on the Upper Desna*
+80,56821,*Stratigraphic subdivision of Neogene-Anthropogene deposits*
+80,56823,*History of primitive techniques and problems of the genesis of man*
+80,56825,*The Pliocene-Pleistocene boundary; its position and taxonomic rank*
+80,57477,*The Ischigualasto Triassic basin; Villa Union; La Rioja and San Juan*
+80,57480,*The Triassic of the Rio de los Patos Valley, San Juan*
+80,57605,*The Quaternary, an interdisciplinary science*
+80,57635,*Teeth of selachians from the Lower Cretaceous of northwestern Germany*
+80,58819,*Stratigraphic framework of Antofagasta, Chile*
+80,58833,*Biostratigraphy of some Pleistocene sections from northeastern Venezuela*
+81,6853,*Fossils and the science of paleontology*
+81,6854,*Fossils; excavation, preparation, exhibition*
+81,6855,*The Carboniferous*
+81,6856,*Trails of older tetrapods*
+81,6857,*The Permian*
+81,6858,*The tridentinosaur*
+81,6859,*Tetrapods and fishes of the Val Gardena*
+81,6860,*The Triassic*
+81,6861,*The fossil deposit of Besano, Varese*
+81,6862,*The fossil deposit of Perledo, Como*
+81,6863,*Tracks of tetrapods of the Monti Pisani*
+81,6864,*Fauna of the Bergamo Prealps*
+81,6865,*The Jurassic*
+81,6866,*The fish of the Toarcian of Monte Albenza, Bergamo*
+81,6867,*The "ichthyosaur" of Genga, Ancona*
+81,6868,*The crocodile of Portomaggiore, Ferrara*
+81,6869,*The Cretaceous*
+81,6870,*The ichthyofauna of Castellammare di Stabia, Naples*
+81,6871,*The ichthyofauna of Pietraroia, Benevento*
+81,6872,*The fossil locality of Comen, Carso*
+81,6873,*The fossil locality of Cinto Euganco, Padua*
+81,6874,*The fossil locality of S. Anna d'Alfaedo*
+81,6875,*The fossil deposit of Salento, Lecce*
+81,6876,*The crocodile of Modena*
+81,6877,*The Paleocene*
+81,6878,*The fossil locality of Spilecco, Verona*
+81,6879,*The Eocene*
+81,6880,*The Perissodactyla of the Eocene of Sardinia*
+81,6881,*The locality of Purga di Bolca, Verona*
+81,6882,*The fossil deposit of Bolca, Verona*
+81,6883,*The fossil locality of Avesa, Verona*
+81,6884,*The fossil locality of Monte Duello, Verona*
+81,6885,*The Oligocene*
+81,6886,*The fossil deposit of Monteviale, Vicenza*
+81,6887,*The fossil deposit of Cadibona, Savona*
+81,6888,*The fossil locality of Chiavon, Vicenza*
+81,6889,*The Miocene*
+81,6890,*The vertebrates of the Bellunese Molasse*
+81,6891,*The fauna of Visiano, Parma*
+81,6892,*Fishes of the upper Miocene*
+81,6893,*Fossiliferous localities of the continental Miocene*
+81,6894,*The Pliocene and Pleistocene*
+81,6895,*Fishes of the localities of Vrica, Catania, and of Taranto, Apulia*
+81,6896,*Amphibia and Reptilia of the Plio-Pleistocene*
+81,6897,*The whales of Piedmont*
+81,6898,*Land mammals of the Pliocene*
+81,6899,*Mammals of the lower Pleistocene*
+81,6900,*Mammals of the middle Pleistocene*
+81,6901,*The site "La Pineta" of Isernia*
+81,6902,*Fauna of large mammals in the upper Pleistocene*
+81,6903,*The mammals of the Quaternary alluvium of Pavia*
+81,6904,*The fauna of Maglie, Lecce*
+81,6905,*Mammals of the Plio-Pleistocene of the islands*
+81,6906,*Micromammals of the Plio-Pleistocene*
+81,6907,*Faunas of the Holocene*
+81,9186,*Contributions to the stratigraphy of the Permian; Part III (2), Deposits of the uppermost Carboniferous and Permian of central Western Europe*
+81,9701,*The relationship between Mesoamerican geomorphology and the modern distribution of fish*
+81,14360,*Pisces*
+81,15640,*Paleontology and cave features*
+81,15641,*Karst region of Hainburg Mountain*
+81,15643,*Early history and cave research*
+81,15644,*The significance of caves in the development of man*
+81,17296,*Recent progress in vertebrate paleontology*
+81,17300,*New data on the origin and evolution of man from recent discoveries*
+81,21838,*Evolution and paleobiogeography of the Mesozoic and Cenozoic Tethys*
+81,22564,*The Pleistocene vertebrate fauna of Romania*
+81,23150,*The fossil deposit in the Guimarota coal mine (Portugal) and the first find of a docodontid skeleton*
+81,27059,*The faunal assemblages and type sections for the continental Anthropogene and Pliocene in the southwest of the USSR*
+81,34827,*The form maxima rule of A.H. Mueller; Part 1*
+81,34926,*Contribution of Rene Jeannel to the reconstruction of the paleogeographic history of continental fauna*
+81,37134,*Teleostean otoliths from the Auversian pebble formation of Baron; Oise*
+81,37650,*Prologue*
+81,37651,*Some problems in the history of the formation of theriofaunas*
+81,37652,*The origin and history of the theriofauna of the Siberian Arctic*
+81,37653,*The history of the find of the corpse of the Selerikan horse and of its investigation*
+81,37654,*The geological features of the burial site of the corpse of the Selerikan horse*
+81,37655,*The absolute age of the Selerikan fossil horse*
+81,37656,*A geomorphological sketch of the Selerikan River basin, Yakutia*
+81,37657,*Taphonomic remarks*
+81,37658,*Description of parts of the corpse and skeletal remains of the Selerikan horse; character and degree of preservation of the tissues and organs*
+81,37659,*The dermal covering of the fossil horse from the Selerikan*
+81,37660,*The results of a bacteriological investigation of the Selerikan fossil horse*
+81,37661,*The vegetative remains contained in the gastro-intestinal tract of the fossil Selerikan horse, Yakutia*
+81,37662,*A carpological analysis of the vegetative remains of the food of the Selerikan fossil horse*
+81,37663,*The reconstruction of the flora and vegetation of the life time and of the time of the demise of the Selerikan fossil horse based on palynological data*
+81,37664,*Vascular plants of the region of the find of the fossil horse*
+81,37665,*The paleogeography of the late Pleistocene and the Holocene in the region of the Selerikan horse find*
+81,37666,*Preliminary results of the investigation of the vegetative remains from the gastro-intestinal tract of the Shandrin mammoth, Yakutia*
+81,37667,*A new find of a woolly rhinoceros skeleton in Yakutia*
+81,39311,*The preservation of fossils and traces of life from the fossil system of animal burrows at Pisede near Malchin*
+81,39312,*Possibilities and limits of biostratigraphical differentiation of fossil faunal remains from Quaternary animal burrow systems with a great time depth*
+81,39315,*Fish remains from the fossil system of animal burrows at Pisede near Malchin*
+81,39316,*The identification of the Quaternary anurans of Europe by means of skeletal elements*
+81,39317,*Pathological alterations on fossil bones of the extremities of anurans from the fossil animal burrow system at Pisede near Malchin*
+81,39318,*The reptiles from the fossil system of animal burrows at Pisede near Malchin; Part I, Analysis of the finds*
+81,39319,*The reptiles from the fossil system of animal burrows at Pisede near Malchin; Part 2, Interpretations and problems*
+81,39320,*Investigations of the remains of birds from the fossil system of animal burrows at Pisede near Malchin; Part 1, Taxonomical and biometrical characterization of the finds*
+81,39321,*Investigations of the remains of birds from the fossil system of animal burrows at Pisede near Malchin; Part 2, Interpretations of the finds with regards to paleoecology and faunal development*
+81,39337,*Lower Cretaceous*
+81,39340,*Paleocene*
+81,39342,*Middle Eocene*
+81,39343,*Upper Eocene*
+81,39344,*Oligocene and basal Miocene*
+81,39345,*Miocene and Pliocene*
+81,41103,*The stratigraphy and fossil fish of the Kalargonskiy Horizon; Upper Devonian of the northwestern Siberian Platform*
+81,41108,*The Kochkovskiy regional horizon*
+81,41109,*New data on the Kochkovskiy Horizon of southeastern Kulunda*
+81,41110,*Mammals and the Kochkovskiy Horizon*
+81,41114,*The Pliocene of the northern region of central Kazakhstan*
+81,41117,*Age analogues of the Kochkovskiy Horizon of the southwestern Siberian Platform*
+81,41118,*Key beds and mammalian fauna of Eocene-Pleistocene deposits of the Baikal region*
+81,41119,*The stratigraphy of upper Pliocene and Quaternary deposits of the Baikal region*
+81,41120,*Problems of the Trans-Siberian paleomagnetic correlation of key beds and regional stratigraphy*
+81,45715,*Fuvelian*
+81,45716,*Begudian*
+81,45717,*Rognacian*
+81,45720,*Sparnacian*
+81,45721,*Cuisian*
+81,45722,*Lutetian*
+81,45724,*Auversian*
+81,45726,*Ludian*
+81,47965,*Archaeomyinae (Rodentia, Mammalia) from Oensingen and Mumliswil (upper Oligocene); implications from stratigraphic assignment of the two fossil localities*
+81,54187,*Small dinosaur footprints in the Upper Carboniferous of Sardinia*
+81,54188,*New contribution to the stratigraphy of the Val Gardena Sandstone*
+81,57365,*First day; The Coiron Plateau*
+81,57369,*Fifth day; Cantal Massif; western part and Puy Mary region*
+81,57847,*Lower Pleistocene cave deposits with fauna at Kozi Grzbiet, Holy Cross Mountains, central Poland; a geologic interpretation*
+81,57849,*Fossil karst with middle Pleistocene vertebrates at Draby near Dzialoszyn, central Poland*
+81,57852,*New data on fossil karst at Przeworno*
+81,59532,*Paleontology at Charles University*
+81,59533,*Evolution from the point of view of modern morphology*
+81,63401,*The ice age fauna based on finds in Warstein caves*
+81,64001,*The sub-Recent vertebrate fauna of the Grande Abrigo da Lapa Vermelha, Pedro Leopoldo, Minas Gerais*
+82,406,*Biogeographic history of crocodilians*
+82,475,*Paleogeographic development of the northernmost part of the Atlantic Ocean and its paleoclimatic role*
+82,957,*Sedimentological characteristics of Slanci Series from Belgrade Danube area*
+82,1638,*The scientist and teacher Ehrhard Voigt*
+82,1644,*A new representative of the Ursus deningeri group of the lower Quaternary vertebrate fauna of Erpfingen; Swabian Alb*
+82,4207,*I. A. Yefremov; the founder of taphonomy*
+82,4211,*Conditions for the occurrence of Cretaceous reptiles of Fergana and some taphonomic principles of the burial of their remains*
+82,4217,*The taphonomy of Dipnoi fish in the Triassic of the Russian Platform*
+82,4218,*The taphonomy of the basic burial of small mammals of the upper Cenozoic of eastern Kazakhstan*
+82,7879,*Faunas and paleobiogeography of Mesozoic tetrapods from South America*
+82,7920,*The littoral zone of the Maestrichtian transgression in northern Patagonia; ecological aspects*
+82,7924,*Paleoichthyological contributions to the study of paleotemperature evolution in the Austral region of South America during the Cenozoic; related zoogeographical and ecological aspects*
+82,7926,*New remains of Cardiatheriinae (Rodentia, Hydrochoeridae) from Argentina; paleoenvironmental implications; preliminary note*
+82,7927,*Climatic changes during the late Pleistocene-Recent in Buenos Aires Province; related ecological and zoogeographic aspects*
+82,7928,*Historical dynamics of the Brazilian fauna in Argentina*
+82,8962,*The Schistes de Porsguen Formation (Upper Devonian of Brest Roads, Armorican Massif); lithology, flora, fauna*
+82,10430,*Early Pleistocene microtheriofauna of the Don Basin, and its comparison with small mammals of the Dnieper region*
+82,10947,*Riss deposits in the valley of the Somme; the problem of the pre-Riss; the dating of the Acheulian and the Levalloisian*
+82,10950,*The Riss and the Riss-Wurm in southwestern France based on examples from the Perigord and the Adour Basin; I, Caves and rock-shelters of the Perigord*
+82,10952,*Riss and Riss-Wurm deposits of the Mediterranean region of the South of France*
+82,10953,*The Wurm loesses in the northern half of France*
+82,10954,*The early Wurm in southwestern France; I, Caves and rock-shelters of the Perigord*
+82,10956,*The early Wurm in the Mediterranean region of southern France based on the study of cave and rock-shelter deposits*
+82,12223,*The fauna from the Pataud Shelter*
+82,12229,*Anthropological study of the human remains from the Abri Pataud*
+82,12230,*Presentation of the teeth from the human remains at the Pataud Shelter*
+82,12355,*Appendix I; Preliminary note on the fauna of Bed F2 of Rond-du-Barry; 1970-1972 excavations*
+82,12356,*Appendix II; The microfauna of the 1971 field excavation*
+82,12357,*The type-site of Oued Djebbana at Bir-el-tter (eastern Algeria); contribution to the knowledge of its industry and fauna*
+82,12358,*A radius of whooper swan used and ornamented in the late Magdalenian of Rond-du-Barry*
+82,13044,*Phase extinction of mammals during the Pleistocene*
+82,13045,*Problem of origin and extinction of species from the viewpoint of the origin of life on Earth and human evolution*
+82,13336,*New research in Ethiopia*
+82,15902,*Ungulate lemmings from Pleistocene deposits on the Lay River*
+82,18837,*Periglacial action on the plateaus and slopes; 5, Clay mineralogy and paleoecology of the Quaternary slope deposits in Burgundy*
+82,18838,*Periglacial action on karst; traces of two periglacial phases in the faunal assemblage; cavity filling at Valerots near Nuits-Saint-Georges*
+82,18839,*Periglacial processes on the plains; the Pliocene and Quaternary alluvium of the Tille and Norges valleys on the northern edge of the Bresse Basin; Cote-d'Or*
+82,18840,*The periglacial terrain; 1, Periglacial terrains and climates related to the rodent faunas*
+82,21826,*Lacustrine and fluvial sediments of the lower Pleistocene; base of the Pleistocene loess series of the north shore of the Danube in Yugoslavia*
+82,32807,*Importance of rodents in Quaternary deposits; first results from a study carried out in a shaft cave*
+82,32829,*Paleontological discoveries in the Mystere Cave; Rochers de Naya, Vaud*
+82,33504,*Review and history of the development of the organic world of the Triassic Period on the territory of the USSR; Vertebrates*
+82,33505,*Mammalia; mammals; Order Rodentia; Rodents*
+82,33506,*Order Carnivora; Carnivores*
+82,33507,*Order Proboscidea; Proboscids*
+82,33508,*Order Perissodactyla; Perissodactyls; Family Equidae*
+82,33509,*Order Perissodactyla; Family Rhinocerotidae*
+82,33510,*Order Artiodactyla; Artiodactyls; Family Camelidae*
+82,33511,*Order Artiodactyla; Artiodactyls; Family Cervidae*
+82,33512,*Order Artiodactyla; Artiodactyls; Family Bovidae; Subfamily Bovinae Tribe Bovini; Genus Bison*
+82,33513,*Order Artiodactyla; Artiodactyls; Family Bovidae; Subfamily Bovinae; Tribe Tragelaphini*
+82,34223,*The correlation of the early Anthropogene theriofauna of Moldavia with the corresponding faunas of Eurasia*
+82,34224,*Distribution and number of the aurochs (Bos primigenius) in the Holocene of Moldavia*
+82,34225,*A fauna of late Pliocene micromammals from the Chishmikioy find-locality in Moldavia*
+82,34226,*Lophodont mastodonts from the south of the Ukraine and from Moldavia*
+82,34227,*New data on Palaeotragus rouenii from Moldavia*
+82,34243,*A new species of flying squirrel of the genus Pliopetaurista (Rodentia, Pteromyidae) in the middle Pliocene fauna of Moldavia*
+82,34244,*New data on the systematics, phylogeny, and ecology of the Suborder Deinotherioidea*
+82,34245,*Camels from the northern Black Sea littoral and the Caucasian Foreland*
+82,34246,*The remains of Equus caballus latipes in Moldavia*
+82,34440,*The Insectivora (Mammalia) of the middle Pleistocene site of Abimes de la Fage at Noaille (Correze); supplement*
+82,34441,*The mouse-hare (Ochotonidae, Lagomorpha) in the cave filling of Aven I at La Fage; Correze*
+82,34442,*The Canidae (Mammalia, Carnivora) of the middle Pleistocene site of Abimes de la Fage at Noailles; Correze*
+82,34443,*The Ursidae of the site of Abimes de la Fage at Noailles (Correze); Ursus deningeri*
+82,34444,*The Mustelidae (Mammalia, Carnivora) of the middle Pleistocene site of La Fage; Correze*
+82,34445,*Study of Panthera spelaea new subsp. (Mammalia, Carnivora, Felidae) of the middle Pleistocene site of Abimes de la Fage at Noailles; Correze*
+82,34446,*The Chiroptera (Mammalia) of the middle Pleistocene site of Abimes de la Fage at Noailles; Correze*
+82,34447,*The Proboscidia (Mammalia) of the middle Pleistocene site of Abimes de la Fage at Noailles; Correze*
+82,34448,*The birds (Aves) of the middle Pleistocene site of Abimes de la Fage at Noailles; Correze*
+82,34449,*The rodents, the age and the climatic chronology of the cave filling of Aven I of la Fage; Correze*
+82,34450,*The large Rissian herbivores of Abimes de la Fage in Correze; the preservation of bone remains and their climatic interpretation*
+82,34451,*General conclusions on the faunas of Aven I of Abimes de la Fage; Correze*
+82,34456,*The insectivores (Mammalia) of the middle Pleistocene site of Abimes de la Fage at Noailles, Correze*
+82,34457,*The Leporidae (Mammalia, Lagomorpha) of the middle Pleistocene site of Abimes de la Fage at Noailles, Correze*
+82,34458,*The three species of rhinoceros (Mammalia, Perissodactyla) of the middle Pleistocene site of Abimes de la Fage of Noailles, Correze*
+82,34460,*Introduction to the Pleistocene paleontological site of Abimes de la Fage*
+82,34461,*Geometry of the paleontological site of Abimes de la Fage*
+82,34462,*Logistics and quarrying techniques of the excavation of Abimes de la Fage*
+82,34463,*Technical development of the excavation of Abimes de la Fage*
+82,34464,*The large Rissian herbivores of "Abimes de la Fage" in Correze; Cervidae, Bovidae, Capridae, Rupricaprinae, Suidae and Equidae*
+82,34465,*The rodents of Aven I of Abimes de la Fage at Noailles; Correze*
+82,34466,*The amphibians and reptiles of the locality of Abimes de la Fage*
+82,38251,*The dental system of elephants in ontogeny and phylogeny*
+82,38252,*The first find of a mammoth in the submorainal layers on the Kola Peninsula*
+82,38253,*The bisons of northeastern Siberia*
+82,38254,*The histological structure of the skin of the bison which was found in permafrost on the banks of the Indigirka River*
+82,38255,*A morphological study of the reproductive system of the fossil bison from the Indigirka River*
+82,38256,*Histological investigation of the body musculature of the Shandrin Mammoth and the fossil bison from the Indigirka River*
+82,38257,*The changes in the physico-geographical conditions on the plains of northeastern Asia at the Pleistocene-Holocene boundary, as the basic cause for the extinction of the theriofauna of the Mammoth Complex*
+82,38258,*Increase in the humidity of the climate at the Pleistocene-Holocene boundary, as one of the causes of the extinction of mammoths*
+82,38259,*V. N. Tatishchev; the first investigator of the mammoth in Russia*
+82,38260,*Patterns in the burial of mammal remains in littoral and marine layers of the Anthropogene*
+82,38261,*The participation of Asiatic groups of mammals in the development of the early stage of the Quaternary fauna of Europe*
+82,38262,*The evolution of the monodactyl horses of the Khapry and Taman' faunal complexes*
+82,39381,*The classification of the Cenozoic sediments of Turkey according to vertebrate faunal groups*
+82,39382,*Vertebrate local faunas from Turkey and their place in time*
+82,39383,*The relationships of the Anatolian mammal faunas to those of the Balkans and the Aegean Islands*
+82,39384,*The position of the vertebrate faunal groups of Turkey within the chronostratigraphic systems of Tethys and Paratethys*
+82,39385,*The turtle remains from Turkish find-localities*
+82,39386,*Preliminary list of the insectivores and bats from upper Neogene of Turkey*
+82,39387,*Rodentia and Lagomorpha from the Cenozoic of Turkey*
+82,39388,*Upper Miocene and lower Pliocene carnivores of Turkey*
+82,39389,*Proboscideans from the Neogene of Turkey*
+82,39390,*Anchitherium in Turkey*
+82,39391,*The significance of the genus Hipparion in Turkish Neogene stratigraphy*
+82,39392,*Rhinocerotidae from the Turkish Neogene*
+82,39393,*The Suidae from the Turkish Neogene*
+82,39394,*Miocene bovids (excluding Ovibovini) from Turkey*
+82,40719,*The skull of a young specimen of Moschorhinus kitchingi (?Tigrisuchus simus ), Therocephalia, Pristerosauria, Moschorhinidae from southern Africa; remarks on Moschorhinidae and Whatsiidae*
+82,40728,*Continental drift and paleontology; some reflections*
+82,40802,*Limits, correlations and radiometric ages in the Paleogene of western Europe*
+82,44679,*The karyology of the pinnipeds (Mammalia, Pinnipedia) and their dispersal and radiation*
+82,47659,*The history of the Tsutskhvati multitiered karst cave complex (Georgia) and its significance for the knowledge of the paleogeography of colchis in the Pleistocene*
+82,47660,*The fossil bears of the Caucasus*
+82,47661,*The vertebrate fauna of the Holocene of Georgia*
+82,47675,*Problems of anthropogenesis*
+82,47679,*The sculptural reconstruction of the face of fossil man*
+82,47693,*The absolute age of the volcanogenic formations of the Auvergne and the Velay and the chronology of the Quaternary mammalian fauna of Europe*
+82,47694,*The problem of correlational connections between Southern Europe and North Africa during the Pleistocene*
+82,47695,*Late Villafranchian and early middle Pleistocene faunas of Italy*
+82,47696,*The biostratigraphy of Central and Western Europe on the Plio-Pleistocene boundary; based on mammalian fauna*
+82,47697,*The hipparions from the Pleistocene of Europe*
+82,47699,*The boundary between the lower and middle Pleistocene established on the basis of study of the remains of microvertebrates in Hungary*
+82,47701,*The stratigraphy of the upper Pliocene/lower Pleistocene interval of the Dacian Basin, Romania*
+82,47702,*Data on the stratigraphy and fauna of the lower and middle Pleistocene of Yugoslavia*
+82,47703,*The Tiraspol' faunal complex*
+82,47705,*The features of structure of the middle and lower Pleistocene fossil soils on the Russian Plain*
+82,47707,*A find-locality of a fauna of the Tiraspol' Complex on the Vilyuy River, eastern Siberia*
+82,47708,*Analogs of the Tiraspol' faunal complex in Siberia*
+82,52700,*The Equidae from the Eocene of the Geisel Valley*
+82,52702,*Freshwater fishes of the older Tertiary of Europe*
+82,52703,*Functional-morphological analysis of modifications tending toward the configuration of modern Serranidae (Pisces) during the Upper Cretaceous-Recent time interval*
+82,52704,*Remarks on the turtles (Testudinoides) of the Geisel Valley*
+82,52705,*The Sauria (Lacertilia) from the Eocene of the Geisel Valley*
+82,52706,*Genesis, paleoecology and biostratigraphy of the fossil localities in the Eocene of the Geisel Valley*
+82,52707,*The geology of the Geisel Valley*
+82,52716,*A new species of Alosa (Clupeidae) from the Oligocene of the northern Peri-Aral area*
+82,52717,*A fossil Trionyx turtle from the middle Oligocene of the Turgay Depression*
+82,52718,*The late Paleogene primitive rhinocerotoids and tapiroids of Myneskesuyyek*
+82,52719,*A new representative of the jerboans from northern Kazakhstan*
+82,52720,*The extinct beavers of northwestern Kazakhstan and their stratigraphic range*
+82,52721,*The Neogene ruminants from the Tul'kisay Ravine*
+82,52722,*New finds of a rhinoceros of the genus Chilotherium from Turgay*
+82,52723,*The correlation of the Yesekartkan fauna with the Hipparion and late Hipparion faunas of Asia*
+82,52724,*Anthropogene elephants from the northwestern part of Kazakhstan*
+82,52725,*The zoogeographical analysis of the composition and the distribution of the Anthropogene fauna of Kazakhstan in space and time*
+

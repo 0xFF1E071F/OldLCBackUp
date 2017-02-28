@@ -1,0 +1,12 @@
+P:\cs131Spring 2014\ch7 first\ch7 first\bin\Debug\ch7 first.exe
+P:\cs131Spring 2014\ch7 first\ch7 first\bin\Debug\ch7 first.pdb
+P:\cs131Spring 2014\ch7 first\ch7 first\bin\Debug\ch7 first.xml
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7_first.Form1.resources
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7_first.Resources.resources
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7 first.vbproj.GenerateResource.Cache
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7 first.exe
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7 first.xml
+P:\cs131Spring 2014\ch7 first\ch7 first\obj\x86\Debug\ch7 first.pdb
+P:\cs131 Spring 2014\Ch7 ex1\ch7 first\obj\x86\Debug\ch7 first.exe
+P:\cs131 Spring 2014\Ch7 ex1\ch7 first\obj\x86\Debug\ch7 first.xml
+P:\cs131 Spring 2014\Ch7 ex1\ch7 first\obj\x86\Debug\ch7 first.pdb

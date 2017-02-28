@@ -1,0 +1,121 @@
+// Yu Fu
+#include <iostream>
+using namespace std;
+
+//#1 smller function to compare two ints which can return the smaller one 
+int smaller (int numOne, int numTwo)
+{
+	int smallest = numOne;
+	if (numTwo >smallest)
+		smallest = numTwo;
+
+	return smallest;
+};
+
+//#2 replace all oldChar to newChar in string
+void replaceChar(char* string, char oldValue, char newValue)
+{
+    while (*string !=0)
+    {
+        if (*string == oldValue)
+        {
+            *string = newValue;
+        }
+        ++string;
+    }
+};
+//#3
+void flip2DArray (  int rows, int columns, int** original)
+{
+	int temp,flipTimes;
+	if ( rows%2==0)
+	{
+		flipTimes= rows/2;
+	}
+	else if (rows%2==1)
+	{
+		flipTimes = (rows-1)/2;
+	}
+
+	for ( int r=0; r < flipTimes;++r)
+		for ( int c=0;c<columns;++c); 
+	{
+		temp = original[r][c];
+		original[r][c] = original[rows-r-1][c];
+		original[rows-r-1][c] = temp;
+	}
+};	
+
+//RadioAd.h
+#include <iostream>
+using namespace std;
+//#4 make a class
+class RadioAd
+{
+public:
+	RadioAd();	//#7 default constructor
+	virtual ~RadioAd(); //#10 destructor
+	RadioAd (const RadioAd& orig); //#8 copy constructor
+
+	virtual RadioAd& operator=(const RadioAd& rhs); //#9 assignment operator 
+
+	virtual string  getSponsor() const; //#5 getSponsor
+
+private:	
+	int duration_;
+	string name_;
+	bool boolean_;
+
+};
+
+#include"RadioAd.h"
+//#7
+RadioAd::RadioAd():duration_(0),name_(0),boolean_(false)
+{
+}
+//#10
+RadioAd::~RadioAd()
+{
+}
+
+//#8
+RadioAd::RadioAd(const RadioAd&orig )
+{
+	duration_ = orig.duration_;
+	name_ = orig.name_;
+	boolean_ = orig.boolean_;
+
+}
+string RadioAd::getSponsor() const
+{
+	return name_;
+}
+
+RadioAd& RadioAd::operator=(const RadioAd&rhs)
+{
+	if (this != &rhs)
+	{
+		duration_ = rhs.duration_;
+		name_=rhs.name_;
+		boolean_ = rhs.boolean_;
+	}
+	return *this;
+}
+
+
+//#11 Class Airplane
+//#11 Airplane.h
+#include <iostream>
+using namespace std;
+#include "RadioAd.h"
+
+class Airplane: public RadioAd
+{
+public:
+	Airplane();	// default constructor
+	 ~Airplane(); // destructor
+	Airplane (const Airplane& orig); // copy constructor
+	int range();
+private:
+	int range_;
+};

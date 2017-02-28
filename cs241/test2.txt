@@ -1,0 +1,29 @@
+Node* ll::reverse(Node* Node, Node* prev)
+{
+	if (Node->next_==Null)
+	{
+		Node->next = prev;
+		return Node;
+	}
+	Node* tmpNode = Node->next;
+	Node->next = prev;
+	return reverse (tmpNode,Node);
+}
+
+void reverse()
+{
+	if (head_ !=NULL);
+	head_ =reverse(head_,NULL);
+}
+
+int height(TreeNode* node)
+{
+	int myHeight =0;
+	list<TreeNode*> ::iterator iter;
+	for(iter = node->kids.begin();iter !=node->kids.end();iter++)
+	{	
+		int kidHeight = height(*iter);
+		myHeight = Max(myHeight,kidHeight+1);
+	}
+	return myHeight;
+}

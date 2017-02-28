@@ -1,0 +1,217 @@
+*Placodermi*,*Acanthodii*,**,**,**,*Conodontophorida*
+*Ichthyostegalia*,*Acanthostegidae*,**,**,**,*Acanthostega*
+*Aceraspidoidea*,*Aceraspididae*,**,**,**,*Aceraspis*
+*Amphisbaenia*,*Amphisbaenidae*,**,**,**,*Gilmoreia, Hyporhina, Rhineura Crythiosaurinae*
+*Tupaioidea*,*Anagalidae*,**,**,**,*Anagale, Anagalopsis*
+*Anguioidea*,*Anguidae*,**,**,**,*Glyptosaurus, Ophisaurus, Peltosaurus*
+*Anthracotherioidea*,*Anthracotheriidae*,**,**,**,*Anthracotherium, Bothriodon, Brachyodus, Elomeryx*
+*Bovoidea*,*Antilocapridae*,**,**,**,*Cosoryx, Hexabelomeryx, Hexameryx*
+*Apatemyoidea*,*Apatemyidae*,**,**,**,*Apatemys, Eochiromys, Heterohyus, Jepsenella, Labidolemur, Sinclairella, Stehlinella, Teihardella*
+*Seymouriamorpha*,*Apateonidae*,**,**,**,*Apateon*
+*Aplodontoidea*,*Aplodontidae*,**,**,**,*Allomys, Aplodontia, Eohaplomys, Haplomys, Liodontia, Meniscomys, Sciurodon*
+*Cotylosauria*,*Araeoscelidia*,**,**,**,*Petrolacosauridae*
+*Arctocyonoidea*,*Arctocyonidae*,**,**,**,*Arctocyonides, Claenodon, Escatepos, Thryptacodon*
+*Sauria*,*Ardeosauridae*,**,**,*brevipes*,*Ardeosaurus,? Yabeinosaurus*
+*Sauria*,*Askeptosauridae*,**,**,**,*Askeptosaurus*
+*Erethizontidae*,*Asteromys*,**,**,*punctus*,*Gemuendiniformes*
+*Astraspida*,*Astraspididae*,**,**,**,*Astraspis*
+*Balaenopteridae*,*Balaenoptera*,**,**,*physalus*,*Balaenopteridae Mysticeti*
+*Bathyergoidea*,*Bathyergidae*,**,**,**,*Bathyergus, Georhynchus*
+*Bovoidea*,*Bovidae*,**,**,**,*Aepyceros, Aeotragus, Alcelaphus, Antidorcas, Antilope, Austroportax, Bibos, Bison, Bos, Bubalus, Capra, Capricornis, Connochaetes, Damaliscus, Eotrag*
+*Brontotherioidea*,*Brontotheriidae*,**,**,**,*Epimanteoceros, Lambdotherium, Protitanops*
+*Neognathae*,*Caenagnathidae*,**,**,**,*Caenagnathus*
+*Longipinnati*,*Californosauridae*,**,**,**,*Californosaurus, Toretocnemus*
+*Tylopoda*,*Camelidae*,**,**,**,*Camelus, Gigantocamelus, Hesperocamelus, Palaeolama, Pliauchenia, Poabromylus, Poe%Fbrotherium, Tanupolama*
+*Canoidea*,*Canidae*,**,**,**,*Aenocyon, Aletocyon, Alopecodon, Amphicyon, Amphicyonopsis, Canis, Cephalogale, Cuon, Cynodon, Dinocyon, Dusicyon, Harpaleocyon, Hemicyon, Hesperocyon*
+*Cotylosauria*,*Captorhinomorpha*,**,**,**,*Petrobates*
+*Cotylosauria*,*Captorhinomorpha*,**,**,**,*Eosauravus, Fritschia, Hylonomus, Leiocephalodon*
+*Xenungulata*,*Carodniidae*,**,**,**,*Carodnia*
+*Prosimii*,*Carpolestidae*,**,**,**,*Carpodaptes, Elphidotarsus*
+*Castoroidea*,*Castoridae*,**,**,**,*Agnotocastor, Amblycastor, Anchitheriomys, Castor, Castoroides, Castoromys, Chalicomys, Dipoides, Eucastor, Eutypomys, Monosaulax, Palaeocastor, Palae*
+*Lepospondyli*,*Caudata*,**,**,**,*Koalliella*
+*Ceboidea*,*Cebidae*,**,**,**,*Alouatta, Anthropus, Ateles, Cacajao, Callimico, Cebupithecia, Homunculus, Neosaimiri, Pithecia, Pitheculus, Saimiri, Xenothrix*
+*Osteostraci*,*Cephalaspididae*,**,**,**,*Acrotomaspis, Axinaspis, Cephalaspis, Ectinaspis, Tegaspis, Cephalaspidinae*
+*Chinchilloidea*,*Cephalomyidae*,**,**,**,*Cephalomys, Lomomys, ? Proatherura, ? Scleromys*
+*Ceratopsia*,*Ceratopidae*,**,**,**,*Triceratops*
+*Cercopithecoidea*,*Cercopithecidae*,**,**,**,*Apidium, Brachygnathopithecus, Cercopithecoides, Colobus, Dinopithecus, Gorgonopithecus, Libypithecus, Macada, Moeripithecus, Papio, Parapapio, Rhinop*
+*Cervoidea*,*Cervidae*,**,**,**,*Agalmaceros, Alce, Antifer, Capreolus, Cervavitulus, Cervocerus, Cervulus, Cervus, Dicroceros, Dremotherium, Elaphodus, Euctenoceras, Euprox, Hippocam*
+*Cervidae*,*Cervulus*,**,**,*pontoborealis*,*Japan; Deperetia*
+*Cestracionidae*,*Cestracion*,**,**,*laevissimus*,*Sphyrna; Mio., Portugal*
+*Cheirolepididae*,*Cheirolepis*,**,**,**,*Hofer*
+*Chelonioidea*,*Cheloniidae*,**,**,**,*Allopleuron, Catapleura, Chelonia, Lepidochelys, Paritresius, Puppigerus*
+*Testudinoidea*,*Chelydridae*,**,**,**,*Acherontemys, Chelydrops, Chelydropsis, Claudius, Platysternon, Sternotherus, Xenochelys*
+*Pleurodira*,*Chelyidae*,**,**,**,*Hydraspis*
+*Eryopoidea*,*Chenoprosopidae*,**,**,**,*Chenoprosopus*
+*Percoidea*,*Cichlidae*,**,**,**,*Priscacara*
+*Dicynodontia*,*Cistecephalidae*,**,**,**,*Cistecephalus*
+*Siluroidei*,*Clariidae*,**,**,**,*Heterobranchus*
+*Ichnites*,*Coelurosaurichnus*,**,**,*schlauersbachense*,*=Dinosaurichnium schlauersbachense*
+*Colubroidea*,*Colubridae*,**,**,**,*Drymarchon, Heterodon, Sansanosaurus*
+*Chordata*,*Craniata*,**,**,**,*Palaeodus*
+*Carnivora*,*Creodonta*,**,**,**,*Apternodus, Ardynictis, Didymoconus, Hyaenaelurus, Palaeonyctidae*
+*Muroidea*,*Cricetidae*,**,**,**,*Anomalomys, Aralomys, Arvicola, Baiomys, Baranomys, Brachytarsomys. Brachyuromys, Calomyscus, Cimarromys, Cosomys, Cricetodon, Cricetops, Cricetulus,*
+*Ctenodactyloidea*,*Ctenodactylidae*,**,**,**,*Ctenodactylus, Karakoromys, Leptotataromys, Massouteria, Pectinator, Sayimys, Tataromys, Yindirtemys*
+*Octodontoidea*,*Cuniculidae*,**,**,**,*Cuniculus, Dasyprocta, Stictomys Dasyproctinae*
+*Diademodontidae*,*Cyclogomphodon*,**,**,*platyrhinus*,*= Diademodon mastacus*
+*Nothosauria*,*Cymatosauridae*,**,**,**,*Rhaeticonia*
+*Longipinnati*,*Cymbospondylidae*,**,**,**,*Cymbospondylus, Bletzingeria, Eurhinosaurus, Leptopterygius*
+*Theriodontia*,*Cynodontia*,**,**,**,*Dromatherium*
+*Cyprinoidea*,*Cyprinidae*,**,**,**,*Leuciscus*
+*Tremataspidoidea*,*Dartmuthiidae*,**,**,**,*Dartmuthia*
+*Didymaspidoidea*,*Didymaspididae*,**,**,**,*Didymaspis*
+*Therapsida*,*Dimacrodontidae*,**,**,**,*Dimacrodon*
+*Cavioidea*,*Dinomyidae*,**,**,**,*Amblyrhiza, Diaphosomys, Dinomys, Doellomys, Elasmodontomys, Eumegamys, Eumegamysops, Gyriabrus, Isostylomys, Olenopsis, Orthomys, Pentastylodon, Phob*
+*Dipodoidea*,*Dipodidae*,**,**,**,*Alactalagulus, Allactalaga, Brachyscirtetes, Euchoreutes, Jaculus, Paralactaga, Protalactaga, Sminthoides*
+*Seymouriamorpha*,*Discosauriscidae*,**,**,**,*Discosauriscus, Letoverpeton, Melanerpeton, Phaiherpeton*
+*Chimaeriformes*,*Edestidae*,**,**,**,*Agassizodus, Edestus, Erikodus, Fadenia, Helicoprion, Parahelicampodus, Sarcoprion*
+*Plesiosauroidea*,*Elasmosauridae*,**,**,**,*Alzadasaurus, Aphrosaurus, Elasmosaurus, Fresnosaurus, Hydralmosaurus, Hydrotherosaurus, Leurospondylus, Morenosaurus, Ogmodirus, Styxosaurus, Thalass*
+*Elephantoidea*,*Elephantidae*,**,**,**,*Elephas, Eostegodon, Loxodonta, Mammuthus, Palaeoloxodon, Stegodon, Stegolophodon, Stegoloxodon*
+*Geomyoidea*,*Eomyidae*,**,**,**,*Adjidaumo, Eomys, Kansasimys, Ligerimys, Meteomys, Omegodus, Paradjidaumo, Protadjidaumo, Pseudotheridomys, Rhodanomys, Ritteneria*
+*Protorosauria*,*Eosuchia*,**,**,**,*Noteosuchus, Paliguanidae, Santaisaurus*
+*Equoidea Edinger*,*Equidae*,**,**,**,*Amerhippus, Anchitherium, Equus, Eurygnathohippus, Haplohippus, Hipparion, Hippidion, Hyracotherium, Nannipus, Neohipparion, Neohippus, Notohipparion,*
+*Erethizontoidea*,*Erethizontidae*,**,**,**,*Acaremys, Asteromys, Coendou, Erethizon, ? Luantus, Neosteiromys, Platypittamys, Protacaremys, Steiromys*
+*Erinaceoidea*,*Erinaceidae*,**,**,**,*Amphechinus, Ankylodon, Erinaceus, Galerix, Lantanotheruim, Metacodon, ? Meterix, Necrogymnurus, Palaeoerinaceus, Plesiosorex, Proterix, Tetracus*
+*Tillodontia*,*Esthonychidae*,**,**,**,*Adapidium, Anchippodus, Esthonyx, Tillodon, Trogosus*
+*Pleurodira*,*Eusarkidae*,**,**,**,*Eusarkia*
+*Castoroidea*,*Eutypomyidae*,**,**,**,*Eutypomys*
+*Feloidea*,*Felidae*,**,**,**,*Acinonyx, Dinictis, Felis, Leo, Mellivorodon, Metailurus, Nimravus, Panthera, Pristinofelis, Proailurus, Pseudaelurus, Schaubia, Stenogale, Therailuru*
+*Carnivora*,*Fissipeda*,**,**,**,*Progenetta*
+*Geomyoidea*,*Geomyidae*,**,**,**,*Entoptychus, Geomys, ? Gidleumys, Grangerimus, Gregorymys, ? Palustrinus, Pleisiothomomys, Pliosaccomys, Thomomys*
+*Glyptodontoidea*,*Glyptodontidae*,**,**,**,*Berthawyleria, Eosclerocalyptus, Eucinepeltis, Glyptodon, Hoplophorus, Plohophorus, Pseudoplohophorus, Stromaphoropsis, Teisseireia, Xenoglyptodon*
+*Elephantoidea*,*Gomphotheriidae*,**,**,**,*Anancus, Blickotherium, Cuvieronius, Gomphotherium, Haplomastodon, Megabelodon, Notiomastodon, Palaeomastodon, Pentalophodon, Phiomia, Protanancus, Rh*
+*Theriodontia*,*Gorgonopsia*,**,**,**,*Lycaenops*
+*Caenolestoidea*,*Groeberiidae*,**,**,**,*Groeberia*
+*Ornithopoda*,*Hadrosauridae*,**,**,**,*Brachylophosaurus, Corythosaurus, Edmontosaurus, Parasaurolophus, Saurolophus*
+*Aceraspidoidea*,*Hemicyclaspididae*,**,**,**,*Hemicyclaspis*
+*Geomyoidea*,*Heteromyidae*,**,**,**,*Dipodomys, Florentiamys, Heliscomys, Heteromys, Microdipodops, Mookomys, Perognathus, Proheteromys*
+*Anthracotherioidea*,*Hippopotamidae*,**,**,*relationships*,*Hexaprotodon, Hippoleakius, Hippopotamus*
+*Actinopterygii*,*Holostei*,**,**,**,*Peltopleurus*
+*Hominoidea*,*Hominidae*,**,**,**,*"Africanthropus" Anthropopithecus, (hypothetical), Australopithecus, Eoanthropus (fraudulent), Homo, Javanthropus, ? Meganthropus, Nipponanthropus, Pa*
+*Ichnites*,*Homo*,**,**,**,*Ai%Fn Metherchen skeleton, Alt-Tierstein remains, Amam-Kutan remains, Arene Candide skull, Asselar man, Barcombe Mills cranium, Bury St. Edmunds skull*
+*Coccosteiformes*,*Homostiidae*,**,**,**,*Homostius*
+*Crocodilia*,*Hsisosuchidae*,**,**,**,*Hsisosuchus*
+*Cavioidea*,*Hydrochoeridae*,**,**,**,*Cardiatherium, Chapalmatherium, ?, Dabbenea, Hydrochoeropsis, Hydrochoerus, Neochoerus, Nothydrochoerus, Protohydrochoerus, Xenohydrochoerus*
+*Hypertraguloidea*,*Hypertragulidae*,**,**,**,*Leptomeryx*
+*Hystricoidea*,*Hystricidae*,**,**,**,*Acanthion, Atherurus, Hystrix, Miohystrix, Sivacanthion, Trichys*
+*Craniata*,*Ichnites*,**,**,**,*Agostropus, Acropus, Allopus, Ammobatrachus, Ampelichnus, Anchisauripus, Ancyropus, Anomoepus, Argoides, Baropus, Batrachopus, Brachychirotherium, Che*
+*Ichthyostegalia*,*Ichthyostegidae*,**,**,**,*Ichthyostega*
+*Lemuroidea*,*Indriidae*,**,**,**,*Archaeoindris, Archaeolemur, Bradylemur, Hadropithecus, Indri, Mesopropithecus, Neopropithecus, Palaeopropithecus*
+*Unguiculata*,*Insectivora*,**,**,**,*Batodon, Telacodon*
+*Eryopoidea*,*Intasuchidae*,**,**,**,*Intasuchus, Syndyodosuchus*
+*Typotheria*,*Interatheriidae*,**,**,**,*Caenophilus, Epipatriarchus, Interatherium, Medistylus, Miocochilus, Protypotherium*
+*Ischyromyoidea*,*Ischyromyidae*,**,**,**,*Aeluravus, Decticadapis, Ischyromys, Ischyrotomus, ? Jomys, Leptoptomus, Manitsha, Megachiromyoides, Palaeomarmota, Pelycomys, Plesiarctomys, Plesispe*
+*Orthobran chiata*,*Kiaeraspididae*,**,**,**,*Kiaeraspis*
+*labroidea*,*Labridae*,**,**,**,*Eodiaphyodus, Labrodon, Phyllodus, Pseudoegertonia*
+*Apsidospondyli*,*Labyrinthodontia*,**,**,**,*Erierpeton, Erpetobrachium, Otumnisaurus, Proierpeton*
+*Giraffoidea*,*Lagomerycidae*,**,**,**,*Lagomeryx, Orygotherium*
+*Lagomorpha*,*Leporidae*,**,**,**,*Alilepus, Amphilagus, Desmatolagus, Lepus, Mytonolagus, Notolagus, Palaeotapeti, Serengetilagus, Sinolagomys, Sylvilagus*
+*Leptictoidea*,*Leptictidae*,**,**,**,*Diacodon, Euangelistes, Gypsonictops, Hypictops, Ictops, Mimolagus, Parictops, Prodiacodon, ? Pseudictops*
+*Feloidea*,*Machairodontidae*,**,**,**,*Albanosmilus, Eusmilus, Grivasmilus, Hoplophoneus, Machairodus, Paramachairodus, Sansanosmilus, Smilodon*
+*Latipinnati*,*Macropterygiidae*,**,**,**,*Ancanamunia, Brachypterygius, Cetarthrosaurus, Eurypterygius, Ichthyosaurus, Macropterygius, Miobradypterygius, Myopterygius, Opthalmosaurus*
+*Tetrapoda*,*Mammalia*,**,**,**,*Astrocondon*
+*Metatheria*,*Marsupialia*,**,**,**,*Clenialites, Gashternia, Odontomysops*
+*Megalonychoidea*,*Megatheriidae*,**,**,**,*Eremotherium, Megatherium, Paramegatherium, Plesiomegatherium, Schaubitherium*
+*Merycoidodontoidea*,*Merycoidodontidae*,**,**,**,*Hypsiops, Merycoides, Merycoidodon, Mesoreodon, Phenacocoelus, Promerycochoerus, Promesoreodon, Pseudomesoreodon, Submerycochoerus Merychinae, Merycoc*
+*Latipinnati*,*Mixosauridae*,**,**,**,*Mixosaurus*
+*Gadiformes*,*Moridae*,**,**,**,*Lotella, Melanonus, Strinsia*
+*Mosasauroidea*,*Mosasauridae*,**,**,**,*Clidastes, Globidens, Mosasaurus, Platecarpus, Plotosaurus, Tylosaurus*
+*Muroidea*,*Muridae*,**,**,**,*Acomys, Apodemus, Bandicota, Coryphomys, Cricetomys, Dasymys, Hydromys, Insulaemus, Lenomys, Malacomys, Miromus, Notomys, Oenomys, Otomys, Palaeotomys*
+*Canoidea*,*Mustelidae*,**,**,**,*Amphictis, Arctomeles, Arctonyx, Baranogale, Brachypotoma, Brachypsalis, Broiliana, Buisnictis, Charronia, Conepatus, ? Drassonax, Enhydrictis, Eomell*
+*Aplodontoidea*,*Mylagaulidae*,**,**,**,*Mesogaulus, Mylagaulus, Promylagaulus*
+*Octodontoidea*,*Myocastoridae*,**,**,**,*Aphaetreus, Capromys, Colpostemma, Eumysops, Geocapromys, Gyrignophus, Isobolodon, Isomyopotamus, Myocastor, Neoreomys, Plagiodontia, Proaguti, Procap*
+*Sciurognathi*,*Myomorpha*,**,**,**,*Seleviniidae*
+*Nectaspidiformes*,*Nectaspididae*,**,**,**,*Nectaspis*
+*Neocathartoidea*,*Neocathartidae*,**,**,**,*Neocathartes*
+*Neornithes*,*Neognathae*,**,**,**,*Eobalearica, Eremopizidae*
+*Nothosauria*,*Nothosauridae*,**,**,**,*Ceresiosaurus, Lariosaurus, Melanothosaurus, Nothosaurus, Paranothosaurus*
+*Lagomorpha*,*Ochotonidae*,**,**,**,*Lagopsis, Ochotona, Prolagus*
+*Longipinnati*,*Omphalosauridae*,**,**,**,*Grippia, Omphalosaurus, Pessopteryx*
+*? Clupeoidea*,*Ostariostomidae*,**,**,**,*Ostariostoma*
+*Osteolepidiformes*,*Osteolepididae*,**,**,**,*Eusthenopteron, Glyptopomus, Osteolepis, Sauripterus, Tristichopterus*
+*Ichnites*,*Otouphepodidae*,**,**,**,*Otouphepus*
+*Nothosauria*,*Pachypleurosauridae*,**,**,**,*Anarasaurus, Dactylosaurus, Neusticosaurus, Pachypleurosaurus, Psilotrachelosaurus*
+*Ceratopsia*,*Pachyrhinosauridae*,**,**,**,*Pachyrhinosaurus*
+*Hominidae*,*Palaeoanthropus*,**,**,*soloensis*,*Heidelberg jaw, Kiik-Koba man, Neanderthal man, Njandong skull, Rhodesian skull, Sacopastore skulls, Saldanha skull, Solo man, Teshik-Tash child*
+*Palaeoniscoidei*,*Palaeoniscidae*,**,**,**,*Aeduella, Aldingeria, Amblypterus, Boreosomus, Challaia, Echentaia, Elonichthys, Errolichthys, Kentuckia, Moythomasia, Glaucolepis, Guaymayenia, Lawni*
+*Phoenicopteri*,*Paloelodidae*,**,**,**,*Megapaloelodus*
+*Ospiiformes*,*Parasemionotidae*,**,**,**,*Broughia, Jacobulus, Parasemionotus, Promecosomina, Stensio%Fnotus, Thomasinotus, Watsonulus*
+*Procolophonoidea*,*Pareiasauridae*,**,**,**,*Bradysaurus, Parasaurus, Pareiasaurus, Scutosaurus*
+*Aceraspidoidea*,*Pattenaspididae*,**,**,**,*Pattenaspis*
+*Shastasauridae*,*Pessosaurus*,**,**,**,*Macropetalichthyes*
+*? Araeoscelidia*,*Petrolacosauridae*,**,**,**,*Petrolacosaurus*
+*Petromyoidea*,*Petromyidae*,**,**,**,*Petromys*
+*Sciurognathi*,*Phiomyidae*,**,**,**,*Apodecter, Diamantomys, ? Eosteiromys, Metaphiomys, Neosciuromys, Paraphiomys, ? Parasteiromys, ? Phiomyoides, Phiomys, Pseudosciuromys, Sciuromys*
+*Arctolepidiformes*,*Phlyctaenaspididae*,**,**,**,*Arctaspis, Phlyctaenaspis, Phlyctaenius*
+*Pholidopleuriformes*,*Pholidopleuridae*,**,**,**,*Australosomus*
+*Lemuroidea*,*Plesiadapidae*,**,**,**,*Chiromyoides, ? Phenacoleumur, Platychoerops, Plesiadapis, Pronothodectes, ? Trogoleumur, ? Uintasorex*
+*Euryapsida*,*Plesiosauria*,**,**,**,*Oligosimus, Orophosaurus, Uronautes*
+*Plesiosauroidea*,*Plesiosauridae*,**,**,**,*Cryptocleidus, Eretmosaurus, Microcleidus, Plesiosaurus*
+*? Rhynchocephalia*,*Pleurosauridae*,**,**,**,*Acrosaurus, Pleurosaurus*
+*Pleurosauridae*,*Pleurosaurinae*,**,**,**,*incl. Pleurosaurus*
+*Polypteriformes*,*Polypteridae*,**,**,**,*Polypterus*
+*Hominoidea*,*Pongidae*,**,**,**,*Amphipithecus, "Anthropodus", Bramapithecus, Dryopithecus, ? Gigantopithecus, ? Hylopithecus, Indopithecus, Kansupithecus, Limnopithecus*
+*Zenaspida*,*Procephalaspididae*,**,**,**,*Procephalaspis, Witaaspis*
+*Diadectomorpha*,*Procolophonoidea*,**,**,**,*? Lanthanosuchus*
+*Cynodontia*,*Procynosuchidae*,**,**,**,*Dvinia, Galecranium, Galeophrys, Leavachia, Nanictosuchus, Permocynodon, Procynosuchus*
+*Eosuchia*,*Prolacertidae*,**,**,**,*Prolacerta*
+*Elopoidea*,*Protelopidae*,**,**,**,*Eoprotelops*
+*Ceratopsia*,*Protoceratopidae*,**,**,**,*Microceratops, Protoceratops*
+*Eosuchia*,*Protorosauridae*,**,**,**,*Macrocnemus, Protorosaurus, Trachelosaurus, ? Tridentinosaurus*
+*? Chelonioidea*,*Protostegidae*,**,**,**,*Archelon, Calcarichelys, Chelosphargis, Protostega*
+*Theridomyoidea*,*Pseudosciuridae*,**,**,**,*Adelomys, "Protadelomys", Pseudosciurus*
+*Thecodontia*,*Pseudosuchia*,**,**,**,*Elachistosuchus*
+*Rajiformes*,*Ptychodontidae*,**,**,**,*Ptychodus*
+*Euarthrodira*,*Radotinidae*,**,**,**,*Radotina*
+*Redfieldiiformes*,*Redfieldiidae*,**,**,**,*Pseudobeaconia*
+*Tetrapoda*,*Reptilia*,**,**,**,*Nothosaurops*
+*Temnospondyli*,*Rhachitomi*,**,**,**,*Micrerpeton, Platyhystricidae*
+*Rajiformes*,*Rhinobatidae*,**,**,**,*Belemnobatis, Rhinobatis, Rhynchobatus, Spathobatis, Squatirhina*
+*Rhinocerotoidea*,*Rhinocerotidae*,**,**,**,*Aceratherium, Baluchitherium, Brachypotherium, Ceratotherium, Chilotherium, Diceratherium, Dicerorhinus, Diceros, Eggysodon, Eotrigonias, Indricotheri*
+*Sciurognathi*,*Rhizomyidae*,**,**,**,*Brachyrhizomys, Cannomys, Rhizomyides, Rhizomys, Tachyoryctes*
+*Glires*,*Rodentia*,**,**,**,*Homocentrus*
+*? Bauriomorpha*,*Rubidginidae*,**,**,**,*Mygalesaurus, Mygalesuchus*
+*Tremataspidoidea*,*Saaremaaspididae*,**,**,**,*Saaremaaspis*
+*Salamandroidea*,*Salamandridae*,**,**,**,*Chelotriton, Grippiella, Megalotriton, Oligosemia, Palaeosalamandra. Paleosalamandrina, Salamandra, Tischleriella, Triturus, Tylototriton, Voigtiella*
+*Squamata*,*Sauria*,**,**,**,*Bavarisaurus, Broilisaurus Chamops*
+*Saurischia*,*Sauropoda*,**,**,**,*Asiatosaurus, Mongolosaurus*
+*Sciuroidea*,*Sciuridae*,**,**,**,*Ameniscomys, Belomys, Callosciurus, Citellus, Csakvaromys, Cynomys, Funisciurus, Hylopetes, Marmota, Maurimontia, Myrsilus, Paracitellus, Paraxerus, P*
+*Osteostraci*,*Sclerodontidae*,**,**,**,*Sclerodus*
+*Therocephalia*,*Scylacosauridae*,**,**,**,*Proalopecopsis*
+*Elasmobranchii*,*Selachii*,**,**,**,*Fortscottella*
+*Amiiformes*,*Semionotidae*,**,**,**,*Lepidotus, Semionotus*
+*Squamata*,*Serpentes*,**,**,**,*Bothrodon, Coniophis*
+*Longipinnati*,*Shastasauridae*,**,**,**,*Merriamia, Pachygonosaurus, Pessosaurus, Shastasaurus*
+*Soricoidea Friant*,*Soricidae*,**,**,**,*Anourosorex, Crocidura, Crocidosorex, Cryptotis, Domnina, Heterosorex, Megasorex, Mysarachne, Neomys, Notiosorex, Paracryptotis, Scutisorex, Sorex, Su*
+*Sciurognathi*,*Spalacidae*,**,**,**,*Prospalax, Rhizospalax, Spalax*
+*Percoidea*,*Sparidae*,**,**,**,*Box, Pagellus, Pagrus, Sargus, Sparus Sparinae*
+*Pseudosuchia*,*Stagonolepididae*,**,**,**,*Acompsosaurus, Desmatosuchus, Stegomosuchus, Stegomus, Typothorax*
+*Longipinnati*,*Streptospondylidae*,**,**,**,*Streptospondylus*
+*Taeniodontia*,*Stylinodontidae*,**,**,**,*Lampadophorus*
+*Ankylosauria*,*Syrmosauridae*,**,**,**,*Syrmosaurus*
+*Soricoidea*,*Talpidae*,**,**,**,*Blarina, Desmana, Geotrypsus, Hesperoscalops, Megatalpa, Palaeoscaptor, Paratalpa, Talpa*
+*Tapiroidea*,*Tapiridae*,**,**,**,*Megatapirus, Palaeotapirus, Tapiriscus, Tapirus*
+*Sphenacodontia*,*Tappenosauridae*,**,**,**,*Tappenosaurus*
+*Suoidea*,*Tayassuidae*,**,**,**,*Platygonus, Prosthenops, Tayassu*
+*Mesosuchia*,*Teleosauridae*,**,**,**,*Aeolodon, Mystriosaurus, Pelagosaurus, Steneosaurus*
+*Anapsida*,*Testudinata*,**,**,**,*Colossoemys, Gafsachelys, Yu%Fmenemys*
+*Testudinoidea*,*Testudinidae*,**,**,**,*Cheirogaster, Clemmys, Cymatholicus, Emys, Eupachemys, Floridemys, Gopherus, Hadrianus, Nicoria, Ptychogaster, Senryeumys, ? Sinohadrianus, Stylemys,*
+*Craniata*,*Tetrapoda*,**,**,**,*Ischyrotherium*
+*Pleurosternoidea*,*Thalassemydidae*,**,**,**,*Acichelys, Chelonides, Hydropelta, Idiochelys, Pelobatochelys, Yaxartemys*
+*Synapsida*,*Therapsida*,**,**,**,*Protocynodon*
+*Theridomyoidea*,*Theriodmyidae*,**,**,**,*Archaeomys, Blainvillimys, Issiodoromys, Pararchaeomys, Perrieromys, Pseudoltinomys, Taeniodus, Theridomys, Trechomys*
+*Thryonomyoidea*,*Thryonomyidae*,**,**,**,*Eupetaurus, Thryonomys*
+*Tremataspidoidea*,*Thyestidae*,**,**,**,*Thyestes*
+*Chelonioidea*,*Toxochelyidae*,**,**,**,*Ctenochelys, Cynocercus, Erquelinnesia, Lophochelys, Lytoloma, Osteopygis, Phyllemys, Porthochelys, Prionochelys, Sinemys, Thinochelys, Toxochelys*
+*Traguloidea*,*Tragulidae*,**,**,**,*Dorcatherium*
+*Tremataspidoidea*,*Tremataspididae*,**,**,**,*Tremataspis*
+*Cervoidea*,*Triceromerycidae*,**,**,**,*Triceromeryx*
+*Sirenia*,*Trichechidae*,**,**,**,*Potamosiren*
+*Belonidae*,*Tylosurus*,**,**,**,*Tylosaurus fig. 9:70*
+*Dinocerata*,*Uintatheriidae*,**,**,**,*Bathyopsis, Gobiatherium, Mongolotherium, Uintatherium*
+*Canoidea*,*Ursidae*,**,**,**,*Agriotherium, Arctodus, Arctotherium, Drepanodon, Euarctos, Indarctos, Tremarctos, Tremarctotherium, Ursavus, Ursus*
+*Colubroidea*,*Viperidae*,**,**,**,*Crotalus*
+*Feloidea*,*Viverridae*,**,**,**,*Herpestes, Jourdanictis, Macrogalidia, Semigenetta, Stenoplesictis, Viverra*
+*Seymouriamorpha*,*Waggoneriidae*,**,**,**,*Waggoneria*
+*Xenacanthiformes*,*Xenacanthidae*,**,**,**,*Dittodus, Xenacanthus*
+*Dipodoidea*,*Zapodidae*,**,**,**,*Eozapus, Napaeozapus, Parasminthus, Plesiosminthus, Pliozapus, Schaubeumys, Sicista, Simimys, Zapus*
+

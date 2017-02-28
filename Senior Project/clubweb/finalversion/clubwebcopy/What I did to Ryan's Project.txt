@@ -1,0 +1,37 @@
+Ryan, you have C++-style comments in your database file.  Changed // to #.
+
+Changed the database password to mine in conn.php.
+
+Skipped the test users and used my own real users from our roster.
+
+Eliminated the requirement of a 6-char+ password.
+
+In the "Who's coming?" column, names looked like this:  John ,Joe ,Peter.  I changed it to look like this:  John, Joe, Peter.
+
+Changed the admin name to Will.
+
+Changed the day of the week to Mondays. 
+
+It was letting me check out yesterday!  Not good.  Fixed. 
+
+There's something funny going on with the footer -- you can't see its bottom.  I'm on admin's registration page.  Fixed.
+
+Fixed the copyright symbol.
+
+Alphabetized the names in checkouts.
+
+You had a redirect loop:  index.php includes auto.php which includes autoupdate.php which loads index.php via the header command.  Took out the header command.  After that, when I'd log in, it would take me to a blank screen:  login.php loads autoupdate.php with the header command.  Changed it to an include.  Still not working.
+
+I note that you call exit with an error message saying password is wrong.  I want it as an error message.  I'm passing it as a URL argument and having login.php print it.
+
+For Ryan to do:  
+
+//Please -- have a successful (or unsuccessful) registration take me back to the admin's page!  Not with a mouse click, but immediately!
+
+We need to be able to change the date of the meeting, permanently, from the admin page.  Say, meetings are on Monday, but as of 12/1 meetings are on Tuesday.
+
+INDENT YOUR STYLES.CSS FILE
+
+
+
+

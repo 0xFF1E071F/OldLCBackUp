@@ -1,0 +1,5 @@
+*Batrachosauroididae*,*Batrachosauroides*,**,**,**,*dissimulans*
+*Ceratopsia*,*Ceratopidae*,**,**,**,*Triceratops*
+*Varanoidea*,*Dolichosauridae*,**,**,**,*Euarthrodira*
+*Apsidospondyli*,*Labyrinthodontia*,**,**,**,*Ichthyostegalia, Loxembolomeri, Embolospondyli, Rhachitomi primitivi, Rhachitomi typici, Neorhachitomi, and Stereospondyli); 1958G, H (first finds in*
+

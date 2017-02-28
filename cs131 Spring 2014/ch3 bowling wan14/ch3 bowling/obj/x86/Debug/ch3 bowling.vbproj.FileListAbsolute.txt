@@ -1,0 +1,80 @@
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\bin\Debug\ch3 bowling.exe
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\bin\Debug\ch3 bowling.pdb
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\bin\Debug\ch3 bowling.xml
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+C:\Users\norko_w\AppData\Local\Temporary Projects\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+E:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+E:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+E:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+H:\ch3 bowling\ch3 bowling\bin\Debug\ch3 bowling.exe
+H:\ch3 bowling\ch3 bowling\bin\Debug\ch3 bowling.pdb
+H:\ch3 bowling\ch3 bowling\bin\Debug\ch3 bowling.xml
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ch3 bowling\ch3 bowling\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+E:\ch3 bowling2\ch3 bowling\bin\Debug\ch3 bowling.exe
+E:\ch3 bowling2\ch3 bowling\bin\Debug\ch3 bowling.pdb
+E:\ch3 bowling2\ch3 bowling\bin\Debug\ch3 bowling.xml
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ch3 bowling2\ch3 bowling\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+F:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+F:\ch3 bowling2\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+E:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.exe
+E:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.pdb
+E:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.xml
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+F:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.exe
+F:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.pdb
+F:\ch3 bowling wan13\ch3 bowling\bin\Debug\ch3 bowling.xml
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+F:\ch3 bowling wan13\ch3 bowling\obj\x86\Debug\ch3 bowling.vbproj.GenerateResource.Cache
+F:\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+F:\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+F:\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.exe
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.pdb
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.xml
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+P:\cs131Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.exe
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.xml
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.pdb
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.exe
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.pdb
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\bin\Debug\ch3 bowling.xml
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3_bowling.Form1.resources
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3_bowling.Resources.resources
+P:\cs131 Spring 2014\ch3 bowling wan14\ch3 bowling\obj\x86\Debug\ch3 bowling.vbproj.GenerateResource.Cache

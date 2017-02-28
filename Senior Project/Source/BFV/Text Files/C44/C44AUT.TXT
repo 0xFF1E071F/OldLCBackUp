@@ -1,0 +1,5400 @@
+44,1,*Abbie, Andrew Arthur*,**,**
+44,2,*Abbie, Andrew Arthur*,**,**
+44,3,*Abbot, Charles Greeley*,**,**
+44,4,*Abbot, Charles Greeley*,**,**
+44,5,*Abel, Othenio*,**,**
+44,7,*Abel, Othenio*,**,**
+44,8,*Abel, Othenio*,**,**
+44,9,*Abel, Othenio*,**,**
+44,10,*Abel, Othenio*,**,**
+44,11,*Absalom, R. Gregory*,**,**
+44,11,*Henderson, S. M. K.*,**,**
+44,12,*Absolon, Karel*,*= Charles*,**
+44,13,*Absolon, Karel*,*= Charles*,**
+44,14,*Absolon, K.*,**,**
+44,14,*Adamek, F.*,**,**
+44,15,*Ackerknecht, Erwin Heinz*,**,**
+44,18,*Adams, Leverett Allen*,**,**
+44,19,*Adkins, Walter Scott*,**,**
+44,20,*Adrian, Walther*,**,**
+44,21,*Aichel, Otto*,**,**
+44,22,*Aiyappan, A.*,**,**
+44,23,*Aiyappan, A.*,**,**
+44,24,*Aiyengar, N. K. N.*,**,**
+44,24,*Venkataram, M. S.*,**,**
+44,25,*Alberti, Antonio*,**,**
+44,26,*Alcobe%A, Santiago*,**,**
+44,27,*Alcock, Frederick James*,**,**
+44,28,*Alden, William Clinton*,**,**
+44,30,*Alimen, Marie-Henriette*,**,**
+44,31,*Alimen, Marie-Henriette*,**,**
+44,32,*Alimen, Marie-Henriette*,**,**
+44,33,*Allen, John Eliot*,**,**
+44,34,*Allison, Ira Shimmin*,**,**
+44,35,*Allison, Ira Shimmin*,**,**
+44,36,*Almagro Basch, MartI%An*,**,**
+44,37,*Almagro Basch, MartI%An*,**,**
+44,38,*Almagro Basch, MartI%An*,**,**
+44,39,*Almagro Basch, MartI%An*,**,**
+44,40,*Almagro Basch, MartI%An*,**,**
+44,41,*Almagro Basch, MartI%An*,**,**
+44,42,*Almagro Basch, MartI%An*,**,**
+44,43,*Almagro Basch, MartI%An*,**,**
+44,44,*Almagro Basch, MartI%An*,**,**
+44,45,*Almela, Antonio*,**,**
+44,46,*Alonso, Juana Fe%Arna%Andez*,**,**
+44,47,*Alvarez, Elsa H. E. Fernandez de*,**,**
+44,48,*Alvarez, Elsa H. E. Fernandez de*,**,**
+44,49,*Alvarez, Elsa H. E. Fernandez de*,**,**
+44,50,*Amadeo Artayeta, Enrique*,**,**
+44,51,*Amadon, Dean*,**,**
+44,52,*Amadon, Dean*,**,**
+44,53,*Ame%Ade%Ae, J.*,**,**
+44,53,*Bouyssonie, J.*,**,**
+44,54,*Ameel, Donald Jules*,**,**
+44,55,*Ampferer, Otto*,**,**
+44,56,*Amrein, Wilhelm*,**,**
+44,57,*Amsden, Charles*,**,**
+44,58,*Ande%Arez, P. Valeriano, S. J.*,**,**
+44,59,*Ande%Arez, P. Valeriano, S. J.*,**,**
+44,60,*Anderson, C. C.*,**,**
+44,60,*Sorenson, J. H.*,**,**
+44,61,*Andersson, Johan Gunnar*,**,**
+44,62,*Andersson, Johan Gunnar*,**,**
+44,63,*Andersson, Johan Gunnar*,**,**
+44,65,*Andre%Ae, Julius*,**,**
+44,66,*Andre%Ae, Julius*,**,**
+44,67,*Andre%Ae, Julius*,**,**
+44,68,*Andreeva, Tamara*,**,**
+44,69,*Andrews, H. A., et al.*,**,**
+44,71,*Andrews, Roy Chapman*,**,**
+44,72,*Andrews, Roy Chapman*,**,**
+44,73,*Anelli, F.*,**,**
+44,74,*Anelli, F.*,**,**
+44,75,*Angel, John Lawrence*,**,**
+44,76,*Angelis d'Ossat, Gioacchino de*,**,**
+44,77,*Angelroth, H.*,**,**
+44,78,*Angelroth, H.*,**,**
+44,79,*Angelroth, H.*,**,**
+44,80,*Anonymous*,**,**
+44,81,*Anonymous*,**,**
+44,82,*Anonymous*,**,**
+44,83,*Anonymous*,**,**
+44,84,*Anonymous*,**,**
+44,85,*Anonymous*,**,**
+44,86,*Anonymous*,**,**
+44,87,*Anonymous*,**,**
+44,88,*Anonymous*,**,**
+44,89,*Anonymous*,**,**
+44,90,*Anonymous*,**,**
+44,91,*Anonymous*,**,**
+44,92,*Anonymous*,**,**
+44,93,*Anonymous*,**,**
+44,94,*Anonymous*,**,**
+44,95,*Anonymous*,**,**
+44,96,*Anonymous*,**,**
+44,97,*Anonymous*,**,**
+44,98,*Anonymous*,**,**
+44,99,*Anonymous*,**,**
+44,100,*Anonymous*,**,**
+44,101,*Anonymous*,**,**
+44,102,*Anonymous*,**,**
+44,103,*Anonymous*,**,**
+44,104,*Anonymous*,**,**
+44,105,*Anonymous*,**,**
+44,106,*Anonymous*,**,**
+44,107,*Anonymous*,**,**
+44,108,*Anonymous*,**,**
+44,109,*Anonymous*,**,**
+44,110,*Anonymous*,**,**
+44,111,*Anonymous*,**,**
+44,112,*Anonymous*,**,**
+44,113,*Anonymous*,**,**
+44,114,*Anonymous*,**,**
+44,115,*Anonymous*,**,**
+44,116,*Anonymous*,**,**
+44,117,*Anonymous*,**,**
+44,118,*Anonymous*,**,**
+44,119,*Anonymous*,**,**
+44,120,*Anonymous*,**,**
+44,121,*Anonymous*,**,**
+44,122,*Anonymous*,**,**
+44,123,*Anonymous*,**,**
+44,124,*Anonymous*,**,**
+44,125,*Anonymous*,**,**
+44,126,*Anonymous*,**,**
+44,127,*Anonymous*,**,**
+44,128,*Anonymous*,**,**
+44,129,*Anonymous*,**,**
+44,130,*Anonymous*,**,**
+44,131,*Anonymous*,**,**
+44,132,*Anonymous*,**,**
+44,133,*Anonymous*,**,**
+44,134,*Anonymous*,**,**
+44,135,*Anonymous*,**,**
+44,136,*Anonymous*,**,**
+44,137,*Anonymous*,**,**
+44,138,*Anonymous*,**,**
+44,139,*Anonymous*,**,**
+44,140,*Anonymous*,**,**
+44,141,*Anonymous*,**,**
+44,142,*Anonymous*,**,**
+44,143,*Anonymous*,**,**
+44,144,*Anonymous*,**,**
+44,145,*Anonymous*,**,**
+44,146,*Anonymous*,**,**
+44,147,*Anonymous*,**,**
+44,148,*Anonymous*,**,**
+44,149,*Anonymous*,**,**
+44,150,*Anonymous*,**,**
+44,151,*Anonymous*,**,**
+44,152,*Anonymous*,**,**
+44,153,*Anonymous*,**,**
+44,154,*Anonymous*,**,**
+44,155,*Anonymous*,**,**
+44,156,*Anonymous*,**,**
+44,157,*Anonymous*,**,**
+44,158,*Anonymous*,**,**
+44,159,*Anonymous*,**,**
+44,160,*Anonymous*,**,**
+44,161,*Anonymous*,**,**
+44,162,*Anonymous*,**,**
+44,163,*Anonymous*,**,**
+44,164,*Anonymous*,**,**
+44,165,*Anonymous*,**,**
+44,166,*Anonymous*,**,**
+44,167,*Anonymous*,**,**
+44,168,*Anonymous*,**,**
+44,169,*Anonymous*,**,**
+44,170,*Anonymous*,**,**
+44,171,*Anonymous*,**,**
+44,172,*Anonymous*,**,**
+44,173,*Anonymous*,**,**
+44,174,*Anonymous*,**,**
+44,175,*Anonymous*,**,**
+44,176,*Anonymous*,**,**
+44,177,*Anonymous*,**,**
+44,178,*Anonymous*,**,**
+44,179,*Anonymous*,**,**
+44,180,*Anonymous*,**,**
+44,181,*Anonymous*,**,**
+44,182,*Anonymous*,**,**
+44,183,*Anonymous*,**,**
+44,184,*Anonymous*,**,**
+44,185,*Anonymous*,**,**
+44,186,*Anonymous*,**,**
+44,187,*Anonymous*,**,**
+44,188,*Anonymous*,**,**
+44,189,*Anonymous*,**,**
+44,190,*Anonymous*,**,**
+44,191,*Anonymous*,**,**
+44,192,*Anonymous*,**,**
+44,193,*Anonymous*,**,**
+44,194,*Anonymous*,**,**
+44,195,*Anonymous*,**,**
+44,196,*Anonymous*,**,**
+44,197,*Anonymous*,**,**
+44,198,*Anonymous*,**,**
+44,199,*Anonymous*,**,**
+44,200,*Anonymous*,**,**
+44,201,*Anonymous*,**,**
+44,202,*Anonymous*,**,**
+44,203,*Anonymous*,**,**
+44,204,*Anonymous*,**,**
+44,205,*Anonymous*,**,**
+44,206,*Anonymous*,**,**
+44,207,*Anonymous*,**,**
+44,208,*Anonymous*,**,**
+44,209,*Anonymous*,**,**
+44,210,*Anonymous*,**,**
+44,211,*Anonymous*,**,**
+44,212,*Anonymous*,**,**
+44,213,*Anonymous*,**,**
+44,214,*Anonymous*,**,**
+44,215,*Anonymous*,**,**
+44,216,*Anonymous*,**,**
+44,217,*Anonymous*,**,**
+44,218,*Anonymous*,**,**
+44,219,*Anonymous*,**,**
+44,220,*Anonymous*,**,**
+44,221,*Anonymous*,**,**
+44,222,*Anonymous*,**,**
+44,223,*Anonymous*,**,**
+44,224,*Anonymous*,**,**
+44,225,*Anonymous*,**,**
+44,226,*Anonymous*,**,**
+44,227,*Anonymous*,**,**
+44,228,*Anonymous*,**,**
+44,229,*Anonymous*,**,**
+44,230,*Anonymous*,**,**
+44,231,*Anonymous*,**,**
+44,232,*Anonymous*,**,**
+44,233,*Anonymous*,**,**
+44,234,*Anonymous*,**,**
+44,235,*Anonymous*,**,**
+44,236,*Anonymous*,**,**
+44,237,*Anonymous*,**,**
+44,238,*Anonymous*,**,**
+44,239,*Anonymous*,**,**
+44,240,*Anonymous*,**,**
+44,241,*Anonymous*,**,**
+44,242,*Anonymous*,**,**
+44,243,*Anonymous*,**,**
+44,244,*Anonymous*,**,**
+44,245,*Anonymous*,**,**
+44,246,*Anonymous*,**,**
+44,247,*Anonymous*,**,**
+44,248,*Anonymous*,**,**
+44,249,*Anonymous*,**,**
+44,250,*Anonymous*,**,**
+44,251,*Anonymous*,**,**
+44,252,*Anonymous*,**,**
+44,253,*Anonymous*,**,**
+44,254,*Anonymous*,**,**
+44,255,*Anonymous*,**,**
+44,256,*Anonymous*,**,**
+44,257,*Anonymous*,**,**
+44,258,*Anonymous*,**,**
+44,259,*Anonymous*,**,**
+44,260,*Anonymous*,**,**
+44,261,*Anonymous*,**,**
+44,262,*Antevs, Ernst Valdemar*,**,**
+44,263,*Antevs, Ernst Valdemar*,**,**
+44,264,*Antevs, Ernst Valdemar*,**,**
+44,265,*Antevs, Ernst Valdemar*,**,**
+44,266,*Antevs, Ernst Valdemar*,**,**
+44,267,*Antevs, Ernst Valdemar*,**,**
+44,268,*Antevs, Ernst Valdemar*,**,**
+44,269,*Antevs, Ernst Valdemar*,**,**
+44,270,*Anthony, Jean*,**,**
+44,271,*Anthony, Jean*,**,**
+44,272,*Anthony, Raoul Louis Ferdinand*,**,**
+44,272,*Friant, M.*,**,**
+44,273,*Antoine, M.*,**,**
+44,274,*Antoine, M.*,**,**
+44,275,*Antonielli, U.*,**,**
+44,276,*Antoniewicz, Cerzy*,**,**
+44,280,*Arambourg, Camille*,**,**
+44,281,*Arambourg, Camille*,**,**
+44,282,*Arambourg, Camille*,**,**
+44,284,*Arambourg, Camille*,**,**
+44,285,*Arambourg, Camille*,**,**
+44,286,*Arambourg, Camille*,**,**
+44,287,*Arambourg, Camille*,**,**
+44,288,*Arambourg, Camille*,**,**
+44,289,*Arambourg, Camille*,**,**
+44,290,*Arambourg, Camille*,**,**
+44,291,*Arambourg, Camille*,**,**
+44,292,*Arambourg, Camille*,**,**
+44,293,*Arambourg, Camille*,**,**
+44,294,*Arambourg, Camille*,**,**
+44,295,*Arambourg, Camille*,**,**
+44,296,*Arambourg, Camille*,**,**
+44,298,*Arambourg, Camille*,**,**
+44,299,*Arambourg, Camille*,**,**
+44,300,*Arambourg, Camille*,**,**
+44,301,*Arambourg, Camille*,**,**
+44,302,*Arambourg, Camille*,**,**
+44,303,*Arambourg, Camille*,**,**
+44,304,*Arambourg, Camille*,**,**
+44,305,*Aranzadi, Telesforo de*,**,**
+44,305,*Barandiaran, J. M. de*,**,**
+44,306,*Archey, Gilbert*,**,**
+44,307,*Archey, G.*,**,**
+44,307,*Allen, R. S.*,**,**
+44,308,*Arellano, Alberto R. V.*,**,**
+44,309,*Arellano, Alberto R. V.*,**,**
+44,310,*Arellano, Alberto R. V.*,**,**
+44,311,*Arellano, Alberto R. V.*,**,**
+44,312,*Arellano, Alberto R. V.*,**,**
+44,313,*Arellano, A. R. V.*,**,**
+44,313,*Bryan, K.*,**,**
+44,314,*Arellano, A. R. V.*,**,**
+44,314,*Mu%Fller, Florencia*,**,**
+44,315,*Arias, Paolo Enrico*,**,**
+44,316,*Arie%Fns Kappers, Cornelius Ubbo*,**,**
+44,318,*Arie%Fns Kappers, Johannes*,**,**
+44,319,*Arkell, Anthony John*,**,**
+44,320,*Arkell, William Joscelyn*,**,**
+44,321,*Arkell, William Joscelyn*,**,**
+44,322,*Arkell, William Joscelyn*,**,**
+44,323,*Arkell, William Joscelyn*,**,**
+44,324,*Arkell, William Joscelyn*,**,**
+44,325,*Arkell, William Joscelyn*,**,**
+44,326,*Arkell, William Joscelyn*,**,**
+44,327,*Arkell, William Joscelyn*,**,**
+44,328,*Armattoe, Raphael Ernest Grail*,**,**
+44,329,*Arnal, J.*,**,**
+44,329,*Jeanjean, L.*,**,**
+44,330,*Ashe, Thomas*,**,**
+44,331,*Ashley, George Hall*,**,**
+44,332,*Ashley, George Hall*,**,**
+44,333,*Ashley, Hallam*,**,**
+44,334,*Ashley, William H.*,**,**
+44,336,*Ashley-Montagu, Montague Francis*,**,**
+44,337,*Ashley-Montagu, Montague Francis*,**,**
+44,338,*Ashley-Montagu, Montague Francis*,**,**
+44,339,*Ashley-Montagu, Montague Francis*,**,**
+44,340,*Ashley-Montagu, Montague Francis*,**,**
+44,341,*Ashley-Montagu, Montague Francis*,**,**
+44,342,*Ashley-Montagu, M. F.*,**,**
+44,342,*Peterson, C. B.*,**,**
+44,343,*Asmus, Gisela*,**,**
+44,344,*Assirelli, Oddone*,**,**
+44,345,*Astre, Gaston*,**,**
+44,346,*Astre, Gaston*,**,**
+44,347,*Astre, Gaston*,**,**
+44,348,*Astre, Gaston*,**,**
+44,349,*Astre, Gaston*,**,**
+44,350,*Astre, Gaston*,**,**
+44,351,*Astre, Gaston*,**,**
+44,352,*Astre, Gaston*,**,**
+44,353,*Astre, Gaston*,**,**
+44,354,*Astre, Gaston*,**,**
+44,355,*Astre, Gaston*,**,**
+44,356,*Astre, Gaston*,**,**
+44,357,*Atkinson, R. J. C.*,**,**
+44,358,*Aufre%Cre, Le%Aon Arthur*,**,**
+44,360,*Augusta, Josef*,**,**
+44,361,*Augusta, Josef*,**,**
+44,362,*Augusta, Josef*,**,**
+44,363,*Augusta, J.*,**,**
+44,363,*Hokr, Z.*,**,**
+44,364,*Augusta, J.*,**,**
+44,364,*Hokr, Z.*,**,**
+44,366,*Ayres, William O.*,**,**
+44,367,*Azzaroli, Augusto*,**,**
+44,368,*Azzaroli, Augusto*,**,**
+44,369,*Ba%Fchler, Hans*,**,**
+44,370,*Ba%Fchler, Hans*,**,**
+44,371,*Bachofen-Echt, Adolf*,**,**
+44,372,*Bachofen-Echt, Adolf*,**,**
+44,373,*Baden-Powell, Donald Ferlys Wilson*,**,**
+44,374,*Baden-Powell, D. F. W.*,**,**
+44,374,*Moir, J. R.*,**,**
+44,375,*Bader, O. N.*,**,**
+44,376,*Bader, O. N.*,**,**
+44,377,*Baer, J. G.*,**,**
+44,378,*Bagg, Rufus Mather*,**,**
+44,379,*Bahlis, Jorge*,**,**
+44,380,*Bailey, Alfred Marshall*,**,**
+44,381,*Bailey, Edward Battersby*,**,**
+44,382,*Bailey, Jacob Whitman*,**,**
+44,383,*Bailey, John Wendell*,**,**
+44,384,*Bailloud, G.*,**,**
+44,385,*Bailloud, G.*,**,**
+44,385,*Tendron, G.*,**,**
+44,386,*Balabai%J, P. P.*,**,**
+44,387,*Balabai%J, P. P.*,**,**
+44,388,*Balagny, (Colonel)*,**,**
+44,389,*Balch, Herbert Ernest*,**,**
+44,390,*Baldwin, Gordon*,**,**
+44,391,*Ball, L. C.*,**,**
+44,392,*Balout, Lionel*,**,**
+44,393,*Balout, Lionel*,**,**
+44,394,*Bandi, Hans-Georg*,**,**
+44,395,*Bandi, Hans-Georg*,**,**
+44,396,*Bandi, Hans-Georg*,**,**
+44,397,*Bandi, Hans-Georg*,**,**
+44,398,*Bandi, Hans-Georg*,**,**
+44,399,*Bandi, Hans-Georg*,**,**
+44,400,*Barandiaran, Jose%A Miguel de*,*= Joseph-Michel*,**
+44,401,*Barandiaran, Jose%A Miguel de*,*= Joseph-Michel*,**
+44,402,*Barandiaran, Jose%A Miguel de*,*= Joseph-Michel*,**
+44,403,*Barbour, Erwin Hinckley*,**,**
+44,403,*Fisher, C. A.*,**,**
+44,404,*Barbour, Thomas*,**,**
+44,405,*Ba%Arcena, Mariano*,**,**
+44,406,*Ba%Arcena, Mariano*,**,**
+44,407,*Ba%Arcena, Mariano*,**,**
+44,408,*Barclay, Oliver R.*,**,**
+44,409,*Barlow, N. E.*,**,**
+44,410,*Barner, Wilhelm*,**,**
+44,411,*Barnes, Alfred S.*,**,**
+44,411,*Bury, H.*,**,**
+44,411,*Baden-Powell, D. F. W.*,**,**
+44,412,*Barocelli, Pietro*,**,**
+44,413,*Barocelli, Pietro*,**,**
+44,414,*Barocelli, Pietro*,**,**
+44,415,*Barocelli, Pietro*,**,**
+44,416,*Barocelli, Pietro*,**,**
+44,417,*Barocelli, Pietro*,**,**
+44,418,*Barone, R.*,**,**
+44,419,*Barradas, Lereno Antunes*,**,**
+44,420,*Barras de Arago%An, F. de las*,**,**
+44,421,*Bartha, Ferenc*,**,**
+44,422,*Bassler, Ray Smith*,**,**
+44,423,*Bassler, Ray Smith*,**,**
+44,424,*Bassler, Ray Smith*,**,**
+44,425,*Bassler, Ray Smith*,**,**
+44,426,*Bassler, Ray Smith*,**,**
+44,427,*Bassler, Ray Smith*,**,**
+44,428,*Bassler, Ray Smith*,**,**
+44,429,*Bassler, Ray Smith*,**,**
+44,430,*Bassler, Ray Smith*,**,**
+44,431,*Bassler, Ray Smith*,**,**
+44,432,*Bassler, Ray Smith*,**,**
+44,433,*Bastin de Longueville, Alfred H.*,**,**
+44,435,*Bataller Calatayud, Jose%A Ramo%An*,**,**
+44,436,*Bataller Calatayud, J. R.*,**,**
+44,436,*Sampelayo, P. H.*,**,**
+44,437,*Bataller Calatayud, J. R.*,**,**
+44,437,*Sampelayo, P. H.*,**,**
+44,438,*Bate, Dorothea Minola Alice*,**,**
+44,440,*Bate, Dorothea Minola Alice*,**,**
+44,441,*Bate, Dorothea Minola Alice*,**,**
+44,442,*Bate, Dorothea Minola Alice*,**,**
+44,443,*Bateman, Philip*,**,**
+44,444,*Bates, Robert Latimer*,**,**
+44,444,*Burks, M. R.*,**,**
+44,445,*Battaglia, Raffaello*,**,**
+44,446,*Battaglia, Raffaello*,**,**
+44,447,*Battaglia, Raffaello*,**,**
+44,448,*Battaglia, Raffaello*,**,**
+44,449,*Battaglia, Raffaello*,**,**
+44,450,*Battaglia, Raffaello*,**,**
+44,451,*Battaglia, Raffaello*,**,**
+44,452,*Battaglia, Raffaello*,**,**
+44,453,*Battaglia, Raffaello*,**,**
+44,454,*Battaglia, Raffaello*,**,**
+44,455,*Battetta, J.*,**,**
+44,456,*Baudet, J.*,**,**
+44,457,*Baudet, J.*,**,**
+44,458,*Baudet, J.*,**,**
+44,459,*Baudet, J.*,**,**
+44,460,*Baudet, J.*,**,**
+44,461,*Baudet, J.*,**,**
+44,462,*Baudet, J.*,**,**
+44,463,*Baudet, J.*,**,**
+44,464,*Baudet, J.*,**,**
+44,465,*Baudet, J.*,**,**
+44,466,*Baudet, J.*,**,**
+44,467,*Baudet, J.*,**,**
+44,468,*Baughman, John Lafferty*,**,**
+44,469,*Bauza%A Rulla%An, Juan*,**,**
+44,470,*Bauza%A Rulla%An, Juan*,**,**
+44,471,*Bauza%A Rulla%An, Juan*,**,**
+44,472,*Bauza%A Rulla%An, Juan*,**,**
+44,473,*Bauza%A Rulla%An, Juan*,**,**
+44,474,*Bauza%A Rulla%An, Juan*,**,**
+44,475,*Bauza%A Rulla%An, Juan*,**,**
+44,476,*Bauza%A Rulla%An, Juan*,**,**
+44,477,*Bauza%A Rulla%An, Juan*,**,**
+44,478,*Bay, Roland*,**,**
+44,479,*Bayol, (L'Abbe%A) J.*,**,**
+44,479,*Paulus, M.*,**,**
+44,480,*Beadnell, Charles Marsh*,**,**
+44,481,*Beal, Carl Hugh*,**,**
+44,482,*Beck, Paul*,**,**
+44,483,*Becksmann, Ernst*,**,**
+44,484,*Beebe, William*,*= Charles William Beebe*,**
+44,485,*Beer, G. R. de*,**,**
+44,486,*Beer, G. R. de*,**,**
+44,487,*Beevers, C. A.*,**,**
+44,487,*McIntyre, D. B.*,**,**
+44,488,*Behn, Friedrich*,**,**
+44,489,*Beirne, Bryan P.*,**,**
+44,490,*Beltra%An, Antonio*,**,**
+44,491,*Beltra%An, Enrique*,**,**
+44,493,*Benedict, Ruth*,**,**
+44,494,*Benet-Tygel, Sula*,*= Sula Benet*,**
+44,495,*Benet-Tygel, Sula*,*= Sula Benet*,**
+44,496,*Bennett, W. H.*,**,**
+44,497,*Benson, Robert B.*,**,**
+44,498,*Bequaert, Maurits*,*= Maurice*,**
+44,499,*Bequaert, Maurits*,*= Maurice*,**
+44,500,*Bequaert, Maurits*,*= Maurice*,**
+44,501,*Bequaert, Maurits*,*= Maurice*,**
+44,502,*Bequaert, Maurits*,*= Maurice*,**
+44,503,*Bequaert, Maurits*,*= Maurice*,**
+44,504,*Bequaert, Maurits*,*= Maurice*,**
+44,505,*Bequaert, Maurits*,*= Maurice*,**
+44,506,*Bequaert, Maurits*,*= Maurice*,**
+44,507,*Bequaert, Maurits*,*= Maurice*,**
+44,508,*Bequaert, Maurits*,*= Maurice*,**
+44,509,*Bequaert, Maurits*,*= Maurice*,**
+44,510,*Bequaert, Maurits*,*= Maurice*,**
+44,511,*Bequaert, Maurits*,*= Maurice*,**
+44,513,*Berg, Leo Semenovich*,**,**
+44,514,*Berg, Leo Semenovich*,**,**
+44,515,*Berg, Leo Semenovich*,**,**
+44,516,*Berg, Leo Semenovich*,**,**
+44,517,*Berg, Leo Semenovich*,**,**
+44,518,*Bergeaud, Georges*,**,**
+44,519,*Berghe, L. Van Den*,**,**
+44,519,*Bone%A, G.*,**,**
+44,520,*Bergounioux, Fre%Ade%Aric-Marie*,**,**
+44,520,*Glory, A.*,**,**
+44,521,*Bergquist, Stanard Gustaf*,**,**
+44,523,*Beringer, Carl Christoph*,**,**
+44,524,*Beringer, Carl Christoph*,**,**
+44,525,*Berkey, Charles Peter*,**,**
+44,526,*Bernabo%C Brea, Luigi*,**,**
+44,527,*Bernabo%C Brea, Luigi*,**,**
+44,528,*Bernabo%C Brea, Luigi*,**,**
+44,529,*Bernabo%C Brea, Luigi*,**,**
+44,530,*Bernabo%C Brea, Luigi*,**,**
+44,531,*Bernoulli, Walter von*,**,**
+44,532,*Bernoulli, Walter von*,**,**
+44,533,*Bernoulli, Walter von*,**,**
+44,534,*Bernoulli, Walter von*,**,**
+44,535,*Bertin, Le%Aon*,**,**
+44,536,*Bertin, Le%Aon*,**,**
+44,537,*Bertsch, Karl*,**,**
+44,537,*Bertsch, Franz*,**,**
+44,538,*Besairie, Henri*,**,**
+44,539,*Besmer, Albert*,**,**
+44,540,*Betts, E. H.*,**,**
+44,541,*Beurlen, Karl*,**,**
+44,542,*Beurlen, Karl*,**,**
+44,543,*Beurlen, K.*,**,**
+44,543,*Lehmann, U.*,**,**
+44,544,*Beyer, H. Otley*,**,**
+44,545,*Biasutti, Renato*,**,**
+44,546,*Bibikov, S. N.*,**,**
+44,547,*Bibikov, S. N.*,**,**
+44,548,*Bibikov, S. N.*,**,**
+44,549,*Bibikov, S. N.*,**,**
+44,550,*Bibikov, S. N.*,**,**
+44,551,*Biederman, Charles*,**,**
+44,552,*Bigot, Alexandre*,**,**
+44,554,*Bigot, Alexandre*,**,**
+44,555,*Bigot, A.*,**,**
+44,555,*Gosselin, L.*,**,**
+44,557,*Bijlmer, Hendricus Johannes Tobias*,**,**
+44,558,*Bijvanck, A. W.*,**,**
+44,559,*Billiard, Georges*,**,**
+44,560,*Bird, Roland T.*,**,**
+44,561,*Birket-Smith, Kaj*,**,**
+44,562,*Birket-Smith, Kaj*,**,**
+44,563,*Birket-Smith, Kaj*,**,**
+44,564,*Birkner, Ferdinand*,**,**
+44,565,*Bischoff, Erwin W.*,**,**
+44,566,*Bischoff, E. W.*,**,**
+44,566,*Presley, F. R.*,**,**
+44,567,*Black, George Fraser*,**,**
+44,568,*Blackie, R. Churchill*,**,**
+44,569,*Blake, Emmet R.*,**,**
+44,570,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,571,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,573,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,574,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,575,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,578,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,582,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,583,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,584,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,587,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,588,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,589,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,590,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,591,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,592,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,593,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,594,*Blanc, Alberto Carlo*,*= Albert Charles*,**
+44,595,*Blanc, A. C.*,**,**
+44,595,*Tongiorgi, E.*,**,**
+44,596,*Blanc, A. C.*,**,**
+44,596,*Tongiorgi, E.*,**,**
+44,597,*Blanc, (Baron) Gian Alberto*,**,**
+44,598,*Blanc, (Baron) Gian Alberto*,**,**
+44,599,*Blanc, (Baron) Gian Alberto*,**,**
+44,600,*Blanc, G. A.*,**,**
+44,600,*Cortesi, C.*,**,**
+44,602,*Blanc, Se%Averin*,**,**
+44,603,*Blanchard, Jacques*,**,**
+44,604,*Blanchard, Jacques*,**,**
+44,605,*Blanchard, Jacques*,**,**
+44,606,*Blanchard, Jacques*,**,**
+44,607,*Blatchley, Willis Stanley*,**,**
+44,608,*Blayac, J.*,**,**
+44,609,*Blomstrand, Rolf*,**,**
+44,610,*Bocassino, Renato*,**,**
+44,611,*Bock, Wilhelm*,**,**
+44,612,*Boenzi, Salvatore*,**,**
+44,613,*Boer, A. J. de*,**,**
+44,614,*Bogachev, V. V.*,**,**
+44,615,*Bogachev, V. V.*,**,**
+44,616,*Bogachev, V. V.*,**,**
+44,617,*Bogert, C. M.*,**,**
+44,617,*Cowles, R. B.*,**,**
+44,618,*Bohlin, Birger*,**,**
+44,619,*Bohlin, Birger*,**,**
+44,622,*Bohlin, Birger*,**,**
+44,623,*Bo%Fhm, Boleslaw*,**,**
+44,624,*Bo%Fhm, Boleslaw*,**,**
+44,625,*Bo%Fhm, Jaroslav*,**,**
+44,626,*Bohmers, Assien*,**,**
+44,627,*Bohmers, Assien*,**,**
+44,628,*Bohmers, Assien*,**,**
+44,629,*Bolle, Fritz*,**,**
+44,630,*Bonarelli, Guido*,**,**
+44,631,*Bonarelli, Guido*,**,**
+44,632,*Bonarelli, Guido*,**,**
+44,633,*Bonarelli, Guido*,**,**
+44,634,*Bonch-Osmolovskii, G. A.*,**,**
+44,635,*Bonch-Osmolovskii, G. A.*,**,**
+44,636,*Bonch-Osmolovskii, G. A.*,**,**
+44,637,*Bonch-Osmolovskii, G. A.*,**,**
+44,638,*Bonch-Osmolovskii, G. A.*,**,**
+44,639,*Bonch-Osmolovskii, G. A.*,**,**
+44,639,*Gromov, V.*,**,**
+44,640,*Bond, Geoffrey*,**,**
+44,641,*Bond, Geoffrey*,**,**
+44,642,*Bond, Geoffrey*,**,**
+44,643,*Boni, Alfredo*,**,**
+44,644,*Boni, Alfredo*,**,**
+44,645,*Boni, Alfredo*,**,**
+44,646,*Boni, Alfredo*,**,**
+44,647,*Boni, Alfredo*,**,**
+44,648,*Bonnet, A.*,**,**
+44,649,*Boomgaard, W. H.*,**,**
+44,650,*Boonstra, Lieuwe Dirk*,**,**
+44,651,*Boonstra, Lieuwe Dirk*,**,**
+44,652,*Borah, Leo A.*,**,**
+44,653,*Bordas, Alejandro F.*,**,**
+44,654,*Bordas, Alejandro F.*,**,**
+44,655,*Bordas, Alejandro F.*,**,**
+44,656,*Bordas, Alejandro F.*,**,**
+44,657,*Bordas, Alejandro F.*,**,**
+44,658,*Bordas, Alejandro F.*,**,**
+44,659,*Bordes, Francois*,**,**
+44,660,*Bordes, Francois*,**,**
+44,661,*Bordes, Francois*,**,**
+44,662,*Bordes, F.*,**,**
+44,662,*Bourgon, Maurice*,**,**
+44,663,*Bordes, F.*,**,**
+44,663,*Fitte, P.*,**,**
+44,664,*Borges, A.*,**,**
+44,665,*Borges, A.*,**,**
+44,666,*Boring, Alice Middleton*,**,**
+44,668,*Boring, A. M.*,**,**
+44,668,*Leroy, P.*,**,**
+44,669,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,670,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,671,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,672,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,673,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,674,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,675,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,676,*Borisiak, Alexei Alexievich*,*=Borissiak*,**
+44,677,*Boriskovski, P. I.*,**,**
+44,678,*Boriskovski, P. I.*,**,**
+44,679,*Boriskovski, P. I.*,**,**
+44,680,*Boriskovski, P. I.*,**,**
+44,681,*Boriskovski, P. I.*,**,**
+44,682,*Boriskovski, P. I.*,**,**
+44,683,*Boriskovski, P. I.*,**,**
+44,684,*Bork-Feltkamp, Ade%Cle Jeanette van*,*=A. J. (Feltkamp) van Bork*,**
+44,685,*Bork-Feltkamp, Ade%Cle Jeanette van*,*=A. J. (Feltkamp) van Bork*,**
+44,686,*Bosch-Gimpera, Pedro*,**,**
+44,687,*Boschma, Hibrandt*,**,**
+44,688,*Boschma, Hibrandt*,**,**
+44,689,*Boschma, Hibrandt*,**,**
+44,690,*Boschma, Hibrandt*,**,**
+44,691,*Boschma, Hibrandt*,**,**
+44,692,*Bosco, R.*,**,**
+44,693,*Bose, Nirmal Kumar*,**,**
+44,694,*Bose, N. K.*,**,**
+44,694,*Sen, D.*,**,**
+44,695,*Bottet, Bernard*,**,**
+44,695,*Bottet, B.*,**,**
+44,696,*Boudy, P.*,**,**
+44,697,*Bouffard, Pierre*,**,**
+44,698,*Boule, Marcellin*,**,**
+44,700,*Boule, Marcellin*,**,**
+44,701,*Bourcart, J.*,**,**
+44,702,*Bourdelle, E%Adouard*,**,**
+44,703,*Bourdelle, E.*,**,**
+44,703,*Trombe, F.*,**,**
+44,704,*Bourdier, Franck*,**,**
+44,705,*Bourdier, Franck*,**,**
+44,706,*Bourdier, Franck*,**,**
+44,707,*Bourdier, Franck*,**,**
+44,708,*Bourdier, Franck*,**,**
+44,709,*Bourdier, Franck*,**,**
+44,710,*Bourgon, Maurice*,**,**
+44,711,*Bourret, R.*,**,**
+44,712,*Bout, P.*,**,**
+44,713,*Bouyssonie, (Abbe%A) Jean*,**,**
+44,714,*Bouyssonie, (Abbe%A) Jean*,**,**
+44,715,*Bouyssonie, (Abbe%A) Jean*,**,**
+44,716,*Bouyssonie, (Abbe%A) Jean*,**,**
+44,717,*Bouyssonie, (Abbe%A) Jean*,**,**
+44,718,*Bovee, Gladys G.*,**,**
+44,719,*Bowen, Wilfrid Wedgwood*,**,**
+44,720,*Bowsher, Arthur Leroy*,**,**
+44,720,*Greer, W. J.*,**,**
+44,721,*Bradley, Wilmot Hyde*,**,**
+44,722,*Brady, Lionel Francis*,**,**
+44,723,*Braestrup, F. W.*,**,**
+44,724,*Braidwood, Linda*,**,**
+44,725,*Braidwood, Robert John*,**,**
+44,726,*Braidwood, Robert John*,**,**
+44,727,*Braidwood, Robert John*,**,**
+44,728,*Braidwood, Robert John*,**,**
+44,729,*Braidwood, Robert John*,**,**
+44,730,*Braidwood, Robert John*,**,**
+44,731,*Braidwood, Robert John*,**,**
+44,732,*Bramwell, D.*,**,**
+44,732,*Wood, C.*,**,**
+44,733,*Branco, W.*,**,**
+44,734,*Brandt, Karl.*,**,**
+44,735,*Brandt, Karl.*,**,**
+44,736,*Brandt, Karl.*,**,**
+44,737,*Branner, John Casper*,**,**
+44,738,*Branner, John Casper*,**,**
+44,739,*Branson, Edwin Bayer*,**,**
+44,740,*Branson, Edwin Bayer*,**,**
+44,741,*Branson, Edwin Bayer*,**,**
+44,742,*Branson, Edwin Bayer*,**,**
+44,743,*Branson, E. B.*,**,**
+44,743,*Branson, C. C.*,**,**
+44,744,*Brauer, R.*,**,**
+44,745,*Braunholtz, Hermann J.*,**,**
+44,746,*Brause, Bruno*,**,**
+44,747,*Breder, Charles Marcus Jr.*,**,**
+44,747,*Clark, E.*,**,**
+44,748,*Brenner, Sydney*,**,**
+44,749,*Bretz, J Harlen*,**,**
+44,750,*Breuil, (L'Abbe%A) Henri*,**,**
+44,752,*Breuil, (L'Abbe%A) Henri*,**,**
+44,753,*Breuil, (L'Abbe%A) Henri*,**,**
+44,754,*Breuil, (L'Abbe%A) Henri*,**,**
+44,755,*Breuil, (L'Abbe%A) Henri*,**,**
+44,756,*Breuil, (L'Abbe%A) Henri*,**,**
+44,757,*Breuil, (L'Abbe%A) Henri*,**,**
+44,758,*Breuil, (L'Abbe%A) Henri*,**,**
+44,759,*Breuil, (L'Abbe%A) Henri*,**,**
+44,760,*Breuil, (L'Abbe%A) Henri*,**,**
+44,761,*Breuil, (L'Abbe%A) Henri*,**,**
+44,762,*Breuil, (L'Abbe%A) Henri*,**,**
+44,763,*Breuil, (L'Abbe%A) Henri*,**,**
+44,764,*Breuil, (L'Abbe%A) Henri*,**,**
+44,765,*Breuil, (L'Abbe%A) Henri*,**,**
+44,766,*Breuil, (L'Abbe%A) Henri*,**,**
+44,767,*Breuil, (L'Abbe%A) Henri*,**,**
+44,768,*Breuil, (L'Abbe%A) Henri*,**,**
+44,769,*Breuil, (L'Abbe%A) Henri*,**,**
+44,770,*Breuil, (L'Abbe%A) Henri*,**,**
+44,771,*Breuil, (L'Abbe%A) Henri*,**,**
+44,772,*Breuil, (L'Abbe%A) Henri*,**,**
+44,773,*Breuil, (L'Abbe%A) Henri*,**,**
+44,774,*Breuil, (L'Abbe%A) Henri*,**,**
+44,775,*Breuil, H.*,**,**
+44,775,*Aufre%Cre, L. A.*,**,**
+44,775,*Bowler-Kelly, A.*,**,**
+44,777,*Breuil, H.*,**,**
+44,777,*Durand, (L'Abbe%A)*,**,**
+44,778,*Breuil, H.*,**,**
+44,778,*Kelley, H.*,**,**
+44,780,*Breuil, H.*,**,**
+44,780,*Ribeiro, O.*,**,**
+44,780,*Zbyszewski, G.*,**,**
+44,782,*Breuil, H.*,**,**
+44,782,*Vaultier, M.*,**,**
+44,782,*Zbyszewski, G.*,**,**
+44,784,*Breuil, H.*,**,**
+44,784,*Zbyszewski, G.*,**,**
+44,785,*Breuil, H.*,**,**
+44,785,*Zbyszewski, G.*,**,**
+44,786,*Breuil, H.*,**,**
+44,786,*Zbyszewski, G.*,**,**
+44,787,*Brew, John Otis*,**,**
+44,788,*Brinton, Daniel Garrison*,**,**
+44,789,*Brinton, Daniel Garrison*,**,**
+44,790,*Briquet, A.*,**,**
+44,792,*Briusov, A., Ia.*,**,**
+44,793,*Brodar, Srec%Rko*,**,**
+44,794,*Brodrick, Alan Houghton*,**,**
+44,795,*Brodrick, Alan Houghton*,**,**
+44,796,*Brodrick, Alan Houghton*,**,**
+44,797,*Brody, Samuel*,**,**
+44,798,*Broek, Arnoldus Johannes Petrus van den*,**,**
+44,799,*Broek, Arnoldus Johannes Petrus van den*,**,**
+44,800,*Broek, Arnoldus Johannes Petrus van den*,**,**
+44,801,*Brogan, Phil F.*,**,**
+44,802,*Broili, Ferdinand*,**,**
+44,803,*Broili, Ferdinand*,**,**
+44,804,*Broili, F.*,**,**
+44,804,*Schro%Fder, J.*,**,**
+44,805,*Broms, Allan Strong*,**,**
+44,806,*Broms, Allan Strong*,**,**
+44,807,*Broms, Allan Strong*,**,**
+44,808,*Bro%Fndsted, Johannes Balthasar*,**,**
+44,809,*Brongersma, Leo Daniel*,**,**
+44,810,*Brongersma-Sanders, Margaretha*,**,**
+44,811,*Brongersma-Sanders, Margaretha*,**,**
+44,812,*Broom, Robert*,**,**
+44,813,*Broom, Robert*,**,**
+44,814,*Broom, Robert*,**,**
+44,815,*Broom, Robert*,**,**
+44,816,*Broom, Robert*,**,**
+44,817,*Broom, Robert*,**,**
+44,818,*Broom, Robert*,**,**
+44,819,*Broom, Robert*,**,**
+44,820,*Broom, Robert*,**,**
+44,821,*Broom, Robert*,**,**
+44,822,*Broom, Robert*,**,**
+44,824,*Broom, Robert*,**,**
+44,825,*Broom, Robert*,**,**
+44,826,*Broom, Robert*,**,**
+44,827,*Broom, Robert*,**,**
+44,828,*Broom, Robert*,**,**
+44,829,*Broom, Robert*,**,**
+44,830,*Broom, Robert*,**,**
+44,831,*Broom, Robert*,**,**
+44,832,*Broom, Robert*,**,**
+44,833,*Broom, Robert*,**,**
+44,834,*Broom, Robert*,**,**
+44,835,*Broom, Robert*,**,**
+44,836,*Broom, Robert*,**,**
+44,837,*Broom, Robert*,**,**
+44,838,*Broom, Robert*,**,**
+44,839,*Broom, Robert*,**,**
+44,840,*Broom, Robert*,**,**
+44,841,*Broom, Robert*,**,**
+44,842,*Broom, Robert*,**,**
+44,843,*Broom, Robert*,**,**
+44,844,*Broom, Robert*,**,**
+44,845,*Broom, Robert*,**,**
+44,846,*Broom, Robert*,**,**
+44,847,*Broom, Robert*,**,**
+44,848,*Broom, Robert*,**,**
+44,849,*Broom, Robert*,**,**
+44,850,*Broom, Robert*,**,**
+44,851,*Broom, Robert*,**,**
+44,852,*Broom, Robert*,**,**
+44,853,*Broom, Robert*,**,**
+44,854,*Broom, Robert*,**,**
+44,855,*Broom, Robert*,**,**
+44,856,*Broom, Robert*,**,**
+44,857,*Broom, Robert*,**,**
+44,858,*Broom, Robert*,**,**
+44,859,*Broom, Robert*,**,**
+44,860,*Broom, Robert*,**,**
+44,861,*Broom, Robert*,**,**
+44,862,*Broom, Robert*,**,**
+44,863,*Broom, Robert*,**,**
+44,864,*Broom, R.*,**,**
+44,864,*Jensen, J. S.*,**,**
+44,865,*Broom, R.*,**,**
+44,865,*Robinson, J. T.*,**,**
+44,866,*Broom, R.*,**,**
+44,866,*Robinson, J. T.*,**,**
+44,867,*Broom, R.*,**,**
+44,867,*Robinson, J. T.*,**,**
+44,868,*Broom, R.*,**,**
+44,868,*Robinson, J. T.*,**,**
+44,869,*Broom, R.*,**,**
+44,869,*Robinson, J. T.*,**,**
+44,870,*Broom, R.*,**,**
+44,870,*Robinson, J. T.*,**,**
+44,871,*Broom, R.*,**,**
+44,871,*Schepers, G. W. H.*,**,**
+44,872,*Brown, Clair Alan*,**,**
+44,873,*Brown, Ida A.*,**,**
+44,874,*Brown, (Mrs.) Lilian (MacLaughlin)*,*Mrs. Barnum Brown*,**
+44,875,*Brown, Roland Wilbur*,**,**
+44,876,*Brown, Roland Wilbur*,**,**
+44,877,*Brown, Roland Wilbur*,**,**
+44,878,*Brown, Roland Wilbur*,**,**
+44,879,*Brown, Roland Wilbur*,**,**
+44,880,*Brown, Roland Wilbur*,**,**
+44,881,*Brown, Roland Wilbur*,**,**
+44,882,*Browne, William Rowan*,**,**
+44,883,*Bruet, E.*,**,**
+44,884,*Brummelkamp, Reindort*,**,**
+44,885,*Brunner, Josef*,**,**
+44,886,*Brunner, Josef*,**,**
+44,887,*Brunner, Josef*,**,**
+44,888,*Bryan, Kirk*,**,**
+44,889,*Bryan, Kirk*,**,**
+44,890,*Bryan, Kirk*,**,**
+44,891,*Bryan, Kirk*,**,**
+44,892,*Bryant, Harold Child*,**,**
+44,893,*Bryant, Monroe David*,**,**
+44,894,*Bucher, Walter*,**,**
+44,895,*Budge, Chrissie E.*,**,**
+44,896,*Budge, Chrissie E.*,**,**
+44,897,*Buick, T. Lindsay*,**,**
+44,898,*Bu%Flow, Kurd von*,**,**
+44,899,*Bu%Flow, Kurd von*,**,**
+44,900,*Bu%Flow, Kurd von*,**,**
+44,901,*Bu%Flow, Kurd von*,**,**
+44,902,*Bu%Flow, Kurd von*,**,**
+44,903,*Bump, James Dye*,**,**
+44,904,*Bump, James Dye*,**,**
+44,905,*Bunak, V. V.*,**,**
+44,907,*Burchak-Abramovich, M.*,**,**
+44,908,*Burchell, James Percy Tufnell*,**,**
+44,909,*Burchell, J. P. T.*,**,**
+44,909,*Moir, J. R.*,**,**
+44,910,*Bureau, Rene%A*,**,**
+44,911,*Burge, Lorenzo*,**,**
+44,912,*Burkitt, Arthur Neville*,**,**
+44,913,*Burkitt, Arthur Neville*,**,**
+44,914,*Burkitt, Arthur Neville*,**,**
+44,915,*Burkitt, Arthur Neville*,**,**
+44,916,*Burkitt, Arthur Neville*,**,**
+44,917,*Burkitt, Arthur Neville*,**,**
+44,918,*Burkitt, Arthur Neville*,**,**
+44,919,*Burkitt, Arthur Neville*,**,**
+44,920,*Burkitt, Arthur Neville*,**,**
+44,921,*Burkitt, Arthur Neville*,**,**
+44,922,*Burkitt, M. C.*,**,**
+44,922,*Glover, P. E.*,**,**
+44,923,*Burland, Cottie Arthur*,**,**
+44,924,*Burleson, Gretchen Lyon*,**,**
+44,925,*Burnett, Raymond Will*,**,**
+44,926,*Bustos, Rodolfo Parodi*,**,**
+44,927,*Bustos, Rodolfo Parodi*,**,**
+44,928,*Bustos, Rodolfo Parodi*,**,**
+44,929,*Butler, Percy Milton*,**,**
+44,930,*Butler, Percy Milton*,**,**
+44,931,*Butler, Percy Milton*,**,**
+44,932,*Butter, J.*,**,**
+44,933,*Bu%Fttner, Paul von*,**,**
+44,934,*Bu%Fttner, Paul von*,**,**
+44,935,*Buxton, L. H. Dudley*,**,**
+44,938,*Bystrow, A. P.*,**,**
+44,939,*Bystrow, A. P.*,**,**
+44,940,*Bystrow, A. P.*,**,**
+44,941,*Cabral Guerreiro, A.*,**,**
+44,941,*Zbyszewski, G.*,**,**
+44,942,*Cabre%A y Aguilo%A, Juan*,**,**
+44,943,*Cabre%A y Aguilo%A, Juan*,**,**
+44,944,*Cabre%A y Aguilo%A, Juan*,**,**
+44,945,*Cabrera, A%Angel*,**,**
+44,946,*Cabrera, A%Angel*,**,**
+44,947,*Cabrera, A%Angel*,**,**
+44,948,*Cabrera, A%Angel*,**,**
+44,949,*Cabrera, A%Angel*,**,**
+44,950,*Cabrol, Alexis*,**,**
+44,952,*Cadrobbi, Mario*,**,**
+44,953,*Cafici, Ippolito*,**,**
+44,954,*Cahen, L.*,**,**
+44,955,*Cailleux, Andre%A*,**,**
+44,956,*Cailleux, Andre%A*,**,**
+44,957,*Cailleux, Andre%A*,**,**
+44,958,*Cailleux, A.*,**,**
+44,958,*Feugueur, L.*,**,**
+44,959,*Caldas, Jaci%A A. Louzada Tupi%A*,**,**
+44,960,*Calkins, William Frederick*,**,**
+44,961,*Callenfels, Pieter Vincent van Stein*,**,**
+44,962,*Callenfels, Pieter Vincent van Stein*,**,**
+44,963,*Calzoni, Umberto*,**,**
+44,964,*Calzoni, Umberto*,**,**
+44,965,*Calzoni, Umberto*,**,**
+44,966,*Ca%Amara, D. Maximino San Miguel de la*,**,**
+44,967,*C[ambier], R.*,**,**
+44,968,*C[ambier], R.*,**,**
+44,969,*Camp, Charles Lewis*,**,**
+44,970,*Camp, Charles Lewis*,**,**
+44,971,*Camp, Charles Lewis*,**,**
+44,972,*Camp, Charles Lewis*,**,**
+44,973,*Camp, Charles Lewis*,**,**
+44,974,*Camp, Charles Lewis*,**,**
+44,975,*Camp, Charles Lewis*,**,**
+44,976,*Camp, Charles Lewis*,**,**
+44,977,*Camp, Charles Lewis*,**,**
+44,978,*Camp, Charles Lewis*,**,**
+44,979,*Camp, Charles Lewis*,**,**
+44,980,*Camp, Charles Lewis*,**,**
+44,981,*Camp, C. L.*,**,**
+44,981,*Colbert, E. H.*,**,**
+44,981,*McKee, E. D.*,**,**
+44,981,*Welles, S. P.*,**,**
+44,983,*Campana, Domenico del*,**,**
+44,984,*Campbell, Robert B.*,**,**
+44,985,*Campbell, Thomas Draper*,**,**
+44,985,*Noone, H. V. V.*,**,**
+44,986,*Candappa, B. A. R.*,**,**
+44,987,*Canella, Mario F.*,**,**
+44,988,*Canella, Mario F.*,**,**
+44,989,*Cannac, M.*,**,**
+44,990,*Capot-Rey, Robert*,**,**
+44,991,*Capot-Rey, Robert*,**,**
+44,992,*Caprino, Caterina*,**,**
+44,993,*Caprino, Caterina*,**,**
+44,994,*Caprino, Caterina*,**,**
+44,995,*Caprino, Caterina*,**,**
+44,996,*Carazo, Felipe*,**,**
+44,996,*Viloria, J.*,**,**
+44,997,*Cardinet, J.*,**,**
+44,998,*Cardini, Luigi*,**,**
+44,999,*Cardini, Luigi*,**,**
+44,1000,*Cardini, Luigi*,**,**
+44,1001,*Carette, S.*,**,**
+44,1002,*Carlson, Raymond*,**,**
+44,1003,*Carpentier-Lejeune, Maria*,**,**
+44,1004,*Carrie%Cre, A.*,**,**
+44,1005,*Carrie%Cre, A.*,**,**
+44,1006,*Carter, Alick L.*,**,**
+44,1007,*Carter, George Francis*,**,**
+44,1008,*Carter, J. Thornton*,**,**
+44,1009,*Casanova, Richard L.*,**,**
+44,1010,*Case, Ermine Cowles*,**,**
+44,1011,*Case, Ermine Cowles*,**,**
+44,1012,*Casier, Edgard M.*,**,**
+44,1013,*Casier, Edgard M.*,**,**
+44,1014,*Casier, Edgard M.*,**,**
+44,1015,*Casier, Edgard M.*,**,**
+44,1016,*Casier, Edgard M.*,**,**
+44,1017,*Casier, Edgard M.*,**,**
+44,1018,*C[askey], J. L.*,**,**
+44,1019,*Cassell, Richard L.*,**,**
+44,1022,*Castellanos, Alfredo*,**,**
+44,1023,*Castellanos, Alfredo*,**,**
+44,1024,*Castellanos, Alfredo*,**,**
+44,1025,*Castellanos, Alfredo*,**,**
+44,1026,*Castellanos, Alfredo*,**,**
+44,1027,*Castellanos, Alfredo*,**,**
+44,1028,*Castellanos, Alfredo*,**,**
+44,1029,*Castellanos, Alfredo*,**,**
+44,1030,*Castellanos, Alfredo*,**,**
+44,1031,*Castellanos, Alfredo*,**,**
+44,1032,*Castellanos, Alfredo*,**,**
+44,1033,*Castellanos, Alfredo*,**,**
+44,1034,*Castellanos, Alfredo*,**,**
+44,1035,*Castellanos, A.*,**,**
+44,1035,*Pasotti, P.*,**,**
+44,1036,*Castellanos, A.*,**,**
+44,1036,*Pasotti, P.*,**,**
+44,1037,*Castellanos, A.*,**,**
+44,1037,*Pasotti, P.*,**,**
+44,1038,*Castellanos, A.*,**,**
+44,1038,*Pasotti, P.*,**,**
+44,1039,*Castellanos, A.*,**,**
+44,1039,*Pasotti, P.*,**,**
+44,1039,*Epstein, P.*,**,**
+44,1040,*Caster, Kenneth Edward*,**,**
+44,1041,*Caster, Kenneth Edward*,**,**
+44,1042,*Caster, K. E.*,**,**
+44,1042,*Mendes, J. C.*,**,**
+44,1043,*Casteret, Norbert*,**,**
+44,1044,*Casteret, Norbert*,**,**
+44,1045,*Casteret, Norbert*,**,**
+44,1046,*Castiglioni, Bruno*,**,**
+44,1047,*Castillo, Antonio del*,**,**
+44,1048,*Caton-Thompson, Gertrude*,**,**
+44,1049,*Caton-Thompson, Gertrude*,**,**
+44,1050,*Ce%Asar, Mora%An, P.*,**,**
+44,1051,*Cesnola, Alerino Palma di*,**,**
+44,1052,*Chabanaud, Paul*,**,**
+44,1053,*Chabanaud, Paul*,**,**
+44,1054,*Chabanaud, Paul*,**,**
+44,1055,*Chadwick, George Halcott*,**,**
+44,1056,*Chakladar, H. C.*,**,**
+44,1057,*Chakladar, H. C.*,**,**
+44,1058,*Chakladar, H. C.*,**,**
+44,1059,*Chakladar, H. C.*,**,**
+44,1060,*Chakravarti, S. N.*,**,**
+44,1061,*Challinor, J.*,**,**
+44,1062,*Chamberlin, Rollin Thomas*,**,**
+44,1063,*Chaney, Ralph Works*,**,**
+44,1064,*Chang, Hsi-chih*,**,**
+44,1065,*Chapman, Frederick Revans*,**,**
+44,1066,*Chardin, Pierre Teilhard de*,**,**
+44,1067,*Chardin, Pierre Teilhard de*,**,**
+44,1068,*Chardin, Pierre Teilhard de*,**,**
+44,1069,*Chardin, Pierre Teilhard de*,**,**
+44,1070,*Chardin, Pierre Teilhard de*,**,**
+44,1071,*Chardin, Pierre Teilhard de*,**,**
+44,1072,*Chardin, Pierre Teilhard de*,**,**
+44,1073,*Chardin, Pierre Teilhard de*,**,**
+44,1074,*Chardin, Pierre Teilhard de*,**,**
+44,1075,*Chardin, Pierre Teilhard de*,**,**
+44,1076,*Chardin, Pierre Teilhard de*,**,**
+44,1077,*Chardin, Pierre Teilhard de*,**,**
+44,1078,*Chardin, Pierre Teilhard de*,**,**
+44,1079,*Chardin, Pierre Teilhard de*,**,**
+44,1080,*Chardin, Pierre Teilhard de*,**,**
+44,1081,*Chardin, Pierre Teilhard de*,**,**
+44,1082,*Chardin, Pierre Teilhard de*,**,**
+44,1083,*Chardin, P. T. de*,**,**
+44,1083,*Leroy, P.*,**,**
+44,1084,*Chardin, P. T. de*,**,**
+44,1084,*Leroy, P.*,**,**
+44,1085,*Chardin, P. T. de*,**,**
+44,1085,*Pei, W.-c.*,**,**
+44,1086,*Charet, Jean*,**,**
+44,1087,*Charet, Jean*,**,**
+44,1088,*Chatwin, Charles Panzetta*,**,**
+44,1089,*Chernov, A. A.*,**,**
+44,1090,*Cheynier, Andre%A*,**,**
+44,1091,*Cheynier, Andre%A*,**,**
+44,1092,*Cheynier, A.*,**,**
+44,1092,*Bouyssonie, J.*,**,**
+44,1093,*Chi, Y.-s.*,**,**
+44,1096,*Childe, Vere Gordon*,**,**
+44,1097,*Childe, Vere Gordon*,**,**
+44,1098,*Childe, Vere Gordon*,**,**
+44,1099,*Childe, Vere Gordon*,**,**
+44,1100,*Childe, Vere Gordon*,**,**
+44,1101,*Childe, Vere Gordon*,**,**
+44,1102,*Childe, Vere Gordon*,**,**
+44,1103,*Childe, Vere Gordon*,**,**
+44,1104,*Childe, Vere Gordon*,**,**
+44,1105,*Childe, Vere Gordon*,**,**
+44,1106,*Childe, Vere Gordon*,**,**
+44,1107,*Childe, Vere Gordon*,**,**
+44,1108,*Childe, Vere Gordon*,**,**
+44,1109,*Childe, Vere Gordon*,**,**
+44,1110,*Chiurazzi, D.*,**,**
+44,1111,*Choubert, Georges*,**,**
+44,1112,*Choubert, Georges*,**,**
+44,1113,*Choubert, Georges*,**,**
+44,1114,*Choubert, Georges*,**,**
+44,1115,*Choubert, G.*,**,**
+44,1115,*Bryssine, G.*,**,**
+44,1116,*Choubert, G.*,**,**
+44,1116,*Ennouchi, E.*,**,**
+44,1117,*Choubert, G.*,**,**
+44,1117,*Ennouchi, E.*,**,**
+44,1117,*Marc%Bais, J.*,**,**
+44,1118,*Choubert, G.*,**,**
+44,1118,*Marc%Bais, Jean*,**,**
+44,1119,*Chozacky, L. I.*,**,**
+44,1120,*Christol, L.*,**,**
+44,1121,*Churakov, A. N.*,**,**
+44,1121,*Obruchev, V. V.*,**,**
+44,1121,*Asafov, N. M.*,**,**
+44,1122,*Cipriani, Lidio*,**,**
+44,1125,*Clark, John Desmond*,**,**
+44,1126,*Clark, John Desmond*,**,**
+44,1127,*Clark, John Desmond*,**,**
+44,1128,*Clark, John Grahame Douglas*,**,**
+44,1129,*Clark, John Grahame Douglas*,**,**
+44,1130,*Clark, John Grahame Douglas*,**,**
+44,1131,*Clark, John Grahame Douglas*,**,**
+44,1132,*Clark, John Grahame Douglas*,**,**
+44,1133,*Clark, Robert Edward David*,**,**
+44,1134,*Clark, Samuel Gilbert*,**,**
+44,1136,*Clark, Wilfred Edward Le Gros*,**,**
+44,1137,*Clark, Wilfred Edward Le Gros*,**,**
+44,1138,*Clark, Wilfred Edward Le Gros*,**,**
+44,1139,*Clark, Wilfred Edward Le Gros*,**,**
+44,1140,*Clark, Wilfred Edward Le Gros*,**,**
+44,1141,*Clark, Wilfred Edward Le Gros*,**,**
+44,1142,*Clark, Wilfred Edward Le Gros*,**,**
+44,1143,*Clark, Wilfred Edward Le Gros*,**,**
+44,1144,*Clark, Wilfred Edward Le Gros*,**,**
+44,1145,*Clark, Wilfred Edward Le Gros*,**,**
+44,1146,*Clark, Wilfred Edward Le Gros*,**,**
+44,1147,*Clark, Wilfred Edward Le Gros*,**,**
+44,1148,*Clark, Wilfred Edward Le Gros*,**,**
+44,1149,*Clark, Wilfred Edward Le Gros*,**,**
+44,1150,*Clark, Wilfred Edward Le Gros*,**,**
+44,1151,*Clark, Wilfred Edward Le Gros*,**,**
+44,1152,*Clark, Wilfred Edward Le Gros*,**,**
+44,1153,*Clayton, Joshua Elliot*,**,**
+44,1154,*Clemmer, Edward Grieg*,**,**
+44,1155,*Clemmer, Edward Grieg*,**,**
+44,1156,*Clemmer, Edward Grieg*,**,**
+44,1157,*Clifford, Elsie M.*,**,**
+44,1158,*Coffin, Addison*,**,**
+44,1159,*Coggeshall, Arthur Sterry*,**,**
+44,1160,*Coggi, L.*,**,**
+44,1161,*Coghlan, Herbert Henry*,**,**
+44,1162,*Colbert, Edwin Harris*,**,**
+44,1164,*Colbert, Edwin Harris*,**,**
+44,1165,*Colbert, Edwin Harris*,**,**
+44,1166,*Colbert, Edwin Harris*,**,**
+44,1167,*Colbert, Edwin Harris*,**,**
+44,1168,*Colbert, Edwin Harris*,**,**
+44,1169,*Colbert, Edwin Harris*,**,**
+44,1170,*Colbert, Edwin Harris*,**,**
+44,1171,*Colbert, Edwin Harris*,**,**
+44,1172,*Colbert, Edwin Harris*,**,**
+44,1173,*Colbert, Edwin Harris*,**,**
+44,1174,*Colbert, Edwin Harris*,**,**
+44,1175,*Colbert, Edwin Harris*,**,**
+44,1176,*Colbert, Edwin Harris*,**,**
+44,1177,*Colbert, Edwin Harris*,**,**
+44,1178,*Colbert, Edwin Harris*,**,**
+44,1179,*Colbert, Edwin Harris*,**,**
+44,1180,*Colbert, Edwin Harris*,**,**
+44,1181,*Colbert, Edwin Harris*,**,**
+44,1182,*Colbert, Edwin Harris*,**,**
+44,1183,*Colbert, Edwin Harris*,**,**
+44,1184,*Colbert, Edwin Harris*,**,**
+44,1185,*Colbert, Edwin Harris*,**,**
+44,1186,*Colbert, Edwin Harris*,**,**
+44,1187,*Colbert, Edwin Harris*,**,**
+44,1188,*Colbert, Edwin Harris*,**,**
+44,1189,*Colbert, Edwin Harris*,**,**
+44,1190,*Colbert, Edwin Harris*,**,**
+44,1191,*Colbert, Edwin Harris*,**,**
+44,1192,*Colbert, Edwin Harris*,**,**
+44,1193,*Colbert, E. H., et al.*,**,**
+44,1194,*Colbert, E. H.*,**,**
+44,1194,*Bump, J. D.*,**,**
+44,1195,*Colbert, E. H.*,**,**
+44,1195,*Cowles, R. B.*,**,**
+44,1195,*Bogert, C. M.*,**,**
+44,1196,*Colbert, E. H.*,**,**
+44,1196,*Cowles, R. B.*,**,**
+44,1196,*Bogert, C. M.*,**,**
+44,1197,*Colbert, E. H.*,**,**
+44,1197,*Schaeffer, B.*,**,**
+44,1198,*Cole, Fay-Cooper*,**,**
+44,1199,*Cole, Francis Joseph*,**,**
+44,1200,*Cole, Mabel Elizabeth Cook*,**,**
+44,1200,*Cole, F.-C.*,**,**
+44,1201,*Collin, L.*,**,**
+44,1202,*Collins, D. Edward*,**,**
+44,1203,*Colton, Harold Sellers*,**,**
+44,1204,*Comas Camps, Juan*,**,**
+44,1205,*Comas Camps, Juan*,**,**
+44,1206,*Comstock, John Adams*,**,**
+44,1207,*Condra, George Evert*,**,**
+44,1207,*Reed, E. C.*,**,**
+44,1207,*Gordon, E. D.*,**,**
+44,1208,*Conklin, Edwin Grant*,**,**
+44,1209,*Connolly, Joseph Peter*,**,**
+44,1209,*Bump, J. D.*,**,**
+44,1210,*Conti-Rossini, Carlo*,**,**
+44,1211,*Conti-Rossini, Carlo*,**,**
+44,1212,*Cook, Harold James*,**,**
+44,1213,*Cook, Harold James*,**,**
+44,1214,*Cook, Sherburne Friend*,**,**
+44,1214,*Heizer, R. F.*,**,**
+44,1215,*Cooke, Herbert Basil Sutton*,**,**
+44,1216,*Cooke, Herbert Basil Sutton*,**,**
+44,1217,*Cooke, Herbert Basil Sutton*,**,**
+44,1218,*Cooke, Herbert Basil Sutton*,**,**
+44,1219,*Cooke, Herbert Basil Sutton*,**,**
+44,1220,*Cooke, Herbert Basil Sutton*,**,**
+44,1221,*Cooke, Herbert Basil Sutton*,**,**
+44,1222,*Cooke, Herbert Basil Sutton*,**,**
+44,1223,*Cooke, Herbert Basil Sutton*,**,**
+44,1225,*Cooke, H. B. S.*,**,**
+44,1225,*Malan, B. D.*,**,**
+44,1225,*Wells, L. H.*,**,**
+44,1226,*Cooke, H. B. S.*,**,**
+44,1226,*Wells, L. H.*,**,**
+44,1227,*Cooke, H. B. S.*,**,**
+44,1227,*Wells, L. H.*,**,**
+44,1229,*Cooper, Clive Forster*,**,**
+44,1230,*Cooper, H. M.*,**,**
+44,1231,*Cooper, John Montgomery*,**,**
+44,1232,*Cooper, William*,**,**
+44,1233,*Cope, Edward Drinker*,**,**
+44,1234,*Cope, Edward Drinker*,**,**
+44,1235,*Cope, Edward Drinker*,**,**
+44,1236,*Corbeil, R.*,**,**
+44,1237,*Cornelius, S.*,**,**
+44,1238,*Cornwall, I. W.*,**,**
+44,1239,*Cornwall, I. W.*,**,**
+44,1240,*Cornwall, I. W.*,**,**
+44,1241,*Cornwall, P. B.*,**,**
+44,1242,*Cornwall, P. B.*,**,**
+44,1243,*Cornwall, P. B.*,**,**
+44,1244,*Corominas Planellas, J. M.*,**,**
+44,1245,*Corominas Planellas, J. M.*,**,**
+44,1246,*Cosmovici, N. L.*,**,**
+44,1246,*Pauca%J, M.*,**,**
+44,1247,*Coster, Alfred*,**,*E*
+44,1248,*Cosulich, Bernice*,**,**
+44,1249,*Courtenay-Latimer, M.*,**,**
+44,1250,*Courtois, Christian*,**,**
+44,1251,*Cousin, J.*,**,**
+44,1252,*Coutier, Leon*,**,**
+44,1252,*Blanchard, J.*,**,**
+44,1252,*Vignard, E.*,**,**
+44,1253,*Couturier, Marcel A. J.*,**,**
+44,1254,*Cowles, Raymond Bridgman*,**,**
+44,1255,*Craig, Barbara June*,**,**
+44,1256,*Cramer, Helmuth*,**,**
+44,1257,*C[rave], R[aymond]*,**,**
+44,1258,*C[rave], R[aymond]*,**,**
+44,1259,*Cressman, Luther Sheeleigh*,**,**
+44,1260,*Cressman, Luther Sheeleigh*,**,**
+44,1261,*Cressman, Luther Sheeleigh*,**,**
+44,1262,*Cressman, Luther Sheeleigh*,**,**
+44,1263,*Cressman, Luther Sheeleigh*,**,**
+44,1264,*Cressman, Luther Sheeleigh*,**,**
+44,1265,*Cressman, L. S.*,**,**
+44,1265,*Krieger, A. D.*,**,**
+44,1266,*Cressman, L. S.*,**,**
+44,1266,*Williams, H.*,**,**
+44,1269,*Crookall, R.*,**,**
+44,1270,*Crookall, R.*,**,**
+44,1271,*Crookall, R.*,**,**
+44,1272,*Crookall, R.*,**,**
+44,1273,*Crouzel, F.*,**,**
+44,1274,*Crowder, Farnsworth*,**,**
+44,1275,*Crusafont Pairo%A, Miguel*,**,**
+44,1276,*Crusafont Pairo%A, Miguel*,**,**
+44,1277,*Crusafont Pairo%A, Miguel*,**,**
+44,1278,*Crusafont Pairo%A, Miguel*,**,**
+44,1279,*Crusafont Pairo%A, Miguel*,**,**
+44,1280,*Crusafont Pairo%A, Miguel*,**,**
+44,1281,*Crusafont Pairo%A, Miguel*,**,**
+44,1282,*Crusafont Pairo%A, Miguel*,**,**
+44,1283,*Crusafont Pairo%A, Miguel*,**,**
+44,1284,*Crusafont Pairo%A, M.*,**,**
+44,1284,*Truyols Santonja, J.*,**,**
+44,1285,*Crusafont Pairo%A, M.*,**,**
+44,1285,*Truyols Santonja, J.*,**,**
+44,1286,*Crusafont Pairo%A, M.*,**,**
+44,1286,*Villalta Comella, J. F. de*,**,**
+44,1287,*Crusafont Pairo%A, M.*,**,**
+44,1287,*Villalta Comella, J. F. de*,**,**
+44,1288,*Crusafont Pairo%A, M.*,**,**
+44,1288,*Villalta Comella, J. F. de*,**,**
+44,1289,*Crusafont Pairo%A, M.*,**,**
+44,1289,*Villalta Comella, J. F. de*,**,**
+44,1290,*Crusafont Pairo%A, M.*,**,**
+44,1290,*Villalta Comella, J. F. de*,**,**
+44,1291,*Crusafont Pairo%A, M.*,**,**
+44,1291,*Villalta Comella, J. F.*,**,**
+44,1291,*Bataller Calatayud, J. R.*,**,**
+44,1292,*Crusafont Pairo%A, M.*,**,**
+44,1292,*Villalta Comella, J. F.*,**,**
+44,1292,*Bataller Calatayud, J. R.*,**,**
+44,1293,*Cuadrado Ruiz, J.*,**,**
+44,1294,*Cue%Anot, Lucien*,**,**
+44,1295,*Cue%Anot, Lucien*,**,**
+44,1296,*Cue%Anot, Lucien*,**,**
+44,1297,*Curwen, Eliot Cecil*,**,**
+44,1298,*Cushing, John Eldridge, Jr.*,**,**
+44,1299,*Cuvelier, Ph.*,**,**
+44,1300,*Dahlberg, Albert A.*,**,**
+44,1302,*Dal Piaz, Giambattista*,**,**
+44,1303,*Dal Piaz, Giambattista*,**,**
+44,1304,*Dal Piaz, Giorgio*,**,**
+44,1305,*Dale, M. Maureen*,**,**
+44,1306,*Dale, M. M.*,**,**
+44,1306,*Tobiansky, D.*,**,**
+44,1307,*Dall, William Healey*,**,**
+44,1308,*Dalloni, Marius*,**,**
+44,1309,*Dalloni, Marius*,**,**
+44,1310,*Daniel, Glyn Edmund*,**,**
+44,1311,*Daniel, H.*,**,**
+44,1312,*Daniel, Marguerite*,**,**
+44,1312,*Daniel, Raoul*,**,**
+44,1313,*Danilchenko, P. G.*,**,**
+44,1314,*Danilchenko, P. G.*,**,**
+44,1315,*Danilchenko, P. G.*,**,**
+44,1316,*Danini, E. S.*,**,**
+44,1317,*Danthine, He%Ale%Cne*,**,**
+44,1318,*Darlington, Philip Jackson*,**,**
+44,1319,*Dart, Raymond Arthur*,**,**
+44,1320,*Dart, Raymond Arthur*,**,**
+44,1321,*Dart, Raymond Arthur*,**,**
+44,1322,*Dart, Raymond Arthur*,**,**
+44,1323,*Dart, Raymond Arthur*,**,**
+44,1324,*Dart, Raymond Arthur*,**,**
+44,1325,*Dart, Raymond Arthur*,**,**
+44,1326,*Dart, Raymond Arthur*,**,**
+44,1327,*Dart, Raymond Arthur*,**,**
+44,1328,*Dart, Raymond Arthur*,**,**
+44,1329,*Dartevelle, Edmond*,**,**
+44,1330,*Dartevelle, Edmond*,**,**
+44,1331,*Dartevelle, E.*,**,**
+44,1331,*Casier, E.*,**,**
+44,1332,*Darton, Nelson Horatio*,**,**
+44,1333,*Daumas, G.*,**,**
+44,1334,*David, Lore Rose*,**,**
+44,1336,*David, Lore Rose*,**,**
+44,1337,*David, Lore Rose*,**,**
+44,1338,*David, Lore Rose*,**,**
+44,1339,*David, Lore Rose*,**,**
+44,1340,*David, Lore Rose*,**,**
+44,1341,*David, Lore Rose*,**,**
+44,1342,*David, Lore Rose*,**,**
+44,1343,*David, Lore Rose*,**,**
+44,1344,*David, Lore Rose*,**,**
+44,1345,*David, Lore Rose*,**,**
+44,1346,*David, Lore Rose*,**,**
+44,1347,*David, Lore Rose*,**,**
+44,1348,*David, Lore Rose*,**,**
+44,1350,*Davies, Arthur Morley*,**,**
+44,1351,*Davis, Delbert Dwight*,**,**
+44,1352,*Davis, William B.*,**,**
+44,1353,*Davison, Dorothy*,**,**
+44,1354,*Davison, Frederick Trubee*,**,**
+44,1355,*Davitashvilli, L. Sh.*,**,**
+44,1356,*Davitashvilli, L. Sh.*,**,**
+44,1357,*Davitashvilli, L. Sh.*,**,**
+44,1358,*Dawe, F. Sherwill*,**,**
+44,1359,*Dawson, William R.*,**,**
+44,1360,*Debetz, G. F.*,**,**
+44,1361,*Debetz, G. F.*,**,**
+44,1362,*Debetz, G. F.*,**,**
+44,1363,*Dechambre, Ed.*,**,**
+44,1364,*Dechaseaux, Colette*,**,**
+44,1365,*Dechaseaux, Colette*,**,**
+44,1366,*Dechaseaux, Colette*,**,**
+44,1367,*De Fiore, Ottorino*,**,**
+44,1368,*De Fiore, Ottorino*,**,**
+44,1369,*Degani, Mario*,**,**
+44,1370,*De Geer, (Baron) Gerard Jacob*,*=Friherre G. J. DeGeer*,**
+44,1371,*Degerbo%Sl, Magnus*,*=Degerbo%Al*,**
+44,1372,*Degerbo%Sl, Magnus*,*=Degerbo%Al*,**
+44,1373,*Degerbo%Sl, M.*,**,**
+44,1373,*Iversen, J.*,**,**
+44,1374,*Degerbo%Sl, M.*,**,**
+44,1374,*Iversen, J.*,**,**
+44,1375,*Dehaut, Georges*,**,**
+44,1376,*Dehaut, Georges*,**,**
+44,1377,*Dehaut, Georges*,**,**
+44,1378,*DeHay, Ch.*,**,**
+44,1379,*Dehm, Richard*,**,**
+44,1380,*Dehm, Richard*,**,**
+44,1381,*Dehm, Richard*,**,**
+44,1382,*Dehm, Richard*,**,**
+44,1383,*Dehm, R.*,**,**
+44,1383,*Schro%Fder, J.*,**,**
+44,1384,*Dellenbach, Marguerite Elisabeth*,**,**
+44,1385,*Delmont, Nelly*,**,**
+44,1386,*Delpey, Genevie%Cve*,*=Termier, Mmme Henri*,**
+44,1387,*Demarty, J.*,**,**
+44,1388,*DeMay, Ida S.*,**,**
+44,1389,*Denhart, Robert Moorman*,**,**
+44,1390,*Denison, Robert Howland*,**,**
+44,1391,*Denizot, Georges*,**,**
+44,1392,*Denizot, Georges*,**,**
+44,1393,*Deraniyagala, P. E. Pieris*,**,**
+44,1394,*Deraniyagala, P. E. Pieris*,**,**
+44,1395,*Deraniyagala, P. E. Pieris*,**,**
+44,1396,*Deraniyagala, P. E. Pieris*,**,**
+44,1397,*Deraniyagala, P. E. Pieris*,**,**
+44,1398,*Deraniyagala, P. E. Pieris*,**,**
+44,1399,*Deraniyagala, P. E. Pieris*,**,**
+44,1400,*Deraniyagala, P. E. Pieris*,**,**
+44,1401,*Deraniyagala, P. E. Pieris*,**,**
+44,1402,*Deraniyagala, P. E. Pieris*,**,**
+44,1403,*Deraniyagala, P. E. Pieris*,**,**
+44,1404,*Deraniyagala, P. E. Pieris*,**,**
+44,1405,*Deraniyagala, P. E. Pieris*,**,**
+44,1406,*Deraniyagala, P. E. Pieris*,**,**
+44,1407,*Deraniyagala, P. E. Pieris*,**,**
+44,1408,*Deraniyagala, P. E. Pieris*,**,**
+44,1409,*Deraniyagala, P. E. Pieris*,**,**
+44,1410,*Deraniyagala, P. E. Pieris*,**,**
+44,1411,*Desrut, Georges*,**,**
+44,1411,*De%Aret, E.*,**,**
+44,1412,*Desrut, Georges*,**,**
+44,1412,*De%Aret, E.*,**,**
+44,1413,*Detweiler, A. H.*,**,**
+44,1414,*Devillers, Ch.*,**,**
+44,1415,*Devillers, Ch.*,**,**
+44,1416,*Devillers, Ch.*,**,**
+44,1417,*Devillers, Ch.*,**,**
+44,1418,*Devillers, Ch.*,**,**
+44,1419,*Devoto, Giacomo*,**,**
+44,1420,*Dewar, Douglas*,**,**
+44,1421,*Deyl, J.*,**,**
+44,1422,*Diaz Lozano, Enrique*,**,**
+44,1423,*Diaz Lozano, Enrique*,**,**
+44,1424,*Diaz Lozano, Enrique*,**,**
+44,1425,*di Cesnola, A. P.*,**,**
+44,1425,*Dickerman, Anna*,**,**
+44,1426,*Diekmann, Hermann*,**,**
+44,1427,*Dietrich, Wolfgang O.*,**,**
+44,1428,*Dietrich, Wolfgang O.*,**,**
+44,1429,*Dietrich, Wolfgang O.*,**,**
+44,1430,*Dietrich, Wolfgang O.*,**,**
+44,1431,*Dietrich, Wolfgang O.*,**,**
+44,1432,*Dijkstra, B. K. S.*,**,**
+44,1433,*Dobzhansky, Theodosius*,**,**
+44,1434,*Dobzhansky, Theodosius*,**,**
+44,1435,*Dobzhansky, T.*,**,**
+44,1435,*Ashley-Montagu, M. F.*,**,**
+44,1436,*Dollfus, G.-F.*,**,**
+44,1437,*Donner, Kai*,**,**
+44,1438,*Dorsman, L.*,**,**
+44,1439,*Dottrens, Emile*,**,**
+44,1440,*Dottrens, Emile*,**,**
+44,1441,*Dowling, Herndon, Jr.*,**,**
+44,1442,*Dowling, R. L.*,**,**
+44,1444,*Drennan, Mathew Robertson*,**,**
+44,1445,*Drenski, P.*,**,**
+44,1446,*Dreyer, Thomas Frederick*,**,**
+44,1447,*Druzhinin, A. N.*,**,**
+44,1448,*Duarte, A.*,**,**
+44,1449,*Dubar, M. Gonzague*,**,**
+44,1450,*Dubertret, Louis*,**,**
+44,1451,*Dubiaga, Michael*,**,**
+44,1452,*Dubief, Jean*,**,**
+44,1453,*Dubois, Eugen*,**,**
+44,1454,*Dubois, Georges*,**,**
+44,1455,*Ducati, Pericle*,**,**
+44,1456,*Duckworth, Wynfrid L. H.*,**,**
+44,1457,*Dufresne, Frank*,**,**
+44,1458,*Duge%Cs, Alfredo*,**,**
+44,1459,*Duge%Cs, Alfredo*,**,**
+44,1460,*Duge%Cs, Alfredo*,**,**
+44,1461,*Dunbar, Carl Owen*,**,**
+44,1462,*Duncan, George S.*,**,**
+44,1463,*Dunkle, David Hosbrook*,**,**
+44,1464,*Dunkle, David Hosbrook*,**,**
+44,1465,*Dunkle, David Hosbrook*,**,**
+44,1466,*Dunkle, David Hosbrook*,**,**
+44,1467,*Dunkle, David Hosbrook*,**,**
+44,1468,*Dunkle, David Hosbrook*,**,**
+44,1469,*Dunkle, David Hosbrook*,**,**
+44,1470,*Dunkle, David Hosbrook*,**,**
+44,1471,*Dunkle, David Hosbrook*,**,**
+44,1472,*Dunkle, D. H.*,**,**
+44,1472,*Bungart, P. A.*,**,**
+44,1473,*Dunkle, D. H.*,**,**
+44,1473,*Bungart, P. A.*,**,**
+44,1474,*Dunkle, D. H.*,**,**
+44,1474,*Bungart, P. A.*,**,**
+44,1475,*Dunkle, D. H.*,**,**
+44,1475,*Hibbard, C. W.*,**,**
+44,1476,*Dunkle, D. H.*,**,**
+44,1476,*White, T. E.*,**,**
+44,1477,*Dunn, Emmett Reid*,**,**
+44,1478,*Dupouy, Walter*,**,**
+44,1479,*Durham, John Wyatt*,**,**
+44,1480,*Durham, John Wyatt*,**,**
+44,1481,*Durham, John Wyatt*,**,**
+44,1483,*Du Toit, Alexander Logie*,**,**
+44,1484,*Du Toit, Alexander Logie*,**,**
+44,1485,*Du Toit, Alexander Logie*,**,**
+44,1486,*Du Toit, Alexander Logie*,**,**
+44,1487,*Du Toit, Alexander Logie*,**,**
+44,1488,*Du Toit, Alexander Logie*,**,**
+44,1489,*Du Toit, Alexander Logie*,**,**
+44,1490,*Du Toit, Alexander Logie*,**,**
+44,1491,*Du Toit, Alexander Logie*,**,**
+44,1492,*Dzhafarov, R. D.*,**,**
+44,1493,*Dzhafarov, R. D.*,**,**
+44,1494,*Easton, William Hayden*,**,**
+44,1495,*Eaton, Joseph Edmund*,**,**
+44,1496,*Eaton, Theodore Hildreth, Jr.*,**,**
+44,1497,*Eaton, Theodore Hildreth, Jr.*,**,**
+44,1498,*Edinger, Tilly*,*= Ottilie*,**
+44,1499,*Edinger, Tilly*,*= Ottilie*,**
+44,1500,*Edinger, Tilly*,*= Ottilie*,**
+44,1501,*Edinger, Tilly*,*= Ottilie*,**
+44,1502,*Edmunds, F. H.*,**,**
+44,1503,*Edwards, Wilford Norman*,**,**
+44,1504,*Edwards, Wilford Norman*,**,**
+44,1505,*Efimenko, P. P.*,**,**
+44,1506,*Efimenko, P. P.*,**,**
+44,1507,*Efimenko, P. P.*,**,**
+44,1507,*Beregovaia, N. A.*,**,**
+44,1508,*Efremov, I. A.*,**,**
+44,1509,*Efremov, I. A.*,**,**
+44,1510,*Efremov, I. A.*,**,**
+44,1511,*Efremov, I. A.*,**,**
+44,1512,*Egenhoff, Elisabeth L.*,**,**
+44,1512,*Collins, B.*,**,**
+44,1512,*Burgess, M. L.*,**,**
+44,1513,*Eggeling, H. von*,**,**
+44,1515,*Ehrenberg, Kurt*,**,**
+44,1516,*Ehrenberg, Kurt*,**,**
+44,1517,*Ehrenberg, Kurt*,**,**
+44,1518,*Ehrenberg, Kurt*,**,**
+44,1519,*Ehrich, Robert William*,**,**
+44,1520,*Ehrlich, Bruno*,**,**
+44,1524,*Eiseley, Loren Corey*,**,**
+44,1525,*Eiseley, Loren Corey*,**,**
+44,1526,*Eiseley, Loren Corey*,**,**
+44,1527,*Eiseley, Loren Corey*,**,**
+44,1528,*Eiseley, Loren Corey*,**,**
+44,1529,*Eiseley, Loren Corey*,**,**
+44,1530,*Eiseley, Loren Corey*,**,**
+44,1531,*Eiseley, Loren Corey*,**,**
+44,1532,*Eiseley, Loren Corey*,**,**
+44,1533,*Elias, Maxim Konradovich*,**,**
+44,1534,*Elias, M. K.*,**,**
+44,1534,*Frye, J. E.*,**,**
+44,1534,*Hibbard, C. W.*,**,**
+44,1534,*Reed, E. C.*,**,**
+44,1534,*Schultz, C. B.*,**,**
+44,1535,*Elliot, William J.*,**,**
+44,1536,*Ellison, Samuel Porter*,**,**
+44,1537,*Eloy, Louis*,**,**
+44,1538,*Eloy, Louis*,**,**
+44,1539,*Elwin, Verrier*,**,**
+44,1540,*Emelyanov, S. V.*,**,**
+44,1541,*Endo, Riuji*,**,**
+44,1542,*Engel, Carl*,**,**
+44,1543,*Ennouchi, Emile*,**,**
+44,1544,*Ennouchi, Emile*,**,**
+44,1545,*Erasmo, Geremia d'*,**,**
+44,1546,*Erasmo, Geremia d'*,**,**
+44,1547,*Erasmo, Geremia d'*,**,**
+44,1548,*Erasmo, Geremia d'*,**,**
+44,1550,*Erasmo, Geremia d'*,**,**
+44,1551,*Erasmo, Geremia d'*,**,**
+44,1552,*Eremeyeva, E. Ph.*,**,**
+44,1553,*Erguvanlt, Kemal*,**,**
+44,1554,*Erni, Arthur*,**,**
+44,1554,*Forcart, L.*,**,**
+44,1554,*Ha%Frri, H.*,**,**
+44,1555,*Estel, L.*,**,**
+44,1555,*Asling, C. W.*,**,**
+44,1556,*Evans, Francis Gaynor*,**,**
+44,1557,*Evans, Francis Gaynor*,**,**
+44,1558,*Evans, F. G.*,**,**
+44,1558,*Krahl, V. E.*,**,**
+44,1559,*Evans, G. L.*,**,**
+44,1559,*Meade, G. E.*,**,**
+44,1560,*Ewing, Joseph Franklin*,**,**
+44,1561,*Ewing, Joseph Franklin*,**,**
+44,1562,*Ewing, Joseph Franklin*,**,**
+44,1563,*Ewing, Joseph Franklin*,**,**
+44,1564,*Ewing, Joseph Franklin*,**,**
+44,1565,*Ewing, Joseph Franklin*,**,**
+44,1566,*Faculties, University of California*,**,**
+44,1567,*Faegri, Knut*,**,**
+44,1568,*Faegri, Knut*,**,**
+44,1569,*Fagg, Bernard Evelyn Buller*,**,**
+44,1570,*Fagg, Bernard Evelyn Buller*,**,**
+44,1571,*Fagg, Bernard Evelyn Buller*,**,**
+44,1572,*Falla, R. A.*,**,**
+44,1573,*Farchad, F.*,**,**
+44,1573,*Sahabi%D, Y.*,**,**
+44,1574,*Fardet, L.*,**,**
+44,1575,*Faxon, Walter*,**,**
+44,1576,*Fay, J. B.*,**,**
+44,1577,*Fedotov, D. M.*,**,**
+44,1578,*Feio, Mariano*,**,**
+44,1578,*Patricio, A.*,**,**
+44,1579,*Fell, H. Barraclough*,**,**
+44,1581,*Fenton, Carrol Lane*,**,**
+44,1582,*Fenton, C. L.*,**,**
+44,1582,*Fenton, M. A.*,**,**
+44,1583,*F[ermor], L[ewis] L[eigh]*,**,**
+44,1584,*F[ermor], L[ewis] L[eigh]*,**,**
+44,1586,*Ferrant, Victor*,**,**
+44,1586,*Friant, M.*,**,**
+44,1587,*Ferrant, V.*,**,**
+44,1587,*Friant, M.*,**,**
+44,1587,*Thill, N.*,**,**
+44,1588,*Ferrer, A.*,**,**
+44,1588,*Giro%A, P.*,**,**
+44,1589,*Ferry, Philip*,**,**
+44,1590,*Feruglio, Egidio*,**,**
+44,1591,*Feugueur, L.*,**,**
+44,1592,*Field, Henry*,**,**
+44,1593,*Field, Henry*,**,**
+44,1594,*Field, Henry*,**,**
+44,1595,*Field, Henry*,**,**
+44,1596,*Field, H.*,**,**
+44,1596,*Price, K.*,**,**
+44,1597,*Filip, Jan*,**,**
+44,1598,*Finlayson, Hedley Herbert*,**,**
+44,1599,*Fischer, Eugen*,**,**
+44,1600,*Fisher, Harvey Irvin*,**,**
+44,1601,*Fisher, Harvey Irvin*,**,**
+44,1602,*Fisher, Harvey Irvin*,**,**
+44,1603,*Fisher, Vardis Avero*,**,**
+44,1604,*Fitte, Paul*,**,**
+44,1605,*Fitte, Paul*,**,**
+44,1606,*Fitte, Paul*,**,**
+44,1607,*Fitte, Paul*,**,**
+44,1608,*Fitte, Paul*,**,**
+44,1609,*Fitte, P.*,**,**
+44,1609,*Fitte, O.*,**,**
+44,1610,*Fitte, P.*,**,**
+44,1610,*Durville, G.*,**,**
+44,1610,*Vignard, E.*,**,**
+44,1611,*Fitzpatrick, Thomas J.*,**,**
+44,1612,*Flaes, R.*,**,**
+44,1612,*Zbyszewski, G.*,**,**
+44,1613,*Fleisch, R. P. Henri*,**,**
+44,1614,*Fleisch, R. P. Henri*,**,**
+44,1615,*Fleisch, R. P. Henri*,**,**
+44,1616,*Fleisch, R. P. Henri*,**,**
+44,1617,*Fleisch, R. P. Henri*,**,**
+44,1618,*Fleisch, R. P. Henri*,**,**
+44,1619,*Flerov, K. K.*,**,**
+44,1620,*Fletcher, D.*,**,**
+44,1621,*Fletcher, H. O.*,**,**
+44,1622,*Fletcher, H. O.*,**,**
+44,1623,*Fletcher, H. O.*,**,**
+44,1625,*Fleure, Herbert John*,**,**
+44,1626,*Fleury, Cle%Ament*,**,**
+44,1627,*Flint, Earl*,**,**
+44,1628,*Flint, Earl*,**,**
+44,1629,*Flint, Richard Foster*,**,**
+44,1630,*Flint, Richard Foster*,**,**
+44,1631,*Flint, Richard Foster*,**,**
+44,1632,*Flint, Richard Foster*,**,**
+44,1634,*Flynn, T. Thomson*,**,**
+44,1635,*Forest, Lesh C.*,**,**
+44,1635,*Schenck, H. G.*,**,**
+44,1636,*Formosinho, J.*,**,**
+44,1636,*Vaultier, M.*,**,**
+44,1636,*Zbyszewski, G.*,**,**
+44,1637,*Forrer, Robert*,**,**
+44,1638,*Fowler, Henry Weed*,**,**
+44,1639,*Fo%Syn, Sven*,**,**
+44,1639,*Heintz, A.*,**,**
+44,1640,*Franco, Anelli*,**,**
+44,1641,*Franz, Leonhard*,**,**
+44,1642,*Franz, Leonhard*,**,**
+44,1643,*Franzen, Dorothea Susanna*,**,**
+44,1644,*Frassetto, Fabio*,**,**
+44,1645,*Frassetto, Fabio*,**,**
+44,1646,*Frassetto, Fabio*,**,**
+44,1647,*Frassetto, Fabio*,**,**
+44,1648,*Frassetto, Fabio*,**,**
+44,1649,*Frechkop, Serge*,**,**
+44,1650,*Frechkop, Serge*,**,**
+44,1651,*Freudenberg, Heinrich*,**,**
+44,1652,*Freudenberg, Wilhelm*,**,**
+44,1653,*Freund, H.*,**,**
+44,1654,*Friant, Madeleine*,**,**
+44,1655,*Friant, Madeleine*,**,**
+44,1656,*Friant, Madeleine*,**,**
+44,1657,*Friant, Madeleine*,**,**
+44,1658,*Friant, Madeleine*,**,**
+44,1659,*Friant, Madeleine*,**,**
+44,1660,*Friant, Madeleine*,**,**
+44,1661,*Friant, Madeleine*,**,**
+44,1662,*Friant, Madeleine*,**,**
+44,1663,*Friant, Madeleine*,**,**
+44,1664,*Friant, Madeleine*,**,**
+44,1665,*Friant, Madeleine*,**,**
+44,1666,*Friant, Madeleine*,**,**
+44,1667,*Friant, Madeleine*,**,**
+44,1668,*Friant, Madeleine*,**,**
+44,1669,*Friant, Madeleine*,**,**
+44,1670,*Friant, Madeleine*,**,**
+44,1671,*Friant, Madeleine*,**,**
+44,1672,*Friant, Madeleine*,**,**
+44,1673,*Friant, Madeleine*,**,**
+44,1674,*Friant, Madeleine*,**,**
+44,1675,*Friant, Madeleine*,**,**
+44,1676,*Friant, Madeleine*,**,**
+44,1677,*Friant, Madeleine*,**,**
+44,1678,*Friant, Madeleine*,**,**
+44,1679,*Friant, Madeleine*,**,**
+44,1680,*Friant, Madeleine*,**,**
+44,1681,*Friant, Madeleine*,**,**
+44,1682,*Friant, Madeleine*,**,**
+44,1683,*Friant, Madeleine*,**,**
+44,1684,*Friant, Madeleine*,**,**
+44,1685,*Friant, Madeleine*,**,**
+44,1686,*Friant, Madeleine*,**,**
+44,1687,*Friant, Madeleine*,**,**
+44,1688,*Friant, Madeleine*,**,**
+44,1689,*Friant, Madeleine*,**,**
+44,1690,*Friant, Madeleine*,**,**
+44,1691,*Friant, M.*,**,**
+44,1691,*Hoffstetter, R.*,**,**
+44,1691,*Chabanaud, P.*,**,**
+44,1692,*Frias, T. Ortega y.*,**,**
+44,1692,*Friedmann, Herbert*,**,**
+44,1693,*Frieling, Heinrich*,**,**
+44,1694,*Fro%Flicher, Hugo*,**,**
+44,1695,*Frye, John Chapman*,**,**
+44,1696,*Frye, John Chapman*,**,**
+44,1697,*Frye, John Chapman*,**,**
+44,1698,*Fuehrer, Ottman F. von*,**,**
+44,1699,*Fu%Frer-Haimendorf, Cristoph von*,**,**
+44,1701,*Furlong, Eustace Leopold*,**,**
+44,1703,*Furon, Raymond*,**,**
+44,1704,*Furon, Raymond*,**,**
+44,1705,*Furon, Raymond*,**,**
+44,1706,*Furon, Raymond*,**,**
+44,1707,*Furon, Raymond*,**,**
+44,1708,*Furon, Raymond*,**,**
+44,1709,*Furon, Raymond*,**,**
+44,1710,*Furon, Raymond*,**,**
+44,1711,*Furon, Raymond*,**,**
+44,1712,*Furon, R.*,**,**
+44,1712,*Soyer, R.*,**,**
+44,1713,*Fusselle, Ethelyn*,**,**
+44,1714,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1715,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1716,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1717,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1718,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1719,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1720,*Gaa%Al, Istvan v.*,*=Gaa%Al, Stefan von*,**
+44,1721,*Gabrici, Ettore*,**,**
+44,1722,*Gadre, Anant Shanker*,**,**
+44,1724,*Gagnebin, Elie*,**,**
+44,1725,*Gagnebin, Elie*,**,**
+44,1726,*Gaillard, Claude*,**,**
+44,1727,*Gaillard, Claude*,**,**
+44,1728,*Gaillard, C.*,**,**
+44,1728,*Laurent, J.*,**,**
+44,1728,*Cote, C.*,**,**
+44,1729,*Galardi, N.*,**,**
+44,1730,*Galbreath, Edwin C.*,**,**
+44,1731,*Galbreath, Edwin C.*,**,**
+44,1732,*Galbreath, Edwin C.*,**,**
+44,1733,*Galbreath, Edwin C.*,**,**
+44,1734,*Galbreath, Edwin C.*,**,**
+44,1735,*Galbreath, Edwin C.*,**,**
+44,1737,*Gamow, George*,**,**
+44,1739,*Gan, Juban Krishna*,**,**
+44,1740,*Garcia y Bellido, A.*,**,**
+44,1741,*Garcia y Bellido, A.*,**,**
+44,1742,*Garde, J. A.*,**,**
+44,1743,*Gardiner, J. Stanley*,**,**
+44,1744,*Garriga Pujol, Juan*,**,**
+44,1745,*Garriga Pujol, Juan*,**,**
+44,1746,*Garriga Pujol, Juan*,**,**
+44,1747,*Garriga Pujol, Juan*,**,**
+44,1748,*Garriga Pujol, Juan*,**,**
+44,1749,*Garriga Pujol, Juan*,**,**
+44,1750,*Garriga Pujol, Juan*,**,**
+44,1752,*Garrod, Dorothy Annie Elizabeth*,**,**
+44,1753,*Garrod, Dorothy Annie Elizabeth*,**,**
+44,1754,*Garrod, Dorothy Annie Elizabeth*,**,**
+44,1755,*Garrod, D. A. E.*,**,**
+44,1755,*Buxton, L. H.*,**,**
+44,1755,*Smith, G. E.*,**,**
+44,1755,*Bate, D. M. A.*,**,**
+44,1756,*Garrod, D. A. E.*,**,**
+44,1756,*Gaul, J. H.*,**,**
+44,1756,*Howe, B.*,**,**
+44,1757,*Garrod, D. A. E.*,**,**
+44,1757,*Howe, B.*,**,**
+44,1758,*Gates, Reginald Ruggles*,**,**
+44,1759,*Gates, Reginald Ruggles*,**,**
+44,1760,*Gates, Reginald Ruggles*,**,**
+44,1761,*Gaudron, Guy*,**,**
+44,1762,*Gaudron, Guy*,**,**
+44,1763,*Gauthier, H.*,**,**
+44,1763,*Fabre, A.*,**,**
+44,1764,*Gazin, Charles Lewis*,**,**
+44,1765,*Gebara, Ibrahim*,**,**
+44,1766,*Geijer, Per*,**,**
+44,1767,*Geiser, Samuel Wood*,**,**
+44,1768,*Geiser, Samuel Wood*,**,**
+44,1769,*Geiser, Samuel Wood*,**,**
+44,1770,*Geiser, Samuel Wood*,**,**
+44,1771,*Genna, Giuseppe E.*,**,**
+44,1772,*George, Thomas Neville*,**,**
+44,1773,*Gerard, J. J.*,**,**
+44,1774,*Gerasimov, M. M.*,**,**
+44,1775,*Gerasimov, M. M.*,**,**
+44,1776,*Gerber, Eduard*,**,**
+44,1777,*Gerber, Eduard*,**,**
+44,1778,*Gerber, Eduard*,**,**
+44,1779,*Gerrie, John*,**,**
+44,1780,*Gertz, Otto*,**,**
+44,1781,*Gevers, Traugott Wilhelm*,**,**
+44,1782,*Ghirelli, Angelo*,**,**
+44,1783,*Gho%Nsh, Abu*,**,**
+44,1784,*Gidley, James William*,**,**
+44,1785,*Gieseler, Wilhelm*,**,**
+44,1786,*Gignoux, Maurice*,**,**
+44,1787,*Gignoux, Maurice*,**,**
+44,1788,*Gignoux, Maurice*,**,**
+44,1789,*Gignoux, M.*,**,**
+44,1789,*Moret, L.*,**,**
+44,1790,*Gilardoni, Virgilio*,**,**
+44,1791,*Gilbert-Louis, (Mme)*,**,**
+44,1792,*Gillin, John Philip*,**,**
+44,1793,*Gilmore, Charles Whitney*,**,**
+44,1794,*Gilmore, Charles Whitney*,**,**
+44,1795,*Gilmore, Charles Whitney*,**,**
+44,1796,*Gilmore, Charles Whitney*,**,**
+44,1797,*Gilmore, Charles Whitney*,**,**
+44,1798,*Gilmore, Charles Whitney*,**,**
+44,1799,*Gilmore, Charles Whitney*,**,**
+44,1800,*Gilmore, Charles Whitney*,**,**
+44,1801,*Gilmore, Charles Whitney*,**,**
+44,1802,*Gilmore, Charles Whitney*,**,**
+44,1803,*Gilmore, C. W.*,**,**
+44,1803,*Jepsen, G. L.*,**,**
+44,1804,*Gilmore, C. W.*,**,**
+44,1804,*Stewart, D. R.*,**,**
+44,1805,*Gilmore, Raymond Maurice*,**,**
+44,1806,*Gimeno Granados, Andre%A*,**,**
+44,1806,*Padreny Pineda, J.*,**,**
+44,1807,*Giot, P. R.*,**,**
+44,1808,*Giot, P. R.*,**,**
+44,1809,*Giot, P. R.*,**,**
+44,1809,*Philippot, A.*,**,**
+44,1810,*Giraud, Edouard*,**,**
+44,1810,*Vignard, E.*,**,**
+44,1811,*Gjessing, Gutorm*,**,**
+44,1812,*Glaessner, Martin F.*,**,**
+44,1813,*Glauert, L.*,**,**
+44,1814,*Gliesch, Dr. Rudolf*,**,**
+44,1815,*Glory, (L'Abbe%A) Andre%A*,**,**
+44,1816,*Glory, (L'Abbe%A) Andre%A*,**,**
+44,1817,*Glory, (L'Abbe%A) Andre%A*,**,**
+44,1818,*Glory, A.*,**,**
+44,1818,*Martinez, S.*,**,**
+44,1818,*Neukirch, H.*,**,**
+44,1819,*Glory, A.*,**,**
+44,1819,*Robert, R.*,**,**
+44,1821,*Glory, A.*,**,**
+44,1821,*Simonnet, G.*,**,**
+44,1822,*Gobert, E. G.*,**,**
+44,1823,*Go%Amez-Llueca, Federico*,**,**
+44,1824,*Goodrich, Edwin Stephen*,**,**
+44,1825,*Goodson, Orr*,**,**
+44,1826,*Goodson, Orr*,**,**
+44,1827,*Goodwin, Astley John Hilary*,**,**
+44,1828,*Goodwin, Astley John Hilary*,**,**
+44,1829,*Goodwin, Astley John Hilary*,**,**
+44,1830,*Goodwin, Astley John Hilary*,**,**
+44,1831,*Goodwin, Astley John Hilary*,**,**
+44,1832,*Goodwin, Astley John Hilary*,**,**
+44,1833,*Goodwin, Astley John Hilary*,**,**
+44,1834,*Goodwin, Astley John Hilary*,**,**
+44,1835,*Goodwin, Astley John Hilary*,**,**
+44,1836,*Goodwin, Astley John Hilary*,**,**
+44,1837,*Goodwin, Astley John Hilary*,**,**
+44,1838,*Gorce, Maxime M.*,**,**
+44,1839,*Gorce, M. M.*,**,**
+44,1839,*Mortier, R.*,**,**
+44,1840,*Gordon, Kenneth L.*,**,**
+44,1841,*Gorodtsov, V. A.*,**,**
+44,1842,*Gorodtsov, V. A.*,**,**
+44,1843,*Gosline, William A.*,**,**
+44,1844,*Gould, Charles Newton*,**,**
+44,1845,*Goury, Georges*,**,**
+44,1846,*Grabau, Amadeus William*,**,**
+44,1847,*Grabau, Amadeus William*,**,**
+44,1848,*Grametbaur, Agnes B.*,**,**
+44,1849,*Granvogel, Louis*,**,**
+44,1850,*Granvogel, Louis*,**,**
+44,1851,*Gray, Stephen Wood*,**,**
+44,1852,*Graziosi, Paolo*,**,**
+44,1853,*Graziosi, Paolo*,**,**
+44,1854,*Graziosi, Paolo*,**,**
+44,1855,*Graziosi, Paolo*,**,**
+44,1858,*Graziosi, Paolo*,**,**
+44,1859,*Graziosi, Paolo*,**,**
+44,1860,*Graziosi, Paolo*,**,**
+44,1861,*Graziosi, Paolo*,**,**
+44,1862,*Graziosi, Paolo*,**,**
+44,1863,*Graziosi, Paolo*,**,**
+44,1864,*Graziosi, Paolo*,**,**
+44,1865,*Graziosi, Paolo*,**,**
+44,1866,*Graziosi, Paolo*,**,**
+44,1867,*Graziosi, Paolo*,**,**
+44,1868,*Graziosi, Paolo*,**,**
+44,1869,*Graziosi, Paolo*,**,**
+44,1870,*Graziosi, Paolo*,**,**
+44,1871,*Graziosi, Paolo*,**,**
+44,1872,*Graziosi, Paolo*,**,**
+44,1873,*Graziosi, Paolo*,**,**
+44,1874,*Graziosi, P.*,**,**
+44,1874,*Maviglia, C.*,**,**
+44,1875,*Green, Amos R.*,**,**
+44,1876,*Green, Morton*,**,**
+44,1877,*Green, Morton*,**,**
+44,1878,*Green, Morton*,**,**
+44,1879,*Greenman, Emerson Frank*,**,**
+44,1880,*Greger, Darling K.*,**,**
+44,1881,*Gregg, Clifford Cilley*,**,**
+44,1882,*Gregg, Clifford Cilley*,**,**
+44,1883,*Gregg, Clifford Cilley*,**,**
+44,1884,*Gregory, Herbert Ernest*,**,**
+44,1885,*Gregory, Joseph Tracy*,**,**
+44,1886,*Gregory, Joseph Tracy*,**,**
+44,1887,*Gregory, Joseph Tracy*,**,**
+44,1888,*Gregory, Joseph Tracy*,**,**
+44,1889,*Gregory, Joseph Tracy*,**,**
+44,1890,*Gregory, William King*,**,**
+44,1892,*Gregory, William King*,**,**
+44,1893,*Gregory, William King*,**,**
+44,1894,*Gregory, William King*,**,**
+44,1895,*Gregory, William King*,**,**
+44,1896,*Gregory, William King*,**,**
+44,1897,*Gregory, William King*,**,**
+44,1898,*Gregory, William King*,**,**
+44,1899,*Gregory, William King*,**,**
+44,1900,*Gregory, William King*,**,**
+44,1901,*Gregory, William King*,**,**
+44,1902,*Gregory, William King*,**,**
+44,1903,*Gregory, William King*,**,**
+44,1904,*Gregory, William King*,**,**
+44,1905,*Gregory, William King*,**,**
+44,1906,*Gregory, William King*,**,**
+44,1907,*Gregory, W. K.*,**,**
+44,1907,*Colbert, E. H.*,**,**
+44,1909,*Gregory, W. K.*,**,**
+44,1909,*Hellman, M.*,**,**
+44,1911,*Gregory, W. K.*,**,**
+44,1911,*LaMonte, F. R.*,**,**
+44,1912,*Gregory, W. K.*,**,**
+44,1912,*LaMonte, F. R.*,**,**
+44,1913,*Gregory, W. K.*,**,**
+44,1913,*Murphy, R. C.*,**,**
+44,1914,*Gregory, W. K.*,**,**
+44,1914,*Weidenreich, F.*,**,**
+44,1914,*Hill, J. E.*,**,**
+44,1915,*Griffin, Francis J.*,**,**
+44,1916,*Griffiths, G.*,**,**
+44,1917,*Griffiths, G.*,**,**
+44,1918,*Grimes, Charles W.*,**,**
+44,1919,*Grimm, Paul*,**,**
+44,1920,*Gripp, Karl*,**,**
+44,1921,*Grobbelaar, C. S.*,**,**
+44,1922,*Gromov, I. M.*,**,**
+44,1923,*Gromov, V. I.*,**,**
+44,1924,*Gromov, V. I.*,**,**
+44,1925,*Gromov, V. I.*,**,**
+44,1926,*Gromov, V. I.*,**,**
+44,1927,*Gromov, V. I.*,**,**
+44,1928,*Gromov, V. I.*,**,**
+44,1929,*Gromov, V. I.*,**,**
+44,1930,*Gromova, Vera*,**,**
+44,1931,*Gromova, Vera*,**,**
+44,1932,*Gromova, Vera*,**,**
+44,1933,*Gromova, Vera*,**,**
+44,1934,*Gromova, Vera*,**,**
+44,1935,*Gromova, Vera*,**,**
+44,1936,*Gromova, Vera*,**,**
+44,1937,*Gromova, Vera*,**,**
+44,1938,*Gross, Hugo*,**,**
+44,1939,*Gross, Hugo*,**,**
+44,1940,*Gross, Hugo*,**,**
+44,1941,*Gross, Karl*,**,**
+44,1942,*Gross, Karl*,**,**
+44,1943,*Gross, Karl*,**,**
+44,1944,*Gross, Walter*,**,**
+44,1945,*Gross, Walter*,**,**
+44,1946,*Gross, Walter*,**,**
+44,1947,*Gross, Walter*,**,**
+44,1949,*Gross, Walter*,**,**
+44,1950,*Gross, Walter*,**,**
+44,1951,*Grosvenor, Gilbert*,**,**
+44,1952,*Gruber, Jacob W.*,**,**
+44,1953,*Gruet, Michel*,**,**
+44,1954,*Gruet, Michel*,**,**
+44,1955,*Grunevald, Roland*,**,**
+44,1956,*Guarnieri, Graziella Manfrin*,**,**
+44,1957,*Gudger, Eugene Willis*,**,**
+44,1958,*Guidi, G. de*,**,**
+44,1959,*Guillien, Yves*,**,**
+44,1961,*Guillien, Yves*,**,**
+44,1962,*Gulick, Addison*,**,**
+44,1963,*Gumpert, K.*,**,**
+44,1964,*Gundersen, Alfred*,**,**
+44,1964,*Hastings, G. T.*,**,**
+44,1965,*Gunnell, Frank*,**,**
+44,1966,*Gunter, Gordon*,**,**
+44,1967,*Gunter, Gordon*,**,**
+44,1968,*Gunter, Gordon*,**,**
+44,1969,*Gunther, Erna*,**,**
+44,1970,*Guyan, Walter Ulrich*,**,**
+44,1971,*Guyan, Walter Ulrich*,**,**
+44,1972,*Guyan, Walter Ulrich*,**,**
+44,1973,*Guyan, Walter Ulrich*,**,**
+44,1974,*Guye%Anot, E%Amile Louis Charles*,**,**
+44,1975,*Gvozdover, M. D.*,**,**
+44,1976,*Haag, William George*,**,**
+44,1977,*Haas, Otto*,**,**
+44,1977,*Simpson, G. G.*,**,**
+44,1978,*Hacquaert, A.*,**,**
+44,1979,*Hadley, Elza Ellsworth*,**,**
+44,1980,*Hadley, Elza Ellsworth*,**,**
+44,1981,*Hadley, Elza Ellsworth*,**,**
+44,1982,*Hadley, Elza Ellsworth*,**,**
+44,1983,*Hadley, Elza Ellsworth*,**,**
+44,1984,*Hadley, Elza Ellsworth*,**,**
+44,1985,*Hadley, Elza Ellsworth*,**,**
+44,1986,*Haines, R. Wheeler*,**,**
+44,1986,*Hughes, H.*,**,**
+44,1987,*Haldane, John Burdon Sanderson*,**,**
+44,1988,*Haldane, John Burdon Sanderson*,**,**
+44,1989,*Hall, Eugene Raymond*,**,**
+44,1990,*Hall, Eugene Raymond*,**,**
+44,1991,*Hall, E. R.*,**,**
+44,1991,*Murray, A.*,**,**
+44,1992,*Haller, Jean*,**,**
+44,1993,*Haller, Jean*,**,**
+44,1994,*Haller, Jean*,**,**
+44,1995,*Haller, Jean*,**,**
+44,1996,*Hamada, Ko%Esaku*,**,**
+44,1997,*Hamilton, George Nairne Gordon*,**,**
+44,1997,*Cooke, H. B. S.*,**,**
+44,1998,*Hanc%Jar, Franz*,**,**
+44,1999,*Hanc%Jar, Franz*,**,**
+44,2000,*Hanc%Jar, Franz*,**,**
+44,2001,*Hanc%Jar, Franz*,**,**
+44,2002,*Handley, Charles Overton, Jr.*,**,**
+44,2002,*Patton, C. P.*,**,**
+44,2003,*Hansen, Henry Paul*,**,**
+44,2004,*Harcus, John*,**,**
+44,2005,*Harcus, John*,**,**
+44,2006,*Harcus, John*,**,**
+44,2007,*Harcus, John*,**,**
+44,2008,*Hardy, A. C.*,**,**
+44,2010,*Harrington, Mark Raymond*,**,**
+44,2011,*Harrington, Mark Raymond*,**,**
+44,2012,*Harrington, Mark Raymond*,**,**
+44,2013,*Harrington, Mark Raymond*,**,**
+44,2014,*Harrington, Mark Raymond*,**,**
+44,2015,*Harrington, Mark Raymond*,**,**
+44,2016,*Harrington, Mark Raymond*,**,**
+44,2017,*Harrington, Mark Raymond*,**,**
+44,2018,*Harris, A. W.*,**,**
+44,2019,*Harris, John Edward*,**,**
+44,2020,*Hasebe, Kotondo*,**,**
+44,2021,*Hasebe, Kotondo*,**,**
+44,2022,*Hasebe, Kotondo*,**,**
+44,2023,*Hasebe, Kotondo*,**,**
+44,2024,*Hasebe, Kotondo*,**,**
+44,2025,*Hasebe, Kotondo*,**,**
+44,2026,*Hasebe, Kotondo*,**,**
+44,2027,*Hasebe, Kotondo*,**,**
+44,2028,*Hasse, Georges*,**,**
+44,2029,*Hasse, Georges*,**,**
+44,2030,*Hasse, Georges*,**,**
+44,2031,*Hasse, Georges*,**,**
+44,2032,*Hasse, Georges*,**,**
+44,2033,*Hasse, Georges*,**,**
+44,2034,*Hatai, Kotora M.*,**,**
+44,2035,*Hatai, Kotora M.*,**,**
+44,2036,*Hatai, Kotora M.*,**,**
+44,2037,*Hauff, Bernhard*,**,**
+44,2038,*Haughton, Sidney Henry*,**,**
+44,2039,*Haughton, Sidney Henry*,**,**
+44,2040,*Haughton, Sidney Henry*,**,**
+44,2041,*Haughton, S. H.*,**,**
+44,2041,*Frommurze, H. F.*,**,**
+44,2042,*Hautin, Georges*,**,**
+44,2043,*Hautmann, Friedrich*,**,**
+44,2045,*Hawkes, Charles Francis Christopher*,**,**
+44,2046,*Hawkes, Charles Francis Christopher*,**,**
+44,2047,*Hawkes, Charles Francis Christopher*,**,**
+44,2048,*Hawkes, Charles Francis Christopher*,**,**
+44,2049,*Hawkes, Charles Francis Christopher*,**,**
+44,2050,*Hawkes, Charles Francis Christopher*,**,**
+44,2051,*Hawkes, Charles Francis Christopher*,**,**
+44,2052,*Hawkes, Jaquetta Hopkins*,**,**
+44,2053,*Hawkes, Jaquetta Hopkins*,**,**
+44,2054,*Hawkes, Jaquetta Hopkins*,**,**
+44,2055,*Hawkes, J.*,**,**
+44,2055,*Hawkes, C. F. C.*,**,**
+44,2056,*Hawkes, J.*,**,**
+44,2056,*Hawkes, C. F. C.*,**,**
+44,2057,*Hawley, F. G.*,**,**
+44,2058,*Hay, Oliver Perry*,**,**
+44,2059,*Hayden, Ferdinand Vandiveer*,**,**
+44,2060,*Hazzledine, Warren S.*,**,**
+44,2061,*Heberer, Gerhard*,**,**
+44,2062,*Heberer, Gerhard*,**,**
+44,2063,*Heberer, Gerhard*,**,**
+44,2064,*Heberer, Gerhard*,**,**
+44,2065,*Hecker, Robert F.*,*= Gekker*,**
+44,2066,*Hecker, Robert F.*,*= Gekker*,**
+44,2067,*Hecker, Robert F.*,*= Gekker*,**
+44,2068,*Hecker, R. F.*,**,**
+44,2068,*Merklin, R. L.*,**,**
+44,2069,*Hedberg, H. D.*,**,**
+44,2069,*Hedberg, F.*,**,**
+44,2070,*Hegner, Robert*,**,**
+44,2071,*Heine-Geldern, Robert von*,**,**
+44,2072,*Heine-Geldern, Robert von*,**,**
+44,2073,*Heintz, Anatol*,**,**
+44,2074,*Heintz, Anatol*,**,**
+44,2075,*Heintz, Anatol*,**,**
+44,2076,*Heintz, Anatol*,**,**
+44,2077,*Heintz, Anatol*,**,**
+44,2078,*Heintz, Anatol*,**,**
+44,2079,*Heinzelin de Braucourt, Jean de*,**,**
+44,2080,*Heinzelin de Braucourt, Jean de*,**,**
+44,2081,*Heizer, Robert Fleming*,**,**
+44,2082,*Heizer, Robert Fleming*,**,**
+44,2083,*Heizer, R. F.*,**,**
+44,2083,*Lemert, E. M.*,**,**
+44,2084,*Heldt, Henri*,**,**
+44,2084,*Rivie%Cre, A.*,**,**
+44,2084,*Bellair, P.*,**,**
+44,2085,*Hencken, Hugh O'Neill*,**,**
+44,2086,*Hencken, Hugh O'Neill*,**,**
+44,2087,*Hencken, Hugh O'Neill*,**,**
+44,2088,*Hencken, Hugh O'Neill*,**,**
+44,2089,*Hencken, Hugh O'Neill*,**,**
+44,2090,*Hencken, Hugh O'Neill*,**,**
+44,2091,*Hennig, Edwin*,**,**
+44,2092,*Hennig, Edwin*,**,**
+44,2093,*Hennig, Edwin*,**,**
+44,2094,*Hennig, Edwin*,**,**
+44,2095,*Hennig, Edwin*,**,**
+44,2096,*Hennig, Edwin*,**,**
+44,2097,*Hennig, Edwin*,**,**
+44,2098,*Hennig, Edwin*,**,**
+44,2099,*Henri-Martin, Germaine*,**,**
+44,2100,*Henri-Martin, Germaine*,**,**
+44,2101,*Henri-Martin, Germaine*,**,**
+44,2102,*Henri-Martin, Germaine*,**,**
+44,2103,*Henri-Martin, Germaine*,**,**
+44,2104,*Henri-Martin, Germaine*,**,**
+44,2105,*Henri-Martin, G.*,**,**
+44,2105,*Alimen, M.-H.*,**,**
+44,2105,*Guillien, Y.*,**,**
+44,2106,*Henry, Thomas Robert*,**,**
+44,2107,*Hensel, Witold Pius, et al.*,**,**
+44,2108,*Herak, M.*,**,**
+44,2109,*He%Arenger, Lucette*,**,**
+44,2110,*He%Arenger, Lucette*,**,**
+44,2111,*Herna%Andez-Pacheco, Eduardo*,**,**
+44,2112,*Herna%Andez-Pacheco, Francisco*,**,**
+44,2113,*Heron, A. M.*,**,**
+44,2114,*Hershkovitz, Philip*,**,**
+44,2115,*Herskovits, Melville Jean*,**,**
+44,2116,*Herskovits, Melville Jean*,**,**
+44,2117,*Heuertz, Marcel*,**,**
+44,2118,*Heuvelmans, Bernard*,**,**
+44,2119,*Heuvelmans, Bernard*,**,**
+44,2120,*Hewes, Gordon Winant*,**,**
+44,2121,*Hibbard, Claude William*,**,**
+44,2122,*Hibbard, Claude William*,**,**
+44,2123,*Hibbard, Claude William*,**,**
+44,2124,*Hibbard, Claude William*,**,**
+44,2125,*Hibbard, Claude William*,**,**
+44,2126,*Hibbard, Claude William*,**,**
+44,2127,*Hibbard, Claude William*,**,**
+44,2128,*Hibbard, Claude William*,**,**
+44,2129,*Hibbard, Claude William*,**,**
+44,2130,*Hibbard, Claude William*,**,**
+44,2131,*Hibbard, Claude William*,**,**
+44,2132,*Hibbard, C. W.*,**,**
+44,2132,*Frye, J. C.*,**,**
+44,2132,*Leonard, A. B.*,**,**
+44,2133,*Hibbard, C. W.*,**,**
+44,2133,*Graffham, A.*,**,**
+44,2134,*Hibbard, C. W.*,**,**
+44,2134,*Phillis, L. F.*,**,**
+44,2135,*Hibbard, C. W.*,**,**
+44,2135,*Schultz, C. B.*,**,**
+44,2136,*Hibben, Frank Cummings*,**,**
+44,2137,*Hibben, Frank Cummings*,**,**
+44,2138,*Hibben, Frank Cummings*,**,**
+44,2139,*Hibben, Frank Cummings*,**,**
+44,2140,*Hilde%An, Kaarlo Thorsten Oskar*,**,**
+44,2141,*Hildreth, Ellen*,**,**
+44,2141,*Foster, P. M.*,**,**
+44,2142,*Hills, Edwin Sherbon*,**,**
+44,2143,*Hilton, John W.*,**,**
+44,2144,*Hindle, Edward*,**,**
+44,2145,*Hinsche, Georg*,**,**
+44,2146,*Hirschler, Pierre*,**,**
+44,2147,*Hitchcock, Charles Henry*,**,**
+44,2148,*Hobbs, William Herbert*,**,**
+44,2149,*Hobbs, William Herbert*,**,**
+44,2150,*Hobbs, William Herbert*,**,**
+44,2151,*Hoffmeister, Donald Frederick*,**,**
+44,2152,*Hoffstetter, Robert*,**,**
+44,2153,*Hoffstetter, Robert*,**,**
+44,2154,*Hoffstetter, Robert*,**,**
+44,2155,*Hoffstetter, Robert*,**,**
+44,2156,*Hoffstetter, Robert*,**,**
+44,2157,*Hoffstetter, Robert*,**,**
+44,2158,*Hoffstetter, Robert*,**,**
+44,2159,*Hoffstetter, Robert*,**,**
+44,2160,*Hoffstetter, Robert*,**,**
+44,2161,*Hoffstetter, Robert*,**,**
+44,2162,*Hoffstetter, Robert*,**,**
+44,2163,*Hoffstetter, Robert*,**,**
+44,2164,*Hoffstetter, Robert*,**,**
+44,2165,*Hoffstetter, Robert*,**,**
+44,2166,*Hofmann, Elise*,**,**
+44,2167,*Hofsten, Nils von*,**,**
+44,2168,*Ho%Sjrup, Ole*,**,**
+44,2169,*Hokr, Z.*,**,**
+44,2170,*Holmes, Samuel Jackson*,**,**
+44,2171,*Holmes, William Henry*,**,**
+44,2172,*Holmes, William Henry*,**,**
+44,2173,*Holmes, William Henry*,**,**
+44,2174,*Holmes, William Henry*,**,**
+44,2176,*Holmgren, Nils*,**,**
+44,2178,*Holmgren, Nils*,**,**
+44,2179,*Holmgren, Nils*,**,**
+44,2180,*Hooijer, Dirk Albert*,**,**
+44,2181,*Hooijer, Dirk Albert*,**,**
+44,2182,*Hooijer, Dirk Albert*,**,**
+44,2183,*Hooijer, Dirk Albert*,**,**
+44,2184,*Hooijer, Dirk Albert*,**,**
+44,2185,*Hooijer, Dirk Albert*,**,**
+44,2186,*Hooijer, Dirk Albert*,**,**
+44,2187,*Hooijer, Dirk Albert*,**,**
+44,2188,*Hooijer, Dirk Albert*,**,**
+44,2189,*Hooijer, Dirk Albert*,**,**
+44,2190,*Hooijer, Dirk Albert*,**,**
+44,2191,*Hooijer, Dirk Albert*,**,**
+44,2192,*Hooijer, Dirk Albert*,**,**
+44,2193,*Hooijer, Dirk Albert*,**,**
+44,2194,*Hooijer, Dirk Albert*,**,**
+44,2195,*Hooijer, Dirk Albert*,**,**
+44,2196,*Hooijer, Dirk Albert*,**,**
+44,2197,*Hooijer, Dirk Albert*,**,**
+44,2198,*Hooijer, Dirk Albert*,**,**
+44,2199,*Hooijer, Dirk Albert*,**,**
+44,2200,*Hooijer, Dirk Albert*,**,**
+44,2201,*Hooijer, Dirk Albert*,**,**
+44,2202,*Hooijer, Dirk Albert*,**,**
+44,2203,*Hooper, Emmet Thurman*,**,**
+44,2205,*Hooton, Earnest Albert*,**,**
+44,2206,*Hooton, Earnest Albert*,**,**
+44,2207,*Hooton, Earnest Albert*,**,**
+44,2208,*Hooton, Earnest Albert*,**,**
+44,2209,*Hopwood, Arthur Tindell*,**,**
+44,2210,*Hopwood, Arthur Tindell*,**,**
+44,2211,*Hora, Sunder Lal*,**,**
+44,2212,*Ho%Frner, Nils G.*,**,**
+44,2213,*Hough, (Miss) Jean Ringier*,*= Hough, Margaret Jean*,**
+44,2214,*Hough, (Miss) Jean Ringier*,*= Hough, Margaret Jean*,**
+44,2215,*Hough, (Miss) Jean Ringier*,*= Hough, Margaret Jean*,**
+44,2216,*Howard, Arthur D.*,**,**
+44,2217,*Howard, Hildegarde*,**,**
+44,2218,*Howard, Hildegarde*,**,**
+44,2219,*Howard, Hildegarde*,**,**
+44,2220,*Howard, Hildegarde*,**,**
+44,2221,*Howard, Hildegarde*,**,**
+44,2222,*Howard, Hildegarde*,**,**
+44,2223,*Howard, Hildegarde*,**,**
+44,2224,*Howard, Hildegarde*,**,**
+44,2225,*Howard, Hildegarde*,**,**
+44,2226,*Howard, Hildegarde*,**,**
+44,2227,*Howard, Hildegarde*,**,**
+44,2228,*Howard, Hildegarde*,**,**
+44,2229,*Howard, Hildegarde*,**,**
+44,2230,*Howe, Bruce*,**,**
+44,2231,*Howe, B.*,**,**
+44,2231,*Movius, H. L.*,**,**
+44,2232,*Howell, Benjamin Franklin*,**,**
+44,2233,*Howell, Benjamin Franklin*,**,**
+44,2234,*Howell, Benjamin Franklin*,**,**
+44,2235,*Howells, William*,**,**
+44,2236,*Howells, William*,**,**
+44,2237,*Hoyos Sa%Ainz, Luis de*,**,**
+44,2238,*Hoyos Sa%Ainz, Luis de*,**,**
+44,2239,*Hoyos Sa%Ainz, Luis de*,**,**
+44,2240,*Hoyos Sa%Ainz, Luis de*,**,**
+44,2241,*Hrdlic%Jka, Ales%J*,*= Hardlic%Jka, Alois Ferdinand*,**
+44,2242,*Hrdlic%Jka, Ales%J*,*= Hardlic%Jka, Alois Ferdinand*,**
+44,2243,*Hrdlic%Jka, Ales%J*,*= Hardlic%Jka, Alois Ferdinand*,**
+44,2244,*Hrdlic%Jka, Ales%J*,*= Hardlic%Jka, Alois Ferdinand*,**
+44,2246,*Hrdlic%Jka, Ales%J*,*= Hardlic%Jka, Alois Ferdinand*,**
+44,2247,*Huang, T. K., et al.*,**,**
+44,2248,*Hubbs, Carl Leavitt*,**,**
+44,2249,*Hubbs, C. L.*,**,**
+44,2249,*Miller, R. R.*,**,**
+44,2250,*Huene, Erika von*,**,**
+44,2251,*Huene, Erika von*,**,**
+44,2252,*Huene, Erika von*,**,**
+44,2253,*Huene, Friedrich von*,**,**
+44,2255,*Huene, Friedrich von*,**,**
+44,2256,*Huene, Friedrich von*,**,**
+44,2258,*Huene, Friedrich von*,**,**
+44,2259,*Huene, Friedrich von*,**,**
+44,2260,*Huene, Friedrich von*,**,**
+44,2261,*Huene, Friedrich von*,**,**
+44,2262,*Huene, Friedrich von*,**,**
+44,2263,*Huene, Friedrich von*,**,**
+44,2264,*Huene, Friedrich von*,**,**
+44,2265,*Huene, Friedrich von*,**,**
+44,2266,*Huene, Friedrich von*,**,**
+44,2267,*Huene, Friedrich von*,**,**
+44,2268,*Huene, Friedrich von*,**,**
+44,2269,*Huene, Friedrich von*,**,**
+44,2270,*Huene, Friedrich von*,**,**
+44,2271,*Huene, Friedrich von*,**,**
+44,2272,*Huene, Friedrich von*,**,**
+44,2273,*Huene, Friedrich von*,**,**
+44,2274,*Huene, Friedrich von*,**,**
+44,2275,*Huene, Friedrich von*,**,**
+44,2276,*Huene, Friedrich von*,**,**
+44,2277,*Huene, Friedrich von*,**,**
+44,2278,*Huene, Friedrich von*,**,**
+44,2279,*Huene, Friedrich von*,**,**
+44,2280,*Huene, Friedrich von*,**,**
+44,2281,*Huene, Friedrich von*,**,**
+44,2282,*Huene, Friedrich von*,**,**
+44,2283,*Huene, Friedrich von*,**,**
+44,2284,*Huene, Friedrich von*,**,**
+44,2285,*Huene, Friedrich von*,**,**
+44,2286,*Huene, Friedrich von*,**,**
+44,2287,*Huene, Friedrich von*,**,**
+44,2288,*Hunger, Richard*,**,**
+44,2289,*Huntington, Ellsworth*,**,**
+44,2290,*Hurst, Clarence Thomas*,**,**
+44,2291,*Hurst, Clarence Thomas*,**,**
+44,2292,*Hu%Frzeler, Johannes*,**,**
+44,2293,*Hu%Frzeler, Johannes*,**,**
+44,2295,*Hu%Frzeler, Johannes*,**,**
+44,2296,*Hu%Frzeler, Johannes*,**,**
+44,2297,*Hu%Frzeler, Johannes*,**,**
+44,2298,*Hu%Frzeler, Johannes*,**,**
+44,2299,*Hu%Frzeler, Johannes*,**,**
+44,2300,*Hu%Frzeler, Johannes*,**,**
+44,2301,*Hu%Frzeler, Johannes*,**,**
+44,2302,*Hu%Frzeler, Johannes*,**,**
+44,2303,*Hu%Frzeler, Johannes*,**,**
+44,2304,*Hu%Frzeler, Johannes*,**,**
+44,2305,*Hussakof, Louis*,**,**
+44,2306,*Hussey, Russell Claudius*,**,**
+44,2307,*Hussey, Russell Claudius*,**,**
+44,2308,*Hussey, Russell Claudius*,**,**
+44,2309,*Hutchinson, George Evelyn*,**,**
+44,2310,*Huxley, Julian Sorrell*,**,**
+44,2313,*Huxley, Julian Sorrell*,**,**
+44,2314,*Huzayyin, Suliman Ahmad*,**,**
+44,2315,*Iakimov, V. P.*,**,**
+44,2316,*Iakimov, V. P.*,**,**
+44,2317,*Iakimov, V. P.*,**,**
+44,2318,*Iakimov, V. P.*,**,**
+44,2319,*Ichac, Pierre*,**,**
+44,2320,*Iglesias, Dolores*,**,**
+44,2321,*Iglesias, D.*,**,**
+44,2321,*Meneghezzi, M. de Lourdes*,**,**
+44,2322,*Ihle, J. E. W.*,**,**
+44,2322,*Ihle-Landenberg, M. E.*,**,**
+44,2323,*Ijiri, Sho%Dji*,**,**
+44,2323,*Naohumi, K.*,**,**
+44,2324,*Ilin, M.*,*= Marshak, I. I.*,**
+44,2324,*Segal, A.*,**,**
+44,2325,*Imlay, Ralph Willard*,**,**
+44,2326,*Indreko, Richard*,**,**
+44,2327,*Indreko, Richard*,**,**
+44,2329,*Iuzefovich, A. N.*,**,**
+44,2330,*Ivanova, I. K.*,**,**
+44,2331,*Iverson, Johannes*,**,**
+44,2332,*Ives, Ronald*,**,**
+44,2333,*Jackson, John Wilfrid*,**,**
+44,2334,*Jackson, John Wilfrid*,**,**
+44,2335,*Jacob, Charles*,**,**
+44,2336,*Jacobs, Melville*,**,**
+44,2337,*Jacobs, M.*,**,**
+44,2337,*Stern, B. J.*,**,**
+44,2338,*Jaeger, Edmund Carroll*,**,**
+44,2339,*Janensch, Werner*,**,**
+44,2340,*Janmart, J.*,**,**
+44,2341,*Janmart, J.*,**,**
+44,2342,*Janmart, J.*,**,**
+44,2343,*Janmart, J.*,**,**
+44,2344,*Janmart, J.*,**,**
+44,2345,*Janmart, J.*,**,**
+44,2347,*Jarvik, Erik*,**,**
+44,2348,*Jarvik, Erik*,**,**
+44,2349,*Jarvik, Erik*,**,**
+44,2350,*Jarvik, Erik*,**,**
+44,2351,*Jarvik, Erik*,**,**
+44,2352,*Jayet, Adrien*,**,**
+44,2353,*Jayet, Adrien*,**,**
+44,2354,*Jayet, Adrien*,**,**
+44,2355,*Jayet, Adrien*,**,**
+44,2356,*Jayet, Adrien*,**,**
+44,2357,*Jayet, Adrien*,**,**
+44,2358,*Jayet, A.*,**,**
+44,2358,*Constantin, E.*,**,**
+44,2359,*Jeanneret, Max*,**,**
+44,2360,*Jefferson, Thomas*,**,**
+44,2361,*Jeffreys, Mervyn David Waldegrave*,**,**
+44,2362,*Jenkins, Olaf Pitt, et al.*,**,**
+44,2364,*Jennings, Otto Emery*,**,**
+44,2365,*Jepsen, Glenn Lowell*,**,**
+44,2366,*Jepsen, Glenn Lowell*,**,**
+44,2367,*Jepsen, Glenn Lowell*,**,**
+44,2368,*Jepsen, Glenn Lowell*,**,**
+44,2369,*Jepsen, Glenn Lowell*,**,**
+44,2370,*Jepsen, Glenn Lowell*,**,**
+44,2371,*Jepsen, Glenn Lowell*,**,**
+44,2372,*Jepsen, G. L.*,**,**
+44,2372,*Cooper, K. W.*,**,**
+44,2373,*Jillson, Willard Rouse*,**,**
+44,2374,*Jillson, Willard Rouse*,**,**
+44,2375,*Jillson, Willard Rouse*,**,**
+44,2376,*Jillson, Willard Rouse*,**,**
+44,2377,*Jillson, Willard Rouse*,**,**
+44,2378,*Jime%Anez, Ernesto*,**,**
+44,2378,*Valero, J. S. S.*,**,**
+44,2379,*Joffroy, R.*,**,**
+44,2379,*Mouton, P.*,**,**
+44,2380,*Johnels, Alf. G.*,**,**
+44,2381,*Johnson, Helgi*,**,**
+44,2382,*Johnson, Jotham*,**,**
+44,2383,*Johnson, Jotham*,**,**
+44,2384,*Johnston, Philip*,**,**
+44,2385,*Joire, J.*,**,**
+44,2386,*Joleaud, Le%Aonce*,**,**
+44,2387,*Joleaud, L.*,**,**
+44,2387,*Alimen, M.-H.*,**,**
+44,2388,*Jolly, Keith*,**,**
+44,2389,*Jolly, Keith*,**,**
+44,2390,*Jones, Hector G.*,**,**
+44,2391,*Jones, Neville*,**,**
+44,2392,*Jones, Neville*,**,**
+44,2393,*Jones, Neville*,**,**
+44,2394,*Jones, Neville*,**,**
+44,2395,*Jones, N.*,**,**
+44,2395,*Bond, G.*,**,**
+44,2396,*Jones, N.*,**,**
+44,2396,*Summers, R. F. H.*,**,**
+44,2397,*J[ones], T. A.*,**,**
+44,2398,*Jonet, S.*,**,**
+44,2399,*Jonghe, E. De*,**,**
+44,2400,*Jorda%A-Cerda%A, F.*,**,**
+44,2401,*Jorda%A-Cerda%A, F.*,**,**
+44,2402,*Jorda%A-Cerda%A, F.*,**,**
+44,2403,*Julien, Joseph*,**,**
+44,2404,*Julien, Joseph*,**,**
+44,2405,*Kadic%J, Ottokar*,**,**
+44,2406,*Kalabis, Vladimir*,**,**
+44,2407,*Kalabis, Vladimir*,**,**
+44,2408,*Kalapesi, A. S.*,**,**
+44,2409,*Ka%Flin, Josef*,**,**
+44,2410,*Ka%Flin, Josef*,**,**
+44,2411,*Ka%Flin, Josef*,**,**
+44,2412,*Ka%Flin, Josef*,**,**
+44,2413,*Ka%Flin, J.*,**,**
+44,2413,*Knu%Fsel, L.*,**,**
+44,2414,*Kaltenmark, Jean*,**,**
+44,2415,*Kaltenmark, Jean*,**,**
+44,2416,*Kama, Shi*,**,**
+44,2417,*Kanazeki, Miyake*,**,**
+44,2417,*Mizuno, S.*,**,**
+44,2418,*Kansu, S%Bevket Aziz*,**,**
+44,2419,*Kansu, S%Bevket Aziz*,**,**
+44,2420,*Kansu, S%Bevket Aziz*,**,**
+44,2421,*Kansu, S%Bevket Aziz*,**,**
+44,2422,*Kaplan, Bernice Antoville*,**,**
+44,2423,*Kay, James LeRoy*,**,**
+44,2424,*Kay, James LeRoy*,**,**
+44,2425,*Kayser, Emanuel*,**,**
+44,2426,*Keble, R. A.*,**,**
+44,2427,*Keble, R. A.*,**,**
+44,2428,*Keble, R. A.*,**,**
+44,2429,*Keble, R. A.*,**,**
+44,2429,*Macpherson, J. H.*,**,**
+44,2430,*Kehrer, L.*,**,**
+44,2432,*Keith, (Sir) Arthur*,**,**
+44,2433,*Keith, (Sir) Arthur*,**,**
+44,2434,*Keith, (Sir) Arthur*,**,**
+44,2435,*Keith, (Sir) Arthur*,**,**
+44,2436,*Keith, (Sir) Arthur*,**,**
+44,2437,*Kellaway, G. A.*,**,**
+44,2437,*Welch, F. B. A.*,**,**
+44,2438,*Keller, Gerhard*,**,**
+44,2439,*Keller, J.*,**,**
+44,2440,*Keller-Tarnuzzer, Karl*,**,**
+44,2441,*Keller-Tarnuzzer, Karl*,**,**
+44,2442,*Keller-Tarnuzzer, Karl*,**,**
+44,2443,*Keller-Tarnuzzer, Karl*,**,**
+44,2444,*Keller-Tarnuzzer, K.*,**,**
+44,2444,*Sauter, M. R.*,**,**
+44,2444,*Pelichet, E.*,**,**
+44,2445,*Kelley, John Charles*,**,**
+44,2446,*Kellogg, Arthur Remington*,**,**
+44,2447,*Kellogg, Arthur Remington*,**,**
+44,2448,*Kellum, Lewis Burnett*,**,**
+44,2449,*Kellum, Lewis Burnett*,**,**
+44,2450,*Keniston, Hayward*,**,**
+44,2451,*Kennard, A. S.*,**,**
+44,2452,*Kennard, A. S.*,**,**
+44,2453,*Kennard, A. S.*,**,**
+44,2454,*Kent, Percy Edward*,**,**
+44,2455,*Kermack, K. A.*,**,**
+44,2456,*Kerr, T.*,**,**
+44,2457,*Kersten, W.*,**,**
+44,2458,*Kesteven, Hereward Leighton*,**,**
+44,2459,*Kesteven, Hereward Leighton*,**,**
+44,2460,*Khabakov, Aleksandr V.*,*Chabakov, Alexander V.*,**
+44,2461,*Khozatsky, L. I.*,**,**
+44,2462,*Khozatsky, L. I.*,**,**
+44,2463,*Khozatsky, L. I.*,**,**
+44,2464,*Khozatsky, L. I.*,**,**
+44,2465,*Khozatsky, L. I.*,**,**
+44,2466,*Khozatsky, L. I.*,**,**
+44,2466,*Eglon, Ta. M.*,**,**
+44,2467,*Kiaer, Johan*,**,**
+44,2467,*Heintz, A.*,**,**
+44,2468,*Kidder, Alfred Vincent*,**,**
+44,2469,*Kidder, H. H.*,**,**
+44,2469,*Kidder, (Mme.) H. H.*,**,**
+44,2470,*Kimball, Day*,**,**
+44,2470,*Zeuner, F. E.*,**,**
+44,2471,*King, Lester Charles*,**,**
+44,2472,*Kirkaldy, J. F.*,**,**
+44,2472,*Bull, A. J.*,**,**
+44,2473,*Kiselev, S. V.*,**,**
+44,2474,*Kiselev, S. V.*,**,**
+44,2475,*Kiselev, S. V.*,**,**
+44,2476,*Kitching, James*,**,**
+44,2476,*Wells, L. H.*,**,**
+44,2476,*Wesphal, E.*,**,**
+44,2477,*Kiyono, Kenji*,**,**
+44,2478,*Kleiweg de Zwaan*,**,**
+44,2478,*Johannes Pieter*,**,**
+44,2479,*Klimsch, Odo*,**,**
+44,2480,*Klinghardt, Franz*,**,**
+44,2481,*Knight, Charles Robert*,**,**
+44,2482,*Knight, James Brookes*,**,**
+44,2483,*Knight, J. B.*,**,**
+44,2483,*Romer, A. S.*,**,**
+44,2483,*Dunbar, C. O.*,**,**
+44,2484,*Knu%Fsel, L.*,**,**
+44,2485,*Koby, Fre%Ade%Aric Edouard*,**,**
+44,2486,*Koby, Fre%Ade%Aric Edouard*,**,**
+44,2487,*Koby, Fre%Ade%Aric Edouard*,**,**
+44,2488,*Koby, Fre%Ade%Aric Edouard*,**,**
+44,2489,*Koch, Albert C[arl]*,*Albrecht Karl*,**
+44,2490,*Koch, Felix J.*,**,**
+44,2491,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2492,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2493,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2494,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2495,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2496,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2497,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+44,2499,*Kofahl, Kurt*,**,**
+44,2500,*Koh, Ting-pong*,**,**
+44,2501,*Kohl-Larsen, Ludwig*,**,**
+44,2502,*Ko%Fhne, Carl Ernst*,**,**
+44,2503,*Ko%Fkten, I. Kilic%B*,**,**
+44,2504,*Konjukova, E. D.*,*= Konzhukova, E. D.*,**
+44,2505,*Konjukova, E. D.*,*= Konzhukova, E. D.*,**
+44,2506,*Konrad, Paul*,**,**
+44,2507,*Kothe, Heinz*,**,**
+44,2508,*Kraft, Georg*,**,**
+44,2509,*Kraft, Georg*,**,**
+44,2510,*Kraglievich, Lucas Jorge*,**,**
+44,2511,*Kraglievich, Lucas Jorge*,**,**
+44,2512,*Kraglievich, Lucas Jorge*,**,**
+44,2513,*Kraglievich, Lucas Jorge*,**,**
+44,2514,*Kraglievich, Lucas Jorge*,**,**
+44,2515,*Kraglievich, Lucas Jorge*,**,**
+44,2516,*Kraglievich, Lucas Jorge*,**,**
+44,2517,*Kraglievich, Lucas Jorge*,**,**
+44,2518,*Kraglievich, Lucas Jorge*,**,**
+44,2519,*Kraglievich, Lucas Jorge*,**,**
+44,2520,*Kraglievich, Lucas Jorge*,**,**
+44,2521,*Kraglievich, L. J.*,**,**
+44,2521,*Reig, O. A.*,**,**
+44,2522,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2523,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2524,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2525,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2526,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2527,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2528,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2529,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2530,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2531,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2532,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2533,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2534,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2535,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2536,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2537,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2538,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2539,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2540,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2541,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2542,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2543,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2544,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2545,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2546,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2547,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2548,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2549,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2550,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2551,*Kretzoi, Miklo%As*,*= Kretzoi, Nikolaus*,**
+44,2552,*Krieger, Alex Dony*,**,**
+44,2553,*Krieger, Alex Dony*,**,**
+44,2554,*Krieger, Alex Dony*,**,**
+44,2555,*Krieger, Alex Dony*,**,**
+44,2556,*Krieger, Alex Dony*,**,**
+44,2557,*Kriger, N.*,**,**
+44,2558,*Kripp, D. von*,**,**
+44,2559,*Krishna, M. H.*,**,**
+44,2560,*Krishna, M. H.*,**,**
+44,2561,*Krishnan, M. S.*,**,**
+44,2561,*Aiyengar, N. K. N.*,**,**
+44,2562,*Krishnaswami, V. D.*,**,**
+44,2563,*Krishnaswami, V. D.*,**,**
+44,2564,*Krishnaswami, V. D.*,**,**
+44,2565,*Kroeber, Alfred Louis*,**,**
+44,2566,*Kroeber, Alfred Louis*,**,**
+44,2567,*Kroeber, Alfred Louis*,**,**
+44,2568,*Krogman, Wilton Marion*,**,**
+44,2569,*Krogman, Wilton Marion*,**,**
+44,2570,*Krogman, Wilton Marion*,**,**
+44,2572,*Krogman, Wilton Marion*,**,**
+44,2573,*Krogman, Wilton Marion*,**,**
+44,2574,*Krogman, Wilton Marion*,**,**
+44,2576,*Krukowski, Stefan Wincenty*,**,**
+44,2577,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+44,2578,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+44,2579,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+44,2582,*Kuhn, Emil*,**,**
+44,2583,*Kuhn, Emil*,**,**
+44,2584,*Kuhn, Emil*,**,**
+44,2585,*Kuhn, Emil*,**,**
+44,2586,*Kuhn, Emil*,**,**
+44,2587,*Kuhn, Emil*,**,**
+44,2588,*Kuhn, Emil*,**,**
+44,2589,*Kuhn, E.*,**,**
+44,2589,*Gu%Fller, A.*,**,**
+44,2590,*Ku%Fhn, Herbert*,**,**
+44,2591,*Ku%Fhn, Herbert*,**,**
+44,2592,*Ku%Fhn, Herbert*,**,**
+44,2593,*Ku%Fhn, Herbert*,**,**
+44,2594,*Ku%Fhn, Herbert*,**,**
+44,2595,*Ku%Fhn, Herbert*,**,**
+44,2600,*Ku%Fhn, Oskar*,**,**
+44,2601,*Ku%Fhn, Oskar*,**,**
+44,2602,*Ku%Fhn, Oskar*,**,**
+44,2603,*Ku%Fhn, Oskar*,**,**
+44,2604,*Ku%Fhn, Oskar*,**,**
+44,2605,*Ku%Fhn, Oskar*,**,**
+44,2606,*Ku%Fhn, Oskar*,**,**
+44,2607,*Ku%Fhn, Oskar*,**,**
+44,2608,*Ku%Fhn, Oskar*,**,**
+44,2609,*Ku%Fhn, Oskar*,**,**
+44,2610,*Ku%Fhn, Oskar*,**,**
+44,2611,*Ku%Fhn, Oskar*,**,**
+44,2612,*Ku%Fhn, Oskar*,**,**
+44,2613,*Ku%Fhn, Oskar*,**,**
+44,2614,*Ku%Fhn, Oskar*,**,**
+44,2615,*Ku%Fhn, Oskar*,**,**
+44,2616,*Ku%Fhne, Walter G.*,**,**
+44,2617,*Kukuk, Paul*,**,**
+44,2618,*Kulling, Oskar*,**,**
+44,2619,*Kulling, Oskar*,**,**
+44,2620,*Ku%Fpper, H.*,**,**
+44,2621,*La Baume, Wolfgang*,**,**
+44,2622,*La Baume, Wolfgang*,**,**
+44,2623,*La Baume, Wolfgang*,**,**
+44,2624,*Lacaille, Armand Donald*,**,**
+44,2625,*Lacaille, Armand Donald*,**,**
+44,2626,*Lacaille, Armand Donald*,**,**
+44,2627,*Lacaille, A. D.*,**,**
+44,2627,*Cave, A. J. E.*,**,**
+44,2628,*Lacam, Roger*,**,**
+44,2628,*Niederlander, A.*,**,**
+44,2629,*Lacorre, Fernand*,**,**
+44,2629,*Barral, L.*,**,**
+44,2630,*L[aguna], F[rederica Annis] de*,**,**
+44,2631,*Lahn, E.*,**,**
+44,2632,*Lahovary, N.*,**,**
+44,2633,*Lai, F.*,**,**
+44,2634,*Laidler, Percy Ward*,**,**
+44,2635,*Lais, Robert*,**,**
+44,2636,*Lalanne, Jean Gaston*,**,**
+44,2636,*Bouyssonie, J.*,**,**
+44,2637,*Lam, H. J.*,**,**
+44,2638,*Lambert, Henri*,**,**
+44,2639,*Lambert, Henri*,**,**
+44,2640,*Lambert, Henri*,**,**
+44,2641,*Lamberton, Charles*,**,**
+44,2642,*Lamberton, Charles*,**,**
+44,2643,*Lamberton, Charles*,**,**
+44,2644,*Lamberton, Charles*,**,**
+44,2645,*Lamberton, Charles*,**,**
+44,2646,*Lamberton, Charles*,**,**
+44,2647,*Lamberton, Charles*,**,**
+44,2648,*Lamberton, Charles*,**,**
+44,2649,*Lamberton, Charles*,**,**
+44,2650,*Lamberton, Charles*,**,**
+44,2651,*Lamberton, Charles*,**,**
+44,2652,*Lamberton, Charles*,**,**
+44,2653,*Lamberton, Charles*,**,**
+44,2654,*Lamboglia, Nino*,**,**
+44,2655,*Lamboglia, Nino*,**,**
+44,2656,*Lameere, Auguste*,**,**
+44,2657,*Lameere, Auguste*,**,**
+44,2658,*Lance, John Franklin*,**,**
+44,2659,*Landberg, Robert*,**,**
+44,2660,*Lane, Henry Higgins*,**,**
+44,2661,*Lane, Henry Higgins*,**,**
+44,2662,*Lane, Henry Higgins*,**,**
+44,2663,*Lane, Henry Higgins*,**,**
+44,2664,*Lane, Henry Higgins*,**,**
+44,2665,*Lane, Henry Higgins*,**,**
+44,2666,*Lane, Henry Higgins*,**,**
+44,2667,*Lane, Henry Higgins*,**,**
+44,2668,*Lang, William Dickson*,**,**
+44,2668,*Smith, Stanley*,**,**
+44,2669,*Langston, Wann, Jr.*,**,**
+44,2670,*Langston, Wann, Jr.*,**,**
+44,2671,*Lanham, Urless Norton*,**,**
+44,2672,*Lantier, Raymond F.*,**,**
+44,2673,*Lantier, Raymond F.*,**,**
+44,2674,*Lantier, Raymond F.*,**,**
+44,2675,*Lantier, Raymond F.*,**,**
+44,2676,*Lantier, Raymond F.*,**,**
+44,2677,*Lanza, B.*,**,**
+44,2678,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2679,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2680,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2681,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2682,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2683,*Lapparent, (Abbe%A) Albert F. de*,**,**
+44,2684,*Lapparent, A. F. de*,**,**
+44,2684,*Augier, J.*,**,**
+44,2685,*La Roche, Jean de*,**,**
+44,2686,*Laskareff, Vladimir D.*,*=Laskarev, Branislav*,**
+44,2687,*Laskareff, Vladimir D.*,*=Laskarev, Branislav*,**
+44,2688,*Laskareff, Vladimir D.*,*=Laskarev, Branislav*,**
+44,2689,*Laskareff, Vladimir D.*,*=Laskarev, Branislav*,**
+44,2690,*Lasker, Gabriel Ward*,**,**
+44,2691,*Laudermilk, Jerome Douglas*,**,**
+44,2692,*Laudermilk, Jerome Douglas*,**,**
+44,2693,*Laudermilk, Jerome Douglas*,**,**
+44,2694,*Laudermilk, Jerome Douglas*,**,**
+44,2695,*Laurent, Raymond*,**,**
+44,2696,*Laviosa-Zambotti, Pia*,**,**
+44,2697,*Laviosa-Zambotti, Pia*,**,**
+44,2698,*Laviosa-Zambotti, Pia*,**,**
+44,2699,*Lavocat, Rene%A*,**,**
+44,2700,*Lavocat, Rene%A*,**,**
+44,2701,*Lavocat, Rene%A*,**,**
+44,2702,*Lavocat, Rene%A*,**,**
+44,2703,*Lavocat, Rene%A*,**,**
+44,2704,*Lavocat, Rene%A*,**,**
+44,2705,*Lavocat, Rene%A*,**,**
+44,2706,*Lavocat, R.*,**,**
+44,2706,*Lapparent, A. F. de*,**,**
+44,2707,*Lawrence, Barbara*,**,**
+44,2709,*Lazarte, Manuel Liendo*,**,**
+44,2710,*Lazzari, Antonio*,**,**
+44,2711,*Leakey, Louis Seymour Bazard*,**,**
+44,2714,*Leakey, Louis Seymour Bazard*,**,**
+44,2715,*Leakey, Louis Seymour Bazard*,**,**
+44,2716,*Leakey, Louis Seymour Bazard*,**,**
+44,2717,*Leakey, Louis Seymour Bazard*,**,**
+44,2718,*Leakey, Louis Seymour Bazard*,**,**
+44,2719,*Leakey, Louis Seymour Bazard*,**,**
+44,2720,*Leakey, Louis Seymour Bazard*,**,**
+44,2721,*Leakey, Louis Seymour Bazard*,**,**
+44,2722,*Leakey, Louis Seymour Bazard*,**,**
+44,2723,*Leakey, Louis Seymour Bazard*,**,**
+44,2724,*Leakey, L. S. B.*,**,**
+44,2724,*Leakey, M. D.*,**,**
+44,2725,*Leakey, L. S. B.*,**,**
+44,2725,*Archdeacon Owen*,**,**
+44,2726,*Leakey, (Mrs.) Mary D.*,**,**
+44,2727,*Lebzelter, Viktor*,**,**
+44,2728,*Lecca, Baron) Octave Georges*,**,**
+44,2729,*Lechler, George*,**,**
+44,2730,*Leclerc, J.*,**,**
+44,2730,*Pradel, L.*,**,**
+44,2731,*Lecointre, Georges*,**,**
+44,2732,*Lecointre, Georges*,**,**
+44,2733,*Leechman, Douglas*,**,**
+44,2734,*Lehman, Jean-Pierre*,**,**
+44,2735,*Lehman, Jean-Pierre*,**,**
+44,2736,*Lehmann, Ernst*,**,**
+44,2737,*Lehmann, Ulrich*,**,**
+44,2738,*Leibbrand, W.*,**,**
+44,2739,*Leighton, Henry*,**,**
+44,2740,*Leighton, Morris Morgan*,**,**
+44,2741,*Le Lubre, Maurice*,**,**
+44,2744,*Leonardi, Piero*,**,**
+44,2745,*Leonardi, Piero*,**,**
+44,2746,*Leonardi, Piero*,**,**
+44,2747,*Leonardi, Piero*,**,**
+44,2748,*Leonardi, Piero*,**,**
+44,2749,*Leonardi, Piero*,**,**
+44,2750,*Leonardi, Piero*,**,**
+44,2751,*Leonardi, Piero*,**,**
+44,2752,*Leonardi, Piero*,**,**
+44,2753,*Leonardi, Piero*,**,**
+44,2754,*Leonardi, Piero*,**,**
+44,2755,*Leonardi, Piero*,**,**
+44,2756,*Leonardi, Piero*,**,**
+44,2757,*Leonardi, Piero*,**,**
+44,2758,*Leonardi, Piero*,**,**
+44,2759,*Leonardi, Piero*,**,**
+44,2760,*Leonardi, P.*,**,**
+44,2760,*Malaroda, R.*,**,**
+44,2761,*Lepori, R.*,**,**
+44,2762,*Leriche, Maurice*,**,**
+44,2763,*Leriche, Maurice*,**,**
+44,2764,*Leriche, Maurice*,**,**
+44,2765,*Leriche, Maurice*,**,**
+44,2766,*Leriche, Maurice*,**,**
+44,2767,*Leroi-Gourhan, Andre%A*,**,**
+44,2768,*Leroi-Gourhan, Andre%A*,**,**
+44,2769,*Leroi-Gourhan, Andre%A*,**,**
+44,2770,*Leroi-Gourhan, Andre%A*,**,**
+44,2771,*Leroi-Gourhan, Andre%A*,**,**
+44,2772,*Leroy, Pierre*,**,**
+44,2773,*Leuchs, Kurt*,**,**
+44,2774,*Leverett, Frank*,**,**
+44,2775,*Leverett, Frank*,**,**
+44,2776,*LeViness, W. Thetford*,**,**
+44,2777,*Le%Avy, Paul*,**,**
+44,2778,*Lewis, George Edward*,**,**
+44,2779,*Lewis, George Edward*,**,**
+44,2780,*Lewis, Gilbert Newton*,**,**
+44,2781,*Lewis, Wilmarth Sheldon*,**,**
+44,2783,*Ley, Willy*,**,**
+44,2784,*Ley, Willy*,**,**
+44,2785,*Ley, Willy*,**,**
+44,2786,*Ley, Willy*,**,**
+44,2787,*Lhoste, (Mme.) Laure J.*,**,**
+44,2788,*Lhote, Henri*,**,**
+44,2789,*Lhote, Henri*,**,**
+44,2790,*Lhote, Henri*,**,**
+44,2791,*Licent, Paul E%Amile*,**,**
+44,2792,*Licent, Paul E%Amile*,**,**
+44,2794,*Lilienstern, Hugo Ru%Fhle von*,**,**
+44,2795,*Lilliu, Giovanni*,**,**
+44,2796,*Lilliu, Giovanni*,**,**
+44,2797,*Lindberg, G. U.*,**,**
+44,2798,*Lindberg, G. U.*,**,**
+44,2800,*Linze, Dewey Wendell*,**,**
+44,2801,*Linze, Dewey Wendell*,**,**
+44,2802,*Lisson, Carlos I.*,**,**
+44,2802,*Boit, B.*,**,**
+44,2803,*Livingston, William*,**,**
+44,2804,*Lizardi Ramos, Ce%Asar*,**,**
+44,2804,*Mu%Fllerried, F. K. G.*,**,**
+44,2805,*Loefgren, Axel*,**,**
+44,2806,*Logan, (General) Thomas Muldrup*,**,**
+44,2807,*Lo%Fhnberg, A.*,**,**
+44,2809,*Longman, Heber A.*,**,**
+44,2810,*Longman, Heber A.*,**,**
+44,2811,*Longwell, Chester Ray*,**,**
+44,2812,*Longwell, Chester Ray*,**,**
+44,2813,*Loomis, Frederic Brewster*,**,**
+44,2815,*Loriana, Marque%As de*,**,**
+44,2816,*Loriana, Marque%As de*,**,**
+44,2817,*Loriana, Marque%As de*,**,**
+44,2818,*Losacco, Ugo*,**,**
+44,2819,*Loss, Renato*,**,**
+44,2820,*Loss, Renato*,**,**
+44,2821,*Loss, Renato*,**,**
+44,2822,*Louis, Maurice Alexis*,**,**
+44,2823,*Louis, Maurice Alexis*,**,**
+44,2824,*Louis, M. A.*,**,**
+44,2824,*Arnal, J.*,**,**
+44,2825,*Louis, M. A.*,**,**
+44,2825,*Louis, Mary G.*,**,**
+44,2826,*Loveridge, Arthur*,**,**
+44,2827,*Lowe, Clarence van Riet*,**,**
+44,2829,*Lowe, Clarence van Riet*,**,**
+44,2830,*Lowe, Clarence van Riet*,**,**
+44,2831,*Lowe, Clarence van Riet*,**,**
+44,2832,*Lowe, Clarence van Riet*,**,**
+44,2833,*Lowe, Clarence van Riet*,**,**
+44,2834,*Lowe, Clarence van Riet*,**,**
+44,2835,*Lowe, Clarence van Riet*,**,**
+44,2836,*Lowe, Clarence van Riet*,**,**
+44,2837,*Lowe, Clarence van Riet*,**,**
+44,2838,*Lowe, Clarence van Riet*,**,**
+44,2839,*Lowe, Clarence van Riet*,**,**
+44,2840,*Lowe, Clarence van Riet*,**,**
+44,2841,*Lowe, Clarence van Riet*,**,**
+44,2842,*Lowe, Clarence van Riet*,**,**
+44,2843,*Lowe, Clarence van Riet*,**,**
+44,2844,*Lowe, Clarence van Riet*,**,**
+44,2845,*Lowe, Clarence van Riet*,**,**
+44,2846,*Lowe, Clarence van Riet*,**,**
+44,2847,*Lowe, Clarence van Riet*,**,**
+44,2848,*Lowe, Clarence van Riet*,**,**
+44,2849,*Lowe, Clarence van Riet*,**,**
+44,2850,*Lowe, Clarence van Riet*,**,**
+44,2851,*Lowe, Clarence van Riet*,**,**
+44,2852,*Lowe, Clarence van Riet*,**,**
+44,2853,*Lowe, Clarence van Riet*,**,**
+44,2854,*Lowe, Clarence van Riet*,**,**
+44,2855,*Lowe, Clarence van Riet*,**,**
+44,2856,*Lowe, Percy Roycroft*,**,**
+44,2857,*Lowe, Percy Roycroft*,**,**
+44,2858,*Lowe, Percy Roycroft*,**,**
+44,2859,*Lowie, Robert Harry*,**,**
+44,2860,*Lowie, Robert Harry*,**,**
+44,2861,*Lucas, Frederic Augustus*,**,**
+44,2862,*Lucas, Frederic Augustus*,**,**
+44,2863,*Lucas, Frederic Augustus*,**,**
+44,2864,*Lucas, Frederic Augustus*,**,**
+44,2865,*Lucas, Frederic Augustus*,**,**
+44,2866,*Lucas, Frederic Augustus*,**,**
+44,2867,*Lucas, Frederic Augustus*,**,**
+44,2868,*Lucas, Frederic Augustus*,**,**
+44,2869,*Lucas, Frederic Augustus*,**,**
+44,2870,*Luho, Ville*,**,**
+44,2871,*Luho, Ville*,**,**
+44,2872,*Luho, Ville*,**,**
+44,2873,*Lull, Richard Swann*,**,**
+44,2874,*Lull, Richard Swann*,**,**
+44,2875,*Lull, Richard Swann*,**,**
+44,2876,*Lull, Richard Swann*,**,**
+44,2878,*Lund, Peter Wilhelm*,**,**
+44,2879,*Lund, Peter Wilhelm*,**,**
+44,2880,*Lung, Walter*,**,**
+44,2881,*Lunin, B. V.*,**,**
+44,2882,*Lutaud, Le%Aon*,**,**
+44,2883,*Lyons, Barrow*,**,**
+44,2884,*Ma, Ting-ying H.*,**,**
+44,2885,*MacAlpin, Archie Justus*,**,**
+44,2886,*Macarovici, Gh. Niculai*,**,**
+44,2887,*Macarovici, G. N.*,**,**
+44,2887,*Oescu, C. V.*,**,**
+44,2888,*McAtee, Waldo Lee*,**,**
+44,2889,*McBurney, C. B. M.*,**,**
+44,2890,*McBurney, C. B. M.*,**,**
+44,2890,*Hey, R. W.*,**,**
+44,2890,*Watson, W.*,**,**
+44,2891,*McBurney, C. B. M.*,**,**
+44,2891,*Hey, R. W.*,**,**
+44,2891,*Watson, W.*,**,**
+44,2892,*Maccagno, A. M.*,**,**
+44,2893,*McCarthy, Frederick David*,**,**
+44,2894,*McCarthy, Frederick David*,**,**
+44,2895,*McCarthy, Frederick David*,**,**
+44,2896,*McCarthy, Frederick David*,**,**
+44,2897,*McCarthy, Frederick David*,**,**
+44,2898,*McCarthy, Frederick David*,**,**
+44,2899,*McCarthy, Frederick David*,**,**
+44,2900,*McCarthy, Frederick David*,**,**
+44,2901,*McCarthy, F. D.*,**,**
+44,2901,*Bramell, E.*,**,**
+44,2901,*Noone, H. V. V.*,**,**
+44,2902,*McCarthy, F. D.*,**,**
+44,2902,*Davidson, F. A.*,**,**
+44,2903,*McCown, Theodore Doney*,**,**
+44,2904,*McCown, T. D.*,**,**
+44,2904,*Keith, Sir A.*,**,**
+44,2905,*McCrary, B. C.*,**,**
+44,2906,*McCrary, B. C.*,**,**
+44,2907,*McCully, H. S.*,**,**
+44,2908,*McCully, H. S.*,**,**
+44,2909,*MacCurdy, George Grant*,**,**
+44,2910,*MacCurdy, George Grant*,**,**
+44,2911,*Macdonald, James Reid*,**,**
+44,2912,*Macdonald, James Reid*,**,**
+44,2913,*Macdonald, James Reid*,**,**
+44,2914,*Macdonald, James Reid*,**,**
+44,2915,*McDowell, Sam*,**,**
+44,2916,*Macfarlane, David Rattray*,**,**
+44,2917,*Macfarlane, David Rattray*,**,**
+44,2918,*McGee, W J*,**,**
+44,2918,*Holmes, W. H.*,**,**
+44,2919,*MacGregor, A. M.*,**,**
+44,2920,*McGregor, John Charles*,**,**
+44,2921,*Macgregor, Murray*,**,**
+44,2921,*Macgregor, A. G.*,**,**
+44,2922,*McGrew, Paul Orman*,**,**
+44,2923,*McGrew, Paul Orman*,**,**
+44,2924,*McGrew, Paul Orman*,**,**
+44,2925,*McGrew, Paul Orman*,**,**
+44,2926,*McGrew, Paul Orman*,**,**
+44,2927,*McGrew, Paul Orman*,**,**
+44,2928,*McGrew, Paul Orman*,**,**
+44,2929,*McGrew, Paul Orman*,**,**
+44,2930,*McGrew, Paul Orman*,**,**
+44,2931,*McGrew, Winifred*,**,**
+44,2932,*MacInnes, Donald Gordon*,**,**
+44,2933,*McKee, Edwin Dinwiddie*,**,**
+44,2934,*McKee, Edwin Dinwiddie*,**,**
+44,2935,*McKee, Edwin Dinwiddie*,**,**
+44,2936,*McLain, Jerry*,**,**
+44,2937,*McLaughlin, Donald Hamilton*,**,**
+44,2938,*Maclean, John Patterson*,**,**
+44,2939,*Maclean, John Patterson*,**,**
+44,2940,*Madsen, Victor*,**,**
+44,2941,*Magistretti, Luigi*,**,**
+44,2942,*Maglioni, R.*,**,**
+44,2946,*Mahony, D. J.*,**,**
+44,2947,*Makarevich, M.*,**,**
+44,2949,*Malan, Barend Daniel*,**,**
+44,2950,*Malan, Barend Daniel*,**,**
+44,2951,*Malan, Barend Daniel*,**,**
+44,2952,*Malan, Barend Daniel*,**,**
+44,2953,*Malan, Barend Daniel*,**,**
+44,2956,*Malavolti, F.*,**,**
+44,2956,*Mansuelli, G. A.*,**,**
+44,2957,*Maldonado-Koerdell, Manuel*,**,**
+44,2958,*Maldonado-Koerdell, Manuel*,**,**
+44,2959,*Maldonado-Koerdell, Manuel*,**,**
+44,2960,*Maldonado-Koerdell, Manuel*,**,**
+44,2961,*Maldonado-Koerdell, Manuel*,**,**
+44,2962,*Maldonado-Koerdell, Manuel*,**,**
+44,2963,*Maldonado-Koerdell, Manuel*,**,**
+44,2964,*Malvesin-Fabre, Gabrielle*,**,**
+44,2965,*Malvesin-Fabre, Georges*,**,**
+44,2966,*Malvesin-Fabre, Georges*,**,**
+44,2967,*Malvesin-Fabre, Georges*,**,**
+44,2968,*Malvesin-Fabre, Georges*,**,**
+44,2969,*Malvesin-Fabre, Georges*,**,**
+44,2970,*Malvesin-Fabre, Georges*,**,**
+44,2971,*Malvesin-Fabre, Georges*,**,**
+44,2972,*Malvesin-Fabre, Georges*,**,**
+44,2973,*Malvesin-Fabre, Georges*,**,**
+44,2974,*Malvesin-Fabre, Georges*,**,**
+44,2975,*Mandach, Erwin von*,**,**
+44,2976,*Mandach, Erwin von*,**,**
+44,2977,*Manfrin, Graziella*,**,**
+44,2978,*Manley, F. P.*,**,**
+44,2979,*Manochin, G.*,**,**
+44,2980,*Maple, W. Norman*,**,**
+44,2981,*Marcos Pons, Alejandro*,**,**
+44,2982,*Marcou, Jules*,**,**
+44,2983,*Marcozzi, Vittorio*,**,**
+44,2984,*Marcozzi, Vittorio*,**,**
+44,2985,*Marcozzi, Vittorio*,**,**
+44,2986,*Marcozzi, Vittorio*,**,**
+44,2987,*Marcozzi, Vittorio*,**,**
+44,2988,*Marcozzi, V.*,**,**
+44,2988,*Leonardi, P.*,**,**
+44,2989,*Margerie, Emm. de*,**,**
+44,2990,*Marinelli, W. von*,**,**
+44,2991,*Maringer, Johannes*,**,**
+44,2992,*Markman, Harvey C.*,**,**
+44,2993,*Marples, B. J.*,**,**
+44,2994,*Marro, Giovanni*,**,**
+44,2995,*Marro, Giovanni*,**,**
+44,2996,*Marro, Giovanni*,**,**
+44,2997,*Marro, Giovanni*,**,**
+44,2998,*Marro, Giovanni*,**,**
+44,2999,*Marsh, Frank Lewis*,**,**
+44,3000,*Marshall, F.*,**,**
+44,3001,*Marston, Alvan T.*,**,**
+44,3002,*Martin, K.*,**,**
+44,3003,*Martin, Paul Sidney*,**,**
+44,3003,*Quimby, G. I.*,**,**
+44,3003,*Collier, D.*,**,**
+44,3004,*Marti%Anez del Ri%Ao, Pablo*,**,**
+44,3005,*Marti%Anez del Ri%Ao, Pablo*,**,**
+44,3006,*Marti%Anez del Ri%Ao, Pablo*,**,**
+44,3007,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3008,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3009,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3010,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3011,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3012,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3013,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3014,*Marti%Anez Santa-Olalla, Julio*,**,**
+44,3015,*Mason, John Alden*,**,**
+44,3016,*Mather, Kirtley Fletcher*,**,**
+44,3017,*Matheson, Colin*,**,**
+44,3018,*Mathews, G. B.*,**,**
+44,3019,*Mathiassen, Therkel*,**,**
+44,3021,*Matley, Charles Alfred*,**,**
+44,3022,*Matley, Charles Alfred*,**,**
+44,3023,*Matley, Charles Alfred*,**,**
+44,3024,*Matlock, Timothy*,**,**
+44,3025,*Matthew, William Diller*,**,**
+44,3026,*Matthew, William Diller*,**,**
+44,3028,*Matveiev, B. S.*,**,**
+44,3029,*Matveiev, B. S.*,**,**
+44,3030,*Mauny, Raymond*,**,**
+44,3031,*Mauny, Raymond*,**,**
+44,3034,*Maviglia, Carlo*,**,**
+44,3035,*Maviglia, Carlo*,**,**
+44,3036,*Maviglia, Carlo*,**,**
+44,3037,*Maxia, Carmelo*,**,**
+44,3037,*Ducci, A.*,**,**
+44,3038,*Maxim, Ion Al*,**,**
+44,3039,*Maxson, John Haviland*,**,**
+44,3040,*Maxson, John Haviland*,**,**
+44,3042,*Mayr, Ernst*,**,**
+44,3043,*Mayr-Lenoir, Auguste*,**,**
+44,3044,*Mazarovich, A. N.*,**,**
+44,3045,*Meade, Grayson Eichelberger*,**,**
+44,3046,*Mease, James*,**,**
+44,3047,*Meier-Bo%Fke, August*,**,**
+44,3048,*Meisel, Max*,**,**
+44,3049,*Meisel, Max*,**,**
+44,3050,*Mele%Andez Mele%Andez, Bermudo*,**,**
+44,3051,*Mele%Andez Mele%Andez, Bermudo*,**,**
+44,3052,*Mele%Andez Mele%Andez, B.*,**,**
+44,3052,*Villalta Comella, J. F. de*,**,**
+44,3052,*Crusafont Pairo%A, M.*,**,**
+44,3053,*Melmore, S.*,**,**
+44,3054,*Menard, Henry W., Jr.*,**,**
+44,3055,*Mencke, Echhard*,**,**
+44,3056,*Mendes Corre%Da, Antonio Augusto Esteves*,**,**
+44,3057,*Mendes Corre%Da, Antonio Augusto Esteves*,**,**
+44,3058,*Mendes Corre%Da, Antonio Augusto Esteves*,**,**
+44,3059,*Mendes Corre%Da, Antonio Augusto Esteves*,**,**
+44,3060,*Mene%Andez Pidal, Ramo%An*,**,*E*
+44,3062,*Menghin, Oswald*,**,**
+44,3063,*Menghin, Oswald*,**,**
+44,3064,*Merla, Giovanni*,**,**
+44,3065,*Me%Aroc, Louis Stanislas Julien*,**,**
+44,3066,*Merriam, Clinton Hart*,**,**
+44,3068,*Merriam, John Campbell*,**,**
+44,3070,*Merriam, John Campbell*,**,**
+44,3071,*Merriam, John Campbell*,**,**
+44,3072,*Merriam, John Campbell*,**,**
+44,3073,*Merriam, John Campbell*,**,**
+44,3074,*Merriam, John Campbell*,**,**
+44,3075,*Merriam, John Campbell*,**,**
+44,3076,*Merriam, John Campbell*,**,**
+44,3077,*Merriam, John Campbell*,**,**
+44,3078,*Merriam, John Campbell*,**,**
+44,3079,*Merriam, John Campbell*,**,**
+44,3080,*Merriam, John Campbell*,**,**
+44,3081,*Merriam, John Campbell*,**,**
+44,3082,*Merriam, John Campbell*,**,**
+44,3083,*Merriam, John Campbell*,**,**
+44,3084,*Merriam, John Campbell*,**,**
+44,3085,*Merriam, John Campbell*,**,**
+44,3086,*Merrill, Elmer Drew*,**,**
+44,3087,*Merrill, George Perkins*,**,**
+44,3088,*Merrill, George Perkins*,**,**
+44,3089,*Merrill, Robert S.*,**,**
+44,3090,*Mertens, Robert*,**,**
+44,3091,*Mertens, Robert*,**,**
+44,3092,*Michaut, Lucien*,**,**
+44,3093,*Michaut, L.*,**,**
+44,3093,*Simonnet, G.*,**,**
+44,3094,*Michel, R.*,**,**
+44,3095,*Migliorini, C. I.*,**,**
+44,3096,*Migliorini, Elio*,**,**
+44,3097,*Migliorini, Elio*,**,**
+44,3098,*Miller, Alden Holmes*,**,**
+44,3099,*Miller, Alden Holmes*,**,**
+44,3100,*Miller, Alden Holmes*,**,**
+44,3101,*Miller, Arthur K.*,**,**
+44,3101,*Cullison, J. S.*,**,**
+44,3101,*Youngquist, W.*,**,**
+44,3102,*Miller, Arthur McQuiston*,**,**
+44,3103,*Miller, C. F.*,**,**
+44,3104,*Miller, Loye Holmes*,**,**
+44,3105,*Miller, Loye Holmes*,**,**
+44,3107,*Miller, Loye Holmes*,**,**
+44,3108,*Miller, Loye Holmes*,**,**
+44,3109,*Miller, Loye Holmes*,**,**
+44,3110,*Miller, Loye Holmes*,**,**
+44,3112,*Miller, Mikhailo*,**,**
+44,3113,*Miller, Robert Rush*,**,**
+44,3114,*Miller, Robert Rush*,**,**
+44,3115,*Milonov, N. P.*,**,**
+44,3116,*Minns, Ellis Hovell*,**,**
+44,3117,*Minns, Ellis Hovell*,**,**
+44,3118,*Minoprio, Jose Luis*,**,**
+44,3119,*Mirchink, G. F.*,**,**
+44,3120,*Mirigliano, Guiseppe*,**,**
+44,3121,*Mirigliano, Guiseppe*,**,**
+44,3122,*Mitchell, S. R.*,**,**
+44,3123,*Mitchell, S. R.*,**,**
+44,3124,*Mitsumori, Sadao*,**,**
+44,3125,*Miyake, Soetsu*,**,**
+44,3126,*Mizuno, Seiichi*,**,**
+44,3127,*Mochi, Aldobrandino*,**,**
+44,3128,*Mochi, Aldobrandino*,**,**
+44,3129,*Moerman, J. D.*,**,**
+44,3130,*Mohler, W. A.*,**,**
+44,3131,*Mohler, W. A.*,**,**
+44,3132,*Moir, James Reid*,**,**
+44,3133,*Moitinho d'Almeida, F.*,**,**
+44,3133,*Zbyszewski, G.*,**,**
+44,3134,*Mollett, O. D. van der Spuy*,**,**
+44,3135,*Mollison, Theodor*,**,**
+44,3136,*Monod, The%Aodore*,**,**
+44,3137,*Monod, The%Aodore*,**,**
+44,3138,*Monod, The%Aodore*,**,**
+44,3140,*Monteagudo, Luis*,**,**
+44,3141,*Montillet, Suzanne G. de*,**,**
+44,3142,*Mook, Charles Craig*,**,**
+44,3143,*Moore, Raymond Cecil*,**,**
+44,3143,*Weller, J. M.*,**,**
+44,3143,*Knight, J. B.*,**,**
+44,3144,*Moorsel, H. van*,**,**
+44,3145,*Moorsel, H. van*,**,**
+44,3146,*Morel, J.*,**,**
+44,3147,*Morel, P.*,**,**
+44,3148,*Moret, Le%Aon*,**,**
+44,3149,*Moret, Le%Aon*,**,**
+44,3150,*Morimoto, Rokuji*,**,**
+44,3151,*Mortelmans, Georges*,**,**
+44,3152,*Mortelmans, Georges*,**,**
+44,3153,*Mortelmans, Georges*,**,**
+44,3154,*Mortelmans, Georges*,**,**
+44,3155,*Mottl, Ma%Aria von*,**,**
+44,3156,*Mottl, Ma%Aria von*,**,**
+44,3157,*Mottl, Ma%Aria von*,**,**
+44,3158,*Mottl, Ma%Aria von*,**,**
+44,3159,*Mottl, Ma%Aria von*,**,**
+44,3160,*Mottl, Ma%Aria von*,**,**
+44,3161,*Mottl, Ma%Aria von*,**,**
+44,3162,*Mottl, Ma%Aria von*,**,**
+44,3163,*Mottl, Ma%Aria von*,**,**
+44,3164,*Mottl, Ma%Aria von*,**,**
+44,3165,*Mottl, Ma%Aria von*,**,**
+44,3166,*Mouton, P.*,**,**
+44,3166,*Joffroy, R.*,**,**
+44,3169,*Movius, Hallam Leonard, Jr.*,**,**
+44,3170,*Movius, Hallam Leonard, Jr.*,**,**
+44,3171,*Movius, Hallam Leonard, Jr.*,**,**
+44,3173,*Moy-Thomas, James Alan*,**,**
+44,3174,*Moysey, (Col.) F.*,**,**
+44,3175,*Mra%Azek, A.*,**,**
+44,3175,*S%Jpinar, Z.*,**,**
+44,3176,*Muller, Herman Joseph*,**,**
+44,3177,*Muller, Herman Joseph*,**,**
+44,3178,*Muller, Herman Joseph*,**,**
+44,3179,*Mu%Fllerried, Federico Karl Gustav*,**,**
+44,3180,*Mu%Fllerried, Federico Karl Gustav*,**,**
+44,3181,*Mu%Fllerried, Federico Karl Gustav*,**,**
+44,3182,*Munro, H. Fox*,**,**
+44,3183,*Munroe, R.*,**,**
+44,3184,*Murphy, Robert Cushman*,**,**
+44,3185,*Murray, K. C.*,**,**
+44,3187,*Mushketov, D. I.*,**,**
+44,3188,*Mydlarski, Jan*,**,**
+44,3189,*Myres, (Sir) John Linton*,**,**
+44,3190,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3191,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3192,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3193,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3194,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3195,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3196,*Nadaillac, Jean Francois Albert du Pouget (Ma*,**,**
+44,3197,*Nagao, Takumi*,**,**
+44,3198,*Nair, K. Krishnan*,**,**
+44,3199,*Nair, K. Krishnan*,**,**
+44,3200,*Nakaya, Jujiro*,**,**
+44,3201,*Naora, Nobuo*,**,**
+44,3202,*Naora, Nobuo*,**,**
+44,3203,*Nash, Carlton S., (and Co.)*,**,**
+44,3204,*Nason-Jones, J.*,**,**
+44,3205,*Necker, Walter Ludwig*,**,**
+44,3206,*Nectario Mari%Aa, Hermano*,**,**
+44,3207,*Nesturkh, M. F.*,**,**
+44,3208,*Neumann, Georg*,**,**
+44,3209,*Neustupny, Jiri%A*,**,**
+44,3210,*Neustupny, Jiri%A*,**,**
+44,3211,*Neustupny, Jiri%A*,**,**
+44,3212,*Neuville, Henri*,**,**
+44,3213,*Neuville, Henri*,**,**
+44,3214,*Neuville, Rene%A*,**,**
+44,3214,*Couste%A*,**,**
+44,3216,*Neuville, R.*,**,**
+44,3216,*Ruhlmann, A.*,**,**
+44,3217,*Neuville, R.*,**,**
+44,3217,*Ruhlmann, A.*,**,**
+44,3218,*N[eve, G. A.]*,**,**
+44,3219,*Newton, E. Tulley*,**,**
+44,3220,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3221,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3222,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3223,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3224,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3225,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3226,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3227,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3228,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3229,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3230,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3231,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3232,*Nichols, (Mrs.) Rachel Husband*,*= Rachel A. Husband*,**
+44,3233,*Nickles, John Milton*,**,**
+44,3234,*Nickles, John Milton*,**,**
+44,3235,*Nickles, J. M.*,**,**
+44,3235,*Siegrist, M.*,**,**
+44,3235,*Tatge, E.*,**,**
+44,3236,*Nickles, J. M.*,**,**
+44,3236,*Siegrist, M.*,**,**
+44,3236,*Tatge, E.*,**,**
+44,3237,*Nickles, J. M.*,**,**
+44,3237,*Siegrist, M.*,**,**
+44,3237,*Tatge, E.*,**,**
+44,3238,*Nickles, J. M.*,**,**
+44,3238,*Siegrist, M.*,**,**
+44,3238,*Tatge, E.*,**,**
+44,3239,*Nickles, J. M.*,**,**
+44,3239,*Siegrist, M.*,**,**
+44,3239,*Tatge, E.*,**,**
+44,3241,*Nielsen, Eigel*,**,**
+44,3242,*Nielsen, Eigel*,**,**
+44,3243,*Nielsen, Viggo*,**,**
+44,3244,*Nigra, J. O.*,**,**
+44,3244,*Lance, J. F.*,**,**
+44,3245,*Niklasson, Nils Herman*,**,**
+44,3246,*Nikolsky, A. M.*,**,**
+44,3247,*Nikolsky, George*,**,**
+44,3248,*Nilsson, Erik*,**,**
+44,3249,*Nilsson, Erik*,**,**
+44,3250,*Nilsson, Erik*,**,**
+44,3251,*Nilsson, Tage*,**,**
+44,3252,*Nilsson, Tage*,**,**
+44,3253,*Nilsson, Tage*,**,**
+44,3254,*Nilsson, Tage*,**,**
+44,3255,*Noone, Herbert V. V.*,**,**
+44,3256,*Nordmann, V.*,**,**
+44,3257,*Norman, John Rexbrough*,**,**
+44,3258,*North, Frederick John*,**,**
+44,3259,*No%Fth, Ludwig*,**,**
+44,3260,*Nouel, (Abbe%A) Andre%A*,**,**
+44,3261,*Nougier, Louis-Rene%A*,**,**
+44,3262,*Nou%Fy, Pierre Lecomte du*,**,**
+44,3263,*Novikoff, Alex B.*,**,**
+44,3264,*Novozhilov, N. I.*,**,**
+44,3265,*Novozhilov, N. I.*,**,**
+44,3266,*Novozhilov, N. I.*,**,**
+44,3267,*Nutmeg*,*Pseud.*,**
+44,3268,*Nybelin, Orvar*,**,**
+44,3269,*Nybelin, Orvar*,**,**
+44,3270,*Oakley, Kenneth Page*,**,**
+44,3271,*Oakley, Kenneth Page*,**,**
+44,3272,*Oakley, Kenneth Page*,**,**
+44,3273,*Oakley, Kenneth Page*,**,**
+44,3274,*Oakley, Kenneth Page*,**,**
+44,3275,*Oakley, Kenneth Page*,**,**
+44,3276,*Oakley, Kenneth Page*,**,**
+44,3277,*Oakley, Kenneth Page*,**,**
+44,3278,*Oakley, Kenneth Page*,**,**
+44,3279,*Oakley, Kenneth Page*,**,**
+44,3280,*Oakley, Kenneth Page*,**,**
+44,3281,*Oakley, Kenneth Page*,**,**
+44,3282,*Oakley, K. P.*,**,**
+44,3282,*King, W. B. R.*,**,**
+44,3283,*Oakley, K. P.*,**,**
+44,3283,*Muir-Wood, H. M.*,**,**
+44,3284,*Oakley, K. P.*,**,**
+44,3284,*Zeuner, F. E.*,**,**
+44,3285,*Oba, Iwao*,**,**
+44,3286,*Oberla%Fnder, Adolf*,**,**
+44,3288,*Obermaier, Hugo*,**,**
+44,3289,*Obermaier, Hugo*,**,**
+44,3290,*Obermaier, Hugo*,**,**
+44,3291,*Obermaier, H.*,**,**
+44,3291,*Garcia y Bellido, A.*,**,**
+44,3292,*Obermaier, H.*,**,**
+44,3292,*Garcia y Bellido, A.*,**,**
+44,3294,*Obruchev, D. V.*,**,**
+44,3295,*Obruchev, D. V.*,**,**
+44,3296,*Obruchev, D. V.*,**,**
+44,3297,*Obruchev, D. V.*,**,**
+44,3298,*Obruchev, D. V.*,**,**
+44,3299,*Obruchev, Vladimir Afanas'evich*,**,**
+44,3300,*Obruchev, Vladimir Afanas'evich*,**,**
+44,3301,*Obruchev, Vladimir Afanas'evich*,**,**
+44,3302,*Obruchev, Vladimir Afanas'evich*,**,**
+44,3303,*Obruchev, Vladimir Afanas'evich*,**,**
+44,3304,*Obruchev, V. A.*,**,**
+44,3304,*Orlov, G. G.*,**,**
+44,3305,*Octobon, F. C. E.*,**,**
+44,3306,*Octobon, F. C. E.*,**,**
+44,3307,*Oehmichen, E%Atienne*,**,**
+44,3308,*Oehmichen, E%Atienne*,**,**
+44,3309,*Oehser, Paul Henry*,**,*E*
+44,3310,*O'Harra, Cleophas Cisney*,**,**
+44,3311,*O'Harra, Cleophas Cisney*,**,**
+44,3312,*O'Harra, Cleophas Cisney*,**,**
+44,3313,*Okladnikov, Alexei P.*,**,**
+44,3314,*Okladnikov, Alexei P.*,**,**
+44,3315,*Okladnikov, Alexei P.*,**,**
+44,3316,*Okladnikov, Alexei P.*,**,**
+44,3317,*Okladnikov, Alexei P.*,**,**
+44,3318,*Okladnikov, Alexei P.*,**,**
+44,3319,*Okladnikov, Alexei P.*,**,**
+44,3320,*Okladnikov, Alexei P.*,**,**
+44,3321,*Okladnikov, Alexei P.*,**,**
+44,3322,*Okulitch, Vladimir Joseph*,**,**
+44,3323,*Oliveira, Avelino Ignacio de*,**,**
+44,3323,*Leonardos, O. H.*,**,**
+44,3324,*Oliveira Roxo, Mathias Gonsalves de*,**,**
+44,3325,*Oliver, W. R. B.*,**,**
+44,3326,*Ollivier, Jean*,**,**
+44,3327,*Ollivier, Jean*,**,**
+44,3328,*Olsen, F. Russell*,**,**
+44,3328,*Whitmore, F. C.*,**,**
+44,3329,*Olson, Everett Claire*,**,**
+44,3330,*Olson, Everett Claire*,**,**
+44,3331,*Olson, Everett Claire*,**,**
+44,3332,*Olson, Everett Claire*,**,**
+44,3333,*Olson, Everett Claire*,**,**
+44,3334,*Ophoven, (Mme) Christian*,**,**
+44,3335,*Ophoven, Madeleine*,**,**
+44,3335,*Hamal-Nandrin, J.*,**,**
+44,3336,*Oppenheim, R.*,**,**
+44,3337,*Oppenheim, Victor*,**,**
+44,3340,*Orchard, William John*,**,**
+44,3341,*O%A Ri%Aorda%Ain, Sea%An P.*,**,**
+44,3342,*Orlov, J. A.*,**,**
+44,3343,*Orlov, J. A.*,**,**
+44,3344,*Orlov, J. A.*,**,**
+44,3345,*Ornella Acanfora, M.*,**,**
+44,3346,*Ornella Acanfora, M.*,**,**
+44,3347,*Ortega y Frias, Te%Aogenes*,**,**
+44,3348,*Orvin, Anders K.*,**,**
+44,3353,*Osborn, Henry Fairfield*,**,**
+44,3354,*Osten, Erimar von der*,**,**
+44,3355,*Packard, Earl Leroy*,**,**
+44,3356,*Pales, Le%Aon*,**,**
+44,3357,*Palikarpovich, K. M.*,*= Polikarpovich, = Polikarpowitsch*,**
+44,3358,*Palikarpovich, K. M.*,*= Polikarpovich, = Polikarpowitsch*,**
+44,3359,*Palikarpovich, K. M.*,*= Polikarpovich, = Polikarpowitsch*,**
+44,3360,*Palikarpovich, K. M.*,*= Polikarpovich, = Polikarpowitsch*,**
+44,3361,*Palmer, Katherine Van Winkle*,**,**
+44,3362,*Palmer, Ralph Simon*,**,**
+44,3363,*Pamir, Hamit Nafiz*,**,**
+44,3363,*Sayar, A. M.*,**,**
+44,3364,*Papp, A.*,**,**
+44,3365,*Papp, A.*,**,**
+44,3366,*Paque, Andre%A*,**,**
+44,3367,*Paque, Andre%A*,**,**
+44,3368,*Paque, A.*,**,**
+44,3368,*Vaufrey, R.*,**,**
+44,3369,*Paramasivan, S.*,**,**
+44,3370,*Paramonov, S. J.*,**,**
+44,3371,*Parent, Henri*,**,**
+44,3372,*Parker, George Howard*,**,**
+44,3373,*Parodi, Lorenzo J.*,**,**
+44,3373,*Kraglievich, L. J.*,**,**
+44,3374,*Parr, Albert Eide*,**,**
+44,3375,*Parr, Albert Eide*,**,**
+44,3376,*Parrington, Francis Rex*,**,**
+44,3377,*Parrington, Francis Rex*,**,**
+44,3378,*Parrington, Francis Rex*,**,**
+44,3379,*Parrington, Francis Rex*,**,**
+44,3380,*Parrington, Francis Rex*,**,**
+44,3381,*Parrot, Aime%A G.*,**,**
+44,3382,*Pasa, Angelo*,**,**
+44,3383,*Pasa, Angelo*,**,**
+44,3384,*Passau, G.*,**,**
+44,3385,*Passemard y Luce, Emmanuel Pierre%C Joseph*,**,**
+44,3386,*Passemard y Luce, Emmanuel Pierre%C Joseph*,**,**
+44,3387,*Passemard y Luce, Emmanuel Pierre%C Joseph*,**,**
+44,3389,*Paterson, Thomas Thomson*,**,**
+44,3390,*Paterson, Thomas Thomson*,**,**
+44,3391,*Paterson, T. T.*,**,**
+44,3391,*Tebbutt, C. F.*,**,**
+44,3392,*Patroni, Giovanni*,**,**
+44,3394,*Patte, E%Atienne*,**,**
+44,3395,*Patte, E%Atienne*,**,**
+44,3396,*Patte, E%Atienne*,**,**
+44,3397,*Patte, E%Atienne*,**,**
+44,3398,*Patte, E%Atienne*,**,**
+44,3400,*Patterson, Bryan*,**,**
+44,3401,*Patterson, Bryan*,**,**
+44,3402,*Patterson, Bryan*,**,**
+44,3403,*Patterson, Bryan*,**,**
+44,3404,*Pauca%R, Mircea*,**,**
+44,3405,*Pauca%R, Mircea*,**,**
+44,3406,*Pauca%R, Mircea*,**,**
+44,3407,*Pauca%R, Mircea*,**,**
+44,3408,*Paula Couto, Carlos de*,**,**
+44,3409,*Paula Couto, Carlos de*,**,**
+44,3410,*Paula Couto, Carlos de*,**,**
+44,3411,*Paula Couto, Carlos de*,**,**
+44,3412,*Paula Couto, Carlos de*,**,**
+44,3413,*Paula Couto, Carlos de*,**,**
+44,3414,*Paula Couto, Carlos de*,**,**
+44,3415,*Paula Couto, Carlos de*,**,**
+44,3416,*Paula Couto, Carlos de*,**,**
+44,3417,*Paula Couto, Carlos de*,**,**
+44,3418,*Paula Couto, Carlos de*,**,**
+44,3419,*Paula Couto, Carlos de*,**,**
+44,3420,*Paula Couto, Carlos de*,**,**
+44,3421,*Paula Couto, Carlos de*,**,**
+44,3422,*Paula Couto, Carlos de*,**,**
+44,3423,*Paula Couto, Carlos de*,**,**
+44,3424,*Paula Couto, Carlos de*,**,**
+44,3425,*Paula Couto, Carlos de*,**,**
+44,3426,*Paula Couto, Carlos de*,**,**
+44,3427,*Paula Couto, Carlos de*,**,**
+44,3428,*Paula Couto, Carlos de*,**,**
+44,3429,*Paula Couto, Carlos de*,**,**
+44,3430,*Paulus, Marcel*,**,**
+44,3431,*Paulus, Marcel*,**,**
+44,3432,*Paulus, Marcel*,**,**
+44,3433,*Paulus, M.*,**,**
+44,3433,*Tron, C.*,**,**
+44,3434,*Paulus, M.*,**,**
+44,3434,*Tron, C.*,**,**
+44,3435,*Paulus, M.*,**,**
+44,3435,*Tron, C.*,**,**
+44,3436,*Pavlowa, Marie V.*,**,**
+44,3437,*Peabody, Frank Elmer*,**,**
+44,3438,*Peabody, Frank Elmer*,**,**
+44,3439,*Peabody, Frank Elmer*,**,**
+44,3440,*Peabody, Frank Elmer*,**,**
+44,3441,*Peabody, Frank Elmer*,**,**
+44,3442,*Peabody, Frank Elmer*,**,**
+44,3443,*Peabody, Frank Elmer*,**,**
+44,3444,*Peale, Rembrandt*,**,**
+44,3445,*Pearce, James Edwin*,**,**
+44,3446,*Pehrson, Torsten*,**,**
+44,3447,*Pehrson, Torsten*,**,**
+44,3448,*Pehrson, Torsten*,**,**
+44,3449,*Pei, Wen-chung*,**,**
+44,3450,*Pe%Aquart, (Mme) Marthe*,**,**
+44,3450,*Pe%Aquart, Saint-Just*,**,**
+44,3451,*Pe%Aquart, (Mme) Marthe*,**,**
+44,3451,*Pe%Aquart, Saint-Just*,**,**
+44,3452,*Pe%Aquart, (Mme) Marthe*,**,**
+44,3452,*Pe%Aquart, Saint-Just*,**,**
+44,3453,*Percier, J.*,**,**
+44,3454,*Pere%Az de Barradas, Jose%A*,**,**
+44,3455,*Pere%Az de Barradas, Jose%A*,**,**
+44,3456,*Pergameni, Charles*,**,**
+44,3457,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3458,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3459,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3460,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3461,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3462,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3463,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3464,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3465,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3466,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3467,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3468,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3469,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3470,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3471,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3472,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3473,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3474,*Pericot Garci%Aa, Luis*,*= Pericot y Garcia*,**
+44,3475,*Perkins, Ann*,**,**
+44,3475,*Braidwood, R. J.*,**,**
+44,3476,*Perkins, Ann*,**,**
+44,3476,*Braidwood, R. J.*,**,**
+44,3478,*Perret, Robert*,**,**
+44,3479,*Perruche, (Ge%Ane%Aral) L.*,**,**
+44,3480,*Perruche, L.*,**,**
+44,3480,*Piveteau, J.*,**,**
+44,3481,*Perve%Cs, Maurice*,**,**
+44,3482,*Perve%Cs, Maurice*,**,**
+44,3483,*Peters, James Lee*,**,**
+44,3484,*Petersen, T.*,**,**
+44,3485,*Petersen, T.*,**,**
+44,3486,*Petersen, T.*,**,**
+44,3487,*Peterson, Randolph Lee*,**,**
+44,3488,*Petrbok, Jaroslav*,**,**
+44,3489,*Petrbok, Jaroslav*,**,**
+44,3490,*Petrbok, Jaroslav*,**,**
+44,3491,*Petrbok, Jaroslav*,**,**
+44,3492,*Petrocchi, Carlo*,**,**
+44,3493,*Petrocchi, Carlo*,**,**
+44,3494,*Petrocchi, Carlo*,**,**
+44,3495,*Petrocchi, Carlo*,**,**
+44,3496,*Petronievics, Branislav*,**,**
+44,3497,*Pettazzoni, Raffaele*,**,**
+44,3498,*Peyer, Bernard*,**,**
+44,3500,*Peyer, Bernard*,**,**
+44,3501,*Peyer, Bernard*,**,**
+44,3502,*Peyer, Bernard*,**,**
+44,3503,*Peyer, Bernard*,**,**
+44,3504,*Peyer, Bernard*,**,**
+44,3505,*Peyer, Bernard*,**,**
+44,3506,*Peyer, Bernard*,**,**
+44,3507,*Peyer, Bernard*,**,**
+44,3508,*Peyer, Bernard*,**,**
+44,3509,*Peyer, Bernard*,**,**
+44,3510,*Peyer, Bernard*,**,**
+44,3511,*Peyer, Bernard*,**,**
+44,3512,*Peyer, Bernard*,**,**
+44,3513,*Peyer, Bernard*,**,**
+44,3514,*Peyrony, Denis*,**,**
+44,3515,*Peyrony, Denis*,**,**
+44,3516,*Peyrony, Denis*,**,**
+44,3517,*Peyrony, Denis*,**,**
+44,3518,*Peyrony, Denis*,**,**
+44,3519,*Peyrony, Denis*,**,**
+44,3520,*Peyrony, Denis*,**,**
+44,3521,*Peyrony, Denis*,**,**
+44,3522,*Peyrony, Denis*,**,**
+44,3523,*Peyrony, Denis*,**,**
+44,3524,*Peyrony, Denis*,**,**
+44,3525,*Peyrony, Denis*,**,**
+44,3526,*Peyrony, Denis*,**,**
+44,3527,*Peyrony, Denis*,**,**
+44,3528,*Peyrony, Denis*,**,**
+44,3529,*Peyrony, Denis*,**,**
+44,3530,*Pfannenstiel, Max.*,**,**
+44,3531,*Pfannenstiel, Max.*,**,**
+44,3532,*Pfizenmayer, Eugen Wilhelm*,**,**
+44,3533,*Phemister, J.*,**,**
+44,3534,*Phillips, Wendell*,**,**
+44,3535,*Phillips, Wendell*,**,**
+44,3536,*Phillips, Wendell*,**,**
+44,3537,*Phillips, W.*,**,**
+44,3537,*Cooke, H. B. S.*,**,**
+44,3538,*Pia, Julius von*,**,**
+44,3539,*Pia, Julius von*,**,**
+44,3540,*Pick, Jorge*,**,**
+44,3541,*Pidoplichka, I. G.*,**,**
+44,3542,*Pidoplichka, I. G.*,**,**
+44,3543,*Pie%Adelie%Cvre, R., Clavelin*,**,**
+44,3543,*De%Arobert, L.*,**,**
+44,3544,*Pielenz, Otto Karl*,**,**
+44,3545,*Pielenz, Otto Karl*,**,**
+44,3546,*Pierron, Raymond*,**,**
+44,3547,*Piggott, C. M.*,**,**
+44,3548,*Pilgrim, Guy Ellcock*,**,**
+44,3549,*Pilgrim, Guy Ellcock*,**,**
+44,3550,*Pinchon, R. P.*,**,**
+44,3551,*Pirlot, Paul*,**,**
+44,3552,*Piton, Louis E.*,**,**
+44,3553,*Pittard, Euge%Cne Ami*,**,**
+44,3554,*Pittard, Euge%Cne Ami*,**,**
+44,3555,*Pittard, Euge%Cne Ami*,**,**
+44,3556,*Pittard, Euge%Cne Ami*,**,**
+44,3557,*Pittard, E. A.*,**,**
+44,3557,*Sauter, M. R.*,**,**
+44,3558,*Pittioni, Richard*,**,**
+44,3559,*Pittioni, Richard*,**,**
+44,3560,*Piveteau, Jean*,**,**
+44,3561,*Piveteau, Jean*,**,**
+44,3562,*Piveteau, Jean*,**,**
+44,3563,*Piveteau, Jean*,**,**
+44,3564,*Piveteau, Jean*,**,**
+44,3565,*Piveteau, Jean*,**,**
+44,3566,*Piveteau, Jean*,**,**
+44,3567,*Piveteau, Jean*,**,**
+44,3568,*Piveteau, Jean*,**,**
+44,3569,*Piveteau, Jean*,**,**
+44,3570,*Piveteau, Jean*,**,**
+44,3571,*Piveteau, Jean*,**,**
+44,3572,*Piveteau, Jean*,**,**
+44,3573,*Piveteau, Jean*,**,**
+44,3574,*Piveteau, Jean*,**,**
+44,3575,*Piveteau, J.*,**,**
+44,3575,*Saint-Seine, P. de*,**,**
+44,3576,*Pla%A, Corte%As*,**,**
+44,3577,*Plummer, Frederick Byron*,**,**
+44,3578,*Pocock, R. W.*,**,**
+44,3578,*Whitehead, T. H.*,**,**
+44,3579,*Podenzaga, G.*,**,**
+44,3581,*Poisson, Georges*,**,**
+44,3582,*Poisson, Georges*,**,**
+44,3583,*Pokorny%A, Miloslav*,**,**
+44,3584,*Ponialowski, Stanislaw*,**,**
+44,3585,*Pons, Silvio*,**,**
+44,3586,*Popov, Rafael*,**,**
+44,3587,*Porcar Ripolles, Juan*,**,**
+44,3588,*Portmann, Adolf*,**,**
+44,3589,*Posac Mon, Carlos F.*,**,**
+44,3590,*Posac Mon, Carlos F.*,**,**
+44,3591,*Posac Mon, Carlos F.*,**,**
+44,3592,*Pottier, Georges*,**,**
+44,3593,*Pottier, Georges*,**,**
+44,3594,*Pottier, Georges*,**,**
+44,3595,*Pottier, Georges*,**,**
+44,3596,*Powell, Louis Harvey*,**,**
+44,3597,*Powers, William Edwards*,**,**
+44,3598,*Poynter, J. B.*,**,**
+44,3599,*Pradel, Louis*,**,**
+44,3600,*Pradel, Louis*,**,**
+44,3601,*Pradel, Louis*,**,**
+44,3602,*Pradel, Louis*,**,**
+44,3603,*Pradel, Louis*,**,**
+44,3604,*Pradel, Louis*,**,**
+44,3605,*Prantl, F.*,**,**
+44,3606,*Prashad, B.*,**,**
+44,3607,*Prather, John K.*,**,**
+44,3608,*Presa, G.*,**,**
+44,3609,*Presa, G.*,**,**
+44,3610,*Preston, Ed. B.*,**,**
+44,3611,*Price, Llewellyn Ivor*,**,**
+44,3612,*Price, Llewellyn Ivor*,**,**
+44,3613,*Price, Llewellyn Ivor*,**,**
+44,3614,*Price, Llewellyn Ivor*,**,**
+44,3615,*Price, Llewellyn Ivor*,**,**
+44,3616,*Price, Llewellyn Ivor*,**,**
+44,3617,*Price, L. I.*,**,**
+44,3617,*Paula Couto, C. de*,**,**
+44,3618,*Price, William Armstrong, Jr.*,**,**
+44,3619,*Pringle, John*,**,**
+44,3620,*Pringle, J.*,**,**
+44,3620,*George, T. N.*,**,**
+44,3621,*Pros%Jek, Frantis%Jek*,**,**
+44,3622,*Pros%Jek, Frantis%Jek*,**,**
+44,3623,*Pucher, Leo*,**,**
+44,3624,*Purcell, Mae Fisher*,**,**
+44,3625,*Quennell, (Mrs.) Marjorie (Courtney)*,**,**
+44,3625,*Quennell, Charles Henry Bourne*,**,**
+44,3626,*Quinn, James H.*,**,**
+44,3627,*Quintero y de Atauri, Pelago*,**,**
+44,3628,*Quiring, Heinrich*,**,**
+44,3629,*Quiring, Heinrich*,**,**
+44,3630,*Rabkin, Samuel*,**,**
+44,3631,*Rafinesque, Constantine Samuel*,*Rafinesque-Schmaltz, C. S.*,**
+44,3632,*Rafinesque, Constantine Samuel*,*Rafinesque-Schmaltz, C. S.*,**
+44,3633,*Rafinesque, Constantine Samuel*,*Rafinesque-Schmaltz, C. S.*,**
+44,3634,*Raignier, Albert*,**,**
+44,3635,*Rainbow, W. A.*,**,**
+44,3635,*Hodge-Smith, T.*,**,**
+44,3635,*Fletcher, H. O.*,**,**
+44,3636,*Rainer, Francise J.*,**,**
+44,3636,*Simionescu, I.*,**,**
+44,3637,*Rainey*,**,**
+44,3637,*Froelich Gladstone*,**,**
+44,3638,*Rakovec, Ivan*,**,**
+44,3639,*Rakovec, Ivan*,**,**
+44,3640,*Rambo, Balduino*,**,**
+44,3641,*R[ami%Arez], S[antiago]*,**,**
+44,3642,*Randhawa, M. S.*,**,**
+44,3643,*Raphael, Max*,**,**
+44,3644,*Rapp, William R., Jr.*,**,**
+44,3645,*Rapp, William R., Jr.*,**,**
+44,3646,*Rapp, William R., Jr.*,**,**
+44,3647,*Raschke, G.*,**,**
+44,3648,*Rasetti, Franco*,**,**
+44,3649,*Rau, Guilherme*,**,**
+44,3650,*Rau, Virginia*,**,**
+44,3651,*Rau, Virginia*,**,**
+44,3652,*Raunich, Leo*,**,**
+44,3653,*Raven, Henry Cushier*,**,**
+44,3653,*Gregory, W. K.*,**,**
+44,3654,*Ray, Cyrus N.*,**,**
+44,3655,*Ray, Cyrus N.*,**,**
+44,3656,*Ray, Cyrus N.*,**,**
+44,3657,*Ray, Cyrus N.*,**,**
+44,3658,*Ray, Cyrus N.*,**,**
+44,3659,*Ray, Cyrus N.*,**,**
+44,3660,*Ray, C. N.*,**,**
+44,3660,*Sayles, E. B.*,**,**
+44,3661,*Ray, Philip Frederick*,**,**
+44,3662,*Raymond, Percy Edward*,**,**
+44,3663,*Rayner, Dorothy H.*,**,**
+44,3664,*Read, H. H.*,**,**
+44,3664,*Macgregor, A. G.*,**,**
+44,3665,*Read, William Franklin*,**,**
+44,3666,*Real, Carlos Alonso del*,**,**
+44,3667,*Reed, Eugene Clifton*,**,**
+44,3668,*Reed, M. Dorothy*,**,**
+44,3669,*Reeds, Chester Albert*,**,**
+44,3670,*Reese, Albert Moore*,**,**
+44,3671,*Reeside, John Bernard, Jr.*,**,**
+44,3672,*Reeve, W. H.*,**,**
+44,3673,*Reichard, Gladys Amanda*,**,**
+44,3674,*Reiche, Parry*,**,**
+44,3675,*Reidl, Gottfried*,**,**
+44,3676,*Reiff, Walther*,**,**
+44,3677,*Rellini, Ugo Alberto*,**,**
+44,3678,*Rellini, Ugo Alberto*,**,**
+44,3679,*Rellini, Ugo Alberto*,**,**
+44,3680,*Rellini, Ugo Alberto*,**,**
+44,3681,*Rellini, Ugo Alberto*,**,**
+44,3682,*Rellini, Ugo Alberto*,**,**
+44,3683,*Rellini, Ugo Alberto*,**,**
+44,3684,*Rellini, Ugo Alberto*,**,**
+44,3685,*Rellini, Ugo Alberto*,**,**
+44,3686,*Rellini, Ugo Alberto*,**,**
+44,3687,*Rellini, Ugo Alberto*,**,**
+44,3688,*Rellini, Ugo Alberto*,**,**
+44,3689,*Rellini, Ugo Alberto*,**,**
+44,3690,*Rellini, Ugo Alberto*,**,**
+44,3691,*Rellini, Ugo Alberto*,**,**
+44,3692,*Rellini, Ugo Alberto*,**,**
+44,3693,*Rellini, Ugo Alberto*,**,**
+44,3694,*Renaud, Etienne Bernardeau*,**,**
+44,3695,*Renaud, Etienne Bernardeau*,**,**
+44,3696,*Renaud, Etienne Bernardeau*,**,**
+44,3697,*Renier, A.*,**,**
+44,3698,*Rensch, Bernhard*,**,**
+44,3699,*Rensch, Bernhard*,**,**
+44,3700,*Reuter, A.*,**,**
+44,3701,*Reyes, Alicia E.*,**,**
+44,3702,*Reyes, Alicia E.*,**,**
+44,3703,*Reygasse, Maurice*,**,**
+44,3704,*Reygasse, Maurice*,**,**
+44,3705,*Reynolds, Sidney Hugh*,**,**
+44,3706,*Rheinheimer, Philip*,**,**
+44,3707,*Rheinheimer, Philip*,**,**
+44,3708,*Rheinheimer, Philip*,**,**
+44,3709,*Rheinheimer, Philip*,**,**
+44,3710,*Riabinin, A. N.*,**,**
+44,3711,*Riabinin, A. N.*,**,**
+44,3712,*Riabinin, A. N.*,**,**
+44,3713,*Ribera Faig, Juan Mair%Aa*,**,**
+44,3713,*Villalta Comella, J. F. de*,**,**
+44,3713,*Crusafont Pairo%A, M.*,**,**
+44,3714,*Richard, Camillo*,**,**
+44,3715,*Richard, Camillo*,**,**
+44,3716,*Richard, Camillo*,**,**
+44,3717,*Richard, Camillo*,**,**
+44,3718,*Richard, L.*,**,**
+44,3719,*Richard, Marguerite*,**,**
+44,3720,*Richard, Marguerite*,**,**
+44,3721,*Richard, Marguerite*,**,**
+44,3722,*Richards, Horace Gardiner*,**,**
+44,3723,*Richards, Horace Gardiner*,**,**
+44,3724,*Richards, Horace Gardiner*,**,**
+44,3725,*Richardson, Andrew*,**,**
+44,3726,*Richardson, F. B.*,**,**
+44,3726,*Ruppert, K.*,**,**
+44,3727,*Richey, King Arthur*,*= Arthur King Richey*,**
+44,3728,*Richey, King Arthur*,*= Arthur King Richey*,**
+44,3729,*Richter, Emma*,**,**
+44,3730,*Richter, Rudolf*,**,**
+44,3731,*Richter, Rudolf*,**,**
+44,3732,*Rickard, T. A.*,**,**
+44,3733,*Riedl, Ladislav*,**,**
+44,3734,*Riggs, Elmer Samuel*,**,**
+44,3735,*Riggs, Elmer Samuel*,**,**
+44,3736,*Riggs, Elmer Samuel*,**,**
+44,3737,*Rio, Andre%Cs del*,**,**
+44,3739,*Ritchie, James*,**,**
+44,3741,*Ritter, H.*,**,**
+44,3743,*Robert, Romain Henri*,**,**
+44,3744,*Roberts, Austin*,**,**
+44,3745,*Roberts, Austin*,**,**
+44,3746,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3747,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3748,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3749,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3750,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3751,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3752,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3753,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3754,*Roberts, Frank Harold Hanna, Jr.*,**,**
+44,3755,*Robertson, George McAfee*,**,**
+44,3756,*Robertson, George McAfee*,**,**
+44,3757,*Robertson, George McAfee*,**,**
+44,3758,*Rode, P.*,**,**
+44,3759,*Roehmer, Ferdinand*,**,**
+44,3760,*Rogachev, A. N.*,**,**
+44,3761,*Rogachev, A. N.*,**,**
+44,3762,*Roger, Jean*,**,**
+44,3763,*Roger, Jean*,**,**
+44,3764,*Roger, Jean*,**,**
+44,3765,*Roger, Jean*,**,**
+44,3766,*Roger, Jean*,**,**
+44,3767,*Roger, Jean*,**,**
+44,3768,*Roger, Jean*,**,**
+44,3769,*Roger, Jean*,**,**
+44,3770,*Roger, Jean*,**,**
+44,3771,*Rogers, David Banks*,**,**
+44,3772,*Rogers, Malcolm Jennings*,**,**
+44,3773,*Roman, Albert Fre%Ade%Aric*,**,**
+44,3774,*Roman, F.*,**,**
+44,3774,*Viret, J.*,**,**
+44,3775,*Romer, Alfred Sherwood*,**,**
+44,3776,*Romer, Alfred Sherwood*,**,**
+44,3777,*Romer, Alfred Sherwood*,**,**
+44,3778,*Romer, Alfred Sherwood*,**,**
+44,3779,*Romer, Alfred Sherwood*,**,**
+44,3780,*Romer, Alfred Sherwood*,**,**
+44,3781,*Romer, Alfred Sherwood*,**,**
+44,3782,*Romer, Alfred Sherwood*,**,**
+44,3783,*Romer, Alfred Sherwood*,**,**
+44,3784,*Romer, Alfred Sherwood*,**,**
+44,3785,*Romer, Alfred Sherwood*,**,**
+44,3786,*Romer, Alfred Sherwood*,**,**
+44,3787,*Romer, Alfred Sherwood*,**,**
+44,3788,*Romer, Alfred Sherwood*,**,**
+44,3789,*Romer, Alfred Sherwood*,**,**
+44,3790,*Romer, Alfred Sherwood*,**,**
+44,3791,*Romer, Alfred Sherwood*,**,**
+44,3792,*Romer, Alfred Sherwood*,**,**
+44,3793,*Romer, Alfred Sherwood*,**,**
+44,3794,*Romer, Alfred Sherwood*,**,**
+44,3795,*Romer, Alfred S.*,**,**
+44,3795,*Price, L. I.*,**,**
+44,3796,*Romero, J.*,**,**
+44,3796,*Stewart, T. D.*,**,**
+44,3797,*Ro%Fmpp, Hermann*,**,**
+44,3798,*Rose, F.*,**,**
+44,3799,*Rosendahl, Halvor*,**,**
+44,3800,*Rosenkrantz, Alfred*,**,**
+44,3801,*Rosso, Giuseppe*,**,**
+44,3802,*Rouffiac, Georges*,**,**
+44,3803,*Roux, G. H.*,**,**
+44,3805,*Royer, M. R.*,**,**
+44,3806,*Royo-Go%Amez, J.*,**,**
+44,3807,*Royo y Go%Amez, Jose%A*,**,**
+44,3808,*Royo y Go%Amez, Jose%A*,**,**
+44,3809,*Royo y Go%Amez, Jose%A*,**,**
+44,3810,*Royo y Go%Amez, Jose%A*,**,**
+44,3811,*Royo y Go%Amez, Jose%A*,**,**
+44,3812,*Royo y Go%Amez, Jose%A*,**,**
+44,3813,*Royo y Go%Amez, Jose%A*,**,**
+44,3814,*Royo y Go%Amez, Jose%A*,**,**
+44,3815,*Royo y Go%Amez, Jose%A*,**,**
+44,3816,*Royo y Go%Amez, Jose%A*,**,**
+44,3817,*Royo y Go%Amez, Jose%A*,**,**
+44,3818,*Rozhdestvenskii%J, A. K.*,**,**
+44,3819,*Rudinskii%J, M.*,**,**
+44,3820,*Rudnykh, S. P.*,**,**
+44,3821,*Rudolph, Richard C.*,**,**
+44,3822,*Ru%Fger, Ludwig, et al.*,**,**
+44,3824,*Ruhlmann, Armand*,**,**
+44,3825,*Ruhlmann, Armand*,**,**
+44,3826,*Ruhlmann, Armand*,**,**
+44,3827,*Ruhlmann, Armand*,**,**
+44,3828,*Ruhlmann, Armand*,**,**
+44,3829,*Ruhlmann, Armand*,**,**
+44,3830,*Ruhlmann, Armand*,**,**
+44,3831,*Ruhlmann, Armand*,**,**
+44,3832,*Ruhlmann, Armand*,**,**
+44,3833,*Ruhlmann, Armand*,**,**
+44,3834,*Ruiz Argiles, Vicente*,**,**
+44,3835,*Ruiz de Gaona, Maximo*,**,**
+44,3836,*Ruiz de Gaona, M.*,**,**
+44,3836,*Villala Comella*,**,**
+44,3836,*J. F. de*,**,**
+44,3836,*Crusafont Pairo%A, M.*,**,**
+44,3837,*Ru%Fschkamp, S. J.*,**,**
+44,3838,*Rusconi, Carlos*,**,**
+44,3839,*Rusconi, Carlos*,**,**
+44,3840,*Rusconi, Carlos*,**,**
+44,3841,*Rusconi, Carlos*,**,**
+44,3842,*Rusconi, Carlos*,**,**
+44,3843,*Rusconi, Carlos*,**,**
+44,3844,*Rusconi, Carlos*,**,**
+44,3845,*Rusconi, Carlos*,**,**
+44,3846,*Rusconi, Carlos*,**,**
+44,3847,*Rusconi, Carlos*,**,**
+44,3848,*Rusconi, Carlos*,**,**
+44,3849,*Rusconi, Carlos*,**,**
+44,3850,*Rusconi, Carlos*,**,**
+44,3851,*Rusconi, Carlos*,**,**
+44,3852,*Rusconi, Carlos*,**,**
+44,3853,*Rusconi, Carlos*,**,**
+44,3854,*Rusconi, Carlos*,**,**
+44,3855,*Rusconi, Carlos*,**,**
+44,3856,*Rusconi, Carlos*,**,**
+44,3857,*Rusconi, Carlos*,**,**
+44,3858,*Rusconi, Carlos*,**,**
+44,3859,*Rusconi, Carlos*,**,**
+44,3860,*Rusconi, Carlos*,**,**
+44,3861,*Rusconi, Carlos*,**,**
+44,3862,*Rusconi, Carlos*,**,**
+44,3863,*Rusconi, Carlos*,**,**
+44,3864,*Rusconi, Carlos*,**,**
+44,3865,*Rusconi, Carlos*,**,**
+44,3866,*Rusconi, Carlos*,**,**
+44,3867,*Rusconi, Carlos*,**,**
+44,3868,*Rusconi, Carlos*,**,**
+44,3869,*Rusconi, Carlos*,**,**
+44,3870,*Rusconi, Carlos*,**,**
+44,3871,*Russell, Loris Shano*,**,**
+44,3872,*Russell, Loris Shano*,**,**
+44,3873,*Russell, Loris Shano*,**,**
+44,3874,*Russell, Loris Shano*,**,**
+44,3875,*Russell, Loris Shano*,**,**
+44,3876,*Russell Cortez, Ferdando*,**,**
+44,3877,*Russell Cortez, Ferdando*,**,**
+44,3878,*Russell Cortez, Ferdando*,**,**
+44,3879,*Russell Cortez, Ferdando*,**,**
+44,3880,*Russell Cortez, Ferdando*,**,**
+44,3881,*Russell Cortez, Ferdando*,**,**
+44,3882,*Russell Cortez, Ferdando*,**,**
+44,3883,*Russo, Philibert*,**,**
+44,3884,*Rust, Alfred*,**,**
+44,3885,*Rust, Alfred*,**,**
+44,3886,*Ryan, J. Donald*,**,**
+44,3886,*Willard, Bradford*,**,**
+44,3887,*Rytz, Walter*,**,*E*
+44,3888,*Saccasyn-della Santa, (Mme.) Elisabeth*,**,**
+44,3889,*Saccasyn-della Santa, (Mme.) Elisabeth*,**,**
+44,3890,*Saccasyn-della Santa, (Mme.) Elisabeth*,**,**
+44,3891,*Saccasyn-della Santa, (Mme.) Elisabeth*,**,**
+44,3892,*Sacchetti, Alfredo*,**,**
+44,3893,*Sacco, Federico*,**,**
+44,3894,*Saheki, S.*,**,**
+44,3895,*Sahni, Birbal*,**,**
+44,3896,*Saint-Pe%Arier, Rene%A de Poilou%Fe de*,**,**
+44,3897,*Saint-Pe%Arier, Rene%A de Poilou%Fe de*,**,**
+44,3898,*Saint-Pe%Arier, Rene%A de Poilou%Fe de*,**,**
+44,3899,*Saint-Seine, Pierre de*,**,**
+44,3900,*Saint-Seine, Pierre de*,**,**
+44,3901,*Saint-Seine, Pierre de*,**,**
+44,3902,*Saint-Seine, Pierre de*,**,**
+44,3903,*Saito, Fumio*,**,**
+44,3904,*Sakazume, Nakao*,**,**
+44,3905,*Saller, K.*,**,**
+44,3906,*Salmony, Louis Francis*,**,*E*
+44,3907,*Sampelayo, P. H.*,**,**
+44,3907,*Bataller Calatayud, J. R.*,**,**
+44,3908,*Sanborn, Colin Campbell*,**,**
+44,3909,*Sa%Anchez, Javier*,**,**
+44,3910,*Sanchez-Jime%Anez, Joaquin*,**,**
+44,3911,*Sa%Anchez Montes, Juan*,**,**
+44,3912,*Sanderson, Ivan Terrance*,**,**
+44,3914,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3915,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3916,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3917,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3918,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3919,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3920,*Sankalia, Hasmukh Dhirajlal*,**,**
+44,3921,*Sankalia, H. D.*,**,**
+44,3921,*Karve%A, I.*,**,**
+44,3922,*Sankalia, H. D.*,**,**
+44,3922,*Karve%A, I.*,**,**
+44,3922,*Kurulkar, G. M.*,**,**
+44,3923,*Sankalia, H. D.*,**,**
+44,3923,*Sekhar, C. S.*,**,**
+44,3924,*Santos Gallego, Samuel de Los*,**,**
+44,3925,*Sarton, George*,**,*E*
+44,3926,*Sarton, George*,**,*E*
+44,3927,*Sarton, George*,**,*E*
+44,3928,*Sarton, George*,**,*E*
+44,3929,*Sarton, George*,**,*E*
+44,3930,*Sarton, George*,**,*E*
+44,3931,*Sarton, George*,**,*E*
+44,3932,*Sarton, George*,**,*E*
+44,3933,*Sarton, George*,**,*E*
+44,3934,*Sarton, George*,**,*E*
+44,3935,*Sarton, George*,**,*E*
+44,3936,*Sarton, George*,**,*E*
+44,3937,*Sarton, George*,**,*E*
+44,3938,*Sarton, George*,**,*E*
+44,3939,*Sarton, George*,**,*E*
+44,3940,*Sarton, George*,**,*E*
+44,3941,*Sarton, George*,**,*E*
+44,3942,*Sarton, George*,**,*E*
+44,3943,*Sauer, Carl Ortwin*,**,**
+44,3944,*Sauer, Carl Ortwin*,**,**
+44,3945,*Sauer, Carl Ortwin*,**,**
+44,3946,*Sauter, Marc-Rodolphe*,**,**
+44,3947,*Sauter, Marc-Rodolphe*,**,**
+44,3948,*Sauter, Marc-Rodolphe*,**,**
+44,3949,*Sauter, Marc-Rodolphe*,**,**
+44,3950,*Sauter, Marc-Rodolphe*,**,**
+44,3951,*Sauter, Marc-Rodolphe*,**,**
+44,3952,*Sauter, Marc-Rodolphe*,**,**
+44,3953,*Savage, Donald Elvin*,**,**
+44,3954,*Savage, Donald Elvin*,**,**
+44,3955,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3956,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3958,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3959,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3960,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3961,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3962,*Sa%Fve-So%Fderbergh, Gunnar*,**,**
+44,3963,*Sawicki, Ludwik*,**,**
+44,3964,*Sawicki, Ludwik*,**,**
+44,3965,*Sawin, Harold John*,**,**
+44,3966,*Sawin, Harold John*,**,**
+44,3967,*Sayles, Edwin Booth*,**,**
+44,3968,*Schaeffer, Bobb*,**,**
+44,3969,*Schaeffer, Bobb*,**,**
+44,3970,*Schaeffer, Bobb*,**,**
+44,3971,*Schaeffer, Bobb*,**,**
+44,3972,*Schaeffer, Bobb*,**,**
+44,3973,*Schaeffer, Bobb*,**,**
+44,3974,*Schaeffer, Bobb*,**,**
+44,3975,*Schaffer, Franz Xaver*,**,**
+44,3976,*Schaub, Samuel*,**,**
+44,3977,*Schaub, Samuel*,**,**
+44,3978,*Schaub, Samuel*,**,**
+44,3979,*Schaub, Samuel*,**,**
+44,3980,*Schaub, Samuel*,**,**
+44,3981,*Schaub, Samuel*,**,**
+44,3982,*Schaub, Samuel*,**,**
+44,3983,*Schaub, Samuel*,**,**
+44,3984,*Schaub, S.*,**,**
+44,3984,*Hu%Frzeler, J.*,**,**
+44,3985,*Schaub, S.*,**,**
+44,3985,*Jagher, A.*,**,**
+44,3986,*Schemeckebier, Laurence Frederick*,**,**
+44,3987,*Schenck, H. G.*,**,**
+44,3987,*White, R. T.*,**,**
+44,3988,*Schenck, H. G.*,**,**
+44,3988,*White, R. T.*,**,**
+44,3989,*Schepers, Gerrit Willem Hendrik*,**,**
+44,3990,*Schepers, Gerrit Willem Hendrik*,**,**
+44,3991,*Schepers, Gerrit Willem Hendrik*,**,**
+44,3992,*Schiemann, Elisabeth*,**,**
+44,3994,*Schindewolf, Otto Heinrich*,**,**
+44,3995,*Schindewolf, Otto Heinrich*,**,**
+44,3996,*Schindewolf, Otto Heinrich*,**,**
+44,3997,*Schindewolf, Otto Heinrich*,**,**
+44,3998,*Schindewolf, Otto Heinrich*,**,**
+44,3999,*Schlaginhaufen, Otto*,**,**
+44,4000,*Schmidt, Emil*,**,**
+44,4001,*Schmidt, Herta*,**,**
+44,4002,*Schmidt, Herta*,**,**
+44,4003,*Schmidt, Karl Patterson*,**,**
+44,4004,*Schmidt, Karl Patterson*,**,**
+44,4005,*Schmidt, Karl Patterson*,**,**
+44,4006,*Schmidt, Karl Patterson*,**,**
+44,4007,*Schmidt, Karl Patterson*,**,**
+44,4008,*Schmidt, P. W.*,**,**
+44,4009,*Schmidt, Ruth, A. M.*,**,**
+44,4010,*Schmidt, Ruth, A. M.*,**,**
+44,4011,*Schmidt, W. E.*,**,**
+44,4012,*Schmidt, W. J.*,**,**
+44,4013,*Schmidt, W. J.*,**,**
+44,4014,*Schmidt, W. Wolfgang*,**,**
+44,4015,*Schneider, Jacob M.*,**,**
+44,4016,*Schneider, Jacob M.*,**,**
+44,4017,*Schnell, R.*,**,**
+44,4018,*Schoeller, H.*,**,**
+44,4019,*Schofield, J. F.*,**,**
+44,4020,*Schreuder, Antje*,**,**
+44,4021,*Schreuder, Antje*,**,**
+44,4022,*Schreuder, Antje*,**,**
+44,4023,*Schreuder, Antje*,**,**
+44,4024,*Schreuder, Antje*,**,**
+44,4025,*Schreuder, Antje*,**,**
+44,4026,*Schreuder, Antje*,**,**
+44,4027,*Schu%Fbler, Hans*,**,**
+44,4029,*Schuchert, C.*,**,**
+44,4029,*Dunbar, C. O.*,**,**
+44,4030,*Schuchhardt, Carl*,**,**
+44,4031,*Schuchhardt, Carl*,**,**
+44,4032,*Schuchhardt, Carl*,**,**
+44,4034,*Schultz, Adolph Hans*,**,**
+44,4035,*Schultz, Adolph Hans*,**,**
+44,4036,*Schultz, Charles Bertrand*,**,**
+44,4037,*Schultz, Charles Bertrand*,**,**
+44,4038,*Schultz, Charles Bertrand*,**,**
+44,4039,*Schultz, Charles Bertrand*,**,**
+44,4040,*Schultz, Charles Bertrand*,**,**
+44,4041,*Schultz, Charles Bertrand*,**,**
+44,4042,*Schultz, Charles Bertrand*,**,**
+44,4043,*Schultz, C. B.*,**,**
+44,4043,*Falkenbach, C. H.*,**,**
+44,4044,*Schultz, C. B.*,**,**
+44,4044,*Frankforter, W. D.*,**,**
+44,4045,*Schultz, C. B.*,**,**
+44,4045,*Frankforter, W. D.*,**,**
+44,4046,*Schultz, C. B.*,**,**
+44,4046,*Frankforter, W. D.*,**,**
+44,4047,*Schultz, C. B.*,**,**
+44,4047,*Lueninghoener, G. C.*,**,**
+44,4047,*Frankforter, W. D.*,**,**
+44,4048,*Schultz, C. B.*,**,**
+44,4048,*Stout, T. M.*,**,**
+44,4049,*Schultz, C. B.*,**,**
+44,4049,*Stout, T. M.*,**,**
+44,4050,*Schwantes, Gustav*,**,**
+44,4051,*Schwantes, Gustav*,**,**
+44,4052,*Schwantes, Gustav*,**,**
+44,4053,*Schwarz, Ernst*,**,**
+44,4054,*Schwarz, Herbert Ferlando*,**,**
+44,4055,*Schwarzbach, Martin*,**,**
+44,4056,*Schwarzbach, Martin*,**,**
+44,4057,*Schwinner, Robert*,**,**
+44,4058,*Scott, William Berryman*,**,**
+44,4059,*Scott, William Berryman*,**,**
+44,4061,*Scudder, Samuel Hubbard*,**,**
+44,4062,*Searight, Walter V.*,**,**
+44,4063,*Segre, Aldo G.*,**,**
+44,4064,*Seilacher, Adolf*,**,**
+44,4065,*Seilacher, Adolf*,**,**
+44,4066,*Sellards, Elias Howard*,**,**
+44,4067,*Sellards, Elias Howard*,**,**
+44,4068,*Sellards, Elias Howard*,**,**
+44,4069,*Sellards, Elias Howard*,**,**
+44,4070,*Sellards, E. H.*,**,**
+44,4070,*Adkins, W. S.*,**,**
+44,4070,*Plummer, F. B.*,**,**
+44,4071,*Sellards, E. H.*,**,**
+44,4071,*Evans, G. L.*,**,**
+44,4071,*Meade, G. E.*,**,**
+44,4072,*Sen, Dharani*,**,**
+44,4073,*Sen, Dharani*,**,**
+44,4074,*Senyu%Frek, A. H.*,**,**
+44,4075,*Senyu%Frek, Muzaffer Su%Fleyman*,**,**
+44,4077,*Sera, Gioacchino Leone*,**,**
+44,4078,*Sera, Gioacchino Leone*,**,**
+44,4079,*Sera, Gioacchino Leone*,**,**
+44,4080,*Sera, Gioacchino Leone*,**,**
+44,4081,*Sera, Gioacchino Leone*,**,**
+44,4082,*Sera, Gioacchino Leone*,**,**
+44,4083,*Sera, Gioacchino Leone*,**,**
+44,4084,*Sergeant, D. E.*,**,**
+44,4084,*Harrison, D. L.*,**,**
+44,4087,*Sergi, Sergio*,**,**
+44,4088,*Sergi, Sergio*,**,**
+44,4089,*Sergi, Sergio*,**,**
+44,4091,*Sergi, Sergio*,**,**
+44,4092,*Sergi, Sergio*,**,**
+44,4093,*Sergi, Sergio*,**,**
+44,4094,*Sergi, Sergio*,**,**
+44,4095,*Sergi, Sergio*,**,**
+44,4096,*Sergi, Sergio*,**,**
+44,4097,*Sergi, Sergio*,**,**
+44,4098,*Serrano Sanz, Manuel*,**,**
+44,4099,*Severtsov, Sergei Alekseevich*,*Sewertzoff*,**
+44,4100,*Severtsov, Sergei Alekseevich*,*Sewertzoff*,**
+44,4101,*Shalem, Nathan*,**,**
+44,4102,*Shattuck, George Burbank*,**,**
+44,4103,*Shae, Tsen-hwang*,**,**
+44,4104,*Shcherbakiskii, Vadim*,**,**
+44,4105,*Sherlock, Robert Lionel*,**,**
+44,4106,*Sherlock, Robert Lionel*,**,**
+44,4107,*Sherwood, E. G. P.*,**,**
+44,4108,*Shestakova, G. S.*,**,**
+44,4109,*Shetrone, Henry Clyde*,**,**
+44,4110,*Shikama, Tokio*,**,**
+44,4111,*Shikama, Tokio*,**,**
+44,4112,*Shikama, Tokio*,**,**
+44,4113,*Shikama, Tokio*,**,**
+44,4114,*Shikama, Tokio*,**,**
+44,4115,*Shimer, Hervey Woodburn*,**,**
+44,4116,*Shimer, Hervey Woodburn*,**,**
+44,4117,*Shmidt, G. A.*,**,**
+44,4118,*Shtraikh, S. J.*,**,**
+44,4119,*Shufeldt, Robert Wilson*,**,**
+44,4120,*Shufeldt, Robert Wilson*,**,**
+44,4121,*Shuler, Ellis William*,**,**
+44,4122,*Shuler, E. W.*,**,**
+44,4122,*Welles, S. P.*,**,**
+44,4123,*Shvetsov, P. F.*,**,**
+44,4124,*Siegrist, M.*,**,**
+44,4124,*Tatge, E.*,**,**
+44,4125,*Siegrist, M.*,**,**
+44,4125,*Tatge, E.*,**,**
+44,4126,*Silva Santos, Rubens da*,**,**
+44,4127,*Silva Santos, Rubens da*,**,**
+44,4128,*Silva Santos, Rubens da*,**,**
+44,4129,*Silva Santos, Rubens da*,**,**
+44,4130,*Silva Santos, Rubens da*,**,**
+44,4131,*Silva Santos, Rubens da*,**,**
+44,4132,*Simionescu, Ion*,*Jon*,**
+44,4133,*Simionescu, Ion*,*Jon*,**
+44,4134,*Simionescu, Ion*,*Jon*,**
+44,4135,*Simoe%Fns, Guillaume*,**,**
+44,4136,*Simonnet, Georges*,**,**
+44,4137,*Simpson, George Gaylord*,**,**
+44,4140,*Simpson, George Gaylord*,**,**
+44,4141,*Simpson, George Gaylord*,**,**
+44,4142,*Simpson, George Gaylord*,**,**
+44,4143,*Simpson, George Gaylord*,**,**
+44,4144,*Simpson, George Gaylord*,**,**
+44,4145,*Simpson, George Gaylord*,**,**
+44,4146,*Simpson, George Gaylord*,**,**
+44,4147,*Simpson, George Gaylord*,**,**
+44,4148,*Simpson, George Gaylord*,**,**
+44,4149,*Simpson, George Gaylord*,**,**
+44,4150,*Simpson, George Gaylord*,**,**
+44,4151,*Simpson, George Gaylord*,**,**
+44,4152,*Simpson, George Gaylord*,**,**
+44,4153,*Simpson, George Gaylord*,**,**
+44,4154,*Simpson, George Gaylord*,**,**
+44,4155,*Simpson, George Gaylord*,**,**
+44,4156,*Simpson, George Gaylord*,**,**
+44,4157,*Simpson, George Gaylord*,**,**
+44,4158,*Simpson, George Gaylord*,**,**
+44,4159,*Simpson, George Gaylord*,**,**
+44,4160,*Simpson, George Gaylord*,**,**
+44,4161,*Simpson, George Gaylord*,**,**
+44,4162,*Simpson, George Gaylord*,**,**
+44,4163,*Simpson, George Gaylord*,**,**
+44,4164,*Simpson, George Gaylord*,**,**
+44,4165,*Simpson, George Gaylord*,**,**
+44,4166,*Simpson, George Gaylord*,**,**
+44,4167,*Simpson, George Gaylord*,**,**
+44,4168,*Simpson, George Gaylord*,**,**
+44,4169,*Simpson, George Gaylord*,**,**
+44,4170,*Simpson, George Gaylord*,**,**
+44,4171,*Simpson, George Gaylord*,**,**
+44,4172,*Simpson, George Gaylord*,**,**
+44,4173,*Simpson, George Gaylord*,**,**
+44,4174,*Simpson, George Gaylord*,**,**
+44,4175,*Simpson, George Gaylord*,**,**
+44,4176,*Simpson, George Gaylord*,**,**
+44,4177,*Simpson, George Gaylord*,**,**
+44,4178,*Simpson, George Gaylord*,**,**
+44,4179,*Simpson, George Gaylord*,**,**
+44,4180,*Simpson, George Gaylord*,**,**
+44,4181,*Simpson, George Gaylord*,**,**
+44,4182,*Simpson, George Gaylord*,**,**
+44,4183,*Simpson, George Gaylord*,**,**
+44,4184,*Simpson, George Gaylord*,**,**
+44,4185,*Simpson, George Gaylord*,**,**
+44,4186,*Simpson, George Gaylord*,**,**
+44,4187,*Simpson, George Gaylord*,**,**
+44,4188,*Simpson, George Gaylord*,**,**
+44,4189,*Simpson, George Gaylord*,**,**
+44,4190,*Simpson, George Gaylord*,**,**
+44,4191,*Simpson, George Gaylord*,**,**
+44,4192,*Simpson, George Gaylord*,**,**
+44,4193,*Simpson, George Gaylord*,**,**
+44,4194,*Simpson, J. Clarence*,**,**
+44,4195,*Simpson, Martin*,**,**
+44,4196,*Simpson, Ruth D.*,**,**
+44,4197,*Simpson, Ruth D.*,**,**
+44,4198,*Sinclair, G. Winston*,**,**
+44,4199,*Singleton, F. A.*,**,**
+44,4200,*S%Jkerlj, Boz%Jo*,**,**
+44,4201,*Skinner, Henry Devenish*,**,**
+44,4202,*Skinner, Morris Fredrick*,**,**
+44,4202,*Kaisen, O. C.*,**,**
+44,4203,*Skorkowski, Edward*,**,**
+44,4204,*Skorkowski, Edward*,**,**
+44,4205,*Skutil, Josef*,**,**
+44,4206,*Slavin, L.*,**,**
+44,4207,*Sleight, Frederick W.*,**,**
+44,4208,*Sleight, Frederick W.*,**,**
+44,4209,*Slijper, Everhard Johannes*,**,**
+44,4210,*Slijper, Everhard Johannes*,**,**
+44,4211,*Slijper, Everhard Johannes*,**,**
+44,4212,*Smirnov, A. P.*,**,**
+44,4213,*Smit Sibinga, G. L.*,**,**
+44,4214,*Smith, E. Boyd*,**,**
+44,4215,*Smith, Ellen T.*,**,**
+44,4216,*Smith, Elmer Richard*,**,**
+44,4217,*Smith, G. A.*,**,**
+44,4218,*Smith, Grafton Elliot*,**,**
+44,4219,*Smith, Hampton*,**,**
+44,4220,*Smith, Hobart Muir*,**,**
+44,4221,*Smith, Hobart Muir*,**,**
+44,4222,*Smith, H. M.*,**,**
+44,4222,*Warner, R.*,**,**
+44,4223,*Smith, Homer William*,**,**
+44,4224,*Smith, Stanley*,**,**
+44,4225,*Smuts, Jan Christiaan*,**,**
+44,4226,*Smuts, Jan Christiaan*,**,**
+44,4227,*Smuts, J. C., et al.*,**,**
+44,4228,*Smuts, Jan Christiaan, Jr.*,**,**
+44,4229,*Smuts, Jan Christiaan, Jr.*,**,**
+44,4230,*Snodgrasse, Richard M.*,**,**
+44,4231,*Snyder, Charles T.*,**,**
+44,4232,*Sodermann, R.*,**,**
+44,4234,*Soergel, Wolfgang*,**,**
+44,4235,*Soergel, Wolfgang*,**,**
+44,4236,*Soergel, Wolfgang*,**,**
+44,4237,*Solas, L.*,**,**
+44,4238,*Solday*,**,**
+44,4239,*Sole%A Sabaris, L.*,**,**
+44,4240,*Sommaruga, Claudio*,**,**
+44,4241,*Sone%A, Hiroshi*,**,**
+44,4242,*Sone%A, Hiroshi*,**,**
+44,4243,*Sos-Bainat, V.*,**,**
+44,4244,*Sos-Bainat, V.*,**,**
+44,4245,*Sosnovskii, G. P.*,**,**
+44,4246,*Sosnovskii, G. P.*,**,**
+44,4247,*Sosnovskii, G. P.*,**,**
+44,4248,*Sosnovskii, G. P.*,**,**
+44,4249,*Sosnovskii, G. P.*,**,**
+44,4250,*Sosnovskii, G. P.*,**,**
+44,4251,*Sousa Torres, A.*,**,**
+44,4252,*Sousa Torres, A.*,**,**
+44,4253,*Southhall, James C.*,**,**
+44,4254,*Sowerby, Arthur de Carle*,**,**
+44,4255,*Soyer, Robert*,**,**
+44,4256,*Spahni, J. C.*,**,**
+44,4257,*Spalding, Walter*,**,**
+44,4258,*Sparn, Enrique*,**,**
+44,4259,*Sparn, Enrique*,**,**
+44,4260,*Sparn, Enrique*,**,**
+44,4261,*Sparn, Enrique*,**,**
+44,4262,*Spasski, P. I.*,**,**
+44,4263,*Speiser, Felix*,**,**
+44,4264,*Spillman, Franz*,**,**
+44,4265,*Spreitzer, H.*,**,**
+44,4266,*Sprenger, J.*,**,**
+44,4267,*Staesche, Karl*,**,**
+44,4268,*Staesche, Karl*,**,**
+44,4269,*Stainier, Xavier*,**,**
+44,4270,*Stamelman, A.*,**,**
+44,4271,*Stampfuss, R.*,**,**
+44,4272,*Stanger, Frank Merriman*,**,**
+44,4273,*Stanley, George Mahon*,**,**
+44,4274,*Stauffer, Clinton Raymond*,**,**
+44,4275,*Stauffer, H.*,**,**
+44,4276,*Staviarsky, V.*,**,**
+44,4277,*Stearns, Charles Edward*,**,**
+44,4278,*Steenhuis, Jakob Frederik*,**,**
+44,4279,*Steinbacher, G.*,**,**
+44,4280,*Stekelis, Moshe%A*,**,**
+44,4281,*Stekelis, Moshe%A*,**,**
+44,4282,*Stekelis, Moshe%A*,**,**
+44,4283,*Stella, Luigia A.*,**,**
+44,4284,*Stenberger, Ma%Hrten Carl Herman*,**,**
+44,4285,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4287,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4288,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4289,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4290,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4291,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4292,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4293,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4294,*Stensio%F, Erik Helge Osvalt Andersson*,*= Stensio%F, Erik A :son*,**
+44,4295,*Stenzel, Henry Bronislaw*,**,**
+44,4295,*Turner, F. E.*,**,**
+44,4295,*Hesse, C. J.*,**,**
+44,4296,*Stepanovic%A, Branka*,**,**
+44,4297,*Stephenson, Loyd William*,**,**
+44,4298,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4300,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4301,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4302,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4303,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4304,*Sternberg, Charles Mortram*,*= Mottram*,**
+44,4305,*Stes%Alicka, Wanda*,**,**
+44,4306,*Stes%Alicka, Wanda*,**,**
+44,4307,*Stes%Alicka, Wanda*,**,**
+44,4308,*Stes%Alicka, Wanda*,**,**
+44,4309,*Stewart, George Rippey*,**,**
+44,4310,*Stewart, Ralph*,**,**
+44,4311,*Stewart, Thomas Dale*,**,**
+44,4312,*Stewart, Thomas Dale*,**,**
+44,4314,*Stirling, Matthew William*,**,**
+44,4315,*Stirling, Matthew William*,**,**
+44,4316,*Stirling, Matthew William*,**,**
+44,4317,*Stirling, Matthew William*,**,**
+44,4318,*Stirton, Ruben Arthur*,**,**
+44,4319,*Stirton, Ruben Arthur*,**,**
+44,4320,*Stirton, Ruben Arthur*,**,**
+44,4321,*Stirton, Ruben Arthur*,**,**
+44,4322,*Stirton, Ruben Arthur*,**,**
+44,4323,*Stirton, Ruben Arthur*,**,**
+44,4324,*Stirton, Ruben Arthur*,**,**
+44,4325,*Stirton, Ruben Arthur*,**,**
+44,4326,*Stirton, Ruben Arthur*,**,**
+44,4327,*Stirton, Ruben Arthur*,**,**
+44,4328,*Stock, Chester*,**,**
+44,4329,*Stock, Chester*,**,**
+44,4330,*Stock, Chester*,**,**
+44,4331,*Stock, Chester*,**,**
+44,4332,*Stock, Chester*,**,**
+44,4333,*Stock, Chester*,**,**
+44,4334,*Stock, Chester*,**,**
+44,4335,*Stock, Chester*,**,**
+44,4336,*Stock, Chester*,**,**
+44,4337,*Stock, Chester*,**,**
+44,4338,*Stock, Chester*,**,**
+44,4339,*Stock, Chester*,**,**
+44,4340,*Stock, Chester*,**,**
+44,4341,*Stock, Chester*,**,**
+44,4342,*Stock, Chester*,**,**
+44,4343,*Stock, Chester*,**,**
+44,4344,*Stock, Chester*,**,**
+44,4345,*Stock, Chester*,**,**
+44,4346,*Stock, Chester*,**,**
+44,4347,*Stock, Chester*,**,**
+44,4348,*Stock, Chester*,**,**
+44,4349,*Stock, Chester*,**,**
+44,4350,*Stock, Chester*,**,**
+44,4351,*Stock, Chester*,**,**
+44,4352,*Stock, Chester*,**,**
+44,4353,*Stock, C.*,**,**
+44,4353,*Howard H.*,**,**
+44,4354,*Stock, C.*,**,**
+44,4354,*Lance, J. F.*,**,**
+44,4354,*Nigra, J. O.*,**,**
+44,4355,*Stockley, Gordon Murray*,**,**
+44,4356,*Stokar, Walter von*,**,**
+44,4357,*Stokes, William Lee*,**,**
+44,4358,*Stokes, William Lee*,**,**
+44,4359,*Story, G. D.*,**,**
+44,4360,*Stolyhwo, M. Kasimierz*,**,**
+44,4361,*Stout, Thompson M.*,**,**
+44,4362,*Stovall, John Willis*,**,**
+44,4363,*Stovall, John Willis*,**,**
+44,4364,*Stovall, John Willis*,**,**
+44,4365,*Stovall, John Willis*,**,**
+44,4366,*Stovall, John Willis*,**,**
+44,4367,*Stovall, John Willis*,**,**
+44,4368,*Stovall, J. W.*,**,**
+44,4368,*Hibbard, C. W.*,**,**
+44,4369,*Strakhov, N. M.*,**,**
+44,4370,*Strakhov, N. M.*,**,**
+44,4371,*Strand, Embrik*,**,**
+44,4372,*Strand, Embrik*,**,**
+44,4373,*Strand, Embrik*,**,**
+44,4374,*Strand, Embrik*,**,**
+44,4375,*Straus, William Louis, Jr.*,**,**
+44,4376,*Strausz, L.*,**,**
+44,4377,*Stromer, Ernst (Ernst Stromer von Reichenbach*,**,**
+44,4378,*Stromer, Ernst (Ernst Stromer von Reichenbach*,**,**
+44,4379,*Stromer, Ernst (Ernst Stromer von Reichenbach*,**,**
+44,4380,*Stromer, Ernst (Ernst Stromer von Reichenbach*,**,**
+44,4381,*Strong, Reuben Myron*,**,**
+44,4382,*Strong, Reuben Myron*,**,**
+44,4383,*Stubblefield, Cyril James*,**,**
+44,4384,*Stucker, Gil.*,**,**
+44,4385,*Subbarao, Bendapudi*,**,**
+44,4386,*S%Juklje, F.*,**,**
+44,4387,*Summers, Roger F. H.*,**,**
+44,4388,*Suvorov, E. K.*,**,**
+44,4389,*Sukheswala, R. N.*,**,**
+44,4390,*Svetovidov, A. N.*,**,**
+44,4391,*Swinnerton, Henry Hurd*,**,**
+44,4392,*Swinnerton, Henry Hurd*,**,**
+44,4393,*Swinton, William Elgin*,**,**
+44,4394,*Swinton, William Elgin*,**,**
+44,4395,*Swinton, William Elgin*,**,**
+44,4396,*Swinton, William Elgin*,**,**
+44,4397,*Swinton, William Elgin*,**,**
+44,4398,*Swinton, William Elgin*,**,**
+44,4399,*Swinton, William Elgin*,**,**
+44,4400,*Swinton, William Elgin*,**,**
+44,4401,*Swinton, William Elgin*,**,**
+44,4402,*Swinton, William Elgin*,**,**
+44,4403,*Swinton, William Elgin*,**,**
+44,4404,*Swinton, William Elgin*,**,**
+44,4405,*Swinton, William Elgin*,**,**
+44,4406,*Szafer, Wladyslaw*,**,**
+44,4407,*Sze, H. C.*,**,**
+44,4408,*Taft, Robert*,**,**
+44,4409,*Tagami, M.*,**,**
+44,4410,*Tagami, M.*,**,**
+44,4411,*Takai, Fuyuji*,**,**
+44,4412,*Takai, Fuyuji*,**,**
+44,4413,*Takai, Fuyuji*,**,**
+44,4414,*Talitskii, M. V.*,**,**
+44,4415,*Tallantire, P.*,**,**
+44,4415,*Walters, S. M.*,**,**
+44,4416,*Tallgren, A. M.*,**,**
+44,4417,*Taltasse, P.*,**,**
+44,4417,*Ennouchi, E.*,**,**
+44,4418,*Tanabe, Gu%Fchi*,**,**
+44,4419,*Tanner, Va%Fino%F*,**,**
+44,4420,*Tarakonova, S.*,**,**
+44,4421,*Tasker, T.*,**,**
+44,4422,*Tate, George Henry Hamilton*,**,**
+44,4423,*Tate, George Henry Hamilton*,**,**
+44,4424,*Tavani, Guido*,**,**
+44,4425,*Tavani, Guido*,**,**
+44,4426,*Tavani, Guido*,**,**
+44,4427,*Tax, Sol*,**,*E*
+44,4428,*Taylor, Griffith*,**,**
+44,4429,*Taylor, Jay L. B.*,**,**
+44,4430,*Taylor, Lois Chambers*,**,**
+44,4431,*Taylor, Walter Willard*,**,**
+44,4432,*Tchernov, A. A.*,**,**
+44,4434,*Teichert, Curt*,**,**
+44,4435,*Teichert, C.*,**,**
+44,4435,*Matheson, R. S.*,**,**
+44,4436,*Teixeira, Carlos*,**,**
+44,4437,*Teixeira, Carlos*,**,**
+44,4438,*Teixeira, Carlos*,**,**
+44,4439,*Teixeira, Carlos*,**,**
+44,4440,*Termier, Henri*,**,**
+44,4442,*Terra, Helmut De = De Terra*,**,**
+44,4443,*Terra, Helmut De = De Terra*,**,**
+44,4444,*Terra, Helmut De = De Terra*,**,**
+44,4445,*Terra, Helmut De = De Terra*,**,**
+44,4446,*Terra, Helmut De = De Terra*,**,**
+44,4448,*Terra, Helmut De = De Terra*,**,**
+44,4449,*Terra, Helmut De = De Terra*,**,**
+44,4450,*Terra, Helmut De = De Terra*,**,**
+44,4451,*Terra, Helmut De = De Terra*,**,**
+44,4452,*Terra, Helmut De = De Terra*,**,**
+44,4453,*Terra, Helmut De = De Terra*,**,**
+44,4455,*Te%Atry, Andre%Ae*,**,**
+44,4456,*Te%Atry, Andre%Ae*,**,**
+44,4457,*Te%Atry, Andre%Ae*,**,**
+44,4458,*Teviotdale, David*,**,**
+44,4459,*Teviotdale, David*,**,**
+44,4460,*Teviotdale, David*,**,**
+44,4461,*Teviotdale, David*,**,**
+44,4462,*Teviotdale, David*,**,**
+44,4463,*Teviotdale, David*,**,**
+44,4464,*Thenius, Erich*,**,**
+44,4465,*Thenius, Erich*,**,**
+44,4466,*Thenius, Erich*,**,**
+44,4467,*Thenius, Erich*,**,**
+44,4468,*Thenius, Erich*,**,**
+44,4469,*Thenius, Erich*,**,**
+44,4470,*Thenius, Erich*,**,**
+44,4471,*Thenius, Erich*,**,**
+44,4472,*Thenius, Erich*,**,**
+44,4473,*Thenius, Erich*,**,**
+44,4474,*Thenius, Erich*,**,**
+44,4475,*Thenius, Erich*,**,**
+44,4476,*Thenius, Erich*,**,**
+44,4477,*Thenius, Erich*,**,**
+44,4478,*The%Avenin, Rene%A*,**,**
+44,4479,*The%Avenin, Rene%A*,**,**
+44,4480,*The%Avenin, Rene%A*,**,**
+44,4481,*Thiele, S.*,**,**
+44,4482,*Thisse, J.*,**,**
+44,4482,*Destexhe-Jamotte, J.*,**,**
+44,4483,*Thisse-Derouette, M. J.*,**,**
+44,4484,*Thisse-Derouette, M. J.*,**,**
+44,4485,*Thom, Emma Mertins*,**,**
+44,4486,*Thom, Emma Mertins*,**,**
+44,4487,*Thom, Emma Mertins*,**,**
+44,4488,*Thomas, Henry Dighton*,**,**
+44,4489,*Thomas, Hugh Hamshaw*,**,**
+44,4490,*Thomas, Thomas H.*,**,**
+44,4491,*Thompson, Raymond Melvin*,**,**
+44,4492,*Thone, Frank Ernest Aloysius*,**,**
+44,4493,*Thone, Frank Ernest Aloysius*,**,**
+44,4494,*Thone, Frank Ernest Aloysius*,**,**
+44,4495,*Thone, Frank Ernest Aloysius*,**,**
+44,4496,*Thoral*,**,**
+44,4497,*Thunberg, T.*,**,**
+44,4498,*Tilloy, Robert*,**,**
+44,4499,*Tindale, Norman B.*,**,**
+44,4500,*Tobien, H.*,**,**
+44,4501,*Tobien, H.*,**,**
+44,4503,*Todd, K. R. V.*,**,**
+44,4504,*Tomlinson, Mabel E.*,**,**
+44,4505,*Tongiorgi, E.*,**,**
+44,4506,*Toombs, H. A.*,**,**
+44,4507,*Torrey, Theodore Willet*,**,**
+44,4508,*Toth, G.*,**,**
+44,4509,*Tourtelot, Harry A.*,**,**
+44,4510,*Tratman, E. K.*,**,**
+44,4511,*Trauth, Friedrich*,**,**
+44,4512,*Treacher, M. S.*,**,**
+44,4512,*Arkell, W. J.*,**,**
+44,4512,*Oakley, K. P.*,**,**
+44,4513,*Treasher, Raymond Clarence*,**,**
+44,4513,*Hodge, E. T.*,**,**
+44,4514,*Tretjakov, E. K.*,*= Tretiakoff*,**
+44,4515,*Trevisan, Livio*,**,**
+44,4516,*Trevisan, Livio*,**,**
+44,4517,*Trevisan, Livio*,**,**
+44,4518,*Trevisan, Livio*,**,**
+44,4519,*Trevisan, Livio*,**,**
+44,4520,*Trevisan, Livio*,**,**
+44,4521,*Trevisan, Livio*,**,**
+44,4523,*Trillat, J. J.*,**,**
+44,4523,*Roger, J.*,**,**
+44,4524,*Troedsson, Gustaf*,**,**
+44,4525,*Troels-Smith, J.*,**,**
+44,4526,*Troels-Smith, J.*,**,**
+44,4527,*Trombe, F.*,**,**
+44,4527,*Dubuc, G.*,**,**
+44,4528,*Tromp, Solco Walle*,**,**
+44,4529,*Trowbridge, Arthur Carleton*,**,**
+44,4530,*Troxell, Edward Leffingwell*,**,**
+44,4531,*True, Webster Prentiss*,**,**
+44,4532,*Trusova, S. A.*,**,**
+44,4533,*Trusova, S. A.*,**,**
+44,4534,*Trusova, S. A.*,**,**
+44,4535,*Tschachtli, B. S.*,**,**
+44,4536,*Tschopik, Harry*,**,**
+44,4537,*Tseng, T. C.*,**,**
+44,4538,*Tu, Heng-chien*,**,**
+44,4539,*Tulli, Alberto*,**,**
+44,4540,*Tulli, Alberto*,**,**
+44,4541,*Tumarkin, A.*,**,**
+44,4542,*Tumarkin, A.*,**,**
+44,4543,*Tumarkin, A.*,**,**
+44,4544,*Turner, Francis Earl*,**,**
+44,4545,*Tweedie, M. W. F.*,**,**
+44,4546,*Twiesselmann, Franc%Bois*,**,**
+44,4547,*Twiesselmann, Franc%Bois*,**,**
+44,4548,*Ulysse-Dumas, Jeanne*,**,**
+44,4549,*Umbgrove, Johannes Herman Frederik*,**,**
+44,4550,*Umbreit, Carl*,**,**
+44,4551,*Umehara, Sueji*,**,**
+44,4552,*Untermann, G. E.*,**,**
+44,4552,*Untermann, B. R.*,**,**
+44,4553,*Upthegrove, Campbell L.*,**,**
+44,4554,*Urbain, Achille*,**,**
+44,4554,*Rode, P.*,**,**
+44,4555,*Uria Tin, Juan*,**,**
+44,4556,*Urita, Tomoe*,**,**
+44,4557,*Urvoy, Y.*,**,**
+44,4558,*Utsurikawa, Nenozo*,**,**
+44,4558,*Miyamoto, N.*,**,**
+44,4559,*Vallois, Henri V.*,**,**
+44,4560,*Vallois, Henri V.*,**,**
+44,4561,*Vallois, Henri V.*,**,**
+44,4562,*Vallois, Henri V.*,**,**
+44,4563,*Vallois, Henri V.*,**,**
+44,4564,*Vallois, Henri V.*,**,**
+44,4565,*Vallois, Henri V.*,**,**
+44,4566,*Vallois, Henri V.*,**,**
+44,4567,*Vallois, Henri V.*,**,**
+44,4568,*Vallois, Henri V.*,**,**
+44,4569,*Vallois, Henri V.*,**,**
+44,4570,*Vallois, Henri V.*,**,**
+44,4571,*Vallois, Henri V.*,**,**
+44,4572,*Vallois, Henri V.*,**,**
+44,4573,*Vallois, Henri V.*,**,**
+44,4574,*Vallois, Henri V.*,**,**
+44,4575,*Vallois, Henri V.*,**,**
+44,4576,*Vallois, Henri V.*,**,**
+44,4577,*Vallois, Henri V.*,**,**
+44,4578,*Vallois, Henri V.*,**,**
+44,4579,*Vallois, Henri V.*,**,**
+44,4580,*Van Bemmel, A. C. V.*,**,**
+44,4581,*Vance, Harold*,**,**
+44,4582,*Van Deinse, Antonius Boudewijn*,**,**
+44,4583,*Vandel, Albert*,**,**
+44,4584,*Van der Heide, S.*,**,**
+44,4585,*Van der Heide, S.*,**,**
+44,4585,*Dikkers, A. J.*,**,**
+44,4586,*VanderHoof, Vertress Lawrence*,**,**
+44,4587,*Van der Klaauw, C. J.*,**,**
+44,4588,*Van der Vlerk, I. M.*,**,**
+44,4588,*Kuenen, P. H.*,**,**
+44,4589,*Van Heekeren, H. R.*,**,**
+44,4590,*Van Heekeren, H. R.*,**,**
+44,4591,*Van Heekeren, H. R.*,**,**
+44,4592,*Van Hoepen, Egbert Cornelis Nicolaas*,**,**
+44,4593,*Van Hoepen, Egbert Cornelis Nicolaas*,**,**
+44,4594,*Van Houten, Franklyn Bosworth*,**,**
+44,4595,*Van Houten, Franklyn Bosworth*,**,**
+44,4596,*Van%Jura, Jaromi%Ar*,**,**
+44,4597,*Van%Jura, Jaromi%Ar*,**,**
+44,4598,*Varsanofieva, Vera Aleksandrovna*,**,**
+44,4599,*Varsanofieva, Vera Aleksandrovna*,**,**
+44,4600,*Vaufrey, Raymond*,**,**
+44,4601,*Vaufrey, Raymond*,**,**
+44,4602,*Vaufrey, Raymond*,**,**
+44,4603,*Vaufrey, Raymond*,**,**
+44,4604,*Vaufrey, Raymond*,**,**
+44,4605,*Vaufrey, Raymond*,**,**
+44,4606,*Vaufrey, Raymond*,**,**
+44,4607,*Vaufrey, Raymond*,**,**
+44,4608,*Vaufrey, Raymond*,**,**
+44,4609,*Vaufrey, Raymond*,**,**
+44,4610,*Vaufrey, Raymond*,**,**
+44,4611,*Vaufrey, Raymond*,**,**
+44,4612,*Vaufrey, Raymond*,**,**
+44,4613,*Vaufrey, Raymond*,**,**
+44,4614,*Vaufrey, Raymond*,**,**
+44,4615,*Vaufrey, Raymond*,**,**
+44,4616,*Vaufrey, Raymond*,**,**
+44,4617,*Vaufrey, Raymond*,**,**
+44,4618,*Vaufrey, Raymond*,**,**
+44,4619,*Vaufrey, Raymond*,**,**
+44,4620,*Vaufrey, Raymond*,**,**
+44,4621,*Vaufrey, Raymond*,**,**
+44,4622,*Vaufrey, Raymond*,**,**
+44,4623,*Vaufrey, Raymond*,**,**
+44,4624,*Vaufrey, Raymond*,**,**
+44,4625,*Vaufrey, Raymond*,**,**
+44,4626,*Vaufrey, R.*,**,**
+44,4626,*Bordes, F.*,**,**
+44,4627,*Vaughan, Thomas Wayland*,**,**
+44,4628,*Vaumas, E%Atienne de*,**,**
+44,4629,*Vaux, R. de*,**,**
+44,4630,*Vavr%Jinova%A, Milada*,**,**
+44,4631,*Vereshagin, N. K.*,**,**
+44,4632,*Vereshagin, N. K.*,**,**
+44,4633,*Vereshagin, N. K.*,**,**
+44,4634,*Verrill, Alpheus Hyatt*,**,**
+44,4635,*Ver Steeg, Karl*,**,**
+44,4636,*Vesey-Fitzgerald, Brian*,**,**
+44,4637,*Vezian, J.*,**,**
+44,4638,*Vialli, Giulia*,**,**
+44,4640,*Vialli, Vittorio*,**,**
+44,4641,*Viana, Abel*,**,**
+44,4642,*Viana, Abel*,**,**
+44,4643,*Viana, Abel*,**,**
+44,4644,*Vianna, Anto%Anio*,**,**
+44,4644,*Moraes, A.*,**,**
+44,4645,*Vianna, Anto%Anio*,**,**
+44,4645,*Moraes, A.*,**,**
+44,4646,*Vidal, Ney*,**,**
+44,4647,*Viereck, Peter*,**,**
+44,4648,*Vignard, Edmond*,**,**
+44,4650,*Vignati, Milci%Aades Alejo*,**,**
+44,4651,*Vignati, Milci%Aades Alejo*,**,**
+44,4652,*Vilaseca, Salvador*,**,**
+44,4653,*Villada, Manuel M.*,**,**
+44,4654,*Villada, Manuel M.*,**,**
+44,4655,*Villalta Comella, J. F. de*,**,**
+44,4655,*Crusafont Pairo%A, M.*,**,**
+44,4656,*Villalta Comella, J. F. de*,**,**
+44,4656,*Crusafont Pairo%A, M.*,**,**
+44,4657,*Villalta Comella, J. F. de*,**,**
+44,4657,*Crusafont Pairo%A, M.*,**,**
+44,4658,*Villalta Comella, J. F. de*,**,**
+44,4658,*Crusafont Pairo%A, M.*,**,**
+44,4660,*Villalta Comella, J. F. de*,**,**
+44,4660,*Crusafont Pairo%A, M.*,**,**
+44,4661,*Villalta Comella, J. F. de*,**,**
+44,4661,*Crusafont Pairo%A, M.*,**,**
+44,4662,*Villalta Comella, J. F. de*,**,**
+44,4662,*Crusafont Pairo%A, M.*,**,**
+44,4663,*Villalta Comella, J. F. de*,**,**
+44,4663,*Crusafont Pairo%A, M.*,**,**
+44,4664,*Villalta Comella, J. F. de*,**,**
+44,4664,*Crusafont Pairo%A, M.*,**,**
+44,4665,*Villalta Comella, J. F. de*,**,**
+44,4665,*Crusafont Pairo%A, M.*,**,**
+44,4666,*Villalta Comella, J. F. de*,**,**
+44,4666,*Crusafont Pairo%A, M.*,**,**
+44,4667,*Villalta Comella, J. F. de*,**,**
+44,4667,*Crusafont Pairo%A, M.*,**,**
+44,4668,*Villalta Comella, J. F. de*,**,**
+44,4668,*Crusafont Pairo%A, M.*,**,**
+44,4669,*Villalta Comella, J. F. de*,**,**
+44,4669,*Crusafont Pairo%A, M.*,**,**
+44,4670,*Villalta Comella, J. F. de*,**,**
+44,4670,*Crusafont Pairo%A, M.*,**,**
+44,4671,*Villalta Comella, J. F. de*,**,**
+44,4671,*Crusafont Pairo%A, M.*,**,**
+44,4672,*Villalta Comella, J. F. de*,**,**
+44,4672,*Crusafont Pairo%A, M.*,**,**
+44,4673,*Villalta Comella, J. F. de*,**,**
+44,4673,*Crusafont Pairo%A, M.*,**,**
+44,4674,*Villalta Comella, J. F. de*,**,**
+44,4674,*Crusafont Pairo%A, M.*,**,**
+44,4675,*Villalta Comella, J. F. de*,**,**
+44,4675,*Crusafont Pairo%A, M.*,**,**
+44,4676,*Villalta Comella, J. F. de*,**,**
+44,4676,*Crusafont Pairo%A, M.*,**,**
+44,4677,*Villalta Comella, J. F. de*,**,**
+44,4677,*Crusafont Pairo%A, M.*,**,**
+44,4678,*Villalta Comella, J. F. de*,**,**
+44,4678,*Crusafont Pairo%A, M.*,**,**
+44,4679,*Villalta Comella, J. F. de*,**,**
+44,4679,*Crusafont Pairo%A, M.*,**,**
+44,4680,*Villalta Comella, J. F. de*,**,**
+44,4680,*Crusafont Pairo%A, M.*,**,**
+44,4681,*Villalta Comella, J. F. de*,**,**
+44,4681,*Crusafont Pairo%A, M.*,**,**
+44,4682,*Villalta Comella, J. F. de*,**,**
+44,4682,*Crusafont Pairo%A, M.*,**,**
+44,4683,*Villalta Comella, J. F. de*,**,**
+44,4683,*Crusafont Pairo%A, M.*,**,**
+44,4684,*Villalta Comella, J. F. de*,**,**
+44,4684,*Crusafont Pairo%A, M.*,**,**
+44,4685,*Villalta Comella, J. F. de*,**,**
+44,4685,*Crusafont Pairo%A, M.*,**,**
+44,4686,*Villalta Comella, J. F. de*,**,**
+44,4686,*Crusafont Pairo%A, M.*,**,**
+44,4687,*Villalta Comella, J. F. de*,**,**
+44,4687,*Crusafont Pairo%A, M.*,**,**
+44,4688,*Villalta Comella, J. F. de*,**,**
+44,4688,*Crusafont Pairo%A, M.*,**,**
+44,4689,*Villalta Comella, J. F. de*,**,**
+44,4689,*Crusafont Pairo%A, M.*,**,**
+44,4690,*Villalta Comella, J. F. de*,**,**
+44,4690,*Crusafont Pairo%A, M.*,**,**
+44,4691,*Villalta Comella, J. F. de*,**,**
+44,4691,*Crusafont Pairo%A, M.*,**,**
+44,4692,*Villalta Comella, J. F. de*,**,**
+44,4692,*Crusafont Pairo%A, M.*,**,**
+44,4693,*Villalta Comella, J. F. de*,**,**
+44,4693,*Crusafont Pairo%Ao, M.*,**,**
+44,4693,*Lavocat, R.*,**,**
+44,4694,*Villalta Comella, J. F. de*,**,**
+44,4694,*Crusafont Pairo%Ao, M.*,**,**
+44,4694,*Lavocat, R.*,**,**
+44,4695,*Vinacci Thul, Enriqueta L.*,**,**
+44,4696,*Vin%Ees Masip, G.*,**,**
+44,4697,*Vin%Aes Masip, G.*,**,**
+44,4697,*Royo-Go%Amez, J.*,**,**
+44,4697,*Sos-Bainat, V.*,**,**
+44,4698,*Vinogradov, K. Ia.*,**,**
+44,4699,*Vinot, Andre%A*,**,**
+44,4702,*Viret, Jean*,**,**
+44,4703,*Viret, Jean*,**,**
+44,4704,*Viret, Jean*,**,**
+44,4705,*Viret, Jean*,**,**
+44,4706,*Viret, Jean*,**,**
+44,4707,*Viret, Jean*,**,**
+44,4708,*Viret, Jean*,**,**
+44,4709,*Viret, Jean*,**,**
+44,4710,*Viret, Jean*,**,**
+44,4711,*Viret, Jean*,**,**
+44,4712,*Viret, Jean*,**,**
+44,4713,*Viret, Jean*,**,**
+44,4714,*Viret, Jean*,**,**
+44,4715,*Viret, Jean*,**,**
+44,4716,*Viret, Jean*,**,**
+44,4717,*Viret, Jean*,**,**
+44,4718,*Viret, J.*,**,**
+44,4718,*Balland, R.*,**,**
+44,4719,*Viret, J.*,**,**
+44,4719,*Mazenot, G.*,**,**
+44,4720,*Viret, J.*,**,**
+44,4720,*Prudant, J.*,**,**
+44,4721,*Viret, J.*,**,**
+44,4721,*Schaub, S.*,**,**
+44,4722,*Vitalis, I.*,**,**
+44,4723,*Vodges, Anthony W.*,**,**
+44,4724,*Vodges, Anthony W.*,**,**
+44,4725,*Voevodski, M. V.*,**,**
+44,4726,*Voevodski, M.*,**,**
+44,4726,*Boriskovski, P. I.*,**,**
+44,4727,*Vogt, Emil*,**,**
+44,4728,*Vojkffy, C.*,**,**
+44,4729,*Vokes, Harold E.*,**,**
+44,4730,*Volz, Wilhelm*,**,**
+44,4731,*Vouga, Daniel*,**,**
+44,4732,*Wadia, D. N.*,**,**
+44,4732,*Deraniyagala, P. E.*,**,**
+44,4732,*Dikshit, R. B.*,**,**
+44,4732,*Krishnaswami, V. D.*,**,**
+44,4732,*Sen, D.*,**,**
+44,4732,*Kalapesi, A. S.*,**,**
+44,4732,*Mahadevan, C.*,**,**
+44,4733,*Waechter, John d'A.*,**,**
+44,4734,*Waechter, John d'A.*,**,**
+44,4735,*Waechter, John d'A.*,**,**
+44,4736,*Waechter, J. d'A.*,**,**
+44,4736,*Seton-Williams, M. V.*,**,**
+44,4737,*Waern, Bertil, et al.*,**,**
+44,4738,*Wagner, Wilhelm*,**,**
+44,4739,*Waldron, Cecil R.*,**,**
+44,4740,*Wallace, Robert Earl*,**,**
+44,4741,*Wallis, Wilson Dallam*,**,**
+44,4742,*Walls, Gordon Lynn*,**,**
+44,4743,*Walters, Raymond*,**,**
+44,4744,*Wang, Kung-moh*,**,**
+44,4745,*Wa%Fngsjo%F, Gustav*,**,**
+44,4746,*Ward, Roswell Howell*,**,**
+44,4747,*Ward-Perkins, J. B.*,**,**
+44,4748,*Warren, Bertram Eugene*,**,**
+44,4749,*Warren, Percival Sidney*,**,**
+44,4750,*Warren, S. Hazzledine*,**,**
+44,4751,*Watanabe, Hitoshi*,**,**
+44,4752,*Watanabe, Hitoshi*,**,**
+44,4753,*Waterbolk, H. Tj.*,**,**
+44,4754,*Watson, David Meredith Seares*,**,**
+44,4755,*Watson, David Meredith Seares*,**,**
+44,4756,*Watson, David Meredith Seares*,**,**
+44,4757,*Watson, David Meredith Seares*,**,**
+44,4758,*Watson, David Meredith Seares*,**,**
+44,4759,*Watson, David Meredith Seares*,**,**
+44,4760,*Watson, David Meredith Seares*,**,**
+44,4761,*Watson, David Meredith Seares*,**,**
+44,4762,*Watson, David Meredith Seares*,**,**
+44,4763,*Watson, David Meredith Seares*,**,**
+44,4764,*Watson, David Meredith Seares*,**,**
+44,4765,*Watson, David Meredith Seares*,**,**
+44,4766,*Watson, David Meredith Seares*,**,**
+44,4767,*Watson, Thomas Leonard*,**,**
+44,4768,*Watts, William Whitehead*,**,**
+44,4769,*Weaver, Charles Edwin, et al.*,**,**
+44,4770,*Webb, William Edward*,**,**
+44,4771,*Weber, [Dr.]*,**,**
+44,4772,*Wedel, Waldo Rudolph*,**,**
+44,4773,*Wedel, Waldo Rudolph*,**,**
+44,4774,*Weeks, Albert William*,**,**
+44,4775,*Weeks, Albert William*,**,**
+44,4776,*Weeks, Fred Boughton*,**,**
+44,4777,*Weeks, Fred Boughton*,**,**
+44,4778,*Weeks, Fred Boughton*,**,**
+44,4779,*Weeks, F. B.*,**,**
+44,4779,*Nickles, J. M.*,**,**
+44,4780,*Wegewitz, Willi*,**,**
+44,4781,*Wegewitz, Willi*,**,**
+44,4782,*Wegner, Richard N.*,**,**
+44,4783,*Wehrli, Hans*,**,**
+44,4784,*Weidenreich, Franz*,**,**
+44,4785,*Weidenreich, Franz*,**,**
+44,4786,*Weidenreich, Franz*,**,**
+44,4787,*Weidenreich, Franz*,**,**
+44,4788,*Weidenreich, Franz*,**,**
+44,4789,*Weidenreich, Franz*,**,**
+44,4790,*Weidenreich, Franz*,**,**
+44,4791,*Weidenreich, Franz*,**,**
+44,4792,*Weidenreich, Franz*,**,**
+44,4793,*Weidenreich, Franz*,**,**
+44,4794,*Weidenreich, Franz*,**,**
+44,4795,*Weidenreich, Franz*,**,**
+44,4798,*Weidenreich, Franz*,**,**
+44,4800,*Weidenreich, Franz*,**,**
+44,4803,*Weidenreich, Franz*,**,**
+44,4804,*Weidenreich, Franz*,**,**
+44,4805,*Weidenreich, Franz*,**,**
+44,4806,*Weidenreich, Franz*,**,**
+44,4807,*Weidenreich, Franz*,**,**
+44,4808,*Weidenreich, Franz*,**,**
+44,4809,*Weidenreich, Franz*,**,**
+44,4810,*Weidenreich, Franz*,**,**
+44,4811,*Weidenreich, Franz*,**,**
+44,4812,*Weidenreich, Franz*,**,**
+44,4813,*Weidenreich, Franz*,**,**
+44,4814,*Weidenreich, Franz*,**,**
+44,4815,*Weidenreich, Franz*,**,**
+44,4816,*Weidenreich, Franz*,**,**
+44,4817,*Weidenreich, Franz*,**,**
+44,4818,*Weidenreich, Franz*,**,**
+44,4819,*Weidenreich, Franz*,**,**
+44,4820,*Weidenreich, Franz*,**,**
+44,4821,*Weigelt, Johannes*,**,**
+44,4823,*Weigelt, Johannes*,**,**
+44,4824,*Weigelt, Johannes*,**,**
+44,4825,*Weigelt, Johannes*,**,**
+44,4826,*Weiler, Wilhelm*,**,**
+44,4827,*Weiler, Wilhelm*,**,**
+44,4828,*Weiler, Wilhelm*,**,**
+44,4829,*Weiler, Wilhelm*,**,**
+44,4830,*Weiler, Wilhelm*,**,**
+44,4831,*Weiner, Joseph Sidney*,**,**
+44,4832,*Weinert, Hans*,**,**
+44,4834,*Weinert, Hans*,**,**
+44,4835,*Weinert, Hans*,**,**
+44,4838,*Weinert, Hans*,**,**
+44,4840,*Weinert, Hans*,**,**
+44,4841,*Weinert, Hans*,**,**
+44,4843,*Weinert, Hans*,**,**
+44,4844,*Weinert, Hans*,**,**
+44,4845,*Weinert, Hans*,**,**
+44,4846,*Weinert, Hans*,**,**
+44,4847,*Weinert, Hans*,**,**
+44,4848,*Weinert, Hans*,**,**
+44,4849,*Weinert, Hans*,**,**
+44,4850,*Weinert, Hans*,**,**
+44,4851,*Weinert, Hans*,**,**
+44,4852,*Weinert, Hans*,**,**
+44,4853,*Weinert, Hans*,**,**
+44,4854,*Weinert, Hans*,**,**
+44,4855,*Weinert, Hans*,**,**
+44,4856,*Weinert, Hans*,**,**
+44,4857,*Weitzner, Bella*,**,**
+44,4858,*Weitzner, Bella*,**,**
+44,4859,*Welles, Samuel Paul*,**,**
+44,4860,*Welles, Samuel Paul*,**,**
+44,4861,*Welles, Samuel Paul*,**,**
+44,4862,*Welles, Samuel Paul*,**,**
+44,4863,*Wells, Alfred Kingsley*,**,**
+44,4864,*Wells, John West*,**,**
+44,4865,*Wells, John West*,**,**
+44,4866,*Wells, John West*,**,**
+44,4867,*Wells, John West*,**,**
+44,4868,*Wells, Lawrence Herbert*,**,**
+44,4869,*Wells, Lawrence Herbert*,**,**
+44,4870,*Wells, Lawrence Herbert*,**,**
+44,4871,*Wells, Lawrence Herbert*,**,**
+44,4872,*Weninger, Josef*,**,**
+44,4873,*Wenrich, David Henry*,**,**
+44,4874,*Wentworth, Edward Norris*,**,**
+44,4875,*Wernert, Paul*,**,**
+44,4876,*Wernert, Paul*,**,**
+44,4877,*Wernert, Paul*,**,**
+44,4878,*Wernert, Paul*,**,**
+44,4879,*Wernert, Paul*,**,**
+44,4880,*Wernert, Paul*,**,**
+44,4881,*Werth, Emil*,**,**
+44,4882,*Westoll, Thomas Stanley*,**,**
+44,4883,*Westoll, Thomas Stanley*,**,**
+44,4884,*Westoll, Thomas Stanley*,**,**
+44,4885,*Westoll, Thomas Stanley*,**,**
+44,4886,*Westoll, Thomas Stanley*,**,**
+44,4887,*Westoll, Thomas Stanley*,**,**
+44,4888,*Westoll, Thomas Stanley*,**,**
+44,4889,*Westoll, Thomas Stanley*,**,**
+44,4890,*Westoll, Thomas Stanley*,**,**
+44,4891,*Wetmore, Alexander*,**,**
+44,4892,*Wetmore, Alexander*,**,**
+44,4893,*Wetmore, Alexander*,**,**
+44,4894,*Wetmore, Alexander*,**,**
+44,4895,*Wetmore, Alexander*,**,**
+44,4896,*Wetmore, Alexander*,**,**
+44,4897,*Wetmore, Alexander*,**,**
+44,4898,*Wetmore, Alexander*,**,**
+44,4899,*Wetmore, Alexander*,**,**
+44,4900,*Wetmore, Alexander*,**,**
+44,4901,*Wetmore, Alexander*,**,**
+44,4902,*Wetmore, Alexander*,**,**
+44,4903,*Wetmore, Alexander*,**,**
+44,4904,*Wetmore, Alexander*,**,**
+44,4905,*Wetzel, R.*,**,**
+44,4905,*Haller, J.*,**,**
+44,4906,*Wetzel, R.*,**,**
+44,4906,*Haller, J.*,**,**
+44,4907,*Wheeler, R. E. Mortimer*,**,**
+44,4908,*White, Errol Ivor*,**,**
+44,4909,*White, Errol Ivor*,**,**
+44,4910,*White, Errol Ivor*,**,**
+44,4911,*White, Errol Ivor*,**,**
+44,4912,*White, Errol Ivor*,**,**
+44,4913,*White, E. I.*,**,**
+44,4913,*Toombs, H. A.*,**,**
+44,4914,*White, Theodore Elmer*,**,**
+44,4915,*Whitney, Josiah Dwight*,**,**
+44,4916,*Wiegers, Fritz*,**,**
+44,4917,*Wiegers, Fritz*,**,**
+44,4918,*Wiegers, Fritz*,**,**
+44,4919,*Wiegers, Fritz*,**,**
+44,4920,*Wiegers, Fritz*,**,**
+44,4921,*Wieland, George Reber*,**,**
+44,4922,*Wieland, George Reber*,**,**
+44,4923,*Wiesenaw, R. L. von*,**,**
+44,4924,*Wilder, Harris Hawthorne*,**,**
+44,4925,*Wilfarth, Martin*,**,**
+44,4926,*Williams, Arthur B.*,**,**
+44,4927,*Williams, Howel*,**,**
+44,4928,*Williams, James Steele*,**,**
+44,4928,*Dunkle, D. H.*,**,**
+44,4929,*Williston, Samuel Wendell*,**,**
+44,4930,*Wills, Leonard Johnston*,**,**
+44,4931,*Wilson, Charles William, Jr.*,**,**
+44,4931,*Frank, J. G.*,**,**
+44,4932,*Wilson, Charles William, Jr.*,**,**
+44,4932,*Frank, J. G.*,**,**
+44,4933,*Wilson, John Andrew*,**,**
+44,4934,*Wilson, John Andrew*,**,**
+44,4935,*Wilson, John Andrew*,**,**
+44,4936,*Wilson, John Andrew*,**,**
+44,4937,*Wilson, John Andrew*,**,**
+44,4938,*Wilson, Robert Warren*,**,**
+44,4939,*Wilson, Thomas*,**,**
+44,4940,*Wiman, Carl*,**,**
+44,4941,*Wiman, Carl*,**,**
+44,4942,*Wiman, Carl*,**,**
+44,4943,*Wiman, Carl*,**,**
+44,4944,*Winchester, Dean Eddy*,**,**
+44,4944,*Hares, C. J.*,**,**
+44,4944,*Lloyd, E. Russell*,**,**
+44,4944,*Parks, E. M.*,**,**
+44,4945,*Windels, Ferdinand*,**,**
+44,4946,*Windhausen, Heriberto*,**,**
+44,4947,*Winge, Herluf*,**,**
+44,4948,*Winge, Herluf*,**,**
+44,4949,*Winge, Herluf*,**,**
+44,4950,*Wirth, F.*,**,**
+44,4951,*Wirth, H.*,**,**
+44,4952,*Wirz, Albert*,**,**
+44,4953,*Wissler, Clark*,**,**
+44,4954,*Wittich, Ernst Ludwig Maximilian Emil*,**,**
+44,4955,*Wolf, Benno*,**,**
+44,4956,*Wolfson, Albert*,**,**
+44,4957,*Wolfson, Albert*,**,**
+44,4958,*Wood, Albert Elmer*,**,**
+44,4959,*Wood, Albert Elmer*,**,**
+44,4960,*Wood, Albert Elmer*,**,**
+44,4961,*Wood, Albert Elmer*,**,**
+44,4962,*Wood, Florence Dowden*,**,**
+44,4963,*Wood, Horace Elmer, 2nd*,**,**
+44,4964,*Wood, Horace Elmer, 2nd*,**,**
+44,4965,*Wood, Horace Elmer, 2nd*,**,**
+44,4966,*Wood, Horace Elmer, 2nd*,**,**
+44,4967,*Wood, Horace Elmer, 2nd*,**,**
+44,4968,*Wood, H. E.*,**,**
+44,4968,*Camp, C. L.*,**,**
+44,4968,*Edinger, T.*,**,**
+44,4969,*Woodbury, George*,**,**
+44,4969,*Woodbury, Edna*,**,**
+44,4970,*Wood-Jones, Frederic*,**,**
+44,4971,*Wood-Jones, Frederic*,**,**
+44,4972,*Wood-Jones, Frederic*,**,**
+44,4973,*Wood-Jones, Frederic*,**,**
+44,4974,*Woods, H.*,**,**
+44,4975,*Woods, Robert S.*,**,**
+44,4976,*Woodward, (Sir) Arthur Smith*,**,**
+44,4977,*Woodward, (Sir) Arthur Smith*,**,**
+44,4978,*Woodward, (Sir) Arthur Smith*,**,**
+44,4979,*Woodward, (Sir) Arthur Smith*,**,**
+44,4980,*Woodward, (Sir) Arthur Smith*,**,**
+44,4981,*Wookey, D. M.*,**,**
+44,4982,*Worman, Eugene Clark, Jr.*,**,**
+44,4983,*Wormington, Hannah Marie*,*= Mrs. George D. Volk*,**
+44,4984,*Wormington, Hannah Marie*,*= Mrs. George D. Volk*,**
+44,4985,*Wormington, Hannah Marie*,*= Mrs. George D. Volk*,**
+44,4986,*Wormington, Hannah Marie*,*= Mrs. George D. Volk*,**
+44,4987,*Wright, George Frederick*,**,**
+44,4988,*Wright, George Frederick*,**,**
+44,4989,*Wright, George Frederick*,**,**
+44,4990,*Wright, George Frederick*,**,**
+44,4991,*Wright, George Frederick*,**,**
+44,4992,*Wright, George Frederick*,**,**
+44,4993,*Wright, George Frederick*,**,**
+44,4994,*Wright, George Frederick*,**,**
+44,4995,*Wright, Sewell*,**,**
+44,4998,*Yabe, Hisakatsu*,**,**
+44,4998,*Hatai, K. M.*,**,**
+44,4999,*Yagi, Teisuke*,**,**
+44,5000,*Yalcinlar, Ismail*,**,**
+44,5001,*Yalcinlar, Ismail*,**,**
+44,5002,*Yasumoto, Hiroshi*,**,**
+44,5003,*Yates, Lorenzo Gordin*,**,**
+44,5004,*Yates, Lorenzo Gordin*,**,**
+44,5005,*Yates, Lorenzo Gordin*,**,**
+44,5006,*Yates, Lorenzo Gordin*,**,**
+44,5007,*Yates, Lorenzo Gordin*,**,**
+44,5008,*Yates, Lorenzo Gordin*,**,**
+44,5009,*Yates, Lorenzo Gordin*,**,**
+44,5010,*Yates, Lorenzo Gordin*,**,**
+44,5011,*Yates, Lorenzo Gordin*,**,**
+44,5012,*Yates, Lorenzo Gordin*,**,**
+44,5013,*Yates, Lorenzo Gordin*,**,**
+44,5014,*Yates, Lorenzo Gordin*,**,**
+44,5015,*Yates, Lorenzo Gordin*,**,**
+44,5016,*Yates, Lorenzo Gordin*,**,**
+44,5017,*Yawata, Ichiro*,**,**
+44,5018,*Yawata, Ichiro*,**,**
+44,5019,*Yergason, R. M.*,**,**
+44,5020,*Young, Chung-Chien*,**,**
+44,5021,*Young, Chung-Chien*,**,**
+44,5022,*Young, Chung-Chien*,**,**
+44,5023,*Young, Chung-Chien*,**,**
+44,5024,*Young, Chung-Chien*,**,**
+44,5025,*Young, Chung-Chien*,**,**
+44,5026,*Young, Chung-Chien*,**,**
+44,5027,*Young, Chung-Chien*,**,**
+44,5028,*Young, Chung-Chien*,**,**
+44,5029,*Young, Chung-Chien*,**,**
+44,5030,*Young, Chung-Chien*,**,**
+44,5031,*Young, Chung-Chien*,**,**
+44,5032,*Young, Chung-Chien*,**,**
+44,5033,*Young, Chung-Chien*,**,**
+44,5034,*Young, Chung-Chien*,**,**
+44,5035,*Young, Chung-Chien*,**,**
+44,5036,*Young, Chung-Chien*,**,**
+44,5037,*Young, Chung-Chien*,**,**
+44,5038,*Young, Chung-Chien*,**,**
+44,5039,*Young, Chung-Chien*,**,**
+44,5040,*Young, Chung-Chien*,**,**
+44,5041,*Young, C.-c.*,**,**
+44,5041,*Peiho, T.-l.*,**,**
+44,5042,*Zakrevs'ka, Ganna*,**,**
+44,5043,*Zalessky, M. D.*,**,**
+44,5044,*Zamiatnin, S.*,*= Zamiatnine*,**
+44,5045,*Zangerl, Rainer*,**,**
+44,5046,*Zangerl, Rainer*,**,**
+44,5047,*Zangerl, Rainer*,**,**
+44,5048,*Zangerl, Rainer*,**,**
+44,5049,*Zangerl, Rainer*,**,**
+44,5050,*Zangerl, Rainer*,**,**
+44,5051,*Zangerl, Rainer*,**,**
+44,5052,*Zangerl, Rainer*,**,**
+44,5053,*Zangerl, Rainer*,**,**
+44,5054,*Zangerl, Rainer*,**,**
+44,5055,*Zangerl, Rainer*,**,**
+44,5056,*Zangerl, Rainer*,**,**
+44,5057,*Zangerl, Rainer*,**,**
+44,5058,*Zangerl, Rainer*,**,**
+44,5059,*Zapfe, Helmuth*,**,**
+44,5060,*Zapfe, Helmuth*,**,**
+44,5061,*Za%Azvorka, Vlastislav*,**,**
+44,5063,*Zbyszewski, Georges*,**,**
+44,5064,*Zbyszewski, Georges*,**,**
+44,5065,*Zbyszewski, Georges*,**,**
+44,5066,*Zbyszewski, Georges*,**,**
+44,5067,*Zbyszewski, Georges*,**,**
+44,5068,*Zbyszewski, Georges*,**,**
+44,5069,*Zbyszewski, Georges*,**,**
+44,5070,*Zbyszewski, Georges*,**,**
+44,5071,*Zbyszewski, Georges*,**,**
+44,5072,*Zbyszewski, Georges*,**,**
+44,5073,*Zbyszewski, Georges*,**,**
+44,5074,*Zbyszewski, Georges*,**,**
+44,5075,*Zbyszewski, Georges*,**,**
+44,5076,*Zbyszewski, G.*,**,**
+44,5076,*Camarate, F. J.*,**,**
+44,5077,*Zbyszewski, G.*,**,**
+44,5077,*Flaes, R.*,**,**
+44,5077,*Mendes Leal, M.*,**,**
+44,5077,*Rau, V.*,**,**
+44,5078,*Zbyszewski, G.*,**,**
+44,5078,*Viana, A.*,**,**
+44,5079,*Zbyszewski, G.*,**,**
+44,5079,*Viana, A.*,**,**
+44,5080,*Z%Jebera, K.*,**,**
+44,5081,*Zemliakov B. F.*,*= Zemljakow*,**
+44,5082,*Zemliakov B. F.*,*= Zemljakow*,**
+44,5083,*Zemliakov B. F.*,*= Zemljakow*,**
+44,5084,*Zeuner, Friedrich Eberhard*,**,**
+44,5085,*Zeuner, Friedrich Eberhard*,**,**
+44,5086,*Zeuner, Friedrich Eberhard*,**,**
+44,5087,*Zeuner, Friedrich Eberhard*,**,**
+44,5088,*Zeuner, Friedrich Eberhard*,**,**
+44,5089,*Zeuner, Friedrich Eberhard*,**,**
+44,5090,*Zeuner, Friedrich Eberhard*,**,**
+44,5091,*Zeuner, Friedrich Eberhard*,**,**
+44,5092,*Zeuner, Friedrich Eberhard*,**,**
+44,5093,*Zeuner, Friedrich Eberhard*,**,**
+44,5094,*Zeuner, Friedrich Eberhard*,**,**
+44,5095,*Zeuner, Friedrich Eberhard*,**,**
+44,5096,*Zeuner, Friedrich Eberhard*,**,**
+44,5097,*Zeuner, Friedrich Eberhard*,**,**
+44,5098,*Zeuner, Friedrich Eberhard*,**,**
+44,5099,*Zeuner, Friedrich Eberhard*,**,**
+44,5100,*Zeuner, Friedrich Eberhard*,**,**
+44,5101,*Zonneveld, J. I. S.*,**,**
+44,5102,*Zorzi, Francesco*,**,**
+44,5103,*Zorzi, F.*,**,**
+44,5103,*Pasa, A.*,**,**
+44,5104,*Zotz, Lothar Friedrich*,**,**
+44,5106,*Zotz, Lothar Friedrich*,**,**
+44,5107,*Zotz, Lothar Friedrich*,**,**
+44,5108,*Zotz, Lothar Friedrich*,**,**
+44,5109,*Zotz, Lothar Friedrich*,**,**
+44,5110,*Zotz, Lothar Friedrich*,**,**
+44,5111,*Zotz, Lothar Friedrich*,**,**
+44,5112,*Zotz, Lothar Friedrich*,**,**
+44,5113,*Zotz, Lothar Friedrich*,**,**
+44,5114,*Zotz, Lothar Friedrich*,**,**
+44,5115,*Zotz, Lothar Friedrich*,**,**
+44,5116,*Zotz, Lothar Friedrich*,**,**
+44,5117,*Zotz, Lothar Friedrich*,**,**
+44,5118,*Zotz, Lothar Friedrich*,**,**
+44,5119,*Zotz, Lothar Friedrich*,**,**
+44,5120,*Zotz, Lothar Friedrich*,**,**
+44,5121,*Zuckerman, Solly*,**,**
+44,5122,*Zuidema, Henry P.*,**,**
+44,5123,*Desor, Pierre Jean Edouard*,**,**
+

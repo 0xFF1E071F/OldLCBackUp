@@ -1,0 +1,88 @@
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResolveAssemblyReference.cache
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.vbproj.GenerateResource.Cache
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+I:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResolveAssemblyReference.cache
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.read.1.tlog
+G:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.write.1.tlog
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.read.1.tlog
+H:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.write.1.tlog
+E:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+E:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+E:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResolveAssemblyReference.cache
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.read.1.tlog
+F:\Ch4 Health Club Fee sp11 wan\Ch4 Health Club Fee sp11 wan\obj\Debug\ResGen.write.1.tlog
+H:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+H:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+H:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+E:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+E:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+E:\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall12 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall13 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall13 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\private\CS131 Spring_fall 2013\Ch5 Health Club Fee fall13 class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\private\CS131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\private\CS131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\private\CS131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+P:\cs131Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+P:\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\bin\Debug\Ch4 Health Club Fee sp11 wan.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 11Ch5 Health Club Fee  class\Ch4 Health Club Fee sp11 wan\obj\Debug\Ch4 Health Club Fee sp11 wan.exe

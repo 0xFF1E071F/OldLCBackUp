@@ -1,0 +1,1742 @@
+*Hay1*,4,*Describes ^Arctosaurus osborni^ Adams*
+*Hay1*,9,*Descriptions of ^Dinictis fortis^ and ^D. bombifrons^*
+*Hay1*,11,*Describes new species ^H. insolens^ and ^H. robustus^*
+*Hay1*,12,*Abstract in Princeton Univ. Bull., ix, pp. 16-17, 1897*
+*Hay1*,14,*Description of new genus ^Megalichthys^, type ^M. hibberti^*
+*Hay1*,17,*This work was issued in livraisons at various times from 1833 to 1844.  The dates of publication of the livraisons and of the plates are given in Woodward and Sherborn's Catalogue of British Fossil Vertebrates, pp. xxv-xxix.  Under the genera and speci*
+*Hay1*,21,*From Monographie des poissons foss. du vieux gre%Cs rouge*
+*Hay1*,23,*Contains no descriptions*
+*Hay1*,24,*Said by Professor Agassiz to be found for the first time in this country*
+*Hay1*,25,*No adequate description and no specific name*
+*Hay1*,29,*Describes 11 new species of Elasmobranchs.  The same species were described and figured in Pacific Survey Report, v, pp. 313-316, pl. i*
+*Hay1*,30,*Contains descriptions and figures of 11 new species of Elasmobranchs*
+*Hay1*,31,*The plates are found in vol. ii.  This volume is devoted mostly to the embryology of the ^Testudinata^*
+*Hay1*,32,*Refers to the discovery of ^Eosaurus^ by O. C. Marsh; no name yet proposed*
+*Hay1*,33,*Editorial note supposed to have been written by Agassiz*
+*Hay1*,38,*Presents an arrangement of the families of the ^Carnivora^*
+*Hay1*,52,*Mem. Mus. Comp. Zool., iv, No. 10, pp. i-ix; 1-246, with pls. i-xii and map*
+*Hay1*,54,*No. ii, ^Leporidae^, pp. 265-378; No. iii, ^Hystricidae^, pp. 379-398; No. iv, ^Lagomyidae^, pp. 399-414; No. v, ^Castoroididae^, pp. 415-426; No. vi, ^Castoridae^, pp. 427-454; No. xi, ^Sciuridae^, pp. 631-940*
+*Hay1*,55,*This list forms a portion of the volume containing J. A. Allen's and E. Coues's monographs of N. A. ^Rodentia^.  In this list most of the species are mentioned without comment*
+*Hay1*,56,*See also Nature, vol. xviii, pp. 204-205; Amer. Jour. Sci., 1878, xv, p. 381.  Describes ^Palaeospiza bella^*
+*Hay1*,57,*Presents the synonomy and the literature bearing on this genus and its species*
+*Hay1*,60,*Describes ^Pachycyon robustus^, Allen.  This paper is followed (pp. 8-13) by one by N. S. Shaler on the age of the cave*
+*Hay1*,61,*Describes ^Squaladon tiedemani^, sp. nov.*
+*Hay1*,66,*Appended is a list of 36 papers bearing on the subject*
+*Hay1*,70,*^Cephalaspis^, ^Pteraspis^, ^Cyathaspis^, and ^Coccosteus^*
+*Hay1*,82,*Many new genera and species described.  Contains brief references to papers by Prof. O. C. Marsh and Dr. J. L. Wortman on the ^Taeniodontia^.  Reviewed by M. Schlosser in Neues Jahrb. Min., 1900, ii, pp. 296-306*
+*Hay1*,83,*A translation of the original paper, which was published in La Plata, Argentina, 1898*
+*Hay1*,87,*From reports of meeting of Amer. Assoc. Adv. Sci.*
+*Hay1*,88,*Editorial comment on discoveries in Colorado by C. D. Walcott*
+*Hay1*,89,*Editorial note regarding finding of bones of the mastodon in Rockingham County, Va.*
+*Hay1*,91,*Editorial comment on C. D. Walcott's Lower Silurian fishes*
+*Hay1*,92,*Editorial comment on paper by M. Max. Lohest presented before the International Geological Congress at Belgium*
+*Hay1*,93,*Notes on the finding of various vertebrates in Florida by Dr. J. Kost, and of ^Megalonyx^ in Tennessee by Professor Safford*
+*Hay1*,94,*Editorial comment on Professor Cope's paper in Amer. Naturalist for October, 1891*
+*Hay1*,95,*A notice, taken from the New York Times, regarding the finding of teeth of mastodon at Sharon, Conn.*
+*Hay1*,96,*Found in Connecticut*
+*Hay1*,97,*Extract from Mobile Daily Advertiser of May 23, 1845.  Refers to skeleton found by Dr. Koch*
+*Hay1*,99,*See King, A. T. 1845 A*
+*Hay1*,101,*An unsigned editorial*
+*Hay1*,102,*Editorial note on paper by R. Owen, in Proc. Acad. Phila., iii, pp. 93-96. 1846. (Owen, R. 1846 A.)*
+*Hay1*,104,*An editorial notice of Dr. Warren's book*
+*Hay1*,105,*Editorial notice of Lea's paper in Jour. Acad. Nat. Sci. Phila. (2), ii, pt. 3*
+*Hay1*,106,*An editorial notice of Dr. Warren's work on the mastodon*
+*Hay1*,107,*Editorial note on occurrence of fossil elephant at Zanesville, Ohio*
+*Hay1*,109,*Editorial notice of Cope's paper with above title, in Amer. Phil. Soc., xii, p. 420*
+*Hay1*,111,*Editorial notice of announcement by Professor Cope*
+*Hay1*,112,*Editorial notice*
+*Hay1*,113,*Editorial notice of paper by Professor Lockwood*
+*Hay1*,114,*A note without signature*
+*Hay1*,115,*Extract from Nature*
+*Hay1*,116,*Notice of exhibition of skull of walrus by Professor Newberry*
+*Hay1*,117,*See also Ottawa Naturalist, v, pp. 74-77, for abstract*
+*Hay1*,122,*Treats of ^Holoptychius^, etc.*
+*Hay1*,124,*Contains remarks on North American genera ^Lepidosteus^, ^Clastes^, ^Amia^, ^Pappichthys^*
+*Hay1*,133,*Describes what appears to have been the skeleton of a mastodon*
+*Hay1*,134,*Found in Ohio*
+*Hay1*,136,*Also in Nat. Hist. Trans. Northumberland and Durham, iii, 1868, pp. 54-66, pls. i-iii.  Here the paper is credited to Hancock and Atthey*
+*Hay1*,137,*Also in Nat. Hist. Trans. Northumberland and Durham, iii, 1868, pp. 306-309*
+*Hay1*,140,*See reply to this on p. 244, same volume*
+*Hay1*,159,*Part I.  On the genus ^Ctenodus^, a fish found in the true Coal Measures of Great Britain [pp. 99-109].  Part II.  On the microscopic structure of the mandibular and palatal teeth of ^Ctenodus^ [pp. 110-115].  Part III.  On the vomerine teeth of ^Cteno*
+*Hay1*,160,*Part V.  On the sphenoid cranial bones, operculum, and supposed ear bones of ^Ctenodus^ [pp. 51-57].  Part VI.  On the scapula?, coracoid, ribs, and scales of ^Ctenodus^ [pp. 58-64]*
+*Hay1*,170,*Treats of the structure and development of the fin rays*
+*Hay1*,171,*Although describing only European species this paper contains much of general interest to students of this group*
+*Hay1*,172,*Treats of the shoulder girdle, the pelvic girdle, and auditory bones*
+*Hay1*,173,*Author's copies of this paper were issued in 1882 as an "Inaugural-Dissertation zur Erlangung der Doctorwu%Frde der philosopischen Faculta%Ft der Universita%Ft Mu%Fnchen," pp. 1-44, pls. xix and xx*
+*Hay1*,188,*See also Morphologisches Jahrbuch, xi, pp. 117-118*
+*Hay1*,189,*Contains a "morphological table" and a list of papers on the carpus and tarsus*
+*Hay1*,190,*Cites the literature of the subject and gives the results of the author's own observations on the different groups of mammals*
+*Hay1*,191,*Also in Sitzungsber. Gesellsch. Morphol. und Physiol. Mu%Fnchen, 1886, pp. 45-57*
+*Hay1*,193,*Compare Baur, G., 1886 I*
+*Hay1*,198,*See correction in Anat. Anzeiger, vol. ii, p. 657*
+*Hay1*,199,*Compare Baur, G., 1886 C*
+*Hay1*,204,*Also in Sitzungsbericht der Gesellschaft fu%Fr Morphologie und Physiologie, Mu%Fnchen, 1887, pp. 44-61*
+*Hay1*,207,*Noticed in Geol. Magazine, 1888, v. p. 325*
+*Hay1*,209,*Pagination taken from an author's separate; the original "Bericht" not seen*
+*Hay1*,210,*Discusses the origin of carapace and plastron of ^Testudinata^*
+*Hay1*,212,*Appended is a list of books, memoirs, etc., 80 in number, which treat of the subject discussed by the author*
+*Hay1*,219,*A review of Newton's paper in Phil. Trans. Roy. Soc., vol. 179, p. 303 (1888), on ^Scaphognathus^*
+*Hay1*,228,*Followed by short note by Prof. E. D. Cope*
+*Hay1*,233,*Contains a list of 32 papers cited.  A review of this paper by Dames is found in Neues Jahrb. Min., etc., 1893, i, Ref., pp. 545-547*
+*Hay1*,236,*In the "addition" to his note, on page 245, Dr. Baur made some modifications of his views as expressed on pp. 40-44*
+*Hay1*,239,*Describes new genus and species ^Hyporhina antiqua^; new family ^Hyporhinidae^*
+*Hay1*,240,*Includes a list of the titles of 24 papers on the subject discussed*
+*Hay1*,242,*A review of Prof. Rich. Owen's paper in the Trans. Geol. Soc., ser. 2, vol. v, pp. 511-514*
+*Hay1*,244,*Announces the finding of a hitherto unrecognized bone in the lower jaw of reptiles, the ^prespleniale^*
+*Hay1*,246,*See also pp. 327-329; 411-412*
+*Hay1*,248,*Contains description of the osteology of this group and the titles of 34 papers and books relating to the subject*
+*Hay1*,249,*A review of Otto Jaekel's paper on "Die Organization von ^Archegosaurus^," and a discussion of the composition of the vertebral column*
+*Hay1*,251,*Abstract in Science (2), v, pp. 592-593*
+*Hay1*,252,*Appended is a list of titles of works on the subject, 70 in number*
+*Hay1*,258,*Found, latitude 77[deg] 16' N., longitude, 96[deg] W.*
+*Hay1*,259,*See also Science vii (n. s.), p. 80*
+*Hay1*,264,*Letter containing extract from Albert Koch's "Description of the ^Missourium^, or Missouri Leviathan, together with its supposed habits and Indian tradition."  London, E. Fisher, 1841*
+*Hay1*,267,*See also Nature, viii, p. 385*
+*Hay1*,269,*Refers to the finding of a tooth of ^Elephas primigenius^ at Polk City*
+*Hay1*,273,*Mentions the finding of teeth of certain dinosaurs*
+*Hay1*,274,*The literature of the subject is presented, p. 135*
+*Hay1*,278,*See also Ann. Sci. Nat. (2), xi, pp. 113-122*
+*Hay1*,281,*This important work was issued in livraisons from 1839 to 1864.  Hence, in the citations found in the catalogue of species, this year, 1864, must be regarded as arbitrary*
+*Hay1*,286,*The species not determined*
+*Hay1*,287,*No genera or species designated*
+*Hay1*,288,*Calls attention to the finding of teeth and tusks of elephants in Alaska; also gives localities in California where such remains have been discovered*
+*Hay1*,293,*Records occurrence of ^Elephas primigenius^(?) at Yuma*
+*Hay1*,298,*Contains notes on the finding of the mammoth and the mastodon*
+*Hay1*,299,*Appended is a list of 75 memoirs and papers on the subject*
+*Hay1*,303,*Refers (p. 427) ^Bison latifrons^ to ^Urus priscus^*
+*Hay1*,305,*Appended is a list of authors and works referred to, 14 in number*
+*Hay1*,312,*Dr. Baur's note occurs in Zoolog. Anzeig., Aug., 1888*
+*Hay1*,331,*No specific name is applied to the fishes described.  They are now known as ^Gonatodus brainerdi^ (Newb.)*
+*Hay1*,344,*Abhandlung 3 considers the question of the specific identity of the beaver of America with that of the Old World; also the variation of certain bones of the beaver's skull.  Abhandlung 4 treats of the gradual advances in the classification of the roden*
+*Hay1*,351,*Contains an account of the literature of the subject*
+*Hay1*,354,*See also pt. ii, pp. 508-543*
+*Hay1*,374,*Reprinted in Amer. Naturalist, iv, p. 60.  Found in Bates County, Mo., 31 feet below the surface; said by Leidy to belong to an extinct species*
+*Hay1*,375,*Tooth of extinct ox found in Missouri; also in Illinois.  Probably ^Bos latifrons^*
+*Hay1*,376,*Mentions numerous localities in North America where the bones of the mastodon have been found*
+*Hay1*,379,*The figure gives a restoration of this remarkable Elasmobraneh*
+*Hay1*,380,*This paper is devoted to the description of the structure and relationships of the genus ^Pleuracanthus^, and especially the species ^P. gaudryi^*
+*Hay1*,381,*Vol. i contains an account of palaeontology up to the period of the chalk*
+*Hay1*,382,*Vol. ii contains the palaeontology from the beginning of the Cretaceous to the recent period*
+*Hay1*,393,*Vol. i contains the text, consisting of 443 pages.  Vol. ii contains the pls. i-lxix, the explanation of the plates, and the index*
+*Hay1*,394,*Reprinted in Edinburgh New Philos. Jour., vol. xxxv, pp. 77-79, 1843*
+*Hay1*,395,*Abstract of this paper printed in Neues Jahrbuch fu%Fr Mineralogie, 1847, pp. 510-512*
+*Hay1*,397,*Cites the literature of the subject*
+*Hay1*,400,*See also Ann. and Mag. Nat. Hist. (3), xiv, pp. 81-97*
+*Hay1*,412,*For supplementary volume see Burmeister, H., 1889 A*
+*Hay1*,413,*In this monograph are described the genera ^Panochthus^, ^Hoplophorus^, ^Glyptodon^, and ^Daedicurus^.  This monograph was issued in parts at intervals between 1870 and 1874*
+*Hay1*,419,*Printed in both Spanish and German.  A supplement to Burmeister H., 1875 A*
+*Hay1*,422,*Refers to finding of bones of mammoth in Rochester, N. Y*
+*Hay1*,424,*This paper is divided into the following heads: Praefatio, 250-252; De cranio bisontis fossili, 252-254; De bubalo giganteo, 254-257; De molaribus elephantorum giganteorum et eorum ossibus, 257-258; De dentibus Hippopotamorum giganteorum, 258; De alcib*
+*Hay1*,425,*See also "Informal Notes" on pp. 190 and 215 of same volume.  These "Informal Notes" were published in 1889*
+*Hay1*,426,*Refers to the finding of ^Ornithomimus velox^*
+*Hay1*,435,*A description of ^Dimetrodon incisivus^*
+*Hay1*,440,*The species of this paper were described by Cope, but few of them were figured.  The original descriptions are reproduced and figures of many of them are given by Case.  Several bones are figured without being identified.  The species originally belong*
+*Hay1*,441,*Extract from Salt Lake Tribune, May 16, 1871*
+*Hay1*,444,*Contains a list of the specimens of this bird and of its skeletons and eggs in the various museums of the world.  See also note by Dr. J. E. Gray, on p. 319; by Dr. P. L. Sclater, on p. 320; and on p. 393, by A. von Pelzeln, all of the same volume*
+*Hay1*,445,*Announces finding of remains of ^M. ohioticus^ (?) at place named above*
+*Hay1*,447,*Denies propriety of establishing ^Leiodon^*
+*Hay1*,452,*A list of the species found, among which are 10 vertebrates*
+*Hay1*,453,*Descriptions of vertebrates, pp. 58-63, pls. vii, viii.*
+*Hay1*,454,*In this Bulletin are described the four new species of fishes ^Dinichthys newberryi^, ^Palaeoniscus devonicus^, ^Acanthodes?  pristis^, and ^Pristacanthus vetustus^*
+*Hay1*,455,*Description and figures of ^Coccosteus?  halmodeus^*
+*Hay1*,456,*This paper appeared also in the 49th Ann. Report of the N. Y. State Museum.  Names ^Dinichthys newberryi^, ^Acanthodes priscus^, and ^Palaeoniscus devonicus^ as occurring in the Portage group*
+*Hay1*,459,*Describes and figures ^Pterichthys rugosus^*
+*Hay1*,460,*New genus and species ^Palaeaspis americana^ and ^P. bitruncata^*
+*Hay1*,462,*Abstract of paper presented*
+*Hay1*,469,*Describes ^Gorgonichthys clarki^*
+*Hay1*,470,*Abstract of paper read before the Geological Society of America, 1892*
+*Hay1*,475,*Extract from paper in Quarterly Jour. Geol. Soc., 1892*
+*Hay1*,477,*A popular description of ^Dinichthys^, ^Titanichthys^, and ^Gorgonichthys^*
+*Hay1*,478,*Descriptions of ^D. lincolni^, ^D. clarki^, and ^D. gracilis^*
+*Hay1*,484,*Notes the discovery of three individuals of the mastodon at Cincinnati, Ohio.  Two of these possessed two lower incisors*
+*Hay1*,486,*See also Report Brit. Assoc. Adv. Sci., 1895, p. 694*
+*Hay1*,487,*See also Report Brit. Assoc. Adv. Sci., 1895, p. 695*
+*Hay1*,489,*This distinction is a warded to ^Onchus clintoni^*
+*Hay1*,491,*Description and figs. of portions of a new species, ^T. brevis^*
+*Hay1*,500,*Taken from Geological Report of Indiana for 1880*
+*Hay1*,501,*Reprint, pp. 1-14, with pls. i, ii*
+*Hay1*,507,*On page 96 there is a list of 8 species of fossil tracks which have been found in New Jersey*
+*Hay1*,510,*Abstract in Edinb.  New Philos. Jour. 1828, v, pp. 327-329*
+*Hay1*,517,*Same as preceding*
+*Hay1*,518,*This paper is supplementary to "Newberry and Worthen, 1866 A."*
+*Hay1*,519,*Remarks on ^Rhytidodon^, ^Clepsisaurus^, and ^Mastodonsaurus durus^*
+*Hay1*,522,*Notes the finding of ^Pterodactylus longispinis^, afterwards described as ^Rhabdopelix longispinis^*
+*Hay1*,523,*In this paper Harlan's ^Delphinus calvertensis^ is assigned to ^Pontoporia^*
+*Hay1*,526,*Species collected in Charles County, Md.*
+*Hay1*,529,*Describes ^Elasmosaurus platyurus^*
+*Hay1*,532,*Page 68 of John L.  Le Conte's "Notes on the geology of the survey for the extension of the Union Pacific Railway, E. D., from the Smoky Hill River, Kansas, to the Rio Grande," Philadelphia, Feb., 1868.  Contains description of ^Elasmosaurus platyurus^*
+*Hay1*,543,*The letter of the State geologist to the governor (page v.) shows that this volume could not have been issued before 1869*
+*Hay1*,545,*Reprint in Amer. Jour. Sci. (2), xlviii, p. 278.  Noticed in The Geolog. Magazine, vol. vi, (1869), p. 476, and vol. vii (1870), p. 427*
+*Hay1*,546,*Noticed in Jour. de Zoologie, i, pp. 168-169*
+*Hay1*,554,*A synopsis appeared in Jour. de Zoologie, i, pp. 182-187, 381-387, 508-510, with pls. xi.  Of this memoir only pp. 1-104 were issued in the year 1869; pp. 105-234 appeared in April, 1870, while the remainder was issued in December, 1870.  The imprint o*
+*Hay1*,555,*See remark under Cope, 1869, B*
+*Hay1*,556,*Only ^Anoplonassa forcipata^ is described in this extract from a Boston newspaper*
+*Hay1*,557,*Extract from Cope's "Extinct Reptilia and Aves."  Reprinted in Ann. and Mag. Nat. Hist. (4), vol. v, pp. 454-455*
+*Hay1*,565,*Reprinted in Ann. Mag. Nat. Hist., 1870, vi, pp. 498-500*
+*Hay1*,568,*Abstract of in Amer. Naturalist, iv, p. 695*
+*Hay1*,572,*Abstract in Amer. Jour. Sci. (3), i, p. 386, 1871*
+*Hay1*,576,*This paper contains a list of species of American turtles known at that date*
+*Hay1*,577,*Names are given of certain fossils, but no adequate descriptions*
+*Hay1*,578,*Notice of in Ann. and Mag. Nat. Hist. (4), vol. vii, pp. 67-68*
+*Hay1*,584,*Discusses position of the genus ^Diastichus^, which was afterwards put among the ^Cyprinidae^*
+*Hay1*,592,*Refers to the finding of bones in Port Kennedy cave*
+*Hay1*,593,*Relative to paper read before Amer. Philos. Soc. (Cope, E. D., 1872 J.), correcting date*
+*Hay1*,595,*See also Amer. Naturalist, v. pp. 579-593; Ann. and Mag. Nat. Hist. (4), ix, pp. 155-168; Trans. Amer. Philos. Soc., xiv, pp. 445-461*
+*Hay1*,596,*Abstract of Cope, 1871 D*
+*Hay1*,597,*Issued Aug. 7, 1872, as Pal. Bull. No. 3; reprinted in Proc. Amer. Philos. Soc., Jan., 1873*
+*Hay1*,600,*Describes ^Cynocercus incisivus^*
+*Hay1*,603,*^Ornithochirus umbrosus^ and ^O. harpyia^ are described*
+*Hay1*,605,*Issued as Pal. Bull. No. 1, July 29, 1872; reprinted in Proc. Amer. Phil. Soc., January, 1873*
+*Hay1*,606,*This forms Pal. Bull. No. 2, and was issued Aug. 3, 1872; reprinted in Proc. Amer. Philos. Soc., 1873, January (See Cope, 1873 V)*
+*Hay1*,607,*Besides the new genus of Pleurodiran turtle ^Notomorpha^, with 3 species, Cope here describes the perissodactyle ^Notharctus vasacciensis^*
+*Hay1*,609,*This forms Pal. Bull. No. 4, published Aug. 12, 1872; reprinted in Amer. Philos. Soc. Proc., Jan., 1873*
+*Hay1*,610,*This forms Pal. Bull. No. 6, published Aug. 20, 1872; reprinted Jan., 1873, in Proc. Amer. Philos. Soc.  (See Cope, 1873 V.)*
+*Hay1*,611,*Published in part Aug. 22, 1872, as Pal. Bull. No. 7; reprinted in Proc. Amer. Philos. Soc., Jan., 1873.  (See Cope, 1873 V.)  The description of ^Anaptomorphus aemulus^ forms Pal. Bull. No. 8, Oct., 1872, ^fide^ Cope, 1873 V*
+*Hay1*,613,*Issued also as Pal. Bull. No. 8, Oct. 12, 1872.  Describes ^Anaptomorphus aemulus^*
+*Hay1*,614,*This constitutes Pal. Bull. No. 9, published Oct., 1872; reprinted Jan., 1873, ^fide^ Cope, 1873 V*
+*Hay1*,615,*With conjectural corrections of specific names.  Published Aug. 1, 1872, ^fide^ Cope, 1873 V. Reprinted, with corrections, in Proc. Amer. Philos. Soc., xii, p. 580.  (Cope, E. D., 1872 II.)*
+*Hay1*,618,*Describes ^Eschrichtius davidsonii^*
+*Hay1*,619,*Reprinted in Amer. Jour. Sci. (3), iv, pp. 238-239; Amer. Naturalist, vi, p. 438*
+*Hay1*,627,*Followed by a note of the secretary, correcting errors in the original, which was issued as Pal. Bull. No. 5.  (Cope, E. D., 1872 W.)*
+*Hay1*,629,*The group of which ^Eobasileus cornutus^ is type*
+*Hay1*,630,*Describes ^M. armatus^*
+*Hay1*,631,*Refers to ^Amyzon mentale^ and ^Trichophanes hians^*
+*Hay1*,632,*Slip from the "Proc. Phil. Soc., Philadelphia," published on Feb. 7.  Followed by remarks by "Eds."  The original not found in the Proc. Amer. Philos. Soc., Phila.*
+*Hay1*,633,*Also issued as Pal. Bull. No. 11*
+*Hay1*,634,*Describes ^AElurodon mustelinus^ and ^Acerotherium megalodus^*
+*Hay1*,637,*For extract see Jour. de Zoologie, ii, 1873, pp. 168-184, pl. vii, followed by remarks by Paul Gervais*
+*Hay1*,644,*Descriptions of ^Trionyx heteroglyptus^ and ^Plastomenus thomasii^*
+*Hay1*,645,*Describes ^Portheus lestrio^ and ^P. gladius^ and the new genus ^Daptinus^*
+*Hay1*,650,*"Issued Aug. 20, 1873."  (Cope.)*
+*Hay1*,651,*"Published Aug. 20, 1873."  (Cope.)*
+*Hay1*,652,*Issued privately March 8, 1873.  Not reprinted*
+*Hay1*,655,*Forms, with slight changes, Palaeont. Bull. No. 13*
+*Hay1*,656,*Makes a correction regarding the teeth of ^Eobasileus cornutus^*
+*Hay1*,658,*This communication contains only eight lines*
+*Hay1*,660,*On the title page this paper is said to be extracted from the 7th Annual Report of the U. S. Geol. Surv. Terr., but it does not appear in that volume*
+*Hay1*,661,*Contains reports of the meeting of the Amer. Assoc. Adv. Sci. at Portland, Me. ^Miobasileus^, ^Symborodon^, and ^Eobasileus^ are referred to.  ^Symborodon acer^, ^S. bucco^, ^S. altirostris^, ^S. heloceros^ are more or less fully described*
+*Hay1*,662,*Reprinted in Ann. and Mag. Nat. Hist. (4), xiii, pp. 405-406.  Describes ^Symborodon torvus^, ^Miobasileus ophryas^, ^Symborodon acer^, and ^S. heloceras^*
+*Hay1*,663,*Chapter I.  Introduction, pp. 429-430.  II.  the Cretaceous period, pp. 431-456.  III.  The Eocene period, pp. 456-461.  IV.  The Miocene period, pp. 461-518.  V.  The Loup Fork epoch, pp, 518-532.  An abstract of this paper appeared in Jour. de Zoolog*
+*Hay1*,666,*On ^Poe%Fbrotherium^, etc.*
+*Hay1*,670,*Also in Palaeont.  Bull. No. 18*
+*Hay1*,673,*Also issued separately with pp. 1-18*
+*Hay1*,675,*Reprinted from The Penn Monthly, v, 1874, pp. 138-145*
+*Hay1*,676,*In order to make the pagination of the ^separata^ correspond to that of the Engineer's Report add 588.  This paper also forms "Appendix FF[sub]3" (pp 115-130) of "Appendix FF" of the Annual Re port of the Chief of Engineers for 1874*
+*Hay1*,677,*Includes also "Supplement.  Additions to the synopsis of new ^Vertebrata^ from the Territory of Colorado, 1873," pp. 22-28*
+*Hay1*,678,*^B. ingens^ is regarded as a synonym of ^Symborodon trigonoceras^*
+*Hay1*,680,*This species of ^Ctenodus^ is without name, but it was afterwards called ^C. ohioensis^*
+*Hay1*,681,*The skull of ^Eobasileus^ was from Wyoming; that of the fossil walrus from Accomac Harbor, Va.*
+*Hay1*,687,*The pagination here given is that of the ^separata^.  To make this correspond with that of the complete report 920 must be added.  Same as Cope, 1875 U, with different pagination*
+*Hay1*,697,*From Palaeontological Bulletin No. 19*
+*Hay1*,700,*Refers ^Cathartes umbrosus^ to ^Vultur^*
+*Hay1*,701,*Reprinted in Ann. and Mag. Nat. Hist. (4), xvii, 178-184.  According to Prof. Cope (Cope, 1888 BB, p. 286) this paper was not issued until 1876*
+*Hay1*,706,*It is stated in this bulletin that it was published Dec. 22, 1875*
+*Hay1*,707,*Reprinted in Amer. Jour. Sci. (3), xii, pp. 306-307, and in Jour. de Zoologie., v, 1876, pp. 264-267.  Describes ^Diatryma gigantea^*
+*Hay1*,709,*Forms Palaeontological Bulletin No. 21.  A translation of this paper appeared in Jour. de Zoologie, v, 1876, pp. 307-311*
+*Hay1*,712,*Describes ^Protolabis^*
+*Hay1*,713,*Issued also as Pal. Bull. No. 22, pp. 1-14*
+*Hay1*,714,*Issued also as Pal. Bull. No. 23, pp. 1-20*
+*Hay1*,715,*Issued as part of Pal. Bull. No. 24*
+*Hay1*,716,*Issued as part of Pal. Bull. No. 24.  Describes ^Dystrophaeus viaemalae^*
+*Hay1*,717,*Also as part of Pal. Bull. No. 24.  Describes ^Caenobasileus tremontigerus^.  This genus and species were withdrawn in Cope, E. D., 1889 J., p. 207*
+*Hay1*,718,*Issued also as part of Pal. Bull. No. 26*
+*Hay1*,719,*Not published until March 1, 1878.  Issued as part of Pal. Bull. No. 26.  This was "printed Nov. 20, 1877."*
+*Hay1*,722,*Describes ^Laelaps trihedrodon^*
+*Hay1*,729,*Contains on p. 41 definitions of the subclasses of fishes, including the new class ^Hyopomata^*
+*Hay1*,730,*Issued as part of Palaeontological Bulletin No. 25.  Describes ^Amiphiemys oxysternum^*
+*Hay1*,731,*Describes ^Camarasaurus supremus^*
+*Hay1*,733,*Describes brain of ^Coryphodon^*
+*Hay1*,735,*Brief reference to the discovery of ^Elasmosaurus orientalis^*
+*Hay1*,737,*Brief description of "^Camaeosaurus^" ^supremus^*
+*Hay1*,738,*Refers to ^Palaeoctonus appalachianus^, described in Proc. Amer. Phil. Soc., 1877, xvii, p. 182 (Cope, 1877 E)*
+*Hay1*,740,*A list, without descriptions, of fossil fishes found in Wyoming*
+*Hay1*,742,*Also part of Pal. Bull. No. 29*
+*Hay1*,743,*Issued also as part of Pal. Bull. No. 28*
+*Hay1*,744,*Issued also as part of Pal. Bull. No. 28*
+*Hay1*,745,*Refers to discovery of ^Camarasaurus^ and ^Amphicoelias^*
+*Hay1*,749,*Issued as Pal. Bull. No. 28*
+*Hay1*,750,*A brief note*
+*Hay1*,751,*A brief note on the views of Professor Owen on the ^Dinosauria^*
+*Hay1*,754,*Brief notice of ^M. campester^*
+*Hay1*,756,*Brief notice of ^Ticholeptus^*
+*Hay1*,758,*Brief notice of discovery of ^Hypsirophus^*
+*Hay1*,760,*Reply to Prof. O. C. Marsh, in Nature, vol. xvii, p. 340*
+*Hay1*,761,*Notes discovery of ^Diadectes^, ^Parioxys^, ^Trimerorhachis^, etc*
+*Hay1*,762,*Reprinted in Ann. and Mag. Nat. Hist. 5, vol. ii, p. 194.  Notice of discovery of ^Epanterias^*
+*Hay1*,763,*Refers to paper by Professor Marsh in Amer. Jour. Science, May, 1878*
+*Hay1*,765,*Describes ^A. fragillimus^*
+*Hay1*,766,*Describes ^D. molaris^*
+*Hay1*,771,*Announces the discovery of fossil reptiles in Cretaceous and Tertiary deposits in Georgia*
+*Hay1*,773,*Describes ^Cariacus dolichopsis^*
+*Hay1*,777,*An adaptation of this paper was published in Amer. Naturalist, xiii, 1879, pp. 771a-771j, with 8 woodcuts*
+*Hay1*,778,*Also in Pal. Bull. No. 30, pp. 1-16; said to have been issued Dec. 3, 1878*
+*Hay1*,779,*Not issued until January, 1880.  The same was issued as Pal. Bull. No. 31, pp. 1-7, Dec., 1879.  A notice of this paper with list of species described occurs in Amer. Naturalist, xiv, p. 60*
+*Hay1*,780,*Reprinted in Ann. and Mag. Nat. Hist. (5), vol. v, pp. 36-45, 92-107.  Contains list of genera and species of ^Felidae^, the genera of ^Canidae^, and descriptions of new species*
+*Hay1*,784,*A brief note calling attention to observation of Professor Snow and to his paper in Review of Science and Industry*
+*Hay1*,786,*Establishes the genus ^Anchisodon^*
+*Hay1*,787,*Notice of O. C. Marsh's genus, ^Sauranodon^*
+*Hay1*,789,*The genus ^Xiphotrygon^ established*
+*Hay1*,792,*Descriptions of ^Camarasaurus leptodirus^ and ^Hypsirophus seeleyanus^*
+*Hay1*,793,*Description of ^A. praestans^*
+*Hay1*,794,*A brief note giving a list of ten species of dogs furnished by the Truckee beds in Oregon*
+*Hay1*,795,*Reprinted in Ann. and Mag. Nat. Hist. (5), vol. v, pp. 260-261; Amer. Jour. Sci., 1880, xix, p. 155.  Describes ^Arctotherium simum^*
+*Hay1*,797,*A brief notice of the results of the expedition referred to in the title*
+*Hay1*,798,*Contains brief notice of excursions to Colorado and descriptions of ^Archaelurus debilis^ and ^Hoplophoneus platycopis^*
+*Hay1*,799,*Issued also as Pal. Bull. No. 32, pp. 1-22*
+*Hay1*,801,*Synopsis in Kosmos, x, pp. 299-300*
+*Hay1*,803,*Note on fossils collected by Russell S. Hill*
+*Hay1*,804,*New genus ^Pogonodon^ established*
+*Hay1*,805,*^H. spectans^, from Oregon, described*
+*Hay1*,807,*The genus ^Triplopus^ characterized*
+*Hay1*,809,*The genus ^Peraceras^ established*
+*Hay1*,811,*The new genus ^Caenopus^ proposed*
+*Hay1*,812,*Two new genera and nine new species proposed*
+*Hay1*,814,*Review of Traquair, 1879 A*
+*Hay1*,815,*A notice of the Geological Record for 1877, with citations of some errors*
+*Hay1*,820,*Describes ^Charadrius sheppardianus^*
+*Hay1*,822,*Brief notice in Amer. Naturalist, vol. xv, p. 74 (Cope, 1881 CC)*
+*Hay1*,826,*Issued also as Pal. Bull. No. 33*
+*Hay1*,830,*Notice of a paper read by J. F. Whiteaves*
+*Hay1*,831,*Notice of Dr. J. A. Allen's description of ^Palaeospiza bella^*
+*Hay1*,832,*Description of ^Peryptichus carinidens^ and ^Deltatherium fundaminis^, new genera and new species*
+*Hay1*,834,*Contains correction of dental formula of ^Hyaenocyon^ and proposal of new genus ^Oligobunis^*
+*Hay1*,835,*A catalogue of the known species, together with place of original description and the horizon of occurrence*
+*Hay1*,836,*Description of ^C. conodon^*
+*Hay1*,837,*Description of ^Triisodon quivirensis^ and ^Deltatherium absarokae^*
+*Hay1*,838,*A new species, ^Champsosaurus australis^, found in probably the Puerco*
+*Hay1*,839,*Descriptions of ^Conoryctes comma^, gen. et spec. nov., ^Catathlaeus rhabdodon^, gen. et spec. nov., and ^Mioclaenus turgidus^, gen. et spec. nov.*
+*Hay1*,840,*Description of ^Ptilodus mediaevus^, gen. et spec. nov*
+*Hay1*,841,*Descriptions of ^B. buceros^ and ^B. scolopax^*
+*Hay1*,842,*Refers ^Phenacodus^ to the ^Perissodactyla^*
+*Hay1*,843,*Refers ^Hyracotherium tapirinum^ to a new genus, ^Systemodon^*
+*Hay1*,844,*Describes ^Lipodectes penetrans^ and ^L. pelvidens^, new species, and establishes the genus ^Dissacus^*
+*Hay1*,845,*New species described, ^Eryops reticulatus^ and ^Zatrachys apicalis^*
+*Hay1*,847,*Consists of a notice of the paper Cope 1881 D, and contains description of ^Bathyopsis fissidens^ Cope*
+*Hay1*,848,*Issued also as part of Pal. Bul. No. 35*
+*Hay1*,849,*Issued also as part of Pal. Bull. No. 35*
+*Hay1*,850,*Also as part of Pal. Bull. No. 35*
+*Hay1*,851,*Issued also as part of Pal. Bull. No. 35.  Reprinted in Ann. and Mag. Nat. Hist. (5), xii, pp. 112-116*
+*Hay1*,852,*Issued also as Pal. Bull. No. 34.  For notices of this paper see Amer. Jour. Sci., vol. xxiii, p. 325*
+*Hay1*,853,*Reprinted in Ann. and Mag. Nat. Hist. (5), x, pp. 76-79*
+*Hay1*,858,*Reprinted in Ann. and Mag. Nat. Hist. (5), ix, p. 204.  Description of ^Mioclaenus brachystomus^*
+*Hay1*,859,*Reprinted in Ann. and Mag. Nat. Hist. (5), ix, pp. 205-206*
+*Hay1*,861,*Describes ^Anaptomorphus homunculus^*
+*Hay1*,862,*Refers to Prof. John Collett's "Geological Report of Indiana for 1880."*
+*Hay1*,863,*Describes ^Psittacotherium multifragum^*
+*Hay1*,868,*Description of ^Catopsalis foliatus^*
+*Hay1*,869,*Descriptions of ^Haploconus lineatus^ and ^Pantolambda bathmodon^, new genera and new species*
+*Hay1*,870,*Correction of the table of genera of ^Plagiaulacidae^*
+*Hay1*,871,*^Lipodectes penetrans^ is a synonym of ^Deltatharium fundaminis^.  ^D. absarokae^ is referred to ^Didelphodus^.  ^Oligotomus osbornianus^ is referred to ^Ectocion^*
+*Hay1*,873,*Description of ^Taeniolabis sulcatus^*
+*Hay1*,874,*^Polymastodon tao%Fensis^, gen. et spec. nov.; ^Ptilodus trovessartianus^, spec. nov.; ^Haploconus entoconus^, spec. nov.; and ^H. gillianus^ spec. nov.*
+*Hay1*,875,*Description of ^Meniscoe%Fssus conquistus^, gen. et spec. nov.*
+*Hay1*,876,*Describes ^Hemiganus vultuosus^, gen. et spec. nov.*
+*Hay1*,877,*^Periptychidae^, fam. nov. established; ^Hemithlaeus kowalevskianus^, gen. et spec. nov., and ^Anisonchus coniferus^ described*
+*Hay1*,878,*^Mioclaenus opisthacus^, ^M. baldwini^, ^Protogonia plicifera^, and ^Dissacus carnifex^ described*
+*Hay1*,879,*Notice of a paper by Prof. Jos. Le Conte*
+*Hay1*,880,*Genera ^Diacodexis^ and ^Heptodon^ established*
+*Hay1*,881,*A short note*
+*Hay1*,882,*Mention of ^Orthocynodon^ of Scott and Osborn*
+*Hay1*,885,*Address at the Amer. Assoc. Adv. Science, at Minneapolis, Minn.  Reprinted in ^Nature^, vol. xxix, pp. 227-230, 248-250*
+*Hay1*,886,*Abstract of paper read before Amer. Assoc. Adv. Sci.*
+*Hay1*,887,*Abstract of paper read*
+*Hay1*,888,*Abstract of paper read before A. A. A. S.*
+*Hay1*,890,*Issued also as part of Pal. Bull. No. 36*
+*Hay1*,891,*Issued also as part of Pal. Bull. No. 36*
+*Hay1*,892,*Reprinted in Ann. and Mag. Nat. Hist. (5), xii, pp. 20-26*
+*Hay1*,894,*^Diplodus^ replaced by ^Didymodus^; ^Thoracodus emydinus^ gen. et spec. nov., ^Ctenodus heterolophus^ sp. nov., ^Ctenodus vabasensis^ sp. nov., described*
+*Hay1*,896,*Issued also as part of Pal. Bull. No. 36.  Contains descriptions of 2 new genera and 8 species; also "Note on the Mammalia of the Puerco and the origin of the quadritubercular molar."*
+*Hay1*,897,*Describes ^Dioplotherium manigaulti^*
+*Hay1*,906,*Notice and abstract of paper read before Amer. Philos. Soc.  (Cope, 1883 M.)*
+*Hay1*,907,*Abstract of Cope, E. D., 1883 N*
+*Hay1*,908,*Discusses the standing of certain genera of ^Rhinocerotidae^*
+*Hay1*,912,*Description of ^Diclonius mirabilis^*
+*Hay1*,913,*Notice of observations made by M. Dollo*
+*Hay1*,914,*Abstract of paper, Cope, E. D., 1883 Q*
+*Hay1*,915,*Abstract of paper read before the A. A. A. S. in Minneapolis, 1883*
+*Hay1*,916,*Describes ^Crassopholis magnicaudatus^ gen. et spec. nov.*
+*Hay1*,919,*Refers to S. Garman's ^Chlamydoselachus^*
+*Hay1*,920,*Reply to Dr. Theo. Gill (Gill, 1884 A.)*
+*Hay1*,921,*Abstract of paper read before Amer. Assoc. Adv. Sci., 1884*
+*Hay1*,922,*Abstract of paper read before Amer. Assoc. Adv. Sci., 1884*
+*Hay1*,923,*Abstract of paper read*
+*Hay1*,925,*Also as part of Pal. Bull. No. 39*
+*Hay1*,926,*Also as part of Pal. Bull. No. 39*
+*Hay1*,927,*Also as part of Pal. Bull. No. 39.  Besides descriptions of new species, this paper discusses: The posterior foot in Pelycosauria; the structure of the columella auris in ^Clepsydrops leptocephalus^; the structure of the quadrate bone in the genus ^Cle*
+*Hay1*,928,*Issued also as part of Pal. Bull. No. 37*
+*Hay1*,929,*Issued also as part of Pal. Bull. No. 37*
+*Hay1*,930,*Issued also as part of Pal. Bull. No. 37.  This paper is practically the same as Cope, 1884 E*
+*Hay1*,931,*Issued also as part of Pal. Bull. No. 38*
+*Hay1*,932,*Issued also as part of Pal. Bull. No. 38*
+*Hay1*,933,*This work was not actually issued until the year 1885.  Reviewed in Geol. Magazine, (3) iii, pp. 410-419, 465-477, 512-521*
+*Hay1*,935,*Mentions finding of ^Aphelops fossiger^*
+*Hay1*,938,*Synopsis of portion of a paper read before Amer. Philos. Society*
+*Hay1*,939,*Refers ^Chlamydoselachus anguineus^ to ^Didymodus^*
+*Hay1*,940,*Descriptions of 9 species*
+*Hay1*,942,*Notice of paper by P. Albrecht*
+*Hay1*,946,*Remarks on paper by Dr. Lemoine on ^Simaedosaurus^*
+*Hay1*,947,*Plate containing figures of ^Didymodus compressus^ and ^D. platypterus^*
+*Hay1*,949,*Concluded in vol. xix, pp. 40-55*
+*Hay1*,950,*Synopsis of paper read before the Amer. Assoc. Adv. Sci., 1884*
+*Hay1*,953,*Abstract of lecture given before Amer. Assoc. Adv. Sci., 1884*
+*Hay1*,958,*Also forming a portion of Pal. Bull. No. 40*
+*Hay1*,960,*Treats of the ^Dinocerata^, and is continued from p. 1202, vol. xviii*
+*Hay1*,961,*See also Cope, E. D., 1885 AA*
+*Hay1*,977,*A brief review of works by Fritsch and Lydekker*
+*Hay1*,980,*Also as part of Pal. Bull. No. 40, pp. 1-21, with pl. i*
+*Hay1*,981,*The substance of this lecture was published in the Amer. Naturalist, xix.  See Cope, E. D., 1885 G*
+*Hay1*,985,*Description of ^Mycterops ordinatus^*
+*Hay1*,988,*Notice of ^Pachycyon robustus^ described by Dr. J. A. Allen*
+*Hay1*,990,*Describes ^Neoplagiaulax molestus^*
+*Hay1*,992,*Review of paper by Max Schlosser in Morphologisches Jahrbuch for 1886.  For reply to Professor Cope see Morpholog. Jahrbuch, xii, pp. 575-580*
+*Hay1*,993,*Review of paper by Max Schlosser in Moropholog. Jahrbuch, 1886, p. 287*
+*Hay1*,994,*Review of paper by M. Dollo in Bull. Mus. Roy. Belgique, 1886, p. 75*
+*Hay1*,995,*Describes ^Caryoderma snovianum^*
+*Hay1*,1000,*Refers to statements in Woodward H., 1886 A regarding ^Pelecopterus^, with a reply by Mr. W. Davies, F. G. S.*
+*Hay1*,1001,*Describes ^Crossopholis magnicaudatus^, ^Notogoneus osculus^ and ^Priscacara hypsacanthus^.  See notice of this paper in Geol. Magazine, vol. v, 1888, p. 229, by A. S. Woodward*
+*Hay1*,1004,*In this paper are described ^Hippotherium peninsulatum^, sp. nov., and ^Protohippus castilli^, sp. nov., from Loup Fork shales, near Vera Cruz*
+*Hay1*,1009,*Description of ^Typothorax coccinarum^*
+*Hay1*,1010,*Description of ^Psittacotherium megalodus^*
+*Hay1*,1011,*Description of ^Piptomerus megaloporus^, ^P. microporus^, ^P. hexagonus^, and ^Orophosaurus pauciporus^*
+*Hay1*,1015,*Review of above author's paper, "Preliminary account of fossil mammals from the White River formation," etc., in Bull. Mus. Comp. Zool., vol. xiii*
+*Hay1*,1016,*Review of Marsh, 1887 B*
+*Hay1*,1017,*Review of Scott in Jour. Acad. Nat. Sci., Phila., vol. ix, pp. 155-185*
+*Hay1*,1019,*A review of the above work of Professor Zittel, and containing a classification of the Teleostomous fishes*
+*Hay1*,1020,*Description of ^Machaerodus catocopis^*
+*Hay1*,1021,*Review of Thomas, O., in Phil. Trans. Roy. Soc., vol. clxxviii B., pp. 443-486*
+*Hay1*,1023,*This work is composed of 21 essays, all of which had been previously published elsewhere*
+*Hay1*,1024,*A portion of the reports of the American committee of the International Congress of Geologists*
+*Hay1*,1025,*A portion of the reports of the American committee of the International Congress of Geologists*
+*Hay1*,1026,*Abstract of paper read before the Nat. Acad. of Sci., 1888*
+*Hay1*,1035,*Review of Lydekker R. 1887 A*
+*Hay1*,1036,*Refers to the discovery of teeth in the young of ^Ornithorhynchus^, and the conclusion is reached that the ^Multituberculata^ are Monotremes*
+*Hay1*,1037,*Describes ^G. petaliferus^*
+*Hay1*,1041,*Review of Osborn, H. F., 1888 G*
+*Hay1*,1042,*Review of Lydekker, R., 1888 D*
+*Hay1*,1043,*Review of Ru%Ftemeyer, L. 1888 A*
+*Hay1*,1045,*Review of Zittel, K. A. 1890 A*
+*Hay1*,1046,*Review of Schlosser, M. 1887 B*
+*Hay1*,1048,*Describes ^G. lucasii^ Cope, transferred from ^Amphicotylus^*
+*Hay1*,1049,*Refers to Marsh, O. C. 1888 C*
+*Hay1*,1051,*Describes as new ^Ectocynodon incisivus^*
+*Hay1*,1052,*Contains a list of 106 species belonging to the Puerco, of which 18 are described as before unknown*
+*Hay1*,1054,*A review of Schlosser's paper on "Affen, Lemuriden," etc.*
+*Hay1*,1055,*Discusses "^Bison alticornis^" Marsh*
+*Hay1*,1058,*A work on the living ^Batrachia^ of N. America*
+*Hay1*,1059,*A review*
+*Hay1*,1060,*List of species found in the different localities and descriptions of ^Alces brevitrabalis^, ^A. semipalmatus^, and ^Cariacus ensifer^*
+*Hay1*,1061,*Conclusion of Cope, E. D. 1888 X.  The pagination is that for March, not that for February*
+*Hay1*,1063,*Genus ^Haplacodon^ established for ^Menodus angustigenis^.  ^Anchitherium westoni^, ^Hypertragalus transversus^, ^Leptomeryx esulcatus^, ^L. mammifer^, and ^L. semicinctus^ described*
+*Hay1*,1064,*Largely reproduced in Geological Magazine of London (3), vol. vi, 1889, pp. 438-448*
+*Hay1*,1065,*A short list of fossil vertebrates found in a lake deposit in Oregon, and a description of ^Hippotherium relictum^*
+*Hay1*,1066,*Review of Marsh, O. C. 1889 D and Marsh, O. C. 1889 F*
+*Hay1*,1067,*Description of ^P. septemspinosus^*
+*Hay1*,1068,*Genus ^Coelophysis^ established for ^Coelurus longicollis^, ^C. bauri^, and ^C. willistoni^*
+*Hay1*,1071,*Descriptions of ^Monoclonius recurvicornis^, ^M. sphenocerus^, and ^M. fissus^*
+*Hay1*,1073,*Contains a list of the fossil vertebrates of the region*
+*Hay1*,1074,*Describes ^Pteropelyx grallipes^, gen. et spec. nov., and ^Diclonius pentagonus^*
+*Hay1*,1078,*Review of Scott and Osborn 1890 A*
+*Hay1*,1080,*Besides the general account of the order there is a list of North American fossil ^Cetacea^*
+*Hay1*,1082,*Refers the tooth to ^Hippopotamus amphibius^*
+*Hay1*,1083,*Review of Newberry, J. C. 1889 A*
+*Hay1*,1084,*Describes ^Stenogale robusta^ and ^Brachypsalis pachycephalus^*
+*Hay1*,1085,*Describes ^aelurodon compressus^*
+*Hay1*,1088,*Abstract of paper describing ^Macropetalichthys^, ^Megalichthys nitidus^, a species of ^Platysomus^, and a species of ^Dendrodus^*
+*Hay1*,1089,*Describes ^Menodus peltoceras^ and ^Caenopus simplicidens^*
+*Hay1*,1091,*A review of the above works of Dr. R. Lydekker*
+*Hay1*,1092,*An editorial notice of A. D. Woodward's Catalogue of fossil fishes in the British Museum*
+*Hay1*,1093,*Describes three new genera (^Gephyura^, ^Probalostomus^ and ^Oligoplarchus^, and five new species*
+*Hay1*,1097,*A review of the above authors' work on mammals*
+*Hay1*,1098,*A brief editorial note regarding C. D. Walcott's discovery of fish remains in Colorado*
+*Hay1*,1101,*Abstract of paper regarding fishes described from South Dakota in Amer. Naturalist, 1891, p. 654*
+*Hay1*,1103,*Describes genus ^Thlaeodon^*
+*Hay1*,1114,*Refers to discoveries of the poison-fangs of serpents earlier than Kinkelin's*
+*Hay1*,1115,*Refers to occurrence of ^Equus simplicidens^, ^Mastodon^, and ^Testudo turgida^*
+*Hay1*,1116,*Abstract of paper read before the American Society of Naturalists at Philadelphia, Dec., 1891*
+*Hay1*,1117,*Abstract of paper read before U. S. Nat. Acad. Sciences, Apr. 19, 1892.  Full paper in Trans. Amer. Philos. Soc., 1892, pp. 11-16*
+*Hay1*,1118,*Review of Marsh, O. C. 1892 C, and Marsh, O. C. 1892 D*
+*Hay1*,1120,*Describes ^Thlaeodon padanicus^, belonging to new family ^Thlaeodontidae^*
+*Hay1*,1121,*Notice of Crook, A. R. 1892 A*
+*Hay1*,1123,*Notice of paper by M. Lohest in Ann. Soc. Ge%Aol. de Belgique, xvi, p. lvii*
+*Hay1*,1124,*Describes ^Borophagus diversidens^, ^Canimartes cumminsii^, and ^Felis hillianus^*
+*Hay1*,1128,*Notice of, in Amer. Naturalist, vol. xxvii, pp. 811-812*
+*Hay1*,1129,*Describes ^Aphelichthys lindahli^ from Illinois*
+*Hay1*,1133,*A notice of a paper on the subject by Professor Williston, in Kansas Univ. Quarterly, July, 1892*
+*Hay1*,1134,*Notice of paper Osborn and Wortman 1892 B*
+*Hay1*,1135,*Review of Earle, Charles, 1892 A*
+*Hay1*,1136,*Notice of discoveries of fish remains by C. D. Walcott*
+*Hay1*,1138,*Describes ^Dinobastis serus^*
+*Hay1*,1141,*One plate and the text figure illustrate ^Xenacanthus decheni^*
+*Hay1*,1142,*An editorial notice of Professor Claypole's paper in Amer. Geologist for May, 1893*
+*Hay1*,1143,*Announces exhibition of mandible of ^Tetrabelodon shepardii^ and proposal of ^Mastodon oligobunis^*
+*Hay1*,1144,*A notice of the author's report (Cope, E. D. 1893 A), on the palaeontology of Texas*
+*Hay1*,1147,*Describes ^Embaphias circulosus^ gen. et sp. nov. and ^Elasmosaurus intermedius^*
+*Hay1*,1148,*A review of Seeley's papers on the above subjects in Philos. Trans. Roy. Soc., 1888, 1889*
+*Hay1*,1149,*A review of Scott's memoir in Trans. Amer. Philos. Soc., xviii, pp. 55-184*
+*Hay1*,1150,*A review of Marsh, O. C. 1894 K*
+*Hay1*,1152,*Describes ^Cyphornis magnus^, gen. et sp. nov., from Vancouvers Island*
+*Hay1*,1154,*A review of Schlosser 1894 A*
+*Hay1*,1155,*Note on, in Amer. Naturalist, vol. xxix, p. 572*
+*Hay1*,1156,*Remarks on Bashford Dean's paper in Trans. N. Y. Acad. Sci., vol. xiii, 1894*
+*Hay1*,1157,*Review of Baur's papers in Anatomischer Anzeiger, x, p. 316, and Amer. Jour. Morphology, 1894, p. 1*
+*Hay1*,1158,*Description of ^Dissorophus multicinctus^*
+*Hay1*,1161,*Discusses the occurrence of various mammals in caves and other Pleistocene deposits*
+*Hay1*,1162,*Subdivides the genus ^Terrapene^ into various genera, among which is ^Toxaspis^*
+*Hay1*,1165,*Describes ^Pariotichus aguti^*
+*Hay1*,1166,*Describes new family ^Otocoelidae^, new genera ^Otocoelus^ and ^Conodectes^, and new species ^O. testudineus^ and ^C. favosus^*
+*Hay1*,1167,*Descriptions and figures of ^Otocoelus testudineus^ and ^Dissorhophus articulatus^*
+*Hay1*,1169,*Besides the ^Cotylosauria^, some new ^Batrachia^ from the Permian beds of Texas are described in a supplement, pp. 452-457*
+*Hay1*,1171,*Included in this paper is an "Appendix on a species of ^Trimerorhachis^."  The paper is a continuation of Cope, 1896 G*
+*Hay1*,1173,*A notice of papers by Baur, Baur and Case, Goette, Hay, Wortman, and Marsh*
+*Hay1*,1174,*Reviewed by M. Schlosser, Neues Jahrb. Min., 1901, i, p. 149*
+*Hay1*,1176,*This letter, now first published, refers to a collection of fossils which had been submitted to Prof. Cope for examination*
+*Hay1*,1183,*Records the finding of bones and tusk of ^Elephas primigenius^?, Burlington Heights, near head of Lake Ontario*
+*Hay1*,1184,*Taken from Ann. and Mag. Nat. Hist. (2), x, 395*
+*Hay1*,1188,*A synopsis of the fossil forms of North American birds is given on pp. 347-350*
+*Hay1*,1192,*Gives full synonomy and dental and cranial characters*
+*Hay1*,1194,*No. i, ^Muridae^, pp. 1-264, with pls. i-v; No. vii, ^Zapodidae^, pp. 455-479; No. viii, ^Saccomyidoe^, pp. 481-542; No. x, ^Geomyidoe^, pp. 601-630*
+*Hay1*,1197,*Part ii of this work contains an excellent account of the anatomy of birds, including the osteology.  Part iv is a "Systematic Synopsis of the Fossil Birds of America."  This synopsis has remained unchanged in the 3d and 4th editions and the various re*
+*Hay1*,1198,*Records finding of bones of ^Megatherium^, ^Mastodon^, a species of ^Bos^, etc.  A list of these bones is found on page 190 of the same volume*
+*Hay1*,1200,*^Trinacromerum bentonianum^ is described*
+*Hay1*,1203,*Describes ^Machaerodus crassidens^*
+*Hay1*,1204,*Describes as new species ^Plesiosaurus mudgei^, ^Plesiochelys belviderensis^, ^Lamna?  quinquelateralis^, and ^Hybodus clarkensis^*
+*Hay1*,1205,*Records finding of various vertebrate remains, among which are named ^Elephas imperator^(?), ^Megalonyx leidyi^, ^Equus complicatus^, ^E. curvidens^, ^Auchenia huerfanensis^*
+*Hay1*,1206,*Presents a description of ^Nemorhoedus palmeri^ Crag*
+*Hay1*,1207,*A popular account of ^Nemorhoedus palmeri^ Crag*
+*Hay1*,1208,*The plates consist of drawings of skulls of the different species*
+*Hay1*,1209,*Mentions occurrence of ^Otodus appendiculatus^, ^Corax heterodon^, ^Oxyrhina mantelli^, ^Lamna texana^, ^Coprolithus^ (^Macropoma^) ^mantelli^, ^Hyposaurus rogersi^, ^Hadrosaurus foulkii^, and ^Mosasaurus mitchelli^*
+*Hay1*,1211,*Contains some remarks on ^Branchiosaurus^*
+*Hay1*,1212,*Describes ^Pelosaurus^ and ^Archegosaurus^*
+*Hay1*,1214,*Regards ^Branchiosaurus^ as equivalent to ^Protriton^, but retains former name*
+*Hay1*,1215,*Treats of ^Melanerpeton^, ^Pelosaurus^, ^Archegosaurus^, ^Hylonomus^, etc.*
+*Hay1*,1216,*Treats of the development of ^Branchiosaurus^*
+*Hay1*,1217,*Presents illustrations of the structure of ^Branchiosaurus^, ^Pelosaurus^, and ^Melanerpeton^*
+*Hay1*,1220,*Describes ^Hylononus^ and ^Petrobates^*
+*Hay1*,1221,*This important paper treats of the histology of the genus ^Sclerocephalus^*
+*Hay1*,1233,*Refers to and figures ^Bison latifrons^ under the name Aurochs*
+*Hay1*,1234,*Fourth edition, Paris, 1834-1836, vols. i-x, octavo, with 2 vols. quarto, containing 260 pls.  First edition was published in 1812, second edition in 1821, third edition in 1825*
+*Hay1*,1235,*Extract from Daily State Journal, Springfield, Ill*
+*Hay1*,1239,*See also Sitzungsber, k.-p. Akad. Wissensch. Berlin, Jahrg. 1882, pp. 817-819*
+*Hay1*,1242,*Reply to Baur, G. 1884 B*
+*Hay1*,1246,*Discusses systematic position of ^Enchodus^*
+*Hay1*,1256,*Notice and criticism of ProfessorCope's work*
+*Hay1*,1259,*Fourth edition, pp. 1-1087, with over 1,575 figs. in the text and 2 double-page maps.  The first edition of this work was published in 1863; the second, 1876; the third, 1880*
+*Hay1*,1263,*Discusses the structure of the ventral fins of the Ganoids and Physostomi*
+*Hay1*,1267,*A reply to a note by Professor Cope which appears on p. 141 of the same volume*
+*Hay1*,1275,*^Diplodus^, ^Didymodus^, ^Pleuracanthus^, ^Cladodus^*
+*Hay1*,1276,*Discusses relationship of ^Xystrodus^ to ^Tomodus^*
+*Hay1*,1283,*^Pleuracanthus^, ^Orthacanthus^, ^Xenacanthus^, ^Compsacanthus^, ^Diplodus^, and ^Didymodus^ are regarded as synonymous*
+*Hay1*,1286,*A review of Dr. Leidy's "The extinct mammalian fauna of Dakota and Nebraska."*
+*Hay1*,1287,*A review of Prof. John Phillips's "Geology of Oxford and the Valley of the Thames."*
+*Hay1*,1294,*For notice of this paper and for remarks by Haworth see Nature, xlix, p. 93*
+*Hay1*,1295,*The reptile referred to is ^Baphetes planiceps^*
+*Hay1*,1298,*Abstract of pamphlet with same title, with illustrations; Bailliere, New York and London, 1863; Montreal, Dawson Brothers.  See also Canadian Naturalist, viii, 1863*
+*Hay1*,1302,*Name assigned to the tracks, ^Sauropus sydnensis^*
+*Hay1*,1304,*Also in Canadian Naturalist (2), v, pp. 98-99.  Note on, in Geol. Magazine, vii (1870), p. 87.  Describes briefly ^Baphetes minor^*
+*Hay1*,1305,*Describes ^Sauropus unguifer^*
+*Hay1*,1307,*Describes the new species ^Palaeoniscus^ (^Rhadinichthys^) ^modulus^, and ^P. jacksonii^*
+*Hay1*,1308,*The seal is identified as ^Phoca groenlandica^*
+*Hay1*,1309,*Third edition, pp. i-xxvii; 1-694; supplement, pp. 1-103, with 248 figs.*
+*Hay1*,1311,*This is a brief abstract of the preceding paper and is reprinted from Nature*
+*Hay1*,1312,*Canadian Naturalist (2), x, pp. 385-387*
+*Hay1*,1313,*Records the finding of ^Cottus uncinatus^ (^Artediellus^); also ^Mallotus villosus^, ^Cyclopterus lumpus^, and ^Gasterosteus aculeatus^*
+*Hay1*,1317,*Chapter x; The oldest air-breathers*
+*Hay1*,1323,*The plates and the explanations thereof are included in the pagination*
+*Hay1*,1324,*Refers to finding of ^Protoceras celer^*
+*Hay1*,1327,*A very brief abstract*
+*Hay1*,1329,*Describes ^C. newberryi^*
+*Hay1*,1330,*Review of by A. S. Woodward, Geol. Magazine, 1896, p. 135; and in Nat. Sci., viii, 267*
+*Hay1*,1333,*Describes and figures ^Cladoselache^*
+*Hay1*,1335,*Discusses also its relationships to the other species*
+*Hay1*,1336,*Refers to a purchase of a collection of Placoderms from the Devonian of Ohio*
+*Hay1*,1337,*Abstract of, in Quart. Jour. Geol. Soc. Lond., i, p. 141*
+*Hay1*,1338,*A protest against Prof. E. Hitchcock's claims regarding the fossil footmarks of the Connecticut Valley.  See Hitchcock, E., 1844 B.*
+*Hay1*,1339,*Reply to Hitchcock, E., 1844 B*
+*Hay1*,1341,*No species named*
+*Hay1*,1342,*No systematic name given the tracks*
+*Hay1*,1343,*No systematic names are applied to the footmarks*
+*Hay1*,1346,*In this paper no systematic name is given to the footprints*
+*Hay1*,1349,*This work was compiled mostly from Dr. Deane's incomplete papers by T. T. Bouve%A.  Accompanying it is an introduction (pp. 2-4), a biographical notice (pp. 5-12), and a list of Dr. Deane's published papers (pp. 13-14).  The book consists mostly of exp*
+*Hay1*,1351,*A report made by Messrs. De Kay, Van Rensselaer, and Cooper.  Records finding of skeleton in Monmouth County, N. J.*
+*Hay1*,1352,*See also Edinburgh New Philos. Jour., 1828, v, pp. 326-327*
+*Hay1*,1356,*Gives a list of fossil fishes found in the United States and known to De Kay.  Localities and references to literature given*
+*Hay1*,1357,*Describes and refers to a number of fossil mammals.  Of these a few are figured*
+*Hay1*,1371,*In this is described "a curious nondescript quadruped."*
+*Hay1*,1385,*The paper treats especially of the sternum of ^Iguanadon^ and related genera*
+*Hay1*,1387,*Treats of ^Iguanodon^ and its relationships to other ^Dinosauria^ and to ^Aves^.  Plate v is a restoration of ^Iguanodon bernissartensis^*
+*Hay1*,1389,*This paper is devoted to the anatomy of ^Iguanodon bernissartensis^*
+*Hay1*,1390,*Treats of relationships of the genera of crocodiles*
+*Hay1*,1392,*Contains a discussion of the classification of the ^Testudinata^*
+*Hay1*,1393,*Treats especially of the structure and relationship of ^Iguanodon^*
+*Hay1*,1394,*Discusses the structure of ^Simoedosaurus^ and its relation to ^Champsosaurus^ and ^Sphenodon^*
+*Hay1*,1397,*Contains a synopsis of the classification of ^Testudinata^ and observations on their osteology*
+*Hay1*,1398,*Contains notes on various American genera of ^Mosasauridae^*
+*Hay1*,1401,*Notice of this paper in Geol. Mag., 1888, v, p. 520*
+*Hay1*,1402,*This important paper contains a discussion of the higher groups of ^Testudinata^, and especially a consideration of the value of the group ^Athecae^*
+*Hay1*,1405,*Contains abundant citations of the literature of the ^Mosasauridae^*
+*Hay1*,1409,*The principal groups of dinosaurs are characterized.  The new type alluded to appears to be ^Triceratops^ Marsh*
+*Hay1*,1410,*Regards ^Leiodon^ as a synonym of ^Mosasaurus^*
+*Hay1*,1413,*Concluded with a list of 123 papers and memoirs bearing on the subject.  An abstract appears in Amer. Naturalist, xxx, p. 479*
+*Hay1*,1415,*Copies of this paper were first distributed about July 1, 1900*
+*Hay1*,1416,*Describes ^M. laticeps^.  Part ii appeared in same journal January, 1901*
+*Hay1*,1420,*Contains mention of ^Elephas primigenius^*
+*Hay1*,1421,*No species definitely mentioned except bone of man, and of "elephants."*
+*Hay1*,1428,*Reviewed by R. Lydekker, Natural Science, ii, pp. 148-149*
+*Hay1*,1429,*Discusses also the names of the tapir*
+*Hay1*,1438,*Abstract of paper read before the Amer. Assoc. Adv. Sci., 1896*
+*Hay1*,1443,*Describes ^C. xiphias^ St. J. and W., and ^C. acutus^ sp. nov.*
+*Hay1*,1446,*The new genus ^Synthetodus^ is established and the new species ^Ptyctodus molaris^ described.  A notice of this paper, by C. R. Keyes, is found in Amer. Geologist, xxii, pp. 237-239*
+*Hay1*,1448,*See also Science (2), viii, pp. 400-401*
+*Hay1*,1449,*For abstract, see Proc. Amer. Assoc. Adv. Sci., xlvii, Boston, pp. 371-372*
+*Hay1*,1451,*These notes are contained in a paper by Teller and Monroe*
+*Hay1*,1452,*Describes as new ^Diplodus priscus^ and ^D. striatus^; also figures ^Phoebodus politus^ Newb*
+*Hay1*,1453,*Records the fact that the type of ^Titanichthys agassizi^ is in Harvard College, and that there is also there a nearly complete skeleton of ^Dinichthys pustulosus^*
+*Hay1*,1458,*A notice of Huene's paper in Neues Jahrbuch Min, 1900, i, Abh., p. 64*
+*Hay1*,1460,*Describes new genus and species of bird, ^Gallinuloides wyomingensis^, and fish, ^Lepidosteus atrox^ Cope*
+*Hay1*,1467,*Describes what was apparently the tusk of the mammoth*
+*Hay1*,1468,*For a preliminary statement see Proc. Geol. Soc. Lond., ii, 1837, p. 192*
+*Hay1*,1472,*This paper is devoted to the consideration of the structure of ^Pterichthys^ and the description of new species*
+*Hay1*,1478,*A brief identification of the fishes collected at Albert mine, New Brunswick, by Charles Lyell*
+*Hay1*,1484,*Description of ^Acanthodes mitchelli^*
+*Hay1*,1485,*Descriptions and figs. of ^Tristichopterus^, ^Acanthodes^, ^Climatius^, and ^Diplacanthus^*
+*Hay1*,1492,*Pp. 338-354 are devoted to the fossil vertebrates.  Of most interest are some remarks on ^Asterolepis^ and ^Bothriolepis^*
+*Hay1*,1493,*Only the pages of this volume are quoted here which contain matter bearing on the vertebrates*
+*Hay1*,1494,*The plate illustrates the structure of ^Homocrinus^*
+*Hay1*,1495,*Only those pages of this volume are quoted which contain descriptions of vertebrates*
+*Hay1*,1496,*Contains description and figures of ^Palaeoteuthis marginalis^ Eichw., pp. 1-15, pl. i*
+*Hay1*,1497,*Describes preopercle of ^Sebastodes^ (?) ^rosae^ from Tertiary beds at Port Halford, Cal.*
+*Hay1*,1501,*On p. 400 is found a record of the literature examined*
+*Hay1*,1506,*Chap. xl, pp. 293-323, and p. 347 are devoted to the "animal remains of the Coal Measures of the Deep and Dan rivers," and to a "notice of the vertebral remains of the Bristol conglomerate."*
+*Hay1*,1509,*Chapters xv-xvii are devoted to descriptions of the fossil vertebrates, and there are furnished 83 woodcuts in the text*
+*Hay1*,1514,*The author claims to have found these elements in the foetus of the horse*
+*Hay1*,1516,*Describes footprints from Jura-Trias of New Jersey*
+*Hay1*,1522,*Descriptions of ^T. ferox^ and new genus ^Hypotemnodon^, type ^Temnocyon corphaeus^ Cope*
+*Hay1*,1525,*Contains diagnoses of the genera ^Mastodon^ and ^Elephas^, the former being divided into the subgenera ^Trilophodon^ and ^Tetralophodon^, the latter genus into ^Stegodon^, ^Loxodon^, and ^Euelephas^*
+*Hay1*,1528,*Compiled by Charles Murchison, with a biographical sketch of Hugh Falconer*
+*Hay1*,1530,*Abstract in Princeton Univ. Bull., ix, pp. 17-18, 1897; reviewed by Schlosser in Neues Jahrbuch Mineral., 1899, ii, pp. 316-319*
+*Hay1*,1532,*Contains description and plate of fossil bison (^B. latifrons^)*
+*Hay1*,1537,*The tracks regarded as belonging to ^Reptilia^*
+*Hay1*,1540,*Devoted especially to descriptions of genera ^Necrolemur^ and ^Palaeolemur^.  Pl. viii contains 4 figures of ^Adapis^*
+*Hay1*,1546,*1. Observations relatives a%C divers mammife%Cres fossiles provenant de Saint-Ge%Arand-le-Puy (Allier), pp. 1-42.  2. Observations relatives au carnassiers signale%A par Jourdan sous le nom de ^Dinocyon thenardi^, pp. 43-53.  3. Observations relatives*
+*Hay1*,1548,*Based especially on Dr. Osborn's study of ^Joxolophodon^, in Osborn, H. F., 1881 A*
+*Hay1*,1550,*Devoted principally to the genus ^Lophiodon^ and its species and to ^Pachynolophus^*
+*Hay1*,1554,*Describes remains regarded as belonging to ^Dasypodidae^, ^Manidae^, and ^Orycteropodidae^*
+*Hay1*,1570,*Abstract of three lectures*
+*Hay1*,1573,*Abstract of a course of lectures at the Royal College of Surgeons*
+*Hay1*,1574,*A popular lecture on the fossil ^Mammalia^ of North America*
+*Hay1*,1575,*To this article is subjoined a bibliography of the subject*
+*Hay1*,1577,*A portion of this article is devoted to extinct ^Lemuroidea^*
+*Hay1*,1581,*This article treats of the anatomy and classification of the ^Mammalia^, together with general descriptions of the various orders and families.  The portions on the ^Insectivora^, ^Chiroptera^, and ^Rodentia^ were furnished by Dr. G. E. Dobson*
+*Hay1*,1586,*Description of a fossil "^Ovis mammillaris^," figs. 19, and of a fossil beaver (^Castoroides^), figs. 16-18*
+*Hay1*,1587,*A portion of Foster's report to the State geologist*
+*Hay1*,1589,*Accompanied by remarks by Professor Rogers, Dr. Pickering, and Mr. Desor*
+*Hay1*,1591,*Reports the proposal before Amer. Soc. Adv. Sci., by Foster, of a supposed new species of fossil elephant from Indiana, ^E. mississippiensis^.  No description given*
+*Hay1*,1593,*See Dames, W., 1884 B*
+*Hay1*,1596,*Contains a history of this subject and a discussion of the anatomy of ichthyosaurs.  Pp. 80-81 are occupied by a list of papers and memoirs on the ^Ichthyosauria^*
+*Hay1*,1605,*Inaugural dissertation*
+*Hay1*,1610,*Pp. 1-92 were published in 1879; pp. 93-126, 1880; pp. 127-158, 1881; pp. 159-182, 1883*
+*Hay1*,1613,*Pp. 1-32 are dated 1885; pp. 33-64, 1885; pp. 65-92, 1888; pp. 93-114, 1889*
+*Hay1*,1618,*Pp. 1-48 are dated 1890; pp. 49-80, 1893; pp. 81-104, no date, 1894; pp. 105-132, 1895.  This volume is devoted to the genus ^Pleuracanthus^, the ^Acanthodidae^, ^Megalichthys^, ^Palaeoniscidae^, etc.  Review of part ii by A. S. Woodward, in Natural Sc*
+*Hay1*,1623,*If under the various genera and higher groups citations to particular pages of Fu%Frbringer's work are found, it must be understood only that on those pages some special treatment is given such groups.  The same genera and higher groups may be found me*
+*Hay1*,1630,*This work deals with the anatomy of the shoulder-girdle of reptiles.  Pp. 597-682 were issued separately with the title "Beitrag zur Systematik und Genealogie der Reptilien," pp. 1-88; Inhaltsu%Fbersicht pp. 89-91*
+*Hay1*,1635,*Pp. 1-90 of this work, written by E. Selenka, and published in 1869, are devoted to the osteology of birds.  Pages 934-995 treat of the development of the skeleton.  On pp. 934-939 is an important list of works on the development of the skeleton*
+*Hay1*,1637,*Appended is a list of 93 memoirs and papers on the subject*
+*Hay1*,1643,*Describes ^Chlamydoselachus anguineus^ Garman*
+*Hay1*,1644,*Rejoinder to Prof. E. D. Cope*
+*Hay1*,1645,*Discusses relationships of ^Chlamydoselachus^; also includes a classification of the ^Selachii^*
+*Hay1*,1646,*Description of new species and genus, ^Chlamydoselachus anguineus^ Garman, belonging to the new family ^Chlamydoselachidae^*
+*Hay1*,1647,*Refers to ^Chalmydoselachus anguineus^*
+*Hay1*,1650,*Places ^Dinoceras^ among ^Artiodactyla^*
+*Hay1*,1651,*A statement of Marsh's results; nothing new is put forth*
+*Hay1*,1659,*Describes structure of the vertebrae of ^Actinodon^ and the occurrence of pleurocentra therein*
+*Hay1*,1661,*Pp. 218-250 are devoted to the fishes; pp. 251-288 to the batrachians and the reptiles*
+*Hay1*,1666,*Pp. 169-305 of this work are devoted to the ^Vertebrata^*
+*Hay1*,1671,*See also Comptes rendus Acad. Sci., cxxv, pp. 755-756*
+*Hay1*,1673,*Cites the literature of the subject*
+*Hay1*,1674,*This paper treats of the carpus and tarsus of the frog*
+*Hay1*,1678,*The above communication is an anonymous one, but the author's name is given in Amer. Jour. Sci., xx, p. 372*
+*Hay1*,1685,*Appended is a list of 59 titles of papers bearing on the subject*
+*Hay1*,1691,*Refers to the dorsal spine of ^Xenacanthus decheni^*
+*Hay1*,1697,*The figures are those of the very young animal*
+*Hay1*,1699,*Describes various portions of the skeleton of ^Nothosaurus^*
+*Hay1*,1707,*Letter addressed to Van Beneden*
+*Hay1*,1709,*An abstract of this memoir appeared in Jour. Zoologie, ii, 1873, pp. 1-4*
+*Hay1*,1717,*These Verhandlungen are found in the Erga%Fnzungsheft of Anatom.  Anzeiger, xviii*
+*Hay1*,1718,*A notice of this paper is found in Amer. Jour. Sci., 1845, xlix, p. 216.  Describes ^Dorudon serratus^*
+*Hay1*,1719,*Contains a list of the species which this author had identified*
+*Hay1*,1727,*From Ashley River, S. C.; supposed to be taken from Eocene deposits*
+*Hay1*,1733,*Describes ^Equus scotti^*
+*Hay1*,1737,*Contains some observations on ^Zeuglodon cetoides^*
+*Hay1*,1741,*Describes osteology of ^Arctomys monax^*
+*Hay1*,1742,*A list showing the number of vertebrae occurring in each of 451 species of birds belonging to various orders and families*
+*Hay1*,1743,*The osteology of ^Crotalus^*
+*Hay1*,1747,*A note on some of the genera of Dinosaurs described by Professor Marsh during the years 1878 and 1879*
+*Hay1*,1749,*Describes geological position of mastodon found at St. Johns, Auglaize County, Ohio*
+*Hay1*,1751,*This paper has a pagination distinct from that of the remainder of the volume which contains it*
+*Hay1*,1757,*See also Amer. Naturalist, v, pp. 526-533*
+*Hay1*,1761,*Extracted from "Arrangement of the families of fishes."*
+*Hay1*,1762,*A statement of the author's views regarding the higher groups and their relations.  A reply to Dr. Brandt, of St. Petersburg*
+*Hay1*,1769,*Contains a classification of the sharks*
+*Hay1*,1772,*Shows that the sense in which Dr. Gill originally used the above terms is not the same as that in which they were used by Professor Huxley*
+*Hay1*,1773,*This paper deals with the anatomy and classification of the mail-cheeked fishes, and contains explanations of various anatomical terms; also references to the literature bearing on the group*
+*Hay1*,1779,*^Scymnus^ preoccupied in entomology and to be replaced by ^Scymnorhinus^*
+*Hay1*,1782,*A review of Dr. Bashford Dean's book, "Fishes, living and fossil."*
+*Hay1*,1784,*This bibliography contains about 3,000 titles of works on the mammals of North America*
+*Hay1*,1785,*Records finding of cetacean bones, supposed to belong to ^Beluga vermontana^*
+*Hay1*,1788,*Vols. i-iii, Philadelphia. 8vo.  Vol. i was published 1825; ii, 1826; iii, 1828.  This work contains descriptions and figures of some of the earlier known American fossil vertebrates*
+*Hay1*,1789,*Description and figures of ^Tetracaulodon mastodontoideum^, Godm*
+*Hay1*,1792,*Contains a list of papers on the subject*
+*Hay1*,1794,*Appended is a list of the works of other writers on the subject*
+*Hay1*,1796,*Treats of the structure and homologies of the elements of the vertebral column and homology of ribs, etc., of Ganoids and Elasmobranchs*
+*Hay1*,1798,*Abstract appeared in Neues Jahrb. Min., 1847, pp. 122-125*
+*Hay1*,1800,*From "Beitra%Fge zur vorweltlichen Fauna des Steinkohlengebirges."*
+*Hay1*,1802,*Pp. 425-429 contain a discussion of the primitive mammalian molar*
+*Hay1*,1804,*Discusses structure and relations of ^Pleurosternon^*
+*Hay1*,1809,*Abstract from Actes Acad. Roy. Sci. Bordeaux, 1840, p. 208.  For original, see same volume Jahrbuch, pp. 567-568, a note from Grateloup, in which he recognizes the Delphinoid nature of this fossil.  I have seen only the abstract here referred to*
+*Hay1*,1810,*Describes ^Odobenotherium lartetianum^*
+*Hay1*,1811,*Reprinted in Amer. Jour. Sci. (2), iii, p. 436*
+*Hay1*,1815,*Second edition, pp. 402, with 101 woodcuts in text*
+*Hay1*,1824,*This paper presents a classification of the ^Trionychia^, together with definitions of the genera adopted*
+*Hay1*,1825,*In this paper is presented a classification of the ^Cheloniidae^ and the ^Dermochelyidae^, together with definitions of the genera*
+*Hay1*,1828,*See also Proc. Acad. Nat. Sci. Phila., vi, pp. 292-296*
+*Hay1*,1833,*This volume contains the ^Squamipinnes^, ^Triglidae^, ^Sciaenidae^, ^Sphyraenidae^, ^Scombridae^, ^Carangidae^, ^Xiphiidae^, etc.*
+*Hay1*,1839,*Contains families of the ^Physostomi^*
+*Hay1*,1840,*This volume contains the families ^Gymnotidae^, ^Symbranchidae^, ^Muraenidae^, ^Pegasidae;^ also the ^Lophobranchii^, ^Plectognathi^, ^Dipnoi^, ^Ganoidei^, ^Chondropterygii^, ^Cyclostomata^, and the ^Leptocardii^*
+*Hay1*,1847,*Dr. Gu%Fnther's portion of the article on ^Reptilia^ treats of the history and literature of the subject, the various systems of classification, the general characters of the class, and the geological and geographical distribution.  There are also list*
+*Hay1*,1848,*A popular account of tortoises and a scheme of classification*
+*Hay1*,1853,*Makes comparisons with Dr. Leidy's ^T. culbertsonii^*
+*Hay1*,1857,*Describes skull found near Clyde, N. Y.*
+*Hay1*,1858,*This paper constitutes a portion of a joint article, by James Hall and Jeffries Wyman, on the skull of ^Castoroides^.  See Wyman, J., 1846 B*
+*Hay1*,1863,*This contains, on pp. 80 and 81, an alphabetical list of the species of the fossil fishes found in Missouri, so tabulated as to show their stratigraphical distribution.  On p. 82 are recorded four mammals which have been found fossil in the State.  Sin*
+*Hay1*,1865,*Also in Nat. Hist. Trans. Northumberland and Durham, iii, 1868, pp. 66-120, with pls. i-iii*
+*Hay1*,1868,*Also in Nat. Hist. Trans. Northumberland and Durham, iii, 1869, pp. 330-338*
+*Hay1*,1869,*Describes as new genus ^Archichthys^, now regarded as synonym of ^Strepsodus^.  The genus ^Archichthys^ founded on portion of a jaw with teeth*
+*Hay1*,1870,*Also in Nat. Hist. Trans. Northumberland and Durham, iv, 1872, pp. 397-407, with pls. xiii, xiv*
+*Hay1*,1871,*Also in Nat. Hist. Trans. Northumberland and Durham, 1872, iv, pp. 408-423, with pls. xv, xvi*
+*Hay1*,1872,*Also in Nat. Hist. Trans. Northumberland and Durham, iii, 1869, pp. 339-357, with pls. x, xi*
+*Hay1*,1876,*In this paper is described the new genus ^Saurocephalus^, based on the new species ^S. lanciformis^*
+*Hay1*,1877,*Describes remains afterwards called ^Crocodilus macrorhynchus^*
+*Hay1*,1879,*The "plesiosaurus" is ^Priscodelphinus harlani^ Leidy*
+*Hay1*,1881,*Describes ^Megalonyx laqueatus^.  See for notice of this paper Neues Jahrbuch Min., 1836, p. 123.  Also Amer. Jour. Sci., 1831, xx, pp. 414-415*
+*Hay1*,1883,*A brief abstract, naming only ^Ichthyosaurus missouriensis^*
+*Hay1*,1884,*See also Harlan, 1835 B; Edinburgh New Philos. Jour., xvii, pp. 342-362, xvii, pp. 28-40; Neues Jahrb. Min., 1836, pp. 99-109*
+*Hay1*,1885,*The bones are assigned to the genus ^Basilosaurus^*
+*Hay1*,1886,*Describes ^Ichthyosaurus missouriensis^, but a note follows which states that the fossil must be assigned to some new genus.  This is not named*
+*Hay1*,1887,*No descriptions are furnished*
+*Hay1*,1889,*See also Harlan, 1834 B*
+*Hay1*,1891,*Treats of ^Basilosaurus^*
+*Hay1*,1892,*Treats of ^Ichthyosaurus missouriensis^*
+*Hay1*,1894,*The teeth figured are probably those of ^E. primigenius^*
+*Hay1*,1898,*Also in Lond. and Edinb. Philos. Mag., xiv, p. 302.  No adequate descriptions are given of the genera proposed*
+*Hay1*,1899,*See also Neues Jahrb. Min., 1840, p. 741, for abstract*
+*Hay1*,1900,*See also Ann. Sci. Naturelles (2), xii, p. 221*
+*Hay1*,1904,*Describes the new genus and species ^Orycterotherium missouriense^.  A notice of this paper was published in Ann. and Mag. Nat. Hist., 1842, x, p. 72*
+*Hay1*,1905,*Describes ^Delphinus calvertensis^ Harl*
+*Hay1*,1908,*Description with figures of ^Orycterotherium missouriense^*
+*Hay1*,1909,*The author denies Klaatsch's view that the bones are of ectodermal origin*
+*Hay1*,1910,*An important work.  In the beginning there is found a list of papers and memoirs on the subject*
+*Hay1*,1916,*See for continuation of this work Hasse, C., 1882 A*
+*Hay1*,1918,*For beginning of this work see Hasse, C. 1879 A.  For conclusion, Hasse, C., 1885 A*
+*Hay1*,1919,*For earlier parts of this work see Hasse, C., 1879 A, and Hasse, C., 1882 A*
+*Hay1*,1927,*Describes as new ^Aelurodon taxoides^ and ^A. meandrinus^.  Treats also of ^Aphelops fossiger^ and ^Teleoceras major^.  Abstract in Princeton Coll. Bull., vi, p. 54, 1894*
+*Hay1*,1929,*Description of ^Eusmilus dakotensis^*
+*Hay1*,1932,*Notice of this paper by M. Schlosser appears in Neues Jahrb. Min. 1899, ii, pp. 314-316*
+*Hay1*,1933,*Regarded as distinct from ^Aceratherium tridactylum^*
+*Hay1*,1934,*Records finding of specimen of ^Platacodon manus^, and the determination that it is a fish*
+*Hay1*,1944,*Shows that Leidy's ^Xiphactinus^ is identical with Cope's later published ^Portheus^*
+*Hay1*,1949,*The generic name ^Wortmania^ is proposed for ^Hemiganus otariidens^ Cope; ^Miolabis^ for ^Procamelus robustus; Homogalax^ for ^Systemodon primaevus; Equus eous^ for ^E. intermedius^ Cope*
+*Hay1*,1951,*New generic name proposed, ^Adjidaumo;^ new specific names, ^Canis^ (^?^) ^marshii^, ^Cynodictis hylactor^*
+*Hay1*,1952,*Describes ^Hadrianus schucherti^ and ^Acherontemys heckmani^*
+*Hay1*,1954,*This paper purports to give the number of described species and genera belonging to each of the large groups of fossil vertebrates*
+*Hay1*,1956,*New species described are ^Dittodus lucasi^, ^Cladodus girtyi^, ^Rhizodopsis mazonius^, ^Strepsodus arenosus^, ^S. dawsoni^, and ^Elonichthys peltigerus hypsilepis^*
+*Hay1*,1959,*On pp. 157-158 is found a list of all the fossil Tertiary vertebrates known at that time from that region*
+*Hay1*,1960,*Contains order of Tertiary beds and a list of fossil vertebrates.  An abstract of this paper appeared in Amer. Jour. Sci., 1858, xxvi, pp. 404-408*
+*Hay1*,1961,*Occupies two and a half lines*
+*Hay1*,1963,*A letter to the senior editor*
+*Hay1*,1964,*Proposal of new genus ^Saurodon^ with species ^S. lanciformis^ and ^S. leanus^ (^leaae^)*
+*Hay1*,1973,*Describes a fossil jaw containing teeth which appear to have belonged to a young mastodon.  Found in Chautauqua County, N. Y.*
+*Hay1*,1976,*This paper is quoted by A. S. Woodward for 1854*
+*Hay1*,1978,*Pp. 234-244, with pl. xxiii, are devoted to the fossil fishes of the Lebanon.  The genera ^Pycnosternix^ and ^Isodus^ are characterized*
+*Hay1*,1981,*Also issued separately with pp. 1-88*
+*Hay1*,1988,*Describes the dermal skeleton of the Siluroids and of ^Acipenseridae^*
+*Hay1*,1989,*Describes dermal skeleton of ^Lepisosteidae^ and ^Polypteridae^*
+*Hay1*,1995,*Printed by order of the legislature.  Contains remarks on a few fossil vertebrates, and on page 389 a list of fossil teeth of fishes, by Dr. Wm. Spillman*
+*Hay1*,1996,*Contains mention of ^Zeuglodon^*
+*Hay1*,1998,*An abstract of paper read*
+*Hay1*,2002,*In Edward Hitchcock's Supplement to the Ichnology of New England.  (Hitchcock, E., 1858 A)*
+*Hay1*,2003,*Description of tracks of ^Tarsodactylus expansus^*
+*Hay1*,2004,*Reports discovery of ^Dinichthys herzeri^ by Dr. Newberry*
+*Hay1*,2005,*Reports Prof. Newberry's descriptions of fishes as presented before A. A. A. S., 1867*
+*Hay1*,2007,*This account is part of a description of the geology of Massachusetts, and consists principally of a list of the fossil footmarks.  This list is almost identical with the same author's list of 1889 (1889 B), with the exception of species published afte*
+*Hay1*,2010,*Contains a list of the American Triassic species of ^Ichnozoa^ and descriptions of new forms.  This list is identical with one published by the same author in 1871 (Hitchcock, C. H. 1871 A), with the exception of a few species published after the issue*
+*Hay1*,2014,*Pp. 458-525 are devoted to the descriptions of fossil fishes and footprints, and these are illustrated on pls. xxix-li*
+*Hay1*,2016,*Abstract in Neues Jahrb. Min., 1845, pp. 753-757*
+*Hay1*,2017,*A reply to Deane, J., 1844 B. See Deane, J., 1844 C*
+*Hay1*,2019,*In this paper the footmarks formerly described under the general terms ^Ornithoidichnites^ and ^Sauroidichnites^ are assigned generic names*
+*Hay1*,2024,*A description and figure, without genus and species, of ^Edestus minor^ Newb., found in Parke County, Ind.*
+*Hay1*,2028,*In this paper a number of species formerly described is rejected or recorded as doubtful; two species are mentioned as new but not described; notes are given on other species, and there is a general discussion of fossil tracks*
+*Hay1*,2029,*Edited by his son, C. H. Hitchcock.  Appendix A (pp. 39, 40) is entitled "Bones of ^Megadactylus polyzelus^;" Appendix B (pp. 40-93) consists of a descriptive catalogue of the Hitchcock ichnological cabinet at Amherst College*
+*Hay1*,2033,*Abstract of paper presented*
+*Hay1*,2035,*Besides the matter contributed by Hodson this memoir contains a "Memorandum" by Dr. Jos. Habersham (pp. 25-30) and "Observations" by J. Hamilton Couper (pp. 31-47)*
+*Hay1*,2037,*Contains numerous references to the literature of this subject up to that time*
+*Hay1*,2040,*This portion of Dr. Hoffmann's work is devoted to the osteology of the ^Batrachia^.  In it is found a list of 78 works on this subject*
+*Hay1*,2042,*Discusses the structure of the carpus and tarsus of reptiles and amphibians, the integument and dermal skeleton of ^Testudinata^, morphology of ribs, etc.*
+*Hay1*,2044,*Pp. 1-73 are devoted to the osteology of the ^Testudinata^.  On pp. 1-3 is found a list of the literature of the subject*
+*Hay1*,2045,*Pp. 443-610 and pls. xlix-lxxi are devoted to the osteology of this group.  Pp. 1299-1329 are devoted to the palaeontology of the ^Reptilia^*
+*Hay1*,2046,*The description of the skeleton occupies pp. 1420-1448 and pls. cx-cxvi*
+*Hay1*,2050,*This monograph is continued in vol. ii, pp. 321-366, 1854, and in vol. iv, pp. 5-27, 1855*
+*Hay1*,2055,*Remarks on Gibbes. R. W. 1850 C*
+*Hay1*,2057,*This paper contains extract from a paper by Dr. Leidy and a letter by Professor Agassiz.  In this letter Agassiz expresses the belief that "horses, sheep, bulls, and hogs not distinguishable at present from the domesticated species" existed in America*
+*Hay1*,2061,*This paper was preceded by others of the same author in the volumes for 1814, 1816, but in these papers no name was applied to the remains*
+*Hay1*,2063,*Supposed to be ^Beluga vermontana^*
+*Hay1*,2066,*This note refers to the collection of Doctor Koch at St. Louis*
+*Hay1*,2067,*An investigation of Koch's collection*
+*Hay1*,2068,*This is an abstract of "Horner, W. E., 1842 A."*
+*Hay1*,2069,*A note of correction of the preceding paper*
+*Hay1*,2072,*Abstract of paper presented*
+*Hay1*,2082,*An abstract of a paper read before the society*
+*Hay1*,2083,*Abstract of paper presented*
+*Hay1*,2084,*Extracts form Howorth's paper in the Goelogical Magazine for December, 1880*
+*Hay1*,2086,*See Jukes-Brown, vol. ix, p. 477*
+*Hay1*,2090,*See also Morphologisches Jahrbuch, iii*
+*Hay1*,2091,*Of this work, pp. 1-48, pls. i-vii, appeared in 1876; pp. 49-80, pls. viii-x, in 1878; pp. 81-86, in 1885.  Pp. 21-86 are devoted to a consideration of the anatomy of the elasmobranchs*
+*Hay1*,2092,*Compares ^Tarsius^ with ^Anaptomorphus^*
+*Hay1*,2093,*Records finding of ^Dinichthys^ and ^Rhynchodus^*
+*Hay1*,2098,*Discusses the structure of various extinct reptiles, ^Enaliosauria^ and ^Dinosauria^, especially the structure of shoulder girdle and limbs*
+*Hay1*,2100,*Discusses structure of certain ^Dinosauria^, especially ^Iguanodon^*
+*Hay1*,2111,*Reviewed in ^Natural Science^, ii, pp. 135-143*
+*Hay1*,2127,*Also in Ann. Mag. Nat. Hist. (4), i, 1868, pp. 220-224; Geol. Mag. (1), v, pp. 357-365*
+*Hay1*,2128,*Discusses, among other genera, ^Bathygnathus^ and ^Belodon^*
+*Hay1*,2138,*Abstract in Nature, vol. xi, 1874, p. 68*
+*Hay1*,2142,*Abstracts of 6 lectures delivered at the Royal School of Mines*
+*Hay1*,2149,*The writer makes comparisons of ^Heterotis^ with ^Osteoglossum^*
+*Hay1*,2151,*See also Sitzungsbericht Gesellsch. naturf.  Freunde Berlin, 1891, pp. 23-26*
+*Hay1*,2153,*Describes ^Palaeoniscus alberti^, ^P. brownii^, and ^P. cairnsii^; the others unnamed*
+*Hay1*,2154,*Plates not issued with the text and missing in the copy examined*
+*Hay1*,2161,*See also Jaekel, O., in Archiv. fu%Fr Naturgeschichte, lvii, Bd. 1, pp. 15-48*
+*Hay1*,2166,*Discusses, among other matters, the systematic position of the Elasmobranchs*
+*Hay1*,2167,*Herein are included reviews of a number of writers on the genera ^Pleuracanthus^, ^Xenacanthus^, and ^Orthacanthus^.  These are Chas. Brongniart, L. Doederlein, E. Koken, and Anton Fritsoh*
+*Hay1*,2175,*Refers to the dentition of ^Janassa^ and ^Petalodus^*
+*Hay1*,2182,*For more extended paper see Verhandl. deutsch. zool. Gesellsch., 1899, pp. 249-258, with 2 text figs.*
+*Hay1*,2183,*A review of Karpinsky, A. 1899 A*
+*Hay1*,2184,*Contains report of remarks by Profs. H. F. Osborne and O. C. Marsh on Cretaceous mammals*
+*Hay1*,2185,*The first account of the bones of ^Megalonyx^.  This work is said by C. G. Giebel to have been issued in 1797*
+*Hay1*,2191,*Gives the name ^Astrodon^ to certain teeth found by him at Bladensburg, Maryland.  No description is furnished*
+*Hay1*,2193,*Bull. U. S. Nat. Mus. No. 47*
+*Hay1*,2197,*Verhandl. k. russ. mineralog. Gesellsch., St. Petersburg (2), xxxvi, No. 2.  In Russian; quoted from Jaekel, 1900 A*
+*Hay1*,2199,*Establishes genus ^Aceratherium^*
+*Hay1*,2200,*Establishes the genus ^Hippotherium^, with ^Equus gracilis^ as type*
+*Hay1*,2202,*See Hays, I., Proc. Amer. Phil. Soc., 1843, vol. ii, pp. 264-266*
+*Hay1*,2206,*Notes occurrence of ^Petrodus occidentalis^ and an unidentified species of ^Diplodus^*
+*Hay1*,2207,*Notes occurrence of ^Thrinacodus duplicatus^?  and ^Deltodus intermedius^*
+*Hay1*,2208,*The vertebrates are catalogued in chapter xv, pp. 229-239.  The synonomy is given, but no descriptions or figures, and no species are mentioned, except the fishes.  A list of the fossil vertebrates of Missouri was published in 1890 by G. Hambach (which*
+*Hay1*,2209,*The list of fossil vertebrates is found on pp. 484-485*
+*Hay1*,2212,*No names are given to the footprints*
+*Hay1*,2213,*Figures the footprints described in King, A. T. 1845 A*
+*Hay1*,2214,*No names are given to these tracks.  Lyell regards them as artificial.  (Lyell, C. 1846 A. p. 25.)*
+*Hay1*,2215,*In this volume are found several lists of the fossil vertebrates which characterize the Tertiary formations.  No descriptions of the remains are given.  The lists are found on the following pages: Jurassic, p. 346; Wasatch, p. 376-377; Bridger, p. 403-*
+*Hay1*,2221,*A considerable portion of this paper and a number of the plates are devoted to the microscopic structure of the bones of ^Ichthyosaurus^*
+*Hay1*,2222,*Pp. 34-47, with pls. xv-xix, are devoted to the microscopical structure of the bones of species of ^Plesiosaurus^*
+*Hay1*,2225,*Appended are references to the works of 48 authors who have treated the subject*
+*Hay1*,2226,*Discusses the structure of the vertebral column of ^Ceratodus^ and ^Protopterus^, followed by remarks by Hatschek*
+*Hay1*,2227,*A contribution to knowledge of the genesis of bone*
+*Hay1*,2228,*Appended is a list of 75 papers pertaining to the subject discussed*
+*Hay1*,2234,*Appended is a list of the works of 42 authors who have treated the subject of the dentition of the ^Equidae^*
+*Hay1*,2235,*Also in Cincinnati Quarterly Journal of Science, 1875, vol. ii, pp. 1-6*
+*Hay1*,2243,*For "Nachtrag" i, see the Sitzungsber, lvi, Abth. i, pp. 898-909; "Nachtrag" ii, pp. 909-913, with pls. i-iii*
+*Hay1*,2247,*Opinion expressed on a jaw found at Chatauqua Lake, N. Y.*
+*Hay1*,2248,*Describes ^Cimoliosaurus rex^ Knight*
+*Hay1*,2249,*Describes ^Ceratodus robustus^ and ^C. americanus^*
+*Hay1*,2250,*Describes and figures ^Megalneusaurus rex^, a new genus based on ^Cimoliosaurus rex^ Knight*
+*Hay1*,2255,*This article is for the most part an extract from the ^Phila. Presbyterian^, but Leidy (1869 A, p. 393) attributes the authorship to Dr. Koch*
+*Hay1*,2259,*An edition of this was published as early as 1841*
+*Hay1*,2260,*For review of this paper see Neues Jahrb. 1845, pp. 760-766*
+*Hay1*,2266,*Remarks made at meeting of the Academy and referring to Koch's discoveries.  Besides the papers above given which owe their authorship to A. Koch the following are herewith recorded, but have not been examined:  Beschreibung des ^Missurian Theristokaul*
+*Hay1*,2269,*Issued in separate form, pp. 1-13*
+*Hay1*,2274,*Discusses question of the existence of a pectoral spine*
+*Hay1*,2280,*Describes and figures 23 species of otoliths of fishes from the Tertiary deposits of the Southern States of the United States*
+*Hay1*,2284,*Description of species, a list of known species of Europe, and a discussion of the significance of the otoliths and of the organ of hearing for the natural classification of fishes*
+*Hay1*,2285,*Deals especially on relationship of ^Cyprinidae^ and ^Siluridae^*
+*Hay1*,2288,*A paper with the same title is found in Verhandl. Gesellsch. Basel, viii, 1890, pp. 604-626; pl. viii*
+*Hay1*,2289,*Contains (pp. 608-618) descriptions of a few fishes*
+*Hay1*,2290,*The pages referred to are devoted to descriptions of the fishes*
+*Hay1*,2297,*^Saurocephalus^ and related genera are placed in family ^Scopeloidei^ and subfamily ^Saurodontidae^, and a new genus ^Solenodon^ is described*
+*Hay1*,2302,*Description of ^Ceratodus forsteri^*
+*Hay1*,2304,*For conclusion see Ku%Fkenthal 1893 C*
+*Hay1*,2307,*Translation in Ann. and Mag. Nat. Hist. (6), vii, 1891, pp. 153-179*
+*Hay1*,2309,*Abstract in Zoolog. Record for 1891, Mamm., p. 10*
+*Hay1*,2311,*A translation of this paper is found in Ann. and Mag. Nat. Hist. (6), x, 1892, pp. 365-380*
+*Hay1*,2313,*The part of the Morpholog. Jahrbuch containing this paper was issued in October, 1892*
+*Hay1*,2318,*Treats of the origin of the mammalian dentition*
+*Hay1*,2325,*See also Summary report of Geol. Surv. Dept. Canada for year 1898, pp. 182-190.  Account of fossil remains found in districts of Alberta and Assiniboia*
+*Hay1*,2333,*Divided into subgenera ^Pteraspis^, ^Cyathaspis^, and ^Scaphaspis^*
+*Hay1*,2334,*Describes ^C. dawsoni^ and refers to the finding of ^Machairacanthus sulcatus^*
+*Hay1*,2336,*Extract from the Academy of Jan. 1, 1873, replying to Kunth*
+*Hay1*,2342,*Numerous references are made to the writings of other authors*
+*Hay1*,2344,*This paper appears to have been published also in Atti Soc. Toscano, iii, 1877*
+*Hay1*,2346,*Noticed in Amer. Jour. of Sci., vol. ix, pp. 124-125.  Describes ^Sauropus primaevus^*
+*Hay1*,2348,*Describes ^Clepsysaurus pennsylvanicus^, but gives no generic name*
+*Hay1*,2349,*The generic name is here first given*
+*Hay1*,2351,*Description of ^Clepsysaurus pennsylvanicus^*
+*Hay1*,2352,*Contains, on p. 206, with pl. xx, figs. 4, 5, a description of ^Palaeoniscus?  leidyiana^*
+*Hay1*,2353,*Contains plate showing tracks of ^Sauropus primaevus^ of the natural size*
+*Hay1*,2355,*Repeated on pp. 422-423, same volume.  From Proc. Acad. Nat. Sci. Phila., viii, 1856, p. 77*
+*Hay1*,2358,*Also in Verhandl. Anat. Geselschaft, 1888, pp. 40-44*
+*Hay1*,2362,*Abstract in Zoological Record for 1893, Mamm., p. 8*
+*Hay1*,2364,*Pp. 157-160 of this important work are occupied by a list of the authorities which the author has cited.  Reviewed by Max Fu%Frbringer, Morpholog. Jahrbuch, vol. xxiii, p. 592*
+*Hay1*,2373,*Describes ^D. costatus^ LeC*
+*Hay1*,2377,*Said to belong probably to ^Clidastes;^ no specific name assigned and only a general description*
+*Hay1*,2379,*Describes ^Equus americanus^*
+*Hay1*,2382,*Extracted from Proc. Phil. Acad., Nov. 1847, p. 322.  Reprinted in Ann. and Mag. Nat. Hist. (2) ii, pp. 389-392*
+*Hay1*,2386,*Contains no description*
+*Hay1*,2391,*Describes ^Oreodon priscum^ and ^Cotylops speciosa^*
+*Hay1*,2397,*No specific name is indicated for the teeth described*
+*Hay1*,2405,*Name given to tooth presented by Dr. Hays*
+*Hay1*,2409,*Description of ^Crocodilus antiquus^ given*
+*Hay1*,2411,*This memoir is said to have been published in Dec., 1852*
+*Hay1*,2415,*This abstract of remarks contains as names of new species, ^Hipparion venustum^, ^Oromys aesopi^, ^Eubradys antiquus^, and ^Ereptodon priscus^.  No descriptions accompany these names*
+*Hay1*,2416,*This species appears to be first mentioned, without description, in Proc. Amer. Phil. Soc., v. 261, 1853*
+*Hay1*,2419,*Describes ^Brimosaurus grandis^*
+*Hay1*,2421,*Insufficient description*
+*Hay1*,2423,*Describes ^Camelops kansanus^*
+*Hay1*,2426,*These bones were found below Evansville, Ind., and consisted of ^Megalonyx jeffersonii^, ^Bison americanus^, ^Cervus virginianus^, ^Equus americanus^, ^Tapirus haysii^ and ^Canis primaevus^*
+*Hay1*,2427,*Extracted from the Jour. of the Acad. of Nat. Sci. Phila., vol. ii, and same as Leidy, J. 1854 H*
+*Hay1*,2431,*From Proc. Acad. Nat. Sci. Phila., vol. viii, p. 11*
+*Hay1*,2432,*From Proc. Phil. Acad., viii, p. 59; same as Leidy, 1856 D*
+*Hay1*,2433,*Extracted from Proc. Phil. Acad.  See Leidy, 1856 F*
+*Hay1*,2434,*Also in Amer. Jour. Sci. (2), xxi, p. 422*
+*Hay1*,2435,*Description of ^Stenacanthus nitidus^ and ^Cylindracanthus ornatus^*
+*Hay1*,2437,*Reprinted in Canadian Naturalist and Geologist, i, p. 238, with pl., 1856*
+*Hay1*,2442,*See also Amer. Jour. Sci., xxiii, 1857, pp. 271-272*
+*Hay1*,2450,*Describes ^Camelops kansanus^, ^Canis primaevus^, ^Usus amplidens^, ^Procyon priscus^ and ^Anomodon snyderi^*
+*Hay1*,2451,*From Proc. Phila. Acad. Nat. Sci., viii, p. 255*
+*Hay1*,2471,*Preceded by remarks on mastodon found in Honduras and on the genus ^Mosasaurus^*
+*Hay1*,2476,*No descriptions are given and no species are named*
+*Hay1*,2479,*This refers to the species found in Gibson County, Ind., and afterwards called ^Dicotyles nasutus^*
+*Hay1*,2481,*Reviewed in the Geol. Magazine, vol. v, 1868, p. 432*
+*Hay1*,2483,*Describes ^Equus occidentalis^ Leidy*
+*Hay1*,2484,*This is a review of the same author's memoir referred to in the title, Leidy, J. 1865 A*
+*Hay1*,2485,*This carnivore from White River is named, but not described*
+*Hay1*,2486,*Remarks on Harlan's ^Scolopax^ and on bird tibia from Nebraska*
+*Hay1*,2487,*Reference made to a reptilian phalanx from Columbus, Miss.  Description given, but no name.  May belong to ^Hadrosaurus^*
+*Hay1*,2491,*The name ^Agriochoerus latifrons^ is given, but there is no description*
+*Hay1*,2493,*Describes ^Elotherium superbum^*
+*Hay1*,2502,*A synopsis of this memoir was published in Jour. de Zoologie, i, 1872, pp. 187-191; 500-508, with pls. x-xi; ii, pp. 541-545.  A list of the described genera and species is included*
+*Hay1*,2505,*Extracted from Proc. Phil. Acad., 1870, p. 18*
+*Hay1*,2525,*Describes a radius and tibia of some undetermined rhinoceros, and records finding of a bone probably belonging to ^AElurodon ferox^*
+*Hay1*,2526,*Contains a list of species of ^Protohippus^*
+*Hay1*,2527,*Extracted from Proc. Acad. Nat. Sci. Phila. 1870, pp. 96-99*
+*Hay1*,2528,*Extracted from Proc. Acad. Nat. Sci. Phila., Aug. 8, 1871*
+*Hay1*,2537,*See Amer. Naturalist, v. pp. 664-666*
+*Hay1*,2540,*From Proc. Acad. Nat. Sci. Phila.  Same as Leidy, 1872 G*
+*Hay1*,2544,*Descriptions given of ^Felis augustus^, ^Oligosimus grandaevus^, and ^Tylosteus ornatus^*
+*Hay1*,2549,*Remarks on ^Palaeosyops junior^, ^Uintacyon edax^, ^U. vorax^, ^Chameleo pristinus^*
+*Hay1*,2551,*New genus ^Chisternon^ formed for ^Bae%Fna undata^ Leidy*
+*Hay1*,2552,*Descriptions given of ^Otodus divaricatus^, ^Oxyrhina extenta^, ^Acrodus humilis^, and ^Pycnodus faba^*
+*Hay1*,2553,*Extract from Proc. Acad. Nat. Sci. Phila., 1872*
+*Hay1*,2558,*Describes ^Felis imperialis^ and ^Auchenia hesterna^*
+*Hay1*,2564,*Abstract in Amer. Jour. Sci. (3), xii, 222-223*
+*Hay1*,2565,*Extracted from Proc. Acad. Nat. Sci. Phila., 1876.  Same as Leidy, 1876 D*
+*Hay1*,2566,*Form related to ^P. linguifer^ found apparently in Green-sand marl.*
+*Hay1*,2567,*Reprinted in Amer. Jour. Sci., xii, p. 223*
+*Hay1*,2575,*Describes ^Platygonus vetus^*
+*Hay1*,2581,*A notice of this paper, together with a note by Professor Cope, is found in Amer. Naturalist, 1886, xx, p. 755*
+*Hay1*,2586,*Describes ^Drepanodon floridanus^, and notes occurrence of ^Auchenia minor^*
+*Hay1*,2588,*Contains a notice of the finding of some human bones in Florida, and also some bones of ^Bison latifrons^*
+*Hay1*,2608,*See also Bull. Soc. Ge%Aol. France (3), xviii, pp. 321-324, pl. iii.*
+*Hay1*,2611,*Makes statement of the finding of a fossil fin-spine, ^Machaeracanthus sulcatus^, at St. Marys, Ontario*
+*Hay1*,2612,*Contains numerous references to the literature of the ^Trichechidae^*
+*Hay1*,2614,*The number of pages devoted to corrections of errors found in this work gives an indication of the unsatisfactory manner in which it has been compiled.  The figures are usually poorly reproduced*
+*Hay1*,2615,*The figures are usually much reduced and poor.  The plates do not follow the order of their numbers.*
+*Hay1*,2616,*There being no descriptions in the abovementioned work of the fossils figured, and many of the figures being very small and indistinct, not all are cited in this Catalogue*
+*Hay1*,2618,*Contains numerous citations of the literature of the subject*
+*Hay1*,2619,*Mentions the finding of a tooth of a horse and a large tusk 30 feet below the surface, in Bates County, Mo.*
+*Hay1*,2624,*Describes and figures the microscopic structure of the shields and scales of ^Cyathaspis^*
+*Hay1*,2625,*Reply to J. S. L., p. 38*
+*Hay1*,2626,*Written from Washington County, Ala.*
+*Hay1*,2634,*The finding of ^Dinichthys pustulosus^ and ^D. terrilli^ in Belgium is announced.  The former name refers to ^D. tuberculatus^, not to ^D. pustulosus^ Eastman*
+*Hay1*,2635,*Treats of the genus ^Champsodelphis^, with references to ^Squalodon^*
+*Hay1*,2637,*In this extensive paper are described the genera ^Idiochelys^, ^Hydropelta^, ^Eurysternum^, ^Sauranodon^, ^Homaeosaurus^, ^Euposaurus^, ^Atoposaurus^, ^Alligatorellus^, etc.*
+*Hay1*,2638,*Portion of "E%Atudes pale%Aontologiques dans le bassin du Rhone."*
+*Hay1*,2640,*Presents also a list of papers relating to the great auk*
+*Hay1*,2641,*Shows that ^C. mortoni^ is a synonym of C. ^megalodon^*
+*Hay1*,2642,*Refers to the finding of two skeletons by Mr. Chas. Schuchert, and makes some statements of facts about this animal*
+*Hay1*,2644,*Describes and figures the cranium of ^Phalacrocorax perspicillatus^*
+*Hay1*,2645,*Abstract of remarks made before Biological Soc. Washington*
+*Hay1*,2646,*The crocodile above described is ^Heterodontosuchus ganei^*
+*Hay1*,2647,*This paper describes the new genus and species ^Pterosphenus schucherti^*
+*Hay1*,2648,*Contains a reference to figure of model of ^Megalosaurus^ (^Laelaps^) ^aquilunguis^*
+*Hay1*,2649,*Abstract of remarks made before Biolog. Soc. Washington.  New species ^B. occidentalis^ described*
+*Hay1*,2650,*Reviewed by Dr. J. A. Allen in Amer. Naturalist, xxxiii, pp. 665-666*
+*Hay1*,2654,*Describes ^Gallinuloides wyomingensis^ Eastman*
+*Hay1*,2655,*Notes on ^Thespesius^, and ^Basilosaurus cetoides^*
+*Hay1*,2660,*A review of various papers by Professor Kner*
+*Hay1*,2663,*For a translation of this communication see Annals Nat. Hist. 1839, iii, pp. 210-213*
+*Hay1*,2664,*For abstract see Neues Jahrb. Min., 1840, pp. 120-125*
+*Hay1*,2666,*See also Annales Sci. Naturelles, 1839 (2), xi, pp. 214-234*
+*Hay1*,2668,*To this paper is appended a list of the principal works that have been published on the family of ^Rhinocerotidae^*
+*Hay1*,2669,*Appended is a list of the principal works and memoirs on the osteology and palaeontology of ^Equus^ and ^Hippotherium^*
+*Hay1*,2670,*Besides the descriptions of the Indian species, there is a classification of the ^Bunodontia^ and the ^Selenodontia^, a list of the species of ^Hyopotamus^, and references to memoirs relating to the ^Anthracotheriidae^, ^Oreodontidae^, etc.*
+*Hay1*,2671,*Contains important discussions of the genera of ^Carnivora^, with lists of species, and references to authorities*
+*Hay1*,2672,*Contains discussion of the teeth of elephants and mastodons*
+*Hay1*,2673,*Treats especially of the genera ^Sus^ and ^Hyotherium^, and has appended a list of memoirs*
+*Hay1*,2678,*A review of several of Professor Cope's papers*
+*Hay1*,2682,*A review of Dr. Schlosser's paper in the Morphologisches Jahrbuch, xii, pp. 1-136*
+*Hay1*,2691,*Describes ^H. filholi^, from central France*
+*Hay1*,2699,*Believes that ^Cetiosaurus^ should vield to ^Cardiodon^, and ^Ornithopsis^ to ^Hoplosaurus^ (^Oplosaurus^) or even ^Pelorosaurus^*
+*Hay1*,2700,*The figure is taken from Cope*
+*Hay1*,2701,*Contains figures and description of ^Arctosaurus osborni^ Adams*
+*Hay1*,2703,*Regards the remains as belonging to ^Pleurocoelus^ Marsh*
+*Hay1*,2710,*See, regarding this paper, O. C. Marsh, Nature, xlviii, p. 437*
+*Hay1*,2713,*This is a review of H. N. Hutchinson's Extinct Monsters*
+*Hay1*,2720,*No species described or figured*
+*Hay1*,2722,*See also Proc. Geol. Soc. Lond., iv, pp. 36-39, 1843; Amer. Jour. Sci., 1844, xlvi, pp. 320-323*
+*Hay1*,2723,*Also in Amer. Jour. Sci. (2), xlvi, pp. 318-320*
+*Hay1*,2724,*Refers to the occurrence of the remains of various species of sharks and of tooth of ^Mastodon longirostris^*
+*Hay1*,2726,*No species are named*
+*Hay1*,2727,*Refers to the finding of ^Zeuglodon^ bones in Alabama*
+*Hay1*,2731,*Taken from Proc. Royal Soc. of Great Britain, 1853*
+*Hay1*,2734,*For review of this work and various corrections see Cope, E. D., 1870 T*
+*Hay1*,2735,*Abstract; no generic or specific name*
+*Hay1*,2740,*Discusses structure of ^Holoptychius^*
+*Hay1*,2742,*The vertebrate fossils are described on pp. 575-644*
+*Hay1*,2744,*Discusses the genus ^Hybodus^*
+*Hay1*,2745,*Contains list of species of ^Ptychodus^ in British Museum*
+*Hay1*,2749,*Shows that this animal was herbivorous*
+*Hay1*,2755,*Issued in January, 1869*
+*Hay1*,2756,*Contains remarks on dentition of various North American genera of mammals*
+*Hay1*,2758,*This is the continuation and conclusion of Major, C. J. F., 1877 A*
+*Hay1*,2762,*Translation of Malmgren, 1864 A*
+*Hay1*,2767,*Describes remains of ^Iguanodon^*
+*Hay1*,2768,*This paper includes "Notes on the vertebral column of the Iguanodon," by A. G. Melville*
+*Hay1*,2772,*The original description of ^Ptychodus whipplei^ occurs on page 33*
+*Hay1*,2774,*No species are named*
+*Hay1*,2775,*^Eosaurus acadianus^; name, but no description*
+*Hay1*,2776,*An abridgment of this description is found in Canadian Naturalist and Geologist, vol. vii, pp. 205-213*
+*Hay1*,2777,*Abstract of Marsh, 1862 B*
+*Hay1*,2779,*Reprinted in Ann. and Mag. Nat. Hist. (4), iii, pp. 95-96, 1869; Kosmos, Leipzig, iv, p. 346, 1869.  Abstract in Neues Jahrb. Mineral., 1869, p. 767*
+*Hay1*,2780,*Contains notice of ^Thecocampsa squankensis^.  Reprinted in Ann. and Mag. Nat. Hist. (4), iii, pp. 442-444.  Abstract in Neues Jahrb. Mineral, 1871, p. 112*
+*Hay1*,2781,*Abstract in Canadian Naturalist, iv, p. 331, and Geol. Magazine, vii, 1870, pp. 376-377*
+*Hay1*,2782,*Extract of this paper published in Amer. Naturalist, vol. iv, p. 254*
+*Hay1*,2783,*Abstracts in Geol. Magazine, vii, 1870, p. 318; Amer. Naturalist, iv, 1870, p. 310.  Proc. Acad. Nat. Sci. Phila., xxii, 1870, pp. 5-6*
+*Hay1*,2785,*Reprinted in Geol. Magazine, vii, p. 427, 1870*
+*Hay1*,2786,*Reprinted in Canadian Naturalist, v, p. 240, 1871*
+*Hay1*,2787,*Abstract describing briefly ^Histiophorus parvulus^, ^Embalorhynchus kinnei^, ^Phyllodus elegans^, ^P. curvidens^, ^Myliobates bisulcus^, ^Dipristis meirsii^, ^Enchodus semistriatus^*
+*Hay1*,2789,*Names, but no descriptions*
+*Hay1*,2790,*Notice of finding of ^Meleagris altus^*
+*Hay1*,2791,*No descriptions are furnished*
+*Hay1*,2793,*Reprinted in Boll. R. Com. Geol. d'Italia, iii, pp. 278-283, 1872.  See also Kosmos, vi, pp. 476-479; Pop. Sci. Rev., London, 1871, p. 436, and Neues Jahrb. Mineral, 1871, p. 890*
+*Hay1*,2795,*Reprinted in Boll. R. Com. Geol. d'Italia, iii, pp. 343-350, 1872*
+*Hay1*,2796,*Reprinted in Boll. R. Com. Geol. d'Italia, iii, pp. 350-353, 1872*
+*Hay1*,2799,*Abstract in Nature, v, p. 348, 1872.  First announcement of ^Hesperornis regalis^*
+*Hay1*,2800,*Abstract in Nature, v, p. 151, 1872*
+*Hay1*,2802,*Describes ^H. agilis^*
+*Hay1*,2803,*Abstract in Nature, vi, pp. 90, 94.  Reprinted in Ann. and Mag. Nat. Hist., (4), x, pp. 212-217; Boll. R. Com. Geol. d'Italia, iii, pp. 211-217, 1872*
+*Hay1*,2804,*See Kosmos, vi, pp. 447-449; Jour. de Zoologie, ii, p. 533, for abstracts*
+*Hay1*,2805,*Abstract of this paper in Neues Jahrb. Mineral., 1872, pp. 990-991*
+*Hay1*,2806,*^Rhinosaurus^ changed to ^Tylosaurus^*
+*Hay1*,2807,*Abstract in Neues Jahrb. Mineral., 1872, pp. 990-991.  Advance copies of this paper are said to have been issued Aug. 7, 1872*
+*Hay1*,2810,*Abstract in Pop Sci. Rev., London, 1873, p. 94*
+*Hay1*,2812,*See also Geol. Magazine, x, 1873, p. 33, and Amer. Naturalist, vii, pp. 179-180*
+*Hay1*,2813,*Reprinted in Geol. Magazine, x, 1873, pp. 33-34.  Describes ^Oreocyon latidens^*
+*Hay1*,2814,*This paper describes the jaws of ^Colonosaurus mudgei^ n. g. et n. sp., which were afterwards found to be the jaws of ^Ichthyornis dispar^.  The paper is noticed in Geol. Magazine, x, 1873, p. 34*
+*Hay1*,2815,*Reprinted in Amer. Naturalist, vii, p. 50, and Ann. and Mag. Nat. Hist. (4), xi, p. 80, 1873.  Describes ^Ichthyornis dispar^*
+*Hay1*,2816,*Describes ^Dinoceras mirabilis^ and ^Dinoceras lacustris^*
+*Hay1*,2817,*Reprinted in Ann. Sci. Geol., Paris, iii, pp. 99-100*
+*Hay1*,2818,*Copied from the Yale Courant*
+*Hay1*,2819,*Description of ^Ichthyornis celer^.  Abstracts in Nature, vii, p. 310, 1873; Jour. de Zoologie, ii, pp. 40-41*
+*Hay1*,2820,*Translated into French in Ann. Sci. Naturelles (5), Zool., xvii. art. 9, pl. 21.  Jour. de Zoologie, ii, pp. 160-168.  For republication, abstracts, etc., see Marsh, 1884 F, p. 227*
+*Hay1*,2821,*Reprinted in Amer. Naturalist, vii, pp. 115-117; Ann. and Mag. Nat. Hist. (4), xi, pp. 233-234.  Translated into French in Ann. Sci. Naturelles (5), Zool., xvii, art. 9, pp. 8-11.  Noticed in Geol. Magazine, x (1873), p. 115.  Remarks on by Troschel in*
+*Hay1*,2823,*Also Amer. Naturalist, vii, pp. 303-306*
+*Hay1*,2826,*Abstract in Nature, viii, p. 76, 1873*
+*Hay1*,2829,*Published in part in Amer. Jour. Sci. (3), v, pp. 117-122 (Marsh, O. C., 1873 B)*
+*Hay1*,2830,*In reply to Prof. E. D. Cope, Amer. Naturalist, vii, pp. 157-160 (Cope, E. D., 1873 W)*
+*Hay1*,2835,*Abstracts: Nature, ix, p. 227, 1874; Amer. Naturalist, vol. viii, pp. 79-85, 1874; Jour. de Zoolologie, iii, pp. 61-62, 1874*
+*Hay1*,2836,*Reprinted in Ann. and Mag. Nat. Hist. (4), xiii, pp. 397-400.  Abstract in Nature, ix, p. 390, 1874.  Contains discussion of origin of modern horse*
+*Hay1*,2838,*Reprints in Ann. and Mag. Nat. Hist., xiv, p. 167, Amer. Naturalist, viii, pp. 503-504, Jour. de Zoologie, iii, pp. 326-327.  Abstract in Neues Jahrbuch Mineral., p. 772, 1874, and in Nature, x, p. 273*
+*Hay1*,2840,*A notice of this paper, containing a list of the forms described, may be found in Jour. de Zoologie, iv, 1875, pp. 98-99*
+*Hay1*,2841,*Reprinted in Amer. Naturalist, ix, pp. 182-183; in Nature, xi, 1875, p. 368; in Ann. and Mag. Nat. Hist. (4), xv, p. 307; Jour. de Zoologie, iv, 1875, pp. 70-71; Pop. Sci. Rev., London, 1875, p. 207.  The new order proposed is denominated ^Tillodontia^*
+*Hay1*,2842,*Reprinted in Geol. Magazine (2), iii, 1876, pp. 49-53, pl. ii; also in Jour. de Zoologie, iv, 1875, pp. 494-502, pl. xv*
+*Hay1*,2843,*Same as the preceding paper*
+*Hay1*,2845,*Reprinted in Jour. de Zoologie, v, pp. 136-145, pl. iv.  Abstracts, etc., Nature, xiii, p. 374, 1876; Zeitschr. gesammt. Naturwiss. xiv, pp. 31-32, 1876; Neues Jahrb. Mineral., pp. 780-781, 1876; Pop. Sci. Rev., London pp. 326-327, 1876*
+*Hay1*,2846,*A translation of this paper appeared in Jour. de Zoologie, v, pp. 244-248, pl. xi.  Abstract in Nature, xiii, p. 374*
+*Hay1*,2847,*A translation of this paper appeared in Jour. de Zoologie, v, 1876, pp. 248-255; pl. xii.  Abstract in Nature, xiv, p. 36*
+*Hay1*,2848,*Abstracts: Pop. Sci. Rev., London.. 1876, p. 327; Nues Jahrb. Mineral., 1876, p. 781; Archiv. Sci. Phys. et Nat., Geneva, lvi, pp. 273, 274*
+*Hay1*,2849,*Abstract in Ann. and Mag. Nat. Hist. (4), xviii, pp. 195-196; Jour. de Zoologie, v., pp. 457-458*
+*Hay1*,2850,*Translated into French in Jour. de Zoologie, v., 1876, pp. 304-306*
+*Hay1*,2851,*Same, Amer. Naturalist, x, pp. 436-439.  Abstract Neues Jahrb. Mineral., 1876, p. 782*
+*Hay1*,2852,*Abstracts in Arch. Sci. Phys. et Nat., Geneva, xlix, pp. 127-128; Pop. Sci. Rev., London, 1877, pp. 97-98*
+*Hay1*,2854,*Abstracts: Amer. Naturalist, xi, 1877, p. 500; Neues Jahrb. Mineral. 1877, p. 767.  Reprint in Jour. de Zoologie, vi, 1877, pp. 380-385*
+*Hay1*,2855,*Reprinted in Jour. de Zoologie, vi, pp. 385-389.  ^Baptornis advenus^, new genus and species, is described*
+*Hay1*,2856,*Reprinted in Jour. de Zoologie, vi, pp. 248-250.  ^Titanosaurus montanus^ described*
+*Hay1*,2857,*Notice of this paper occurs in Amer. Naturalist, xi, p. 629*
+*Hay1*,2858,*Proc. Amer. Assoc. Adv. Science, Nashville meeting, 1877, pp. 211-258; published 1878 (Marsh, 1878 G).  For reprints, see Marsh, 1884 F, p. 234*
+*Hay1*,2861,*A criticism on Professor Cope's paper in same journal, xi, p. 312*
+*Hay1*,2862,*Describes ^Ceratodus gu%Fntheri^*
+*Hay1*,2863,*Abstract in Pop. Sci. Rev., London, 1878, pp. 210-211*
+*Hay1*,2865,*Reprinted in Ann. and Mag. Nat. Hist. (5), vol. ii, p. 108; Pop. Sci. Rev., London, 1878, pp. 322-323.  Describes ^Dryolestes priscus^ Marsh*
+*Hay1*,2866,*Abstracts in Neues Jahrb. Mineral., 1878, p. 895; Pop. Sci. Rev., London, 1878, p. 436.  Describes ^Pteryodactylus montanus^*
+*Hay1*,2867,*Abstract in Neues Jahrb. Mineral., 1880, pp. 256-257*
+*Hay1*,2868,*Also Pop. Sci. Month., xii, pp. 513-527; 672-697.  Vice-presidential address before Amer. Assoc. Adv. Sci., 1877.  Same as Marsh, 1877 E, with footnotes*
+*Hay1*,2869,*On the brain of ^Coryphodon^*
+*Hay1*,2870,*Abstract in Ann. and Mag. Nat. Hist. (5), iii, pp. 175-176; Pop. Sci. Rev., London, 1879, p. 205*
+*Hay1*,2871,*Abstract in Neues Jahrb Mineral., 1880, pp. 257-258*
+*Hay1*,2873,*Reprinted in Kosmos, v, pp. 432-438.  Abstracts in Pop. Sci. Rev., London, 1879, pp. 318-319; Neues Jahrb. Mineral., 1881, pp. 103-104*
+*Hay1*,2874,*Reprinted in Ann. and Mag. Nat. Hist. (5), iv, pp. 167-168; Geol. Magazine (2), vi, pp. 371-372.  Describes new genus ^Stylacodon^, with new species ^S. gracilis^.  New family ^Stylodontidae^ proposed*
+*Hay1*,2875,*Abstract in Pop. Sci. Rev., Lond., 1879, p. 428*
+*Hay1*,2878,*Reprinted in Nature, xx, pp. 494-499; 515-521.  Kosmos, vi, pp. 339-352, 425-445, 1880; Proc. Amer. Assoc. Adv. Sci., xxviii, pp. 1-42, Salem, 1880; Pop. Sci. Month., xvi, pp. 219-236; 363-380*
+*Hay1*,2879,*Abstract in Neues Jahrb. Mineral., 1880, pp. 104-105*
+*Hay1*,2880,*For notice of this paper, by C. G. Giebel, see Zeitschr. gesammt.  Naturwiss. (3), v, p. 357, 1880; Abstracts in Kosmos, vii, pp. 74-77; Neues Jahrb. Mineral., 1880, pp. 105-106*
+*Hay1*,2881,*Abstract in Neues Jahrb. Mineral., 1880, pp. 106-107*
+*Hay1*,2882,*For synopses of this paper, see Kosmos, vii, p. 317; Neues Jahrb. Mineral., 1881, pp. 104-105*
+*Hay1*,2883,*Notes change of name to ^Baptanodon^*
+*Hay1*,2884,*Abstract in Arch. Sci. Phys. et Nat., Geneva, 1880, iv, pp. 420-422*
+*Hay1*,2885,*For abstracts, see Marsh, O. C., 1898 D. p. 26*
+*Hay1*,2887,*See also Kosmos, ix, pp. 319-321; Neues Jahrb. Mineral., 1881, pp. 109-110, 270-271.*
+*Hay1*,2888,*Reprinted in Kosmos, ix, pp. 464-465*
+*Hay1*,2889,*Reprinted in Ann. and Mag. Nat. Hist. (5), vii, 1881, pp. 488-489.  Describes ^Laopteryx priscus^ Marsh*
+*Hay1*,2890,*Abstract in Neues Jahrb. Mineral., 1881, p. 415*
+*Hay1*,2893,*Abstract in Archiv. Sci. Phys. et Nat., Geneva, vi, 1881, pp. 323-324*
+*Hay1*,2894,*Reprinted in Pop. Sci. Month., xx, pp. 312-315; Science (1), ii, pp. 512-513; Geol. Magazine (2), viii, pp. 485-487; Nature, xxv, pp. 22-23; Kosmos, x, pp. 231-234; Ann. and Mag. Nat. Hist. (5), viii, pp. 451-455*
+*Hay1*,2895,*Read before the National Acad. Sci., Nov. 14, 1881.  Reprinted in Kosmos, v, pp. 382-387; Geol. Magazine (2), ix, pp. 80-85; Ann. and Mag. Nat. Hist. (5), ix, pp. 79-84; Nature, xxv, pp. 244-246*
+*Hay1*,2896,*See also Geol. Magazine (2), ix, pp. 205-210; Kosmos, vi, pp. 103-108; and Nature, xxv, pp. 531-533.  Describes ^Rhamphorhynchus phyllurus^ Marsh*
+*Hay1*,2897,*Same as Marsh, O. C., 1881 H*
+*Hay1*,2898,*See also Geol. Magazine for 1883, pp. 386-388*
+*Hay1*,2899,*Abstract in Nature, xxviii, pp. 370-371; Neues Jahrb. Mineral., 1884, pp. 262-263*
+*Hay1*,2901,*Abstract with 3 figures in Science, iii, p. 199; Kosmos., ii, pp. 350-357.  Notice by Cope, Amer. Naturalist, xix, p. 67.  Reproduced in Geol. Magazine (2), x, pp. 99-107, with 10 figs. in the text*
+*Hay1*,2902,*Abstract with figures in Science, iii, pp. 542-544; Kosmos, ii, pp. 357-365.  Reprinted in Geol. Magazine (3), i, pp. 252-262.  Notice by Cope in Amer. Naturalist, xix, p. 67*
+*Hay1*,2904,*Reprinted in Geol. Magazine (3), i, pp. 345-348*
+*Hay1*,2906,*Reviewed in Geol. Magazine, (3), ii, 1885, pp. 212-228, with many figures reproduced.  Abstracts in Amer. Jour. Sci. (3), xxix, pp. 173-204; Geol. Magazine (3), ii, pp. 212-228; Nature, xxxii, pp. 97-99; Pop. Sci. Month., xxviii, pp. 133-134; Neues Jah*
+*Hay1*,2907,*Abstract in Science, iv, p. 261.  Read before Brit. Assoc. Adv. Sci., Montreal meeting, 1884*
+*Hay1*,2910,*Illustrated with a geological section*
+*Hay1*,2911,*Same as Marsh, O. C., 1884 G*
+*Hay1*,2912,*See also Geol. Magazine (3), iv, 1887, pp. 242-247, 289-299, pls. vii-ix*
+*Hay1*,2914,*Reprinted in Geol. Magazine (3), v, pp. 11-15*
+*Hay1*,2919,*Reprints in Rep. Brit. Assoc. for 1888, pp. 706-707, 1889; Geol. Magazine (3), vi, pp. 99-101*
+*Hay1*,2920,*Also in Geol. Magazine (3), vi, pp. 204-210*
+*Hay1*,2922,*Review by W. Dames in Neues Jahrb. Mineral., 1890, pp. 141-143*
+*Hay1*,2924,*For review by W. Dames see Neues Jahrb. Mineral., 1890, pp. 141-143*
+*Hay1*,2925,*Reprinted in Geol. Magazine (3), vii, pp. 1-5, pl. i*
+*Hay1*,2926,*Same as Marsh, O. C., 1889 A*
+*Hay1*,2935,*Reprinted in Geol. Magazine (3), viii, pp. 193-199, text figs. 1-19, pls. iv, v; pp. 241-248, text figs. 1-34*
+*Hay1*,2936,*Reprinted in part in Geol. Magazine (3), viii, pp. 248-250, pl. vii*
+*Hay1*,2937,*Reprinted in Geol. Magazine (3), viii, pp. 385-387, pl. xi*
+*Hay1*,2939,*See also Compte rend. Cong. Ge%Aolog. Internat., Washington, 1891, pp. 156-159, 1893*
+*Hay1*,2940,*Same as Marsh, O. C., 1891 B*
+*Hay1*,2942,*Also in Amer. Naturalist, vol. xxv, pp. 611-616.  A reply to Osborn, H. F., 1891 A*
+*Hay1*,2961,*A correction of some errors in R. Lydekker's paper in Nature, xlviii, p. 302*
+*Hay1*,2965,*Describes ^Heptacodon curtus^*
+*Hay1*,2969,*Same as Marsh, O. C., 1894 A*
+*Hay1*,2970,*Same as Marsh, O. C., 1894 B*
+*Hay1*,2971,*Descriptions and figures of several species.  The same, in part, as Marsh, O. C., 1894 D*
+*Hay1*,2972,*Describes new genus and species, ^Barornis regens^*
+*Hay1*,2975,*Describes ^Tanyops undans^ from South Dakota*
+*Hay1*,2976,*Figures and describes hind paddle of ^Baptanodon discus^ and vertebrae of ^B. natans^ and of ^Pantosaurus^ (^Parasaurus^) ^striatus^*
+*Hay1*,2977,*Also in Report Brit. Assoc. Adv. Sci., Ipswich, 1895, pp. 685-688; and Geol. Magazine (4), iii, pp. 1-8, figs. 1, 2 and pls. i-iv*
+*Hay1*,2978,*Abstract of paper read before International Congress of Zoologists, Leyden, 1885.  See also Marsh, O. C., 1896 D, Marsh, O. C., 1896 A, and Marsh, O. C., 1896 D*
+*Hay1*,2980,*See also Marsh, O. C., 1895 C*
+*Hay1*,2981,*Describes ^Stegomus arcuatus^*
+*Hay1*,2983,*See also Marsh, O. C., 1895 A and 1895 C*
+*Hay1*,2985,*See also Science (2) iv, pp. 805-816, figs. 1-2*
+*Hay1*,2992,*Describes ^Triceratops ealicornis^ and ^T. obtusus^*
+*Hay1*,2993,*Remarks made at International Congress of Zoologists, Cambridge, Eng., 4th meeting, Proceedings, pp. 71-74.  See also Science (2), viii, pp. 953-955*
+*Hay1*,2994,*Also in Report Brit. Assoc. Adv. Sci. for 1898 (1899), pp. 909-910.  Geol. Magazine (4), vi, 1899, pp. 157-158*
+*Hay1*,2997,*Reviewed in Neues Jahrb. Mineral., 1901, ii, p. 305*
+*Hay1*,2998,*Refers ^Limnocyon riparius^ Marsh to the new genus ^Telmatocyon^*
+*Hay1*,3000,*Treats of the anatomy of ^Palaeoniscus^, ^Acrolepis^, ^Amblypterus^, ^Pygopterus^, etc.  According to Traquair this paper contains many errors*
+*Hay1*,3005,*For additional information of these remains, without name, see Mather's First Ann. Rep. Geol. Surv., Ohio, 1838, p. 96.  The same is reprinted in Amer. Jour. Sci., xxxiv, p. 358*
+*Hay1*,3006,*Describes finding of ^Pteraspis?  acadica^*
+*Hay1*,3007,*Refers to ^Pteraspis?  acadica^ (^Cyathaspis acadica^)*
+*Hay1*,3008,*The new genus ^Diplaspis^ is proposed, with ^D. acadica^ as type*
+*Hay1*,3009,*Has description and figures of ^Diplaspis acadica^ and comparison with ^Palaeaspis americana^*
+*Hay1*,3011,*Reviewed by M. Schlosser in Neues Jahrb. Mineral., 1901, i, p. 148*
+*Hay1*,3012,*See also Science (2), vi, p. 852.  Preliminary report of a paper read before the New York Academy of Sciences*
+*Hay1*,3013,*Reviewed by Schlosser in Neues Jahrb. Mineral., 1900, i, Ref., pp. 299-308*
+*Hay1*,3014,*A brief abstract*
+*Hay1*,3016,*Presents lists of mammals occurring in each of the formations of each of the basins*
+*Hay1*,3017,*Reprinted in Lond. and Edinb. Philos. Mag., 1845, xxvi, pp. 453-456*
+*Hay1*,3018,*Contains also a discussion of the "Halbwirbel der Selachier," p. 261.  Comments on by J. A. Ryder, Amer. Naturalist, xx, p. 142*
+*Hay1*,3021,*Contains numerous citations of the literature of the development and homologies of the pelvic bones*
+*Hay1*,3022,*Contains numerous references to the literature of the subject*
+*Hay1*,3023,*Contains numerous references to the literature*
+*Hay1*,3028,*Besides a description of the cave, a list of the species recovered is given.  These are described in Cope, E. D., 1899 A*
+*Hay1*,3030,*Additional observations are recorded on pp. 257-260*
+*Hay1*,3035,*In this paper 10 species of bears are recognized as occurring in North America*
+*Hay1*,3037,*Describes the new genus and species ^Shastasaurus pacificus^*
+*Hay1*,3039,*A general account of the region.  No species are described*
+*Hay1*,3044,*Describes ^Bos priscus^, and considers briefly ^Bos pallasi^ Dekay and ^Bos bombifrons^.  ^Bos priscus^ includes ^Bison latifrons^ of Harlan*
+*Hay1*,3047,*Contains description of ^Anchitherium^*
+*Hay1*,3048,*Continued in Meyer, H. v. 1855 A, Meyer, H. v. 1856 B, and Meyer, H. v. 1860 D*
+*Hay1*,3049,*Contains remarks on ^Mosasaurus maximiliani^ and ^M. missouriensis^*
+*Hay1*,3060,*This memoir is devoted to descriptions and illustrations of ^Archegosaurus^ and its species*
+*Hay1*,3077,*Abstract in Nature, 1874, vol. x, p. 449*
+*Hay1*,3082,*Pp. 42-50 contain a translation with annotations of Rathke's Untersuchungen u%Fber die Entwicklung und den Ko%Frperbau der Krokodile*
+*Hay1*,3089,*This work discusses critically the nomenclature and synonymy of the family ^Vespertilionidae^ and its genera and species*
+*Hay1*,3090,*Describes ^Ursus procerus^*
+*Hay1*,3091,*On pages 372-376 is given a list of the fossil species known from the State*
+*Hay1*,3092,*Original edition published at Edinburgh, 1841*
+*Hay1*,3093,*Fifteenth edition.  Edinburgh, 1873.  William P. Nimmo*
+*Hay1*,3095,*Pages 227-242 are devoted to lists of the genera and species of Palaeozoic vertebrates.  In 1883 the author published a supplement consisting of pages 247 to 334, in which were additions and corrections to the contents of the original work.  The latter*
+*Hay1*,3096,*Pp. 586-614 contain a list of the genera and species of Palaeozoic fishes, with references to places of publication.  The genera are defined.  Pp. 614-627 are similarly devoted to the ^Batrachia^*
+*Hay1*,3097,*The names of vertebrates are found on pp. 713-718.  A number of new generic names are proposed to replace preoccupied names*
+*Hay1*,3099,*Extract from a letter addressed by Sylvanus Miller, esq., to Hon. Dewitt Clinton, in 1815*
+*Hay1*,3103,*No species are named*
+*Hay1*,3106,*Notice of in Edinb.  New Philos. Jour., 1828, v., p. 325*
+*Hay1*,3113,*A continuation of Mivart, St. G., 1867 B*
+*Hay1*,3119,*This article is followed by a bibliography of the subject*
+*Hay1*,3125,*Abstract in Archiv f. Anthrop., xvii, pp. 176-177*
+*Hay1*,3126,*Pp. 397-404 contain valuable tables, which give measurements of various portions of the skeletons, including teeth, of all the genera belonging to the ^Arctoidea^*
+*Hay1*,3127,*This portion of the article on ^Reptilia^ treats of the anatomy of the members of the class, especially of the osteology.  Appended is a list of general works on the anatomy*
+*Hay1*,3132,*Treats of the embryological development of the limbs of ^Selachii^*
+*Hay1*,3137,*Found at Richmond, Ind.*
+*Hay1*,3139,*Abstract of paper presented*
+*Hay1*,3141,*Records finding of remains of a large mastodon in Randolph County, Ind., and of another near New Paris, Ohio*
+*Hay1*,3143,*^Cheirotherium reiteri^ described*
+*Hay1*,3148,*Vice-presidential address before section of anthropology A. A. A. S., 1884*
+*Hay1*,3149,*Contains brief and unimportant remarks on the few fossil vertebrates known at that time from the Cretaceous rocks*
+*Hay1*,3150,*Pls. xi, xii contain figures of teeth of sharks.  The names of these, given provisionally by L. Agassiz, are found in the "Additional observations."*
+*Hay1*,3152,*Contains description and figure of ^Ptychodus mortoni^*
+*Hay1*,3153,*Description of ^Crocodilus^ (^Gavialis?^) ^clavirostris^*
+*Hay1*,3154,*Announces exhibition of bone of ^M. occidentalis^, but no description is given*
+*Hay1*,3157,*Species not identified.  Prof. C. H. Hitchcock regards them as artifacts (Hitchcock, C. H., 1869 A., p. 132)*
+*Hay1*,3158,*Not assigned to genera and species*
+*Hay1*,3159,*Refers to genus ^Agassizodus^ and to an undetermined snout fish*
+*Hay1*,3160,*Discusses the homologies of the ribs and flesh bones of fishes, the ribs and haemal arches of the higher vertebrates, the ear bones of the ^Cyprinidae^, etc.*
+*Hay1*,3161,*Under ^Amphibien^ Mu%Fller here considers both the groups ^Batrachia^ and ^Reptilia^*
+*Hay1*,3162,*This portion of the anatomy of the Myxinoids appeared in the Abhandl Akad. Wissensch. Berlin, for 1834 (1836), pp. 56-340.  Extensive comparisons are made in this work with the structures of the other fishes.  A "Nachtrag" is added in the part of the w*
+*Hay1*,3167,*Extract from a letter sent by J. Mu%Fller to A. Retzius.  See also reference to a letter from Professor Mu%Fller to Dr. Dunglison in Proc. Amer. Philos. Soc., iv, p. 338.  Date of letter Apr. 20, 1847*
+*Hay1*,3169,*Reprinted in Neues Jahrbuch Min., 1847, pp. 623-631*
+*Hay1*,3170,*A brief note*
+*Hay1*,3185,*An anonymous paper.  Refers to ^Triceratops^, ^Ceratosaurus^, ^Hesperornis^, ^Glyptodon^, etc.*
+*Hay1*,3186,*An unsigned note*
+*Hay1*,3187,*A note on ^Elephas primigenius^ in Alaska*
+*Hay1*,3188,*A note on ^Dinoceras mirabilis^ and the toothed birds*
+*Hay1*,3191,*Editorial remarks on Marsh, O. C., 1874 A*
+*Hay1*,3192,*^P. magnum^ discovered near Paris*
+*Hay1*,3194,*On pp. 1-8 are presented the literature bearing on fossil ^Trionychidae^ and a list of known species living and extinct*
+*Hay1*,3195,*Discusses the structure of ^Arvicola^ and ^Myodes^, especially that of the teeth*
+*Hay1*,3199,*Abstract of paper presented at Cleveland meeting of Amer. Assoc. Adv. Sci., 1853.  The remarks are of a general nature and no species are named.  See Newberry, J. S., 1856 A*
+*Hay1*,3200,*Same as Newberry, J S., 1853 B*
+*Hay1*,3202,*Extracted from Bulletin of National Institute*
+*Hay1*,3204,*There appears to have been a reprint of this paper with its own pagination*
+*Hay1*,3207,*Describes ^Dinichthys herzeri^*
+*Hay1*,3210,*Recorded as belonging to ^Trichechus rosmarus^*
+*Hay1*,3211,*Brief mention of a few species of vertebrates*
+*Hay1*,3215,*Some general remarks on ^Coelacanthus^; no description of ^C. elegans^*
+*Hay1*,3217,*Contains mention of four genera of fishes found there*
+*Hay1*,3218,*Gives a description (not the earliest) of ^Dinichthys terrelli^*
+*Hay1*,3219,*Identification of a skull found in Accomac County, Va., a drawing of which was presented by Dr. R. P. Stevens*
+*Hay1*,3222,*Contains descriptions and figures of the fossil fishes of the Devonian and the Carboniferous formations of Ohio*
+*Hay1*,3223,*Describes ^Deltodus mercurii^ Newb., ^Ptychodus whipplei^ Marcou, and mentions finding of ^Lamna texana^ Roem., and ^Oxyrhina mantelli^ Ag*
+*Hay1*,3225,*Said to have been issued in 1879.  Describes ^Diplognathus mirabilis^, ^Glyptopomus sayrei^, ^Archaeobatis gigas^, gen. nov., ^Dinichthys minor^, ^Ctenaacanthus compressus^, ^Rhynchodus occidentalis^, and ^R. excavatus^*
+*Hay1*,3226,*Describes ^Diplurus longicaudatus^ gen. et sp. nov. and ^Ptycholepis marshi^ sp. nov.*
+*Hay1*,3228,*Describes new genus ^Mylostoma^ and the new species ^M. variabilis^ and ^M. terrelli^*
+*Hay1*,3229,*A brief abstract*
+*Hay1*,3232,*Same as Newberry, J. S., 1884 A*
+*Hay1*,3234,*Describes new genus ^Spiraxis^, with species ^major^ and ^randalli^*
+*Hay1*,3235,*Cited from a reprint with pp. 11-14*
+*Hay1*,3236,*Contains a list of the fishes found in the Triassic rocks*
+*Hay1*,3237,*Describes ^Coelosteus ferox^ gen. et sp. nov.*
+*Hay1*,3238,*An abstract describing ^Titanichthys clarkii^*
+*Hay1*,3239,*For review of by A. S. Woodward, see Nature, xliii, pp. 366-367*
+*Hay1*,3240,*Describes ^Edestus giganteus^ sp. nov.*
+*Hay1*,3241,*Describes ^Rhizodus anceps^ sp. nov.*
+*Hay1*,3242,*An abstract presenting descriptions of ^Cladodus kepleri^, ^Actinophorus clarkii^, ^Dinichthys curtus^, ^D. tuberculatus^*
+*Hay1*,3243,*Although the imprint of the title-page of this monograph gives 1889 as year of printing, it was not issued until August, 1890.  A review of this monograph by A. S. Woodward appeared in Nature, xliii, p. 146, 1890*
+*Hay1*,3244,*Abstract*
+*Hay1*,3245,*From Ann. Soc. Ge%Aol. Belgique, xvi.  ^Dinichthys pustulosus^ (= ^D. tuberculatus^) and ^D. terrelli^ are reported from Belgium.  The determinations were made by Dr. Newberry.  The paper above quoted is a translation of a paper by Lohest*
+*Hay1*,3246,*In this paper there are described 16 new species, most of them figured.  The new genus ^Stenognathus^ is proposed, having as type ^Dinichthys corrugatus^*
+*Hay1*,3248,*Contains descriptions and figures of fossil fishes from the Carboniferous and Subcarboniferous formations of Illinois*
+*Hay1*,3252,*This portion of the article on birds is devoted mainly to avian biology.  Pages 728-736 deal briefly with fossil birds, subfossil birds, birds recently exterminated, and birds partially exterminated*
+*Hay1*,3253,*The author cites the principal literature bearing on the history and structure of this bird*
+*Hay1*,3254,*In the introduction (pp. 1-124) Newton discusses the history of the science of ornithology and schemes of classification.  Gadow has articles on the skeleton*
+*Hay1*,3256,*Contains list of genera and species which have been referred to ^Saurocephalus^, etc., and bibliography*
+*Hay1*,3257,*Discusses the genera ^Portheus^, ^Daptinus^, and ^Ichthyodectes^, and has description and figures of ^Daptinus intermedius^*
+*Hay1*,3261,*Contains on pp. 206-207 a list of papers on fossil Siluroid fishes*
+*Hay1*,3263,*Contains list of six known species of ^Onychodus^*
+*Hay1*,3264,*Describes two new species and gives list of known species*
+*Hay1*,3265,*Vol. i of this work treats of the fossil invertebrates; pp. 1475-1560 of vol. ii treats of fossil plants*
+*Hay1*,3270,*Describes new genus ^Schistopleurum^*
+*Hay1*,3272,*Contains a list of Hadrosaurs*
+*Hay1*,3281,*Notices of this paper, with 2 figs. of ^L. cornutus^, appeared in Amer. Naturalist, xv, p. 888; Amer. Jour. Sci., xxii, p. 235*
+*Hay1*,3283,*Describes new genus and species, ^Microconodon tenuirostris^*
+*Hay1*,3290,*Review of, in Geol. Magazine, 1888, v, p. 132.  Also in Archiv f. Anthrop., xix, pp. 135-141*
+*Hay1*,3291,*^Athrodon^ preoccupied, ^Kurtodon^ substituted*
+*Hay1*,3297,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, pp. 157-159*
+*Hay1*,3298,*For review see Nature, xxxviii, pp. 611-614; Amer. Naturalist, xxii, pp. 723-724.  Also, H. Winge, 1893 C, p. 117*
+*Hay1*,3299,*Abstract of paper read before Amer. Morpholog. Society*
+*Hay1*,3300,*Abstract of paper read before Brit. Assoc. Adv. Sci., and published in full in Amer. Naturalist, 1888, p. 1067*
+*Hay1*,3301,*See Amer. Naturalist, xxiii, pp. 559-566.  Nature, xli, pp. 227-228; Rep. Brit. Assoc. Adv. Sci. for 1889.  Discusses the evolution of the teeth of ^Mammalia^*
+*Hay1*,3303,*Review by M. Schlosser in Archiv f. Anthrop, xx, pp. 111-112*
+*Hay1*,3304,*This forms a portion of a joint paper by Professors Scott and Osborn.  See Scott, W. B., 1890 A, and Scott and Osborn, 1890 A.  For review by R. Lydekker, see Nature, xliii, p. 177*
+*Hay1*,3305,*See also Amer. Naturalist, xxv, pp. 595-611, figs. 1-12*
+*Hay1*,3306,*Abstract of a review of papers here entered under titles of Marsh, O. C., 1889 D, and Marsh, O. C., 1889 F*
+*Hay1*,3307,*Review by M. Schlosser in Archiv f. Anthrop., xxii, p. 118*
+*Hay1*,3309,*This is a review of papers by Professor Marsh, and is a reprint, with slight changes and additions, of Osborn, H. F., 1891 A.  Abstract in Archiv f. Anthrop., xxii, pp. 117-118*
+*Hay1*,3313,*Abstract of Osborn, H. F., 1891 C*
+*Hay1*,3315,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxiii, p. 152*
+*Hay1*,3317,*A review of paper by Julius Taeker, in Morpholog. Jahrbuch, xv, p. 308*
+*Hay1*,3318,*A review of the contributions of Dr. A. Fleischmann, Dr. Julius Taeker, and Dr. Carl Ro%Fse*
+*Hay1*,3319,*For review of this paper, see Nature, xlix, pp. 235 and 257*
+*Hay1*,3320,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 126-127*
+*Hay1*,3322,*Vice-presidential address before the Amer. Assoc. for the Advance of Science, Madison, Wis., Aug. 17, 1893.  Same as Osborn, 1893 A.  Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 123-124*
+*Hay1*,3324,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 125-126*
+*Hay1*,3325,*Noticed by M. Schlosser, in Archiv f. Anthrop., xxiv, p. 136*
+*Hay1*,3326,*Describes the new species ^P. occidentalis^ Osb.*
+*Hay1*,3329,*Report of meeting of N. Y. Acad. Sci.*
+*Hay1*,3330,*In reports of meeting of N. Y. Acad. Sci.*
+*Hay1*,3332,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv., pp. 181-182*
+*Hay1*,3334,*Quoted from reprint, pp. 1-14, with pl. AA and text figs. A-D*
+*Hay1*,3335,*Secretary's report of the session of the New York Academy of Science, Dec. 9, 1895.  Also found in Anatom.  Anzeiger, xi, p. 512 and Zoolog.  Anzeiger, xix, p. 48*
+*Hay1*,3336,*Notice of this paper by M. Schlosser in Neues Jahrb. Mineral., 1899, ii, pp. 319-321, and in Archiv f. Anthrop., xxv, p. 216*
+*Hay1*,3339,*A synopsis of a paper read before the Brit. Assoc. Adv. Sci. at Toronto, 1897.  An abstract of this paper is found on p. 684 of the report of the meeting*
+*Hay1*,3340,*Appended is a bibliography of the subject.  The paper is reviewed by M. Schlosser in Neues Jahrb. Mineral, 1901, i, p. 151*
+*Hay1*,3341,*Report of paper read before New York Biological Society, Apr. 5, 1897.  See also Science (2), vi, p. 107*
+*Hay1*,3344,*Brief review in Neues Jahrb. Mineral., 1900, p. 132*
+*Hay1*,3346,*Discussion before Amer. Soc. Naturalists*
+*Hay1*,3353,*Pp. 121-125 of this memoir are devoted to the bibliography of the rhinoceroses.  A notice of this memoir is found in Natural Science, 1898, xiii, pp. 151-159*
+*Hay1*,3359,*Abstract of remarks at International Congress of Zoologists at Cambridge, England*
+*Hay1*,3360,*A brief abstract.  ^Aceratherium^ not a hornless rhinoceros*
+*Hay1*,3361,*Remarks on this pamphlet are found in Natural Science, 1898, xiii, p. 230*
+*Hay1*,3362,*Reviewed in Neues Jahrb. Mineral., 1900, ii, pp. 135-138*
+*Hay1*,3366,*See also, for extract from this paper, Science (2), x, 1899, pp. 919-925, figs. 1-3; for review, Neues Jahrb. Mineral., 1901, i, p. 156*
+*Hay1*,3367,*An extract of this paper was published in Science (2), x, pp. 870-874, with fig. 1.  Reviewed in Neues Jahrb. Mineral., 1901, i, p. 156*
+*Hay1*,3368,*Brief synopsis of paper read before New York Academy of Sciences.  See Osborn, H. F., 1899 D*
+*Hay1*,3370,*Abstract in Neues Jahrb. Mineral., 1901, ii, p. 305*
+*Hay1*,3372,*An abstract of this paper was published in Science, x, 1899, p. 896*
+*Hay1*,3375,*Refers to finding of ^Trigonias osborni^ Lucas, and ^Archelon^ Wieland*
+*Hay1*,3376,*An abstract of a paper read before the N. Y. Acad. Sci*
+*Hay1*,3382,*Pp. 59-64 are occupied by a bibliography of the subject; pp. 65-72 by a list of the scientific publications of the author*
+*Hay1*,3383,*Reviewed by W. B. Scott in Science (2), i, p. 660, and by M. Schlosser in Archiv f. Anthrop., xxv, pp. 176-179*
+*Hay1*,3384,*Followed by systematic catalogue of the Eocene vertebrates of Wyoming, pp. 131-146*
+*Hay1*,3386,*I.  Homologies and nomenclature of the mammalian molar cusps (H. F. O.), p. 84.  II.  The classification of the ^Perissodactyla^ (H. F. O.), p. 90.  III.  The ancestry of the ^Felidae^ (J. L. W.), p. 94.  IV.  Taxonomy and morphology of the primates, c*
+*Hay1*,3387,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiii, pp. 135-136*
+*Hay1*,3388,*Remarks on this paper in Natural Science, ii, p. 326*
+*Hay1*,3389,*Abstract of, by M. Schlosser in Archiv f. Anthrop., xxiv, pp. 167-168*
+*Hay1*,3390,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, pp. 179-181*
+*Hay1*,3392,*An editorial notice of the above report made by D. D. Owen*
+*Hay1*,3399,*Also in Lond. and Edinb. Philos. Mag., xiv, pp. 302-307; Ann. Nat. Hist., 1839, iii, pp. 210-213; Ann. Sci. Naturelles (2), xii, Zool. 1839, pp. 222-229*
+*Hay1*,3403,*For preliminary description see Proc. Geol. Soc. Lond., iii, 1840, p. 108*
+*Hay1*,3407,*The genera ^Lithornis^ and ^Palaeophis^ are established*
+*Hay1*,3411,*Taken from Proc. Geol. Soc. Lond., iii, pp. 389-397*
+*Hay1*,3420,*Letter from Professer Owen regarding ^Orycterotherium^, ^Mylodon^, and ^Megatherium^*
+*Hay1*,3423,*Due to repetitions of numbers on pls.; there are altogether 168.  For dates of publication see Woodward and Sherborn, 1890 A*
+*Hay1*,3426,*Reference to this paper is made in Amer. Jour. Sci., iii, 1847, p. 125*
+*Hay1*,3428,*This forms a portion of Dr. Gibbes's paper on ^Basilosaurus^, Gibbes, R. W., 1847 B*
+*Hay1*,3429,*Abstract of letter stating that ^Dorudon^ of Gibbes is same as ^Zeuglodon^*
+*Hay1*,3430,*Extracted from Owen's British Fossil Mammalia*
+*Hay1*,3433,*Collection made in digging canal near Brunswick, Ga.*
+*Hay1*,3437,*The above is a joint paper by Professors Owen and Bell*
+*Hay1*,3444,*Abstract of a memoir read by Professor Owen to the Royal Society of London, cited from Jameson's Edinb. Jour., li, 350*
+*Hay1*,3446,*Among other things this paper treats of the dentition*
+*Hay1*,3448,*Discusses relationships of the bones discovered by Lyell and Dawson in Nova Scotia, and assigns to them the name ^Dendrerpeton acadianum^*
+*Hay1*,3449,*Describes and figures ^Parabatrachus^ (type ^P. colei^), ^Megalichthys^, and ^Centrodus^*
+*Hay1*,3461,*The structure of the tibia and femur in the various orders of birds and a number of genera is discussed*
+*Hay1*,3462,*From Proc. Roy. Inst. Great Britain, May, 1856*
+*Hay1*,3463,*Treats of ^Iguanodon^ and ^Hylaeosaurus^*
+*Hay1*,3466,*From Jour. of Proc. Linn. Soc., Lond., 1857*
+*Hay1*,3467,*See Buckland, W., 1858 A*
+*Hay1*,3481,*Taken from Proc. Zool. Soc. Lond., July 9, 1864*
+*Hay1*,3485,*A review of the above work of Van Beneden, which appeared in Memoirs Royal Acad. of Belgium, 1865*
+*Hay1*,3492,*Vol. iii treats of the anatomy of the soft portions of the animal body and of the dentary and tegumentary systems.  Chapter xi treats of the general conclusions reached*
+*Hay1*,3493,*^Equus conversidens^ described.  ^E. tau^, ^E. curvidens^, and ^E. arcidens^ mentioned*
+*Hay1*,3503,*Reviewed in Geol. Magazine, (2) ii, pp. 422-423*
+*Hay1*,3506,*Discusses ^Bathygnathus borealis^*
+*Hay1*,3514,*A continuation of paper designated Owen R., 1878 D*
+*Hay1*,3515,*Conclusion of papers designated as Owen, R., 1878 D and Owen R., 1879 B*
+*Hay1*,3518,*Contains remarks by Seely and Twelvetrees*
+*Hay1*,3523,*A reference to Woodward, H., 1886 B, concerning ^Phenacodus^*
+*Hay1*,3524,*This paper deals especially with the genus ^Ziphius^, but a number of other genera are discussed, among them ^Belemnoziphius^*
+*Hay1*,3528,*The earliest generic name of the sea cow is ^Hydrodamalis^ Retzius; the earliest specific name is ^gigas^ Zimm*
+*Hay1*,3529,*A review of the paper whose title is quoted above*
+*Hay1*,3530,*Contains corrections of various generic names of mammals*
+*Hay1*,3535,*A letter addressed to Isis from Madrid*
+*Hay1*,3553,*An analysis of this memoir by E. Alix is found in Jour. de Zoologie, iv, 1875, pp. 62-69*
+*Hay1*,3554,*The remainder of the article on birds is from the pen of Alfred Newton.  Parker deals with the osteology in particular*
+*Hay1*,3562,*See also Proc. Roy. Soc. Lond., 1879, p. 214*
+*Hay1*,3586,*For Professor Cope's review of this paper see Amer.  Naturalist, xxii, p. 448; for that of M. Schlosser, Archiv f. Anthrop., xix, p. 159*
+*Hay1*,3588,*Appended is a list of 105 papers consulted by the authoress.  Reviewed by M. Schlosser in Archiv f. Anthrop,, xxiii, pp. 138-139*
+*Hay1*,3592,*Citations made from reprint with pp. 1-62*
+*Hay1*,3595,*Account of bones found at Bigbone-lick in Kentucky.  The plate figures a portion of the skull and horn core of ^Bison latifrons^*
+*Hay1*,3598,*Most of the drawings illustrating this paper are rude*
+*Hay1*,3599,*This paper does not identify with certainty the bones described.  May be ^Megatherium^, ^Mylodon^, or ^Megalonyx^, or even something else.  J. A. Allen refers them with doubt to ^Bison antiquus^ (Allen, J. A., 1876 B, p. 21.)  Leidy (1869 A, p. 397) re*
+*Hay1*,3600,*Gives description of a fossil humerus, which is named ^Orycterotherium oregonensis^*
+*Hay1*,3601,*The author deals principally with the muscular system, but devotes a few pages (39-46) to the skeleton*
+*Hay1*,3606,*Contains titles of 26 papers on the subject*
+*Hay1*,3611,*Contains description and figures of ^Ischyodus suevicus^*
+*Hay1*,3612,*The first edition of the work was published in the year 1844*
+*Hay1*,3614,*Of this work pp. 29-99, inclusive, with pls. i-xii. are devoted to the vertebrates*
+*Hay1*,3616,*On pp. 64-66 is found a list of the tortoises of the Swiss molasse*
+*Hay1*,3620,*This paper contains a very full bibliography of the pterodactyls*
+*Hay1*,3621,*Refers (p. 301) to the finding of a large tusk at Brookville, Ind., and of a mastodon's tooth near Jacksonburg, Ind.  See, also, Amer. Jour. Sci., xl, 1841, p. 149*
+*Hay1*,3622,*Recognizes two N. A. species, ^E. primigenius^ and ^E. trogontherii^.  The latter, the author says, may be identical with ^E. columbi^*
+*Hay1*,3624,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, pp., 127-129*
+*Hay1*,3626,*Review by M. Schlosser in Archiv f. Anthrop., xxii, pp. 96-97*
+*Hay1*,3630,*Discusses the derivation of the Siluroids from ^Amphioxus^, ^Myxine^, etc.*
+*Hay1*,3636,*Treats of the species of ^Hippopotamus^ and of ^Sus^ then known*
+*Hay1*,3639,*A review of Wyman, J., 1846 B*
+*Hay1*,3642,*Contains 59 titles of papers consulted*
+*Hay1*,3643,*See vol. iv, pp. 35-37, for a letter from Richard Owen to Pouchet on the above memoir*
+*Hay1*,3644,*This portion of the authors' researches is devoted to the osteology of ^Physeter macrocephalus^*
+*Hay1*,3647,*Contains remarks on ^Acanthodidae^ and ^Cephalaspidae^.  New genus ^Euthacanthus^ (=^Climatius^) is established*
+*Hay1*,3655,*Describes new species ^Coelodus attenuatus^, and gives figs. of ^Corax pristodontus^ and ^Scapanorhynchus^?  (^Odontaspis^) ^subulatus^*
+*Hay1*,3660,*This paper is devoted to descriptions of the teeth of sharks*
+*Hay1*,3665,*On this tooth the genus ^Leidyotherium^ was proposed without any specific name.  It appears to be quite probable that there was an error regarding the locality*
+*Hay1*,3666,*Refers to Plummer, J. T., 1843 A*
+*Hay1*,3672,*An extract "from an American paper," referring to the Newburgh, N. Y., mastodon*
+*Hay1*,3673,*Description of ^Lepidotus elvensis^, Blv*
+*Hay1*,3674,*This volume, it is stated on the title-page, was not issued until 1854*
+*Hay1*,3676,*Pp. 1-258, with pls. 1-19, are devoted to the ^Vertebrata^.  A second edition of this work was published in 1866.  A third edition of 1,239 pages and 100 pls. appeared in 1885*
+*Hay1*,3678,*Of this work pp. 19-392 are devoted to the ^Vertebrata^*
+*Hay1*,3680,*Treats of the anatomy, including the osteology, of the living ^Edentata^*
+*Hay1*,3681,*A translation of this work will be found in Parker, W. K., 1868 A*
+*Hay1*,3685,*Mentions only ^Catopterus gracilis^ and ^Palaeoniscus^, species not determined*
+*Hay1*,3688,*^Vulpes^ obtained from clay beneath drift*
+*Hay1*,3689,*Abstract of communication made to the Amer. Assoc. Adv. Sci.*
+*Hay1*,3692,*Appended is a list of papers, 36 in number, which bear on the subject discussed*
+*Hay1*,3693,*Appended is a list of papers bearing on the subject, 90 in number*
+*Hay1*,3700,*Describes as new ^Dicotyles stenocephalus^ and compares it with North American species*
+*Hay1*,3702,*Followed by remarks in reply by Dr. Otto Jaekel*
+*Hay1*,3706,*For review of this paper see A. Tornquist, in Zoolog. Centralbl., i, pp. 649-656*
+*Hay1*,3707,*Reviewed by Tornquist, Zoolog. Centralbl., v, 1898, pp. 472-474*
+*Hay1*,3710,*Of this "Abtheilung" only pp. 1-13 are devoted to the ^Vertebrata^, and these are all fishes*
+*Hay1*,3712,*Describes new species, ^B. appalachicolus^*
+*Hay1*,3719,*Describes and illustrates the dentition of the horse from six months before birth to old age*
+*Hay1*,3725,*Mentions Prof. F. A. Lucas's identification of ^Labrosaurus^ with ^Antrodemus^*
+*Hay1*,3726,*A brief abstract is given in Neues Jahrb. Mineral., 1841, pp. 607-609*
+*Hay1*,3727,*Describes ^D. minor^, not ^D. minor^ of Newberry; later called ^D. ringuebergi^ by Newberry*
+*Hay1*,3731,*On pp. 419-420 are found descriptions of ^Lamna texana^, and the genus ^Ancistrodon^ Debey.  ^Otodus appendiculatus^, ^Oxyrhina mantelli^ and ^Corax heterodon^ are mentioned*
+*Hay1*,3733,*Describes ^Palaeoteuthis dunensis^*
+*Hay1*,3735,*The species here called ^Rhizodus hibberti^ is renamed ^Rhizodopsis robusta^ by A. S. Woodward*
+*Hay1*,3738,*Abstract by M. Schlosser in Archiv f. Anthrop., xxiii, p. 153*
+*Hay1*,3743,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 137-138.  Contains citations of the literature of the subject*
+*Hay1*,3745,*Preceded by a paper on same subject by Dr. M. Schlosser*
+*Hay1*,3748,*List of 248 titles of papers bearing on the subject.  Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, pp. 193-195*
+*Hay1*,3750,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, pp. 234-235*
+*Hay1*,3752,*Reviewed by M. Schlosser in Archiv f. Anthrop., xx, pp. 152-154*
+*Hay1*,3753,*This is a systematic list of described fossil vertebrates, with references to places of publication of descriptions*
+*Hay1*,3759,*Zoological position of fossil not determined*
+*Hay1*,3760,*Contains remarks on the structure of the teeth of ^Acanthodes^ and ^Palaeoniscus^, with illustrations*
+*Hay1*,3763,*This paper was published earlier in Bull. Acad. St. Pe%Atersbourg (2), i, 1890, pp. 393-410*
+*Hay1*,3767,*A brief communication regarding the metamery of the primordial skull of ^Thyestes^ and ^Tremataspis^*
+*Hay1*,3774,*Describes genus ^Dicrenodus^, type ^D. okensis^*
+*Hay1*,3777,*In the footnotes are found numerous references to the literature bearing on the subject*
+*Hay1*,3778,*The genus ^Nummopalatus^ is here established, p. 101*
+*Hay1*,3785,*See Lang, Fr., and Ru%Ftimeyer, L., 1867 A*
+*Hay1*,3790,*Contains discussion of the teeth of living species of horses*
+*Hay1*,3793,*Introduction, with pls. i and ii in vol. vii, 1880*
+*Hay1*,3797,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, pp. 141-145*
+*Hay1*,3798,*See also Verhandl. naturf. Gesellsch. Basel, 1891, ix, pp. 331-362.  For review by M. Schlosser, see Archiv f. Anthrop., xx, pp. 113-114.  Contains discussion of foot structure*
+*Hay1*,3799,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxiii, pp. 139-141*
+*Hay1*,3800,*Discusses the teeth of ^Mammalia^ and the relationships of the mammals of Egerkingen to those of the American Eocene*
+*Hay1*,3803,*Reviewed in Amer. Naturalist, xiii, pp. 446-449*
+*Hay1*,3806,*Abstract of paper read*
+*Hay1*,3812,*See notice of, in Amer. Naturalist, xxvii, p. 391.  Reprinted in Ann. and Mag. Nat. Hist. (6), xi. pp. 243-248*
+*Hay1*,3814,*"^Getalodus^" is an evident misprint for ^Petalodus^*
+*Hay1*,3816,*Abstract of Safford, 1892 A*
+*Hay1*,3819,*Contains numerous citations of the literature of the subject*
+*Hay1*,3823,*Contains descriptions and figures of fossil fishes of the Carboniferous and Subcarboniferous, especially of Illinois*
+*Hay1*,3825,*Specimen referred by Leidy (Leidy, 1869 A, p. 374) to ^B. cavifrons^*
+*Hay1*,3829,*Expresses gratification at the progress of palaeontology in North America*
+*Hay1*,3836,*Treats of ^Polycotylus^, ^Iguanodon^, etc*
+*Hay1*,3846,*Nachtrag und Berichtigungen zu "Die Nager des europa%Fischen Tertia%Frs," xxxi, pp. 323-328*
+*Hay1*,3850,*Pp. 432-433 are entitled: Erkla%Frung*
+*Hay1*,3851,*Abstract in Archiv f. Anthrop., xviii, pp. 131-139*
+*Hay1*,3852,*Abstract in Archiv f. Anthrop., xviii, pp. 130-131*
+*Hay1*,3854,*Reply to review by Professor Cope in Amer. Naturalist, 1886, pp. 719-721 (Cope, E. D., 1886 K)*
+*Hay1*,3855,*Abstract in Archiv f. Anthrop., xvii, pp. 279-285*
+*Hay1*,3857,*Abstract in Archiv f. Anthrop., xx, pp. 154-160*
+*Hay1*,3858,*Abstract in Archiv f. Anthrop., xvii, pp. 285-300, with pl. xii*
+*Hay1*,3860,*The notices of the literature for 1887 occupies pp. 78-116; for that of 1888, pp. 117-164*
+*Hay1*,3861,*Abstract in Archiv f. Anthrop., xxi, pp. 136-137*
+*Hay1*,3862,*Abstract in Zoolog. Record for 1890, Mamm. p. 14.  Mention is made in this work of many American forms, and their relationships are discussed*
+*Hay1*,3863,*Abstract in Archiv f. Anthrop., xxi, pp. 132-136*
+*Hay1*,3869,*Followed by Dr. Ro%Fse on same subject*
+*Hay1*,3872,*Pp. 101-145 are occupied with the literature of 1893; pp. 146-182 with that of 1894*
+*Hay1*,3873,*Pp. 157-198 are taken up with the literature of 1895; pp. 198-244 with that for 1896*
+*Hay1*,3880,*Pp. 28-36 are devoted to "Das Mammuth und seine Lagersta%Ftte."*
+*Hay1*,3882,*The author claims to have found osseous lacunae in the shield of ^Pteraspis^.  See, also, reply by E. R. Lankester, this volume, p. 478*
+*Hay1*,3887,*This account is incorporated in paper by F. A. Lucas (Lucas, F. A., 1900 E)*
+*Hay1*,3889,*Appended is a list of 80 papers on the subject discussed.  Abstract of, by M. S. Schlosser in Archiv f. Anthrop., xxiv, pp. 179-180*
+*Hay1*,3890,*A review of Marsh, O. C., 1884 F, with correction in vol. vi, p. 454*
+*Hay1*,3891,*A review of Prof. B. Vetter's article in Festschrift der naturw. Gesellsch. Isis in Dresden, May, 1885, pp. 109-122*
+*Hay1*,3893,*Describes ^Desmatotherium guyotii^ and ^Dilophodon minusculus^*
+*Hay1*,3897,*Notice of this paper in Amer. Naturalist, xix, p. 495*
+*Hay1*,3898,*An abstract of paper read*
+*Hay1*,3904,*Abstract of paper read*
+*Hay1*,3905,*Extra copies printed in advance for the author Oct. 10, 1887.  Reviewed by M. Schlosser in Archiv f. Anthrop., xviii, pp. 139-140*
+*Hay1*,3907,*Abstract in Princeton Coll. Bull., i, p. 118, 1889*
+*Hay1*,3909,*This forms a portion of a joint paper by Professors Scott and Osborn.  See Osborn, H. F. 1890 D, and Scott and Osborn, 1890 A.  Notice of, occurs in Princeton Coll. Bull., ii, p. 46*
+*Hay1*,3910,*For review of this paper, by R. Lydekker, see the Geol. Magazine (3), vii, p. 568; by M. Schlosser, Archiv f. Anthrop., xxi, pp. 137-139*
+*Hay1*,3912,*An abstract is given by M. Schlosser in Archiv f. Anthrop., xxii, 1894, pp. 118-120*
+*Hay1*,3913,*Review in Amer. Geologist, ix, pp. 402-404; also by Schlosser in Archiv f. Anthrop., xxii, 1894, pp. 120-122*
+*Hay1*,3916,*See for abstract, Princeton Coll. Bull., iv, pp. 74-76; for review by M. Schlosser, Archiv f. Anthrop., xxiii, p. 155*
+*Hay1*,3917,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxiii, pp. 141-142*
+*Hay1*,3920,*Description of ^Parictis primaevus^*
+*Hay1*,3921,*List of species and description of new species*
+*Hay1*,3924,*Notice of this paper in Amer. Naturalist, xxviii, p. 952, and xxix, p. 368; also in Archiv f. Anthrop., xxiv, p. 170.  Abstract in Princeton Coll. Bull., vi, pp. 98-100, 1894*
+*Hay1*,3927,*Appendix, p. 536, describing the new species ^A. rostratus^.  Review by M. Schlosser in Archiv f. Anthrop., xxv, pp. 219-221*
+*Hay1*,3928,*Review by M. Schlosser in Archiv f. Anthrop., xxv, pp. 218-219*
+*Hay1*,3929,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, pp. 217-218*
+*Hay1*,3931,*Abstract in Princeton Coll. Bull., vi, pp. 76-78, 1894.  Noticed by M. Schlosser in Archiv f. Anthrop., xxiv, pp. 168-170.  This memoir, or reprints of it, appears to have been issued some time in the year 1894.  The imprint "1895" is on the cover of t*
+*Hay1*,3932,*Abstract of paper in the Proc. Nat. Sci., Phila. Acad., 1895, describing ^Protoptychus hatcheri;^ reviewed by M. Schlosser in Archiv f. Anthrop., xxv, p. 182*
+*Hay1*,3943,*Note on, by H. F. Osborn in Science (2), xi, 1900 p. 115*
+*Hay1*,3944,*Reprinted in Ann. and Mag. Nat. Hist. (5), v, 1882, pp. 332-334*
+*Hay1*,3946,*A brief abstract*
+*Hay1*,3947,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, p. 97*
+*Hay1*,3948,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, pp. 91-98*
+*Hay1*,3949,*Referred to under designations Scott, W. B., 1890 A and Osborn, H. F., 1890 D.  Author's reprints of this paper were issued Aug. 20, 1889.  The imprint of Part III of the Transactions gives the date as 1890.  Reviewed by M. Schlosser in Archiv f. Anthr*
+*Hay1*,3950,*Abstract in Zoolog.  Record for 1890, Mamm., p. 15.  Reviewed by M. Schlosser in Archiv f. Anthrop., xx, pp. 114-116*
+*Hay1*,3955,*The appendix, pp. 129-132, is devoted to the bibliography of the subject*
+*Hay1*,3956,*This note refers to paper by E. D. Cope. in Amer. Naturalist, October, 1870*
+*Hay1*,3957,*Describes the new genus ^Glossochelys^*
+*Hay1*,3960,*Review of this paper by "W. D." in Geol. Magazine (2), iv, 1877, p. 124*
+*Hay1*,3972,*Reviewed by M. Schlosser in Archiv f. Anthrop,, xix, pp. 145-146*
+*Hay1*,3975,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, p. 160*
+*Hay1*,3981,*Refers to Marsh's account of the teeth of ^Triceratops^ and describes and figures the two-rooted tooth of ^Nuthetes^*
+*Hay1*,3986,*Annual Report Yorkshire Philos.  Soc. for 1895*
+*Hay1*,3987,*Abstract of remarks made at International Congress of Zoologists at Cambridge, England, 4th meeting; proceedings, pp. 68-71*
+*Hay1*,3993,*This article deals with the osteology of birds*
+*Hay1*,3997,*Translation in Ann. and Mag. Nat. Hist. (3), xvi, pp. 432-443*
+*Hay1*,4000,*This paper forms Appendix II to J. A. Allen's memoir, The American Bisons, and was reprinted in Men. Mus. Comp. Zool., iv, pp. 232-236*
+*Hay1*,4003,*Also, with little change in Ann. Rep. U. S. Geol. and Geog. Surv. for 1878 (1883), pp. 653-700, with pls. v-xiii, and 16 figs. in the text*
+*Hay1*,4004,*Also, in Ann. Rep. U. S. Geol. and Geog. Surv. for 1878 (1883), pp. 719-725, with pl. xiv*
+*Hay1*,4005,*Also, with little change, in Annual Report U. S. Geol. and Geog. Surv. for 1878 (1883), pt. i, pp. 593-620, with pls. i-iii*
+*Hay1*,4006,*Also in Annual Report U. S. Geol. and Geog. Surv. for 1878 (1883), pp. 627-650, with pl. iv*
+*Hay1*,4008,*For discussion of this paper see Jeffries, J. A., Science, ii, p. 739, and iii, p. 59*
+*Hay1*,4012,*Part I consists of a translation of Sagemehl's paper on ^Amia^.  Part II describes osteology of ^Amia^, and portions of that of ^Micropterus^ and ^Albula^*
+*Hay1*,4022,*This paper is a continuation of Shufeldt, 1888 A*
+*Hay1*,4023,*A continuation of Shufeldt, 1889 B. Treats of ^Fraterculinae^, ^Fratercola^, ^Lunda^, ^Uria^, and the Alcidae^*
+*Hay1*,4025,*A continuation of Shufeldt, 1890 A*
+*Hay1*,4027,*A general account of Silver Lake, Oregon, and of fossil remains there found*
+*Hay1*,4028,*See also The Auk, 1891, viii, pp. 365-368.  A list of 51 species, with remarks on some of the most interesting*
+*Hay1*,4029,*Continuation and conclusion of Shufeldt, 1890 B*
+*Hay1*,4039,*All are of existing species and yet living in that region*
+*Hay1*,4044,*This is followed by remarks on the fossil tracks by H. G. Bronn*
+*Hay1*,4049,*Translated from Sitzungsber. k. p. Akad. Wissensch. Wien, math. naturw. Cl., cii, Abth. i, 1893, pp. 250-268, pl. i*
+*Hay1*,4050,*Appended is a list of 59 books and papers bearing on the osteology of the ^Lacertilia^*
+*Hay1*,4051,*This work includes a list of 67 papers on the subject treated*
+*Hay1*,4052,*This paper includes a list of 61 works on the subject*
+*Hay1*,4053,*Appended is a list of 22 works bearing on the subject*
+*Hay1*,4055,*This is an extract from a letter to the editor from an unnamed correspondent.  No species or genera are named*
+*Hay1*,4060,*See also J. F. Van Bemmelen in Zoolog. Anzeiger, xxiii, p. 449*
+*Hay1*,4063,*Treats of jugal arch of ^Mammalia^*
+*Hay1*,4064,*Treats of the jugal arch of the ^Primates^*
+*Hay1*,4065,*Treats of jugal arch of ^Primates^*
+*Hay1*,4066,*Jugal arch of ^Insectivora^*
+*Hay1*,4067,*Discusses jugal arch of the ^Rodentia^*
+*Hay1*,4068,*Discusses jugal arch of the ^Ungulata^*
+*Hay1*,4071,*The word "central" in the caption of this paper is probably a misprint for cerebral*
+*Hay1*,4072,*On some bones from vicinity of Charleston, S. C. Species undetermined*
+*Hay1*,4074,*Regarded as possibly tracks of ^Ichthyornis^*
+*Hay1*,4082,*The osteology of ^Atherinopsis californiensis^, ^Mugil cephalus^, and ^Sphyraena argentea^ is described and illustrated*
+*Hay1*,4087,*Pp. 516-827 treat on the ^Vertebrata^*
+*Hay1*,4089,*Contains an account of Steller's sea-cow (^Rytina gigas^) and measurements of skulls establishing the existence of differences in the skulls of the two sexes*
+*Hay1*,4096,*The earliest account of the arctic sea-cow, containing descriptions of its anatomy, habits, etc.  The portion of this work devoted to the sea-cow includes pp. 294-300, with pl. xiv*
+*Hay1*,4097,*With a bibliographical index of 140 entries*
+*Hay1*,4098,*Describes the carapace of ^Protostega gigas^*
+*Hay1*,4101,*The species here described as ^B. antiquus^ is now assigned to ^B. occidentalis^ Lucas*
+*Hay1*,4119,*Records finding of "^Diplodus^" teeth with spines quite different from those of ^Pleuracanthus^.  Also ^Tristychius^ associated with ^Hybodus^*
+*Hay1*,4123,*Contains discussion of ^Semionotus^ and ^Dictyopyge^*
+*Hay1*,4124,*Discusses the rudimentary hind limbs, the pelvic bones, ribs, sternum, and cervical vertebrae*
+*Hay1*,4127,*Abstract of paper read at Montreal before Brit. Assoc. Adv. Sci., 1884*
+*Hay1*,4128,*A short note*
+*Hay1*,4129,*The last two installments of this paper belong to the year 1889.  The first installment, not above cited, is found in vol. xxiii, pp. 109-124, and deals with the soft portions of the anatomy*
+*Hay1*,4133,*The species not distinguishable by the writer from the common horse*
+*Hay1*,4135,*Said to have been found in Attica, Wyoming County, N. Y.*
+*Hay1*,4137,*On pages 47, 48 is a list of papers which treat of the genus ^Anthracotherium^*
+*Hay1*,4138,*On pp 4-5 is found a long list of works on the genus ^Ceratodus^*
+*Hay1*,4144,*Reviewed by M. Schlosser in Archiv f. Anthrop., xix, pp. 115-116*
+*Hay1*,4149,*See for remarks on this paper Dr. T. S. Palmer in Science, vi, p. 103*
+*Hay1*,4155,*Regards ^Ctenacanthus^, ^Cladodus^, and ^Diplodus^ as representing one form*
+*Hay1*,4159,*Contains description and figures of ^Beluga vermontana^ and an account of the finding of some remains of ^Elephas primogenius^*
+*Hay1*,4160,*Records finding of ^Beluga vermontana^ at Charlotte, Vt., in 1849*
+*Hay1*,4161,*Contains a list of papers written on the subject discussed, the teeth of mammals, with especial reference to the existence of "premilk" teeth*
+*Hay1*,4162,*Contains numerous references to the literature*
+*Hay1*,4165,*Fifth edition, 8vo, Philadelphia, 1898, pp. i-viii; 1-596, with figs. 1-273*
+*Hay1*,4167,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxiii, pp. 157-159*
+*Hay1*,4169,*"Die Begriffe, 'Fuss,' und 'terminales Segment der hinteren Gliedmassen' werden von mir als gleichwerthig angesehen."*
+*Hay1*,4171,*Describes ^Menodus?  rumelicus^, which is compared with ^M. proutii^ (Leidy)*
+*Hay1*,4172,*This paper contains a bibliography and a list of the described fossil species of seals*
+*Hay1*,4174,*Description of species now referred by A. S. Woodward to ^Nematoptychius^*
+*Hay1*,4176,*For supplementary remarks see Geol. Magazine (1), ix, 1872, p. 271*
+*Hay1*,4177,*Describes new genus and species, ^Ganorhynchus woodwardi^*
+*Hay1*,4179,*Describes and figures ^Nemoptychius greenocki^, ^Wardichthys^, n. g., and ^Rhizodus hibberti^*
+*Hay1*,4184,*Describes the structure of ^Dipterus^ and places the genus in the ^Dipnoi^.  ^Palaedaphus^ also belongs to the ^Dipnoi^*
+*Hay1*,4185,*Review of this paper in Geol. Magazine (2), vii, pp. 318-321*
+*Hay1*,4188,*See also Proc. Roy. Phys. Soc. Edinburgh, viii, pp. 67-77, with pl. iv*
+*Hay1*,4194,*Also in Proc. Roy. Phys. Soc. Edinburgh, ix, pp. 349-361, 1887*
+*Hay1*,4195,*See also Proc. Roy. Phys. Soc. Edinburgh, ix, pp. 412-421.  Discusses ^Cladodontidae^, ^Orodontidae^, ^Cochliodontidae^, ^Petalodontidae^, and ^Oracanthus^*
+*Hay1*,4197,*Also in Proc. Roy. Phys. Soc. Edinburgh, x, pp. 23-46, pls. i, ii*
+*Hay1*,4198,*Also in Proc. Roy. Phys. Soc. Edinburgh, x, pp. 47-57, with pl. iii*
+*Hay1*,4202,*See also Proc. Roy. Phys. Soc. Edinburgh, x, pp. 227-235, 1891, for reprint, with ^Phlyctaenaspis^ substituted in the title for ^Phlyctaenius^*
+*Hay1*,4203,*A reply to Prof. V. Koenen, Geol. Magazine, vii, p. 191*
+*Hay1*,4204,*Also in Proc. Roy. Phys. Soc. Edinburgh, 1889-90, pp. 211-224, pl. x*
+*Hay1*,4205,*A short note proposing ^Phlyctaenaspis^ to replace ^Phlyctaenius^, regarded as being preoccupied by ^Phlyctaenium^ of Zittel*
+*Hay1*,4208,*See Traquair, R. H., 1890 D*
+*Hay1*,4209,*Treats of ^Protodus jexi^; ^Doliodus problematicus^, ^Cheiracanthus costellatus^, ^Cephalaspis campbelltonensis^, ^Cephalaspis jexi^, and ^Phlyctaenaspis acadica^*
+*Hay1*,4210,*Review of Prof. Fritsch's work with title given above*
+*Hay1*,4211,*Describes ^Scaumenacia curta^, ^Coccosteus canadensis^, ^Gyrolepis quebecensis^, and ^Eusthenopteron foordii^.  See notice of this paper in Amer. Naturalist, vol. xxvii, p. 817*
+*Hay1*,4212,*Contains descriptions of the species referred to under Traquair, R. H., 1893 A, and Traquair, R. H., 1893 C*
+*Hay1*,4214,*Describes and figures an English species of ^Phlyctaenaspis^, a new one of ^Acanthaspis^, and one of ^Eurylepis^*
+*Hay1*,4220,*Figures and describes various species of ^Cladodus^, ^Orodus^, ^Helodus^, ^Psammodus^, etc.*
+*Hay1*,4232,*The genus ^Edestus^ is considered*
+*Hay1*,4238,*Contains the orders ^Primates^, ^Prosimiae Chiroptera^, ^Insectivora^*
+*Hay1*,4239,*Contains the orders ^Sirenia^, ^Cetacea^, ^Edentata^, ^Marsupialia^, ^Allotheria^, ^Monotremata^*
+*Hay1*,4240,*Appendix (Addenda et Corrigenda) and alphabetical index*
+*Hay1*,4245,*Pp. 501-514 are occupied by a list of works dealing with the subject*
+*Hay1*,4250,*Appended are lists of Cretaceous and Tertiary fossils, including a number of sharks, pp. 261-268.  The species named above are described on pp. 38-40*
+*Hay1*,4261,*Followed by a note by Professor Cope identifying the specimen as ^Bos americanus^*
+*Hay1*,4267,*Describes ^Squalodon antverpiensis^, and holds that ^Squalodon^ and ^Zeuglodon^ belong to different families*
+*Hay1*,4268,*Published also as a separate, with pp. 3-8*
+*Hay1*,4269,*On pp. 11-12 of this memoir is found a list of the works which have been published on the Zeuglodonts and Squalodonts*
+*Hay1*,4271,*Extract from Bull. Acad. Roy. Belgique(2), xxxiv, pp. 6-20, 1872*
+*Hay1*,4273,*Describes and figures ^Plesiocetus cortesi^*
+*Hay1*,4276,*This work contains a very full bibliography of the fossil ^Cetacea^*
+*Hay1*,4278,*Part iv, describing the genus ^Plesiocetus^, is found in vol. ix of the Annales.  Pt. v, describing ^Amphicetus^, ^Heterocetus^, etc., is in vol. xiii.  These genera have not been found in North America*
+*Hay1*,4285,*Besides the subjects of the title, this paper treats of the "otic bones."*
+*Hay1*,4292,*I.  Synonymie der Scha%Fdelknochen bei den ^Teleostei^, pp. 221-230, with a table.  II.  Ueber die Verkno%Fcherung des Teleostierscha%Fdels, pp. 231-260.  III.  Die Knochen des Teleostierscha%Fdels, pp. 261-290, with a table.  IV.  Die Verkno%Fcherung*
+*Hay1*,4295,*Describes ^Platychelys oberdorferi^, ^Idiochelys^, and ^Homoeosaurus^*
+*Hay1*,4296,*Translated from the Sitzungsber.  Akad. Wissensch. Mu%Fnchen, 1861, p. 146*
+*Hay1*,4298,*Also issued as reprint with pp. 43-138*
+*Hay1*,4301,*Published by order of the legislature.  Contains remarks on a few fossil vertebrates and a list, by Dr. Leidy, of those found in Mississippi*
+*Hay1*,4302,*Describes ^Dictyorhabdus priscus^, ^Astraspis desiderata^, and ^Eryptichius americanus^.  See Neues Jahrb., Mineral., 1895, p. 162, for Otto Jaekel's review; Amer. Naturalist, xxvii, p. 268, for notice by Cope*
+*Hay1*,4303,*This letter, directed to Prof. S. P. Langley, contains a partial list of the types of species described by Professor Marsh, and now in the National Museum*
+*Hay1*,4306,*No names are given to the tracks figured*
+*Hay1*,4308,*Has, in addition, a brief description of ^Megalonyx jeffersoni^*
+*Hay1*,4311,*A letter addressed to Prof. R. Owen and sent by him to the editors*
+*Hay1*,4315,*A second edition of this work was published in 1855*
+*Hay1*,4316,*A popular account of the impressions, footmarks, etc., of the sandstones referred to*
+*Hay1*,4318,*2d edition, 260 pp., 4to, with 31 pls.; Boston, 1855.  Contains 3 new plates and some additions to text of the first edition, which appeared in 1852*
+*Hay1*,4324,*Reviewed by M. Schlosser in Archiv f. Anthrop., xviii, pp. 143-146*
+*Hay1*,4329,*Part II of this work is entitled "Anatomische Bemerkungen u%Fber Elephas," pp. 135-152, pl. iv*
+*Hay1*,4331,*Reviewed by M. Schlosser in Archiv f. Anthrop. xix, pp. 146-148*
+*Hay1*,4333,*Review in Archiv f. Anthrop., xx, pp. 116-118*
+*Hay1*,4337,*Reports occurrence of ^Ptychodus calceolus^, ^Diplodus priscus^, and ^D. striatus^*
+*Hay1*,4338,*A description of the finding of some huge reptilian bones near Morrison, Colo. Copied from the Colorado Springs Gazette*
+*Hay1*,4342,*Contains a list of the species found up to that time in Port Kennedy bone cave*
+*Hay1*,4343,*Supposed to be mastodon*
+*Hay1*,4344,*This paper ends with a list of Dr. Baur's scientific writings, 144 in number*
+*Hay1*,4345,*A letter accompanying a collection of mastodon bones from Benton County, Mo.*
+*Hay1*,4350,*Also in Ann. and Mag. Nat. Hist. (5), viii, 159-162.  ^Diplacanthus striatus?  Phaneropleuron curtum^, ^Eusthenopteron foordii^, ^Glyptolepis microlepidotus^, ^Glyptolepis^--, and ^Cheirolepis canadensis^ are described^*
+*Hay1*,4353,*Describes ^Psammodus bretonensis^*
+*Hay1*,4354,*Describes ^Coccosteus acadicus^, ^Cephalaspis campbelltonensis^, ^Ctenacanthus latispinosus^ and ^Homacanthus sp. indet^.*
+*Hay1*,4360,*On pages 353 and 354, pls. xlvi and xlvii, certain fossil fishes are described and figured*
+*Hay1*,4361,*Also in Report Brit. Assoc. Adv. Sci. for 1897, Toronto meeting, pp. 656-657.  Describes ^Dendrodus arisaigensis^ from rocks supposed to be of Silurian, possibly Devonian, age*
+*Hay1*,4363,*Also in Proc. Amer. Assoc. Adv. Sci., xlviii (Columbus), pp. 193-223*
+*Hay1*,4368,*On page 348 there is noted the presence of five types of fossil fishes in the museum*
+*Hay1*,4369,*Taken from Proc. California Acad. Nat. Sci., iii, pp. 277*
+*Hay1*,4370,*This forms sec. iv of chap. iii of Whitney's "The auriferous gravels of the Sierra Nevada of California."  The descriptions of the species have all been published by Dr. Leidy elsewhere, but those of the equine animals are reproduced*
+*Hay1*,4373,*See also "Nachtra%Fgliche Bemerkungen" in vol. iii, pp. 152-154, with 5 figs.*
+*Hay1*,4383,*Describes under above name the carapace and other bones of a new turtle*
+*Hay1*,4386,*Noticed by Osborn, Science, xii, 1900, p. 2*
+*Hay1*,4389,*Contains Lydekker's list of Pliocene and recent ^Equidae^*
+*Hay1*,4394,*Reviews of Wilckens's various papers by M. Schlosser in Archiv f. Anthrop., xvii, pp. 187-191; xviii, pp. 146-150*
+*Hay1*,4396,*A brief note*
+*Hay1*,4400,*Describes ^Dipterus ithacensis^*
+*Hay1*,4403,*Vice-presidential address before Amer. Assoc. Adv. Sci., 1892*
+*Hay1*,4406,*The scales here described and figured are now referred to ^Rhizodopsis sauroides^*
+*Hay1*,4412,*Describes and figures ^Cimoliosaurus^ (^Elasmosaurus?^) ^snowi^.  Noticed by Cope, Amer. Naturalist, xxv, p. 653*
+*Hay1*,4415,*Contains list of species, with description of the osteology of ^Pteranodon^ and ^Nyctodactylus^.  A brief abstract of this paper is found in Amer. Naturalist, xxvii, p. 37*
+*Hay1*,4416,*Refers to the occurrence of pebbles in the stomachs of plesiosaurs*
+*Hay1*,4419,*Extract from Trans. Kansas Acad. Sci., xiii, p. 121*
+*Hay1*,4421,*Notice of, by M. Schlosser, in Archiv f. Anthrop., xxiv, p. 171*
+*Hay1*,4422,*Describes as belonging to new family, genus, and species, ^Desmatochelys lowii^*
+*Hay1*,4424,*Describes ^Dicotyles leptorhinus^ Williston*
+*Hay1*,4425,*Abstract by M. Schlosser in Archiv f. Anthrop., xxv, p. 183*
+*Hay1*,4428,*^Ornithostoma^ is adopted instead of ^Pteranodon^ Marsh*
+*Hay1*,4430,*See also Science (2), v, p. 395, and Trans. Kansas Acad. Sci., xv, pp. 120-122*
+*Hay1*,4431,*Description of ^Plesiosaurus gouldii^ n. sp.*
+*Hay1*,4432,*Description of ^Brachysaurus overtoni^ gen. et sp. nov.*
+*Hay1*,4433,*One of the plates shows the scaled condition of the skin of ^Tylosaurus^*
+*Hay1*,4436,*Contains a brief account of the genera of vertebrates found in this group of deposits*
+*Hay1*,4439,*Frontispiece restoration of ^Clidastes^ is given*
+*Hay1*,4440,*This is a synopsis of the fossil birds of Kansas*
+*Hay1*,4441,*A brief exposition of the characters of the group and a plate of ^Claosaurus annectens^, to illustrate the structure of the Kansan species, ^C. agilis^*
+*Hay1*,4445,*Shows that Cope's ^Caryoderma snovianum^ is a ^Testudo^, possibly ^T. undata^ Cope*
+*Hay1*,4446,*Note on nuchal fringe and scales of ^Platecarpus^*
+*Hay1*,4447,*Presents an annotated list of the Pleistocene vertebrates found in Kansas.  A reprint of Williston, S. W., 1897 I*
+*Hay1*,4450,*Describes the episternum and nuchal fringe in ^Platecarpus^.  Also shows that the food is principally fishes*
+*Hay1*,4452,*Records the finding of ^Eryops megacephalus^ in the above beds*
+*Hay1*,4456,*This is a reprint of the preceding paper*
+*Hay1*,4457,*Gives list of species and describes the osteology of ^Clidastes velox^ and ^C. westii^ n. sp.*
+*Hay1*,4460,*Presents results of chemical analysis of bones of man and ^Mylodon^, found together*
+*Hay1*,4462,*See also Canadian Naturalist, 1893, p. 398*
+*Hay1*,4464,*Notice and review of, by W. D[awkins] in Geol. Magazine, 1872, pp. 31-32*
+*Hay1*,4468,*Abstract; full paper in Jour. Anat. and Physiol., xxi, p. 84*
+*Hay1*,4469,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xix, pp. 89-90*
+*Hay1*,4470,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 142-143*
+*Hay1*,4472,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxiv, pp. 143-145*
+*Hay1*,4473,*Abstract of, by M. Schlosser, in Archiv f. Anthrop., xxv, pp. 238-239*
+*Hay1*,4474,*Notice of this paper by M. Schlosser in Neues Jahrb. Mineral., 1899, ii, pp. 144-147, and in Archiv f. Anthrop., xxv, pp. 239-241*
+*Hay1*,4476,*Taken from Proc. Boston Soc. Nat. Hist., vi, 1857, p. 278*
+*Hay1*,4478,*Description of bones of ^Megalonyx^ deposited by the president of the society, Thomas Jefferson*
+*Hay1*,4479,*Mentions bones of mammoth and mastodon, and figures bones of extinct deer and ox*
+*Hay1*,4480,*Reports occurrence of ^E. americanus^ in Colorado*
+*Hay1*,4482,*Contains a list of papers on the subject*
+*Hay1*,4483,*These articles form a continuation of the paper 1884 A. 1886 E is the conclusion*
+*Hay1*,4488,*This forms the conclusion of the papers of this author designated 1884 A and 1885 B*
+*Hay1*,4491,*Contains numerous references to the literature of the subject*
+*Hay1*,4494,*Review of paper published in Comptes rend. Acad. Sci. Paris, April 23, 1888*
+*Hay1*,4496,*A review of Fauna der Gaskohle, etc., Bd. ii, Heft 3, pp. 65-92*
+*Hay1*,4499,*^Strophodus^ probably referable to ^Asteracanthus^*
+*Hay1*,4503,*Describes an extinct saw-fish from Mount Lebanon*
+*Hay1*,4505,*See notice of this volume in Geol. Magazine, vi, 1889, p. 366*
+*Hay1*,4506,*A review of Dr. Zittel's Handbuch der Palaeontologie*
+*Hay1*,4511,*Notice of paper by W. Patten in Quart. Jour. Micros. Sci., xxxi, 1890, pp. 317-378*
+*Hay1*,4513,*Abstract in Ann. and Mag. Nat. Hist. (6), vi, p. 423*
+*Hay1*,4515,*A review of Dr. Fritsch's Fauna der Gaskohle, etc*
+*Hay1*,4516,*A review of three of Dr. Otto Jaekel's papers on Elasmobranchs*
+*Hay1*,4518,*Describes ^Protodus jexi^ gen. et spec. nov., ^Diplodus problematicus^ sp. nov., ^Gyracanthus incurvus^, ^Acanthodes semistriatus^, ^Cephalaspis campbelltonensis^, ^Phlyctaenaspis acadica^*
+*Hay1*,4519,*Review of Professor Cope's "On the characters of some Palaeozoic fishes" and Rohon's "Ueber ^Pterichthys^."*
+*Hay1*,4520,*Treats of ^Phlyctaenaspis acadica^, ^Diplacanthus horridus^, sp. nov., ^Coccosteus canadensis^, sp. nov., and ^Bothriolepis^*
+*Hay1*,4525,*See Woodward, A. S., 1893 D*
+*Hay1*,4526,*A review of James W. Davis's paper on ^Pleuracanthidae^ in Trans. Roy. Dublin Soc., iv, pp. 703-748, 1892*
+*Hay1*,4527,*Describes method of separation of the anal fin of ^Phaneropleuron curtum^ from the caudal by fusion of the axonosts*
+*Hay1*,4530,*Shows the close relationships existing between ^Protosphyraena^ and ^Hypsocormus^*
+*Hay1*,4531,*Refers to the finding of ^Oxyrhina crassa^*
+*Hay1*,4532,*Review of, by R. H. Traquair in Geol. Magazine, 1896, p. 124*
+*Hay1*,4534,*Describes and figures ^Diplomystus longicostatus^ and describes ^D. birdi^ n. sp.*
+*Hay1*,4535,*^Leptolepis saltviciensis^, ^Pholidophorus germanicus^, ^Eugnathus fasciculatus^, and ^Ptycholepis bollensis^ are described and figured*
+*Hay1*,4540,*Describes ^Caturus^ sp. indet. and 3 species of ^Pachycormus^*
+*Hay1*,4541,*Describes and figures species of ^Lepidotus^, and treats of their osteology*
+*Hay1*,4542,*Reviewed by H. F. Osborn in Natural Science, xiv, 1899, pp. 156-159*
+*Hay1*,4544,*Describes and figures ^Belonorhynchus acutus^, ^B. brevirostris^, and ^Gyrosteus mirabilis^*
+*Hay1*,4548,*A review of Traquair's Report on fossil fishes, etc., in Trans. Roy. Soc. Edinburgh, xxxix, pp. 827-864, pls. i-v, and 18 text-figs.*
+*Hay1*,4549,*Table of contents: Introduction, p. v.  Dates of publication of Agassiz's "Poisson fossiles," p. xxv.  Dates of publication of Owen's "Odontography," p. xxx.  Table of the stratigraphical distribution of British fossil ^Vertebrata^, p. xxx.  Catalogue*
+*Hay1*,4551,*A review of H. G. Seeley's two works, here designated as Seeley, H. G., 1869 A, and Seeley, H. G., 1870 A*
+*Hay1*,4554,*A review of W. Dames's work in Palaeont. Abhandl., ii, 1884, pp. 117-196*
+*Hay1*,4555,*Contains a list of works on ^Sirenia^*
+*Hay1*,4559,*Describes ^Edestus davisii^*
+*Hay1*,4560,*Extracts from Professor Cope's descriptions of ^Phenacodus^*
+*Hay1*,4565,*Appended is a list of references to papers by other authors.  Review by M. Schlosser in Archiv f. Anthrop., xxiv, p. 145*
+*Hay1*,4567,*Appended is a list of references to 32 papers bearing on the subject.  An abstract in Archiv f. Anthrop., xxv, pp. 242-243*
+*Hay1*,4568,*Review by M. Schlosser in Archiv f. Anthrop., xxv, pp. 243-244*
+*Hay1*,4570,*Records finding of batrachian footprints*
+*Hay1*,4571,*Records finding of an astragalus of ^Equus^ in reputed Miocene beds*
+*Hay1*,4578,*Remarks made before Acad. Nat. Sci. Phila., April 26, 1883.  These remarks do not appear in the "Proceedings" for that month*
+*Hay1*,4580,*Reprinted from "The American System of Dentistry."  Contains many figures of North American fossil vertebrates*
+*Hay1*,4581,*Contains directions for collecting and preserving fossil remains*
+*Hay1*,4582,*Contains a list of the genera characteristic of each of the different beds*
+*Hay1*,4584,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, pp. 184-185*
+*Hay1*,4586,*Reviewed by M. Schlosser in Archiv f. Anthrop., xxv, p. 185*
+*Hay1*,4587,*Remarks on, by M. Schlosser in Neues Jahrb. Mineral., 1899, ii, pp. 139-142 and in Archiv f. Anthrop., xxv, pp. 221-222*
+*Hay1*,4588,*The suborder ^Ganodonta^ established*
+*Hay1*,4590,*Abstracts of this and Wortman, J. L., 1896 B, by M. Schlosser in Archiv f. Anthrop., xxvi, pp. 179-181*
+*Hay1*,4593,*Notice in Amer. Naturalist, xxviii, p. 466*
+*Hay1*,4599,*Refers the skeleton shown by Dr. Koch to ^Dorudon^ and probably to ^Zeuglodon^*
+*Hay1*,4601,*This constitutes a portion of a joint paper by the above author and Dr. James Hall.  See Hall, James, 1846 B*
+*Hay1*,4604,*Teeth belonging to genus ^Phyllodus^*
+*Hay1*,4609,*Discusses the structure and relationships of the bones of ^Dendrerpeton acadianum^*
+*Hay1*,4610,*No systematic names employed*
+*Hay1*,4613,*Describes some bones of ^Elephas^, ^Mastodon^, and ^Megatherium^*
+*Hay1*,4615,*For more complete descriptions and names of the species, see Wyman, J. 1858 A*
+*Hay1*,4616,*Abstract in Zeitschr. gesammt. Naturwiss., xiii, pp. 71-72,.1859*
+*Hay1*,4623,*Restriction and definition of ^Platysomus^ Ag.*
+*Hay1*,4624,*Defines ^Rhizodus^ Owen*
+*Hay1*,4629,*Pp. i-xii; 1-256 were issued in 1887; pp. 257-436 in 1888; pp. 437-632 in 1889; pp. 633-900 in 1890*
+*Hay1*,4631,*Munich and Leipsic, 1891-1893*
+*Hay1*,4632,*A review of the first three volumes of A. S. Woodward's "Catalogue of the fossil fishes in the British Museum."*
+*Hay1*,4634,*A list of the principal memoirs and papers dealing with the subject is appended*
+*Hay1*,4637,*This appears to have been a communication made to the American Philosophical Society, but it does not appear in the proceedings.  It contains a list of the fishes obtained, some general remarks on their relationships, but no descriptions.  "Published A*
+

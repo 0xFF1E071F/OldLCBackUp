@@ -1,0 +1,19 @@
+alinsing 
+	-REFERENCE
+	-pointer
+	-implemented as addresses
+
+	int a =7;
+	int & b =a;
+	int * c= &a;
+	b++;			// a=8;
+	
+	b=d; // copy d to a(b);
+	c=&d;  //c point to d now
+	
+	int **f=&c;	/f pinter c; value as c;
+	int *&g=&c;
+	
+	*f = &a;// changing c to =a;
+	g= &d; //c point to d;
+	

@@ -1,0 +1,27 @@
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.exe
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.pdb
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.xml
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Form1.resources
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Resources.resources
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.vbproj.GenerateResource.Cache
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.exe
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.xml
+P:\private\CS131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.pdb
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.exe
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.xml
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.pdb
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.exe
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.pdb
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.xml
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Form1.resources
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Resources.resources
+P:\cs131Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.exe
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.xml
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.pdb
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.exe
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.pdb
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\bin\Debug\CH3 Music Class.xml
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Form1.resources
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3_Music_Class.Resources.resources
+P:\cs131 Spring 2014\CH3 Music Class\CH3 Music Class\obj\x86\Debug\CH3 Music Class.vbproj.GenerateResource.Cache

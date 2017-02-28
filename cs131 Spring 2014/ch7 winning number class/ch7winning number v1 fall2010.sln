@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ch7winning number v1 fall2010", "ch7winning number v1 fall2010\ch7winning number v1 fall2010.vbproj", "{1186C0BB-B7B0-4AF8-8D8D-3095D60B29DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1186C0BB-B7B0-4AF8-8D8D-3095D60B29DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1186C0BB-B7B0-4AF8-8D8D-3095D60B29DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1186C0BB-B7B0-4AF8-8D8D-3095D60B29DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1186C0BB-B7B0-4AF8-8D8D-3095D60B29DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

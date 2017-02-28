@@ -1,0 +1,78 @@
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.pdb
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.Resources.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.StartMenu.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.TaskManager.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.vbproj.GenerateResource.Cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+I:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+I:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+I:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.exe
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.pdb
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.xml
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.Resources.resources
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.StartMenu.resources
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.TaskManager.resources
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\ResGen.read.1.tlog
+H:\Ch7 Windows Task Manager2 class\Ch7 Windows Task Manager2 class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Fall 2011\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Fall 2011\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Fall 2011\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\public\CS131 Shared Folder\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\public\CS131 Shared Folder\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\public\CS131 Shared Folder\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.Resources.resources
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.StartMenu.resources
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.TaskManager.resources
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\ResGen.read.1.tlog
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\CS131 Spring 2012\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Spring 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Spring 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Spring 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\private\CS131 Spring_fall 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Spring_fall 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Spring_fall 2013\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\private\CS131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\private\CS131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\private\CS131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\cs131Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\cs131Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\cs131Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.exe
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.pdb
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.xml
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.Resources.resources
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.StartMenu.resources
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.TaskManager.resources
+P:\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.exe
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.xml
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.pdb
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.exe
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.pdb
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\bin\Debug\Ch7 Windows Task Manager2 class.xml
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.StartMenu.resources
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7_Windows_Task_Manager2_class.TaskManager.resources
+W:\FU_Y\cs131 Spring 2014\Ch7 Windows Task Manager class\Ch7 Windows Task Manager2 class\obj\Debug\Ch7 Windows Task Manager2 class.vbproj.GenerateResource.Cache

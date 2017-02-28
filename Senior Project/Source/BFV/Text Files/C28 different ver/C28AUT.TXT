@@ -1,0 +1,5273 @@
+28,1,*Abel, Othenio*,**,**
+28,2,*Abel, Othenio*,**,**
+28,3,*Abel, Othenio*,**,**
+28,4,*Abel, Othenio*,**,**
+28,5,*Abel, Othenio*,**,**
+28,6,*Abel, Othenio*,**,**
+28,7,*Abel, Othenio*,**,**
+28,8,*Abel, Othenio*,**,**
+28,9,*Abel, Othenio*,**,**
+28,10,*Abel, Othenio*,**,**
+28,11,*Abel, Othenio*,**,**
+28,12,*Abel, Othenio*,**,**
+28,13,*Abel, Othenio*,**,**
+28,14,*Abel, Othenio*,**,**
+28,15,*Abel, Othenio*,**,**
+28,16,*Abel, Othenio*,**,**
+28,17,*Abel, Othenio*,**,**
+28,18,*Abel, Othenio*,**,**
+28,19,*Abel, Othenio*,**,**
+28,20,*Abel, Othenio*,**,**
+28,21,*Abel, Othenio*,**,**
+28,22,*Abel, Othenio*,**,**
+28,23,*Abel, Othenio*,**,**
+28,24,*Abel, Othenio*,**,**
+28,25,*Abel, Othenio*,**,**
+28,26,*Abel, Othenio*,**,**
+28,27,*Abel, Othenio*,**,**
+28,28,*Abel, Othenio*,**,**
+28,29,*Abel, Othenio*,**,**
+28,30,*Abel, Othenio*,**,**
+28,31,*Abel, Othenio*,**,**
+28,32,*Abel, Othenio*,**,**
+28,33,*Abel, Othenio*,**,**
+28,34,*Abel, Othenio*,**,**
+28,35,*Abel, Othenio*,**,**
+28,36,*Abel, Othenio*,**,**
+28,37,*Abel, Othenio*,**,**
+28,38,*Abel, O.*,**,**
+28,38,*Galiano, E. Ferna%Andez*,**,**
+28,39,*Abel, O.*,**,**
+28,39,*Koppers, W.*,*= Wilhelm*,**
+28,40,*Abel, O.*,**,**
+28,40,*Kyrle, Georg*,**,**
+28,41,*Abel, Wolfgang*,**,**
+28,42,*Abel, Wolfgang*,**,**
+28,43,*Abel, Wolfgang*,**,**
+28,44,*Abel, Wolfgang*,**,**
+28,45,*Abrard, Rene%A*,**,**
+28,46,*Abrard, Rene%A*,**,**
+28,47,*Abrard, Rene%A*,**,**
+28,48,*Absolon, Karel*,**,**
+28,49,*Absolon, Karel*,**,**
+28,50,*Absolon, Karel*,**,**
+28,51,*Absolon, Karel*,**,**
+28,52,*Absolon, Karel*,**,**
+28,52,*Zapletal, K.*,**,**
+28,52,*Skutil, J.*,**,**
+28,52,*Stehlik, A.*,**,**
+28,53,*Adametz, Leopold*,**,**
+28,54,*Adams, Leverett Allen*,**,**
+28,55,*Adams, Leverett Allen*,**,**
+28,56,*Adams, Leverett Allen*,**,**
+28,57,*Adams, L. A.*,**,**
+28,57,*Martin, H. T.*,*= Handel Tongve*,**
+28,58,*Adams, L. A.*,**,**
+28,58,*Martin, H. T.*,*= Handel Tongve*,**
+28,59,*Adams, L. A.*,**,**
+28,59,*Martin, H. T.*,*= Handel Tongve*,**
+28,60,*Adamstone, Frank Bolton*,**,**
+28,61,*Adkins, Walter Scott*,**,**
+28,62,*Adloff, Paul*,**,**
+28,63,*Adloff, Paul*,**,**
+28,64,*Adloff, Paul*,**,**
+28,65,*Adloff, Paul*,**,**
+28,66,*Agafonoff, Vale%Arien*,*= Agafonov, Valer'yan Konstantinovich*,**
+28,66,*Malycheff, V.*,*= Malysheva, Vera*,**
+28,67,*Ahrens, Wilhelm*,*= Ernst*,**
+28,68,*Airaghi, Carlo*,**,**
+28,69,*Aldinger, Hermann*,**,**
+28,70,*Aldinger, Hermann*,**,**
+28,71,*Aldinger, Hermann*,**,**
+28,72,*Aldinger, Hermann*,**,**
+28,73,*Aldinger, Hermann*,**,**
+28,74,*Aldrich, Truman Heminway*,**,**
+28,74,*Jones, W. B.*,**,**
+28,75,*Alekseev, A. K.*,*= Alexejew = Alexeef*,**
+28,76,*Allan, John Andrew*,**,**
+28,76,*Rutherford, R. L.*,**,**
+28,77,*Allen, Arthur Augustus*,**,**
+28,78,*Allen, E. J.*,**,**
+28,79,*Allen, Glover Morrill*,**,**
+28,80,*Allen, Glover Morrill*,**,**
+28,81,*Allen, Glover Morrill*,**,**
+28,82,*Allis, Edward Phelps, Jr.*,**,**
+28,83,*Allis, Edward Phelps, Jr.*,**,**
+28,84,*Allis, Edward Phelps, Jr.*,**,**
+28,85,*Allison, Vernon Charles*,**,**
+28,86,*Allyn, Harriett May*,**,**
+28,87,*Almquist, Ernst*,**,**
+28,88,*Althoff, W.*,*= Wilhelm*,**
+28,89,*Ambard, L.*,*= Le%Aon*,**
+28,90,*Ameghino, Carlos*,**,**
+28,90,*Rusconi, C.*,**,**
+28,91,*Ameghino, Carlos*,**,**
+28,91,*Rusconi, C.*,**,**
+28,92,*Ameghino, F.*,**,**
+28,92,*Torcelli, A. J.,*,**,*E*
+28,93,*Ameghino, F.*,**,**
+28,93,*Torcelli, A. J.,*,**,*E*
+28,94,*Amon, Rudolf*,**,**
+28,95,*Ampferer, Otto*,**,**
+28,96,*Amschler, Wolfgang*,**,**
+28,97,*Anderson, Charles*,**,**
+28,98,*Anderson, Charles*,**,**
+28,99,*Anderson, Charles*,**,**
+28,100,*Anderson, Charles*,**,**
+28,101,*Anderson, Charles*,**,**
+28,102,*Anderson, Charles*,**,**
+28,103,*Anderson, Charles*,**,**
+28,104,*Anderson, Charles*,**,**
+28,105,*Anderson, Charles*,**,**
+28,106,*Anderson, Robert Van Vleck*,**,**
+28,107,*Anderson, Robert Van Vleck*,**,**
+28,108,*Andersson, J. Gunnar*,*= Johan*,**
+28,109,*Andree, Julius*,**,**
+28,110,*Andree, Julius*,**,**
+28,111,*Andrews, Charles William*,**,**
+28,111,*Cooper, C. F.*,**,**
+28,112,*Andrews, Roy Chapman*,**,**
+28,113,*Andrews, Roy Chapman*,**,**
+28,114,*Andrews, Roy Chapman*,**,**
+28,115,*Andrews, Roy Chapman*,**,**
+28,116,*Andrews, Roy Chapman*,**,**
+28,117,*Andrews, Roy Chapman*,**,**
+28,118,*Andrews, Roy Chapman*,**,**
+28,119,*Androussoff, Nicholas*,*= Andrusov, Nikolay Ivanovich*,**
+28,120,*Angelis d'Ossat, Gioacchino de*,**,**
+28,121,*Anonymous*,**,**
+28,122,*Anonymous*,**,**
+28,123,*Anonymous*,**,**
+28,124,*Anonymous*,**,**
+28,125,*Anonymous*,**,**
+28,126,*Anonymous*,**,**
+28,127,*Anonymous*,**,**
+28,128,*Anonymous*,**,**
+28,129,*Anonymous*,**,**
+28,130,*Anonymous*,**,**
+28,131,*Anonymous*,**,**
+28,132,*Anonymous*,**,**
+28,133,*Anonymous*,**,**
+28,134,*Anonymous*,**,**
+28,135,*Anonymous*,**,**
+28,136,*Anonymous*,**,**
+28,137,*Anonymous*,**,**
+28,138,*Anonymous*,**,**
+28,139,*Anonymous*,**,**
+28,140,*Anonymous*,**,**
+28,141,*Anonymous*,**,**
+28,142,*Anonymous*,**,**
+28,143,*Anonymous*,**,**
+28,144,*Anonymous*,**,**
+28,145,*Anonymous*,**,**
+28,146,*Anonymous*,**,**
+28,147,*Anonymous*,**,**
+28,148,*Anonymous*,**,**
+28,149,*Anonymous*,**,**
+28,150,*Anonymous*,**,**
+28,151,*Anonymous*,**,**
+28,152,*Anonymous*,**,**
+28,153,*Anonymous*,**,**
+28,154,*Anonymous*,**,**
+28,155,*Anonymous*,**,**
+28,156,*Anonymous*,**,**
+28,157,*Anonymous*,**,**
+28,158,*Anonymous*,**,**
+28,159,*Anonymous*,**,**
+28,160,*Anonymous*,**,**
+28,161,*Anonymous*,**,**
+28,162,*Anonymous*,**,**
+28,163,*Anonymous*,**,**
+28,164,*Anonymous*,**,**
+28,165,*Anonymous*,**,**
+28,166,*Anonymous*,**,**
+28,167,*Anonymous*,**,**
+28,168,*Anonymous*,**,**
+28,169,*Anonymous*,**,**
+28,170,*Anonymous*,**,**
+28,171,*Anonymous*,**,**
+28,172,*Anonymous*,**,**
+28,173,*Anonymous*,**,**
+28,174,*Anonymous*,**,**
+28,175,*Anonymous*,**,**
+28,176,*Anonymous*,**,**
+28,177,*Anonymous*,**,**
+28,178,*Anonymous*,**,**
+28,179,*Anonymous*,**,**
+28,180,*Anonymous*,**,**
+28,181,*Anonymous*,**,**
+28,182,*Anonymous*,**,**
+28,183,*Anonymous*,**,**
+28,184,*Anonymous*,**,**
+28,185,*Anonymous*,**,**
+28,186,*Anonymous*,**,**
+28,187,*Anonymous*,**,**
+28,188,*Anonymous*,**,**
+28,189,*Anonymous*,**,**
+28,190,*Anonymous*,**,**
+28,191,*Anonymous*,**,**
+28,192,*Anonymous*,**,**
+28,193,*Anonymous*,**,**
+28,194,*Anonymous*,**,**
+28,195,*Anonymous*,**,**
+28,196,*Anonymous*,**,**
+28,197,*Anonymous*,**,**
+28,198,*Anonymous*,**,**
+28,199,*Anonymous*,**,**
+28,200,*Anonymous*,**,**
+28,201,*Anonymous*,**,**
+28,202,*Anonymous*,**,**
+28,203,*Anonymous*,**,**
+28,204,*Anonymous*,**,**
+28,205,*Anonymous*,**,**
+28,206,*Anonymous*,**,**
+28,207,*Anonymous*,**,**
+28,208,*Anonymous*,**,**
+28,209,*Anonymous*,**,**
+28,210,*Anonymous*,**,**
+28,211,*Anonymous*,**,**
+28,212,*Anonymous*,**,**
+28,213,*Anonymous*,**,**
+28,214,*Anonymous*,**,**
+28,215,*Anonymous*,**,**
+28,216,*Anonymous*,**,**
+28,217,*Anonymous*,**,**
+28,218,*Anonymous*,**,**
+28,219,*Anonymous*,**,**
+28,220,*Anonymous*,**,**
+28,221,*Anonymous*,**,**
+28,222,*Anonymous*,**,**
+28,223,*Anonymous*,**,**
+28,224,*Anonymous*,**,**
+28,225,*Anonymous*,**,**
+28,226,*Anonymous*,**,**
+28,227,*Anonymous*,**,**
+28,228,*Anonymous*,**,**
+28,229,*Anonymous*,**,**
+28,230,*Anonymous*,**,**
+28,231,*Anonymous*,**,**
+28,232,*Anonymous*,**,**
+28,233,*Anonymous*,**,**
+28,234,*Anonymous*,**,**
+28,235,*Anonymous*,**,**
+28,236,*Anonymous*,**,**
+28,237,*Anonymous*,**,**
+28,238,*Anonymous*,**,**
+28,239,*Anonymous*,**,**
+28,240,*Anonymous*,**,**
+28,241,*Anonymous*,**,**
+28,242,*Anonymous*,**,**
+28,243,*Anonymous*,**,**
+28,244,*Anonymous*,**,**
+28,245,*Anonymous*,**,**
+28,246,*Anonymous*,**,**
+28,247,*Anonymous*,**,**
+28,248,*Anonymous*,**,**
+28,249,*Anonymous*,**,**
+28,250,*Anonymous*,**,**
+28,251,*Anonymous*,**,**
+28,252,*Anonymous*,**,**
+28,253,*Anonymous*,**,**
+28,254,*Anonymous*,**,**
+28,255,*Anonymous*,**,**
+28,256,*Anonymous*,**,**
+28,257,*Anonymous*,**,**
+28,258,*Anonymous*,**,**
+28,259,*Anonymous*,**,**
+28,260,*Anonymous*,**,**
+28,261,*Anonymous*,**,**
+28,262,*Anonymous*,**,**
+28,263,*Anonymous*,**,**
+28,264,*Anonymous*,**,**
+28,265,*Anonymous*,**,**
+28,266,*Anonymous*,**,**
+28,267,*Anonymous*,**,**
+28,268,*Anonymous*,**,**
+28,269,*Antevs, Ernst Valdemar*,**,**
+28,270,*Anthony, Harold Elmer*,**,**
+28,272,*Anthony, Raoul Louis Ferdinand*,**,**
+28,273,*Anthony, Raoul Louis Ferdinand*,**,**
+28,274,*Anthony, Raoul Louis Ferdinand*,**,**
+28,275,*Anthony, Raoul Louis Ferdinand*,**,**
+28,276,*Anthony, Raoul Louis Ferdinand*,**,**
+28,277,*Anthony, R.*,**,**
+28,277,*Coupin, F.*,**,**
+28,278,*Anthony, R.*,**,**
+28,278,*Prouteaux, M.*,**,**
+28,279,*Antonius, Otto*,**,**
+28,280,*Antonius, Otto*,**,**
+28,281,*Antonius, Otto*,**,**
+28,282,*Antonius, Otto*,**,**
+28,283,*Appleton, A. B.*,*=Arthur Beeny*,**
+28,284,*Arambourg, Camille*,**,**
+28,285,*Arambourg, Camille*,**,**
+28,286,*Arambourg, Camille*,**,**
+28,287,*Arambourg, Camille*,**,**
+28,288,*Arambourg, Camille*,**,**
+28,289,*Arambourg, Camille*,**,**
+28,290,*Arambourg, Camille*,**,**
+28,291,*Arambourg, Camille*,**,**
+28,292,*Arambourg, Camille*,**,**
+28,293,*Arambourg, Camille*,**,**
+28,294,*Arambourg, Camille*,**,**
+28,295,*Arambourg, C.*,**,**
+28,295,*Jeannel, R.*,**,**
+28,296,*Arambourg, C.*,**,**
+28,296,*Piveteau, J.*,**,**
+28,297,*Arambourg, C.*,**,**
+28,297,*Piveteau, J.*,**,**
+28,298,*Aranguren, Dolores J. Lopez*,**,**
+28,299,*Arditi, Lazzaro*,**,**
+28,300,*Arditi, Lazzaro*,**,**
+28,301,*Arldt, Theodor*,**,**
+28,302,*Arldt, Theodor*,**,**
+28,303,*Arldt, Theodor*,**,**
+28,304,*Arldt, Theodor*,**,**
+28,305,*Arldt, Theodor*,**,**
+28,306,*Arldt, Theodor*,**,**
+28,307,*Armstrong, A. Leslie*,**,**
+28,308,*Artelt, Walter*,**,**
+28,309,*Arthaber, Gustav von*,**,**
+28,310,*Arx, Max von*,**,**
+28,311,*Arx, Max von*,**,**
+28,312,*Ashley-Montagu, Montague Francis*,**,**
+28,313,*Ashley-Montagu, Montague Francis*,**,**
+28,314,*Astre%A, Gaston*,**,**
+28,315,*Astre%A, Gaston*,**,**
+28,316,*Astre%A, Gaston*,**,**
+28,317,*Astre%A, Gaston*,**,**
+28,318,*Astre%A, Gaston*,**,**
+28,319,*Astre%A, Gaston*,**,**
+28,320,*Astre%A, Gaston*,**,**
+28,321,*Astre%A, Gaston*,**,**
+28,322,*Astre%A, Gaston*,**,**
+28,323,*Astre%A, Gaston*,**,**
+28,324,*Astre%A, Gaston*,**,**
+28,325,*Astre%A, Gaston*,**,**
+28,326,*Astre%A, Gaston*,**,**
+28,327,*Astre%A, Gaston*,**,**
+28,328,*Astre%A, Gaston*,**,**
+28,329,*Astre%A, Gaston*,**,**
+28,330,*Astre%A, Gaston*,**,**
+28,331,*Astre%A, Gaston*,**,**
+28,332,*Athanasiu, Sava*,**,**
+28,332,*Preda, D. M.*,**,**
+28,333,*Atwood, William H.*,**,**
+28,333,*Heiss, E. D.*,**,**
+28,334,*Aubert, Edmond*,**,**
+28,335,*Audova, Alexander*,**,**
+28,336,*Audova, Alexander*,**,**
+28,337,*Augusta, Josef*,**,**
+28,338,*Augusta, Josef*,**,**
+28,339,*Avellino, F. Caracciolo d'*,**,**
+28,340,*Avinoff, Andrey*,**,**
+28,341,*Avinoff, Andrey*,**,**
+28,342,*Ayers, Howard*,**,**
+28,343,*Ayers, Howard*,**,**
+28,344,*Ayres, Clarence*,**,**
+28,345,*Azais, R. P.*,**,**
+28,345,*Chambard, R.*,**,**
+28,346,*B., G. C.*,**,**
+28,347,*B., L.*,**,**
+28,348,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,349,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,350,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,351,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,352,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,353,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,354,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,355,*Bachofen-Echt, Adolf*,*= Bachofen von Echt*,**
+28,356,*Badouin, Marcel*,**,**
+28,357,*Baitsell, George Alfred*,**,*E*
+28,358,*Bakalow, Petr*,*= Bakalov, Petur*,**
+28,359,*Baker, Francis Collins*,**,**
+28,360,*Baker, Francis Collins*,**,**
+28,361,*Baquie%A-Rambaud, G.*,**,**
+28,362,*Barbat, William Franklin*,**,**
+28,362,*Weymouth, A. A.*,**,**
+28,363,*Barber, Cecil Thomas*,**,**
+28,364,*Barber, E. J.*,**,**
+28,365,*Barbour, Erwin Hinckley*,**,**
+28,366,*Barbour, Erwin Hinckley*,**,**
+28,367,*Barbour, Erwin Hinckley*,**,**
+28,368,*Barbour, Erwin Hinckley*,**,**
+28,369,*Barbour, Erwin Hinckley*,**,**
+28,370,*Barbour, Erwin Hinckley*,**,**
+28,371,*Barbour, Erwin Hinckley*,**,**
+28,372,*Barbour, Erwin Hinckley*,**,**
+28,373,*Barbour, Erwin Hinckley*,**,**
+28,374,*Barbour, Erwin Hinckley*,**,**
+28,375,*Barbour, Erwin Hinckley*,**,**
+28,376,*Barbour, Erwin Hinckley*,**,**
+28,377,*Barbour, Erwin Hinckley*,**,**
+28,378,*Barbour, Erwin Hinckley*,**,**
+28,379,*Barbour, Erwin Hinckley*,**,**
+28,380,*Barbour, Erwin Hinckley*,**,**
+28,381,*Barbour, Erwin Hinckley*,**,**
+28,382,*Barbour, E. H.*,**,**
+28,382,*Schultz, C. B.*,**,**
+28,383,*Barbour, E. H.*,**,**
+28,383,*Schultz, C. B.*,**,**
+28,384,*Barbour, E. H.*,**,**
+28,384,*Schultz, C. B.*,**,**
+28,385,*Barbour, George Brown*,**,**
+28,386,*Barbour, George Brown*,**,**
+28,387,*Barbour, George Brown*,**,**
+28,388,*Barbour, Thomas*,**,**
+28,389,*Barbour, T.*,**,**
+28,389,*Stetson, H. C.*,**,**
+28,390,*Barbour, T.*,**,**
+28,390,*Stetson, H. C.*,**,**
+28,391,*Barbu, I. Z.*,*= T. Z.*,**
+28,392,*Bartenev, A. N.*,*= Bartenief*,**
+28,393,*Bartenev, A. N.*,*= Bartenief*,**
+28,394,*Barton, Otis*,**,**
+28,395,*Bartucz, L.*,**,**
+28,396,*Basse, E%Aliane*,**,**
+28,397,*Bastin, Alfred H.*,**,**
+28,398,*Bastin, Alfred H.*,**,**
+28,399,*Bastin, Alfred H.*,**,**
+28,400,*Bastin, Alfred H.*,**,**
+28,401,*Bastin, Alfred H.*,**,**
+28,402,*Bastin, Alfred H.*,**,**
+28,403,*Bastin, A. H.*,**,**
+28,403,*Humbert, J.*,**,**
+28,404,*Bataller, Jose%A Ramo%An*,**,**
+28,405,*Bataller, Jose%A Ramo%An*,**,**
+28,406,*Bataller, J. R.*,**,**
+28,406,*Sola%A, P. J.*,**,**
+28,407,*Bate, Dorothea M. A.*,**,**
+28,408,*Bate, Dorothea M. A.*,**,**
+28,409,*Bate, Dorothea M. A.*,**,**
+28,410,*Bate, Dorothea M. A.*,**,**
+28,411,*Bather, Francis Arthur*,**,**
+28,412,*Bather, Francis Arthur*,**,**
+28,413,*Bather, Francis Arthur*,**,**
+28,414,*Bather, Francis Arthur*,**,**
+28,415,*Bather, Francis Arthur*,**,**
+28,416,*Bather, Francis Arthur*,**,**
+28,417,*Bather, Francis Arthur*,**,**
+28,418,*Bather, Francis Arthur*,**,**
+28,419,*Bather, Francis Arthur*,**,**
+28,420,*Battaglia, Raffaelo*,**,**
+28,421,*Battaglia, Raffaelo*,**,**
+28,423,*Battaglia, Raffaelo*,**,**
+28,424,*Baudouin, M.*,**,**
+28,424,*Morel, M.*,**,**
+28,425,*Bavink, Bernhard*,**,**
+28,426,*Bayer, B.*,**,**
+28,427,*Bayer, Joseph*,**,**
+28,428,*Bayer, Joseph*,**,**
+28,429,*Bayer, Joseph*,**,**
+28,430,*Bayer, Joseph*,**,**
+28,431,*Bean, Robert Bennett*,**,**
+28,432,*Beaufort, L. F. de*,**,**
+28,433,*Beaufort, L. F. de*,**,**
+28,434,*Beaulieu, Germain*,**,**
+28,435,*Beauverie, J.*,**,**
+28,435,*Roman, F.*,**,**
+28,435,*Gautier, C.*,**,**
+28,435,*Cormau, L.*,**,**
+28,435,*Collin, R.*,**,**
+28,435,*Cue%Anot, L.*,**,**
+28,435,*Jacquin-Chatellier, L.*,**,**
+28,435,*Montcheuil, R. P. de*,**,**
+28,435,*Viret, J.*,**,**
+28,435,*Merle, P.*,**,**
+28,435,*Monchanin, A.*,**,**
+28,435,*Thooris, A.*,**,**
+28,435,*Aron, M.*,**,**
+28,436,*Beckers, H. J.*,**,**
+28,437,*Beer, E. W. de*,**,**
+28,438,*Beer, G. R. de*,**,**
+28,438,*Huxley, J. S.*,**,**
+28,439,*Beer, G. R. de*,**,**
+28,439,*Buxton, L. H. D.*,**,**
+28,440,*Be%Agouen, Louis Comte de*,**,**
+28,441,*Be%Agouen, Louis Comte de*,**,**
+28,442,*Be%Agouen, Max*,**,**
+28,443,*Behm, Hans Wolfgang*,**,**
+28,444,*Behn, Friedrich*,**,**
+28,445,*Beliaeva, E. I.*,*= Beliajeva = Belyayeva, Yelizaveta Ivanovana*,**
+28,446,*Beliaeva, E. I.*,*= Beliajeva = Belyayeva, Yelizaveta Ivanovana*,**
+28,447,*Beliaeva, E. I.*,*= Beliajeva = Belyayeva, Yelizaveta Ivanovana*,**
+28,448,*Beliaeva, E. I.*,*= Beliajeva = Belyayeva, Yelizaveta Ivanovana*,**
+28,449,*Bell, W. A.*,**,**
+28,450,*Benson, Allan L.*,**,**
+28,451,*Bentivoglio, Tito*,**,**
+28,452,*Bentley, Madison*,**,**
+28,453,*Berckhemer, Fritz*,**,**
+28,454,*Berckhemer, Fritz*,**,**
+28,455,*Berckhemer, Fritz*,**,**
+28,456,*Berckhemer, Fritz*,**,**
+28,457,*Berckhemer, Fritz*,**,**
+28,458,*Berckhemer, Fritz*,**,**
+28,459,*Berckhemer, Fritz*,**,**
+28,460,*Berckhemer, Fritz*,**,**
+28,461,*Berckhemer, Fritz*,**,**
+28,462,*Berckhemer, Fritz*,**,**
+28,463,*Berckhemer, Fritz*,**,**
+28,464,*Berckhemer, Fritz*,**,**
+28,465,*Berckhemer, Fritz*,**,**
+28,466,*Berckhemer, Fritz*,**,**
+28,467,*Berckhemer, Fritz*,**,**
+28,468,*Berckhemer, Fritz*,**,**
+28,469,*Berckhemer, Fritz*,**,**
+28,470,*Berckhemer, Fritz*,**,**
+28,471,*Berg, A. K. van*,**,**
+28,472,*Bergersen, Birger*,**,**
+28,473,*Bergounioux, F.-M.*,**,**
+28,474,*Bergounioux, F.-M.*,**,**
+28,475,*Bergounioux, F.-M.*,**,**
+28,476,*Bergounioux, F.-M.*,**,**
+28,477,*Bergounioux, F.-M.*,**,**
+28,478,*Bergounioux, F.-M.*,**,**
+28,479,*Bergounioux, F.-M.*,**,**
+28,480,*Bergounioux, F.-M.*,**,**
+28,481,*Bergounioux, F.-M.*,**,**
+28,482,*Bergounioux, F.-M.*,**,**
+28,483,*Berkey, Charles Peter*,**,**
+28,484,*Berkey, C. P.*,**,**
+28,484,*Granger, W.*,**,**
+28,484,*Morris, F. K.*,**,**
+28,485,*Berlin, Herved*,**,**
+28,486,*Bernsen, J. J. A.*,**,**
+28,487,*Bernsen, J. J. A.*,**,**
+28,488,*Bernsen, J. J. A.*,**,**
+28,489,*Bernsen, J. J. A.*,**,**
+28,490,*Bernsen, J. J. A.*,**,**
+28,491,*Bernsen, J. J. A.*,**,**
+28,492,*Bernsen, J. J. A.*,**,**
+28,493,*Berro, A. C.*,**,**
+28,494,*Berry, Charles Thompson*,**,**
+28,495,*Berry, Charles Thompson*,**,**
+28,496,*Berry, Edward Wilber*,**,**
+28,497,*Berry, J. Allan*,**,**
+28,498,*Berry, Willard*,**,**
+28,499,*Bertaccini, P.*,**,**
+28,500,*Bertolanffy, L. von*,**,**
+28,501,*Bertoni, A. de W.*,**,**
+28,502,*Bertoni, A. de W.*,**,**
+28,503,*Besairie, H.*,**,**
+28,504,*Betim, Alberto*,**,**
+28,505,*Beurlen, Karl*,**,**
+28,506,*Beurlen, Karl*,**,**
+28,507,*Beurlen, Karl*,**,**
+28,508,*Beurlen, Karl*,**,**
+28,509,*Beurlen, Karl*,**,**
+28,510,*Bialynicki-Birula, A. A.*,**,**
+28,511,*Bialynicki-Birula, A. A.*,**,**
+28,512,*Bialynicki-Birula, A. A.*,**,**
+28,513,*Bialynicki-Birula, A. A.*,**,**
+28,514,*Bialynicki-Birula, A. A.*,**,**
+28,515,*Bigot, Alexandre*,**,**
+28,516,*Bigot, Alexandre*,**,**
+28,517,*Bill, Annie C.*,**,**
+28,518,*Binet-Sangle%A, Dr.*,**,**
+28,519,*Black, Davidson*,**,**
+28,520,*Black, Davidson*,**,**
+28,521,*Black, Davidson*,**,**
+28,522,*Black, Davidson*,**,**
+28,523,*Black, Davidson*,**,**
+28,524,*Black, Davidson*,**,**
+28,525,*Black, Davidson*,**,**
+28,526,*Black, Davidson*,**,**
+28,527,*Black, Davidson*,**,**
+28,528,*Black, Davidson*,**,**
+28,529,*Black, Davidson*,**,**
+28,530,*Black, Davidson*,**,**
+28,531,*Black, Davidson*,**,**
+28,532,*Black, Davidson*,**,**
+28,533,*Black, Davidson*,**,**
+28,534,*Black, Davidson*,**,**
+28,535,*Black, Davidson*,**,**
+28,536,*Black, Davidson*,**,**
+28,537,*Black, Davidson*,**,**
+28,538,*Black, D.*,**,**
+28,538,*Chardin, P. T. de*,**,**
+28,538,*Young, C. C.*,**,**
+28,538,*Pei, W. C.*,**,**
+28,539,*Blackwelder, Eliot*,**,**
+28,540,*Blackwelder, Eliot*,**,**
+28,541,*Blanc, Gian Alberto*,**,**
+28,542,*Blanckenhorn, Max*,**,**
+28,543,*Blanquier, A.*,**,**
+28,544,*Blaschke, Frederick*,**,**
+28,545,*Blaschke, Wilhelm*,**,**
+28,546,*Blondel, F.*,**,**
+28,547,*Bluntschli, Hans*,**,**
+28,548,*Boas, Franz*,**,**
+28,549,*Boas, J. E. V.*,**,**
+28,550,*Bodard, A.*,**,**
+28,551,*Bode, Francis D.*,**,**
+28,552,*Bode, Francis D.*,**,**
+28,553,*Bode, Francis D.*,**,**
+28,554,*Boetticher, Hans von*,**,**
+28,555,*Boetticher, Hans von*,**,**
+28,556,*Boghachev, V. V.*,*= Bogache%Fv, Vladimir Vladimirovich*,**
+28,557,*Bogsch, L.*,**,**
+28,558,*Bo%Fker, Hans*,**,**
+28,559,*Bolk, Louis*,**,**
+28,560,*Bolk, L.*,**,**
+28,560,*Go%Fppert, E.*,**,**
+28,560,*Kallins, E.*,**,**
+28,560,*Lubosch, W.*,**,**
+28,561,*Bolkay, Stephan Josef*,*= Istva%An Jo%Azef*,**
+28,562,*Bolkay, Stephan Josef*,*= Istva%An Jo%Azef*,**
+28,563,*Bo%Flsche, Willhelm*,**,**
+28,564,*Bo%Flsche, Willhelm*,**,**
+28,565,*Bonarelli, Guido*,**,**
+28,566,*Boni, Alfredo*,**,**
+28,567,*Bonin, Gerhardt von*,**,**
+28,568,*Bonnema, J. H.*,**,**
+28,569,*Boonstra, Lieuwe D.*,**,**
+28,570,*Boonstra, Lieuwe D.*,**,**
+28,571,*Boonstra, Lieuwe D.*,**,**
+28,572,*Boonstra, Lieuwe D.*,**,**
+28,573,*Boonstra, Lieuwe D.*,**,**
+28,574,*Boonstra, Lieuwe D.*,**,**
+28,575,*Boonstra, Lieuwe D.*,**,**
+28,576,*Boonstra, Lieuwe D.*,**,**
+28,577,*Boonstra, Lieuwe D.*,**,**
+28,578,*Boonstra, Lieuwe D.*,**,**
+28,579,*Boonstra, Lieuwe D.*,**,**
+28,580,*Boonstra, Lieuwe D.*,**,**
+28,581,*Boonstra, Lieuwe D.*,**,**
+28,582,*Bordas, Alejandro F.*,**,**
+28,583,*Bordas, Alejandro F.*,**,**
+28,584,*Bordas, Alejandro F.*,**,**
+28,585,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,586,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,587,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,588,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,589,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,590,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,591,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,592,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,593,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,594,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,595,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,596,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,597,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,598,*Borissiak, Alexei Alexievich*,*= Bori%Jsiak = Borisjok*,**
+28,599,*Borissiak, A. A.*,**,**
+28,599,*Beliaeva, Miss E. I.*,**,**
+28,600,*Borissiak, A. A.*,**,**
+28,600,*Beliaeva, Miss E. I.*,**,**
+28,601,*Born, Axel*,**,**
+28,602,*Born, Axel*,**,**
+28,603,*Borradas, Jose Perez de*,**,**
+28,604,*Borri, C.*,**,**
+28,605,*Bos, L. B.*,**,**
+28,606,*Bosch, A. D. H.*,**,**
+28,607,*Bose, Birendra Kumar*,**,**
+28,608,*Bose, Birendra Kumar*,**,**
+28,609,*Boss, Norman H.*,**,**
+28,610,*Bossert, H. Th.*,**,**
+28,611,*Boswell, Percy George Hamnall*,**,**
+28,612,*Boswell, Percy George Hamnall*,**,**
+28,613,*Boswell, Percy George Hamnall*,**,**
+28,614,*Boswell, Percy George Hamnall*,**,**
+28,615,*Botez, I. G.*,**,**
+28,616,*Botez, I. G.*,**,**
+28,617,*Botzong, C.*,**,**
+28,617,*Voelcker, I.*,**,**
+28,618,*Boubier, Maurice*,**,**
+28,619,*Boule, Marcellin*,**,**
+28,620,*Boule, Marcellin*,**,**
+28,621,*Boule, Marcellin*,**,**
+28,622,*Boule, Marcellin*,**,**
+28,623,*Boule, Marcellin*,**,**
+28,624,*Boule, Marcellin*,**,**
+28,638,*Boule, Marcellin*,**,**
+28,639,*Boule, Marcellin*,**,**
+28,640,*Boule, Marcellin*,**,**
+28,641,*Boule, Marcellin*,**,**
+28,642,*Boule, Marcellin*,**,**
+28,643,*Boule, Marcellin*,**,**
+28,644,*Boule, Marcellin*,**,**
+28,645,*Boule, Marcellin*,**,**
+28,647,*Boule, Marcellin*,**,**
+28,648,*Boule, Marcellin*,**,**
+28,649,*Boule, Marcellin*,**,**
+28,650,*Boule, Marcellin*,**,**
+28,651,*Boule, Marcellin*,**,**
+28,652,*Boule, Marcellin*,**,**
+28,653,*Boule, Marcellin*,**,**
+28,654,*Boule, M.*,**,**
+28,654,*Breuil, H.*,**,**
+28,654,*Licent, E.*,**,**
+28,654,*Chardin, P. T. de*,**,**
+28,655,*Boule, M.*,**,**
+28,655,*Vallois, H.*,**,**
+28,656,*Boulenger, E. G.*,**,**
+28,657,*Bourcart, Jacques*,**,**
+28,658,*Bourcart, Jacques*,**,**
+28,659,*Bourcart, Jacques*,**,**
+28,660,*Bourdelle, E.*,**,**
+28,661,*Bourdelle, E.*,**,**
+28,662,*Boyle, Mary E.*,**,**
+28,663,*Bradley, John Hogdon, Jr.*,**,**
+28,664,*Bradley, John Hogdon, Jr.*,**,**
+28,665,*Bradley, John Hogdon, Jr.*,**,**
+28,666,*Brady, Lionel Francis*,**,**
+28,667,*Branchini, Iolanda*,**,**
+28,668,*Branson, Carl Colton*,**,**
+28,669,*Branson, Carl Colton*,**,**
+28,670,*Branson, Carl Colton*,**,**
+28,671,*Branson, Edwin Bayer*,**,**
+28,671,*Mehl, M. G.*,**,**
+28,672,*Branson, Edwin Bayer*,**,**
+28,672,*Mehl, M. G.*,**,**
+28,673,*Branson, Edwin Bayer*,**,**
+28,673,*Mehl, M. G.*,**,**
+28,674,*Branson, Edwin Bayer*,**,**
+28,674,*Mehl, M. G.*,**,**
+28,675,*Branson, Edwin Bayer*,**,**
+28,675,*Mehl, M. G.*,**,**
+28,676,*Branson, Edwin Bayer*,**,**
+28,676,*Mehl, M. G.*,**,**
+28,677,*Branson, Edwin Bayer*,**,**
+28,677,*Mehl, M. G.*,**,**
+28,678,*Branson, Edwin Bayer*,**,**
+28,678,*Mehl, M. G.*,**,**
+28,679,*Bra%Fuha%Fuser, Manfred*,**,**
+28,680,*Bra%Fuha%Fuser, Manfred*,**,**
+28,681,*Bra%Fuha%Fuser, Manfred*,**,**
+28,682,*Bray, Edmondo*,**,**
+28,683,*Bremekamp, Cornelis Eliza Bertus*,**,**
+28,684,*Bretana, Domenico*,**,**
+28,685,*Bretana, Domenico*,**,**
+28,686,*Bretz, J Harlen*,**,**
+28,687,*Breuer, Richard*,**,**
+28,688,*Breuer, Richard*,**,**
+28,689,*Breuer, Richard*,**,**
+28,690,*Breuer, Richard*,**,**
+28,691,*Breuil, l'Abbe%A H.*,**,**
+28,692,*Breuil, l'Abbe%A H.*,**,**
+28,693,*Breuil, l'Abbe%A H.*,**,**
+28,694,*Breuil, l'Abbe%A H.*,**,**
+28,695,*Breuil, l'Abbe%A H.*,**,**
+28,696,*Breuil, l'Abbe%A H.*,**,**
+28,697,*Breuil, l'Abbe%A H.*,**,**
+28,698,*Breuil, H.*,**,**
+28,698,*Koslowski, L.*,**,**
+28,699,*Brewster, Edwin Tenney*,**,**
+28,700,*Briggs, H. H.*,**,**
+28,701,*Brighton, Albert George*,**,**
+28,702,*Brode, Howard Stidham*,**,**
+28,703,*Broili, Ferdinand*,**,**
+28,704,*Broili, Ferdinand*,**,**
+28,705,*Broili, Ferdinand*,**,**
+28,706,*Broili, Ferdinand*,**,**
+28,707,*Broili, Ferdinand*,**,**
+28,708,*Broili, Ferdinand*,**,**
+28,709,*Broili, Ferdinand*,**,**
+28,710,*Broili, Ferdinand*,**,**
+28,711,*Broili, Ferdinand*,**,**
+28,712,*Broili, Ferdinand*,**,**
+28,713,*Broili, Ferdinand*,**,**
+28,714,*Broili, Ferdinand*,**,**
+28,715,*Broili, Ferdinand*,**,**
+28,716,*Broili, Ferdinand*,**,**
+28,717,*Broili, Ferdinand*,**,**
+28,718,*Broili, Ferdinand*,**,**
+28,719,*Broili, Ferdinand*,**,**
+28,720,*Broili, Ferdinand*,**,**
+28,721,*Broom, Robert*,**,**
+28,722,*Broom, Robert*,**,**
+28,723,*Broom, Robert*,**,**
+28,724,*Broom, Robert*,**,**
+28,725,*Broom, Robert*,**,**
+28,726,*Broom, Robert*,**,**
+28,727,*Broom, Robert*,**,**
+28,728,*Broom, Robert*,**,**
+28,729,*Broom, Robert*,**,**
+28,730,*Broom, Robert*,**,**
+28,731,*Broom, Robert*,**,**
+28,732,*Broom, Robert*,**,**
+28,733,*Broom, Robert*,**,**
+28,734,*Broom, Robert*,**,**
+28,735,*Broom, Robert*,**,**
+28,736,*Broom, Robert*,**,**
+28,737,*Broom, Robert*,**,**
+28,738,*Broom, Robert*,**,**
+28,739,*Broom, Robert*,**,**
+28,740,*Broom, Robert*,**,**
+28,741,*Broom, Robert*,**,**
+28,742,*Broom, Robert*,**,**
+28,743,*Broom, Robert*,**,**
+28,744,*Broom, Robert*,**,**
+28,745,*Broom, Robert*,**,**
+28,746,*Broom, Robert*,**,**
+28,747,*Broom, Robert*,**,**
+28,748,*Broom, Robert*,**,**
+28,749,*Broom, Robert*,**,**
+28,750,*Broom, R.*,**,**
+28,750,*Brock, G. T.*,**,**
+28,751,*Brotzen, Fritz*,**,**
+28,752,*Brotzen, Fritz*,**,**
+28,753,*Brotzen, Fritz*,**,**
+28,754,*Brough, James*,**,**
+28,755,*Brough, James*,**,**
+28,756,*Brown, Barnum*,**,**
+28,757,*Brown, Barnum*,**,**
+28,758,*Brown, Barnum*,**,**
+28,759,*Brown, Barnum*,**,**
+28,760,*Brown, Barnum*,**,**
+28,761,*Brown, Barnum*,**,**
+28,762,*Brown, Barnum*,**,**
+28,763,*Brown, Barnum*,**,**
+28,764,*Brown, Barnum*,**,**
+28,765,*Brown, Barnum*,**,**
+28,766,*Brown, G. Baldwin*,**,**
+28,767,*Brown, Newton*,**,**
+28,768,*Browning, William*,**,**
+28,769,*Bruet, Edmond*,**,**
+28,770,*Bruet, Edmond*,**,**
+28,771,*Brun, P. de*,**,**
+28,772,*Brunelli, Gustavo*,**,**
+28,773,*Brunelli, Gustavo*,**,**
+28,774,*Brunner, Georg*,**,**
+28,775,*Bryan, William Alanson*,**,**
+28,776,*Bryant, William L.*,**,**
+28,777,*Bryant, William L.*,**,**
+28,778,*Bryant, William L.*,**,**
+28,779,*Bryant, William L.*,**,**
+28,780,*Bryant, William L.*,**,**
+28,781,*Bryant, William L.*,**,**
+28,782,*Bryant, William L.*,**,**
+28,783,*Bubnoff, Serge*,**,**
+28,784,*Buchanan, James William*,**,**
+28,785,*Buick, T. Lindsay*,**,**
+28,786,*Bullitt, James Bell*,**,**
+28,787,*Bulman, Oliver Meredith Boone*,**,**
+28,789,*Bulman, Oliver Meredith Boone*,**,**
+28,790,*Bulman, Oliver Meredith Boone*,**,**
+28,791,*Bultingaire, L.*,**,**
+28,792,*Bump, James D.*,**,**
+28,793,*Bump, James D.*,**,**
+28,794,*Bump, James D.*,**,**
+28,795,*Bump, James D.*,**,**
+28,796,*Bu%Fnning, Erwin*,**,**
+28,797,*Burchard, O.*,**,**
+28,797,*Ahl, E.*,**,**
+28,798,*Burchell, J. P. T.*,**,**
+28,799,*Burchell, J. P. T.*,**,**
+28,800,*Burchell, J. P. T.*,**,**
+28,800,*Blake, W. C.*,**,**
+28,801,*Burckhardt, Carlos*,**,**
+28,801,*Waitz, Paul*,**,**
+28,802,*Bu%Frger, Willy*,**,**
+28,803,*Bu%Frgl, Hans*,**,**
+28,804,*Burke, J. J.*,**,**
+28,805,*Burkitt, A. N.*,**,**
+28,806,*Burkitt, A. N.*,**,**
+28,807,*Burkitt, Miles Crawford*,**,**
+28,808,*Burkitt, Miles Crawford*,**,**
+28,809,*Burkitt, Miles Crawford*,**,**
+28,810,*Burkitt, Miles Crawford*,**,**
+28,811,*Burkitt, M. C.*,**,**
+28,811,*Childe, V. G.*,**,**
+28,812,*Burkitt, M. C.*,**,**
+28,812,*Garfitt, G. A.*,**,**
+28,812,*Armstrong, A. L.*,**,**
+28,812,*Boswell, P. G. H.*,**,**
+28,812,*Favell, R. V.*,**,**
+28,812,*Fleure, H. J.*,**,**
+28,812,*Garrod, D. A. E.*,**,**
+28,812,*Haddon, A. C.*,**,**
+28,812,*Jackson, J. W.*,**,**
+28,812,*Palmer, L. S.*,**,**
+28,812,*Parsons, F. G.*,**,**
+28,812,*Peake, H. J. E.*,**,**
+28,813,*Burkitt, M. C.*,**,**
+28,813,*Favell, R. V.*,**,**
+28,813,*Armstrong, A. L.*,**,**
+28,813,*Fleure, H. J.*,**,**
+28,813,*Garrod, D. A. E.*,**,**
+28,813,*Jackson, J. W.*,**,**
+28,813,*Palmer, L. S.*,**,**
+28,813,*Peake, H. J. E.*,**,**
+28,814,*Burt, William Henry*,**,**
+28,815,*Burt, William Henry*,**,**
+28,816,*Burton, Ernest St. John*,**,**
+28,817,*Bush, G. E.*,**,**
+28,818,*Buttel-Reepen, H. von*,**,**
+28,819,*Buwalda, J. P.*,**,**
+28,819,*Moore, B. N.*,**,**
+28,820,*Buxton, L. H. Dudley*,**,**
+28,821,*Buxton, L. H. Dudley*,**,**
+28,822,*Buxton, L. H. D.*,**,**
+28,822,*Rice, D. T.*,**,**
+28,823,*Bystrow, A. P.*,*=Bystrov, Aleksey Petrovich*,**
+28,824,*Cable, Emmett James*,**,**
+28,825,*Cabrera, A%Angel*,**,**
+28,826,*Cabrera, A%Angel*,**,**
+28,827,*Cabrera, A%Angel*,**,**
+28,828,*Cabrera, A%Angel*,**,**
+28,829,*Cabrera, A%Angel*,**,**
+28,830,*Cabrera, A%Angel*,**,**
+28,831,*Cabrera, A%Angel*,**,**
+28,832,*Cabrera, A%Angel*,**,**
+28,833,*Cabrera, A%Angel*,**,**
+28,834,*Cabrera, A%A.*,**,**
+28,834,*Kraglievich, L.*,**,**
+28,835,*Caccia, V.*,**,**
+28,836,*Cacciamali, Giovanni Battista*,**,**
+28,837,*Caffi, Enrico*,**,**
+28,838,*Cahn, Alvin R.*,**,**
+28,839,*Cahn, Alvin R.*,**,**
+28,840,*Cahn, Alvin R.*,**,**
+28,841,*Caldwell, Otis W.*,**,**
+28,841,*Skinner, C. E.*,**,**
+28,841,*Tietz, J. W.*,**,**
+28,842,*Calkin, J. Bernard*,**,**
+28,843,*Callaghan, Eugene*,**,**
+28,844,*Calverton, V. F.*,**,*E*
+28,845,*Cameron, John*,**,**
+28,846,*Cameron, John*,**,**
+28,847,*Cameron, John*,**,**
+28,848,*Cameron, John*,**,**
+28,849,*Cameron, John*,**,**
+28,850,*Cameron, John*,**,**
+28,851,*Cameron, John*,**,**
+28,852,*Cameron, John*,**,**
+28,853,*Cameron, John*,**,**
+28,854,*Cameron, John*,**,**
+28,855,*Cameron, John*,**,**
+28,856,*Cameron, John*,**,**
+28,857,*Cameron, John*,**,**
+28,858,*Cameron, John*,**,**
+28,859,*Cameron, John*,**,**
+28,860,*Cameron, John*,**,**
+28,861,*Cameron, John*,**,**
+28,862,*Cameron, John*,**,**
+28,863,*Cameron, John*,**,**
+28,864,*Cameron, John*,**,**
+28,865,*Cameron, John*,**,**
+28,866,*Cameron, John*,**,**
+28,867,*Cameron, John*,**,**
+28,868,*Cameron, John*,**,**
+28,869,*Cameron, John*,**,**
+28,870,*Cameron, John*,**,**
+28,871,*Cameron, John*,**,**
+28,872,*Cameron, John*,**,**
+28,873,*Cameron, John*,**,**
+28,874,*Cameron, John*,**,**
+28,875,*Cameron, John*,**,**
+28,876,*Cameron, John*,**,**
+28,877,*Cameron, John*,**,**
+28,878,*Cameron, John*,**,**
+28,879,*Cameron, John*,**,**
+28,880,*Cameron, John*,**,**
+28,881,*Cameron, John*,**,**
+28,882,*Camp, Charles Lewis*,**,**
+28,883,*Camp, Charles Lewis*,**,**
+28,884,*Camp, Charles Lewis*,**,**
+28,885,*Camp, Charles Lewis*,**,**
+28,886,*Camp, Charles Lewis*,**,**
+28,887,*Campbell, H.*,**,**
+28,888,*Campbell, Robert B.*,**,**
+28,889,*Capitan, Louis*,**,**
+28,890,*Capitan, L.*,**,**
+28,890,*Peyrony, D.*,**,**
+28,891,*Carman, Joel Ernest*,**,**
+28,892,*Carroll, Don L.*,**,**
+28,893,*Carthaus, Emil*,**,**
+28,894,*Carthaus, Emil*,**,**
+28,895,*Carvajal, E.*,**,**
+28,896,*Case, Ermine Cowles*,**,**
+28,897,*Case, Ermine Cowles*,**,**
+28,898,*Case, Ermine Cowles*,**,**
+28,899,*Case, Ermine Cowles*,**,**
+28,900,*Case, Ermine Cowles*,**,**
+28,901,*Case, Ermine Cowles*,**,**
+28,902,*Case, Ermine Cowles*,**,**
+28,903,*Case, Ermine Cowles*,**,**
+28,904,*Case, Ermine Cowles*,**,**
+28,905,*Case, Ermine Cowles*,**,**
+28,906,*Case, Ermine Cowles*,**,**
+28,907,*Case, Ermine Cowles*,**,**
+28,908,*Case, Ermine Cowles*,**,**
+28,909,*Case, Ermine Cowles*,**,**
+28,910,*Castellanos, Alfredo*,**,**
+28,911,*Castellanos, Alfredo*,**,**
+28,912,*Castellanos, Alfredo*,**,**
+28,913,*Castellanos, Alfredo*,**,**
+28,914,*Castellanos, Alfredo*,**,**
+28,915,*Castellanos, Alfredo*,**,**
+28,916,*Castellanos, Alfredo*,**,**
+28,917,*Castellanos, Alfredo*,**,**
+28,918,*Castellanos, Alfredo*,**,**
+28,919,*Castellanos, Alfredo*,**,**
+28,920,*Castellanos, Alfredo*,**,**
+28,921,*Castellanos, Alfredo*,**,**
+28,922,*Castellanos, Alfredo*,**,**
+28,923,*Castellanos, Alfredo*,**,**
+28,924,*Caster, K. E.*,**,**
+28,925,*Casteret, Norbert*,**,**
+28,926,*Caterini, Francesco*,**,**
+28,927,*Cattell, James McKeen*,**,**
+28,927,*Cattell, Jaques*,**,**
+28,928,*Cauderay, Henry*,**,**
+28,929,*Caullery, Maurice*,**,**
+28,930,*Caullery, Maurice*,**,**
+28,931,*Caullery, Maurice*,**,**
+28,932,*Caullery, M., Guye%Anot, E%A.*,**,**
+28,932,*Rivet, P.*,**,**
+28,933,*Cauvet, G.*,**,**
+28,934,*Cazedessus, J.*,**,**
+28,935,*Cazedessus, J.*,**,**
+28,936,*Ce%Ape%Cde, Casimir*,**,**
+28,937,*Chabakov, A. W.*,*= Alexander V. Chabakov = Khabakov, Aleksandr*,**
+28,938,*Chabakov, A. W.*,*= Alexander V. Chabakov = Khabakov, Aleksandr*,**
+28,939,*Chabakov, A. W.*,*= Alexander V. Chabakov = Khabakov, Aleksandr*,**
+28,940,*Chabanaud, Paul*,**,**
+28,941,*Chabanaud, Paul*,**,**
+28,942,*Chadwick, George Horace*,**,**
+28,943,*Chaine, J.*,**,**
+28,944,*Chaine, J.*,**,**
+28,944,*Duvergier, J.*,**,**
+28,945,*Chaine, J.*,**,**
+28,945,*Duvergier, J.*,**,**
+28,946,*Chakravarti, Dhirendra Kishore*,**,**
+28,947,*Chandler, R. H.*,**,**
+28,948,*Chang, Chi*,**,**
+28,949,*Chang, Hsichih*,**,**
+28,950,*Chapman, Frank Michler*,**,**
+28,951,*Chapman, Frank Michler*,**,**
+28,952,*Chapman, Frederick*,**,**
+28,953,*Chapman, Frederick*,**,**
+28,955,*Chardin, Pierre Teilhard de*,**,**
+28,956,*Chardin, Pierre Teilhard de*,**,**
+28,957,*Chardin, Pierre Teilhard de*,**,**
+28,958,*Chardin, Pierre Teilhard de*,**,**
+28,959,*Chardin, Pierre Teilhard de*,**,**
+28,960,*Chardin, Pierre Teilhard de*,**,**
+28,961,*Chardin, Pierre Teilhard de*,**,**
+28,962,*Chardin, Pierre Teilhard de*,**,**
+28,963,*Chardin, Pierre Teilhard de*,**,**
+28,964,*Chardin, Pierre Teilhard de*,**,**
+28,965,*Chardin, Pierre Teilhard de*,**,**
+28,966,*Chardin, Pierre Teilhard de*,**,**
+28,967,*Chardin, Pierre Teilhard de*,**,**
+28,968,*Chardin, P. T. de*,**,**
+28,968,*Lapparent, A. de*,**,**
+28,969,*Chardin, P. T. de*,**,**
+28,969,*Pei, W. C.*,**,**
+28,970,*Chardin, P. T. de*,**,**
+28,970,*Piveteau, J.*,**,**
+28,971,*Chardin, P. T. de*,**,**
+28,971,*Piveteau, J.*,**,**
+28,972,*Chardin, P. T. de*,**,**
+28,972,*Young, C. C.*,**,**
+28,973,*Chardin, P. T. de*,**,**
+28,973,*Young, C. C.*,**,**
+28,974,*Chardin, P. T. de*,**,**
+28,974,*Young, C. C.*,**,**
+28,975,*Chardin, P. T. de*,**,**
+28,975,*Young, C. C.*,**,**
+28,976,*Charlemagne, N.*,*= Sharleman', Nikolay Vasil'yevich*,**
+28,977,*Charlesworth, John Kaye*,**,**
+28,978,*Chavardnadze%A, M.*,**,**
+28,979,*Checchia-Rispoli, Giuseppe*,**,**
+28,980,*Chen, Tze Tuan*,**,**
+28,981,*Chesnut, Alma*,**,**
+28,982,*Chevalier, Marcel*,**,**
+28,983,*Chiarelli, A%Angela*,**,**
+28,984,*Chidester, Floyd Earle*,**,**
+28,985,*Childe, V. Gordon*,**,**
+28,986,*Chillinor, John*,**,**
+28,987,*Chitani, Yoshinosuke*,**,**
+28,988,*Ch-k.*,**,**
+28,989,*Chr., W.*,**,**
+28,990,*Christiani, Axel*,**,**
+28,991,*Chubb, S. Harmsted*,**,**
+28,992,*Cipriani, Lidio*,**,**
+28,993,*Clark, Austin Hobart*,**,**
+28,994,*Clark, Austin Hobart*,**,**
+28,995,*Clark, Austin Hobart*,**,**
+28,996,*Clark, Austin Hobart*,**,**
+28,997,*Clark, Austin Hobart*,**,**
+28,998,*Clark, Austin Hobart*,**,**
+28,999,*Clark, Bruce Lawrence*,**,**
+28,1000,*Clark, John*,**,**
+28,1001,*Clark, John*,**,**
+28,1002,*Clark, Neil M.*,**,**
+28,1003,*Clark, Thomas Henry*,**,**
+28,1004,*Clark, W. E. Le Gros*,**,**
+28,1005,*Clark, W. E. Le Gros*,**,**
+28,1006,*Claus, Rudolph*,**,**
+28,1007,*Cleland, Herdman Fitzgerald*,**,**
+28,1008,*Cleveland, Frederick A., et al.*,**,**
+28,1009,*Clifford, E.*,**,**
+28,1010,*Cockerell, Theodore Dru Alison*,**,**
+28,1011,*Cockerell, Theodore Dru Alison*,**,**
+28,1012,*Cockerell, Theodore Dru Alison*,**,**
+28,1013,*Colbert, Edwin Harris*,**,**
+28,1014,*Colbert, Edwin Harris*,**,**
+28,1015,*Colbert, Edwin Harris*,**,**
+28,1016,*Colbert, Edwin Harris*,**,**
+28,1017,*Colbert, Edwin Harris*,**,**
+28,1018,*Colbert, Edwin Harris*,**,**
+28,1019,*Colbert, Edwin Harris*,**,**
+28,1020,*Colbert, Edwin Harris*,**,**
+28,1021,*Colbert, Edwin Harris*,**,**
+28,1022,*Coleman, Arthur Philemon*,**,**
+28,1023,*Coleman, Laurence Vail*,**,**
+28,1024,*Collin, Alb.*,**,**
+28,1025,*Collins, Robert Lee*,**,**
+28,1026,*Colliver, F. S.*,**,**
+28,1027,*Colosi, Giuseppe*,**,**
+28,1028,*Colosi, Giuseppe*,**,**
+28,1029,*Colosi, Giuseppe*,**,**
+28,1030,*Company, Mario A. Fontana*,**,**
+28,1031,*Company, Mario A. Fontana*,**,**
+28,1032,*Company, Mario A. Fontana*,**,**
+28,1033,*Condra, George Evert*,**,**
+28,1034,*Conger, George P.*,**,**
+28,1035,*Conkling, R. P.*,**,**
+28,1036,*Connery, Jack H.*,**,**
+28,1037,*Cook, Harold James*,**,**
+28,1038,*Cook, Harold James*,**,**
+28,1039,*Cook, Harold James*,**,**
+28,1040,*Cook, Harold James*,**,**
+28,1041,*Cook, Harold James*,**,**
+28,1042,*Cook, Harold James*,**,**
+28,1043,*Cook, Harold James*,**,**
+28,1044,*Cook, Harold James*,**,**
+28,1045,*Cook, Harold James*,**,**
+28,1046,*Cook, Harold James*,**,**
+28,1047,*Cook, Harold James*,**,**
+28,1048,*Cook, Harold James*,**,**
+28,1049,*Cook, H. J.*,**,**
+28,1049,*Cook, M. C.*,**,**
+28,1050,*Cook, H. J.*,**,**
+28,1050,*Mansfield, W. C.*,**,**
+28,1051,*Cook, James H.*,**,**
+28,1052,*Cook, Le Moyne*,**,**
+28,1053,*Cooke, Charles Wythe*,**,**
+28,1054,*Cooke, C. W.*,**,**
+28,1054,*Mossom, S.*,**,**
+28,1055,*Cooper, Clive Forster*,**,**
+28,1056,*Cooper, Clive Forster*,**,**
+28,1057,*Cooper, Clive Forster*,**,**
+28,1058,*Cooper, Chalmer Lewis*,**,**
+28,1059,*Cooper, Gustav Arthur*,**,**
+28,1060,*Cornelius, Hans Peter*,**,**
+28,1061,*Cornelius, Hans Peter*,**,**
+28,1062,*Corroy, Georges*,**,**
+28,1063,*Corroy, Georges*,**,**
+28,1064,*Corroy, Georges*,**,**
+28,1065,*Corroy, G.*,**,**
+28,1065,*Minoux, G.*,**,**
+28,1066,*Cosijn, J.*,**,**
+28,1067,*Cosijn, J.*,**,**
+28,1068,*Costanini, David A.*,**,**
+28,1069,*Cottreau, Jean*,**,**
+28,1070,*Coulon, L.*,**,**
+28,1071,*Coulon, L.*,**,**
+28,1072,*Courty, Georges*,**,**
+28,1073,*Coutie%Cre, Henri*,**,**
+28,1074,*Cowdry, Edmund Vincent*,**,*E*
+28,1075,*Cox, Leslie Reginald*,**,**
+28,1076,*Cox, Paul Ernest*,**,**
+28,1077,*Crabb, Edward Drane*,**,**
+28,1078,*Crabb, Edward Drane*,**,**
+28,1079,*Crampton, Henry Edward*,**,**
+28,1080,*Crickmay, Colin Hayter*,**,**
+28,1081,*Crile, George W.*,**,**
+28,1082,*Croneis, Carey*,**,**
+28,1083,*Crook, Alja Robinson*,**,**
+28,1084,*Cummings, Carlos E.*,**,**
+28,1085,*Cushman, Joseph Augustine*,**,**
+28,1086,*Cuvillier, Jean*,**,**
+28,1087,*Czerny, Sigmond*,**,**
+28,1088,*D.  --, --.*,**,**
+28,1089,*Dabelow, Adolph*,**,**
+28,1090,*Dabelow, Adolph*,**,**
+28,1091,*Dabelow, Adolph*,**,**
+28,1092,*Dabelow, Adolph*,**,**
+28,1093,*Dabelow, Adolph*,**,**
+28,1094,*Dacque%A, Edgar*,**,**
+28,1095,*Dacque%A, E.*,**,**
+28,1095,*Wegener, A.*,**,**
+28,1096,*Dahlgren, B. E.*,**,**
+28,1097,*Dakin, W. J.*,**,**
+28,1098,*Daley, Charles*,**,**
+28,1099,*Dal Piaz, Giambattista B.*,**,**
+28,1100,*Dal Piaz, Giambattista B.*,**,**
+28,1101,*Dal Piaz, Giambattista B.*,**,**
+28,1102,*Dal Piaz, Giambattista B.*,**,**
+28,1103,*Dal Piaz, Giambattista B.*,**,**
+28,1104,*Dal Piaz, Giambattista B.*,**,**
+28,1105,*Dal Piaz, Giambattista B.*,**,**
+28,1106,*Dal Piaz, Giambattista B.*,**,**
+28,1107,*Dal Piaz, Giambattista B.*,**,**
+28,1108,*Dal Piaz, Giambattista B.*,**,**
+28,1109,*Dal Piaz, Giambattista B.*,**,**
+28,1110,*Dal Piaz, Giambattista B.*,**,**
+28,1111,*Dal Piaz, Giambattista B.*,**,**
+28,1112,*Dampier-Whetham, William Cecil*,**,**
+28,1113,*Dane, Carle Hamilton*,**,**
+28,1114,*Dane, Carle Hamilton*,**,**
+28,1115,*Daniel, John Franklin*,**,**
+28,1116,*Danysz-Fleszarowa, R.*,**,**
+28,1117,*Danysz-Fleszarowa, R.*,**,**
+28,1118,*Dart, Raymond*,**,**
+28,1119,*Dart, Raymond*,**,**
+28,1120,*Dart, Raymond*,**,**
+28,1121,*Dart, Raymond*,**,**
+28,1122,*Dart, Raymond*,**,**
+28,1123,*Dart, Raymond*,**,**
+28,1124,*Darton, Nelson Horatio*,**,**
+28,1125,*Darwin, Charles*,**,**
+28,1126,*Darwin, Leonard*,**,**
+28,1127,*Das-Gupta, Hem Chandra*,**,**
+28,1128,*Das-Gupta, Hem Chandra*,**,**
+28,1129,*Das-Gupta, Hem Chandra*,**,**
+28,1130,*Davenport, Charles Benedict*,**,**
+28,1131,*David, Sir Tannet William Edgeworth*,**,**
+28,1132,*David, T. W. E.*,**,**
+28,1132,*Su%Fssmilch, C. A.*,**,**
+28,1133,*Davidson, Charles Findlay*,**,**
+28,1134,*Davies, A. Morley*,**,**
+28,1135,*Davies, L. Merson*,**,**
+28,1136,*Davis, Arthur G.*,**,**
+28,1137,*Davis, Arthur G.*,**,**
+28,1138,*Davis, William Harper*,**,**
+28,1139,*Debetz, G. F.*,*Debets, Georgiy Frantsevich*,**
+28,1140,*Debetz, G. F.*,*Debets, Georgiy Frantsevich*,**
+28,1141,*Debruge, A.*,**,**
+28,1142,*Decker, Charles Elijah*,**,**
+28,1143,*Decker, Charles Elijah*,**,**
+28,1144,*De Cristo, Guiseppe*,**,**
+28,1145,*Deecke, W.*,**,**
+28,1146,*Deecke, W.*,**,**
+28,1147,*De Geer, Gerard (Baron)*,**,**
+28,1148,*Degerbo%Sl, Magnus*,**,**
+28,1149,*Degerbo%Sl, Magnus*,**,**
+28,1150,*Degerbo%Sl, Magnus*,**,**
+28,1151,*Degerbo%Sl, Magnus*,**,**
+28,1154,*De Jong, A. C.*,**,**
+28,1155,*Delafosse, W.*,**,**
+28,1156,*Delavan, Fred*,**,**
+28,1157,*Del Campana, Domenico*,**,**
+28,1158,*De%Ale%Apine, G.*,**,**
+28,1159,*Delphy, Jean*,**,**
+28,1160,*Denizot, Georges*,**,**
+28,1161,*Denizot, Georges*,**,**
+28,1162,*Denninger, Henri Stearns*,**,**
+28,1163,*Depe%Aret, Charles*,**,**
+28,1164,*Depe%Aret, Charles*,**,**
+28,1165,*Depe%Aret, C.*,**,**
+28,1165,*Llueca, F. G.*,**,**
+28,1166,*Depe%Aret, C.*,**,**
+28,1166,*Passemard, E.*,**,**
+28,1166,*Rochette, J.*,**,**
+28,1167,*Depe%Aret, C.*,**,**
+28,1167,*Viret, J.*,**,**
+28,1168,*Deraniyagala, P. E. P.*,**,**
+28,1169,*Desfosses, P.*,**,**
+28,1170,*Desio, Ardito*,**,**
+28,1171,*Dette, Kurt*,**,**
+28,1172,*Dette, Kurt*,**,**
+28,1173,*Devaux, Emile*,**,**
+28,1174,*Devaux, Emile*,**,**
+28,1175,*De Ve%Acchi, Bindo, et al.*,**,**
+28,1176,*Dewar, Douglas*,**,**
+28,1177,*Dewar, Douglas*,**,**
+28,1178,*Dexler, H.*,**,**
+28,1179,*Dice, Lee Raymond*,**,**
+28,1180,*Dice, Lee Raymond*,**,**
+28,1181,*Dice, Lee Raymond*,**,**
+28,1182,*Dice, Lee Raymond*,**,**
+28,1183,*Dice, Lee Raymond*,**,**
+28,1184,*Diener, Carl*,**,**
+28,1185,*Diener, Carl*,**,**
+28,1186,*Dienst, Paul*,**,**
+28,1187,*Dietrich, W. O.*,**,**
+28,1188,*Dietrich, W. O.*,**,**
+28,1189,*Dietrich, W. O.*,**,**
+28,1190,*Dietrich, W. O.*,**,**
+28,1191,*Dietrich, W. O.*,**,**
+28,1192,*Dietrich, W. O.*,**,**
+28,1193,*Dietrich, W. O.*,**,**
+28,1194,*Dietrich, W. O.*,**,**
+28,1195,*Dietrich, W. O.*,**,**
+28,1196,*Dietrich, W. O.*,**,**
+28,1197,*Dietrich, W. O.*,**,**
+28,1198,*Dietrich, W. O.*,**,**
+28,1199,*Dietrich, W. O.*,**,**
+28,1200,*Dietrich, W. O.*,**,**
+28,1201,*Dietrich, W. O.*,**,**
+28,1202,*Dittler, R.*,**,**
+28,1202,*Joos, G.*,**,**
+28,1202,*Korschelt, E.*,**,**
+28,1202,*Linck, G.*,**,**
+28,1202,*Oltmanns, F.*,**,**
+28,1202,*Schaum, K.*,**,**
+28,1203,*Dixey, Frank*,**,**
+28,1204,*Dixey, Frank*,**,**
+28,1205,*Do%Fderlein, Ludwig*,**,**
+28,1206,*Do%Fderlein, Ludwig*,**,**
+28,1207,*Do%Fderlein, Ludwig*,**,**
+28,1208,*Do%Fderlein, Ludwig*,**,**
+28,1209,*Doello-Jurado, Martin*,**,**
+28,1210,*Dolgopol de Saez, Mathilde*,**,**
+28,1211,*Dolgopol de Saez, Mathilde*,**,**
+28,1212,*D[ollman], J. G.*,**,**
+28,1213,*D[ollman], J. G.*,**,**
+28,1214,*D[ollman], J. G.*,**,**
+28,1215,*Dollo, Louis*,**,**
+28,1216,*Dorf, Erling*,**,**
+28,1217,*Dorsey, George Amos*,**,**
+28,1218,*Dorsey, George Amos*,**,**
+28,1219,*Dose, Rudolf*,**,**
+28,1220,*Drachman, Julian M.*,**,**
+28,1221,*Drahn*,**,**
+28,1222,*Drahn*,**,**
+28,1223,*Drennan, Matthew Robertson*,**,**
+28,1224,*Drennan, Matthew Robertson*,**,**
+28,1225,*Drennan, Matthew Robertson*,**,**
+28,1226,*Drennan, Matthew Robertson*,**,**
+28,1227,*Dressler, Frank J.*,**,**
+28,1228,*Drevermann, Fritz*,**,**
+28,1229,*Drevermann, Fritz*,**,**
+28,1230,*Drevermann, Fritz*,**,**
+28,1231,*Drevermann, Fritz*,**,**
+28,1232,*Drevermann, Fritz*,**,**
+28,1233,*Drevermann, Fritz*,**,**
+28,1234,*Drevermann, Fritz*,**,**
+28,1235,*Drevermann, Fritz*,**,**
+28,1236,*Drevermann, Fritz*,**,**
+28,1237,*Drevermann, Fritz*,**,**
+28,1238,*Drevermann, Fritz*,**,**
+28,1239,*Drevermann, Fritz*,**,**
+28,1240,*Drevermann, Fritz*,**,**
+28,1241,*Drevermann, Fritz*,**,**
+28,1242,*Drevermann, Fritz*,**,**
+28,1243,*Drevermann, Fritz*,**,**
+28,1244,*Drevermann, Fritz*,**,**
+28,1245,*Drevermann, Fritz*,**,**
+28,1246,*Drevermann, Fritz*,**,**
+28,1247,*Drevermann, Fritz*,**,**
+28,1248,*Drevermann, Fritz*,**,**
+28,1249,*Drevermann, Fritz*,**,**
+28,1250,*Drevermann, Fritz*,**,**
+28,1251,*Drevermann, Fritz*,**,**
+28,1252,*Drevermann, Fritz*,**,**
+28,1253,*Drevermann, Fritz*,**,**
+28,1254,*Dubar, Gonzague*,**,**
+28,1255,*Dubois, Eugene*,**,**
+28,1256,*Dubois, Eugene*,**,**
+28,1257,*Dubois, Eugene*,**,**
+28,1258,*Dubois, Eugene*,**,**
+28,1259,*Dubois, Eugene*,**,**
+28,1260,*Dubois, Georges*,**,**
+28,1261,*Dubois, Georges*,**,**
+28,1262,*Dubois, Georges*,**,**
+28,1263,*Dubois, Georges*,**,**
+28,1264,*Dudycha, George J.*,**,**
+28,1265,*Dudycha, George J.*,**,**
+28,1266,*Dudycha, George J.*,**,**
+28,1267,*Duncan, George S.*,**,**
+28,1268,*Duncan, George S.*,**,**
+28,1269,*Dunn, Emmett Reid*,**,**
+28,1270,*Dunn, Emmett Reid*,**,**
+28,1271,*Dunnington, Francis P.*,**,**
+28,1272,*Dutertre, A.-P.*,**,**
+28,1273,*Dutertre, A.-P.*,**,**
+28,1274,*Dutertre, A.-P.*,**,**
+28,1275,*Dutertre, A.-P.*,**,**
+28,1276,*Dutertre, A.-P.*,**,**
+28,1277,*du T[oit], A. L.*,**,**
+28,1278,*Eales, Nellie B.*,**,**
+28,1279,*Eames, Arthur J.*,**,**
+28,1280,*Easton, Nicholas Wing*,**,**
+28,1281,*Easton, Nicholas Wing*,**,**
+28,1282,*Eaton, Joseph Edmund*,**,**
+28,1283,*Eberle, Georg*,**,**
+28,1284,*Ebert, Max*,**,*E*
+28,1285,*Edinger, Tilly*,**,**
+28,1286,*Edinger, Tilly*,**,**
+28,1287,*Edinger, Tilly*,**,**
+28,1288,*Edinger, Tilly*,**,**
+28,1289,*Edinger, Tilly*,**,**
+28,1290,*Edinger, Tilly*,**,**
+28,1291,*Edinger, Tilly*,**,**
+28,1292,*Edinger, Tilly*,**,**
+28,1293,*Edinger, Tilly*,**,**
+28,1294,*Edinger, Tilly*,**,**
+28,1295,*Edinger, Tilly*,**,**
+28,1296,*Edinger, Tilly*,**,**
+28,1297,*Edinger, Tilly*,**,**
+28,1298,*Edinger, Tilly*,**,**
+28,1299,*Edinger, Tilly*,**,**
+28,1300,*Edinger, Tilly*,**,**
+28,1301,*Edinger, Tilly*,**,**
+28,1302,*Edinger, Tilly*,**,**
+28,1303,*Edinger, Tilly*,**,**
+28,1304,*Edinger, Tilly*,**,**
+28,1305,*Edinger, Tilly*,**,**
+28,1306,*Edinger, Tilly*,**,**
+28,1307,*Edwards, Wilfred Norman*,**,**
+28,1308,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1309,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1310,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1311,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1312,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1313,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1314,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1315,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1316,*Efremov, I. A.*,*= Efremoff = Yefremov, Ivan Antonovich*,**
+28,1317,*Efremov, I. A.*,**,**
+28,1317,*Kuzmin, F. M.*,**,**
+28,1318,*Efremov, I. A.*,**,**
+28,1318,*Kuzmin, F. M.*,**,**
+28,1320,*E%Ahik, Julius*,**,**
+28,1321,*E%Ahik, Julius*,**,**
+28,1322,*E%Ahik, Julius*,**,**
+28,1323,*Ehrenberg, Kurt*,**,**
+28,1324,*Ehrenberg, Kurt*,**,**
+28,1325,*Ehrenberg, Kurt*,**,**
+28,1326,*Ehrenberg, Kurt*,**,**
+28,1327,*Ehrenberg, Kurt*,**,**
+28,1328,*Ehrenberg, Kurt*,**,**
+28,1329,*Ehrenberg, Kurt*,**,**
+28,1330,*Ehrenberg, Kurt*,**,**
+28,1331,*Ehrenberg, Kurt*,**,**
+28,1332,*Ehrenberg, Kurt*,**,**
+28,1333,*Ehrenberg, Kurt*,**,**
+28,1334,*Ehrenberg, Kurt*,**,**
+28,1335,*Ehrenberg, Kurt*,**,**
+28,1336,*Ehrenberg, Kurt*,**,**
+28,1337,*Ehrenberg, Kurt*,**,**
+28,1338,*Ehrenberg, Kurt*,**,**
+28,1339,*Ehrenberg, Kurt*,**,**
+28,1340,*Ehrenberg, Kurt*,**,**
+28,1341,*Ehrenberg, Kurt*,**,**
+28,1342,*Ehrenberg, Kurt*,**,**
+28,1343,*Ehrenberg, Kurt*,**,**
+28,1344,*Ehrenberg, Kurt*,**,**
+28,1345,*Ehrenberg, Kurt*,**,**
+28,1346,*Ehrenberg, Kurt*,**,**
+28,1347,*Ehrenberg, Kurt*,**,**
+28,1348,*Ehrenberg, Kurt*,**,**
+28,1349,*Ehrenberg, Kurt*,**,**
+28,1350,*Ehrenberg, Kurt*,**,**
+28,1351,*Ehrenberg, Kurt*,**,**
+28,1352,*Ehrhardt, Sophie*,**,**
+28,1353,*Ehrhardt, Sophie*,**,**
+28,1354,*Eickstedt, Egon Freiherr von*,**,**
+28,1355,*Eickstedt, Egon Freiherr von*,**,**
+28,1356,*Eifertinger, L.*,**,**
+28,1357,*Eigenmann, Carl H.*,**,**
+28,1357,*Myers, G. S.*,**,**
+28,1358,*E[kblaw], W. E.*,**,**
+28,1359,*Elftman, Herbert Oliver*,**,**
+28,1360,*Elftman, Herbert Oliver*,**,**
+28,1361,*Elias, Maxim Konradovich*,**,**
+28,1362,*Emelianov, S. V.*,*= Yemil'yanov, Sergey Vladimirovich*,**
+28,1363,*Engel, Heinrich*,**,**
+28,1364,*Engels, William Louis*,**,**
+28,1365,*Engels, William Louis*,**,**
+28,1366,*Engels, William Louis*,**,**
+28,1367,*Ennouchi, E%Amile*,**,**
+28,1368,*Enriques, Paolo*,**,**
+28,1369,*Epps, Fr. J.*,**,**
+28,1369,*Priest, S.*,**,**
+28,1370,*Erasmo, Geremia d'*,**,**
+28,1371,*Erasmo, Geremia d'*,**,**
+28,1372,*Erasmo, Geremia d'*,**,**
+28,1373,*Erasmo, Geremia d'*,**,**
+28,1374,*Erasmo, Geremia d'*,**,**
+28,1375,*Erasmo, Geremia d'*,**,**
+28,1376,*Erasmo, Geremia d'*,**,**
+28,1377,*Erhardt, Alb.*,**,**
+28,1378,*Erhardt, Henri*,**,**
+28,1379,*Escher, Berend George*,**,**
+28,1380,*Evans, John William*,**,**
+28,1381,*Evans, J. W.*,**,**
+28,1381,*Stubblefield, C. J.*,**,**
+28,1382,*Evans, Oren Frank*,**,**
+28,1383,*Evans, Oren Frank*,**,**
+28,1384,*Evermann, Barton Warren*,**,**
+28,1385,*Exsteens, Maurice*,**,**
+28,1386,*Fabiani, Ramiro*,**,**
+28,1387,*Fabiani, Tina*,**,**
+28,1388,*Fairchild, Herman LeRoy*,**,**
+28,1389,*Fang, P. W.*,**,**
+28,1389,*Mangven, L. Y. C.*,**,**
+28,1390,*Faranda, Mario*,**,**
+28,1391,*Farquhar, Francis Peloubet*,**,*E*
+28,1392,*Farrington, Oliver Cummings*,**,**
+28,1393,*Farrington, O. C.*,**,**
+28,1393,*Field, H.*,**,**
+28,1394,*Farris, Edmond J.*,**,**
+28,1395,*Fasten, Nathan*,**,**
+28,1396,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1397,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1399,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1400,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1401,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1402,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1403,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1404,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1405,*Feje%Arva%Ary, Geza Gyula*,*= Baron G. J. de = Geza Gyula Imre Feje%Arva%*,**
+28,1406,*Feldhaus, Franz M.*,**,**
+28,1407,*Fenton, Carroll Lane*,**,**
+28,1408,*Fenton, Carroll Lane*,**,**
+28,1409,*Fenton, Carroll Lane*,**,**
+28,1410,*Fewkes, Vladimir J.*,**,**
+28,1411,*Fiedler, Feodor*,**,**
+28,1412,*Field, Henry*,**,**
+28,1413,*Field, Richard Montgomery*,**,**
+28,1414,*Field, Richard Montgomery*,**,**
+28,1415,*Figgins, Jesse D.*,**,**
+28,1416,*Figgins, Jesse D.*,**,**
+28,1417,*Figgins, Jesse D.*,**,**
+28,1418,*Figgins, Jesse D.*,**,**
+28,1419,*Figgins, Jesse D.*,**,**
+28,1420,*Figgins, Jesse D.*,**,**
+28,1421,*Figgins, Jesse D.*,**,**
+28,1422,*Figgins, Jesse D.*,**,**
+28,1423,*Figgins, Jesse D.*,**,**
+28,1424,*Figgins, Jesse D.*,**,**
+28,1425,*Figgins, Jesse D.*,**,**
+28,1426,*Figgins, Jesse D.*,**,**
+28,1427,*Figgins, Jesse D.*,**,**
+28,1428,*Figgins, Jesse D.*,**,**
+28,1429,*Figgins, Jesse D.*,**,**
+28,1430,*Figgins, Jesse D.*,**,**
+28,1431,*Figgins, Jesse D.*,**,**
+28,1432,*Figgins, Jesse D.*,**,**
+28,1433,*Figgins, Jesse D.*,**,**
+28,1434,*Fikentscher, R.*,**,**
+28,1435,*Fischer, Alton K.*,**,**
+28,1436,*Fischer, Eugen*,**,**
+28,1437,*Fischer, Eugen*,**,**
+28,1438,*Fischer, Eugen*,**,**
+28,1439,*Fisher, R. A.*,**,**
+28,1440,*Flerov, C.*,*Konstantin Konstantinovich*,**
+28,1442,*Fleure, Herbert John*,**,**
+28,1443,*Fleure, Herbert John*,**,**
+28,1444,*Flint, Richard Foster*,**,**
+28,1445,*Floericke, Curt*,**,**
+28,1446,*Floericke, Curt*,**,**
+28,1447,*Flynn, T. Thompson*,**,**
+28,1448,*Foerste, August F.*,**,**
+28,1449,*Fo%Fller, Georg*,**,**
+28,1450,*Foote, James S.*,**,**
+28,1451,*Forbin, Victor*,**,**
+28,1452,*Forbin, Victor*,**,**
+28,1453,*Forrer, Robert*,**,**
+28,1454,*Forrer, Robert*,**,**
+28,1455,*Fotheringham, Augustus C.*,*= Lester Whyland Sharp*,**
+28,1456,*Fournier, Gre%Agoire*,**,**
+28,1456,*Pruvost, P.*,**,**
+28,1457,*Fowke, Gerard*,**,**
+28,1458,*Fowler, Henry Weed*,**,**
+28,1459,*Fox, Cyril S.*,**,**
+28,1460,*Fox, Leon A.*,**,**
+28,1462,*Fraipont, Charles*,**,**
+28,1463,*Fraipont, Charles*,**,**
+28,1464,*Fraipont, Charles*,**,**
+28,1465,*Fraipont, Charles*,**,**
+28,1466,*Fraipont, Charles*,**,**
+28,1467,*Fraipont, Charles*,**,**
+28,1468,*Fraipont, Charles*,**,**
+28,1469,*Fraipont, Charles*,**,**
+28,1470,*Fraipont, C.*,**,**
+28,1470,*Leclercq, S.*,**,**
+28,1471,*Fraipont, C.*,**,**
+28,1471,*Leclercq, S.*,**,**
+28,1472,*France%A, R. H.*,**,**
+28,1473,*Franchet, L.*,**,**
+28,1474,*Franchet, L.*,**,**
+28,1475,*Frank, Manfred*,**,**
+28,1476,*Frank, Manfred*,**,**
+28,1478,*Franz, Viktor*,**,**
+28,1479,*Franz, Viktor*,**,**
+28,1481,*Frassetto, Fabio*,**,**
+28,1483,*Frebold, Hans*,**,**
+28,1484,*Frechkop, Serge*,**,**
+28,1485,*Frechkop, Serge*,**,**
+28,1486,*Frechkop, Serge*,**,**
+28,1487,*Frechkop, Serge*,**,**
+28,1488,*Frechkop, Serge*,**,**
+28,1489,*Free, Edward Elway*,**,**
+28,1490,*Frenguelli, Joaquin*,**,**
+28,1491,*Frenguelli, Joaquin*,**,**
+28,1492,*Frenguelli, Joaquin*,**,**
+28,1493,*Frenguelli, Joaquin*,**,**
+28,1494,*Frentzen, Kurt*,**,**
+28,1495,*Frentzen, Kurt*,**,**
+28,1496,*Frentzen, Kurt*,**,**
+28,1497,*Frentzen, K.*,**,**
+28,1497,*Schelenz, M.*,**,**
+28,1498,*Frentzen, K.*,**,**
+28,1498,*Speyer, K.*,**,**
+28,1499,*Freudenberg, Wilhelm*,**,**
+28,1500,*Freudenberg, Wilhelm*,**,**
+28,1501,*Freudenberg, Wilhelm*,**,**
+28,1502,*Freudenberg, Wilhelm*,**,**
+28,1503,*Freudenberg, Wilhelm*,**,**
+28,1504,*Freudenberg, Wilhelm*,**,**
+28,1505,*Freudenberg, Wilhelm*,**,**
+28,1506,*Freudenberg, Wilhelm*,**,**
+28,1507,*Friant, Madeleine*,**,**
+28,1508,*Friant, Madeleine*,**,**
+28,1509,*Friant, Madeleine*,**,**
+28,1510,*Friant, Madeleine*,**,**
+28,1511,*Friant, Madeleine*,**,**
+28,1512,*Friant, Madeleine*,**,**
+28,1513,*Friant, Madeleine*,**,**
+28,1514,*Friant, Madeleine*,**,**
+28,1515,*Frick, Childs*,**,**
+28,1516,*Frick, Childs*,**,**
+28,1517,*Frick, Childs*,**,**
+28,1518,*Frick, Childs*,**,**
+28,1519,*Frick, Childs*,**,**
+28,1520,*Frick, Childs*,**,**
+28,1521,*Friedenthal, H.*,**,**
+28,1522,*Friedenthal, H.*,**,**
+28,1523,*Friederichs, Heinz F.*,**,**
+28,1524,*Friederichs, Heinz F.*,**,**
+28,1525,*Friedmann, Herbert*,**,**
+28,1526,*Friedrich, Hermann*,**,**
+28,1527,*Fritel, P. H.*,**,**
+28,1528,*Frizzell, Donald Leslie*,**,**
+28,1529,*Fro%Fhlicher, H.*,**,**
+28,1530,*Frost, G. Allan*,**,**
+28,1531,*Frost, G. Allan*,**,**
+28,1532,*Frost, G. Allan*,**,**
+28,1533,*Frost, G. Allan*,**,**
+28,1534,*Fuchs, Hugo*,**,**
+28,1535,*Funkhouser, William Delbert*,**,**
+28,1535,*Webb, W. S.*,**,**
+28,1536,*Furlong, Eustace Leopold*,**,**
+28,1537,*Furlong, Eustace Leopold*,**,**
+28,1538,*Furlong, Eustace Leopold*,**,**
+28,1539,*Furon, Raymond*,**,**
+28,1540,*Furon, Raymond*,**,**
+28,1541,*Furst, Carl M.*,**,**
+28,1542,*G., J. S.*,**,**
+28,1543,*Gaa%Al, Istva%An*,*= Stefan von = Etienne de*,**
+28,1544,*Gaa%Al, Istva%An*,*= Stefan von = Etienne de*,**
+28,1545,*Gaa%Al, Istva%An*,*= Stefan von = Etienne de*,**
+28,1546,*Gaa%Al, Istva%An*,*= Stefan von = Etienne de*,**
+28,1547,*Gaa%Al, Istva%An*,*= Stefan von = Etienne de*,**
+28,1548,*Gadow, Hans Friedrich*,**,**
+28,1549,*Gaillard, Claude*,**,**
+28,1550,*Gaillard, Claude*,**,**
+28,1551,*Gaillard, Claude*,**,**
+28,1552,*Gaillard, Claude*,**,**
+28,1553,*Gaillard, Claude*,**,**
+28,1554,*Ganss, Ortwin*,**,**
+28,1555,*Gapanovich, J. J.*,**,**
+28,1556,*Garde, Gilbert*,**,**
+28,1557,*Gardiner, C. I.*,**,**
+28,1557,*Bate, D. M. A.*,**,**
+28,1558,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1559,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1560,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1561,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1562,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1563,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1564,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1565,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1566,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1567,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1568,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1569,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1570,*Garrod, Dorothy Annie Elizabeth*,**,**
+28,1571,*Garstang, W.*,**,**
+28,1572,*Garwood, Edmond Johnston*,**,**
+28,1573,*Gatujew, S. A.*,*= Gatuev, = Gatuyev, Sergey Alekseyevich*,**
+28,1574,*Gazin, Charles Lewis*,**,**
+28,1575,*Gazin, Charles Lewis*,**,**
+28,1576,*Gazin, Charles Lewis*,**,**
+28,1577,*Gazin, Charles Lewis*,**,**
+28,1578,*Gazin, Charles Lewis*,**,**
+28,1579,*Gazin, Charles Lewis*,**,**
+28,1580,*Gear, J. H. S.*,**,**
+28,1581,*Gee, E. R.*,**,**
+28,1582,*Gellert, Johannes F.*,**,**
+28,1583,*Gellert, Johannes F.*,**,**
+28,1584,*Genna, Giuseppi*,**,**
+28,1585,*Geological Society of London*,**,**
+28,1586,*Georg, Eugen*,**,**
+28,1587,*George, Thomas Neville*,**,**
+28,1588,*Gerber, Edward*,**,**
+28,1589,*Gerber, Edward*,**,**
+28,1590,*Gerber, Edward*,**,**
+28,1591,*Gerber, Edward*,**,**
+28,1592,*Gerber, Edward*,**,**
+28,1593,*Gerould, John Hiram*,**,**
+28,1594,*Ghidini, Luigi*,**,**
+28,1595,*Gidley, James Williams*,**,**
+28,1596,*Gidley, James Williams*,**,**
+28,1597,*Gidley, James Williams*,**,**
+28,1598,*Gidley, James Williams*,**,**
+28,1599,*Gidley, James Williams*,**,**
+28,1600,*Gidley, James Williams*,**,**
+28,1601,*Gidley, James Williams*,**,**
+28,1602,*Gidley, James Williams*,**,**
+28,1603,*Gidley, J. W.*,**,**
+28,1603,*Gazin, C. L.*,**,**
+28,1604,*Gieseler, Wilhelm*,**,**
+28,1605,*Gieseler, Wilhelm*,**,**
+28,1606,*Gieseler, Wilhelm*,**,**
+28,1607,*Gieseler, W.*,**,**
+28,1607,*Mollison, T.*,**,**
+28,1608,*Gignoux, Maurice*,**,**
+28,1609,*Gignoux, Maurice*,**,**
+28,1610,*Gildersleeve, Benjamin*,**,**
+28,1611,*Giles, Albert William*,**,**
+28,1612,*Gillies, C. D.*,**,**
+28,1613,*Gillingham, Donald W.*,**,**
+28,1614,*Gillman, Joseph*,**,**
+28,1615,*Gilmore, Charles Whitney*,**,**
+28,1616,*Gilmore, Charles Whitney*,**,**
+28,1617,*Gilmore, Charles Whitney*,**,**
+28,1618,*Gilmore, Charles Whitney*,**,**
+28,1619,*Gilmore, Charles Whitney*,**,**
+28,1620,*Gilmore, Charles Whitney*,**,**
+28,1621,*Gilmore, Charles Whitney*,**,**
+28,1622,*Gilmore, Charles Whitney*,**,**
+28,1623,*Gilmore, Charles Whitney*,**,**
+28,1624,*Gilmore, Charles Whitney*,**,**
+28,1625,*Gilmore, Charles Whitney*,**,**
+28,1626,*Gilmore, Charles Whitney*,**,**
+28,1627,*Gilmore, Charles Whitney*,**,**
+28,1628,*Gilmore, Charles Whitney*,**,**
+28,1629,*Gilmore, Charles Whitney*,**,**
+28,1630,*Gilmore, Charles Whitney*,**,**
+28,1631,*Gilmore, Charles Whitney*,**,**
+28,1632,*Gilmore, C. W.*,**,**
+28,1632,*Cochran, D. M.*,**,**
+28,1633,*Giltay, Louis*,**,**
+28,1634,*Giltay, Louis*,**,**
+28,1635,*Given, J. C. M.*,**,**
+28,1636,*Gladstone, R. J.*,**,**
+28,1636,*Wakeley, C. P. G.*,**,**
+28,1637,*Glaessner, Martin F.*,**,**
+28,1638,*Glaessner, Martin F.*,**,**
+28,1639,*Glaessner, Martin F.*,**,**
+28,1640,*Gobert, E. G.*,**,**
+28,1640,*Vaufrey, R.*,**,**
+28,1641,*Goldbachova, Ld.*,**,**
+28,1642,*Goldring, Winifred*,**,**
+28,1643,*Golomshtok*,*= Yevgeniy Aleksandrovich*,**
+28,1644,*Golomshtok*,*= Yevgeniy Aleksandrovich*,**
+28,1645,*Gonsalves, Alpheu Diniz*,**,**
+28,1646,*Goodrich, Edwin S.*,**,**
+28,1647,*Goodrich, Edwin S.*,**,**
+28,1648,*Goodrich, Edwin S.*,**,**
+28,1649,*Goodrich, Edwin S.*,**,**
+28,1650,*Goodrich, Edwin S.*,**,**
+28,1651,*Goodrich, Edwin S.*,**,**
+28,1652,*Goodrich, E. S., et al.*,**,**
+28,1653,*Goodwin, Astley John Hilary*,**,**
+28,1654,*Goodwin, Astley John Hilary*,**,**
+28,1655,*Goodwin, A. J. H.*,**,**
+28,1655,*Lowe, C. v. R.*,**,**
+28,1656,*Gorjanovic%A-Kramberger, D.*,**,**
+28,1657,*Gorjanovic%A-Kramberger, D.*,**,**
+28,1658,*Gould, Charles Newton*,**,**
+28,1659,*Gould, Charles Newton*,**,**
+28,1660,*Gould, Charles Newton*,**,**
+28,1661,*Grabau, Amadeus William*,**,**
+28,1662,*Grabau, Amadeus William*,**,**
+28,1663,*Grabau, Amadeus William*,**,**
+28,1664,*Graf, George Engelbert*,**,**
+28,1665,*Grandidier, Guillaume*,**,**
+28,1666,*Granger, Walter*,**,**
+28,1667,*Granger, Walter*,**,**
+28,1668,*Granger, W.*,**,**
+28,1668,*Simpson, G. G.*,**,**
+28,1669,*Grant, Ulysses Simpson, IVth*,**,**
+28,1670,*Grant, U. S.*,**,**
+28,1670,*Soper, E. K.*,**,**
+28,1671,*Graves, William Washington*,**,**
+28,1672,*Graziosi, Paolo*,**,**
+28,1674,*Graziosi, Paolo*,**,**
+28,1675,*Greenly, Edward*,**,**
+28,1676,*Gregory, John Walter*,**,**
+28,1677,*Gregory, John Walter*,**,**
+28,1678,*Gregory, John Walter*,**,**
+28,1679,*Gregory, John Walter*,**,**
+28,1680,*Gregory, J. W.*,**,**
+28,1680,*Barrett, B. H.*,**,**
+28,1681,*Gregory, J. W.*,**,**
+28,1681,*Currie, E. D.*,**,**
+28,1682,*Gregory, William King*,**,**
+28,1683,*Gregory, William King*,**,**
+28,1684,*Gregory, William King*,**,**
+28,1685,*Gregory, William King*,**,**
+28,1686,*Gregory, William King*,**,**
+28,1687,*Gregory, William King*,**,**
+28,1688,*Gregory, William King*,**,**
+28,1689,*Gregory, William King*,**,**
+28,1690,*Gregory, William King*,**,**
+28,1691,*Gregory, William King*,**,**
+28,1692,*Gregory, William King*,**,**
+28,1693,*Gregory, William King*,**,**
+28,1694,*Gregory, William King*,**,**
+28,1695,*Gregory, William King*,**,**
+28,1696,*Gregory, William King*,**,**
+28,1697,*Gregory, William King*,**,**
+28,1698,*Gregory, William King*,**,**
+28,1699,*Gregory, William King*,**,**
+28,1700,*Gregory, William King*,**,**
+28,1701,*Gregory, William King*,**,**
+28,1702,*Gregory, William King*,**,**
+28,1703,*Gregory, William King*,**,**
+28,1704,*Gregory, William King*,**,**
+28,1705,*Gregory, William King*,**,**
+28,1706,*Gregory, William King*,**,**
+28,1708,*Gregory, William King*,**,**
+28,1709,*Gregory, William King*,**,**
+28,1710,*Gregory, William King*,**,**
+28,1711,*Gregory, William King*,**,**
+28,1712,*Gregory, William King*,**,**
+28,1713,*Gregory, William King*,**,**
+28,1714,*Gregory, William King*,**,**
+28,1715,*Gregory, William King*,**,**
+28,1716,*Gregory, William King*,**,**
+28,1717,*Gregory, William King*,**,**
+28,1718,*Gregory, William King*,**,**
+28,1719,*Gregory, William King*,**,**
+28,1720,*Gregory, William King*,**,**
+28,1721,*Gregory, William King*,**,**
+28,1722,*Gregory, William King*,**,**
+28,1723,*Gregory, William King*,**,**
+28,1724,*Gregory, William King*,**,**
+28,1725,*Gregory, W. K.*,**,**
+28,1725,*Cook, H. J.*,**,**
+28,1726,*Gregory, W. K.*,**,**
+28,1726,*McGregor, J. H.*,**,**
+28,1727,*Gregory, W. K.*,**,**
+28,1727,*Hellman, M.*,**,**
+28,1728,*Gregory, W. K.*,**,**
+28,1728,*Raven, H. C.*,**,**
+28,1729,*Greig, David M.*,**,**
+28,1730,*Grigor, G.*,**,**
+28,1731,*Grigorovitch-Beresovski, N. A.*,*= Grigorovich-Berezovskiy, Nikolay Aleksandro*,**
+28,1732,*Grimshaw, Percy H.*,**,**
+28,1733,*Grinnell, Joseph*,**,**
+28,1734,*Grinnell, Joseph*,**,**
+28,1735,*Grinnell, Joseph*,**,**
+28,1736,*Grochmalicki, J.*,**,**
+28,1737,*Grodin%Aski, Z.*,**,**
+28,1738,*Gromov, V.*,*=Vadim Ivanovich*,**
+28,1739,*Gromov, V.*,*=Vadim Ivanovich*,**
+28,1740,*Gromov, V.*,*=Vadim Ivanovich*,**
+28,1741,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1742,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1743,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1744,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1745,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1746,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1747,*Gromova, Vera I.*,*=Isaakovna*,**
+28,1748,*Gross, Josef C.*,**,**
+28,1749,*Gross, Josef C.*,**,**
+28,1750,*Gross, Josef C.*,**,**
+28,1751,*Gross, Walter*,**,**
+28,1752,*Gross, Walter*,**,**
+28,1753,*Gross, Walter*,**,**
+28,1754,*Gross, Walter*,**,**
+28,1755,*Gross, Walter*,**,**
+28,1756,*Gross, Walter*,**,**
+28,1757,*Gross, Walter*,**,**
+28,1758,*Gross, Walter*,**,**
+28,1759,*Gross, Walter*,**,**
+28,1760,*Gross, Walter*,**,**
+28,1761,*Grosse, M.*,**,**
+28,1761,*Trausche, N. von*,**,**
+28,1762,*Grove, Wilson*,**,**
+28,1763,*Gruenberg, Benjamin C.*,**,**
+28,1764,*Gruenberg, Benjamin C.*,**,**
+28,1765,*Gru%Fss, Johann*,**,**
+28,1766,*Grynfeltt, E.*,**,**
+28,1767,*Gudger, Eugene Willis*,**,**
+28,1768,*Gudger, Eugene Willis*,**,**
+28,1769,*Gudger, Eugene Willis*,**,**
+28,1770,*Guillaume, Louis*,**,**
+28,1771,*Gunnell, Frank H.*,**,**
+28,1772,*Gu%Fnther, Konrad*,**,**
+28,1773,*Gu%Fnther, Konrad*,**,**
+28,1774,*Gu%Frich, Georg*,**,**
+28,1775,*Gu%Frich, Georg*,**,**
+28,1776,*Gu%Frich, Georg*,**,**
+28,1777,*Guye%Anot, E%Amile*,**,**
+28,1778,*Haas, F.*,**,**
+28,1779,*Hadley, A. H.*,**,**
+28,1780,*Haldane, John Burdon Sanderson*,**,**
+28,1781,*Haldane, J. B. S.*,**,**
+28,1781,*Huxley, J.*,**,**
+28,1782,*Hall, Arthur Lewis*,**,**
+28,1783,*Hall, Eugene Raymond*,**,**
+28,1784,*Hall, Eugene Raymond*,**,**
+28,1785,*Hall, Eugene Raymond*,**,**
+28,1786,*Hall, Eugene Raymond*,**,**
+28,1787,*Hall, Eugene Raymond*,**,**
+28,1788,*Hall, Eugene Raymond*,**,**
+28,1789,*Hall, Eugene Raymond*,**,**
+28,1790,*Hall, E. R.*,**,**
+28,1790,*Martin, H. T.*,**,**
+28,1791,*Hall, H. R. H.*,**,**
+28,1792,*Hamlett, George Whitfield Deluz*,**,**
+28,1793,*Hanna, George Dallas*,**,**
+28,1794,*Hanna, George Dallas*,**,**
+28,1795,*Hanna, George Dallas*,**,**
+28,1796,*Hanna, George Dallas*,**,**
+28,1797,*Hanna, George Dallas*,**,**
+28,1798,*Hanna, George Dallas*,**,**
+28,1799,*Hanna, George Dallas*,**,**
+28,1800,*Hanna, George Dallas*,**,**
+28,1801,*Hansen, George Henry*,**,**
+28,1802,*Harmer, Sidney F.*,**,**
+28,1803,*Harmer, Sidney F.*,**,**
+28,1804,*Harms, Ju%Frgen Wilhelm*,**,**
+28,1805,*Harnly, Henry Jacob*,**,**
+28,1806,*Harrington, Mark Raymond*,**,**
+28,1807,*Harrington, Mark Raymond*,**,**
+28,1808,*Harrington, Mark Raymond*,**,**
+28,1809,*Harrington, M. R.*,**,**
+28,1809,*Scherer, J. A. B.*,**,**
+28,1810,*Hartmann, M.*,**,**
+28,1811,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1812,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1813,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1814,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1815,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1816,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1817,*Hartmann-Weinberg, A. P.*,*= Gartman-Veynberg, Aleksandra Paulinovna*,**
+28,1818,*Harvey-Gibson, R. J.*,**,**
+28,1819,*Hauff, Bernhard*,**,**
+28,1820,*Haughton, Sidney Henry*,**,**
+28,1821,*Haughton, Sidney Henry*,**,**
+28,1822,*Haughton, Sidney Henry*,**,**
+28,1823,*Haughton, Sidney Henry*,**,**
+28,1824,*Haughton, Sidney Henry*,**,**
+28,1825,*Haughton, Sidney Henry*,**,**
+28,1826,*Haughton, Sidney Henry*,**,**
+28,1827,*Haughton, Sidney Henry*,**,**
+28,1828,*Haughton, Sidney Henry*,**,**
+28,1829,*Haughton, Sidney Henry*,**,**
+28,1830,*Haughton, S. H.*,**,**
+28,1830,*Boonstra, L. D.*,**,**
+28,1831,*Haughton, S. H.*,**,**
+28,1831,*Boonstra, L. D.*,**,**
+28,1832,*Haughton, S. H.*,**,**
+28,1832,*MacGregor, A. M.*,**,**
+28,1833,*Haupt, Arthur W.*,**,**
+28,1834,*Haupt, Oskar*,**,**
+28,1835,*Hauser, O.*,**,**
+28,1836,*Hausman, Leon Augustus*,**,**
+28,1837,*Hay, Oliver Perry*,**,**
+28,1838,*Hay, Oliver Perry*,**,**
+28,1839,*Hay, Oliver Perry*,**,**
+28,1840,*Hay, Oliver Perry*,**,**
+28,1841,*Hay, Oliver Perry*,**,**
+28,1842,*Hay, Oliver Perry*,**,**
+28,1843,*Hay, Oliver Perry*,**,**
+28,1844,*Hay, Oliver Perry*,**,**
+28,1845,*Hay, Oliver Perry*,**,**
+28,1846,*Hay, O. P.*,**,**
+28,1846,*Cook, H. J.*,**,**
+28,1847,*Hay, O. P.*,**,**
+28,1847,*Cook, H. J.*,**,**
+28,1848,*Hayasaka, Ichiro*,**,**
+28,1849,*Hayasaka, Ichiro*,**,**
+28,1850,*Hayasaka, Ichiro*,**,**
+28,1851,*Headstrom, B. R.*,**,**
+28,1852,*Heard, Gerald*,**,**
+28,1853,*Heberer, Gerhard*,**,**
+28,1854,*Heck, Herbert Lothar*,**,**
+28,1855,*Hedin, Sven*,**,**
+28,1856,*Hedin, Sven*,**,**
+28,1857,*Heidsieck, E.*,**,**
+28,1858,*Heilmann, Gerhard*,**,**
+28,1859,*Heilmann, Gerhard*,**,**
+28,1860,*Heim, Arnold*,**,**
+28,1861,*Heintz, Anatol*,**,**
+28,1862,*Heintz, Anatol*,**,**
+28,1863,*Heintz, Anatol*,**,**
+28,1864,*Heintz, Anatol*,**,**
+28,1865,*Heintz, Anatol*,**,**
+28,1866,*Heintz, Anatol*,**,**
+28,1867,*Heintz, Anatol*,**,**
+28,1868,*Heintz, Anatol*,**,**
+28,1869,*Heintz, Anatol*,**,**
+28,1870,*Heintz, Anatol*,**,**
+28,1871,*Heintz, Anatol*,**,**
+28,1872,*Heintz, Anatol*,**,**
+28,1873,*Heintz, Anatol*,**,**
+28,1874,*Heintz, Anatol*,**,**
+28,1875,*Heintz, Anatol*,**,**
+28,1876,*Heintz, Anatol*,**,**
+28,1877,*Heintz, Anatol*,**,**
+28,1878,*Heintz, Anatol*,**,**
+28,1879,*Heintz, Anatol*,**,**
+28,1880,*Heintz, Anatol*,**,**
+28,1881,*Heinz, Rudolf*,**,**
+28,1882,*Heinz, Rudolf*,**,**
+28,1883,*Heissel, Werner*,**,**
+28,1884,*Helbing, Hermann*,**,**
+28,1885,*Helbing, Hermann*,**,**
+28,1886,*Helbing, Hermann*,**,**
+28,1887,*Helbing, Hermann*,**,**
+28,1888,*Helbing, Hermann*,**,**
+28,1889,*Helbing, Hermann*,**,**
+28,1890,*Helbing, Hermann*,**,**
+28,1891,*Helbing, Hermann*,**,**
+28,1892,*Helbing, Hermann*,**,**
+28,1893,*Helbing, Hermann*,**,**
+28,1894,*Helbing, Hermann*,**,**
+28,1895,*Heller, Florian*,**,**
+28,1896,*Heller, Florian*,**,**
+28,1897,*Heller, Florian*,**,**
+28,1898,*Heller, Florian*,**,**
+28,1899,*Heller, Florian*,**,**
+28,1900,*Heller, Florian*,**,**
+28,1901,*Heller, Florian*,**,**
+28,1902,*Heller, Florian*,**,**
+28,1903,*Heller, Florian*,**,**
+28,1904,*Heller, Florian*,**,**
+28,1905,*Heller, Florian*,**,**
+28,1906,*Heller, Florian*,**,**
+28,1907,*Heller, Florian*,**,**
+28,1908,*Heller, Florian*,**,**
+28,1909,*Heller, Florian*,**,**
+28,1910,*Heller, Florian*,**,**
+28,1911,*Heller, Florian*,**,**
+28,1912,*Heller, Florian*,**,**
+28,1913,*Heller, Florian*,**,**
+28,1914,*Hellman, Milo*,**,**
+28,1915,*Helmich, Felix*,**,**
+28,1916,*Hempelmann, Friedrich*,**,**
+28,1917,*Hemprich, A.*,**,**
+28,1918,*Henckel, Karl Otto*,**,**
+28,1919,*Henckel, Karl Otto*,**,**
+28,1920,*Henckel, Karl Otto*,**,**
+28,1921,*Henckel, Karl Otto*,**,**
+28,1922,*Henderson, I. F.*,**,**
+28,1922,*Henderson, W. D.*,**,**
+28,1923,*Henderson, Junius*,**,**
+28,1924,*Henderson, Junius*,**,**
+28,1925,*Henderson, Keith*,**,**
+28,1926,*Hennig, Edwin*,**,**
+28,1927,*Hennig, Edwin*,**,**
+28,1928,*Hennig, Edwin*,**,**
+28,1929,*Hennig, Edwin*,**,**
+28,1930,*Hennig, Edwin*,**,**
+28,1931,*Hennig, Edwin*,**,**
+28,1932,*Hennig, Edwin*,**,**
+28,1933,*Hennig, Edwin*,**,**
+28,1934,*Hennig, Edwin*,**,**
+28,1935,*Hennig, Edwin*,**,**
+28,1936,*Hennig, Edwin*,**,**
+28,1937,*Hennig, Edwin*,**,**
+28,1938,*Herna%Andez-Pacheco, Eduardo*,**,**
+28,1939,*Herna%Andez-Pacheco, Eduardo*,**,**
+28,1940,*Herna%Andez-Pacheco, Eduardo*,**,**
+28,1941,*Herna%Andez-Pacheco, Francisco*,**,**
+28,1942,*Herna%Andez-Pacheco, Francisco*,**,**
+28,1943,*Hernon, Robert*,**,**
+28,1944,*Hernon, Robert*,**,**
+28,1945,*Heron-Allen, E.*,**,**
+28,1946,*Herpin, A.*,**,**
+28,1947,*Hertwig, Richard*,**,**
+28,1948,*Heschler, Karl*,**,**
+28,1949,*Heschler, Karl*,**,**
+28,1950,*Heschler, Karl*,**,**
+28,1951,*Hesse, Curtis Julian*,**,**
+28,1952,*Hesse, Richard*,**,**
+28,1953,*Hesse, Richard*,**,**
+28,1954,*Hibbard, Claude W.*,**,**
+28,1955,*Hibbard, Claude W.*,**,**
+28,1956,*Hildebrand, Samuel Frederick*,**,**
+28,1957,*Hilde%An, Kaarlo*,**,**
+28,1958,*Hilde%An, Kaarlo*,**,**
+28,1959,*Hill, James P.*,**,**
+28,1960,*Hillers, W.*,**,**
+28,1961,*Hillier, W. T.*,**,**
+28,1962,*Hills, Edwin Sherbon*,**,**
+28,1963,*Hills, Edwin Sherbon*,**,**
+28,1964,*Hills, Edwin Sherbon*,**,**
+28,1965,*Hills, Edwin Sherbon*,**,**
+28,1966,*Hills, Edwin Sherbon*,**,**
+28,1967,*Hill-Tout, Charles*,**,**
+28,1968,*Hill-Tout, Charles*,**,**
+28,1969,*Hilzheimer, Max*,**,**
+28,1970,*Hilzheimer, Max*,**,**
+28,1971,*Hilzheimer, Max*,**,**
+28,1972,*Hilzheimer, Max*,**,**
+28,1973,*Hilzheimer, Max*,**,**
+28,1974,*Hilzheimer, Max*,**,**
+28,1975,*Hindze, Boris*,**,**
+28,1976,*Hinton, Martin A. C.*,**,**
+28,1977,*Hinton, Martin A. C.*,**,**
+28,1978,*Hinton, Martin A. C.*,**,**
+28,1979,*Hinton, Martin A. C.*,**,**
+28,1980,*Hintze, Egon*,**,**
+28,1981,*Hirsch, G. Chr.*,**,**
+28,1982,*Hitchcock, Margaret R.*,**,**
+28,1983,*Hodge, Edwin T.*,**,**
+28,1984,*Hofker, J.*,**,**
+28,1985,*Hofmeyr, Jan H.*,**,**
+28,1986,*Hofmeyr, Jan H.*,**,**
+28,1987,*Hogben, Lancelot T.*,**,**
+28,1988,*Holland, William Jacob*,**,**
+28,1989,*Holland, William Jacob*,**,**
+28,1990,*Hollick, Arthur*,**,**
+28,1991,*Holmes, Walter W.*,**,**
+28,1991,*Simpson, G. G.*,**,**
+28,1992,*Holmgren, Nils*,**,**
+28,1993,*Holmgren, Nils*,**,**
+28,1994,*Holtedahl, Olaf*,**,**
+28,1995,*Hooton, Earnest Albert*,**,**
+28,1996,*Hooton, Earnest Albert*,**,**
+28,1997,*Hoppe, Karl Heinz*,**,**
+28,1998,*Hoppe, Karl Heinz*,**,**
+28,1999,*Hoppe, Karl Heinz*,**,**
+28,2000,*Hopwood, Arthur Tindell*,**,**
+28,2001,*Hopwood, Arthur Tindell*,**,**
+28,2002,*Hopwood, Arthur Tindell*,**,**
+28,2003,*Hopwood, Arthur Tindell*,**,**
+28,2004,*Hopwood, Arthur Tindell*,**,**
+28,2005,*Hopwood, Arthur Tindell*,**,**
+28,2006,*Hopwood, Arthur Tindell*,**,**
+28,2007,*Hopwood, Arthur Tindell*,**,**
+28,2008,*Hopwood, Arthur Tindell*,**,**
+28,2009,*Hopwood, Arthur Tindell*,**,**
+28,2010,*Hopwood, Arthur Tindell*,**,**
+28,2011,*Hopwood, Arthur Tindell*,**,**
+28,2012,*Hopwood, Arthur Tindell*,**,**
+28,2013,*Hopwood, Arthur Tindell*,**,**
+28,2014,*Hopwood, A. T.*,**,**
+28,2014,*Swinton, W. E.*,**,**
+28,2015,*Hora, Sunder Lal*,**,**
+28,2016,*Ho%Frmann, K.*,**,**
+28,2017,*Horne*,**,**
+28,2017,*Gilbert*,**,**
+28,2018,*Hosmer, Ralph S., et al.*,**,**
+28,2019,*Hotchkiss, William Otis*,**,**
+28,2020,*Houston, Sam H., Jr.*,**,**
+28,2021,*Howard, Hildegarde*,**,**
+28,2022,*Howard, Hildegarde*,**,**
+28,2023,*Howard, Hildegarde*,**,**
+28,2024,*Howard, Hildegarde*,**,**
+28,2025,*Howard, Hildegarde*,**,**
+28,2026,*Howard, Hildegarde*,**,**
+28,2027,*Howard, Hildegarde*,**,**
+28,2028,*Howard, Hildegarde*,**,**
+28,2029,*Howard, Hildegarde*,**,**
+28,2030,*Howard, H.*,**,**
+28,2030,*Miller, A. H.*,**,**
+28,2031,*Howchin, Walter*,**,**
+28,2032,*Howell, Alfred Brazier*,**,**
+28,2033,*Howell, Alfred Brazier*,**,**
+28,2034,*Howell, Alfred Brazier*,**,**
+28,2035,*Howell, Alfred Brazier*,**,**
+28,2036,*Howell, Alfred Brazier*,**,**
+28,2037,*Howell, Benjamin Franklin, et al.*,**,**
+28,2038,*Howell, B. F.*,**,**
+28,2038,*Plummer, H. J.*,**,**
+28,2039,*Howell, Edwin E.*,**,**
+28,2040,*Hrdlic%Jka, Ales%J*,**,**
+28,2041,*Hrdlic%Jka, Ales%J*,**,**
+28,2042,*Hrdlic%Jka, Ales%J*,**,**
+28,2043,*Hrdlic%Jka, Ales%J*,**,**
+28,2044,*Hrdlic%Jka, Ales%J*,**,**
+28,2045,*Hrdlic%Jka, Ales%J*,**,**
+28,2046,*Hrdlic%Jka, Ales%J*,**,**
+28,2047,*Hrdlic%Jka, Ales%J*,**,**
+28,2048,*Hrdlic%Jka, Ales%J*,**,**
+28,2049,*Hrdlic%Jka, Ales%J*,**,**
+28,2050,*Hrdlic%Jka, Ales%J*,**,**
+28,2051,*Hubbard, George D.*,*= David*,**
+28,2052,*Hubbard, George D.*,*= David*,**
+28,2053,*Hubbard, Samuel*,**,**
+28,2054,*Huber, Ernst*,**,**
+28,2055,*Huber, Ernst*,**,**
+28,2056,*Huber, Ernst*,**,**
+28,2057,*Hucke, K.*,**,**
+28,2057,*Voigt, E.*,*= Ehrhard*,**
+28,2058,*Huene, Erika von*,**,**
+28,2059,*Huene, Friedrich von*,**,**
+28,2060,*Huene, Friedrich von*,**,**
+28,2061,*Huene, Friedrich von*,**,**
+28,2062,*Huene, Friedrich von*,**,**
+28,2063,*Huene, Friedrich von*,**,**
+28,2064,*Huene, Friedrich von*,**,**
+28,2065,*Huene, Friedrich von*,**,**
+28,2066,*Huene, Friedrich von*,**,**
+28,2067,*Huene, Friedrich von*,**,**
+28,2068,*Huene, Friedrich von*,**,**
+28,2069,*Huene, Friedrich von*,**,**
+28,2070,*Huene, Friedrich von*,**,**
+28,2071,*Huene, Friedrich von*,**,**
+28,2072,*Huene, Friedrich von*,**,**
+28,2073,*Huene, Friedrich von*,**,**
+28,2074,*Huene, Friedrich von*,**,**
+28,2075,*Huene, Friedrich von*,**,**
+28,2076,*Huene, Friedrich von*,**,**
+28,2077,*Huene, Friedrich von*,**,**
+28,2078,*Huene, Friedrich von*,**,**
+28,2079,*Huene, Friedrich von*,**,**
+28,2080,*Huene, Friedrich von*,**,**
+28,2081,*Huene, Friedrich von*,**,**
+28,2082,*Huene, Friedrich von*,**,**
+28,2083,*Huene, Friedrich von*,**,**
+28,2084,*Huene, Friedrich von*,**,**
+28,2085,*Huene, Friedrich von*,**,**
+28,2086,*Huene, Friedrich von*,**,**
+28,2087,*Huene, Friedrich von*,**,**
+28,2088,*Huene, Friedrich von*,**,**
+28,2089,*Huene, Friedrich von*,**,**
+28,2090,*Huene, Friedrich von*,**,**
+28,2091,*Huene, Friedrich von*,**,**
+28,2092,*Huene, Friedrich von*,**,**
+28,2093,*Huene, Friedrich von*,**,**
+28,2094,*Huene, Friedrich von*,**,**
+28,2095,*Huene, Friedrich von*,**,**
+28,2096,*Huene, Friedrich von*,**,**
+28,2097,*Huene, Friedrich von*,**,**
+28,2098,*Huene, Friedrich von*,**,**
+28,2099,*Huene, F. v.*,**,**
+28,2099,*Matley, C. A.*,**,**
+28,2100,*Huene, F. v.*,**,**
+28,2100,*Stahlecker, R.*,*=Rudolf*,**
+28,2101,*Huene, F. v.*,**,**
+28,2101,*Watson, D. M. S.*,**,**
+28,2102,*Hugues, Camille*,**,**
+28,2102,*Gagnie%Are, S.*,*=Sylvain*,**
+28,2103,*Hummel, Karl*,**,**
+28,2104,*Hummel, Karl*,**,**
+28,2105,*Hummel, Karl*,**,**
+28,2106,*Hundt, Rudolph*,**,**
+28,2107,*Hupier, Charles*,**,**
+28,2108,*Hurst, C. C.*,*=Charles Chamberlain*,**
+28,2109,*Hu%Frzeler, Joh.*,*=Johannes*,**
+28,2110,*Hu%Frzeler, Joh.*,*=Johannes*,**
+28,2111,*Hussakof, Louis*,**,**
+28,2112,*Hussakof, Louis*,**,**
+28,2113,*Hussakof, Louis*,**,**
+28,2114,*Hussakof, Louis*,**,**
+28,2115,*Hussey, Russell Claudius*,**,**
+28,2116,*Hyde, Jesse Earl*,**,**
+28,2117,*Ihering, Hermann von*,**,**
+28,2118,*Ingalls, Albert G.*,**,**
+28,2119,*Ingersoll, Ernest*,**,**
+28,2120,*Isberg, Orvar*,**,**
+28,2121,*Isberg, Orvar*,**,**
+28,2122,*Issupov, V.*,**,**
+28,2123,*Jackson, John Wilfrid*,**,**
+28,2124,*Jackson, John Wilfrid*,**,**
+28,2125,*Jackson, John Wilfrid*,**,**
+28,2126,*Jackson, John Wilfrid*,**,**
+28,2127,*Jacobi, Arnold*,**,**
+28,2129,*Jacobi, Arnold*,**,**
+28,2130,*Jacobi, Arnold*,**,**
+28,2131,*Jacobshagen, Ed.*,*=Eduard*,**
+28,2132,*Jacot, Arthur Paul*,**,**
+28,2133,*Jaeger, Edmund Carroll*,**,**
+28,2134,*Jaekel, Otto*,**,**
+28,2135,*Jaekel, Otto*,**,**
+28,2136,*Jaekel, Otto*,**,**
+28,2137,*Jaekel, Otto*,**,**
+28,2138,*Ja%Fgerskio%Fld, L. A.*,**,**
+28,2139,*Jakovlev, N. N.*,*=Yakovlev, Nikolay Nikolayevich*,**
+28,2140,*James, E. O.*,*=Edwin Oliver*,**
+28,2141,*Janda, Viktor*,**,**
+28,2142,*Janda, Viktor*,**,**
+28,2143,*Janensch, Werner*,**,**
+28,2144,*Janensch, Werner*,**,**
+28,2145,*Janensch, Werner*,**,**
+28,2146,*Janensch, Werner*,**,**
+28,2147,*Janensch, Werner*,**,**
+28,2148,*Janensch, Werner*,**,**
+28,2149,*Janensch, Werner*,**,**
+28,2150,*Janensch, Werner*,**,**
+28,2151,*Janse, A. J. T.*,*=Antonivs Johannes Theodorus*,**
+28,2152,*Jaros%J, Zdene%Jk*,**,**
+28,2153,*Jaworski, Eric*,**,**
+28,2154,*Jaworski, Eric*,**,**
+28,2155,*Jaworski, Eric*,**,**
+28,2156,*Jaworski, Eric*,**,**
+28,2157,*Jaworski, He%Alan, et al.*,**,**
+28,2158,*Jeannet, Alph.*,**,**
+28,2159,*Jegorov, N. M.*,**,**
+28,2160,*Jenkins, Olaf Pitt*,**,**
+28,2161,*Jenks, Alfred Ernest*,**,**
+28,2162,*Jenks, Alfred Ernest*,**,**
+28,2163,*Jenness, Diamond*,**,*E*
+28,2164,*Jenny, W. A. von*,**,**
+28,2165,*Jepsen, Glenn Lowell*,**,**
+28,2166,*Jepsen, Glenn Lowell*,**,**
+28,2167,*Jepsen, Glenn Lowell*,**,**
+28,2168,*Jepsen, Glenn Lowell*,**,**
+28,2169,*Jepsen, Glenn Lowell*,**,**
+28,2170,*Jepsen, Glenn Lowell*,**,**
+28,2171,*Jepsen, Glenn Lowell*,**,**
+28,2172,*Jessen, Knud*,**,**
+28,2173,*Jessen, Knud*,**,**
+28,2174,*Jillson, Willard Rouse*,**,**
+28,2175,*Jillson, Willard Rouse*,**,**
+28,2176,*Jillson, Willard Rouse*,**,**
+28,2177,*Jodot, Paul*,**,**
+28,2178,*Johnson, Jesse Harlan*,**,**
+28,2179,*Johnson, Jesse Harlan*,**,**
+28,2180,*Johnson, Jesse Harlan*,**,**
+28,2181,*Johnson, Jesse Harlan*,**,**
+28,2182,*Johnson, Jesse Harlan*,**,**
+28,2183,*Johnson, J. H.*,**,**
+28,2183,*Behre, C. H.*,**,**
+28,2184,*Johnson, John C.*,*=Christopher*,**
+28,2185,*Johnston, William Alfred*,**,**
+28,2186,*Johnstone, James*,**,**
+28,2187,*Joleaud, Leonce*,**,**
+28,2188,*Joleaud, Leonce*,**,**
+28,2189,*Joleaud, Leonce*,**,**
+28,2190,*Joleaud, Leonce*,**,**
+28,2192,*Joleaud, Leonce*,**,**
+28,2193,*Joleaud, Leonce*,**,**
+28,2194,*Joleaud, Leonce*,**,**
+28,2195,*Joleaud, Leonce*,**,**
+28,2196,*Joleaud, Leonce*,**,**
+28,2197,*Joleaud, Leonce*,**,**
+28,2198,*Joleaud, Leonce*,**,**
+28,2199,*Joleaud, Leonce*,**,**
+28,2200,*Joleaud, Leonce*,**,**
+28,2201,*Joleaud, Leonce*,**,**
+28,2202,*Joleaud, Leonce*,**,**
+28,2203,*Joleaud, Leonce*,**,**
+28,2204,*Joleaud, Leonce*,**,**
+28,2205,*Joleaud, Leonce*,**,**
+28,2206,*Joleaud, Leonce*,**,**
+28,2207,*Joleaud, Leonce*,**,**
+28,2208,*Joleaud, Leonce*,**,**
+28,2209,*Joleaud, Leonce*,**,**
+28,2210,*Joleaud, Leonce*,**,**
+28,2211,*Joleaud, L.*,**,**
+28,2211,*Lombard, J.*,**,**
+28,2212,*Joleaud, L.*,**,**
+28,2212,*Lombard, J.*,**,**
+28,2213,*Joleaud, L.*,**,**
+28,2213,*Malavoy, J.*,**,**
+28,2214,*Jollos, Victor*,**,**
+28,2215,*Jones, Frederic Wood*,**,**
+28,2216,*Jones, Frederic Wood*,**,**
+28,2217,*Jones, Frederic Wood*,**,**
+28,2218,*Jones, Frederic Wood*,**,**
+28,2219,*Jones, Frederic Wood*,**,**
+28,2220,*Jones, Frederic Wood*,**,**
+28,2221,*Jongmans, Wilhelmus Josephus*,**,**
+28,2223,*Jordan, David Starr*,**,**
+28,2224,*Jordan, David Starr*,**,**
+28,2225,*Jordan, David Starr*,**,**
+28,2226,*Jordan, David Starr*,**,**
+28,2227,*Jordan, D. S.*,*=David Starr*,**
+28,2227,*Kimball, S. L.*,*=Sarah Louise*,**
+28,2228,*Ju%Fngst, H.*,**,**
+28,2229,*Kadic%A, Ottokar*,**,**
+28,2230,*Kadic%A, O.*,**,**
+28,2230,*Kretzoi, M.*,**,**
+28,2231,*Kadletz, Maximilian*,**,**
+28,2232,*Kahrs-Essen, Ernst*,**,**
+28,2233,*Kaisin, M. F.*,**,**
+28,2234,*Ka%Flin, Josef Alois*,**,**
+28,2235,*Ka%Flin, Josef Alois*,**,**
+28,2236,*Ka%Flin, Josef Alois*,**,**
+28,2237,*Ka%Flin, Josef Alois*,**,**
+28,2238,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2239,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2240,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2241,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2242,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2243,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2244,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2245,*Kappers, Cornelius Ubbo Arie%Fns*,**,**
+28,2246,*Karpinskii%F, A. A.*,*=Karpinskiy, Aleksandr Petrovich*,**
+28,2247,*Kawada, Michio*,**,**
+28,2248,*Kazeeff, W.*,**,**
+28,2249,*Keilhack, Konrad*,**,**
+28,2250,*Keith, Sir Arthur*,**,**
+28,2251,*Keith, Sir Arthur*,**,**
+28,2252,*Keith, Sir Arthur*,**,**
+28,2253,*Keith, Sir Arthur*,**,**
+28,2254,*Keith, Sir Arthur*,**,**
+28,2255,*Keith, Sir Arthur*,**,**
+28,2256,*Keith, Sir Arthur*,**,**
+28,2257,*Keith, Sir Arthur*,**,**
+28,2258,*Keith, Sir Arthur*,**,**
+28,2259,*Keith, Sir Arthur*,**,**
+28,2260,*Keith, Sir Arthur*,**,**
+28,2261,*Keith, Sir A.*,**,**
+28,2261,*Broom, R.*,**,**
+28,2261,*Lang, H.*,**,**
+28,2262,*Keith, Sir A.*,**,**
+28,2262,*Myres, J. L.*,**,**
+28,2262,*Burkitt, M. C.*,**,**
+28,2262,*Favell, R. V.*,**,**
+28,2262,*Garfitt, G. A.*,**,**
+28,2262,*Garrod, D. A. E.*,**,**
+28,2262,*Sollas, W. J.*,**,**
+28,2263,*Keith, Sir A.*,**,**
+28,2263,*Myres, J. L.*,**,**
+28,2263,*Burkitt, M. C.*,**,**
+28,2263,*Favell, R. V.*,**,**
+28,2263,*Garfitt, G. A.*,**,**
+28,2263,*Garrod, D. A. E.*,**,**
+28,2263,*Sollas, W. J.*,**,**
+28,2264,*Keith, Sir A.*,**,**
+28,2264,*Myres, J. L.*,**,**
+28,2264,*Burkitt, M. C.*,**,**
+28,2264,*Favell, R. V.*,**,**
+28,2264,*Garfitt, G. A.*,**,**
+28,2264,*Garrod, D. A. E.*,**,**
+28,2264,*Lacaille, Mr.*,**,**
+28,2265,*Keith, Sir A.*,**,**
+28,2265,*Myres, J. L.*,**,**
+28,2265,*Burkitt, M. C.*,**,**
+28,2265,*Favell, R. V.*,**,**
+28,2265,*Garfitt, G. A.*,**,**
+28,2265,*Garrod, D. A. E.*,**,**
+28,2265,*Lacaille, Mr.*,**,**
+28,2266,*Keith, Sir A.*,**,**
+28,2266,*Osborn, H. F.*,**,**
+28,2266,*Lang, W. D.*,**,**
+28,2266,*Trueman, A. E.*,**,**
+28,2266,*Swinnerton, H. H.*,**,**
+28,2266,*Watson, D. M. S.*,**,**
+28,2267,*Kellaway, G. A.*,**,**
+28,2268,*Keller, A. G.*,*Albert Galloway*,**
+28,2269,*Keller, R.*,**,**
+28,2270,*Kellogg, Arthur Remington*,**,**
+28,2271,*Kellogg, Arthur Remington*,**,**
+28,2272,*Kellogg, Arthur Remington*,**,**
+28,2273,*Kellogg, Arthur Remington*,**,**
+28,2274,*Kellogg, Arthur Remington*,**,**
+28,2275,*Kellogg, Arthur Remington*,**,**
+28,2276,*Kellogg, Arthur Remington*,**,**
+28,2277,*Kellogg, Arthur Remington*,**,**
+28,2278,*Kelly, M. et Mme.*,**,**
+28,2279,*K[endall], P[ercy] F.*,**,**
+28,2280,*Kerner von Merilaun, Fritz*,**,**
+28,2281,*Kerr, J. Graham*,**,**
+28,2282,*Kerschner, Theodor*,**,**
+28,2282,*Schadler, J.*,**,**
+28,2283,*Kesteven, H. Leighton*,**,**
+28,2284,*Kesteven, H. Leighton*,**,**
+28,2285,*Keyes, Charles Rollin*,**,**
+28,2286,*Keyes, Charles Rollin*,**,**
+28,2287,*Khomenko, J. P.*,*Ivan Petrovich*,**
+28,2288,*Khomenko, J. P.*,*Ivan Petrovich*,**
+28,2289,*Khomenko, J. P.*,*Ivan Petrovich*,**
+28,2290,*Kiaer, Johan*,**,**
+28,2291,*Kiaer, Johan*,**,**
+28,2292,*Kiaer, Johan*,**,**
+28,2293,*Kiaer, Johan*,**,**
+28,2294,*Kiaer, J.*,**,**
+28,2294,*Heintz, A.*,*= Johan Anatol*,**
+28,2295,*Kiaer, J.*,**,**
+28,2295,*Heintz, A.*,*= Johan Anatol*,**
+28,2296,*Kiderlen, Helmut*,**,**
+28,2297,*Kiderlen, Helmut*,**,**
+28,2298,*Killermann, S.*,**,**
+28,2298,*Handmann, P. R.*,*Sebastian*,**
+28,2299,*Kindersley, Henry R.*,**,**
+28,2300,*Kindle, Edward Martin*,**,**
+28,2301,*Kindle, Edward Martin*,**,**
+28,2302,*Kindle, Edward Martin*,**,**
+28,2303,*Kindle, Edward Martin*,**,**
+28,2304,*Kintner, Edward*,**,**
+28,2305,*Kireev, A.*,**,**
+28,2306,*Kirk, Edwin*,**,**
+28,2307,*Kirk, Stuart Raeburn*,**,**
+28,2308,*Kirk, Stuart Raeburn*,**,**
+28,2309,*Kirkham, Virgil Raymond Drexel*,**,**
+28,2310,*Kitchin, F. L.*,*Finlay Lorimer*,**
+28,2311,*Kla%Fhn, Hans*,**,**
+28,2312,*Kla%Fhn, Hans*,**,**
+28,2313,*Kla%Fhn, Hans*,**,**
+28,2314,*Kla%Fhn, Hans*,**,**
+28,2315,*Kla%Fhn, Hans*,**,**
+28,2316,*Kla%Fhn, Hans*,**,**
+28,2317,*Kla%Fhn, Hans*,**,**
+28,2318,*Kla%Fhn, Hans*,**,**
+28,2319,*Klatt, Berthold*,**,**
+28,2320,*Klebelsberg, Raimond von*,**,**
+28,2321,*Klebelsberg, Raimond von*,**,**
+28,2322,*Kleinschmidt, Otto*,**,**
+28,2323,*Kleinschmidt, Otto*,**,**
+28,2324,*Kleinschmidt, Otto*,**,**
+28,2325,*Kleinschmidt, Otto*,**,**
+28,2326,*Kleiweg de Zwaan, J. P.*,**,**
+28,2327,*Kleiweg de Zwaan, J. P.*,**,**
+28,2328,*Klimek, Stanisl%Saw*,**,**
+28,2329,*Klinghardt, Franz*,**,**
+28,2330,*Klinghardt, Franz*,**,**
+28,2331,*Klinghardt, Franz*,**,**
+28,2332,*Klinghardt, Franz*,**,**
+28,2333,*Klingner, Fritz-Erdmann*,**,**
+28,2334,*Kluger, Joseph*,**,**
+28,2335,*Klu%Fpfel, Walther*,**,**
+28,2336,*Knight, Charles Robert*,**,**
+28,2337,*Knight, Charles Robert*,**,**
+28,2338,*Knopf, Adolph*,**,**
+28,2338,*Schuchert, C.*,**,**
+28,2338,*Kovarik, A.*,**,**
+28,2338,*Holmes, A.*,**,**
+28,2338,*Brown, E.*,**,**
+28,2339,*Koch, Franz*,**,**
+28,2340,*Koch, Franz*,**,**
+28,2341,*Koch, Lauge*,**,**
+28,2342,*Koch, Lauge*,**,**
+28,2343,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2344,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2345,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2346,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2347,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2348,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2349,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2350,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2351,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2352,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2353,*Koenigswald, Gustav Heinrich Ralph von*,**,**
+28,2354,*Koerner, Harold E.*,*= Elton*,**
+28,2355,*Koerner, Harold E.*,*= Elton*,**
+28,2356,*Kolbe, Hermann*,**,**
+28,2357,*Kolbe, Hermann*,**,**
+28,2358,*Koopmans, R. G.*,**,**
+28,2359,*Ko%Fppel, R.*,*= Robert*,**
+28,2360,*Ko%Fppel, R.*,*= Robert*,**
+28,2361,*Ko%Fppen, W.*,**,**
+28,2361,*Wegener, A.*,**,**
+28,2362,*Kormos, Theodor*,*= Tivadar*,**
+28,2363,*Kormos, Theodor*,*= Tivadar*,**
+28,2364,*Kormos, Theodor*,*= Tivadar*,**
+28,2365,*Kormos, Theodor*,*= Tivadar*,**
+28,2366,*Kormos, Theodor*,*= Tivadar*,**
+28,2367,*Kormos, Theodor*,*= Tivadar*,**
+28,2368,*Kormos, Theodor*,*= Tivadar*,**
+28,2369,*Kormos, Theodor*,*= Tivadar*,**
+28,2370,*Kormos, Theodor*,*= Tivadar*,**
+28,2371,*Kormos, Theodor*,*= Tivadar*,**
+28,2372,*Kormos, Theodor*,*= Tivadar*,**
+28,2373,*Kormos, Theodor*,*= Tivadar*,**
+28,2374,*Kormos, Theodor*,*= Tivadar*,**
+28,2375,*Kormos, Theodor*,*= Tivadar*,**
+28,2376,*Kormos, Theodor*,*= Tivadar*,**
+28,2377,*Kormos, Theodor*,*= Tivadar*,**
+28,2378,*Kormos, Theodor*,*= Tivadar*,**
+28,2379,*Kormos, Theodor*,*= Tivadar*,**
+28,2380,*Kormos, Theodor*,*= Tivadar*,**
+28,2381,*Kormos, Theodor*,*= Tivadar*,**
+28,2382,*Kormos, Theodor*,*= Tivadar*,**
+28,2383,*Kormos, Theodor*,*= Tivadar*,**
+28,2384,*Kormos, Theodor*,*= Tivadar*,**
+28,2385,*Korn, Hermann*,**,**
+28,2386,*Kos, F.*,*=Franc*,**
+28,2387,*Koslov, A.*,**,**
+28,2388,*Koslowski, Roman*,**,**
+28,2389,*Kotsovsky, D.*,**,**
+28,2390,*Krabbe, Knud H.*,**,**
+28,2391,*Kraglievich, Lucas*,**,**
+28,2392,*Kraglievich, Lucas*,**,**
+28,2393,*Kraglievich, Lucas*,**,**
+28,2394,*Kraglievich, Lucas*,**,**
+28,2395,*Kraglievich, Lucas*,**,**
+28,2396,*Kraglievich, Lucas*,**,**
+28,2397,*Kraglievich, Lucas*,**,**
+28,2398,*Kraglievich, Lucas*,**,**
+28,2399,*Kraglievich, Lucas*,**,**
+28,2400,*Kraglievich, Lucas*,**,**
+28,2401,*Kraglievich, Lucas*,**,**
+28,2402,*Kraglievich, Lucas*,**,**
+28,2403,*Kraglievich, Lucas*,**,**
+28,2404,*Kraglievich, Lucas*,**,**
+28,2405,*Kraglievich, Lucas*,**,**
+28,2406,*Kraglievich, Lucas*,**,**
+28,2407,*Kraglievich, Lucas*,**,**
+28,2408,*Kraglievich, Lucas*,**,**
+28,2409,*Kraglievich, Lucas*,**,**
+28,2410,*Kraglievich, Lucas*,**,**
+28,2411,*Kraglievich, Lucas*,**,**
+28,2412,*Kraglievich, Lucas*,**,**
+28,2413,*Kraglievich, Lucas*,**,**
+28,2414,*Kraglievich, Lucas*,**,**
+28,2415,*Kraglievich, Lucas*,**,**
+28,2416,*Kraglievich, Lucas*,**,**
+28,2417,*Kraglievich, Lucas*,**,**
+28,2418,*Kraglievich, Lucas*,**,**
+28,2419,*Kraglievich, Lucas*,**,**
+28,2420,*Kraglievich, Lucas*,**,**
+28,2421,*Kraglievich, Lucas*,**,**
+28,2422,*Kraglievich, Lucas*,**,**
+28,2423,*Kraglievich, Lucas*,**,**
+28,2424,*Kraglievich, Lucas*,**,**
+28,2425,*Kraglievich, Lucas*,**,**
+28,2426,*Kraglievich, Lucas*,**,**
+28,2427,*Kraglievich, Lucas*,**,**
+28,2428,*Kraglievich, Lucas*,**,**
+28,2429,*Kraglievich, Lucas*,**,**
+28,2430,*Kraglievich, Lucas*,**,**
+28,2431,*Kraglievich, Lucas*,**,**
+28,2432,*Kraglievich, Lucas*,**,**
+28,2433,*Kraglievich, L.*,**,**
+28,2433,*Parodi, L. J.*,**,**
+28,2434,*Kraglievich, L.*,**,**
+28,2434,*Parodi, L. J.*,**,**
+28,2435,*Kraglievich, L.*,**,**
+28,2435,*Rusconi, C.*,**,**
+28,2436,*Kraitschek, Gustav*,**,**
+28,2436,*Capeller, F.*,**,**
+28,2437,*Kranz, Walter*,**,**
+28,2437,*Berckhemer, F.*,**,**
+28,2437,*Wagele, H.*,**,**
+28,2438,*Kraus, Ernst*,**,**
+28,2439,*Krause, Paul Gustaf*,**,**
+28,2440,*Krejci-Graf, Karl*,**,**
+28,2441,*Krejci-Graf, Karl*,**,**
+28,2442,*Krejci-Graf, Karl*,**,**
+28,2443,*Krejci-Graf, K.*,**,**
+28,2443,*Weiler, W.*,**,**
+28,2444,*Kretzoi, Nikolaus*,*= Kretzoi, Miklo%As*,**
+28,2445,*Kretzoi, Nikolaus*,*= Kretzoi, Miklo%As*,**
+28,2446,*Kretzoi, Nikolaus*,*= Kretzoi, Miklo%As*,**
+28,2447,*Kriegler, Karl*,**,**
+28,2448,*Krijnen, W. F.*,**,**
+28,2449,*Kripp, D.*,**,**
+28,2450,*Kroeber, Alfred Louis*,**,**
+28,2450,*Waterman, T. T.*,**,**
+28,2451,*Krogman, Wilton Marion*,**,**
+28,2452,*Kru%Fger, F.*,**,**
+28,2453,*Krumbiegel, I.*,*= Ingo*,**
+28,2454,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2455,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2456,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2457,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2458,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2459,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2460,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2461,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2462,*Kubacska, Andreas*,*Tasna%Adi-Kubacska, Andra%As*,**
+28,2463,*Kuenen, H.*,**,**
+28,2464,*Kuentz, L.*,**,**
+28,2465,*Ku%Fhn, Herbert*,**,**
+28,2466,*Ku%Fhn, Herbert*,**,**
+28,2467,*Kuhn, Oskar*,**,**
+28,2468,*Kuhn, Oskar*,**,**
+28,2469,*Kuhn, Oskar*,**,**
+28,2470,*Kuhn, Oskar*,**,**
+28,2471,*Kuhn, Oskar*,**,**
+28,2472,*Ku%Fhn, Othmar*,**,**
+28,2473,*Ku%Fhn, Othmar*,**,**
+28,2474,*Kulling, Oskar*,**,**
+28,2475,*Kuntze, Roman*,**,**
+28,2476,*Ku%Fthe, K.*,**,**
+28,2477,*Kuzmin, F. M.*,**,**
+28,2478,*Kuzmin, F. M.*,**,**
+28,2479,*Kuzmin, F. M.*,**,**
+28,2480,*Kwaschnin-Ssamarin, N.*,*= M. Kvas%Jninas-Samarinas*,**
+28,2481,*Kyrle, Georg*,**,**
+28,2482,*Laatsch, Willy*,**,**
+28,2483,*La Baume, Wolfgang*,**,**
+28,2484,*Lacoste, Jean*,**,**
+28,2485,*Lafete%Aur, R.*,**,**
+28,2486,*Laing, Gordon D.*,**,**
+28,2486,*Gear, J. H. S.*,**,**
+28,2487,*Lalande, Andre%A*,**,**
+28,2488,*Lamberton, Ch.*,**,**
+28,2489,*Lamberton, Ch.*,**,**
+28,2490,*Lambrecht, Ka%Alma%An*,**,**
+28,2491,*Lambrecht, Ka%Alma%An*,**,**
+28,2492,*Lambrecht, Ka%Alma%An*,**,**
+28,2493,*Lambrecht, Ka%Alma%An*,**,**
+28,2494,*Lambrecht, Ka%Alma%An*,**,**
+28,2495,*Lambrecht, Ka%Alma%An*,**,**
+28,2496,*Lambrecht, Ka%Alma%An*,**,**
+28,2497,*Lambrecht, Ka%Alma%An*,**,**
+28,2498,*Lambrecht, Ka%Alma%An*,**,**
+28,2499,*Lambrecht, Ka%Alma%An*,**,**
+28,2500,*Lambrecht, Ka%Alma%An*,**,**
+28,2501,*Lambrecht, Ka%Alma%An*,**,**
+28,2502,*Lambrecht, Ka%Alma%An*,**,**
+28,2503,*Lambrecht, Ka%Alma%An*,**,**
+28,2504,*Lambrecht, Ka%Alma%An*,**,**
+28,2505,*Lambrecht, Ka%Alma%An*,**,**
+28,2506,*Lambrecht, Ka%Alma%An*,**,**
+28,2507,*Lambrecht, Ka%Alma%An*,**,**
+28,2508,*Lambrecht, Ka%Alma%An*,**,**
+28,2509,*Lambrecht, Ka%Alma%An*,**,**
+28,2510,*Lambrecht, Ka%Alma%An*,**,**
+28,2511,*Lameere, Auguste*,**,**
+28,2512,*Lameere, Auguste*,**,**
+28,2513,*LaMonte, Francesca Raimonde*,**,**
+28,2514,*Lane, Henry Higgins*,**,**
+28,2515,*Lane, Henry Higgins*,**,**
+28,2516,*[Lang, Herbert]*,**,**
+28,2517,*Lang, W. D.*,*= William Dickson*,**
+28,2518,*Lang, W. D.*,*= William Dickson*,**
+28,2519,*Langelier, Gustave*,**,**
+28,2520,*Lanquine, Antonin*,**,**
+28,2521,*Lapage, Enid Oldham*,**,**
+28,2522,*Lapage, Enid Oldham*,**,**
+28,2523,*Lapham, Macy Harvey*,**,**
+28,2524,*Larson, Leigh Marion*,**,**
+28,2525,*Lavauden, L.*,*= Lovis*,**
+28,2526,*Laverdie%Cre, Joseph-Willie*,**,**
+28,2527,*Laverdie%Cre, Joseph-Willie*,**,**
+28,2528,*Leakey, L. S. B.*,**,**
+28,2529,*Leakey, L. S. B.*,**,**
+28,2530,*Leakey, L. S. B.*,**,**
+28,2531,*Leakey, L. S. B.*,**,**
+28,2532,*Leakey, L. S. B.*,**,**
+28,2533,*Leakey, L. S. B.*,**,**
+28,2534,*Leakey, L. S. B.*,**,**
+28,2535,*Leakey, L. S. B.*,**,**
+28,2536,*Leakey, L. S. B.*,**,**
+28,2537,*Leakey, L. S. B.*,**,**
+28,2538,*Leakey, L. S. B., et al.*,**,**
+28,2539,*Leakey, L. S. B.*,**,**
+28,2539,*Hopwood, A. T.*,**,**
+28,2539,*Reck, H.*,**,**
+28,2540,*Leakey, L. S. B.*,**,**
+28,2540,*Hopwood, A. T.*,**,**
+28,2540,*Reck, H.*,**,**
+28,2541,*Leakey, L. S. B.*,**,**
+28,2541,*Reck, H.*,**,**
+28,2541,*Boswell, P. G. H.*,**,**
+28,2541,*Hopwood, A. T.*,**,**
+28,2541,*Solomon, J. D.*,**,**
+28,2542,*Lebkuchner, Richard*,**,**
+28,2542,*Riek, G.*,**,**
+28,2543,*Le Buffe, Francis P.*,**,**
+28,2544,*Le Buffe, Francis P.*,**,**
+28,2545,*Le Buffe, Francis P.*,**,**
+28,2546,*Le Buffe, Francis P.*,**,**
+28,2547,*Le Buffe, Francis P.*,**,**
+28,2548,*Le Buffe, Francis P.*,**,**
+28,2549,*Lebzelter, Viktor*,**,**
+28,2550,*Leclercq, Suzanne*,**,**
+28,2551,*Leclercq, Suzanne*,**,**
+28,2552,*Lees, James H.*,**,**
+28,2553,*Lehmann, Wl.*,**,**
+28,2554,*Lehne, Richard*,**,**
+28,2555,*Leidy, Joseph, II.*,**,**
+28,2556,*Leighton, Henry*,**,**
+28,2557,*Lemoine, Eugene*,**,**
+28,2558,*Lenard, Philipp*,**,**
+28,2559,*Lenoir, Ernest*,**,**
+28,2560,*Leonardi, Piero*,**,**
+28,2561,*Lepierre, C.*,**,**
+28,2562,*Leriche, Maurice*,**,**
+28,2563,*Leriche, Maurice*,**,**
+28,2564,*Leriche, Maurice*,**,**
+28,2565,*Leriche, Maurice*,**,**
+28,2566,*Leriche, Maurice*,**,**
+28,2567,*Leriche, Maurice*,**,**
+28,2568,*Leriche, Maurice*,**,**
+28,2569,*Leriche, Maurice*,**,**
+28,2570,*Leriche, Maurice*,**,**
+28,2571,*Leriche, Maurice*,**,**
+28,2572,*Le Riche, Phillip J.*,**,**
+28,2573,*Le Roy, Edward*,**,**
+28,2574,*Leuchs, Kurt*,**,**
+28,2575,*Leuchs, Kurt*,**,**
+28,2576,*Leuthardt, F.*,**,**
+28,2577,*Leuthardt, F.*,**,**
+28,2578,*Leverett, Frank*,**,**
+28,2579,*Leverett, Frank*,**,**
+28,2580,*Lewis, F. Park*,**,**
+28,2581,*Lewis, G. Edward*,**,**
+28,2582,*Lewis, G. Edward*,**,**
+28,2583,*Licent, E.*,**,**
+28,2584,*Liebus, Adalbert*,**,**
+28,2585,*Liebus, Adalbert*,**,**
+28,2586,*Liebus, Adalbert*,**,**
+28,2587,*Liebus, Adalbert*,**,**
+28,2588,*Liebus, Adalbert*,**,**
+28,2589,*Liebus, Adalbert*,**,**
+28,2590,*Liebus, Adalbert*,**,**
+28,2591,*Liebus, Adalbert*,**,**
+28,2592,*Liebus, Adalbert*,**,**
+28,2593,*Liebus, Adalbert*,**,**
+28,2594,*Linckenheld, Emile*,**,**
+28,2595,*Linders, F. J.*,**,**
+28,2596,*Lindsey, Arthur Ward*,**,**
+28,2597,*Lindsey, Arthur Ward*,**,**
+28,2598,*Lips, R.*,**,**
+28,2599,*Little, Malcolm Edgeworth*,**,**
+28,2600,*Livingstone, J. E.*,**,**
+28,2601,*Llueca, F. Gomez*,**,**
+28,2602,*Lodge, Sir Oliver*,**,**
+28,2603,*Loel, Wayne*,**,**
+28,2603,*Corey, W. H.*,**,**
+28,2604,*Lombard, J.*,**,**
+28,2605,*Longley, William Harding*,**,**
+28,2606,*Longley, William Harding*,**,**
+28,2607,*Longman, Heber A.*,**,**
+28,2608,*Longman, Heber A.*,**,**
+28,2609,*Longman, Heber A.*,**,**
+28,2610,*Longman, Heber A.*,**,**
+28,2611,*Longman, Heber A.*,**,**
+28,2612,*Longman, Heber A.*,**,**
+28,2613,*Longworth-Dames, F.*,**,**
+28,2614,*Lo%Fnnberg, Einar*,**,**
+28,2615,*Lo%Fnnberg, Einar*,**,**
+28,2616,*Lo%Fnnberg, Einar*,**,**
+28,2617,*Lo%Fnnberg, Einar*,**,**
+28,2618,*Loomis, Frederic Brewster*,**,**
+28,2619,*Loomis, Frederic Brewster*,**,**
+28,2620,*Loomis, Frederic Brewster*,**,**
+28,2621,*Loomis, Frederic Brewster*,**,**
+28,2622,*Loomis, Frederic Brewster*,**,**
+28,2623,*Loomis, Frederic Brewster*,**,**
+28,2624,*Loomis, F. B.*,**,**
+28,2624,*Bump, B.*,**,**
+28,2625,*Lorenzo, Guiseppe de*,**,**
+28,2625,*Erasmo, G. d'*,**,**
+28,2626,*Lorenzo, Guiseppe de*,**,**
+28,2626,*Erasmo, G. d'*,**,**
+28,2627,*Lorenzo, Guiseppe de*,**,**
+28,2627,*Erasmo, G. d'*,**,**
+28,2628,*Lo%Fscher, Wilhelm*,**,**
+28,2629,*Lotsy, J. P.*,**,**
+28,2630,*Lotsy, J. P.*,**,**
+28,2631,*Louderback, George Davis*,**,**
+28,2632,*Loukashkin, A. S.*,**,**
+28,2633,*Lowe, Clarence van Riet*,**,**
+28,2634,*Lowe, Clarence van Riet*,**,**
+28,2635,*Lowe, E. E.*,**,**
+28,2637,*Lowe, Percy Roycroft*,**,**
+28,2638,*Lowe, Percy Roycroft*,**,**
+28,2639,*Lowe, Percy Roycroft*,**,**
+28,2640,*Lowe, Percy Roycroft*,**,**
+28,2641,*Lowe, Percy Roycroft*,**,**
+28,2642,*Lowe, Percy Roycroft*,**,**
+28,2643,*Lowe, Percy Roycroft*,**,**
+28,2644,*Lowe, P. R.*,**,**
+28,2644,*Bate, D. M. A.*,**,**
+28,2645,*Lozano, Enrique Diaz*,**,**
+28,2647,*Lubosch, Wilhelm*,**,**
+28,2648,*Lucas, Frederic Augustus*,**,**
+28,2649,*Lucas, Frederic Augustus*,**,**
+28,2650,*Lull, Richard Swann*,**,**
+28,2651,*Lull, Richard Swann*,**,**
+28,2652,*Lull, Richard Swann*,**,**
+28,2653,*Lull, Richard Swann*,**,**
+28,2654,*Lull, Richard Swann*,**,**
+28,2655,*Lull, Richard Swann*,**,**
+28,2656,*Lull, Richard Swann*,**,**
+28,2657,*Lull, Richard Swann*,**,**
+28,2658,*Lull, Richard Swann*,**,**
+28,2659,*Lull, Richard Swann*,**,**
+28,2660,*Lull, Richard Swann*,**,**
+28,2661,*Lull, Richard Swann*,**,**
+28,2662,*Lull, Richard Swann*,**,**
+28,2663,*Lull, Richard Swann*,**,**
+28,2664,*Lull, Richard Swann*,**,**
+28,2665,*Lull, Richard Swann*,**,**
+28,2666,*Lull, Richard Swann*,**,**
+28,2667,*Lull, Richard Swann*,**,**
+28,2668,*Lull, Richard Swann*,**,**
+28,2669,*Lull, Richard Swann*,**,**
+28,2670,*Lull, Richard Swann*,**,**
+28,2671,*Luquet, Georges Henri*,**,**
+28,2672,*Luquet, Georges Henri*,**,**
+28,2673,*Lutkevich, E.*,**,**
+28,2674,*Lynn, William Gardner*,**,**
+28,2675,*Lyon, Marcus Ward, Jr.*,**,**
+28,2676,*Lyon, Marcus Ward, Jr.*,**,**
+28,2677,*Macarovici, Niculai Gh.*,**,**
+28,2678,*MacBride, E. W.*,**,**
+28,2679,*MacBride, E. W.*,**,**
+28,2680,*MacBride, E. W.*,**,**
+28,2681,*MacBride, E. W.*,**,**
+28,2682,*McCabe, Joseph*,**,**
+28,2683,*McCartney, Garnet Chester*,**,**
+28,2684,*McClellan, William H.*,**,**
+28,2685,*McClung, Clarence Erwin*,**,**
+28,2686,*McCown, Theodore Doney*,**,**
+28,2687,*McCown, Theodore Doney*,**,**
+28,2688,*McCown, Theodore Doney*,**,**
+28,2689,*McCown, T.*,**,**
+28,2689,*Keith, Sir A.*,**,**
+28,2690,*McCreery, James L.*,**,**
+28,2691,*MacCurdy, George Grant*,**,**
+28,2692,*MacCurdy, George Grant*,**,**
+28,2693,*MacCurdy, George Grant*,**,**
+28,2694,*MacCurdy, George Grant*,**,**
+28,2695,*MacCurdy, George Grant*,**,**
+28,2696,*MacCurdy, George Grant*,**,**
+28,2697,*MacCurdy, George Grant*,**,**
+28,2698,*MacCurdy, George Grant*,**,**
+28,2699,*MacCurdy, George Grant*,**,**
+28,2700,*MacCurdy, George Grant*,**,**
+28,2701,*MacCurdy, George Grant*,**,**
+28,2702,*McDougall, William*,**,**
+28,2703,*McDowall, S. A.*,**,**
+28,2704,*Macfarlane, John Muirhead*,**,**
+28,2705,*Macfarlane, John Muirhead*,**,**
+28,2706,*McGregor, James Howard*,**,**
+28,2707,*McGuire, I.*,**,**
+28,2708,*McKee, Edwin Dinwiddie*,**,**
+28,2709,*MacKenzie, D. A.*,**,**
+28,2710,*McLearn, Frank Harris*,**,**
+28,2711,*McLearn, Frank Harris*,**,**
+28,2712,*McSpadden, J. Walker*,**,**
+28,2713,*MacTaggart, Malcolm*,**,**
+28,2714,*McWilliams, Stewart A.*,**,**
+28,2715,*Magnan, A.*,**,**
+28,2715,*Sainte-Lague%F, A.*,**,**
+28,2716,*Magne de la Croix, P.*,**,**
+28,2717,*Magnol, A.*,**,**
+28,2718,*Maier, Istvan*,*= Stephan Maier von Mayerfels = Mayerfesi Ist*,**
+28,2719,*Maier, Istvan*,*= Stephan Maier von Mayerfels = Mayerfesi Ist*,**
+28,2720,*Maier, Istvan*,*= Stephan Maier von Mayerfels = Mayerfesi Ist*,**
+28,2721,*Maillieux, Eugene*,**,**
+28,2722,*Maillieux, E.*,**,**
+28,2722,*Demanet, F.*,**,**
+28,2723,*Malcolm, L. W. G.*,**,**
+28,2724,*Man, Ludovic McL.*,**,**
+28,2725,*Marchand, Henri Francois Andre%A*,**,**
+28,2726,*Marchand, H.*,**,**
+28,2726,*Ayme%A, A.*,**,**
+28,2727,*Marcus, H.*,**,**
+28,2728,*Marcus, H.*,**,**
+28,2728,*Winsauer, O.*,**,**
+28,2728,*Hueber, A.*,**,**
+28,2729,*Marinelli, Wilhelm*,**,**
+28,2730,*Marinelli, Wilhelm*,**,**
+28,2731,*Marinelli, Wilhelm*,**,**
+28,2732,*Markus, M. B.*,**,**
+28,2733,*Marlie%Cre, Rene%A*,**,**
+28,2734,*Marlie%Cre, Rene%A*,**,**
+28,2735,*Marlie%Cre, Rene%A*,**,**
+28,2736,*Marro, Giovanni*,**,**
+28,2737,*Marshall, Eli Kennerly, Jr.*,**,**
+28,2737,*Smith, Homer W.*,**,**
+28,2738,*Martin, George Curtis*,**,**
+28,2739,*Martin, Harold*,**,**
+28,2740,*Martin, Harold*,**,**
+28,2741,*Martin, Henri*,**,**
+28,2742,*Martin, Henri*,**,**
+28,2743,*Martin, Henri*,**,**
+28,2744,*Martin, Henri*,**,**
+28,2745,*Martin, Rudolf*,**,**
+28,2746,*Marwick, J.*,**,**
+28,2747,*Maschke*,**,**
+28,2748,*Mason, Frances*,**,**
+28,2749,*Massari, Claudia*,**,**
+28,2750,*Massari, Claudia*,**,**
+28,2751,*Massingham, H. J.*,**,**
+28,2752,*Mathieu, M. Gilbert*,**,**
+28,2753,*Matiegka, J.*,*= H?*,**
+28,2754,*Matiegka, J.*,*= H?*,**
+28,2755,*Matley, Charles A.*,**,**
+28,2756,*Matley, Charles A.*,**,**
+28,2757,*Matley, Charles A.*,**,**
+28,2758,*Matsumoto, Hikoshichiro*,**,**
+28,2759,*Matsumoto, Hikoshichiro*,**,**
+28,2760,*Matsumoto, Hikoshichiro*,**,**
+28,2761,*Matsumoto, Hikoshichiro*,**,**
+28,2762,*Matsumoto, Hikoshichiro*,**,**
+28,2763,*Matsumoto, Hikoshichiro*,**,**
+28,2764,*Matsumoto, Hikoshichiro*,**,**
+28,2765,*Matsumoto, Hikoshichiro*,**,**
+28,2766,*Matsumoto, Hikoshichiro*,**,**
+28,2767,*Matsumoto, Hikoshichiro*,**,**
+28,2768,*Matsumoto, Hikoshichiro*,**,**
+28,2769,*Matsumoto, Hikoshichiro*,**,**
+28,2770,*Matsumura, Akira*,**,**
+28,2771,*Mattheus, Schuster*,**,**
+28,2772,*Matthew, William Diller*,**,**
+28,2773,*Matthew, William Diller*,**,**
+28,2774,*Matthew, William Diller*,**,**
+28,2775,*Matthew, William Diller*,**,**
+28,2776,*Matthew, William Diller*,**,**
+28,2777,*Matthew, William Diller*,**,**
+28,2778,*Matthew, William Diller*,**,**
+28,2779,*Matthew, William Diller*,**,**
+28,2780,*Matthew, William Diller*,**,**
+28,2781,*Matthew, William Diller*,**,**
+28,2782,*Matthew, William Diller*,**,**
+28,2783,*Matthew, William Diller*,**,**
+28,2784,*Matthew, William Diller*,**,**
+28,2785,*Matthew, William Diller*,**,**
+28,2786,*Matthew, William Diller*,**,**
+28,2787,*Matthew, William Diller*,**,**
+28,2788,*Matthew, William Diller*,**,**
+28,2789,*Matthew, William Diller*,**,**
+28,2790,*Matthew, William Diller*,**,**
+28,2791,*Matthew, William Diller*,**,**
+28,2792,*Matthew, William Diller*,**,**
+28,2793,*Matthew, William Diller*,**,**
+28,2794,*Matthew, William Diller*,**,**
+28,2795,*Matthew, William Diller*,**,**
+28,2796,*Matthew, William Diller*,**,**
+28,2797,*Matthew, William Diller*,**,**
+28,2798,*Matthew, William Diller*,**,**
+28,2799,*Matthew, William Diller*,**,**
+28,2800,*Matthew, William Diller*,**,**
+28,2801,*Matthew, William Diller*,**,**
+28,2802,*Matthew, William Diller*,**,**
+28,2803,*Matthew, William Diller*,**,**
+28,2804,*Matthew, William Diller*,**,**
+28,2805,*Matthew, William Diller*,**,**
+28,2806,*Matthew, William Diller*,**,**
+28,2807,*Matthew, William Diller*,**,**
+28,2808,*Matthew, W. D.*,**,**
+28,2808,*Granger, W.*,**,**
+28,2808,*Simpson, G. G.*,**,**
+28,2809,*Matthew, W. D.*,**,**
+28,2809,*Mook, C. C.*,**,**
+28,2810,*Matthew, W. D.*,**,**
+28,2810,*Siegfriedt, J. C. F.*,**,**
+28,2811,*Matthew, W. D.*,**,**
+28,2811,*Stirton, R. A.*,**,**
+28,2812,*Matthew, W. D.*,**,**
+28,2812,*Stirton, R. A.*,**,**
+28,2813,*Ma%Atya%As, Jeno%F*,**,**
+28,2814,*Ma%Atya%As, J.*,**,**
+28,2814,*Miha%Aly, S.*,**,**
+28,2815,*Ma%Atya%As, J.*,**,**
+28,2815,*Stiller, J.*,**,**
+28,2816,*Maurer, Friedrich*,**,**
+28,2817,*Maurer, Friedrich*,**,**
+28,2818,*Maury, Carlotta J.*,**,**
+28,2819,*Maxson, John Haviland*,**,**
+28,2820,*May, Raoul M.*,**,**
+28,2821,*Mazenot, Georges*,**,**
+28,2822,*Mehl, Maurice Goldsmith*,**,**
+28,2823,*Mehl, Maurice Goldsmith*,**,**
+28,2824,*Mehl, Maurice Goldsmith*,**,**
+28,2825,*Mehl, Maurice Goldsmith*,**,**
+28,2826,*Mehl, Maurice Goldsmith*,**,**
+28,2827,*Meier, William Herman Diedrich*,**,**
+28,2827,*Meier, L.*,**,**
+28,2828,*Meisel, Max*,**,**
+28,2830,*Melichar, Joseph*,**,**
+28,2831,*Melmore, Sidney*,**,**
+28,2832,*Melmore, Sidney*,**,**
+28,2833,*Mendes-Corre%Da, Antonio Augusto Esteves*,**,**
+28,2834,*Mendes-Corre%Da, Antonio Augusto Esteves*,**,**
+28,2835,*Menge, Edward John von Komorowski*,**,**
+28,2836,*Menghin, Oswald*,**,**
+28,2837,*Mennell, Frederic Philip*,**,**
+28,2838,*Menner, V. V.*,*= Vladimir Vasiliyavich*,**
+28,2839,*Menner, V. V.*,*= Vladimir Vasiliyavich*,**
+28,2840,*Menzbier, M.*,*= Menzbir, Mickhail Aleksandivich*,**
+28,2841,*Menzbier, M.*,*= Menzbir, Mickhail Aleksandivich*,**
+28,2842,*Menzel, Paul*,**,**
+28,2842,*Weiler, W.*,**,**
+28,2842,*Krejci-Graf, K.*,**,**
+28,2843,*Mercier, Jean*,**,**
+28,2844,*Merriam, Charles Warren*,**,**
+28,2845,*Merriam, John Campbell*,**,**
+28,2846,*Merriam, John Campbell*,**,**
+28,2847,*Merriam, John Campbell*,**,**
+28,2848,*Merriam, John Campbell*,**,**
+28,2849,*Merriam, John Campbell*,**,**
+28,2850,*Merriam, John Campbell*,**,**
+28,2851,*Merriam, John Campbell*,**,**
+28,2852,*Merriam, John Campbell*,**,**
+28,2853,*Merriam, John Campbell*,**,**
+28,2854,*Merriam, John Campbell*,**,**
+28,2855,*Merriam, J. C.*,**,**
+28,2855,*associates*,**,**
+28,2856,*Merriam, J. C., et al.*,**,**
+28,2857,*Merriam, J. C., et al.*,**,**
+28,2858,*Merriam, J. C.*,**,**
+28,2858,*Stock, C.*,**,**
+28,2859,*Merriam, J. C.*,**,**
+28,2859,*Stock, C.*,**,**
+28,2860,*Merrill, Melvin Clarence*,**,**
+28,2861,*Mertens, A.*,**,**
+28,2862,*Mertens, A.*,**,**
+28,2863,*Meserve, Frank G.*,**,**
+28,2864,*Messenger, Ernest C.*,**,**
+28,2865,*Metcalf, Maynard Mayo*,**,**
+28,2866,*Michael, Paul*,**,**
+28,2867,*Michaelis, Lorenz*,**,**
+28,2868,*Mieli, Aldo*,**,**
+28,2869,*Mieli, Aldo*,**,**
+28,2870,*Miers, Henry*,**,**
+28,2871,*Miethe, A.*,**,**
+28,2871,*Born, A.*,**,**
+28,2872,*Migeod, F. W. H.*,**,**
+28,2873,*Migeod, F. W. H.*,**,**
+28,2874,*Migeod, F. W. H.*,**,**
+28,2875,*Migeod, F. W. H.*,**,**
+28,2876,*Mijsberg, W. A.*,**,**
+28,2877,*Mijsberg, W. A.*,**,**
+28,2878,*Mijsberg, W. A.*,**,**
+28,2879,*Miller, Agnes E.*,**,**
+28,2880,*Miller, Alden Holmes*,**,**
+28,2881,*Miller, Alden Holmes*,**,**
+28,2882,*Miller, Alden Holmes*,**,**
+28,2883,*Miller, Alden Holmes*,**,**
+28,2884,*Miller, Alden Holmes*,**,**
+28,2885,*Miller, Arthur McQ.*,**,**
+28,2886,*Miller, Arthur McQ.*,**,**
+28,2887,*Miller, Arthur McQ.*,**,**
+28,2888,*Miller, Arthur McQ.*,**,**
+28,2889,*Miller, Arthur McQ.*,**,**
+28,2890,*Miller, Gerrit Smith, Jr.*,**,**
+28,2891,*Miller, Gerrit Smith, Jr.*,**,**
+28,2892,*Miller, Gerrit Smith, Jr.*,**,**
+28,2893,*Miller, Gerrit Smith, Jr.*,**,**
+28,2894,*Miller, Loye Holmes*,**,**
+28,2895,*Miller, Loye Holmes*,**,**
+28,2896,*Miller, Loye Holmes*,**,**
+28,2897,*Miller, Loye Holmes*,**,**
+28,2898,*Miller, Loye Holmes*,**,**
+28,2899,*Miller, Loye Holmes*,**,**
+28,2900,*Miller, Loye Holmes*,**,**
+28,2901,*Miller, Loye Holmes*,**,**
+28,2902,*Miller, Loye Holmes*,**,**
+28,2903,*Miller, Loye Holmes*,**,**
+28,2904,*Miller, Loye Holmes*,**,**
+28,2905,*Miller, Loye Holmes*,**,**
+28,2906,*Miller, Loye Holmes*,**,**
+28,2907,*Miller, Loye Holmes*,**,**
+28,2908,*Miller, Ruth A.*,**,**
+28,2909,*Miller, W. Maskelyne*,**,**
+28,2910,*Milojevic%J, P. Sreten*,**,**
+28,2911,*Milon, Yves*,**,**
+28,2912,*Mitchell, Peter Chalmers*,**,**
+28,2913,*Mitchell, Robert Hamilton*,**,**
+28,2914,*Mitchell, Robert Hamilton*,**,**
+28,2915,*Mochi, Aldobrandino*,**,**
+28,2916,*Mochi, Aldobrandino*,**,**
+28,2917,*Mochi, Aldobrandino*,**,**
+28,2918,*Mochi, Aldobrandino*,**,**
+28,2919,*Mochi, Aldobrandino*,**,**
+28,2920,*Mohr, Erna*,**,**
+28,2921,*Moir, James Reid*,**,**
+28,2922,*Moir, James Reid*,**,**
+28,2923,*Moir, James Reid*,**,**
+28,2924,*Moir, James Reid*,**,**
+28,2925,*Moir, James Reid*,**,**
+28,2926,*Moir, James Reid*,**,**
+28,2927,*Mollison, Th.*,**,**
+28,2928,*Mollison, Th.*,**,**
+28,2929,*Mollison, Th.*,**,**
+28,2930,*Mollison, Th.*,**,**
+28,2931,*Moltoni, Edgardo*,**,**
+28,2932,*Monestier, Joseph*,**,**
+28,2933,*Monheimer, B.*,**,**
+28,2934,*Montandon, Georges*,**,**
+28,2935,*Montandon, Georges*,**,**
+28,2936,*Montandon, Georges*,**,**
+28,2937,*Montandon, Georges*,**,**
+28,2938,*Montandon, Georges*,**,**
+28,2939,*Montandon, Georges*,**,**
+28,2940,*Montandon, Raoul*,**,**
+28,2941,*Monterin, Umberto*,**,**
+28,2942,*Moodie, Roy Lee*,**,**
+28,2943,*Moodie, Roy Lee*,**,**
+28,2944,*Moodie, Roy Lee*,**,**
+28,2945,*Moodie, Roy Lee*,**,**
+28,2946,*Moodie, Roy Lee*,**,**
+28,2947,*Moodie, Roy Lee*,**,**
+28,2948,*Moodie, Roy Lee*,**,**
+28,2949,*Moodie, Roy Lee*,**,**
+28,2950,*Moodie, Roy Lee*,**,**
+28,2951,*Moodie, Roy Lee*,**,**
+28,2952,*Moodie, Roy Lee*,**,**
+28,2953,*Moodie, Roy Lee*,**,**
+28,2954,*Moodie, Roy Lee*,**,**
+28,2955,*Moodie, Roy Lee*,**,**
+28,2956,*Moodie, Roy Lee*,**,**
+28,2957,*Moodie, Roy Lee*,**,**
+28,2958,*Moodie, Roy Lee*,**,**
+28,2959,*Moodie, Roy Lee*,**,**
+28,2960,*Moodie, Roy Lee*,**,**
+28,2961,*Moodie, Roy Lee*,**,**
+28,2962,*Moodie, Roy Lee*,**,**
+28,2963,*Moodie, Roy Lee*,**,**
+28,2964,*Moodie, Roy Lee*,**,**
+28,2965,*Moodie, Roy Lee*,**,**
+28,2966,*Moodie, Roy Lee*,**,**
+28,2967,*Moodie, Roy Lee*,**,**
+28,2968,*Moodie, Roy Lee*,**,**
+28,2969,*Moodie, Roy Lee*,**,**
+28,2970,*Moodie, Roy Lee*,**,**
+28,2971,*Mook, Charles Craig*,**,**
+28,2972,*Mook, Charles Craig*,**,**
+28,2973,*Mook, Charles Craig*,**,**
+28,2974,*Mook, Charles Craig*,**,**
+28,2975,*Mook, Charles Craig*,**,**
+28,2976,*Mook, Charles Craig*,**,**
+28,2977,*Mook, Charles Craig*,**,**
+28,2978,*Mook, Charles Craig*,**,**
+28,2979,*Mook, Charles Craig*,**,**
+28,2980,*Mook, Charles Craig*,**,**
+28,2981,*Moore, Nathan Grier*,**,**
+28,2982,*Moore, Raymond Cecil*,**,**
+28,2983,*Moore, Raymond Cecil*,**,**
+28,2984,*Moore, Raymond Cecil*,**,**
+28,2985,*Morant, G. M.*,**,**
+28,2986,*Morant, G. M.*,**,**
+28,2987,*Moreau, R. E.*,**,**
+28,2988,*Morgan, Thomas Hunt*,**,**
+28,2989,*Morosan, Nicolai N.*,**,**
+28,2990,*Morosan, Nicolai N.*,**,**
+28,2991,*Mottl, Maria*,**,**
+28,2992,*Mottl, Maria*,**,**
+28,2993,*Moy-Thomas, J. A.*,**,**
+28,2994,*Moy-Thomas, J. A.*,**,**
+28,2995,*Mu%Fller, Leopold*,**,**
+28,2996,*Mu%Fllerried, Frederico K. G.*,**,**
+28,2997,*Mu%Fllerried, Frederico K. G.*,**,**
+28,2998,*Mu%Fllerried, Frederico K. G.*,**,**
+28,2999,*Mu%Fllerried, Frederico K. G.*,**,**
+28,3000,*Munthe, Henry*,**,**
+28,3001,*Munthe, Henry*,**,**
+28,3002,*Murphy, Robert Cushman*,**,**
+28,3003,*Mushketov, Dmitri I.*,*Dmitriy Ivenovich*,**
+28,3004,*N., D.*,**,**
+28,3005,*N., D.*,**,**
+28,3006,*Nabours, Robert Kirkland*,**,**
+28,3007,*Naef, Adolf*,**,**
+28,3008,*Naef, Adolf*,**,**
+28,3009,*Naef, Adolf*,**,**
+28,3010,*Naef, Adolf*,**,**
+28,3011,*Naef, Adolf*,**,**
+28,3012,*Nafiz, Hamit*,**,**
+28,3012,*Malik, A.*,**,**
+28,3013,*Nagao, Takumi*,**,**
+28,3014,*Nagasawa, Jo%Dji*,**,**
+28,3015,*Nagasawa, Jo%Dji*,**,**
+28,3016,*Nagasawa, Jo%Dji*,**,**
+28,3017,*Nagasawa, Jo%Dji*,**,**
+28,3018,*Nagasawa, Jo%Dji*,**,**
+28,3021,*Nagasawa, Jo%Dji*,**,**
+28,3022,*Nagasawa, Jo%Dji*,**,**
+28,3023,*Nagy, Eugen*,**,**
+28,3024,*Nauck, E. T.*,**,**
+28,3025,*Nauck, E. T.*,**,**
+28,3026,*Naumann, E.*,**,**
+28,3027,*Naumberg, Elsie Margaret Binger*,**,**
+28,3028,*Neaverson, Ernest*,**,**
+28,3029,*Neaverson, Ernest*,**,**
+28,3030,*Negri, Giovanni*,**,**
+28,3031,*Nelson, Nels Christian*,**,**
+28,3032,*Nelson, Nels Christian*,**,**
+28,3033,*Nelson, Nels Christian*,**,**
+28,3034,*Neuberg, A.*,**,**
+28,3035,*Neumayer, L.*,**,**
+28,3036,*Neuville, Henri*,**,**
+28,3037,*Neuville, Henri*,**,**
+28,3038,*Neuville, Henri*,**,**
+28,3039,*Newman, Horatio Hackett*,**,**
+28,3040,*Newman, Horatio Hackett*,**,**
+28,3041,*Newman, Horatio Hackett*,**,**
+28,3042,*Newman, Horatio Hackett*,**,**
+28,3043,*Nichols, Henry Windsor*,**,**
+28,3043,*Orr, P. C.*,**,**
+28,3044,*Nichols, John Treadwell*,**,**
+28,3045,*Nickles, John M.*,**,**
+28,3046,*Nickles, John M.*,**,**
+28,3047,*Nickles, John M.*,**,**
+28,3048,*Nicolas, Frank*,**,**
+28,3049,*Nielsen, Eigil*,**,**
+28,3050,*Niezabitowski, Edward Lubicz*,**,**
+28,3051,*Niezabitowski, Edward Lubicz*,**,**
+28,3052,*Nininger, Harvey Harlow*,**,**
+28,3053,*Nitsche, Max*,**,**
+28,3054,*Noble, Gladwyn Kingsley*,**,**
+28,3055,*Noble, Gladwyn Kingsley*,**,**
+28,3056,*Noble, Gladwyn Kingsley*,**,**
+28,3057,*Noble, Gladwyn Kingsley*,**,**
+28,3058,*Noir, J.*,**,**
+28,3059,*Nomland, Gladys Ayer*,**,**
+28,3060,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3061,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3062,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3063,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3064,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3065,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3066,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3067,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3068,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3069,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3070,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3071,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3072,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3073,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3074,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3075,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3076,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3077,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3078,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3079,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3081,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3082,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3083,*Nopcsa, Ferenc*,*= Baron Franz Nopcsa = Francis Baron Nopcsa =*,**
+28,3084,*Nordenskio%Fld, Erik*,**,**
+28,3085,*Nordmann, Valdemar*,**,**
+28,3086,*Nordmann, V.*,**,**
+28,3086,*Degerbo%Sl, M.*,**,**
+28,3087,*Norman, J. R.*,**,**
+28,3088,*North, Frederick J.*,**,**
+28,3089,*North, Frederick J.*,**,**
+28,3090,*Noszky, Eugen*,**,**
+28,3091,*Nowak, Jan*,**,**
+28,3091,*Panow, E.*,**,**
+28,3091,*Tokarski, J.*,**,**
+28,3091,*Szafer, W.*,**,**
+28,3091,*Stach, J.*,**,**
+28,3092,*Nowikoff, M.*,**,**
+28,3093,*Nu%Frnberger, Ludwig*,**,**
+28,3094,*Obermaier, Hugo*,**,**
+28,3095,*Obermaier, Hugo*,**,**
+28,3096,*Obermaier, Hugo*,**,**
+28,3097,*Obermaier, Hugo*,**,**
+28,3098,*Obermaier, Hugo*,**,**
+28,3099,*Obermaier, Hugo*,**,**
+28,3100,*Obermaier, Hugo*,**,**
+28,3101,*Obermaier, Hugo*,**,**
+28,3102,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3103,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3104,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3105,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3106,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3107,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3108,*Obrutschew, D. M.*,*=Obrutschev*,**
+28,3109,*O'Donoghue*,**,**
+28,3109,*Charles Henry*,**,**
+28,3110,*Oertle, G. F.*,**,**
+28,3111,*Oertle, G. F.*,**,**
+28,3112,*O'Harra, Cleophas Cisney*,**,**
+28,3113,*O'Harra, Cleophas Cisney*,**,**
+28,3114,*Ohaus, F.*,**,**
+28,3115,*Oliveira, Euzebio Paulo de*,**,**
+28,3116,*Oliveira, Euzebio Paulo de*,**,**
+28,3117,*Oliveira, Euzebio Paulo de*,**,**
+28,3118,*Oliver, W. R. B.*,**,**
+28,3119,*Oppenheimer, Josef*,**,**
+28,3120,*Oppenoorth, William F. F.*,**,**
+28,3121,*Oppenoorth, William F. F.*,**,**
+28,3122,*Oppenoorth, William F. F.*,**,**
+28,3123,*Oppenoorth, William F. F.*,**,**
+28,3124,*Opitz, R.*,**,**
+28,3125,*Orlov, J. A.*,**,**
+28,3126,*Orlov, J. A.*,**,**
+28,3127,*Orlov, J. A.*,**,**
+28,3128,*Orlov, J. A.*,**,**
+28,3129,*Orlov, J. A.*,**,**
+28,3130,*Orlov, J. A.*,**,**
+28,3131,*Orlov, J. A.*,**,**
+28,3132,*Orlov, J. A.*,**,**
+28,3133,*Orlov, J. A.*,**,**
+28,3134,*Osborn, Henry Fairfield*,**,**
+28,3135,*Osborn, Henry Fairfield*,**,**
+28,3136,*Osborn, Henry Fairfield*,**,**
+28,3137,*Osborn, Henry Fairfield*,**,**
+28,3138,*Osborn, Henry Fairfield*,**,**
+28,3139,*Osborn, Henry Fairfield*,**,**
+28,3140,*Osborn, Henry Fairfield*,**,**
+28,3141,*Osborn, Henry Fairfield*,**,**
+28,3142,*Osborn, Henry Fairfield*,**,**
+28,3143,*Osborn, Henry Fairfield*,**,**
+28,3144,*Osborn, Henry Fairfield*,**,**
+28,3145,*Osborn, Henry Fairfield*,**,**
+28,3146,*Osborn, Henry Fairfield*,**,**
+28,3147,*Osborn, Henry Fairfield*,**,**
+28,3148,*Osborn, Henry Fairfield*,**,**
+28,3149,*Osborn, Henry Fairfield*,**,**
+28,3150,*Osborn, Henry Fairfield*,**,**
+28,3151,*Osborn, Henry Fairfield*,**,**
+28,3152,*Osborn, Henry Fairfield*,**,**
+28,3153,*Osborn, Henry Fairfield*,**,**
+28,3154,*Osborn, Henry Fairfield*,**,**
+28,3155,*Osborn, Henry Fairfield*,**,**
+28,3156,*Osborn, Henry Fairfield*,**,**
+28,3157,*Osborn, Henry Fairfield*,**,**
+28,3158,*Osborn, Henry Fairfield*,**,**
+28,3159,*Osborn, Henry Fairfield*,**,**
+28,3160,*Osborn, Henry Fairfield*,**,**
+28,3161,*Osborn, Henry Fairfield*,**,**
+28,3162,*Osborn, Henry Fairfield*,**,**
+28,3163,*Osborn, Henry Fairfield*,**,**
+28,3164,*Osborn, Henry Fairfield*,**,**
+28,3165,*Osborn, Henry Fairfield*,**,**
+28,3166,*Osborn, Henry Fairfield*,**,**
+28,3167,*Osborn, Henry Fairfield*,**,**
+28,3168,*Osborn, Henry Fairfield*,**,**
+28,3169,*Osborn, Henry Fairfield*,**,**
+28,3170,*Osborn, Henry Fairfield*,**,**
+28,3171,*Osborn, Henry Fairfield*,**,**
+28,3172,*Osborn, Henry Fairfield*,**,**
+28,3173,*Osborn, Henry Fairfield*,**,**
+28,3174,*Osborn, Henry Fairfield*,**,**
+28,3175,*Osborn, Henry Fairfield*,**,**
+28,3176,*Osborn, Henry Fairfield*,**,**
+28,3177,*Osborn, Henry Fairfield*,**,**
+28,3178,*Osborn, Henry Fairfield*,**,**
+28,3179,*Osborn, Henry Fairfield*,**,**
+28,3180,*Osborn, Henry Fairfield*,**,**
+28,3181,*Osborn, Henry Fairfield*,**,**
+28,3182,*Osborn, Henry Fairfield*,**,**
+28,3183,*Osborn, Henry Fairfield*,**,**
+28,3184,*Osborn, Henry Fairfield*,**,**
+28,3185,*Osborn, Henry Fairfield*,**,**
+28,3186,*Osborn, Henry Fairfield*,**,**
+28,3187,*Osborn, Henry Fairfield*,**,**
+28,3188,*Osborn, Henry Fairfield*,**,**
+28,3189,*Osborn, Henry Fairfield*,**,**
+28,3190,*Osborn, Henry Fairfield*,**,**
+28,3191,*Osborn, Henry Fairfield*,**,**
+28,3192,*Osborn, Henry Fairfield*,**,**
+28,3193,*Osborn, Henry Fairfield*,**,**
+28,3194,*Osborn, Henry Fairfield*,**,**
+28,3195,*Osborn, Henry Fairfield*,**,**
+28,3196,*Osborn, Henry Fairfield*,**,**
+28,3197,*Osborn, Henry Fairfield*,**,**
+28,3198,*Osborn, Henry Fairfield*,**,**
+28,3199,*Osborn, Henry Fairfield*,**,**
+28,3200,*Osborn, Henry Fairfield*,**,**
+28,3201,*Osborn, Henry Fairfield*,**,**
+28,3202,*Osborn, Henry Fairfield*,**,**
+28,3203,*Osborn, Henry Fairfield*,**,**
+28,3204,*Osborn, Henry Fairfield*,**,**
+28,3205,*Osborn, Henry Fairfield*,**,**
+28,3206,*Osborn, Henry Fairfield*,**,**
+28,3207,*Osborn, Henry Fairfield*,**,**
+28,3208,*Osborn, Henry Fairfield*,**,**
+28,3209,*Osborn, Henry Fairfield*,**,**
+28,3210,*Osborn, Henry Fairfield*,**,**
+28,3211,*Osborn, Henry Fairfield*,**,**
+28,3212,*Osborn, Henry Fairfield*,**,**
+28,3213,*Osborn, Henry Fairfield*,**,**
+28,3214,*Osborn, Henry Fairfield*,**,**
+28,3215,*Osborn, H. F., [et al.]*,**,**
+28,3216,*Osborn, H. F.*,**,**
+28,3216,*Bidder, G. P.*,**,**
+28,3216,*M'Intosh*,**,**
+28,3217,*Osborn, H. F.*,**,**
+28,3217,*Colbert, E. H.*,**,**
+28,3218,*Osborn, H. F.*,**,**
+28,3218,*Granger, W.*,**,**
+28,3219,*Osborn, H. F.*,**,**
+28,3219,*Granger, W.*,**,**
+28,3220,*Osborn, H. F.*,**,**
+28,3220,*Granger, W.*,**,**
+28,3221,*Osborn, H. F.*,**,**
+28,3221,*Granger, W.*,**,**
+28,3222,*Osborn, H. F.*,**,**
+28,3222,*Gregory, W. K.*,**,**
+28,3223,*Osborn, H. F.*,**,**
+28,3223,*Matthew, W. D.*,**,**
+28,3224,*Osgood, Wilfred Hudson*,**,**
+28,3225,*Osler, William*,**,**
+28,3226,*Osswald, Kurt*,**,**
+28,3227,*Osswald, Kurt*,**,**
+28,3228,*Pales, Le%Aon*,**,**
+28,3229,*Pales, Le%Aon*,**,**
+28,3230,*Pales, Le%Aon*,**,**
+28,3231,*Pales, Le%Aon*,**,**
+28,3232,*Pales, Le%Aon*,**,**
+28,3233,*Pales, Le%Aon*,**,**
+28,3234,*Pales, Le%Aon*,**,**
+28,3235,*Pales, Le%Aon*,**,**
+28,3236,*Pales, Le%Aon*,**,**
+28,3237,*Palmer, E. G.*,**,**
+28,3238,*Palmer, Ephraim Laurence*,**,**
+28,3239,*Palmer, L. S.*,**,**
+28,3240,*Palmer, L. S.*,**,**
+28,3240,*Hinton, M. A. C.*,**,**
+28,3241,*Palmer, Theodore Sherman*,**,**
+28,3242,*Palmer, Theodore Sherman*,**,**
+28,3243,*Palmer, Theodore Sherman*,**,**
+28,3244,*Palmer, Theodore Sherman*,**,**
+28,3245,*Palmer, Theodore Sherman*,**,**
+28,3246,*Palmer, Theodore Sherman*,**,**
+28,3247,*Pan, Fernandez Ishmael del*,**,**
+28,3248,*P'an, M. T.*,**,**
+28,3249,*Parent, Henri*,**,**
+28,3250,*Parker, H. W.*,**,**
+28,3251,*Parker, H. W.*,**,**
+28,3252,*Parkinson, John*,**,**
+28,3253,*Parkinson, John*,**,**
+28,3254,*Parkinson, John*,**,**
+28,3255,*Parkinson, John*,**,**
+28,3256,*Parks, William Arthur*,**,**
+28,3257,*Parks, William Arthur*,**,**
+28,3258,*Parks, William Arthur*,**,**
+28,3259,*Parks, William Arthur*,**,**
+28,3260,*Parks, William Arthur*,**,**
+28,3261,*Parks, William Arthur*,**,**
+28,3262,*Parks, William Arthur*,**,**
+28,3263,*Parks, William Arthur*,**,**
+28,3264,*Parks, William Arthur*,**,**
+28,3265,*Parks, William Arthur*,**,**
+28,3266,*Parks, William Arthur*,**,**
+28,3267,*Parks, William Arthur*,**,**
+28,3268,*Parodi, Lorenzo J.*,**,**
+28,3269,*Parodi, Lorenzo J.*,**,**
+28,3270,*Parodi, Rodolpho*,**,**
+28,3271,*Parona, Carlo Fabrizio*,**,**
+28,3272,*Parrington, F. R.*,**,**
+28,3273,*Parry, R. F.*,**,**
+28,3274,*Patane%A, G. Maugeri*,**,**
+28,3275,*Patrini, P.*,**,**
+28,3276,*Patte, Etienne*,**,**
+28,3277,*Patte, Etienne*,**,**
+28,3278,*Patte, Etienne*,**,**
+28,3279,*Patten, William*,**,**
+28,3280,*Patten, William*,**,**
+28,3281,*Patten, William*,**,**
+28,3282,*Patten, William*,**,**
+28,3283,*Patten, William*,**,**
+28,3284,*Patterson, Bryan*,**,**
+28,3285,*Patterson, Bryan*,**,**
+28,3286,*Patterson, Bryan*,**,**
+28,3287,*Patterson, Bryan*,**,**
+28,3288,*Patty, Ernest Newton*,**,**
+28,3289,*Pauca%R, Mircea*,**,**
+28,3290,*Pauca%R, Mircea*,**,**
+28,3291,*Pauca%R, Mircea*,**,**
+28,3292,*Pauca%R, Mircea*,**,**
+28,3293,*Pauca%R, Mircea*,**,**
+28,3294,*Pauca%R, Mircea*,**,**
+28,3295,*Pauca%R, Mircea*,**,**
+28,3296,*Pavlow, A. P.*,**,**
+28,3297,*Pavlow, A. P.*,**,**
+28,3298,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3299,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3300,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3302,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3303,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3304,*Pavlow, Marie*,*= M. B. Pavlova*,**
+28,3305,*Pax, Ferdinand*,**,**
+28,3305,*Arndt, W.*,**,**
+28,3306,*Peabody, Charles*,**,**
+28,3307,*Peake, Harold*,**,**
+28,3307,*Fleure, H. J.*,**,**
+28,3308,*Pearl, Raymond*,**,**
+28,3309,*Pearse, Arthur Sperry*,**,**
+28,3309,*Hall, F. G.*,**,**
+28,3310,*Pearson, Helga S. [Mrs. H. S. Hacker]*,**,**
+28,3311,*Pearson, Helga S. [Mrs. H. S. Hacker]*,**,**
+28,3312,*Pearson, Helga S. [Mrs. H. S. Hacker]*,**,**
+28,3313,*Pearson, Helga S. [Mrs. H. S. Hacker]*,**,**
+28,3314,*Pei, Wen Chung*,**,**
+28,3315,*Pei, Wen Chung*,**,**
+28,3316,*Pei, Wen Chung*,**,**
+28,3317,*Pei, Wen Chung*,**,**
+28,3318,*Pei, Wen Chung*,**,**
+28,3319,*Pei, Wen Chung*,**,**
+28,3320,*Penrose, Richard Alexander Fullerton, Jr.*,**,**
+28,3321,*Perbal, Louis*,**,**
+28,3322,*Pe%Arez de Barradas, Jose*,**,**
+28,3323,*Pe%Arez de Barradas, Jose*,**,**
+28,3324,*Perrier, Edmond*,**,**
+28,3325,*Pe%Aterfi, Tibor*,**,**
+28,3326,*Peters, Tibor*,**,**
+28,3327,*Peters, E.*,**,**
+28,3328,*Peters, James Lee*,**,**
+28,3329,*Peters, Nicolaus*,**,**
+28,3330,*Petersen, Jes.*,**,**
+28,3331,*Peterson, Houston*,**,**
+28,3332,*Peterson, Olof August*,**,**
+28,3333,*Peterson, Olof August*,**,**
+28,3334,*Peterson, Olof August*,**,**
+28,3335,*Peterson, Olof August*,**,**
+28,3336,*Peterson, Olof August*,**,**
+28,3337,*Peterson, O. A.*,**,**
+28,3337,*Kay, J. L.*,**,**
+28,3338,*Petit, G.*,**,**
+28,3339,*Petrbok, Jar.*,**,**
+28,3340,*Petrbok, Jar.*,**,**
+28,3341,*Petrbok, Jar.*,**,**
+28,3342,*Petrbok, Jar.*,**,**
+28,3343,*Petrbok, Jar.*,**,**
+28,3344,*Petrbok, Jar.*,**,**
+28,3345,*Petrbok, Jar.*,**,**
+28,3346,*Petronievics, Branislav*,*= Petronievich*,**
+28,3347,*Petronievics, Branislav*,*= Petronievich*,**
+28,3348,*Petronievics, Branislav*,*= Petronievich*,**
+28,3349,*Petronievics, Branislav*,*= Petronievich*,**
+28,3350,*Petronievics, Branislav*,*= Petronievich*,**
+28,3351,*Peyer, Bernhard*,**,**
+28,3352,*Peyer, Bernhard*,**,**
+28,3353,*Peyer, Bernhard*,**,**
+28,3354,*Peyer, Bernhard*,**,**
+28,3355,*Peyer, Bernhard*,**,**
+28,3356,*Peyer, Bernhard*,**,**
+28,3357,*Peyer, Bernhard*,**,**
+28,3358,*Peyer, Bernhard*,**,**
+28,3359,*Peyer, Bernhard*,**,**
+28,3360,*Peyer, Bernhard*,**,**
+28,3361,*Peyer, Bernhard*,**,**
+28,3362,*Peyer, Bernhard*,**,**
+28,3363,*Peyer, Bernhard*,**,**
+28,3364,*Peyer, Bernhard*,**,**
+28,3365,*Peyer, Bernhard*,**,**
+28,3366,*Peyer, Bernhard*,**,**
+28,3367,*Peyer, Bernhard*,**,**
+28,3368,*Peyer, Bernhard*,**,**
+28,3369,*Peyer, Bernhard*,**,**
+28,3370,*Peyrony, D.*,**,**
+28,3371,*Peyrony, D.*,**,**
+28,3372,*Peyrony, Elie*,**,**
+28,3373,*Pfannenstiel, Max*,**,**
+28,3374,*Pfannenstiel, Max*,**,**
+28,3375,*Pfannenstiel, Max*,**,**
+28,3376,*Pfeffer, Georg*,**,**
+28,3377,*Pfizenmayer, E. W.*,**,**
+28,3378,*Pfizenmayer, E. W.*,**,**
+28,3379,*Phaup, A. E.*,**,**
+28,3380,*Pia, Julius*,**,**
+28,3381,*Pia, Julius*,**,**
+28,3382,*Pia, Julius*,**,**
+28,3383,*Pi%Acard, F.*,**,**
+28,3384,*Picova%A, Olga*,**,**
+28,3385,*Piiper, Johannes*,**,**
+28,3386,*Piiper, Johannes*,**,**
+28,3387,*Pike, Frank Henry*,**,**
+28,3388,*Pilgrim, Guy Ellcock*,**,**
+28,3389,*Pilgrim, Guy Ellcock*,**,**
+28,3390,*Pilgrim, Guy Ellcock*,**,**
+28,3391,*Pilgrim, Guy Ellcock*,**,**
+28,3392,*Pilgrim, Guy Ellcock*,**,**
+28,3393,*Pilgrim, G. E.*,**,**
+28,3393,*Aiyengar, N. K. N.*,*= Nagamangalam Kesava Narasimha*,**
+28,3394,*Pilgrim, G. E.*,**,**
+28,3394,*Hopwood, A. T.*,**,**
+28,3395,*Ping, Chi*,*= Py C. Ping*,**
+28,3396,*Ping, Chi*,*= Py C. Ping*,**
+28,3397,*Ping, Chi*,*= Py C. Ping*,**
+28,3398,*Ping, C.*,**,**
+28,3398,*Yen, T. C.*,**,**
+28,3399,*Pingch'ang, Sin*,**,**
+28,3400,*Piton, L.*,**,**
+28,3401,*Pittard, Euge%Cne Ami*,**,**
+28,3401,*Donici, A.*,**,**
+28,3402,*Piveteau, Jean*,**,**
+28,3403,*Piveteau, Jean*,**,**
+28,3404,*Piveteau, Jean*,**,**
+28,3405,*Piveteau, Jean*,**,**
+28,3406,*Piveteau, Jean*,**,**
+28,3407,*Piveteau, Jean*,**,**
+28,3408,*Piveteau, Jean*,**,**
+28,3409,*Piveteau, Jean*,**,**
+28,3410,*Piveteau, Jean*,**,**
+28,3411,*Piveteau, Jean*,**,**
+28,3412,*Piveteau, Jean*,**,**
+28,3413,*Piveteau, Jean*,**,**
+28,3414,*Plieninger, Felix*,**,**
+28,3415,*Plunkett, Charles Robert*,**,**
+28,3416,*Pocock, Reginald Innes*,**,**
+28,3417,*Pocock, Reginald Innes*,**,**
+28,3418,*Pohle, Hermann*,**,**
+28,3419,*Pohle, Hermann*,**,**
+28,3420,*Pohle, Hermann*,**,**
+28,3421,*Poile, Nestor*,**,**
+28,3422,*Poller, Alphons*,**,**
+28,3423,*Pompeckj, Josef Felix*,**,**
+28,3424,*Pompeckj, Josef Felix*,**,**
+28,3425,*Pongra%Acz, Sa%Andor*,*= Alexander*,**
+28,3426,*Pongra%Acz, Sa%Andor*,*= Alexander*,**
+28,3427,*Pongra%Acz, Sa%Andor*,*= Alexander*,**
+28,3428,*Pongra%Acz, Sa%Andor*,*= Alexander*,**
+28,3429,*Pontier, Georges*,**,**
+28,3430,*Pontier, Georges*,**,**
+28,3431,*Pontier, Georges*,**,**
+28,3432,*Pontier, Georges*,**,**
+28,3433,*Pontier, Georges*,**,**
+28,3434,*Pontier, Georges*,**,**
+28,3435,*Pontier, Georges*,**,**
+28,3436,*Pontier, Georges*,**,**
+28,3437,*Pontier, Georges*,**,**
+28,3438,*Pontier, Georges*,**,**
+28,3439,*Pontier, Georges*,**,**
+28,3440,*Pontier, Georges*,**,**
+28,3441,*Pontier, G.*,**,**
+28,3441,*Anthony, R.*,**,**
+28,3442,*Pontier, G.*,**,**
+28,3442,*Anthony, R.*,**,**
+28,3443,*Pontier, G.*,**,**
+28,3443,*Dubois, G.*,**,**
+28,3444,*Poole, Arthur J.*,**,**
+28,3445,*Poplewski, Roman*,**,**
+28,3446,*Poppelbaum, Hermann*,**,**
+28,3447,*Popping, H. J.*,**,**
+28,3448,*Portier, P.*,**,**
+28,3449,*Potonie%A, Robert*,**,**
+28,3450,*Poulton, Sir E. B.*,**,**
+28,3451,*Poulton, Sir E. B., et al.*,**,**
+28,3452,*Power, Francis William, S. J.*,**,**
+28,3453,*Pradenne, A. Vayson de*,**,**
+28,3454,*Praeger, R. Lloyd*,**,**
+28,3455,*Prantl, Ferdinand*,**,**
+28,3456,*Pratje, A.*,**,**
+28,3457,*Prenant, Marcel*,**,**
+28,3458,*Price, George McCready*,**,**
+28,3460,*Price, Paul Holland*,**,**
+28,3460,*Wells, D.*,**,**
+28,3461,*Procha%Azka, Jan Svatopluk*,**,**
+28,3462,*Proell, F.*,**,**
+28,3463,*Prokhorov, M. G.*,**,**
+28,3464,*Pruvost, Pierre*,**,**
+28,3465,*Pruvost, Pierre*,**,**
+28,3466,*Pruvost, Pierre*,**,**
+28,3467,*Puccioni, Nello*,**,**
+28,3468,*Puccioni, Nello*,**,**
+28,3469,*Puzanov, I. I.*,**,**
+28,3470,*Puzanov, I. I.*,**,**
+28,3471,*Pycraft, William Plane*,**,**
+28,3472,*Pycraft, William Plane*,**,**
+28,3473,*Pycraft, William Plane*,**,**
+28,3474,*Pycraft, William Plane*,**,**
+28,3475,*Pycraft, William Plane*,**,**
+28,3476,*Pycraft, William Plane*,**,**
+28,3477,*Pycraft, W. P.*,**,**
+28,3478,*Pycraft, W. P.*,**,**
+28,3478,*Smith, G. E.*,**,**
+28,3478,*Yearsley, M.*,**,**
+28,3478,*Carter, J. T.*,**,**
+28,3478,*Smith, R. A.*,**,**
+28,3478,*Hopwood, A. T.*,**,**
+28,3478,*Bate, D. M. A.*,**,**
+28,3478,*Swinton, W. E.*,**,**
+28,3480,*Quelle, F.*,**,**
+28,3481,*Quenstedt, Werner;*,**,**
+28,3481,*Frech, F.*,**,**
+28,3481,*Pompeckj, J. F.*,**,**
+28,3482,*Quenstedt, Werner;*,**,**
+28,3482,*Frech, F.*,**,**
+28,3482,*Pompeckj, J. F.*,**,**
+28,3483,*Quenstedt, Werner;*,**,**
+28,3483,*Frech, F.*,**,**
+28,3483,*Pompeckj, J. F.*,**,**
+28,3484,*Quenstedt, Werner;*,**,**
+28,3484,*Frech, F.*,**,**
+28,3484,*Pompeckj, J. F.*,**,**
+28,3485,*Quenstedt, Werner;*,**,**
+28,3485,*Frech, F.*,**,**
+28,3485,*Pompeckj, J. F.*,**,**
+28,3486,*Quenstedt, Werner;*,**,**
+28,3486,*Frech, F.*,**,**
+28,3486,*Pompeckj, J. F.*,**,**
+28,3487,*Quiring, Heinrich*,**,**
+28,3488,*R., J.*,**,**
+28,3489,*R., M.*,*= Martin Ramstrom?*,**
+28,3490,*Rabaud, Etienne*,**,**
+28,3491,*Radcliffe-Brown, A. R.*,**,**
+28,3492,*Rademacher, Carl*,**,**
+28,3493,*Ra%Adl, Emanuel*,**,**
+28,3493,*Hatfield, E. J.*,**,**
+28,3494,*Radley, E. G.*,**,**
+28,3495,*Radley, E. G.*,**,**
+28,3496,*Raistrick, A.*,**,**
+28,3497,*Rakovec, Ivan*,**,**
+28,3498,*Range, Paul*,**,**
+28,3499,*Rao, C. Rama Narayan*,**,**
+28,3500,*Rao, C. Rama Narayan*,**,**
+28,3501,*Rao, C. R. N.*,**,**
+28,3501,*Rao, L. R.*,**,**
+28,3502,*Rao, L. Rama*,**,**
+28,3503,*Rao, L. Rama*,**,**
+28,3504,*Rautenfeld, Paul von*,**,**
+28,3505,*Rauther, M.*,**,**
+28,3506,*Raven, Henry Cushier*,**,**
+28,3507,*Ray, Cyrus N.*,**,**
+28,3508,*Ray, Cyrus N.*,**,**
+28,3509,*Raymond, Percy Edward*,**,**
+28,3510,*Reagan, Albert B.*,**,**
+28,3511,*Reche, Otto*,**,**
+28,3512,*Reck, Hans*,**,**
+28,3513,*Reck, Hans*,**,**
+28,3514,*Reck, Hans*,**,**
+28,3515,*Reck, Hans*,**,**
+28,3516,*Reck, Hans*,**,**
+28,3517,*Reck, Hans*,**,**
+28,3518,*Reck, Hans*,**,**
+28,3519,*Reck, Hans*,**,**
+28,3520,*Reck, Hans*,**,**
+28,3521,*Reck, Hans*,**,**
+28,3522,*Reck, Hans*,**,**
+28,3523,*Reck, Hans*,**,**
+28,3524,*Reed, Frederick Richard Cowper*,**,**
+28,3525,*Reed, Frederick Richard Cowper*,**,**
+28,3526,*Reed, Frederick Richard Cowper*,**,**
+28,3527,*Reed, Lyman C.*,**,**
+28,3527,*Longnecker, O. M.*,**,**
+28,3528,*Reed, Ralph Daniel*,**,**
+28,3529,*Reed, Ralph Daniel*,**,**
+28,3530,*Reed, W. Maxwell*,**,**
+28,3531,*Reeside, John Bernard, Jr.*,**,**
+28,3532,*Reeside, John Bernard, Jr.*,**,**
+28,3533,*Reeside, John Bernard, Jr.*,**,**
+28,3534,*Regan, C. Tate*,**,**
+28,3535,*Regan, C. Tate*,**,**
+28,3536,*Regan, C. Tate*,**,**
+28,3537,*Regan, C. Tate*,**,**
+28,3538,*Regnault, Felix*,**,**
+28,3539,*Reichardt, Albert*,**,**
+28,3540,*Reid Moor, J.*,**,**
+28,3540,*Reimann, Irving G.*,**,**
+28,3541,*Reinhardt, Aloys*,**,**
+28,3542,*Rellini, Ugo*,**,**
+28,3543,*Rellini, Ugo*,**,**
+28,3544,*Remes%J, Mauric*,**,**
+28,3545,*Renaud, Etienne Bernardeau*,**,**
+28,3546,*Rensch, Bernard*,**,**
+28,3547,*Rensch, Bernard*,**,**
+28,3548,*Reverdin, L.*,**,**
+28,3549,*Revilliod, Pierre*,**,**
+28,3550,*Revilliod, Pierre*,**,**
+28,3551,*Reyes, A. E.*,**,**
+28,3552,*Reygasse, M.*,**,**
+28,3553,*Reynolds, Edward*,**,**
+28,3554,*Reynolds, Sidney Hugh*,**,**
+28,3555,*Reynolds, Thomas Emmett, S. J.*,**,**
+28,3556,*Rhumbler, Ludwig*,**,**
+28,3557,*Riabinin, A. N.*,**,**
+28,3558,*Riabinin, A. N.*,**,**
+28,3559,*Riabinin, A. N.*,**,**
+28,3560,*Riabinin, A. N.*,**,**
+28,3561,*Riabinin, A. N.*,**,**
+28,3562,*Riabinin, A. N.*,**,**
+28,3563,*Riabinin, A. N.*,**,**
+28,3564,*Riabinin, A. N.*,**,**
+28,3565,*Riabinin, A. N.*,**,**
+28,3566,*Riabinin, A. N.*,**,**
+28,3567,*Riabinin, A. N.*,**,**
+28,3568,*Riabinin, A. N.*,**,**
+28,3569,*Ribot, --.*,**,**
+28,3570,*Richard, Camillo*,**,**
+28,3571,*Richard, Marguerite*,**,**
+28,3572,*Richards, Horace Gardiner*,**,**
+28,3573,*Richarz, Stephen*,**,**
+28,3574,*Richarz, Stephen*,**,**
+28,3575,*Richet, Charles*,**,**
+28,3576,*Richter, Rudolph*,**,**
+28,3577,*Richter, Rudolph*,**,**
+28,3578,*Richter, Rudolph*,**,**
+28,3579,*Richter, Rudolph*,**,**
+28,3580,*Richter, Rudolph*,**,**
+28,3581,*Richter, Rudolph*,**,**
+28,3582,*Richter, Rudolph*,**,**
+28,3583,*Richter, Rudolph*,**,**
+28,3584,*Richter, Rudolph*,**,**
+28,3585,*Richter, Rudolph*,**,**
+28,3586,*Riek, Gustav*,**,**
+28,3587,*Riek, Gustav*,**,**
+28,3588,*Riek, Gustav*,**,**
+28,3589,*Riesman, David*,**,**
+28,3590,*Rieth, A.*,**,**
+28,3591,*Rieth, A.*,**,**
+28,3592,*Rieth, A.*,**,**
+28,3593,*Rieth, A.*,**,**
+28,3594,*Riggs, Elmer S.*,**,**
+28,3595,*Riggs, Elmer S.*,**,**
+28,3596,*Ringstro%Fm, T. J.*,**,**
+28,3597,*Ritchie, James*,**,**
+28,3598,*Ritchie, James*,**,**
+28,3599,*Ritchie, James*,**,**
+28,3600,*Ritchie, James*,**,**
+28,3601,*Robson, G. C.*,**,**
+28,3602,*Rode, Karl*,**,**
+28,3603,*Rode, Karl*,**,**
+28,3604,*Rode, Karl*,**,**
+28,3605,*Rode, Karl*,**,**
+28,3606,*Roedel, Hugo*,**,**
+28,3607,*Roethe, O.*,**,**
+28,3608,*Rogers, Arthur William*,**,**
+28,3608,*Hall, A. L.*,**,**
+28,3608,*Wagner, P. A.*,**,**
+28,3608,*Haughton, S. H.*,**,**
+28,3609,*Rohleder, H. P. T.*,**,**
+28,3610,*Roman, Fre%Ade%Aric*,**,**
+28,3611,*Roman, Fre%Ade%Aric*,**,**
+28,3612,*Roman, Fre%Ade%Aric*,**,**
+28,3613,*Roman, Fre%Ade%Aric*,**,**
+28,3614,*Roman, Fre%Ade%Aric*,**,**
+28,3615,*Roman, F.*,**,**
+28,3615,*Dareste de la Chavanne, J.*,**,**
+28,3616,*Romer, Alfred Sherwood*,**,**
+28,3617,*Romer, Alfred Sherwood*,**,**
+28,3618,*Romer, Alfred Sherwood*,**,**
+28,3619,*Romer, Alfred Sherwood*,**,**
+28,3620,*Romer, Alfred Sherwood*,**,**
+28,3621,*Romer, Alfred Sherwood*,**,**
+28,3622,*Romer, Alfred Sherwood*,**,**
+28,3623,*Romer, Alfred Sherwood*,**,**
+28,3624,*Romer, Alfred Sherwood*,**,**
+28,3625,*Romer, Alfred Sherwood*,**,**
+28,3626,*Romer, Alfred Sherwood*,**,**
+28,3627,*Romer, Alfred Sherwood*,**,**
+28,3628,*Romer, Alfred Sherwood*,**,**
+28,3629,*Romer, A. S.*,**,**
+28,3629,*Byrne, F.*,**,**
+28,3630,*Romer, A. S.*,**,**
+28,3630,*McCormack, J. T.*,**,**
+28,3631,*Romer, A. S.*,**,**
+28,3631,*Nesbitt, P. H.*,**,**
+28,3632,*Ronhaar, Jan Herman*,**,**
+28,3633,*Ro%Fpke, Walter*,**,**
+28,3634,*Ro%Fpke, Walter*,**,**
+28,3635,*Rosa, Daniele*,**,**
+28,3636,*Rosa, Daniele*,**,**
+28,3637,*Rosa, Daniele*,**,**
+28,3638,*Ross, B. R.*,**,**
+28,3638,*Wooldridge, S. W.*,**,**
+28,3639,*Rossel, P. M.*,**,**
+28,3640,*Rostand, Jean*,**,**
+28,3641,*Rostand, Jean*,**,**
+28,3643,*Roule, Louis*,**,**
+28,3644,*Roule, Louis*,**,**
+28,3645,*Roule, Louis*,**,**
+28,3646,*Rousseau, Lucien*,**,**
+28,3647,*Rouwe, Paul B.*,**,**
+28,3648,*Roy, Sharat Kumar*,**,**
+28,3649,*Royo y Go%Amez, Jose%A*,**,**
+28,3650,*Royo y Go%Amez, Jose%A*,**,**
+28,3651,*Ruckes, Herbert*,**,**
+28,3652,*Ruedemann, Rudolf*,**,**
+28,3653,*Ruedemann, Rudolf*,**,**
+28,3654,*Ru%Fger, Ludwig*,**,**
+28,3655,*Ru%Fger, Ludwig*,**,**
+28,3656,*Ru%Fger, Ludwig*,**,**
+28,3657,*Ru%Fger, Ludwig*,**,**
+28,3658,*Ru%Fger, Ludwig*,**,**
+28,3659,*Ru%Fschkamp, F.*,**,**
+28,3660,*Rusconi, Carlos*,**,**
+28,3661,*Rusconi, Carlos*,**,**
+28,3662,*Rusconi, Carlos*,**,**
+28,3663,*Rusconi, Carlos*,**,**
+28,3664,*Rusconi, Carlos*,**,**
+28,3665,*Rusconi, Carlos*,**,**
+28,3666,*Rusconi, Carlos*,**,**
+28,3667,*Rusconi, Carlos*,**,**
+28,3668,*Rusconi, Carlos*,**,**
+28,3669,*Rusconi, Carlos*,**,**
+28,3670,*Rusconi, Carlos*,**,**
+28,3671,*Rusconi, Carlos*,**,**
+28,3672,*Rusconi, Carlos*,**,**
+28,3673,*Rusconi, Carlos*,**,**
+28,3674,*Rusconi, Carlos*,**,**
+28,3675,*Rusconi, Carlos*,**,**
+28,3676,*Rusconi, Carlos*,**,**
+28,3677,*Rusconi, Carlos*,**,**
+28,3678,*Rusconi, Carlos*,**,**
+28,3679,*Rusconi, Carlos*,**,**
+28,3680,*Rusconi, Carlos*,**,**
+28,3681,*Rusconi, Carlos*,**,**
+28,3682,*Rusconi, Carlos*,**,**
+28,3683,*Rusconi, Carlos*,**,**
+28,3684,*Rusconi, Carlos*,**,**
+28,3685,*Rusconi, Carlos*,**,**
+28,3686,*Rusconi, Carlos*,**,**
+28,3687,*Rusconi, Carlos*,**,**
+28,3688,*Rusconi, Carlos*,**,**
+28,3689,*Rusconi, Carlos*,**,**
+28,3690,*Rusconi, Carlos*,**,**
+28,3691,*Rusconi, Carlos*,**,**
+28,3692,*Rusconi, Carlos*,**,**
+28,3693,*Rusconi, Carlos*,**,**
+28,3694,*Rusconi, Carlos*,**,**
+28,3695,*Rusconi, Carlos*,**,**
+28,3696,*Rusconi, Carlos*,**,**
+28,3697,*Rusconi, Carlos*,**,**
+28,3698,*Rusconi, Carlos*,**,**
+28,3699,*Rusconi, Carlos*,**,**
+28,3700,*Rusconi, Carlos*,**,**
+28,3701,*Rusconi, Carlos*,**,**
+28,3702,*Rusconi, Carlos*,**,**
+28,3703,*Rusconi, Carlos*,**,**
+28,3704,*Rusconi, Carlos*,**,**
+28,3705,*Russell, Henry Norris*,**,**
+28,3706,*Russell, James Townsend*,**,**
+28,3707,*Russell, Loris Shano*,**,**
+28,3708,*Russell, Loris Shano*,**,**
+28,3709,*Russell, Loris Shano*,**,**
+28,3710,*Russell, Loris Shano*,**,**
+28,3711,*Russell, Loris Shano*,**,**
+28,3712,*Russell, Loris Shano*,**,**
+28,3713,*Russell, Loris Shano*,**,**
+28,3714,*Russell, Loris Shano*,**,**
+28,3715,*Russell, Loris Shano*,**,**
+28,3716,*Russell, Loris Shano*,**,**
+28,3717,*Russell, Loris Shano*,**,**
+28,3718,*Russell, Loris Shano*,**,**
+28,3719,*Russell, Loris Shano*,**,**
+28,3720,*Russell, Loris Shano*,**,**
+28,3721,*Russell, L. S.*,**,**
+28,3721,*Rutherford, R. L.*,**,**
+28,3722,*Russell, L. S.*,**,**
+28,3722,*Wickenden, R. T. D.*,**,**
+28,3723,*Russell, Richard Dana*,**,**
+28,3723,*VanderHoof, V. L.*,**,**
+28,3724,*Ruthven, Alexander Grant*,**,**
+28,3725,*Rutten, Louis Marten Robert*,**,**
+28,3726,*Ru%Hz%Jic%Jka, Robert*,*= Vladislaw Ru%Hz%Jic%Jka*,**
+28,3727,*Ru%Hz%Jic%Jka, Robert*,*= Vladislaw Ru%Hz%Jic%Jka*,**
+28,3728,*Ryley, Caroline*,**,**
+28,3729,*Ryziewicz, M. Z.*,**,**
+28,3730,*Sackrewsky, Hanna*,**,**
+28,3731,*Saheki, Shiro%D*,**,**
+28,3732,*Saheki, Shiro%D*,**,**
+28,3733,*Sa%Jhleanu, Emilian*,**,**
+28,3734,*Sa%Jhleanu, Emilian*,**,**
+28,3735,*St. John, James Leonard*,**,**
+28,3736,*Saint-Just, Franc%Bois de*,**,**
+28,3737,*Sale%Ae, Achille*,**,**
+28,3738,*Salomon, M. I.*,**,**
+28,3739,*Salomon-Calvi, Wilhelm*,**,**
+28,3740,*Salomon-Calvi, Wilhelm*,**,**
+28,3741,*Salomon-Calvi, Wilhelm*,**,**
+28,3742,*Salomonsen, Finn*,**,**
+28,3743,*Samsonowicz, J.*,**,**
+28,3744,*Samuel, H. C.*,**,**
+28,3745,*Sandford, Kenneth Stuart*,**,**
+28,3746,*Sandford, Kenneth Stuart*,**,**
+28,3747,*Sandford, Kenneth Stuart*,**,**
+28,3748,*Sandford, K. S.*,**,**
+28,3748,*Arkell, W. J.*,**,**
+28,3749,*Sanford, John Theron*,**,**
+28,3750,*Sanford, John Theron*,**,**
+28,3751,*Sanford, John Theron*,**,**
+28,3752,*Sarasin, Fritz*,**,**
+28,3753,*Sarra, Raffaele*,**,**
+28,3754,*Sarra, Raffaele*,**,**
+28,3755,*Sarra, Raffaele*,**,**
+28,3758,*Sarton, George*,**,**
+28,3759,*Sarton, George*,**,**
+28,3760,*Sa%Fve-Sdo%Fderbergh, Gunnar*,**,**
+28,3761,*Sa%Fve-Sdo%Fderbergh, Gunnar*,**,**
+28,3762,*Sa%Fve-Sdo%Fderbergh, Gunnar*,**,**
+28,3763,*Sa%Fve-Sdo%Fderbergh, Gunnar*,**,**
+28,3764,*Sawtell, R.*,**,**
+28,3765,*Schadler, Josef*,**,**
+28,3766,*Schaffer, Franz Xaver*,**,**
+28,3767,*Schaffer, R. J.*,**,**
+28,3767,*Hirst, P.*,**,**
+28,3768,*Schaub, Samuel*,**,**
+28,3769,*Schaub, Samuel*,**,**
+28,3770,*Schaub, Samuel*,**,**
+28,3771,*Schaub, Samuel*,**,**
+28,3772,*Schaub, Samuel*,**,**
+28,3773,*Schaub, Samuel*,**,**
+28,3774,*Schaub, Samuel*,**,**
+28,3775,*Schaub, Samuel*,**,**
+28,3776,*Schaub, Samuel*,**,**
+28,3777,*Schaub, Samuel*,**,**
+28,3778,*Schaxel, Jul.*,**,**
+28,3779,*Schenk, Jakob*,*= Jacob*,**
+28,3780,*Schevill, William Edward*,**,**
+28,3781,*Schiller, Walther*,**,**
+28,3782,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3783,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3784,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3785,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3786,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3787,*Schindewolf, Otto H.*,*= Heinrich*,**
+28,3788,*Schlaikjer, Erich Maren*,**,**
+28,3789,*Schlaikjer, Erich Maren*,**,**
+28,3790,*Schlaikjer, Erich Maren*,**,**
+28,3791,*Schlosser, Max*,**,**
+28,3792,*Schlosser, Max*,**,**
+28,3793,*Schlosser, Max*,**,**
+28,3794,*Schmid, Gu%Fnther*,**,**
+28,3795,*Schmidt, C. W.*,**,**
+28,3796,*Schmidt, Hermann*,**,**
+28,3797,*Schmidt, Hermann*,**,**
+28,3798,*Schmidt, Hermann*,**,**
+28,3799,*Schmidt, Hermann*,**,**
+28,3800,*Schmidt, Hermann*,**,**
+28,3801,*Schmidt, Hermann*,**,**
+28,3802,*Schmidt, Hermann*,**,**
+28,3803,*Schmidt, Hermann*,**,**
+28,3804,*Schmidt, Karl Patterson*,**,**
+28,3805,*Schmidt, Karl Patterson*,**,**
+28,3806,*Schmidt, Karl Patterson*,**,**
+28,3807,*Schmidt, Martin*,**,**
+28,3808,*Schmidt, Martin*,**,**
+28,3809,*Schmidtgen, Otto*,**,**
+28,3810,*Schmidtgen, Otto*,**,**
+28,3811,*Schmidtgen, Otto*,**,**
+28,3812,*Schmidtgen, Otto*,**,**
+28,3813,*Schmidtgen, Otto*,**,**
+28,3814,*Schmidtgen, Otto*,**,**
+28,3815,*Schmidtgen, Otto*,**,**
+28,3816,*Schmidtgen, Otto*,**,**
+28,3817,*Schmidtgen, Otto*,**,**
+28,3818,*Schmidtgen, Otto*,**,**
+28,3819,*Schmierer, Theodor*,**,**
+28,3820,*Schneiderho%Fhn, Hans*,**,**
+28,3821,*Schoewe, Walter Henry*,**,**
+28,3822,*Schonwetter, M.*,**,**
+28,3823,*Scho%Ftt, Harald*,**,**
+28,3824,*Schou, Axel*,**,**
+28,3825,*Schrammen, Anton*,**,**
+28,3826,*Schreuder, Antje*,**,**
+28,3827,*Schreuder, Antje*,**,**
+28,3828,*Schreuder, Antje*,**,**
+28,3829,*Schreuder, Antje*,**,**
+28,3830,*Schreuder, Antje*,**,**
+28,3831,*Schreuder, Antje*,**,**
+28,3832,*Schreuder, Antje*,**,**
+28,3833,*Schreuder, Antje*,**,**
+28,3834,*Schriel, Walter*,**,**
+28,3835,*Schroeder, henry*,**,**
+28,3836,*Schroeder, henry*,**,**
+28,3837,*Schroeder, H.*,**,**
+28,3837,*Schmierer, T.*,**,**
+28,3837,*Dienemann, W.*,**,**
+28,3838,*Schtylko, B. A.*,*= Shtyl'ko, Boris Adol'fovich*,**
+28,3839,*Schtylko, B. A.*,*= Shtyl'ko, Boris Adol'fovich*,**
+28,3840,*Schtylko, B. A.*,*= Shtyl'ko, Boris Adol'fovich*,**
+28,3841,*Schtylko, B. A.*,*= Shtyl'ko, Boris Adol'fovich*,**
+28,3842,*Schuchert, Charles*,**,**
+28,3843,*Schuchert, Charles*,**,**
+28,3844,*Schuchert, Charles*,**,**
+28,3845,*Schuchert, Charles*,**,**
+28,3846,*Schuchert, Charles*,**,**
+28,3847,*Schuchert, Charles*,**,**
+28,3848,*Schuchert, Charles*,**,**
+28,3849,*Schuchert, Charles*,**,**
+28,3850,*Schuchert, Charles*,**,**
+28,3851,*Schuchert, C.*,**,**
+28,3851,*Dunbar, C. O.*,**,**
+28,3852,*Schultz, Bruno Kurt*,**,**
+28,3853,*Schultz, Bruno Kurt*,**,**
+28,3854,*Schultz, Bruno Kurt*,**,**
+28,3855,*Schultz, Charles Bertrand*,**,**
+28,3856,*Schultz, J.*,**,**
+28,3857,*Schultz, J.*,**,**
+28,3858,*Schultze ([dagger]), F. E.*,**,*E*
+28,3858,*Kukenthal ([dagger]), W.*,**,*E*
+28,3858,*Heider, K.*,**,*E*
+28,3858,*Hesse, R.*,**,*E*
+28,3858,*Kuhlgatz, Th. [Editors]*,**,*E*
+28,3859,*Schurmann, H. M. E.*,**,**
+28,3860,*Schuster, Julius*,**,**
+28,3861,*Schuster, Julius*,**,**
+28,3862,*Schutz, Heinrich*,**,**
+28,3863,*Schwabe, Otto*,**,**
+28,3864,*Schwangart, F.*,**,**
+28,3865,*Schwarz, Ernst*,**,**
+28,3866,*Schwarz, Ernst*,**,**
+28,3867,*Schwarz, Ernst*,**,**
+28,3868,*Schwarz, Rudolf*,**,**
+28,3869,*Schwarz, Rudolf*,**,**
+28,3870,*Schwarz, Rudolf*,**,**
+28,3871,*Schwarz, Rudolf*,**,**
+28,3872,*Schwidetzky, Georg*,**,**
+28,3873,*Scott, Gayle*,**,**
+28,3873,*Armstrong, J. M.*,**,**
+28,3874,*Scott, George Gilmore*,**,**
+28,3875,*Scott, William Berryman*,**,**
+28,3876,*Scott, William Berryman*,**,**
+28,3877,*Scott, William Berryman*,**,**
+28,3878,*Scott, William Berryman*,**,**
+28,3879,*Scott, William Berryman*,**,**
+28,3880,*Scott, William Berryman*,**,**
+28,3881,*Scott, William Berryman*,**,**
+28,3882,*Scott, William Berryman*,**,**
+28,3883,*Scott, William Berryman*,**,**
+28,3884,*Scott, William Berryman*,**,**
+28,3885,*Seegert, Bruno*,**,**
+28,3886,*Seeley, Sylvia*,**,**
+28,3887,*Seemann, Richard*,**,**
+28,3888,*Seemann, Richard*,**,**
+28,3889,*Seemann, R.*,**,**
+28,3889,*Berckhemer, F.*,**,**
+28,3890,*Seidlitz, Wilfried von*,**,**
+28,3891,*Seidlitz, Wilfried von*,**,**
+28,3892,*Seitz, Otto*,**,**
+28,3892,*Gothan, W.*,**,**
+28,3893,*Sellards, Elias Howard*,**,**
+28,3894,*Sellards, E. H.*,**,**
+28,3894,*Adkins, W. S.*,**,**
+28,3894,*Plummer, F. B.*,**,**
+28,3895,*Senn, E.*,**,**
+28,3896,*Sera, Giocchino Leone*,**,**
+28,3897,*Sergi, Guiseppe*,**,**
+28,3898,*Sergi, Guiseppe*,**,**
+28,3899,*Sergi, Guiseppe*,**,**
+28,3900,*Sergi, Guiseppe*,**,**
+28,3901,*Sergi, Sergio*,**,**
+28,3902,*Sergi, Sergio*,**,**
+28,3903,*Sergi, Sergio*,**,**
+28,3904,*Sergi, Sergio*,**,**
+28,3905,*Sergi, Sergio*,**,**
+28,3906,*Sergi, Sergio*,**,**
+28,3907,*Sergi, Sergio*,**,**
+28,3908,*Sergi, Sergio*,**,**
+28,3909,*Sergi, Sergio*,**,**
+28,3910,*Sergi, Sergio*,**,**
+28,3911,*Serpa Pinto, R. de*,**,**
+28,3912,*Serra, Giselda*,**,**
+28,3913,*Seshachar, B. R., Rao, A. N.*,**,**
+28,3913,*Ramaswami, L. S.*,**,**
+28,3914,*Sestini, Aldo*,**,**
+28,3915,*Seton, Henry*,**,**
+28,3916,*Sewell, R. B. Seymour*,**,**
+28,3917,*Sewell, R. B. Seymour*,**,**
+28,3918,*Sewell, R. B. Seymour*,**,**
+28,3919,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3920,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3921,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3922,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3923,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3924,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3925,*Sewertzoff, A. N.*,*= Severtsov, Aleksey Nikolayevich*,**
+28,3926,*Shaw, Daphne*,**,**
+28,3927,*Shaw, John Cecil Middleton*,**,**
+28,3928,*Shaw, John Cecil Middleton*,**,**
+28,3929,*Sheak, W. H.*,**,**
+28,3930,*Shedd, Solon*,**,**
+28,3931,*Shedd, Solon*,**,**
+28,3932,*Sheppard, Thomes*,**,**
+28,3933,*Sheppard, Thomes*,**,**
+28,3934,*Sherborn, Carolo Davies*,*= Charles Davies Sherborn*,**
+28,3935,*Shimer, Hervey Woodburn*,**,**
+28,3936,*Shimer, Hervey Woodburn*,**,**
+28,3937,*Shipley, Maynard*,**,**
+28,3938,*Short, A. Rendle*,*= Arthur*,**
+28,3939,*Shuler, Ellis William*,**,**
+28,3940,*Sicher, Harry*,**,**
+28,3941,*Sickenberg, Otto*,**,**
+28,3942,*Sickenberg, Otto*,**,**
+28,3943,*Sickenberg, Otto*,**,**
+28,3944,*Sickenberg, Otto*,**,**
+28,3945,*Sickenberg, Otto*,**,**
+28,3946,*Sickenberg, Otto*,**,**
+28,3947,*Sickenberg, Otto*,**,**
+28,3948,*Sickenberg, Otto*,**,**
+28,3949,*Sickenberg, Otto*,**,**
+28,3950,*Sickenberg, Otto*,**,**
+28,3951,*Sickenberg, Otto*,**,**
+28,3952,*Sickenberg, O.*,**,**
+28,3952,*Ehrenberg, K.*,**,**
+28,3953,*Sieber, Rudolf*,**,**
+28,3954,*Siemon, R.*,**,**
+28,3955,*Silnicky%A, K.*,*= Karol*,**
+28,3956,*Simionescu, Ion*,*= Jon*,**
+28,3957,*Simionescu, Ion*,*= Jon*,**
+28,3958,*Simionescu, Ion*,*= Jon*,**
+28,3959,*Simionescu, Ion*,*= Jon*,**
+28,3960,*Simionescu, Ion*,*= Jon*,**
+28,3961,*Simionescu, Ion*,*= Jon*,**
+28,3962,*Simpson, G. C.*,*= George Clarke*,**
+28,3963,*Simpson, G. C.*,*= George Clarke*,**
+28,3963,*Seward, A. C.*,**,**
+28,3963,*Gregory, J. W.*,**,**
+28,3963,*Mitchell, P.*,**,**
+28,3963,*Brooks, C. E. P.*,**,**
+28,3963,*Regan, C. T.*,**,**
+28,3963,*Thomas, H. [D.]*,**,**
+28,3964,*Simpson, George Gaylord*,**,**
+28,3965,*Simpson, George Gaylord*,**,**
+28,3966,*Simpson, George Gaylord*,**,**
+28,3967,*Simpson, George Gaylord*,**,**
+28,3968,*Simpson, George Gaylord*,**,**
+28,3969,*Simpson, George Gaylord*,**,**
+28,3970,*Simpson, George Gaylord*,**,**
+28,3971,*Simpson, George Gaylord*,**,**
+28,3972,*Simpson, George Gaylord*,**,**
+28,3973,*Simpson, George Gaylord*,**,**
+28,3974,*Simpson, George Gaylord*,**,**
+28,3975,*Simpson, George Gaylord*,**,**
+28,3976,*Simpson, George Gaylord*,**,**
+28,3977,*Simpson, George Gaylord*,**,**
+28,3978,*Simpson, George Gaylord*,**,**
+28,3979,*Simpson, George Gaylord*,**,**
+28,3980,*Simpson, George Gaylord*,**,**
+28,3981,*Simpson, George Gaylord*,**,**
+28,3982,*Simpson, George Gaylord*,**,**
+28,3983,*Simpson, George Gaylord*,**,**
+28,3984,*Simpson, George Gaylord*,**,**
+28,3985,*Simpson, George Gaylord*,**,**
+28,3986,*Simpson, George Gaylord*,**,**
+28,3987,*Simpson, George Gaylord*,**,**
+28,3988,*Simpson, George Gaylord*,**,**
+28,3989,*Simpson, George Gaylord*,**,**
+28,3990,*Simpson, George Gaylord*,**,**
+28,3991,*Simpson, George Gaylord*,**,**
+28,3992,*Simpson, George Gaylord*,**,**
+28,3993,*Simpson, George Gaylord*,**,**
+28,3994,*Simpson, George Gaylord*,**,**
+28,3995,*Simpson, George Gaylord*,**,**
+28,3996,*Simpson, George Gaylord*,**,**
+28,3997,*Simpson, George Gaylord*,**,**
+28,3998,*Simpson, George Gaylord*,**,**
+28,3999,*Simpson, George Gaylord*,**,**
+28,4000,*Simpson, George Gaylord*,**,**
+28,4001,*Simpson, George Gaylord*,**,**
+28,4002,*Simpson, George Gaylord*,**,**
+28,4003,*Simpson, George Gaylord*,**,**
+28,4004,*Simpson, George Gaylord*,**,**
+28,4005,*Simpson, George Gaylord*,**,**
+28,4006,*Simpson, George Gaylord*,**,**
+28,4007,*Simpson, George Gaylord*,**,**
+28,4008,*Simpson, George Gaylord*,**,**
+28,4009,*Simpson, George Gaylord*,**,**
+28,4010,*Simpson, George Gaylord*,**,**
+28,4011,*Simpson, George Gaylord*,**,**
+28,4012,*Simpson, George Gaylord*,**,**
+28,4013,*Simpson, George Gaylord*,**,**
+28,4014,*Simpson, George Gaylord*,**,**
+28,4015,*Simpson, George Gaylord*,**,**
+28,4016,*Simpson, George Gaylord*,**,**
+28,4017,*Simpson, George Gaylord*,**,**
+28,4018,*Simpson, George Gaylord*,**,**
+28,4019,*Simpson, George Gaylord*,**,**
+28,4020,*Simpson, George Gaylord*,**,**
+28,4021,*Simpson, George Gaylord*,**,**
+28,4022,*Simpson, George Gaylord*,**,**
+28,4023,*Simpson, George Gaylord*,**,**
+28,4024,*Simpson, Henry H.*,**,**
+28,4025,*Simpson, Paul F.*,**,**
+28,4026,*Sinclair, William John*,**,**
+28,4027,*Sinclair, William John*,**,**
+28,4028,*Sinclair, William John*,**,**
+28,4029,*Sinclair, W. J.*,**,**
+28,4029,*Farr, M. S.*,**,**
+28,4030,*Sinclair, W. J.*,**,**
+28,4030,*Jepsen, G. L.*,**,**
+28,4031,*Sine%Aty, R. de*,*Robert*,**
+28,4032,*Singer, Charles*,**,**
+28,4033,*Sinitsin, F.*,**,**
+28,4034,*Sivers, W. von*,**,**
+28,4035,*Skutil, Joseph*,**,**
+28,4036,*Skutil, Joseph*,**,**
+28,4037,*Skutil, J.*,**,**
+28,4037,*Stehlik, A.*,**,**
+28,4038,*Slodkewitsch, Wsewolod S.*,*Slodkevich, Vsevolod Sergeyevich*,**
+28,4039,*Slodkewitsch, Wsewolod S.*,*Slodkevich, Vsevolod Sergeyevich*,**
+28,4040,*Sluster, Ludwig*,**,**
+28,4041,*Slyper, E. J.*,**,**
+28,4042,*Smirnow, W.*,**,**
+28,4043,*Smith, Bernard*,**,**
+28,4044,*Smith, Bernard*,**,**
+28,4045,*Smith, Bernard*,**,**
+28,4045,*Sherlock, R. L.*,**,**
+28,4045,*Trechmann, C. T.*,**,**
+28,4045,*Watson, D. M. S.*,**,**
+28,4045,*Versey, H. C.*,**,**
+28,4045,*Neaverson, E.*,**,**
+28,4046,*Smith, Burnett*,**,**
+28,4047,*Smith, Grafton Elliot*,**,**
+28,4048,*Smith, Grafton Elliot*,**,**
+28,4049,*Smith, Grafton Elliot*,**,**
+28,4050,*Smith, Grafton Elliot*,**,**
+28,4051,*Smith, Grafton Elliot*,**,**
+28,4052,*Smith, Grafton Elliot*,**,**
+28,4053,*Smith, Grafton Elliot*,**,**
+28,4054,*Smith, Grafton Elliot*,**,**
+28,4055,*Smith, Grafton Elliot*,**,**
+28,4056,*Smith, Grafton Elliot*,**,**
+28,4057,*Smith, Grafton Elliot*,**,**
+28,4058,*Smith, Grafton Elliot*,**,**
+28,4059,*Smith, Grafton Elliot*,**,**
+28,4060,*Smith, Grafton Elliot*,**,**
+28,4061,*Smith, Grafton Elliot*,**,**
+28,4062,*Smith, Grafton Elliot*,**,**
+28,4063,*Smith, Grafton Elliot*,**,**
+28,4064,*Smith, Grafton Elliot*,**,**
+28,4065,*Smith, Grafton Elliot*,**,**
+28,4066,*Smith, Grafton Elliot*,**,**
+28,4067,*Smith, Grafton Elliot*,**,**
+28,4068,*Smith, Grafton Elliot*,**,**
+28,4069,*Smith, Grafton Elliot*,**,**
+28,4070,*Smith, Grafton Elliot*,**,**
+28,4071,*Smith, Grafton Elliot*,**,**
+28,4072,*Smith, Grafton Elliot*,**,**
+28,4073,*Smith, Grafton Elliot*,**,**
+28,4074,*Smith, Grafton Elliot*,**,**
+28,4075,*Smith, Grafton Elliot*,**,**
+28,4076,*Smith, Grafton Elliot*,**,**
+28,4077,*Smith, Grafton Elliot*,**,**
+28,4078,*Smith, Grafton Elliot*,**,**
+28,4079,*Smith, Grafton Elliot*,**,**
+28,4080,*Smith, Grafton Elliot*,**,**
+28,4081,*Smith, Grafton Elliot*,**,**
+28,4082,*Smith, Grafton Elliot*,**,**
+28,4083,*Smith, Grafton Elliot*,**,**
+28,4084,*Smith, Grafton Elliot*,**,**
+28,4085,*Smith, G. E.*,**,**
+28,4085,*Keith, A.*,**,**
+28,4085,*Parsons, F. G.*,**,**
+28,4085,*Burkitt, M. C.*,**,**
+28,4085,*Peake, H. J. E.*,**,**
+28,4085,*Myres, J. L.*,**,**
+28,4086,*Smith, Hay Watson*,**,**
+28,4087,*Smith, Hay Watson*,**,**
+28,4088,*Smith, Homer William*,**,**
+28,4089,*Smith, Maurice G.*,**,**
+28,4090,*Smith, Ralph Clifton*,**,**
+28,4091,*Smuts, J. C.*,**,**
+28,4092,*Snider, Luther Crocker*,**,**
+28,4093,*Snouckaert van Schanberg, Baron R. C. E. G. J*,**,**
+28,4094,*Soergel, Wolfgang*,**,**
+28,4095,*Soergel, Wolfgang*,**,**
+28,4096,*Soergel, Wolfgang*,**,**
+28,4097,*Soergel, Wolfgang*,**,**
+28,4098,*Soergel, Wolfgang*,**,**
+28,4099,*Soergel, Wolfgang*,**,**
+28,4100,*Solignac, Marcel*,**,**
+28,4102,*Sollas, William Johnson*,**,**
+28,4103,*Sollas, William Johnson*,**,**
+28,4104,*Sonntag, Charles F.*,*= Frederick Maxwell*,**
+28,4105,*Sos, Vicente*,*= Sos Baynat, Vicente*,**
+28,4106,*Sos, Vicente*,*= Sos Baynat, Vicente*,**
+28,4107,*Soulsby, B. H.*,*= Basil Harrington*,**
+28,4108,*Sowerby, Arthur de Carle*,**,**
+28,4109,*Sowerby, Arthur de Carle*,**,**
+28,4110,*Sowerby, Arthur de Carle*,**,**
+28,4111,*Soyer, Robert*,**,**
+28,4112,*Sparn, Enrique*,**,**
+28,4113,*Sparn, Enrique*,**,**
+28,4114,*Spearing, Herbert Green*,**,**
+28,4115,*Speyer, Karl W.*,**,**
+28,4116,*Spiller, G.*,*= Gustav*,**
+28,4117,*Spillmann, F.*,*= Franz*,**
+28,4118,*Spillmann, F.*,*= Franz*,**
+28,4119,*Spillmann, F.*,*= Franz*,**
+28,4120,*Spillmann, F.*,*= Franz*,**
+28,4121,*Spillmann, F.*,*= Franz*,**
+28,4122,*Spock, Leslie Erskine*,**,**
+28,4123,*Spock, Leslie Erskine*,**,**
+28,4124,*Spocker, Richard G.*,**,**
+28,4125,*Sprecher, Heinrich*,**,**
+28,4126,*Stadtmu%Fller, Franz*,**,**
+28,4127,*Stadtmu%Fller, Franz*,**,**
+28,4128,*Staesche, Karl*,**,**
+28,4129,*Staesche, Karl*,**,**
+28,4130,*Staesche, Karl*,**,**
+28,4131,*Stallybrass, C. O.*,*= Clare Oswald*,**
+28,4132,*Stamp, Laurence Dudley*,**,**
+28,4133,*Stamp, Laurence Dudley*,**,**
+28,4134,*Stamp, Laurence Dudley*,**,**
+28,4135,*Stamp, Laurence Dudley*,**,**
+28,4136,*Stamp, Laurence Dudley*,**,**
+28,4137,*Stamp, Laurence Dudley*,**,**
+28,4138,*Standing, Herbert F.*,**,**
+28,4139,*Steen, Margaret C.*,**,**
+28,4140,*Steen, Margaret C.*,**,**
+28,4141,*Stefanini, Giuseppe*,**,**
+28,4142,*Stefanini, G.*,**,**
+28,4142,*Bassoli, G. G.*,**,**
+28,4142,*Montanaro, E.*,**,**
+28,4143,*Stehli%Ak, Alois*,**,**
+28,4144,*Stehli%Ak, Alois*,**,**
+28,4145,*Stehli%Ak, Alois*,**,**
+28,4146,*Stehlin, Hans Georg*,**,**
+28,4147,*Stehlin, Hans Georg*,**,**
+28,4148,*Stehlin, Hans Georg*,**,**
+28,4149,*Stehlin, Hans Georg*,**,**
+28,4150,*Stehlin, Hans Georg*,**,**
+28,4151,*Stehlin, Hans Georg*,**,**
+28,4152,*Stehlin, Hans Georg*,**,**
+28,4153,*Stehlin, Hans Georg*,**,**
+28,4154,*Stehlin, Hans Georg*,**,**
+28,4155,*Stehlin, Hans Georg*,**,**
+28,4156,*Stehlin, Hans Georg*,**,**
+28,4157,*Stehlin, Hans Georg*,**,**
+28,4158,*Stehlin, Hans Georg*,**,**
+28,4159,*Stehlin, Hans Georg*,**,**
+28,4160,*Stehlin, Hans Georg*,**,**
+28,4161,*Stehlin, Hans Georg*,**,**
+28,4162,*Stehlin, Hans Georg*,**,**
+28,4163,*Stehlin, H. G.*,**,**
+28,4163,*Dubois, A.*,**,**
+28,4164,*Stehlin, H. G.*,**,**
+28,4164,*Dubois, A.*,**,**
+28,4165,*Stehn, Ch. E.*,**,**
+28,4165,*Umbgrove, J. H. F.*,**,**
+28,4166,*Steiger, Rudolph*,**,**
+28,4167,*Stelfox, A. W.*,**,**
+28,4168,*Stensio%F, Erik Helge Osvalt Andersson*,*= E. A:son Stensio%F*,**
+28,4169,*Stensio%F, Erik Helge Osvalt Andersson*,*= E. A:son Stensio%F*,**
+28,4170,*Stensio%F, Erik Helge Osvalt Andersson*,*= E. A:son Stensio%F*,**
+28,4171,*Sternberg, Charles Hazelius*,**,**
+28,4172,*Sternberg, Charles Hazelius*,**,**
+28,4173,*Sternberg, Charles Hazelius*,**,**
+28,4174,*Sternberg, Charles Hazelius*,**,**
+28,4175,*Sternberg, Charles Hazelius*,**,**
+28,4176,*Sternberg, Charles M.*,*= Mortram*,**
+28,4177,*Sternberg, Charles M.*,*= Mortram*,**
+28,4178,*Sternberg, Charles M.*,*= Mortram*,**
+28,4179,*Sternberg, Charles M.*,*= Mortram*,**
+28,4180,*Sternberg, Charles M.*,*= Mortram*,**
+28,4181,*Sternberg, Charles M.*,*= Mortram*,**
+28,4182,*Sternberg, Charles M.*,*= Mortram*,**
+28,4183,*Sternberg, Charles M.*,*= Mortram*,**
+28,4184,*Sternberg, Charles M.*,*= Mortram*,**
+28,4185,*Sternberg, Charles M.*,*= Mortram*,**
+28,4186,*Sternberg, Charles M.*,*= Mortram*,**
+28,4187,*Sternberg, Charles M.*,*= Mortram*,**
+28,4188,*Sternberg, Charles M.*,*= Mortram*,**
+28,4189,*Sternberg, Charles M.*,*= Mortram*,**
+28,4190,*Sternberg, George Friar*,**,**
+28,4191,*Stetson, Henry Crosby*,**,**
+28,4192,*Stetson, Henry Crosby*,**,**
+28,4193,*Stetson, Henry Crosby*,**,**
+28,4194,*Stetson, Henry Crosby*,**,**
+28,4195,*Stetson, Henry Crosby*,**,**
+28,4196,*Stetson, Henry Crosby*,**,**
+28,4197,*Stetson, Henry Crosby*,**,**
+28,4198,*Stetson, Henry Crosby*,**,**
+28,4199,*Stetson, Henry Crosby*,**,**
+28,4200,*Stetson, Henry Crosby*,**,**
+28,4201,*Stettner, G.*,*= Gerhard*,**
+28,4202,*Stibbe, E. P.*,*= Edward Philip*,**
+28,4203,*Stiles, Charles Wardell*,**,**
+28,4204,*Stiles, Charles Wardell*,**,**
+28,4205,*Stipek, Hermann*,**,**
+28,4206,*Stirton, Ruben Arthur*,**,**
+28,4207,*Stirton, Ruben Arthur*,**,**
+28,4208,*Stirton, Ruben Arthur*,**,**
+28,4209,*Stirton, Ruben Arthur*,**,**
+28,4210,*Stirton, Ruben Arthur*,**,**
+28,4211,*Stirton, Ruben Arthur*,**,**
+28,4212,*Stirton, Ruben Arthur*,**,**
+28,4213,*Stirton, Ruben Arthur*,**,**
+28,4214,*Stirton, Ruben Arthur*,**,**
+28,4215,*Stirton, R. A.*,**,**
+28,4215,*VanderHoof, V. L.*,*= Vetress Lawrence*,**
+28,4216,*Stirton, R. A.*,**,**
+28,4216,*Weddle, H. W.*,*= Herman Wendler*,**
+28,4217,*Stock, Chester*,**,**
+28,4218,*Stock, Chester*,**,**
+28,4219,*Stock, Chester*,**,**
+28,4220,*Stock, Chester*,**,**
+28,4221,*Stock, Chester*,**,**
+28,4222,*Stock, Chester*,**,**
+28,4223,*Stock, Chester*,**,**
+28,4224,*Stock, Chester*,**,**
+28,4225,*Stock, Chester*,**,**
+28,4226,*Stock, Chester*,**,**
+28,4227,*Stock, Chester*,**,**
+28,4228,*Stock, Chester*,**,**
+28,4229,*Stock, Chester*,**,**
+28,4230,*Stock, Chester*,**,**
+28,4231,*Stock, Chester*,**,**
+28,4232,*Stock, Chester*,**,**
+28,4233,*Stock, Chester*,**,**
+28,4234,*Stock, Chester*,**,**
+28,4235,*Stock, Chester*,**,**
+28,4236,*Stock, Chester*,**,**
+28,4237,*Stock, Chester*,**,**
+28,4238,*Stock, Chester*,**,**
+28,4239,*Stock, Chester*,**,**
+28,4240,*Stock, Chester*,**,**
+28,4241,*Stock, Chester*,**,**
+28,4242,*Stock, Chester*,**,**
+28,4243,*Stock, Chester*,**,**
+28,4244,*Stock, Chester*,**,**
+28,4245,*Stock, Chester*,**,**
+28,4246,*Stock, Chester*,**,**
+28,4247,*Stock, Chester*,**,**
+28,4248,*Stock, Chester*,**,**
+28,4249,*Stock, C.*,**,**
+28,4249,*Furlong, E. L.*,**,**
+28,4250,*Stock. C.*,**,**
+28,4250,*Hall, E. R.*,**,**
+28,4251,*Stock, C.*,**,**
+28,4251,*Patterson, J. W.*,**,**
+28,4251,*Furlong, E. L.*,**,**
+28,4252,*Stockley, G. M.*,*= Gordon Murray*,**
+28,4252,*Oates, F.*,**,**
+28,4253,*Stoll, Hermann*,**,**
+28,4254,*Stolyhwo, K.*,*= Kazimierz*,**
+28,4255,*Stolyhwo, K.*,*= Kazimierz*,**
+28,4256,*S[tone], W[itmer]*,**,**
+28,4257,*Stovall, John Willis*,**,**
+28,4258,*Stovall, John Willis*,**,**
+28,4259,*Stovall, John Willis*,**,**
+28,4260,*Strand, Embrik*,**,**
+28,4261,*Strand, Embrik*,**,**
+28,4262,*Strand, Embrik*,**,**
+28,4263,*Strand, Embrik*,**,**
+28,4264,*Strand, Embrik*,**,**
+28,4265,*Straus, William Louis, Jr.*,**,**
+28,4266,*Straw, S. H.*,*= Stephen Henry*,**
+28,4267,*Strel'nikov, I. D.*,*= Ivan Dmitriyevich*,**
+28,4268,*Stresemann, Erwin*,**,**
+28,4269,*Stresemann, Erwin*,**,**
+28,4270,*Stresemann, Erwin*,**,**
+28,4271,*Stromer, Ernst*,**,**
+28,4272,*Stromer, Ernst*,**,**
+28,4273,*Stromer, Ernst*,**,**
+28,4274,*Stromer, Ernst*,**,**
+28,4275,*Stromer, Ernst*,**,**
+28,4276,*Stromer, Ernst*,**,**
+28,4277,*Stromer, Ernst*,**,**
+28,4278,*Stromer, Ernst*,**,**
+28,4279,*Stromer, Ernst*,**,**
+28,4280,*Stromer, Ernst*,**,**
+28,4281,*Stromer, Ernst*,**,**
+28,4282,*Stromer, Ernst*,**,**
+28,4283,*Stromer, Ernst*,**,**
+28,4284,*Stromer, Ernst*,**,**
+28,4285,*Stromer, Ernst*,**,**
+28,4286,*Stromer, Ernst*,**,**
+28,4287,*Stromer, Ernst*,**,**
+28,4288,*Stromer, E.*,**,**
+28,4288,*Lebling, C.*,*=Clemens*,**
+28,4289,*Stromer, E.*,**,**
+28,4289,*Weiler, W.*,**,**
+28,4290,*Strunz, Chr.*,**,**
+28,4291,*Sudbury, Louise*,**,**
+28,4292,*Suess, Franz E.*,*= Edward*,**
+28,4293,*Suess, Maurice*,**,**
+28,4294,*S%Juf, Jir%Ji%A*,*= Georges Chouff*,**
+28,4295,*S%Julc, Jaraslav*,**,**
+28,4296,*S%Julc, Jaraslav*,**,**
+28,4297,*Sullivan, J. W. N.*,*= John William Navin*,**
+28,4298,*Sunamoto, Etsujiro*,**,**
+28,4299,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4300,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4301,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4302,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4303,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4304,*Sushkin, Pe%Ftr Petrovich*,*= Suschkin = Suskin = Suskin, Petr Petrovich*,**
+28,4305,*S%Justa, Vaclav*,**,**
+28,4306,*Swinnerton, H. H.*,*= Henry Hurd*,**
+28,4307,*Swinnerton, H. H.*,*= Henry Hurd*,**
+28,4308,*Swinnerton, H. H.*,*= Henry Hurd*,**
+28,4309,*Swinnerton, H. H.*,*= Henry Hurd*,**
+28,4310,*Swinnerton, H. H.*,*= Henry Hurd*,**
+28,4311,*Swinton, William Elgin*,**,**
+28,4312,*Swinton, William Elgin*,**,**
+28,4313,*Swinton, William Elgin*,**,**
+28,4314,*Swinton, William Elgin*,**,**
+28,4315,*Swinton, William Elgin*,**,**
+28,4316,*Swinton, William Elgin*,**,**
+28,4317,*Swinton, William Elgin*,**,**
+28,4318,*Swinton, William Elgin*,**,**
+28,4319,*Swinton, William Elgin*,**,**
+28,4320,*Swinton, William Elgin*,**,**
+28,4321,*Swinton, William Elgin*,**,**
+28,4322,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4323,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4324,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4325,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4326,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4327,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4328,*Szalai, Tibor*,*= T. v. Szelenyi*,**
+28,4329,*Szalay, A. B.*,**,**
+28,4330,*Szila%Ady, Zoltan*,**,**
+28,4331,*Szunyoghy, Johann von*,**,**
+28,4332,*Taeger, Harald*,**,**
+28,4333,*Tai, Tse Tsan*,**,**
+28,4334,*Tait, John*,**,**
+28,4334,*Brown, B.*,**,**
+28,4335,*Taliaferro, Nicholas Lloyd*,**,**
+28,4336,*Taverner, Percy Algernon*,**,**
+28,4337,*Taviani, Siro*,**,**
+28,4338,*Taviani, Siro*,**,**
+28,4339,*Taviani, Siro*,**,**
+28,4340,*Taylor, H.*,**,**
+28,4341,*Tchang, Tchung-lin*,**,**
+28,4342,*Tchernyshev, B.*,**,**
+28,4343,*Ten Kate, Hermann*,**,**
+28,4344,*Teriaev, V. A.*,*= Teriawew Teryayev, V. A.*,**
+28,4345,*Teriaev, V. A.*,*= Teriawew Teryayev, V. A.*,**
+28,4346,*Termier, Pierre*,**,**
+28,4347,*Thatcher, Harvey S.*,**,**
+28,4348,*The%Aobald, Nicolas*,**,**
+28,4349,*Thom, Burton Peter*,**,**
+28,4350,*Thomas, Henry Dighton*,**,**
+28,4351,*Thomas, Hugh Hamshaw*,**,**
+28,4352,*Thomasset, Jean-Jacques*,**,**
+28,4353,*Thomasset, Jean-Jacques*,**,**
+28,4354,*Thomasset, Jean-Jacques*,**,**
+28,4355,*Thomasset, Jean-Jacques*,**,**
+28,4356,*Thomasset, Jean-Jacques*,**,**
+28,4357,*Thomasset, Jean-Jacques*,**,**
+28,4358,*Thomasset, Jean-Jacques*,**,**
+28,4359,*Thomsen, M.*,**,**
+28,4360,*Thomson, John Arthur*,**,**
+28,4361,*Thomson, John Arthur*,**,**
+28,4362,*Thomson, John Arthur*,**,**
+28,4363,*Thomson, John Arthur*,**,**
+28,4364,*Thomson, John Arthur*,**,**
+28,4365,*Thomson, J. A.*,**,**
+28,4365,*Geddes, P.*,*= Patrick*,**
+28,4366,*Thorndike, Lynn*,**,**
+28,4367,*Thorpe, Malcolm Rutherford*,**,**
+28,4368,*Thorpe, Malcolm Rutherford*,**,**
+28,4369,*Tieje, Arthur Jerrold*,**,**
+28,4370,*Tikhvinskaya, E. J.*,*= Yevgeniya Ivanovna*,**
+28,4371,*Tildesley, Miss M. L.*,**,**
+28,4372,*Tilney, Frederick*,**,**
+28,4373,*Tilney, Frederick*,**,**
+28,4374,*Tilney, Frederick*,**,**
+28,4375,*Tilney, Frederick*,**,**
+28,4376,*Tilton, John Littlefield*,**,**
+28,4377,*Tilton, John Littlefield*,**,**
+28,4378,*Tilton, John Littlefield*,**,**
+28,4379,*Timofeeff-Resosovsky, H. W.*,*= Timofeyev-Resovskiy, Nikolay Vladimirovich*,**
+28,4380,*Timperley, H. J.*,*= Harold John*,**
+28,4381,*Tindale, N. B.*,*= Norman Barnett*,**
+28,4382,*Tinklepaugh, Otto Leif*,**,**
+28,4383,*Tirelli, M.*,**,**
+28,4384,*Tokunaga, Shigeyasu*,*= Yoshiwara, S.*,**
+28,4385,*Tokunaga, Shigeyasu*,*= Yoshiwara, S.*,**
+28,4386,*Tokunaga, Shigeyasu*,*= Yoshiwara, S.*,**
+28,4387,*Tokunaga, Shigeyasu*,*= Yoshiwara, S.*,**
+28,4388,*Tokunaga, S.*,**,**
+28,4388,*Naora, N.*,**,**
+28,4389,*Tokunaga, S.*,**,**
+28,4389,*Naora, N.*,**,**
+28,4390,*Tolmachoff, Innokenti Pavlovich*,*= Tolmache%Fv, Innokentiy Pavlovich*,**
+28,4391,*Tolmachoff, Innokenti Pavlovich*,*= Tolmache%Fv, Innokentiy Pavlovich*,**
+28,4392,*Tolmachoff, Innokenti Pavlovich*,*= Tolmache%Fv, Innokentiy Pavlovich*,**
+28,4393,*Topa, D.*,**,**
+28,4394,*Torii, Ryu%Nzo*,*= Rinzo*,**
+28,4395,*Tornier, Gustav*,**,**
+28,4396,*Torreggiani, Jose%A*,**,**
+28,4397,*Torres, L. M.*,*= Lvis Maria*,**
+28,4398,*Torres, L. M.*,*= Lvis Maria*,**
+28,4399,*Townsend, Charles Haskins*,**,**
+28,4400,*Townsend, Charles Haskins*,**,**
+28,4401,*Tracy, Henry Chester*,**,**
+28,4402,*Tratman, E. K.*,*= Edger Kingsley*,**
+28,4403,*Treat, Payson J.*,**,**
+28,4404,*Trelease, Sam Farlow*,**,**
+28,4404,*Yule, E. S.*,*= Emma Sarepta*,**
+28,4405,*Tretjakoff, D.*,*= Tret'yakov, Dmitriy Konstantinovich*,**
+28,4406,*Tretjakoff, D.*,*= Tret'yakov, Dmitriy Konstantinovich*,**
+28,4407,*Troighton, Ellis LeG.*,**,**
+28,4408,*Troxell, Edward Leffingwell*,**,**
+28,4409,*Troxell, Edward Leffingwell*,**,**
+28,4410,*Trueman, Arthur Elijah*,**,**
+28,4411,*Trusheim, F.*,**,**
+28,4412,*Tubia%A, J. Fuset*,**,**
+28,4413,*Tugarinov, A.*,*= Arkadiy Yakovlevich*,**
+28,4414,*Tugarinov, A.*,*= Arkadiy Yakovlevich*,**
+28,4415,*Twenhofel, William Henry*,**,**
+28,4416,*Twenhofel, William Henry*,**,**
+28,4417,*Ubisch, Leopold von*,**,**
+28,4418,*Uhle, Max*,**,**
+28,4419,*United States Geological Survey*,**,**
+28,4420,*Uss, P.*,*= Us, Peter*,**
+28,4421,*Vallois, Henri V.*,*= Victor*,**
+28,4423,*Vallois, Henri V.*,*= Victor*,**
+28,4424,*Vallois, Henri V.*,*= Victor*,**
+28,4425,*Vallois, Henri V.*,*= Victor*,**
+28,4426,*Vallois, Henri V.*,*= Victor*,**
+28,4427,*Vallois, Henri V.*,*= Victor*,**
+28,4428,*Vallois, Henri V.*,*= Victor*,**
+28,4429,*Vallois, Henri V.*,*= Victor*,**
+28,4430,*Vallois, Henri V.*,*= Victor*,**
+28,4431,*Vallois, Henri V.*,*= Victor*,**
+28,4432,*Vallois, Henri V.*,*= Victor*,**
+28,4433,*Vallois, Henri V.*,*= Victor*,**
+28,4434,*Van Bemmelen, J. F.*,**,**
+28,4435,*Van Bonde, Cecil*,**,**
+28,4437,*Van Cleave, Harley Jones*,**,**
+28,4438,*Van Deinse, A. B.*,**,**
+28,4439,*Van den Broek, A. J. P.*,**,**
+28,4440,*Van den Broek, A. J. P.*,**,**
+28,4441,*VanderHoof, Vertress Lawrence*,**,**
+28,4442,*VanderHoof, Vertress Lawrence*,**,**
+28,4443,*VanderHoof, Vertress Lawrence*,**,**
+28,4444,*Van der Klaauw, C. J.*,**,**
+28,4445,*Van der Klaauw, C. J.*,**,**
+28,4446,*Van der Klaauw, C. J.*,**,**
+28,4447,*Van der Klaauw, C. J.*,**,**
+28,4448,*Van der Klaauw, C. J.*,**,**
+28,4449,*Van der Maarel, Franciscus Hendricus*,**,**
+28,4450,*Van der Maarel, Franciscus Hendricus*,**,**
+28,4451,*Van der Vlerk, J. M.*,**,**
+28,4452,*Van Es, T.L.J.C.*,**,**
+28,4453,*Van Hoepen, Egbert Cornelius Nicolaas*,**,**
+28,4454,*Van Hoepen, Egbert Cornelius Nicolaas*,**,**
+28,4455,*Van Hoepen, Egbert Cornelius Nicolaas*,**,**
+28,4456,*Van Hoepen, Egbert Cornelius Nicolaas*,**,**
+28,4457,*Van Hoepen, Egbert Cornelius Nicolaas*,**,**
+28,4458,*Van Straelen, Victor*,**,**
+28,4459,*Van Straelen, Victor*,**,**
+28,4460,*Varigny, Henry de*,**,**
+28,4461,*Varigny, Henry de*,**,**
+28,4462,*Vaufrey, Raymond*,**,**
+28,4463,*Vaufrey, Raymond*,**,**
+28,4467,*Vaufrey, Raymond*,**,**
+28,4468,*Vaufrey, Raymond*,**,**
+28,4469,*Vaufrey, Raymond*,**,**
+28,4470,*Vaufrey, Raymond*,**,**
+28,4471,*Vaufrey, Raymond*,**,**
+28,4472,*Vaufrey, Raymond*,**,**
+28,4473,*Vaufrey, Raymond*,**,**
+28,4474,*Vaufrey, Raymond*,**,**
+28,4475,*Vaufrey, Raymond*,**,**
+28,4476,*Vaufrey, Raymond*,**,**
+28,4477,*Vaufrey, Raymond*,**,**
+28,4478,*Vaufrey, Raymond*,**,**
+28,4479,*Vaufrey, Raymond*,**,**
+28,4480,*Vaufrey, Raymond*,**,**
+28,4481,*Vaufrey, Raymond*,**,**
+28,4482,*Vaufrey, Raymond*,**,**
+28,4483,*Vaufrey, Raymond*,**,**
+28,4484,*Vaufrey, Raymond*,**,**
+28,4485,*Vaufrey, Raymond*,**,**
+28,4486,*Vaufrey, Raymond*,**,**
+28,4487,*Vaufrey, Raymond*,**,**
+28,4487,*Maurer, M. A.*,**,**
+28,4488,*Vernadsky, Wladimir*,*= Vernadskiy, Vladimir Ivanovich*,**
+28,4489,*Verneau, R.*,*= Rene%A*,**
+28,4490,*Versluys, Jan*,**,**
+28,4491,*Versluys, Jan*,**,**
+28,4492,*Vienot, John*,**,**
+28,4493,*Vigh, Julius*,**,**
+28,4494,*Vignati, M. A.*,*= Milciades Alejo*,**
+28,4495,*Vignati, M. A.*,*= Milciades Alejo*,**
+28,4496,*Villalta, Joseph F. de.*,*= Villalta y Comella, Jose%A F. de,*,**
+28,4496,*Crusafont, M.*,*= Crusafont Pairo%A, Miguel*,**
+28,4497,*Vinassa de Regny, Paolo*,**,**
+28,4498,*Vinassa de Regny, Paolo*,**,**
+28,4499,*Viret, Jean*,**,**
+28,4500,*Viret, Jean*,**,**
+28,4501,*Viret, Jean*,**,**
+28,4502,*Viret, Jean*,**,**
+28,4503,*Viret, Jean*,**,**
+28,4504,*Viret, Jean*,**,**
+28,4505,*Viret, Jean*,**,**
+28,4506,*Viret, Jean*,**,**
+28,4507,*Vishnevskii, B. N.*,*= Vishnevskiy, Boris Nikolayevich*,**
+28,4508,*Voelcker, Ilse*,**,**
+28,4509,*Voelcker, Ilse*,**,**
+28,4510,*Voelcker, Ilse*,**,**
+28,4511,*Voelcker, Ilse*,**,**
+28,4512,*Voelcker, Ilse*,**,**
+28,4513,*Vogel, Martin*,**,**
+28,4514,*Voigt, Ehrhard*,**,**
+28,4515,*Voigt, Ehrhard*,**,**
+28,4516,*Voigt, Ehrhard*,**,**
+28,4517,*Voigt, E.*,**,**
+28,4517,*Brotzen, F.*,**,**
+28,4517,*Bettenstaedt, F.*,**,**
+28,4518,*Vollrath, Paul*,**,**
+28,4519,*Waage, T. H.*,**,**
+28,4520,*Wade, Robert Theodore*,**,**
+28,4521,*Wade, Robert Theodore*,**,**
+28,4522,*Wade, Robert Theodore*,**,**
+28,4523,*Wade, Robert Theodore*,**,**
+28,4524,*Wadia*,**,**
+28,4524,*Drashaw N.*,*= Nesherwan*,**
+28,4525,*Wadia*,**,**
+28,4525,*Drashaw N.*,*= Nesherwan*,**
+28,4526,*Wadia, D. N.*,**,**
+28,4526,*Swinton, W. E.*,**,**
+28,4527,*Wagner, Ernst*,**,**
+28,4528,*Wagner, Ernst*,**,**
+28,4529,*Wagner, Georg*,**,**
+28,4530,*Wahle, E.*,*= Ernst*,**
+28,4531,*Walk, L.*,**,**
+28,4532,*Walker, M. V.*,*= Myrl Vincent*,**
+28,4533,*Walker, M. V.*,*= Myrl Vincent*,**
+28,4534,*Walker, M. V.*,*= Myrl Vincent*,**
+28,4535,*Walker, M. V.*,*= Myrl Vincent*,**
+28,4536,*Wallis, Wilson Dallam*,**,**
+28,4537,*Walmsley, Thomas*,**,**
+28,4538,*Walter, Herbert Eugene*,**,**
+28,4539,*Walther, Johannes*,**,**
+28,4540,*Walther, J.*,**,**
+28,4540,*Weigelt, J.*,*= Johannes*,**
+28,4541,*Walther, J.*,**,**
+28,4541,*Weigelt, J.*,*= Johannes*,**
+28,4542,*Walther, Karl*,**,**
+28,4543,*Wanderer, Karl*,**,**
+28,4544,*Wang, Kung-Moh*,**,**
+28,4545,*Wang, Kung-Moh*,**,**
+28,4546,*Wang, Kung-Moh*,**,**
+28,4547,*Wang, Kung-Moh*,**,**
+28,4548,*Wanner, Johannes*,**,**
+28,4549,*Ward, Henshaw*,**,**
+28,4550,*Warden, Carl John*,**,**
+28,4551,*Wark, Arthur Frederic*,**,**
+28,4552,*Wark, Arthur Frederic*,**,**
+28,4553,*Wark, Arthur Frederic*,**,**
+28,4554,*Warren, Helen Ann*,**,**
+28,4555,*Warthin, Alfred Scott, Jr.*,**,**
+28,4556,*Waterman, Harriet Cutler*,**,**
+28,4557,*Watson, David Meredith Seares*,**,**
+28,4558,*Watson, David Meredith Seares*,**,**
+28,4559,*Watson, David Meredith Seares*,**,**
+28,4560,*Watson, David Meredith Seares*,**,**
+28,4561,*Watson, David Meredith Seares*,**,**
+28,4562,*Watson, David Meredith Seares*,**,**
+28,4563,*Watson, David Meredith Seares*,**,**
+28,4564,*Watson, David Meredith Seares*,**,**
+28,4565,*Watson, David Meredith Seares*,**,**
+28,4566,*Watson, David Meredith Seares*,**,**
+28,4567,*Watson, David Meredith Seares*,**,**
+28,4568,*Watson, David Meredith Seares*,**,**
+28,4569,*Watson, David Meredith Seares*,**,**
+28,4570,*Watson, David Meredith Seares*,**,**
+28,4571,*Watson, David Meredith Seares*,**,**
+28,4572,*Watson, David Meredith Seares*,**,**
+28,4573,*Watson, David Meredith Seares*,**,**
+28,4574,*Watson, David Meredith Seares*,**,**
+28,4575,*Watson, David Meredith Seares*,**,**
+28,4576,*Watson, David Meredith Seares*,**,**
+28,4577,*Watson, David Meredith Seares*,**,**
+28,4578,*Watson, David Meredith Seares*,**,**
+28,4579,*Watson, David Meredith Seares*,**,**
+28,4580,*Watson, David Meredith Seares*,**,**
+28,4582,*Watson, D. M. S.*,**,**
+28,4582,*Forster-Cooper, C.*,**,**
+28,4583,*Watson, D. M. S.*,**,**
+28,4583,*Seward, A. C.*,**,**
+28,4583,*duToit, A. L.*,**,**
+28,4583,*Walkom, A. B.*,**,**
+28,4583,*Broom, R.*,**,**
+28,4584,*Watson, Oscar*,**,**
+28,4585,*Wayland, E. J.*,*=Edward James*,**
+28,4586,*Wayland, E. J.*,*=Edward James*,**
+28,4587,*Weaver, Charles Edwin*,**,**
+28,4588,*Weber, Hans*,**,**
+28,4589,*Weber, Max*,**,**
+28,4590,*Weber, Max*,**,**
+28,4591,*Weber, Max*,**,**
+28,4592,*Wegner, Theodor Hubert*,**,**
+28,4593,*Wehrli, Hans*,**,**
+28,4594,*Wehrli, Hans*,**,**
+28,4595,*Wehrli, Hans*,**,**
+28,4596,*Weidenreich, Franz*,**,**
+28,4597,*Weidenreich, Franz*,**,**
+28,4598,*Weidenreich, Franz*,**,**
+28,4599,*Weidenreich, Franz*,**,**
+28,4600,*Weidenreich, Franz*,**,**
+28,4601,*Weidenreich, Franz*,**,**
+28,4602,*Weidenreich, Franz*,**,**
+28,4603,*Weidenreich, Franz*,**,**
+28,4604,*Weidenreich, Franz*,**,**
+28,4605,*Weidenreich, Franz*,**,**
+28,4606,*Weidenreich, Franz*,**,**
+28,4607,*Weidenreich, Franz*,**,**
+28,4608,*Weidenreich, Franz*,**,**
+28,4609,*Weidenreich, Franz*,**,**
+28,4610,*Weidenreich, Franz*,**,**
+28,4611,*Weidenreich, F.*,**,**
+28,4611,*Wiegers, F.*,**,**
+28,4611,*Schuster, E.*,**,**
+28,4612,*Weigelt, Johannes*,**,**
+28,4613,*Weigelt, Johannes*,**,**
+28,4614,*Weigelt, Johannes*,**,**
+28,4615,*Weigelt, Johannes*,**,**
+28,4616,*Weigelt, Johannes*,**,**
+28,4617,*Weigelt, Johannes*,**,**
+28,4618,*Weigelt, Johannes*,**,**
+28,4619,*Weigelt, Johannes*,**,**
+28,4620,*Weigelt, Johannes*,**,**
+28,4621,*Weigelt, Johannes*,**,**
+28,4622,*Weigelt, Johannes*,**,**
+28,4623,*Weigelt, Johannes*,**,**
+28,4624,*Weigelt, Johannes*,**,**
+28,4625,*Weigelt, Johannes*,**,**
+28,4626,*Weigelt, Johannes*,**,**
+28,4627,*Weigelt, Johannes*,**,**
+28,4628,*Weigelt, Johannes*,**,**
+28,4629,*Weigelt, Johannes*,**,**
+28,4630,*Weigelt, Johannes*,**,**
+28,4631,*Weigelt, Johannes*,**,**
+28,4632,*Weil, Arthur*,**,**
+28,4633,*Weil, Arthur*,**,**
+28,4634,*Weiler, Wilhelm*,**,**
+28,4635,*Weiler, Wilhelm*,**,**
+28,4636,*Weiler, Wilhelm*,**,**
+28,4637,*Weiler, Wilhelm*,**,**
+28,4638,*Weiler, Wilhelm*,**,**
+28,4639,*Weiler, Wilhelm*,**,**
+28,4640,*Weiler, Wilhelm*,**,**
+28,4641,*Weiler, Wilhelm*,**,**
+28,4642,*Weiler, Wilhelm*,**,**
+28,4643,*Weiler, Wilhelm*,**,**
+28,4644,*Weiler, Wilhelm*,**,**
+28,4645,*Weiler, Wilhelm*,**,**
+28,4646,*Weiler, Wilhelm*,**,**
+28,4647,*Weiler, Wilhelm*,**,**
+28,4648,*Weiler, Wilhelm*,**,**
+28,4649,*Weiler, Wilhelm*,**,**
+28,4650,*Weiler, Wilhelm*,**,**
+28,4651,*Weinert, Hans*,**,**
+28,4652,*Weinert, Hans*,**,**
+28,4653,*Weinert, Hans*,**,**
+28,4654,*Weinert, Hans*,**,**
+28,4655,*Weinert, Hans*,**,**
+28,4656,*Weinert, Hans*,**,**
+28,4657,*Weinert, Hans*,**,**
+28,4658,*Weinert, Hans*,**,**
+28,4659,*Weinert, Hans*,**,**
+28,4660,*Weinert, Hans*,**,**
+28,4661,*Weinert, Hans*,**,**
+28,4662,*Weinert, Hans*,**,**
+28,4663,*Weinert, Hans*,**,**
+28,4664,*Weinert, Hans*,**,**
+28,4665,*Weinert, Hans*,**,**
+28,4666,*Weinert, Hans*,**,**
+28,4667,*Weinert, Hans*,**,**
+28,4668,*Weinert, Hans*,**,**
+28,4669,*Weinert, Hans*,**,**
+28,4670,*Weinert, Hans*,**,**
+28,4671,*Weinert, Hans*,**,**
+28,4672,*Weinert, Hans*,**,**
+28,4673,*Weinert, Hans*,**,**
+28,4674,*Weinert, Hans*,**,**
+28,4675,*Weinert, Hans*,**,**
+28,4676,*Weinert, Hans*,**,**
+28,4677,*Weinert, Hans*,**,**
+28,4678,*Weinert, Hans*,**,**
+28,4679,*Weinert, Hans*,**,**
+28,4680,*Weinert, Hans*,**,**
+28,4681,*Weinert, Hans*,**,**
+28,4682,*Weinert, Hans*,**,**
+28,4683,*Weitzel, Karl*,**,**
+28,4684,*Weitzel, Karl*,**,**
+28,4685,*Weitzel, Karl*,**,**
+28,4686,*Weitzel, Karl*,**,**
+28,4687,*Weitzel, Karl*,**,**
+28,4688,*Weitzel, Karl*,**,**
+28,4689,*Weitzel, Karl*,**,**
+28,4690,*Weitzel, Karl*,**,**
+28,4691,*Wells, Harry Gideon*,*= Georee Philip*,**
+28,4692,*Wells, H. G.*,**,**
+28,4692,*Huxley, J.S.*,**,**
+28,4692,*Wells, G. P.*,**,**
+28,4693,*Wells, Lawrence Herbert*,**,**
+28,4694,*Wells, Lawrence Herbert*,**,**
+28,4695,*Wells, Lawrence Herbert*,**,**
+28,4696,*Wenke, H.*,**,**
+28,4697,*Wenz, Wilhelm*,**,**
+28,4698,*Werner, Franz*,**,**
+28,4699,*Wernert, Paul*,**,**
+28,4700,*Werth, Emil*,**,**
+28,4701,*Werth, Emil*,**,**
+28,4702,*West, G. A.*,**,**
+28,4703,*Westenho%Ffer, M.*,**,**
+28,4704,*Westenho%Ffer, M.*,**,**
+28,4705,*Westenho%Ffer, M.*,**,**
+28,4706,*Westenho%Ffer, M.*,**,**
+28,4707,*Westenho%Ffer, M.*,**,**
+28,4708,*Wetmore, Alexander*,**,**
+28,4709,*Wetmore, Alexander*,**,**
+28,4710,*Wetmore, Alexander*,**,**
+28,4711,*Wetmore, Alexander*,**,**
+28,4712,*Wetmore, Alexander*,**,**
+28,4713,*Wetmore, Alexander*,**,**
+28,4714,*Wetmore, Alexander*,**,**
+28,4715,*Wetmore, Alexander*,**,**
+28,4716,*Wetmore, Alexander*,**,**
+28,4717,*Wetmore, Alexander*,**,**
+28,4718,*Wetmore, Alexander*,**,**
+28,4719,*Wetmore, Alexander*,**,**
+28,4720,*Wetmore, Alexander*,**,**
+28,4721,*Wetmore, Alexander*,**,**
+28,4722,*Wetmore, Alexander*,**,**
+28,4723,*Wetmore, Alexander*,**,**
+28,4724,*Wetmore, Alexander*,**,**
+28,4725,*Wetmore, Alexander*,**,**
+28,4726,*Wetmore, Alexander*,**,**
+28,4727,*Wetmore, Alexander*,**,**
+28,4728,*Wetmore, Alexander*,**,**
+28,4729,*Wetmore, Alexander*,**,**
+28,4730,*Wetmore, Alexander*,**,**
+28,4731,*Wetmore, Alexander*,**,**
+28,4732,*Wetmore, Alexander*,**,**
+28,4733,*Wetmore, Alexander*,**,**
+28,4734,*Wetmore, Alexander*,**,**
+28,4735,*Wetmore, A.*,**,**
+28,4735,*Case, E. C.*,**,**
+28,4736,*Wetmore, A.*,**,**
+28,4736,*Friedmann, H.*,**,**
+28,4737,*Wetmore, A.*,**,**
+28,4737,*Martin, H. T.*,**,**
+28,4738,*Wetmore, A.*,**,**
+28,4738,*Miller, G. S.*,**,**
+28,4738,*Gidley, J. W.*,**,**
+28,4739,*Wettstein, Otto von*,**,**
+28,4740,*Wettstein, Otto von*,**,**
+28,4741,*Wetzel, Walter*,**,**
+28,4742,*Wetzel, Walter*,**,**
+28,4743,*Weygandt, W.*,*= Wilhelm*,**
+28,4744,*Wheeler, J. M.*,**,**
+28,4745,*Wheeler, William Morton*,**,**
+28,4746,*Whelan, C. Blake*,*= Claud*,**
+28,4747,*Whipple, Ralph Wheaton*,**,**
+28,4748,*Whipple, Ralph Wheaton*,**,**
+28,4749,*Whipple, R. W.*,**,**
+28,4749,*Case, E. C.*,**,**
+28,4750,*White, David*,**,**
+28,4751,*White, David*,**,**
+28,4752,*White, Errol Ivor*,**,**
+28,4753,*White, Errol Ivor*,**,**
+28,4754,*White, Errol Ivor*,**,**
+28,4755,*White, Errol Ivor*,**,**
+28,4756,*White, Errol Ivor*,**,**
+28,4757,*White, Errol Ivor*,**,**
+28,4758,*White, E. I.*,**,**
+28,4758,*Frost, G. A.*,**,**
+28,4759,*Whitehead, George*,**,**
+28,4760,*Whitley, Gilbert P.*,*= Percy*,**
+28,4761,*Whitley, Gilbert P.*,*= Percy*,**
+28,4762,*Whittard, W. F.*,*= Walter Frederick*,**
+28,4763,*Whittard, W. F.*,*= Walter Frederick*,**
+28,4764,*Hess von Wichdorff, H.*,*= Hans Kurt*,**
+28,4765,*Wiegers, Fritz*,**,**
+28,4766,*Wiegers, Fritz*,**,**
+28,4767,*Wiegers, Fritz*,**,**
+28,4768,*Wieland, George Reber*,**,**
+28,4769,*Wiesel, Ludwig*,**,**
+28,4770,*Wilckens, Otto*,**,**
+28,4771,*Wilkerson, Albert Samuel*,**,**
+28,4772,*Willard, Bradford*,**,**
+28,4773,*Willard, B.*,**,**
+28,4773,*Cleaves, A. B.*,**,**
+28,4774,*Willey, D. A.*,**,**
+28,4775,*Williams, George Albert*,**,**
+28,4776,*Williams, Henry Smith*,**,**
+28,4777,*Williams, Herbert*,**,**
+28,4778,*Williams, Merton Yarwood*,**,**
+28,4778,*Dyer, W. S.*,**,**
+28,4779,*Williams, William Alfred*,**,**
+28,4780,*Wilser, Jul. L.*,*= Julius*,**
+28,4781,*Wilson, Robert W.*,*= Warren*,**
+28,4782,*Wilson, Robert W.*,*= Warren*,**
+28,4783,*Wilson, Robert W.*,*= Warren*,**
+28,4784,*Wilson, Robert W.*,*= Warren*,**
+28,4785,*Wiman, Carl*,**,**
+28,4786,*Wiman, Carl*,**,**
+28,4787,*Wiman, Carl*,**,**
+28,4788,*Wiman, Carl*,**,**
+28,4789,*Wiman, Carl*,**,**
+28,4790,*Wiman, Carl*,**,**
+28,4791,*Wiman, Carl*,**,**
+28,4792,*Wiman, Carl*,**,**
+28,4793,*Wiman, Carl*,**,**
+28,4794,*Wiman, Carl*,**,**
+28,4795,*Wiman, Carl*,**,**
+28,4796,*Wiman, Carl*,**,**
+28,4797,*Winchell, Alexander*,**,**
+28,4798,*Wing, Monta Eldo*,**,**
+28,4799,*Winterhalter, W. P.*,**,**
+28,4800,*Woldstedt, Paul*,**,**
+28,4801,*Woltereck, Richard*,**,**
+28,4802,*Wolterstorff, W.*,**,**
+28,4803,*Wong, Wen Hao*,**,**
+28,4804,*Wood, Albert Elmer*,**,**
+28,4805,*Wood, Albert Elmer*,**,**
+28,4806,*Wood, Albert Elmer*,**,**
+28,4807,*Wood, Albert Elmer*,**,**
+28,4808,*Wood, Casey Albert*,**,**
+28,4809,*Wood, Casey Albert*,**,**
+28,4810,*W[ood], G[eorge] McL[ane]*,**,**
+28,4811,*Wood, Horace Elmer, II*,**,**
+28,4812,*Wood, Horace Elmer, II*,**,**
+28,4813,*Wood, Horace Elmer, II*,**,**
+28,4814,*Wood, Horace Elmer, II*,**,**
+28,4815,*Wood, Horace Elmer, II*,**,**
+28,4816,*Wood, Horace Elmer, II*,**,**
+28,4817,*Wood, Horace Elmer, II*,**,**
+28,4818,*Wood, Horace Elmer, II*,**,**
+28,4819,*Wood, Horace Elmer, II*,**,**
+28,4820,*Wood, H. E.*,**,**
+28,4820,*Wood, A. E.*,**,**
+28,4821,*Wood, H. E.*,**,**
+28,4821,*Wood, A. E.*,**,**
+28,4822,*Woodring, Wendell Phillips*,**,**
+28,4822,*Roundy*,**,**
+28,4822,*Farnsworth, H. R.*,**,**
+28,4823,*Woodruff, Lorande Loss*,**,**
+28,4824,*Woods, W. C.*,*= William Colcord*,**
+28,4825,*Woodward, Alice*,**,**
+28,4826,*Woodward, Sir Arthur Smith*,**,**
+28,4827,*Woodward, Sir Arthur Smith*,**,**
+28,4828,*Woodward, Sir Arthur Smith*,**,**
+28,4829,*Woodward, Sir Arthur Smith*,**,**
+28,4830,*Woodward, Sir Arthur Smith*,**,**
+28,4831,*Woodward, Sir Arthur Smith*,**,**
+28,4832,*Woodward, Sir Arthur Smith*,**,**
+28,4833,*Woodward, Sir Arthur Smith*,**,**
+28,4834,*Woodward, Sir Arthur Smith*,**,**
+28,4835,*Woodward, Sir Arthur Smith*,**,**
+28,4836,*Woodward, Sir Arthur Smith*,**,**
+28,4837,*Woodward, Sir Arthur Smith*,**,**
+28,4838,*Woodward, Sir Arthur Smith*,**,**
+28,4839,*Woodward, Sir Arthur Smith*,**,**
+28,4840,*Woodward, Sir Arthur Smith*,**,**
+28,4841,*Woodward, Sir Arthur Smith*,**,**
+28,4842,*Woodward, Sir Arthur Smith*,**,**
+28,4843,*Woodward, Sir Arthur Smith*,**,**
+28,4844,*Woodward, Sir Arthur Smith*,**,**
+28,4845,*Woodward, Sir Arthur Smith*,**,**
+28,4846,*Woodward, Sir Arthur Smith*,**,**
+28,4847,*Woodward, Sir Arthur Smith*,**,**
+28,4848,*Woodward, Sir Arthur Smith*,**,**
+28,4849,*Woodward, Sir Arthur Smith*,**,**
+28,4850,*Woodward, Sir Arthur Smith*,**,**
+28,4851,*Woodward, Sir Arthur Smith*,**,**
+28,4852,*Woodward, Sir Arthur Smith*,**,**
+28,4853,*Woodward, Sir A.*,**,**
+28,4853,*White, E. I.*,**,**
+28,4854,*Woskoboinikoff, M. M.*,*=Voskoboynikov, M. M.*,**
+28,4855,*Wright, Sewall*,**,**
+28,4856,*Wurm, Adolph*,**,**
+28,4857,*Wurm, Adolph*,**,**
+28,4858,*Wu%Fst, Ewald*,**,**
+28,4859,*Yabe, Hisakatsu*,**,**
+28,4860,*Yabe, H.*,**,**
+28,4860,*Obata, T.*,**,**
+28,4861,*Yabe, H.*,**,**
+28,4861,*Obata, T.*,**,**
+28,4862,*Yabe, H.*,**,**
+28,4862,*Ozaki, K.*,**,**
+28,4863,*Yagi, Teisuke*,**,**
+28,4864,*Yin, Tsau Hsun*,**,**
+28,4865,*Yokoyama, Matajiro*,**,**
+28,4866,*Yokoyama, Matajiro*,**,**
+28,4867,*Young, Chung-Chien*,**,**
+28,4868,*Young, Chung-Chien*,**,**
+28,4869,*Young, Chung-Chien*,**,**
+28,4870,*Young, Chung-Chien*,**,**
+28,4871,*Young, Chung-Chien*,**,**
+28,4872,*Young, Chung-Chien*,**,**
+28,4873,*Young, Chung-Chien*,**,**
+28,4874,*Young, Chung-Chien*,**,**
+28,4875,*Young, Chung-Chien*,**,**
+28,4876,*Young, Chung-Chien*,**,**
+28,4877,*Young, Chung-Chien*,**,**
+28,4878,*Young, Chung-Chien*,**,**
+28,4879,*Young, C. C., Pei, W. C.*,**,**
+28,4880,*Young, C. C., Pei, W. C.*,**,**
+28,4881,*Zaha%Alka, C%Jene%Jk*,**,**
+28,4882,*Zaha%Alka, C%Jene%Jk*,**,**
+28,4883,*Zander, Robert*,**,**
+28,4884,*Zarnik, Boris*,**,**
+28,4885,*Zdansky, Otto*,**,**
+28,4886,*Zdansky, Otto*,**,**
+28,4887,*Z%Jeli%Ako, Jan Vratislav*,*= Josef Va%Aclav Zelic%Jko*,**
+28,4888,*Z%Jeli%Ako, Jan Vratislav*,*= Josef Va%Aclav Zelic%Jko*,**
+28,4889,*Z%Jeli%Ako, Jan Vratislav*,*= Josef Va%Aclav Zelic%Jko*,**
+28,4890,*Z%Jeli%Ako, Jan Vratislav*,*= Josef Va%Aclav Zelic%Jko*,**
+28,4891,*Zepp, Peter*,**,**
+28,4892,*Zeuner, Friedrich*,**,**
+28,4893,*Zimmer, C.*,**,**
+28,4894,*Zimmer, C.*,**,**
+28,4895,*Zittel, Karl Alfred von*,**,**
+28,4896,*Zizka, Wenzel*,**,**
+28,4897,*Zotz, Lothar F.*,*= Friedrich*,**
+28,4898,*Zuckerman, Solly*,**,**
+28,4899,*Zuckerman, Solly*,**,**
+28,4900,*Zuckerman, Solly*,**,**
+28,4901,*Zuckerman, Solly*,**,**
+28,4902,*Zunini, G.*,*= Giorgio*,**
+

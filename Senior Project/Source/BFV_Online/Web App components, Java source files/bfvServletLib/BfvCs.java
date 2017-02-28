@@ -1,0 +1,1 @@
+import java.lang.*;import java.util.*;public class BfvCs {	static final Vector			trad = new Vector();	bvPair cpair;		public String getConv(String st){		return st;		}		}

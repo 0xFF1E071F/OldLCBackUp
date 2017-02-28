@@ -1,0 +1,16 @@
+2.
+rotateWithLeftChild(AVLNode *& n)
+{
+
+}
+
+rotateWithRightChild(AVLNode *& n)
+{
+}
+
+height(AVLNode* n)
+{
+	if (n==NULL)
+		return -1;
+	return height(n->right_)+1+height(n->left_);
+}

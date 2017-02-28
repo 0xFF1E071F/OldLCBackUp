@@ -1,0 +1,14 @@
+void insert( const Item& item)
+{
+	v.push_back(item);
+	shiftup(v.size()-1);
+}
+void shiftup(int index)
+{
+	int parent = index/2;
+	if (parent >= 1 && v[parent] < v[index])
+	{
+		swap(v[parent],v[index]);
+		shiftup(parent);
+	}
+}

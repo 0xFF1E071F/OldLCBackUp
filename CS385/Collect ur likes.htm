@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)http://127.0.0.1:8080/hw/Yu%20Fu%20HW6/main.php -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<link href="./Collect ur likes_files/style.css" rel="stylesheet" type="text/css">
+	<title>Collect ur likes</title>
+	</head>
+
+<body>
+
+	<div class="contentAreas">
+		<div id="header">
+		<h1><br>CollectUrLikes</h1>
+	   </div>
+
+		<table id="leadTable" style="height: 100px">
+				<tbody><tr>			
+					<th id="TagsTable"> 
+						<fieldset>
+		<legend>Tags</legend>
+		<form name="TagsForm" method="post" action="http://127.0.0.1:8080/hw/Yu%20Fu%20HW6/tag.php" onsubmit="return InputCheck(this)">
+		<p>
+			<input type="checkbox" name="Animal" value="Animal">Animal
+			<input type="checkbox" name="IT" value="IT">IT
+			<input type="checkbox" name="Comic" value="Comic">Comic
+			<input type="checkbox" name="Car" value="Car">Car
+		</p>
+		<p>
+				<input type="submit" name="Refresh" value="Refresh" class="right">
+		</p>
+
+		</form>
+		</fieldset> 
+					</th>	 
+					<th id="userTable"> 
+						<fieldset>
+						<legend>Login</legend>
+						<form name="loginForm" method="post" action="http://127.0.0.1:8080/hw/Yu%20Fu%20HW6/login.php" onsubmit="return InputCheck(this)">
+							
+								<label for="username" class="label">Username:</label>
+								<input id="username" name="$username" type="text" class="input">
+							
+								<label for="password" class="label">password:</label>
+								<input id="password" name="$password" type="password" class="input">
+								<p>
+								<input type="submit" name="submit" value="Submit" class="right">
+								</p></form>
+								<form method="LINK" action="http://127.0.0.1:8080/hw/Yu%20Fu%20HW6/regPage.php">
+								<input type="submit" value="Register">
+								</form>					
+								<p></p>
+						</fieldset>
+					</th> 
+				</tr> 
+		 </tbody></table> 		
+		<table id="middlePart">
+	   			<tbody><tr>
+	   				<td id="middleTable">
+	   					<input name="PostNew" type="button" value="Post New">
+	   					<table style="width: 100%;" border="1">
+							<tbody><tr>
+								<td id="threeLine">
+								<div class="content_block">
+									<h2>Components:</h2>
+
+
+A website where users can register and loginin, users can post interesting information on it.<br>
+
+A website users can view all the interesting information ramdomly depends on theirs tags.<br>
+
+A website whereby a superuser may manage all users and infromations.<br>
+
+A superuser may add, edit or delete any infromations.<br>
+
+A login screen on right top, afterlogin users can manage thier information.</div><br>
+								<div class="content_block">
+								<a><br>"
+					  this is awesome. you have things in three different perspectives. one thats far away, one thats in the middle ( the main picture) and the tree thats really close up. this is so cool, Ive gotta try it out for myself!☯"<br>
+								  <img src="./Collect ur likes_files/236936dd6732cc3d0e6617617569762a.jpg" style="height:354px;width:236px;" alt=""></a>
+								  		</div><br>
+								  		<div class="content_block">
+								<a><br>
+								  		</a><a href="./Collect ur likes_files/design.jpg">
+							  <img src="./Collect ur likes_files/design.jpg" style="height:354px;width:236px;" alt=""></a>
+								  		</div><br>
+
+									</td>
+								
+								<td id="threeLine">
+								<div class="content_block">
+								<h2>Details:</h2>
+
+The most part of web is information part. All information are posted in different block on the first page.<br>
+
+Users can login this website and new things. Also, they can delete them.<br>
+
+Superusers use same system as user but can control more things, like delete users, information and others.
+</div><br>
+
+									<div class="content_block">
+									<a><br>
+					 		 </a><a href="./Collect ur likes_files/car.jpg">
+							  <img src="./Collect ur likes_files/car.jpg" style="height:354px;width:236px;" alt=""></a><br>Awe-inspiring Pagani Huayra. Upload a supercar 
+							  like this to<span class="Apple-converted-space">&nbsp;</span><a class="pintag" href="http://www.pinterest.com/search?q=eBayGarage" rel="nofollow" style="color: rgb(23, 23, 23); font-weight: bold; text-decoration: none;" title="#eBayGarage search Pinterest">#eBayGarage</a><span class="Apple-converted-space">&nbsp;</span>and 
+							  it could change your life. Find out more:<span class="Apple-converted-space">&nbsp;</span><a href="http://www.ebay.com/motors/garage/?_trksid=p2050601.m1256_trkparms=%26clkid%3D6387539442795393727?roken2=ta.p3hwzkq71.bsports-cars-we-love" rel="nofollow" style="color: rgb(23, 23, 23); font-weight: bold; text-decoration: none;" target="_blank">www.ebay.com/...</a><span class="Apple-converted-space">&nbsp;</span><a class="pintag" href="http://www.pinterest.com/search?q=carporn" rel="nofollow" style="color: rgb(23, 23, 23); font-weight: bold; text-decoration: none;" title="#carporn search Pinterest">#carporn</a><span class="Apple-converted-space">&nbsp;</span><a class="pintag" href="http://www.pinterest.com/search?q=spon" rel="nofollow" style="color: rgb(23, 23, 23); font-weight: bold; text-decoration: none;" title="#spon search Pinterest">#spon</a>
+								  		</div><br>
+					
+								</td>
+								
+								<td id="threeLine">
+								
+								<div class="content_block">
+								<h2>Look and feel:</h2>
+
+This website should look very clear and simple. It only has the header, footer and information module.<br>
+		Users can login and logout on the top left<br>
+		They just need to see somethings they would like to at middle part.</div><br>
+
+								<div class="content_block">
+								<a><br>
+								</a><a href="./Collect ur likes_files/usb.jpg">
+							  <img src="./Collect ur likes_files/usb.jpg" style="height:354px;width:336px;" alt=""></a>
+								  		</div><br>
+								  		<div class="content_block">
+								<a><br>
+								</a><a href="http://www.google.com/">LINK-Google</a>								  		
+								</div><br>		
+								</td>													
+							</tr>
+						</tbody></table>	   				</td>
+	   				
+	   				<td id="right-sidebar">
+						<a href="http://www.google.com/">LINK-Google</a><br>
+				<a href="http://www.facebook.com/">LINK-Facebook</a><br>					</td>
+	   			</tr>
+	   		</tbody></table>
+	  <p id="f1">(c) 2014. Yu Fu. someone@example.com</p><table id="footer">
+		
+		</table>
+		
+    </div>
+
+
+	
+
+</body></html>

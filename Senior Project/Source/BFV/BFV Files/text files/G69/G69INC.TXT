@@ -1,0 +1,7 @@
+*Osteichthyes*,*Actinopterygii*,**,**,**,*Incl. infracl. Chondrostei, Holostei, Teleostei*
+*Ichnites*,*Chirotherium*,**,**,*soergeli*,*Isochirotherium*
+*Artiodactyla-Entelodontoi*,*Choeropotamidae*,**,**,**,*?Brachyhyops, Choeropotamus, ?Indohyus*
+*Placodermi*,*Chondrichthyes or*,**,**,**,*Stethacanthus*
+*Anguilliformes-Anguilloid*,*Congridae*,**,**,**,*Ariosoma, Conger, Congridarum, Paraconger, Uroconger*
+*Felidae*,*Felis*,**,**,*lunellensis*,*Panthera pardus*
+

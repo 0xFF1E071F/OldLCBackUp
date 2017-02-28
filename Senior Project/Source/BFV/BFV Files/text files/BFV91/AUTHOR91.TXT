@@ -1,0 +1,2915 @@
+91,10,*Holman, J. Alan*,**,**
+91,11,*Stuart, Anthony J.*,**,**
+91,20,*Lavrov, A. V.*,**,**
+91,21,*Mashchenko, Yevgeniy Nikolayevich*,*Mashchenko, Ye. N.*,**
+91,30,*Lindsay, William*,**,**
+91,40,*West, Robert M.*,**,**
+91,50,*Gregory, Joseph T.*,**,*e*
+91,51,*Bacskai, Judith Ann*,*Bacskai, Judith A.*,*e*
+91,51,*Shkurkin, George Vladimirovich*,*Shkurkin, George V.*,*e*
+91,51,*Winans, Melissa C.*,**,*e*
+91,51,*Rauscher, Bonnie H.*,**,*e*
+91,60,*Vorob'yeva, Emiliya Ivanovna*,**,**
+91,70,*Novikov, Igor' Vital'yevich*,*Novikov, I. V.*,**
+91,80,*Garutt, Vadim Yevgen'yevich*,**,**
+91,90,*Depuis, Christian*,*Dupuis, C.*,*e*
+91,91,*De Coninck, Jan*,*Deconinck, J.*,*e*
+91,91,*Steurbaut, E%Atienne*,*Steurbaut, E.*,*e*
+91,100,*Steurbaut, E%Atienne*,**,**
+91,101,*Nolf, Dirk*,*Nolf, D.*,**
+91,110,*Rose, Kenneth D.*,**,**
+91,111,*Krishtalka, Leonard*,**,**
+91,111,*Stucky, Richard K.*,**,**
+91,120,*Henrici, Amy C.*,**,**
+91,130,*Gao Keqin*,**,**
+91,131,*Fox, Richard C.*,**,**
+91,140,*Durand, Jean-Franc%Bois*,*Durand, J. F.*,**
+91,150,*Gregory, Murray R.*,**,**
+91,160,*Norell, Mark A.*,**,**
+91,161,*de Queiroz, Kevin*,**,**
+91,170,*Hulbert, Richard C., Jr.*,**,**
+91,171,*MacFadden, Bruce J.*,**,**
+91,180,*Flynn, John J.*,**,**
+91,190,*Wahlert, John H.*,**,**
+91,200,*Hunt, Robert M., Jr.*,**,**
+91,210,*Hunt, Robert M., Jr.*,**,**
+91,211,*Solounias, Nikos*,**,**
+91,220,*Krebs, Bernard*,**,**
+91,230,*Kirkland, Henry, Jr.*,**,**
+91,231,*Dill, Janet*,**,**
+91,231,*Selfridge, Wendy*,**,**
+91,240,*Haynes, Gary*,**,**
+91,250,*Anonymous*,**,**
+91,260,*Karataju%Nte%M-Talimaa, Valentina*,*Karatayute-Talimaa, Valentina Nikolayevna*,**
+91,261,*Novitskaya, Larisa Illarionovna*,**,**
+91,261,*Rozman, Khana Solomonovna*,**,**
+91,261,*Sodov, Zh.*,**,**
+91,270,*Novikov, Igor' Vital'yevich*,**,**
+91,280,*Gabunia, Leonid Kalistratovich*,**,**
+91,281,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+91,281,*Gabunia, V. Dzh.*,**,**
+91,290,*Yesin, Dmitriy Nikolayevich*,*Esin, D. N.*,**
+91,300,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+91,310,*Ivakhnenko, Mikhail Feodos'yevich*,*Ivachnenko, M. F.*,**
+91,320,*Orlov, A. N.*,**,**
+91,330,*Savinetskiy, A. B.*,**,**
+91,331,*Knyazev, Aleksandr Vasil'yevich*,*Knyazev, A. V.*,**
+91,340,*Vislobokova, Inesa Anatol'yevna*,**,**
+91,350,*Sennikov, Andrey Gerasimovich*,**,**
+91,360,*Minikh, Alla Vasil'yevna*,*Minich, A. V.*,**
+91,370,*Kaznyshkin, Mikhail Nikolayevich*,**,**
+91,380,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+91,390,*Vislobokova, Inesa Anatol'yevna*,**,**
+91,400,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+91,410,*Ivakhnenko, Mikhail Feodos'yevich*,*Ivachnenko, M. F.*,**
+91,420,*Kurzanov, Sergey Mikhaylovich*,**,**
+91,430,*Tereshchenko, Viktor Stepanovich*,*Tereshchenko, Viktor S.*,**
+91,440,*Afanas'yeva, Ol'ga Borisovna*,*Afanassieva, O. B.*,**
+91,450,*King, Gillian M.*,**,**
+91,460,*King, Gillian M.*,**,**
+91,461,*Cluver, Michael A.*,**,**
+91,470,*Case, Gerard R.*,**,**
+91,471,*West, Robert M.*,**,**
+91,480,*Nolf, Dirk*,**,**
+91,490,*Bone, David A.*,**,**
+91,491,*Todd, Jonathan A.*,**,**
+91,491,*Tracey, Steve*,**,**
+91,500,*Hooker, Jeremy J.*,*Hooker, J. J.*,**
+91,510,*Moigne, Anne-Marie*,**,*e*
+91,520,*Geraads, Denis*,**,**
+91,530,*Lister, Adrian*,**,**
+91,540,*Moulle%A, Pierre-Elie*,**,**
+91,550,*Azanza Asensio, Beatriz*,**,**
+91,551,*Sa%Anchez Chillo%An, Begon%Ea*,**,**
+91,560,*Pernaud, Jacques*,**,**
+91,570,*Lister, Adrian*,**,**
+91,580,*Aouraghe, Hassan*,**,**
+91,590,*Hadjouis, Djillali*,**,**
+91,600,*Petronio, Carmelo*,**,**
+91,610,*Capasso Barbato, Lucia*,**,**
+91,620,*Guadelli, Jean-Luc*,**,**
+91,630,*Simonet, Pierre*,**,**
+91,631,*Monnier, Jean-Laurent*,**,**
+91,640,*Novikov, Igor' Vital'yevich*,**,**
+91,650,*Marandat, Bernard*,**,**
+91,660,*Aguilar, Jean-Pierre*,**,**
+91,661,*Michaux, Jacques*,**,**
+91,661,*Bachelet, Bernadette*,**,**
+91,661,*Calvet, Marc*,**,**
+91,661,*Faillat, Jean-Pierre*,**,**
+91,670,*Borsuk-Bial%Synicka, Magdalena*,**,**
+91,680,*Dybka, Henryk*,**,**
+91,690,*Korotkevich, Yelena Leonidovna*,*Korotkievich, Elena L.*,**
+91,691,*Sulimski, Andrzej*,**,**
+91,700,*Fuglewicz, Ryszard*,**,**
+91,701,*Ptaszyn%Aski, Tadeusz*,**,**
+91,701,*Rdzanek, Kazimierz*,**,**
+91,710,*San'ko, A. F.*,**,**
+91,711,*Motuzko, Aleksandr Nikolayevich*,**,**
+91,720,*Cartelle, Castor*,**,**
+91,730,*Gubin, Yuriy Mikhaylovich*,**,**
+91,740,*Lillegraven, Jason A.*,**,**
+91,741,*Krusat, Georg*,**,**
+91,750,*Giessler, Max*,**,**
+91,760,*Menzel, Herbert*,**,**
+91,770,*Marsicano, Claudia A.*,**,**
+91,780,*Ba%Aez, Ana Mari%Aa*,**,**
+91,781,*Zamaloa, Mari%Aa del Carmen*,**,**
+91,781,*Romero, Edgardo J.*,**,**
+91,790,*Gasparini, Zulma*,**,**
+91,791,*Spalletti, Luis A.*,**,**
+91,800,*Gon%Ei, Ricardo*,**,**
+91,801,*Goin, Francisco*,**,**
+91,810,*Albino, Adriana Mari%Aa*,**,**
+91,820,*Arcucci, Andrea Beatriz*,*Arcucci, A.*,**
+91,830,*Ba%Aez, Ana Mari%Aa*,**,**
+91,831,*Peri, Sylvia*,**,**
+91,840,*Novas, Fernando E.*,**,**
+91,841,*Chiappe, Luis M.*,**,**
+91,841,*Rougier, Guillermo W.*,**,**
+91,850,*Vucetich, Mari%Aa Guiomar*,*Vucetich, Mari%Aa G.*,**
+91,851,*Verzi, Diego H.*,**,**
+91,860,*Pardin%Eas, Ulyses F. J.*,**,**
+91,870,*Calvo, Jorge O.*,**,**
+91,880,*Calvo, Jorge O.*,**,**
+91,881,*Bonaparte, Jose%A F.*,**,**
+91,890,*Noriega, Jorge I.*,**,**
+91,900,*Verzi, Diego H.*,**,**
+91,901,*Montalvo, Claudia I.*,**,**
+91,901,*Vucetich, Mari%Aa Guiomar*,*Vucetich, Mari%Aa G.*,**
+91,910,*Salgado, Leonardo*,**,**
+91,911,*Bonaparte, Jose%A F.*,**,**
+91,920,*Laza, Jose%A H.*,**,**
+91,930,*Anonymous*,**,**
+91,940,*Ru%Fckert-U%Flku%Fmen, Neriman*,**,**
+91,950,*Ru%Fckert-U%Flku%Fmen, Neriman*,**,**
+91,960,*Wellnhofer, Peter*,**,**
+91,961,*Kellner, Alexander Wilhelm Armin*,*Kellner, A. W. A.*,**
+91,970,*Bernor, Raymond L.*,**,**
+91,971,*Lipscomb, Diana*,**,**
+91,980,*Mo%Fdden, Clemens*,**,**
+91,990,*Roehler, Henry W.*,**,**
+91,1000,*Roehler, Henry W.*,**,**
+91,1010,*Bless, Martin J. M.*,*Bless, M. J. M.*,**
+91,1011,*Demoulin, Alain*,*Demoulin, A.*,**
+91,1011,*Felder, P. J.*,**,**
+91,1011,*Jagt, John W. M.*,*Jagt, J. W. M.*,**
+91,1011,*Reynders, J. P. H.*,**,**
+91,1020,*Schmid, Friedrich*,**,*e*
+91,1021,*Spaeth, Christian*,**,*e*
+91,1030,*Taverne, Louis*,**,**
+91,1040,*Werdelin, Lars*,**,**
+91,1050,*Ahlberg, Anders*,**,**
+91,1051,*Siverson, Mikael*,**,**
+91,1060,*Hahn, Gerhard*,**,**
+91,1061,*Sigogneau-Russell, Denise*,**,**
+91,1061,*Godefroit, Pascal*,**,**
+91,1070,*Thies, Detlev*,**,**
+91,1080,*Galton, Peter M.*,**,**
+91,1090,*Brown, David S.*,**,**
+91,1091,*Keen, John A.*,**,**
+91,1100,*Cuny, Gilles*,**,**
+91,1101,*Buffetaut, Eric*,**,**
+91,1101,*Cappetta, Henri*,**,**
+91,1101,*Martin, Michel*,**,**
+91,1101,*Mazin, Jean-Michel*,**,**
+91,1101,*Rose, Jean Michel*,**,**
+91,1110,*Karl, Hans-Volker*,**,**
+91,1120,*Karl, Hans-Volker*,**,**
+91,1130,*Lambers, Paul H.*,**,**
+91,1140,*Hunt, Adrian P.*,**,**
+91,1141,*Lucas, Spencer G.*,**,**
+91,1150,*Schmitz, Michael*,**,**
+91,1151,*Binda, Pier L.*,**,**
+91,1160,*Keller, Thomas*,*Keller, T.*,**
+91,1161,*Frey, Eberhard*,*Frey, E.*,**
+91,1161,*Heil, Reinhard*,*Heil, R.*,**
+91,1161,*Rietschel, Siegfried*,*Rietschel, R.*,**
+91,1161,*Schaal, Stephan*,*Schaal, S.*,**
+91,1161,*Schmitz, Michael*,*Schmitz, M.*,**
+91,1170,*Dalla Vecchia, Fabio Marco*,*Dalla Vecchia, F. M.*,**
+91,1180,*Martens, Thomas*,**,**
+91,1190,*Otto, Markus*,**,**
+91,1200,*Roc%Jek, Zbyne%Jk*,**,**
+91,1210,*Boy, Ju%Frgen A.*,**,**
+91,1211,*Martens, Thomas*,**,**
+91,1220,*Dauphin, Yannicke*,**,**
+91,1221,*Jaeger, Jean-Jacques*,**,**
+91,1230,*Tsuno, Shin'ichiro%N*,**,**
+91,1231,*O%Ntsuka, Hiroyuki*,**,**
+91,1240,*Gaudant, Jean*,*Gaudant, J.*,**
+91,1250,*Schmidt-Kittler, Norbert*,**,**
+91,1251,*Heizmann, Elmar P. J.*,**,**
+91,1260,*Cappetta, Henri*,**,**
+91,1270,*Barthelt, Doris*,**,**
+91,1271,*Fejfar, Oldr%Jich*,**,**
+91,1271,*Pfeil, Friedrich H.*,**,**
+91,1271,*Unger, Elmar*,**,**
+91,1280,*Wellnhofer, Peter*,**,**
+91,1290,*Klembara, Jozef*,**,**
+91,1300,*de Buffre%Anil, Vivian*,*de Buffre%Anil, V.*,**
+91,1301,*de Ricqle%Cs, Armand*,*de Ricqle%Cs, A.*,**
+91,1301,*Sigogneau-Russell, Denise*,*Sigogneau-Russell, D.*,**
+91,1301,*Buffetaut, Eric*,*Buffetaut, E.*,**
+91,1310,*Pickford, Martin*,**,**
+91,1320,*Okazaki, Yoshihiko*,**,**
+91,1330,*S%Ben, S%Bevket*,*Sen, Sevket*,**
+91,1340,*de Muizon, Christian*,**,**
+91,1350,*Krell, Frank-Thorsten*,**,**
+91,1360,*Bellwood, David R.*,**,**
+91,1361,*Schultz, Ortwin*,**,**
+91,1370,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+91,1380,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+91,1381,*Luka%As%J, Jir%Ji%A*,**,**
+91,1390,*Kollmann, Heinz A.*,**,**
+91,1400,*DeFauw, Sherri L.*,**,**
+91,1401,*Shoshani, Jeheskel*,**,**
+91,1410,*Das, Indraneil*,**,**
+91,1420,*Szyndlar, Zbigniew*,**,**
+91,1430,*Mones, Alvaro*,**,**
+91,1440,*Xie Junyi*,**,**
+91,1450,*Chen Quanjia*,**,**
+91,1460,*Cai Huiyang*,**,**
+91,1461,*Wang Xinjin*,**,**
+91,1461,*Xu Chunhua*,**,**
+91,1470,*Shen Guanjun*,**,**
+91,1471,*Jin Linhong*,**,**
+91,1480,*Jiang Peng*,**,**
+91,1490,*Zhang Yinyun*,**,**
+91,1500,*Huang Peihua*,**,**
+91,1501,*Jin Sizhao*,**,**
+91,1501,*Liang Renyou*,**,**
+91,1501,*Lu Zhongjia*,**,**
+91,1501,*Zheng Lizhen*,**,**
+91,1501,*Yuan Zhenxin*,**,**
+91,1501,*Cai Bingxi*,**,**
+91,1501,*Fang Zhaomeng*,**,**
+91,1510,*Gao Xing*,**,**
+91,1511,*You Yuzhu*,**,**
+91,1511,*Wu Zhiqing*,**,**
+91,1520,*Zong Guanfu*,**,**
+91,1521,*Pan Yuerong*,**,**
+91,1521,*Jiang Chu*,**,**
+91,1521,*Xiao Lin*,**,**
+91,1530,*Pan Yuerong*,**,**
+91,1531,*Li Qingchen*,**,**
+91,1531,*Lin Yipu*,**,**
+91,1531,*Jiang Chu*,**,**
+91,1540,*Wu Rukang*,**,**
+91,1550,*Xu Chunhua*,**,**
+91,1560,*Yuan Sixun*,**,**
+91,1561,*Chen Teimei*,**,**
+91,1561,*Gao Shijun*,**,**
+91,1561,*Hu Yanqui*,**,**
+91,1570,*Wu Peizhu*,**,**
+91,1571,*Qian Fang*,**,**
+91,1580,*Xie Guangmao*,**,**
+91,1590,*Huang Weiguo*,**,**
+91,1591,*Zhu Siwei*,**,**
+91,1600,*Ye Maolin*,**,**
+91,1610,*Shen Guanjun*,**,**
+91,1611,*Jin Linhong*,**,**
+91,1620,*Zhang Junshan*,**,**
+91,1630,*Freess, Wolfgang B.*,**,**
+91,1640,*Tyler, James C.*,**,**
+91,1641,*Patterson, Colin*,**,**
+91,1650,*de Buffre%Anil, Vivian*,**,**
+91,1651,*Mazin, Jean-Michel*,**,**
+91,1660,*Giffin, Emily B.*,**,**
+91,1670,*Joeckel, Robert M.*,*Joeckel, R. M.*,**
+91,1680,*Rogers, Raymond R.*,**,**
+91,1690,*Benton, Michael J.*,**,**
+91,1700,*Wellnhofer, Peter*,**,**
+91,1710,*Olson, Storrs L.*,**,**
+91,1720,*Caloi, Lucia*,**,**
+91,1721,*Palombo, Maria Rita*,**,**
+91,1730,*Rindone, Antonino*,**,**
+91,1740,*Erickson, Bruce R.*,**,**
+91,1750,*Patterson, Colin*,**,**
+91,1751,*Owen, Hugh Gwyn*,*Osen, H. G.*,**
+91,1760,*Baird, Robert F.*,**,**
+91,1770,*Bennett, S. Christopher*,**,**
+91,1771,*Long, John A.*,**,**
+91,1780,*Long, John A.*,**,**
+91,1790,*Long, John A.*,**,**
+91,1800,*Sychevskaya, Yevgeniya Konstantinovna*,**,**
+91,1810,*Perle%A, Altangereliyn*,**,**
+91,1820,*Aliyev, S. D.*,**,**
+91,1830,*Griffiths, Mervyn*,**,**
+91,1831,*Wells, Roderick T.*,*Wells, R. T.*,**
+91,1831,*Barrie, D. John*,*Barrie, D. J.*,**
+91,1840,*Westerman, M.*,**,**
+91,1841,*Edwards, Dianne*,*Edwards, D.*,**
+91,1850,*Alcala%A, Luis*,*Alcala%A Marti%Anez, Luis*,**
+91,1851,*Sese%A, Carmen*,*Sese%A Benito, Mari%Aa del Carmen*,**
+91,1851,*Herra%Aez, Esther*,**,**
+91,1851,*Adrover, Rafael*,*Adrover Bennasar, Rafael*,**
+91,1860,*Calvet, Marc*,**,**
+91,1861,*Aguilar, Jean-Pierre*,**,**
+91,1861,*Crochet, Jean-Yves*,**,**
+91,1861,*Dubar, Michel*,**,**
+91,1861,*Michaux, Jacques*,**,**
+91,1870,*Gand, Georges*,**,**
+91,1880,*Gnibidenko, Z. N.*,**,**
+91,1881,*Martynov, Vladimir Aleksandrovich*,**,**
+91,1881,*Donchenko, V. V.*,**,**
+91,1881,*Nikitin, Vadim Petrovich*,**,**
+91,1890,*Zykin, Vladimir Sergeyevich*,**,**
+91,1891,*Zazhigin, Vladimir Seme%Fnovich*,**,**
+91,1891,*Kazanskiy, A. Yu.*,**,**
+91,1900,*Marinescu, Alexandru*,**,**
+91,1910,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+91,1920,*Bauer, Kurt*,**,**
+91,1930,*Fistani, Anton*,**,**
+91,1940,*Saavedra, Ba%Arbara*,**,**
+91,1941,*Simonetti, Javier A.*,**,**
+91,1950,*Storch, Gerhard*,**,**
+91,1951,*Habersetzer, Jo%Frg*,**,**
+91,1960,*Fladerer, Florian Anton*,*Fladerer, F. A.*,**
+91,1970,*Berge, Christine*,**,**
+91,1980,*Godinot, Marc*,**,**
+91,1990,*Plug, I.*,**,**
+91,1991,*Peters, Joris*,*Peters, J.*,**
+91,2000,*Gregory, Joseph T.*,**,**
+91,2010,*Anonymous*,**,**
+91,2020,*Padian, Kevin*,**,**
+91,2030,*Kohring, Rolf*,**,**
+91,2040,*White, John A.*,*White, John*,**
+91,2041,*Lindsay, Everett H.*,**,**
+91,2050,*Hopson, James A.*,**,**
+91,2060,*Street, Martin*,**,**
+91,2061,*Peters, Dieter Stefan*,*Peters, D. Stefan*,**
+91,2070,*Yemel'yanov, Aleksandr Fe%Fdorovich*,**,**
+91,2071,*Rasnitsyn, Aleksandr Pavlovich*,**,**
+91,2080,*Sennikov, Andrey Gerasimovich*,**,**
+91,2090,*Kurochkin, Yevgeniy Nikolayevich*,**,**
+91,2100,*Hoffman, Antoni*,**,**
+91,2110,*Jacobs, Louis L.*,**,**
+91,2111,*Winkler, Dale A.*,**,**
+91,2111,*Murry, Phillip A.*,**,**
+91,2120,*Buffetaut, Eric*,**,**
+91,2130,*Ro%Fgl, Fred*,**,**
+91,2131,*Bernor, Raymond L.*,**,**
+91,2131,*Dermitzakis, Michael D.*,**,**
+91,2131,*Mu%Fller, Carla*,**,**
+91,2131,*Stancheva, Maria*,**,**
+91,2140,*Fahlbusch, Volker*,*Fahlbusch, V.*,**
+91,2150,*Vickers-Rich, Patricia*,*Vickers-Rich, P.*,*e*
+91,2151,*Monaghan, Jennifer M.*,*Monaghan, J. M.*,*e*
+91,2151,*Baird, Robert F.*,*Baird, R. F.*,*e*
+91,2151,*Rich, Thomas H. V.*,*Rich, T. H.*,*e*
+91,2160,*Vickers-Rich, Patricia*,**,**
+91,2161,*Archbold, Neil W.*,**,**
+91,2170,*Tedford, Richard H.*,**,**
+91,2180,*Plane, Michael D.*,**,**
+91,2190,*Frakes, Lawrence A.*,**,**
+91,2191,*Vickers-Rich, Patricia*,**,**
+91,2200,*Chiba, Marta*,**,**
+91,2210,*Whitelaw, Michael J.*,*Whitelaw, Michael*,**
+91,2211,*Kool, Lesley*,**,**
+91,2220,*Sanson, Gordon D.*,**,**
+91,2230,*Pledge, Neville*,**,**
+91,2240,*Baird, Robert F.*,**,**
+91,2250,*Rowley, Merrill*,**,**
+91,2260,*Long, John A.*,*Long, John*,**
+91,2270,*Turner, Susan*,**,**
+91,2280,*Kemp, Anne*,**,**
+91,2290,*Kemp, Noel R.*,**,**
+91,2300,*Warren, Anne A.*,**,**
+91,2310,*Tyler, Michael J.*,**,**
+91,2320,*Molnar, Ralph E.*,**,**
+91,2330,*Gaffney, Eugene S.*,**,**
+91,2340,*Vickers-Rich, Patricia*,**,**
+91,2350,*Baird, Robert F.*,**,**
+91,2360,*Williams, Dominic L. G.*,**,**
+91,2361,*Vickers-Rich, Patricia*,*Rich, Patricia Vickers*,**
+91,2370,*Rich, Thomas H. V.*,*Rich, Thomas H.*,**
+91,2380,*Murray, Peter*,**,**
+91,2390,*Fordyce, R. Ewan*,**,**
+91,2400,*Fordyce, R. Ewan*,**,**
+91,2410,*Millener, Philip R.*,*Millener, Phil R.*,**
+91,2420,*Meredith, Charles W.*,*Meredith, Charles*,**
+91,2430,*Balouet, Jean Christophe*,**,**
+91,2440,*Samuel, Ondrej*,**,**
+91,2450,*Chalifa, Yael*,**,**
+91,2451,*Lewy, Zeev*,**,**
+91,2460,*Bednarik, Robert G.*,**,**
+91,2470,*Blieck, Alain*,**,**
+91,2480,*Tresise, Geoffrey R.*,**,**
+91,2490,*Torrens, Hugh S.*,*Torrens, H. S.*,**
+91,2500,*Rzebik-Kowalska, Barbara*,**,**
+91,2510,*Nadachowski, Adam*,**,**
+91,2511,*Wolsan, Mieczysl%Saw*,**,**
+91,2511,*Godawa, Joanna*,**,**
+91,2520,*Nadachowski, Adam*,**,**
+91,2521,*Baryshnikov, Gennadiy Fe%Fdorovich*,*Baryshnikov, Gennady*,**
+91,2530,*Bochen%Aski, Zygmunt*,**,**
+91,2531,*Tomek, Teresa*,**,**
+91,2540,*Bochen%Aski, Zygmunt*,**,**
+91,2550,*Brunet-Lecomte, Patrick*,*Brunet-Lecomte, P.*,**
+91,2560,*Shreeve, James*,**,**
+91,2570,*Wolkomir, Richard*,**,**
+91,2580,*Glaubrecht, Matthias*,**,**
+91,2590,*DeWiel, John E. F.*,*DeWiel, J. E. F.*,**
+91,2600,*Janssen, Arie W.*,*Janssen, A. W.*,*e*
+91,2610,*Gaemers, Pieter A. M.*,**,**
+91,2620,*de Ceuster, Jef*,**,**
+91,2630,*van Kolfschoten, Thijs*,*van Kolfschoten, Mathijs*,*e*
+91,2631,*de Boer, Poppe L.*,*de Boer, P. L.*,*e*
+91,2640,*Gaemers, Pieter A. M.*,**,**
+91,2650,*van Kolfschoten, Thijs*,*van Kolfschoten, Mathijs*,**
+91,2660,*Vervoort-Kerkhoff, Y.*,**,**
+91,2661,*van Kolfschoten, Thijs*,*van Kolfschoten, T.*,**
+91,2670,*van Kolfschoten, Thijs*,**,**
+91,2671,*de Boer, Poppe L.*,*de Boer, P. L.*,**
+91,2680,*Anonymous*,**,*e*
+91,2690,*Anderson, Ann*,**,**
+91,2700,*Chernin, Sharon*,*Chernin, S.*,**
+91,2701,*Cruickshank, Arthur R. I.*,*Cruickshank, A. R. I.*,**
+91,2710,*Colbert, Edwin H.*,**,**
+91,2720,*Keyser, Andreas W.*,*Keyser, A. W.*,**
+91,2730,*Hendey, Quenton Brett*,*Hendey, Q. B.*,**
+91,2740,*Bjerring, Hans C.*,**,**
+91,2750,*Sander, Paul Martin*,**,**
+91,2760,*Vaas, Ru%Fdiger*,**,**
+91,2770,*Glaubrecht, Matthias*,**,**
+91,2780,*Wellnhofer, Peter*,**,**
+91,2790,*Vaas, Ru%Fdiger*,**,**
+91,2800,*Breuer, Georg*,*Breuer, G.*,**
+91,2810,*Vogt, Hans-Heinrich*,**,**
+91,2820,*Glaubrecht, Matthias*,**,**
+91,2830,*Glaubrecht, Matthias*,**,**
+91,2840,*Wible, John R.*,**,**
+91,2850,*Rothschild, Bruce M.*,**,**
+91,2851,*Berman, David S.*,**,**
+91,2860,*Hook, Robert W.*,**,**
+91,2861,*Hotton, Nicholas, III*,**,**
+91,2870,*Stevens, Margaret Skeels*,**,**
+91,2880,*White, John A.*,**,**
+91,2890,*Elz%Manowski, Andrzej*,**,**
+91,2891,*Galton, Peter M.*,**,**
+91,2900,*West, Robert M.*,**,**
+91,2901,*Hutchison, J. Howard*,**,**
+91,2901,*Munthe, Jens*,**,**
+91,2910,*Olson, Everett C.*,**,**
+91,2920,*Emslie, Steven D.*,**,**
+91,2921,*Messenger, Sharon L.*,**,**
+91,2930,*Estes, Richard*,**,**
+91,2940,*Hutchison, J. Howard*,**,**
+91,2950,*Sereno, Paul C.*,**,**
+91,2960,*Parrish, J. Michael*,**,**
+91,2970,*Godfrey, Stephen J.*,**,**
+91,2971,*Holmes, Robert B.*,**,**
+91,2971,*Laurin, Michel*,**,**
+91,2980,*Luo Zhexi*,**,**
+91,2981,*Ketten, Darlene R.*,**,**
+91,2990,*Carroll, Robert L.*,**,**
+91,3000,*White, John A.*,**,**
+91,3010,*Korth, William W.*,**,**
+91,3011,*Wahlert, John H.*,**,**
+91,3011,*Emry, Robert J.*,**,**
+91,3020,*Wilson, John A.*,**,**
+91,3021,*Westgate, James W.*,**,**
+91,3030,*Olsen, Paul Eric*,**,**
+91,3031,*McCune, Amy R.*,**,**
+91,3040,*Sullivan, Robert M.*,**,**
+91,3050,*Brinkman, Donald B.*,**,**
+91,3051,*Nicholls, Elizabeth L.*,**,**
+91,3060,*Gasparini, Zulma*,**,**
+91,3061,*Chiappe, Luis M.*,**,**
+91,3061,*Ferna%Andez, Marta*,**,**
+91,3070,*Fox, Richard C.*,**,**
+91,3080,*Storer, John E.*,**,**
+91,3090,*Wang Banyue*,**,**
+91,3091,*Emry, Robert J.*,**,**
+91,3100,*Anyonge, William*,**,**
+91,3110,*Churcher, Charles S.*,*Churcher, C. S.*,**
+91,3120,*Domning, Daryl P.*,**,**
+91,3130,*Grande, Lance*,**,**
+91,3131,*Cavender, Ted M.*,**,**
+91,3140,*Gillette, David D.*,**,**
+91,3150,*Wilson, Mark V. H.*,**,**
+91,3151,*Williams, Robert R. G.*,**,**
+91,3160,*Luo Zhexi*,**,**
+91,3170,*Bryant, J. Daniel*,**,**
+91,3180,*Clark, James M.*,**,**
+91,3190,*Pinsof, John D.*,**,**
+91,3200,*Zanon, Robert T.*,**,**
+91,3210,*Tedford, Richard H.*,**,**
+91,3211,*Flynn, Lawrence J.*,**,**
+91,3211,*Qiu Zhanxiang*,**,**
+91,3211,*Opdyke, Neil D.*,**,**
+91,3211,*Downs, William R.*,**,**
+91,3220,*Dashzeveg, Demberelyin*,**,**
+91,3221,*McKenna, Malcolm C.*,**,**
+91,3230,*Kerr, Richard A.*,**,**
+91,3240,*Smith, Moya Meredith*,**,**
+91,3250,*Shubin, Neil H.*,**,**
+91,3251,*Crompton, Alfred Walter*,*Crompton, A. W.*,**
+91,3251,*Sues, Hans-Dieter*,**,**
+91,3251,*Olsen, Paul Eric*,*Olsen, Paul E.*,**
+91,3260,*Anderson, Alun*,**,**
+91,3270,*Jablonski, David*,**,**
+91,3280,*Vermeij, Geerat J.*,**,**
+91,3290,*Bardack, David*,**,**
+91,3300,*Sheehan, Peter M.*,**,**
+91,3301,*Fastovsky, David E.*,**,**
+91,3301,*Hoffman, Raymond G.*,**,**
+91,3301,*Berghaus, Claudia B.*,**,**
+91,3301,*Gabriel, Diane L.*,**,**
+91,3310,*Wassersug, Richard J.*,**,**
+91,3311,*Hoff, Karin*,**,**
+91,3320,*Reif, Wolf-Ernst*,**,**
+91,3330,*Hinchliffe, J. Richard*,*Hinchliffe, J. R.*,**
+91,3331,*Hecht, Max K.*,*Hecht, M. K.*,**
+91,3340,*Szalay, Frederick S.*,**,**
+91,3350,*Shubin, Neil H.*,**,**
+91,3351,*Alberch, Pere*,**,**
+91,3360,*Hecht, Max K.*,**,**
+91,3361,*Eldredge, Niles*,**,**
+91,3361,*Gould, Stephen Jay*,**,**
+91,3370,*Hecht, Max K.*,**,**
+91,3380,*Densmore, Llewellyn D., III*,**,**
+91,3390,*Anonymous*,**,**
+91,3400,*Zinsmeister, William J.*,**,**
+91,3410,*Woodburne, Michael O.*,**,**
+91,3411,*Case, Judd A.*,**,**
+91,3411,*Chaney, Dan S.*,**,**
+91,3420,*Hammer, William R.*,**,**
+91,3421,*Ryan, William J., III*,*Ryan, William J.*,**
+91,3421,*DeFauw, Sherri L.*,**,**
+91,3450,*Hammer, William R.*,**,**
+91,3460,*Taylor, Thomas N.*,**,*e*
+91,3461,*Taylor, Edith L.*,**,*e*
+91,3470,*Hammer, William R.*,**,**
+91,3480,*Heyler, Daniel*,*Heyler, D.*,**
+91,3490,*Gand, Georges*,*Gand, G.*,**
+91,3491,*Courel, Louis*,*Courel, L.*,**
+91,3491,*Debriette, Pierre*,*Debriette, P.*,**
+91,3500,*Schleich, Hans Hermann*,*Schleich, H. H.*,*e*
+91,3510,*Schleich, Hans Hermann*,**,**
+91,3511,*Groessens van Dyck, Marie-Claire*,**,**
+91,3520,*Groessens van Dyck, Marie-Claire*,**,**
+91,3521,*Schleich, Hans Hermann*,**,**
+91,3530,*Groessens van Dyck, Marie-Claire*,**,**
+91,3531,*Schleich, Hans Hermann*,**,**
+91,3540,*Schleich, Hans Hermann*,**,**
+91,3550,*Schleich, Hans Hermann*,**,**
+91,3560,*Ruben, John*,**,**
+91,3570,*Bryant, Harold N.*,**,**
+91,3580,*Zakrzewski, Richard J.*,**,**
+91,3590,*Geraads, Denis*,**,**
+91,3600,*Solounias, Nikos*,*Solounias, N.*,**
+91,3601,*Moelleken, Sonja M. C.*,*Moelleken, S. M. C.*,**
+91,3610,*Reig, Osvaldo A.*,**,**
+91,3611,*Quintana, Carlos A.*,**,**
+91,3620,*Youngman, Phillip M.*,**,**
+91,3621,*Schueler, Frederick W.*,**,**
+91,3630,*Czaplewski, Nicholas J.*,**,**
+91,3640,*Forsten, Ann*,**,**
+91,3650,*Murry, Phillip A.*,**,**
+91,3651,*Winkler, Dale A.*,**,**
+91,3651,*Jacobs, Louis L.*,**,**
+91,3660,*Elliott, David K.*,**,**
+91,3661,*Dineley, David L.*,**,**
+91,3670,*Carroll, Robert L.*,**,**
+91,3671,*Bybee, Paul*,**,**
+91,3671,*Tidwell, William D.*,**,**
+91,3680,*Bruner, John Clay*,**,**
+91,3690,*Bryan, Jonathan R.*,**,**
+91,3691,*Frederick, Daniel L.*,**,**
+91,3691,*Schwimmer, David R.*,**,**
+91,3691,*Siesser, William G.*,**,**
+91,3700,*Gingerich, Philip D.*,**,**
+91,3710,*Fox, Richard C.*,**,**
+91,3720,*Hoare, Richard D.*,*Hoare, R. D.*,**
+91,3730,*Grande, Lance*,**,**
+91,3740,*Martino, Ronald L.*,**,**
+91,3750,*Sumida, Stuart S.*,**,**
+91,3751,*Lombard, R. Eric*,**,**
+91,3760,*Korth, William W.*,**,**
+91,3761,*Emry, Robert J.*,**,**
+91,3770,*Baskin, Jon A.*,**,**
+91,3780,*Kharitonov, Vitaliy Mikhaylovich*,**,**
+91,3790,*Zhao Zikui*,**,**
+91,3791,*Ye Jie*,**,**
+91,3791,*Li Huamei*,**,**
+91,3791,*Zhao Zhenhua*,**,**
+91,3791,*Yan Zheng*,**,**
+91,3800,*Qiu Zhanxiang*,**,**
+91,3801,*Gu Yumin*,**,**
+91,3810,*Su Dezao*,**,**
+91,3820,*Jin Fan*,**,**
+91,3830,*Gu Yumin*,**,**
+91,3831,*Hu Changkang*,**,**
+91,3840,*Qi Tao*,**,**
+91,3841,*Zong Guanfu*,**,**
+91,3841,*Wang Yuanqing*,**,**
+91,3850,*Wang Banyue*,**,**
+91,3851,*Wang Peiyu*,**,**
+91,3860,*Wang Zhengxin*,**,**
+91,3870,*Zhao Zikui*,**,**
+91,3871,*Zhang Wending*,**,**
+91,3880,*Lucas, Spencer G.*,*Lukasi, Sibinse G.*,**
+91,3890,*Dong Ju'an*,**,**
+91,3891,*Chen Wei*,**,**
+91,3900,*Sun Ailing*,**,**
+91,3910,*Peng Jianghua*,**,**
+91,3920,*Zheng Zhong*,**,**
+91,3930,*Qiu Zhanxiang*,**,**
+91,3931,*Yan Defa*,**,**
+91,3931,*Sun Bo*,**,**
+91,3940,*Zong Guanfu*,**,**
+91,3941,*Jiang Chu*,**,**
+91,3950,*Ouyang Lian*,**,**
+91,3951,*Huang Wanbo*,*Huang Wanpo*,**
+91,3960,*Tong Haowen*,**,**
+91,3961,*Qiu Zhanxiang*,**,**
+91,3970,*Wang Junqing*,**,**
+91,3980,*Zhou Mingzhen*,*Chow, Minchen*,**
+91,3981,*Cheng Zhengwu*,**,**
+91,3981,*Wang Yuanqing*,**,**
+91,3990,*Tedford, Richard H.*,*Daifude Li*,**
+91,3991,*Qiu Zhanxiang*,**,**
+91,4000,*Li Jinling*,**,**
+91,4010,*Wu Wenyu*,**,**
+91,4011,*Ye Jie*,**,**
+91,4011,*Zhu Baocheng*,**,**
+91,4020,*Chen Guanfang*,**,**
+91,4030,*Wang Junqing*,**,**
+91,4040,*Shen Mei*,**,**
+91,4041,*Jin Fan*,**,**
+91,4041,*Zhang Jiangyong*,**,**
+91,4050,*Wang Junqing*,**,**
+91,4060,*Li Jinling*,**,**
+91,4070,*Qiu Zhanxiang*,**,**
+91,4071,*Xie Junyi*,**,**
+91,4071,*Yan Defa*,**,**
+91,4080,*Wang Banyue*,**,**
+91,4090,*He Jiao*,**,**
+91,4091,*Huang Wanbo*,*Huang Wanpo*,**
+91,4100,*Kahlke, Ralf-Dietrich*,*Ka'erke, R. D.*,**
+91,4110,*Zhou Mingzhen*,*Chow, Minchen*,**
+91,4111,*Wang Yuanqing*,**,**
+91,4120,*Poole, David Frederick George*,*Poole, D. F. G.*,**
+91,4130,*Richter, Martha*,**,**
+91,4131,*Ward, David J.*,**,**
+91,4140,*Adrover, Rafael*,**,**
+91,4141,*Morales, Jorge*,**,**
+91,4141,*Soria, Dolores*,**,**
+91,4150,*Richter, Martha*,**,**
+91,4151,*Thomson, Michael R. A.*,*Thomson, M. R. A.*,**
+91,4160,*Hammer, William R.*,**,**
+91,4161,*Collinson, James W.*,**,**
+91,4161,*Ryan, William J., III*,**,**
+91,4170,*Sahni, Ashok*,**,**
+91,4171,*Prasad, Guntupalli V. R.*,*Prasad, G. V. R.*,**
+91,4171,*Rana, Rajendra S.*,*Rana, R. S.*,**
+91,4180,*Clot, Andre%A*,**,**
+91,4181,*Duranthon, Francis*,**,**
+91,4190,*Mohabey, D. M.*,**,**
+91,4200,*Ernst, Werner*,**,**
+91,4210,*Curtis, Bruce F.*,**,*e*
+91,4220,*Izett, Glen A.*,**,**
+91,4230,*Riccardi, Alberto C.*,*Riccardi, A. C.*,**
+91,4240,*Feldman, Rodney M.*,**,*e*
+91,4241,*Woodburne, Michael O.*,**,*e*
+91,4250,*Chaney, Dan S.*,**,**
+91,4260,*Case, Judd A.*,**,**
+91,4261,*Woodburne, Michael O.*,**,**
+91,4261,*Chaney, Dan S.*,**,**
+91,4270,*Roe, Lois J.*,**,**
+91,4280,*Gunnell, Gregg F.*,**,**
+91,4281,*Gingerich, Philip D.*,**,**
+91,4290,*Gingerich, Philip D.*,**,**
+91,4300,*Zhou Xiaoyuan*,**,**
+91,4301,*Gingerich, Philip D.*,**,**
+91,4310,*Allison, Peter A.*,**,**
+91,4311,*Smith, Craig R.*,**,**
+91,4311,*Kukert, Helmut*,**,**
+91,4311,*Deming, Jody W.*,**,**
+91,4311,*Bennett, Bruce A.*,**,**
+91,4320,*Witmer, Lawrence M.*,**,**
+91,4321,*Rose, Kenneth D.*,**,**
+91,4330,*Dayan, Tamar*,**,**
+91,4331,*Simberloff, Daniel*,**,**
+91,4331,*Tchernov, Eitan*,**,**
+91,4331,*Yom-Tov, Yoram*,**,**
+91,4340,*Rosenzweig, Michael L.*,**,**
+91,4341,*McCord, Robert D.*,**,**
+91,4350,*Shubin, Neil H.*,**,**
+91,4351,*Sues, Hans-Dieter*,**,**
+91,4360,*Barry, John C.*,**,**
+91,4361,*Morgan, Michele E.*,**,**
+91,4361,*Winkler, Alisa J.*,**,**
+91,4361,*Flynn, Lawrence J.*,**,**
+91,4361,*Lindsay, Everett H.*,**,**
+91,4361,*Jacobs, Louis L.*,**,**
+91,4361,*Pilbeam, David*,**,**
+91,4370,*Flynn, Lawrence J.*,**,**
+91,4371,*Tedford, Richard H.*,**,**
+91,4371,*Qiu Zhanxiang*,**,**
+91,4380,*Webb, S. David*,**,**
+91,4390,*Van Valkenburgh, Blaire*,**,**
+91,4400,*Kohring, Rolf*,**,**
+91,4410,*Tarrant, Peter Rex*,**,**
+91,4420,*Hunt, Adrian P.*,**,**
+91,4421,*Lucas, Spencer G.*,**,**
+91,4430,*Milner, Andrew R.*,**,**
+91,4431,*Evans, Susan E.*,**,**
+91,4440,*Rubidge, Bruce S.*,**,**
+91,4450,*Cox, C. Barry*,**,**
+91,4451,*Hutchinson, Peter*,*Hutchinson, P.*,**
+91,4460,*Lingham-Soliar, Theagarten*,*Lingham-Soliar, T.*,**
+91,4470,*Cox, C. Barry*,**,**
+91,4480,*Mazin, Jean Michel*,**,**
+91,4481,*King, Gillian M.*,**,**
+91,4490,*Hunt, Adrian P.*,**,**
+91,4491,*Lucas, Spencer G.*,**,**
+91,4500,*Bassett, Michael G.*,*Bassett, M. G.*,*e*
+91,4501,*Lane, Philip D.*,*Lane, P. D.*,*e*
+91,4501,*Edwards, Dianne*,*Edwards, D.*,*e*
+91,4510,*Blieck, Alain*,*Blieck, A.*,**
+91,4511,*Janvier, Philippe*,*Janvier, P.*,**
+91,4520,*Berta, Annalisa*,**,**
+91,4530,*Tyler, James C.*,**,**
+91,4531,*Gregorova%A, Ru%Hz%Jena*,**,**
+91,4540,*Chiappe, Luis M.*,**,**
+91,4550,*Le Loeuff, Jean*,*Le Loeuff, J.*,**
+91,4560,*Moody, Richard T. J.*,*Moody, R. T. J.*,**
+91,4561,*Sutcliffe, P. J. C.*,**,**
+91,4570,*Buffetaut, Eric*,*Buffetaut, E.*,**
+91,4571,*Le Loeuff, Jean*,*Le Loeuff, J.*,**
+91,4580,*Sahni, Ashok*,**,**
+91,4581,*Bajpai, Sunil*,**,**
+91,4590,*Pirrie, Duncan*,*Pirrie, D.*,**
+91,4591,*Crame, J. Alistair*,*Crame, J. A.*,**
+91,4591,*Riding, James B.*,*Riding, J. B.*,**
+91,4600,*Jerzykiewicz, Tomasz*,*Jerzykiewicz, T.*,**
+91,4601,*Russell, Dale A.*,*Russell, D. A.*,**
+91,4610,*Borsuk-Bial%Synicka, Magdalena*,**,**
+91,4620,*Warren, Anne A.*,*Warren, Anne*,**
+91,4621,*Snell, Nicola*,**,**
+91,4630,*McNamara, Gregory Charles*,*McNamara, G. C.*,**
+91,4631,*Baird, Robert F.*,*Baird, R. F.*,**
+91,4640,*Willis, Paul M. A.*,**,**
+91,4641,*Molnar, Ralph E.*,**,**
+91,4650,*Murray, Peter*,**,**
+91,4660,*Warren, Anne A.*,*Warren, A. A.*,**
+91,4661,*Kool, Lesley*,*Kool, L.*,**
+91,4661,*Cleeland, M.*,**,**
+91,4661,*Rich, Thomas H. V.*,*Rich, T. H.*,**
+91,4661,*Rich, Patricia Vickers*,*Rich, P. Vickers*,**
+91,4670,*Chiappe, Luis M.*,**,**
+91,4680,*Bonaparte, Jose%A F.*,*Bonaparte, J. F.*,**
+91,4690,*Godfrey, Stephen J.*,**,**
+91,4691,*Reisz, Robert R.*,**,**
+91,4700,*Kaljo, Dimitri*,**,**
+91,4701,*Ma%Frss, Tiiu*,**,**
+91,4710,*King, Gillian M.*,**,**
+91,4720,*Benton, Michael J.*,**,**
+91,4730,*Kalandadze, Nikolay Nikolayevich*,**,**
+91,4731,*Rautian, Aleksandr Sergeyevich*,**,**
+91,4740,*Shishkin, Mikhail Aleksandrovich*,**,**
+91,4750,*Gubin, Yuriy Mikhaylovich*,**,**
+91,4760,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+91,4761,*Kukhaleishvili, R. E.*,**,**
+91,4770,*Afanas'yeva, Ol'ga Borisovna*,*Afanas'eva, O. B.*,**
+91,4771,*Voychishin, V. K.*,*Voichishin, V. K.*,**
+91,4780,*Novikov, Igor' Vital'yevich*,**,**
+91,4790,*Tereshchenko, Viktor Stepanovich*,**,**
+91,4800,*Aver'yanov, Aleksandr Olegovich*,*Aver'ianov, A. O.*,**
+91,4810,*Ochev, Vitaliy Georgiyevich*,**,**
+91,4820,*Kule%Fva, Galina Vasil'yevna*,**,**
+91,4821,*Ochev, Vitaliy Georgiyevich*,**,**
+91,4821,*Tverdokhlebov, Valentin Petrovich*,**,**
+91,4821,*Yanin, Boris Timofeyevich*,**,**
+91,4830,*Yefimov, V. M.*,*Efimov, V. M.*,**
+91,4840,*Alifanov, Vladimir Rudol'fovich*,**,**
+91,4850,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+91,4860,*Sese%A, Carmen*,*Sese%A, C.*,**
+91,4870,*Szyndlar, Zbigniew*,*Szyndlar, Z.*,**
+91,4880,*Szyndlar, Zbigniew*,*Szyndlar, Z.*,**
+91,4890,*Torres, Trinidad*,*Torres, T.*,**
+91,4891,*Mazo, Ana Victoria*,*Mazo, A. V.*,**
+91,4900,*Rabada%C, D.*,**,**
+91,4910,*Ko%Akay, Jo%Azsef*,**,**
+91,4911,*Ha%Amor, Tama%As*,**,**
+91,4911,*Lantos, Miklo%As*,**,**
+91,4911,*Mu%Fller, Pa%Al*,**,**
+91,4920,*Jasko%A, Sa%Andor*,**,**
+91,4921,*Krolopp, Endre*,**,**
+91,4930,*Solt, Pe%Ater*,**,**
+91,4940,*Gaudant, Jean*,**,**
+91,4950,*Kordos, La%Aszlo%A*,**,**
+91,4960,*Kordos, La%Aszlo%A*,**,**
+91,4961,*Ringer, A%Arpa%Ad*,**,**
+91,4970,*Corridi, Claudio*,**,**
+91,4980,*Priuli, Ausilio*,**,**
+91,4990,*Lacorte, Emma*,**,**
+91,5000,*Halstead, L. Beverly*,*Halstead, Beverly*,**
+91,5001,*Stafford, Sarah*,**,**
+91,5010,*David, Bruno*,**,*e*
+91,5011,*Dommergues, Jean-Louis*,**,*e*
+91,5011,*Chaline, Jean*,**,*e*
+91,5011,*Laurin, Bernard*,**,*e*
+91,5020,*Hartenberger, Jean-Louis*,**,**
+91,5030,*Hecht, Max K.*,**,**
+91,5040,*Jaeger, Jean-Jacques*,**,**
+91,5050,*de Ricqle%Cs, Armand*,**,**
+91,5060,*Chaline, Jean*,**,**
+91,5061,*Dutrillaux, Bernard*,**,**
+91,5061,*Couturier, Je%Arome*,**,**
+91,5061,*Durand, Alain*,**,**
+91,5061,*Marchand, Didier*,**,**
+91,5070,*Blaise, Jacques*,**,**
+91,5071,*Bouyx, Emmanuel*,**,**
+91,5071,*Goujet, Daniel*,**,**
+91,5071,*Le Menn, Jean*,**,**
+91,5080,*Martin, Michel*,**,**
+91,5081,*Cuny, Gilles*,**,**
+91,5081,*Mazin, Jean-Michel*,**,**
+91,5090,*Evans, Susan E.*,**,**
+91,5100,*Mourer-Chauvire%A, Ce%Acile*,**,**
+91,5101,*Antunes, Miguel Telles*,**,**
+91,5110,*Hugueney, Marguerite*,**,**
+91,5111,*Adrover, Rafael*,**,**
+91,5120,*Aver'yanov, Aleksandr Olegovich*,*Averianov, Alexander O.*,**
+91,5130,*Kumar, Kishor*,**,**
+91,5140,*Bachelet, Bernadette*,**,**
+91,5141,*Esteban Aenlle, Javier*,**,**
+91,5141,*Lo%Apez Marti%Anez, Nieves*,**,**
+91,5150,*de Bonis, Louis*,**,**
+91,5151,*Koufos, Georges D.*,**,**
+91,5160,*Gayet, Mireille*,**,**
+91,5161,*Meunier, Franc%Bois J.*,**,**
+91,5170,*Gheerbrant, Emmanuel*,**,**
+91,5171,*Russell, Donald E.*,**,**
+91,5180,*Thewissen, J. G. M.*,**,**
+91,5190,*Sige%A, Bernard*,**,**
+91,5191,*Aguilar, Jean-Pierre*,**,**
+91,5191,*Marandat, Bernard*,**,**
+91,5200,*Aguilar, Jean-Pierre*,**,**
+91,5201,*Calvet, Marc*,**,**
+91,5201,*Michaux, Jacques*,**,**
+91,5210,*Ameur-Chehbeur, Arbe%Aha*,**,**
+91,5220,*Le Loeuff, Jean*,**,**
+91,5221,*Buffetaut, Eric*,**,**
+91,5230,*Williamson, Thomas E.*,**,**
+91,5231,*Lucas, Spencer G.*,**,**
+91,5231,*Kirkland, James I.*,**,**
+91,5240,*Storch, Gerhard*,**,**
+91,5241,*Qiu Zhuding*,**,**
+91,5250,*Richards, Gary D.*,**,**
+91,5251,*McCrossin, Monte L.*,**,**
+91,5260,*Gingerich, Philip D.*,**,**
+91,5261,*Dashzeveg, Demberelyin*,**,**
+91,5261,*Russell, Donald E.*,**,**
+91,5270,*Michaux, Jacques*,**,**
+91,5271,*Aguilar, Jean-Pierre*,**,**
+91,5271,*Calvet, Marc*,**,**
+91,5271,*Duvernois, Marie-Pascale*,**,**
+91,5271,*Sudre, Jean*,**,**
+91,5280,*Eisenmann, Ve%Ara*,**,**
+91,5290,*Vyalov, Oleg Stepanovich*,*Vialov, O. S.*,**
+91,5300,*Flynn, John J.*,**,*e*
+91,5310,*Flynn, John J.*,**,**
+91,5320,*Flynn, John J.*,**,**
+91,5330,*Chure, Daniel J.*,**,**
+91,5331,*Engelmann, George F.*,**,**
+91,5340,*Grande, Lance*,**,**
+91,5341,*Flynn, John J.*,**,**
+91,5350,*Grande, Lance*,**,**
+91,5360,*McKenna, Malcolm C.*,**,**
+91,5361,*Flynn, John J.*,**,**
+91,5370,*Stucky, Richard K.*,**,**
+91,5371,*Krishtalka, Leonard*,**,**
+91,5371,*Dawson, Mary R.*,**,**
+91,5380,*Flynn, John J.*,**,**
+91,5390,*Gingerich, Philip D.*,**,**
+91,5400,*Flynn, John J.*,**,**
+91,5410,*Clemens, William A.*,**,**
+91,5420,*Rigby, J. Keith, Jr.*,**,**
+91,5430,*Flynn, John J.*,**,**
+91,5440,*Campy, Michel*,**,*e*
+91,5441,*Chaline, Jean*,**,*e*
+91,5441,*Vuillemey, Marcel*,**,*e*
+91,5450,*Chagneau, Jean*,**,**
+91,5451,*Delpech, Franc%Boise*,**,**
+91,5451,*Guadelli, Jean-Luc*,**,**
+91,5451,*Martini-Jacquin, Angelina*,**,**
+91,5451,*Prat, Franc%Bois*,**,**
+91,5460,*Delpech, Franc%Boise*,**,**
+91,5470,*Chagneau, Jean*,**,**
+91,5480,*Evin, Jacques*,**,**
+91,5490,*Delpech, Franc%Boise*,**,**
+91,5491,*Prat, Franc%Bois*,**,**
+91,5500,*Martini-Jacquin, Angelina*,**,**
+91,5510,*Guadelli, Jean-Luc*,**,**
+91,5520,*Chaline, Jean*,**,**
+91,5521,*Brochet, Germain*,**,**
+91,5530,*Jammot, Dominique*,**,**
+91,5540,*Mourer-Chauvire%A, Ce%Acile*,**,**
+91,5550,*Desse, Georges*,**,**
+91,5551,*Desse, Jean*,**,**
+91,5560,*Simonet, Pierre*,*Simonet, P.*,**
+91,5570,*Viriot, L.*,**,**
+91,5571,*Zany, D.*,**,**
+91,5571,*Chaline, Jean*,*Chaline, J.*,**
+91,5571,*Courant, F.*,**,**
+91,5571,*Brunet-Lecomte, Patrick*,*Brunet-Lecomte, P.*,**
+91,5571,*Simone, Suzanne*,*Simone, S.*,**
+91,5580,*Bocherens, Herve%A*,*Bocherens, H.*,**
+91,5581,*Fizet, Marc*,*Fizet, M.*,**
+91,5581,*Mariotti, Andre%A*,*Mariotti, A.*,**
+91,5581,*Billiou, D.*,**,**
+91,5581,*Bellon, Georges*,*Bellon, G.*,**
+91,5581,*Borel, Jacques Paul*,*Borel, J.-P.*,**
+91,5581,*Simone, Suzanne*,*Simone, S.*,**
+91,5590,*Desse, Jean*,*Desse, J.*,**
+91,5591,*Chaix, Louis*,*Chaix, L.*,**
+91,5600,*Kotlia, Bahadur Singh*,*Kotlia, B. S.*,**
+91,5610,*Mol, Dirk Jan*,*Mol, Dick*,**
+91,5620,*Folkerts, Albert*,**,**
+91,5630,*Bol, J.*,**,**
+91,5640,*van den Bosch, Maarten*,*van den Bosch, M.*,**
+91,5641,*Oosterink, Henk W.*,*Oosterink, H. W.*,**
+91,5650,*Gustavs, Sven*,**,**
+91,5660,*Teichert, Lothar*,**,**
+91,5670,*Gramsch, Bernhard*,**,**
+91,5680,*Gramsch, Bernhard*,**,*e*
+91,5681,*Wetzel, Gu%Fnter*,**,*e*
+91,5690,*Mania, Dietrich*,**,**
+91,5700,*Hartung, Wolfgang*,**,**
+91,5710,*Elmi, Serge*,**,**
+91,5711,*Rulleau, Louis*,**,**
+91,5720,*Ficcarelli, Giovanni*,**,**
+91,5721,*Magnatti, Mauro*,**,**
+91,5721,*Mazza, Paul*,**,**
+91,5730,*Bonfiglio, Laura*,**,**
+91,5731,*Riccobono, Franz*,**,**
+91,5740,*Sala, Benedetto*,**,**
+91,5741,*Ungaro, Sergio*,**,**
+91,5741,*Vincenzi, Laura*,**,**
+91,5750,*Ficcarelli, Giovanni*,**,**
+91,5751,*Mazza, Paul*,**,**
+91,5760,*Bizzarini, Fabrizio*,**,**
+91,5761,*Novelli, Guiseppe*,**,**
+91,5761,*Zanotti, Anna*,**,**
+91,5770,*Tintori, Andrea*,**,**
+91,5771,*Renesto, Silvio*,**,**
+91,5780,*Capasso Barbato, Lucia*,**,**
+91,5781,*Minieri, Maria Rosaria*,**,**
+91,5781,*Petronio, Carmelo*,**,**
+91,5781,*Vigna Taglianti, Augusto*,**,**
+91,5790,*Rook, Lorenzo*,**,**
+91,5791,*Masini, Federico*,**,**
+91,5800,*Rook, Lorenzo*,**,**
+91,5801,*Ficcarelli, Giovanni*,**,**
+91,5801,*Torre, Danilo*,**,**
+91,5810,*Fourtanier, Elisabeth*,**,**
+91,5811,*Gaudant, Jean*,**,**
+91,5811,*Cavallo, Oreste*,**,**
+91,5820,*Mazza, Paul*,**,**
+91,5830,*Ficcarelli, Giovanni*,**,**
+91,5831,*Silvestrini, M.*,**,**
+91,5840,*Rook, Lorenzo*,**,**
+91,5850,*Sorbini, Lorenzo*,**,**
+91,5851,*Bannikov, Aleksandr Fe%Fdorovich*,*Bannikov, Alexandre F.*,**
+91,5860,*Basilici, Giorgio*,**,**
+91,5861,*Faraone, Adria Guilia*,**,**
+91,5861,*Gentili, Sergio*,**,**
+91,5870,*Rook, Lorenzo*,**,**
+91,5871,*Rustioni, Marco*,**,**
+91,5880,*Masini, Federico*,**,**
+91,5881,*Santini, Gianluca*,**,**
+91,5890,*Soria Mingorance, Jesu%As Miguel*,*Soria Mingorance, J. M.*,**
+91,5891,*Ruiz Bustos, Antonio*,*Ruiz Bustos, A.*,**
+91,5900,*Guerra Mercha%An, Antonio*,*Guerra-Mercha%An, A.*,**
+91,5901,*Ruiz Bustos, Antonio*,*Ruiz Bustos, A.*,**
+91,5901,*Marti%An Penela, Antonio J.*,*Marti%An -Penela, A. J.*,**
+91,5910,*Becerra, Jose%A Mari%Aa*,**,**
+91,5911,*Alcala%A, Luis*,*Alcala%A Marti%Anez, Luis*,**
+91,5911,*Garci%Aa-Valdecasas Huelin, Antonio*,*G. Valdescasas, Antonio*,**
+91,5911,*Bello, Elisa*,**,**
+91,5920,*Ruiz Bustos, Antonio*,*Buiz Bustos, A.*,**
+91,5930,*Pe%Arez Lo%Apez, Alberto*,*Pe%Arez Lo%Apez, A.*,**
+91,5931,*Ruiz Bustos, Antonio*,*Ruiz Bustos, A.*,**
+91,5940,*Guerra Mercha%An, Antonio*,*Guerra-Mercha%An, A.*,**
+91,5941,*Ruiz Bustos, Antonio*,*Ruiz Bustos, A.*,**
+91,5950,*Cuenca Besco%As, Gloria*,*Cuenca Besco%As, G.*,**
+91,5960,*Martin, Robert D.*,*Martin, R. D.*,**
+91,5970,*Beard, K. Christopher*,**,**
+91,5971,*Krishtalka, Leonard*,**,**
+91,5971,*Stucky, Richard K.*,**,**
+91,5980,*Fraser, Nicholas*,**,**
+91,5990,*Rothschild, Bruce M.*,**,**
+91,5991,*Thillaud, Pierre L.*,**,**
+91,6000,*Reisz, Robert R.*,**,**
+91,6001,*Laurin, Michel*,**,**
+91,6010,*Squires, Richard L.*,*Squires, R. L.*,**
+91,6011,*Goedert, James L.*,*Goedert, J. L.*,**
+91,6011,*Barnes, Lawrence G.*,*Barnes, L. G.*,**
+91,6020,*Marean, Curtis W.*,**,**
+91,6021,*Gifford-Gonzalez, Diane*,**,**
+91,6030,*Azzaroli, Augusto*,**,**
+91,6040,*Graziosi, Paolo*,**,**
+91,6050,*Graziosi, Paolo*,**,**
+91,6060,*Lilliu, Giovanni*,**,**
+91,6070,*Massari, Claudia*,*Massari, C.*,**
+91,6080,*Speiser, Felix*,*Speiser, F.*,**
+91,6090,*Graziosi, Paolo*,**,**
+91,6100,*Bandi, Hans-Georg*,*Bandi, H.-G.*,**
+91,6110,*Graziosi, Paolo*,*Graziosi, P.*,**
+91,6111,*Maviglia, Carlo*,*Maviglia, C.*,**
+91,6120,*Del Campana, Domenico*,**,**
+91,6130,*Sera, Gioacchino Leone*,*Sera, G. L.*,**
+91,6140,*Tongiorgi, Ezio*,*Tongiorgi, E.*,**
+91,6150,*Bandi, Hans-Georg*,**,**
+91,6160,*Sera, Gioacchino Leone*,*Sera, G. L.*,**
+91,6170,*Monod, The%Aodore*,**,**
+91,6180,*Graziosi, Paolo*,**,**
+91,6190,*Gerard, J. Joseph*,**,**
+91,6200,*Bernabo%C Brea, Luigi*,*Bernabo%C Brea, L.*,**
+91,6210,*Ruhlmann, Armand*,**,**
+91,6220,*Rau, Virginia*,**,**
+91,6230,*Manfrin Guarnieri, Graziella*,**,**
+91,6240,*Graziosi, Paolo*,*G., P.*,**
+91,6250,*Massari, Claudia*,*Ms., C.*,**
+91,6260,*Movius, Hallam Leonard, Jr.*,*Movius, Hallam L., Jr.*,**
+91,6270,*Kidder, Alfred, II.*,**,**
+91,6271,*Dick, Herbert W.*,**,**
+91,6280,*Corominas Planellas, Jose%A Mari%Aa*,*Corominas, J. M.*,**
+91,6290,*Glory, L'abbe%A Andre%A*,*Glory, A.*,**
+91,6291,*Bay, Roland*,*Bay, R.*,**
+91,6291,*Koby, Fre%Ade%Aric-Edouard*,*Koby, F.*,**
+91,6310,*Malatesta, Alberto*,**,**
+91,6320,*Robert, Romain-Henri*,*Robert, Romain*,**
+91,6330,*Massari, Claudia*,*Massari, C.*,**
+91,6340,*Deevey, Edward Smith, Jr.*,*Deevey, Edward S.*,**
+91,6350,*Leonardi, Piero*,**,**
+91,6360,*Marcozzi, Vittorio, ^S.J.^*,**,**
+91,6370,*Malvesin-Fabre, Georges*,*Malvesin Fabre, G.*,**
+91,6371,*Robert, Romain-Henri*,*Robert, Romain*,**
+91,6380,*Graziosi, Paolo*,*Graziosi, P.*,**
+91,6390,*Micheli, Alda*,*Micheli, A.*,**
+91,6400,*Graziosi, Paolo*,*Graziosi, P.*,**
+91,6410,*Robert, Romain-Henri*,*Robert, Romain*,**
+91,6411,*Ku%Fhn, Herbert*,**,**
+91,6420,*Marcozzi, Vittorio, ^S.J.^*,**,**
+91,6430,*Chiappella, Ginetta*,**,**
+91,6440,*Ripoll Perello%A, Eduardo*,**,**
+91,6450,*Graziosi, Paolo*,*Graziosi, P.*,**
+91,6460,*Graziosi, Paolo*,*G., P.*,**
+91,6470,*Graziosi, Paolo*,**,**
+91,6480,*Rittatore, Ferrante*,**,**
+91,6490,*Valduga, Adriano*,**,**
+91,6500,*Mezzena, Franco*,**,**
+91,6510,*Borzatti von Lo%Fwenstern, Edoardo*,**,**
+91,6520,*Pitti, Cesare*,**,**
+91,6521,*Tozzi, Carlo*,**,**
+91,6530,*Palma di Cesnola, Arturo*,**,**
+91,6540,*Bader, Otto Nikolayevich*,*Bader, O.*,**
+91,6550,*Mezzena, Franco*,**,**
+91,6551,*Palma di Cesnola, Arturo*,**,**
+91,6560,*Palma di Cesnola, Arturo*,**,**
+91,6570,*Vigliardi, Alda*,**,**
+91,6580,*Azzi, Carlo*,**,**
+91,6590,*Mezzena, Franco*,**,**
+91,6591,*Palma di Cesnola, Arturo*,**,**
+91,6600,*Leonardi, Piero*,**,**
+91,6610,*Leale Anfossi, Milli*,**,**
+91,6620,*Longo, Ernesto*,**,**
+91,6621,*Radmilli, Antonio Mario*,*Radmilli, Antonio M.*,**
+91,6630,*Bianchini, Gerlando*,**,**
+91,6631,*Gambassini, Paolo*,**,**
+91,6640,*Philibert, Denise*,**,**
+91,6650,*Bartolomei, Giorgio*,*Bartolomei, G.*,**
+91,6651,*Broglio, Alberto*,*Broglio, A.*,**
+91,6651,*Guerreschi, Antonio*,*Guerreschi, A.*,**
+91,6651,*Leonardi, Piero*,*Leonardi, P.*,**
+91,6651,*Peretto, Carlo*,*Peretto, C.*,**
+91,6651,*Sala, Benedetto*,*Sala, B.*,**
+91,6660,*Tozzi, Carlo*,**,**
+91,6670,*Mezzena, Franco*,**,**
+91,6680,*Pardini, Edoardo*,**,**
+91,6690,*Bartoli, Giancarlo*,*Bartoli, G.*,**
+91,6691,*Galiberti, Attilio*,*Galiberti, A.*,**
+91,6691,*Gorini, Pablo*,*Gorini, P.*,**
+91,6700,*Sala, Benedetto*,**,**
+91,6710,*Martini, Fabio*,**,**
+91,6720,*Grazioli, Umberto*,**,**
+91,6730,*Sala, Benedetto*,**,**
+91,6740,*Minellono, Francesca*,*Minellono, F.*,**
+91,6741,*Pardini, Edoardo*,*Pardini, E.*,**
+91,6741,*Fornaciari, Gino*,*Fornaciari, G.*,**
+91,6750,*Graziosi, Paolo*,**,**
+91,6760,*Cassoli, Pier Francesco*,*Cassoli, P. F.*,**
+91,6761,*Tagliacozzo, A.*,**,**
+91,6770,*Palma di Cesnola, Arturo*,**,*e*
+91,6780,*Fortea, J.*,**,**
+91,6781,*Fullola Pericot, Josep Mari%Aa*,*Fullola, J. M.*,**
+91,6781,*Villaverde Bonilla, Valentin*,*Villaverde, V.*,**
+91,6781,*Davidson, Iain*,*Davidson, I.*,**
+91,6781,*Dupre%A-Ollivier, Michele*,*Dupre%A, M.*,**
+91,6781,*Fumanal Garci%Aa, Mari%Aa Pilar*,*Fumanal, M. P.*,**
+91,6790,*Cacho, Carmen*,*Cacho, C.*,**
+91,6791,*Fumanal Garci%Aa, Mari%Aa Pilar*,*Fumanal, P.*,**
+91,6791,*Lo%Apez, P.*,**,**
+91,6791,*Lo%Apez Marti%Anez, Nieves*,*Lopez, N.*,**
+91,6800,*Sala, Benedetto*,**,**
+91,6810,*Palma di Cesnola, Arturo*,**,**
+91,6811,*Bietti, Amilcare*,**,**
+91,6820,*Bisi, Franco*,*Bisi, F.*,**
+91,6821,*Broglio, Alberto*,*Broglio, A.*,**
+91,6821,*Guerreschi, Antonio*,*Guerreschi, A.*,**
+91,6821,*Radmilli, Antonio Mario*,*Radmilli, A. M.*,**
+91,6830,*Palma di Cesnola, Arturo*,*Palma di Cesnola, A.*,**
+91,6831,*Bietti, Amilcare*,*Bietti, A.*,**
+91,6831,*Galiberti, Attilio*,*Galiberti, A.*,**
+91,6840,*Palma di Cesnola, Arturo*,**,**
+91,6850,*Bietti, Amilcare*,*Bietti, A.*,**
+91,6851,*Martini, Fabio*,*Martini, F.*,**
+91,6851,*Tozzi, Carlo*,*Tozzi, C.*,**
+91,6860,*Segre, Aldo G.*,*Segre, Aldo*,**
+91,6861,*Vigliardi, Alda*,**,**
+91,6870,*Montet-White, Anta*,**,**
+91,6871,*Kozl%Sowski, Janusz Krzysztof*,*Kozlowski, Janusz K.*,**
+91,6880,*Minellono, Francesca*,**,**
+91,6890,*Klein Hofmeijer, Gerard*,**,**
+91,6891,*Martini, Fabio*,**,**
+91,6891,*Sanges, Mario*,**,**
+91,6891,*Sondaar, Paul Y.*,**,**
+91,6891,*Ulzega, Antonio*,**,**
+91,6900,*Grant-Mackie, John A.*,*Grant-Mackie, J. A.*,**
+91,6901,*Simpson, George Gaylord*,*Simpson, G. G.*,**
+91,6910,*Millener, Philip R.*,*Millener, P. R.*,**
+91,6911,*Templer, C. J.*,**,**
+91,6920,*Horn, Peter L.*,**,**
+91,6930,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,6940,*Worthy, Trevor H.*,**,**
+91,6950,*Forrest, R. M.*,**,**
+91,6960,*Worthy, Trevor H.*,**,**
+91,6970,*Beauchamp, Antony J.*,**,**
+91,6971,*Worthy, Trevor H.*,**,**
+91,6980,*Mills, James A.*,*Mills, J. A.*,**
+91,6981,*Lavers, Roger B.*,*Lavers, R. B.*,**
+91,6981,*Lee, W. G.*,**,**
+91,6990,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7000,*Horwood, Michelle*,**,**
+91,7010,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7020,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7021,*Edwards, Anthony R.*,*Edwards, A. R.*,**
+91,7021,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7030,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7031,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7040,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7050,*Olson, Storrs L.*,**,**
+91,7051,*James, Helen F.*,**,**
+91,7060,*Balouet, Jean Christophe*,**,**
+91,7061,*Olson, Storrs L.*,**,**
+91,7070,*Olson, Storrs L.*,**,**
+91,7071,*Pregill, Gregory K.*,**,**
+91,7071,*Hilgartner, William B.*,**,**
+91,7080,*Gaffney, Eugene S.*,**,**
+91,7090,*Morgan, Gary S.*,**,**
+91,7100,*Lawrence, Marie A.*,**,**
+91,7110,*MacPhee, Ross D. E.*,*MacPhee, R. D. E.*,**
+91,7111,*Fleagle, John G.*,**,**
+91,7120,*Voss, Robert S.*,**,**
+91,7121,*Myers, Philip*,**,**
+91,7130,*Novacek, Michael J.*,**,**
+91,7131,*Ferrusqui%Aa-Villafranca, Ismael*,**,**
+91,7131,*Flynn, John J.*,**,**
+91,7131,*Wyss, Andre%A R.*,**,**
+91,7131,*Norell, Mark A.*,**,**
+91,7140,*Wellstead, Carl F.*,**,**
+91,7150,*Rabeder, Gernot*,**,**
+91,7160,*Burchak-Abramovich, Nikolay Iosifovich*,*Burczak-Abramowicz, N. I.*,**
+91,7161,*Meladze, Guram Karlovich*,*Mel%Sadze, G. K.*,**
+91,7161,*Chikovani, G. Ch.*,*Czikowani, G. Cz.*,**
+91,7170,*Goto%N, Masatoshi*,**,**
+91,7171,*Kuga, Naoyuki*,**,**
+91,7171,*Hachiya, Kiichiro%N*,**,**
+91,7180,*Bryant, Harold N.*,**,**
+91,7190,*Janvier, Philippe*,*Janvier, P.*,**
+91,7191,*Percy, Lord Richard*,**,**
+91,7191,*Potter, I. C.*,**,**
+91,7200,*Van Valkenburgh, Blaire*,*Van Valkenburgh, B.*,**
+91,7201,*Teaford, Mark F.*,*Teaford, M. F.*,**
+91,7201,*Walker, Alan C.*,*Walker, A.*,**
+91,7210,*Trotter, Michael M.*,**,**
+91,7220,*Medway, D. G.*,**,**
+91,7230,*Miskelly, Colin M.*,*Miskelly, C. M.*,**
+91,7240,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7250,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7260,*Millener, Philip R.*,*Millener, P. R.*,**
+91,7270,*Olson, Storrs L.*,**,**
+91,7280,*Olson, Storrs L.*,**,**
+91,7290,*Mayr, Ernst*,**,**
+91,7300,*Olson, Storrs L.*,**,**
+91,7310,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7320,*Miskelly, Colin M.*,*Miskelly, C. M.*,**
+91,7330,*Van Tets, Gerard F.*,*Van Tets, G. F.*,**
+91,7331,*Meredith, Charles W.*,*Meredith, C. W.*,**
+91,7331,*Fullagar, Peter J.*,*Fullagar, P. J.*,**
+91,7331,*Davidson, Peter M.*,*Davidson, P. M.*,**
+91,7340,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7350,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7360,*Steadman, David W.*,**,**
+91,7370,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7380,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7390,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+91,7400,*Bednarski, Jan*,**,**
+91,7410,*Montevecchi, William A.*,*Montevecchi, W. A.*,**
+91,7411,*Hufthammer, A. K.*,**,**
+91,7420,*Stewart, Thomas G.*,**,**
+91,7421,*Hourston-Wright, Jean*,**,**
+91,7430,*Guthrie, R. Dale*,**,**
+91,7431,*Stoker, Samuel*,**,**
+91,7440,*Repenning, Charles A.*,**,**
+91,7450,*Whitlock, Cathy*,**,**
+91,7451,*Dawson, Mary R.*,**,**
+91,7460,*Vincent, Jean-Serge*,**,**
+91,7470,*Mack, Greg H.*,**,*e*
+91,7471,*Lawton, Timothy F.*,**,*e*
+91,7471,*Lucas, Spencer G.*,**,*e*
+91,7480,*Lucas, Spencer G.*,**,**
+91,7490,*Lucas, Spencer G.*,**,**
+91,7491,*Kues, Barry S.*,**,**
+91,7491,*Hayden, Steven N.*,**,**
+91,7491,*Allen, Bruce D.*,**,**
+91,7491,*Kietzke, Kenneth K.*,**,**
+91,7491,*Williamson, Thomas E.*,**,**
+91,7491,*Sealey, Paul*,**,**
+91,7491,*Pence, Randy*,**,**
+91,7500,*Anderson, Orin J.*,**,*e*
+91,7501,*Lucas, Spencer G.*,**,*e*
+91,7501,*Love, David W.*,**,*e*
+91,7501,*Cather, Steven M.*,**,*e*
+91,7510,*Lucas, Spencer G.*,**,**
+91,7520,*Hunt, Adrian P.*,**,**
+91,7521,*Lucas, Spencer G.*,**,**
+91,7521,*Martini, Kim*,**,**
+91,7521,*Martini, Terry*,**,**
+91,7530,*Hayden, Steven N.*,**,**
+91,7531,*Lucas, Spencer G.*,**,**
+91,7540,*Kues, Barry S.*,**,**
+91,7541,*Lucas, Spencer G.*,**,**
+91,7550,*Lucas, Spencer G.*,**,**
+91,7551,*Hayden, Steven N.*,**,**
+91,7560,*Williamson, Thomas E.*,**,**
+91,7561,*Lucas, Spencer G.*,**,**
+91,7561,*Pence, Randy*,**,**
+91,7570,*Smartt, Richard A.*,**,**
+91,7571,*Hafner, David J.*,**,**
+91,7580,*Bauer, Paul W.*,**,*e*
+91,7581,*Lucas, Spencer G.*,**,*e*
+91,7581,*Mawer, Christopher K.*,**,*e*
+91,7581,*McIntosh, William C.*,**,*e*
+91,7590,*Kietzke, Kenneth K.*,**,**
+91,7600,*Hunt, Adrian P.*,**,**
+91,7601,*Lucas, Spencer G.*,**,**
+91,7601,*Huber, Phillip*,**,**
+91,7610,*Lucas, Spencer G.*,**,**
+91,7611,*Hunt, Adrian P.*,**,**
+91,7611,*Huber, Phillip*,**,**
+91,7620,*Barker, James M.*,**,*e*
+91,7621,*Kues, Barry S.*,**,*e*
+91,7621,*Austin, George S.*,**,*e*
+91,7621,*Lucas, Spencer G.*,**,*e*
+91,7630,*Lucas, Spencer G.*,**,**
+91,7631,*McLemore, Virginia T.*,**,**
+91,7631,*Hunt, Adrian P.*,**,**
+91,7631,*Allen, Michael S.*,**,**
+91,7631,*Cather, Steven M.*,**,**
+91,7631,*Oulmette, Mark*,**,**
+91,7640,*Lucas, Spencer G.*,**,**
+91,7650,*Lucas, Spencer G.*,**,**
+91,7651,*Effinger, James A.*,**,**
+91,7660,*Petit-Maire, Nicole*,**,**
+91,7661,*Faure, Martine*,**,**
+91,7661,*Gayet, Mireille*,**,**
+91,7661,*Gue%Arin, Claude*,**,**
+91,7670,*Thomas, Herbert*,**,**
+91,7671,*Roger, Jack*,**,**
+91,7671,*S%Ben, S%Bevket*,**,**
+91,7671,*Dejax, Jean*,**,**
+91,7671,*Schuler, Monique*,**,**
+91,7671,*Al-Sulaimani, Zaher*,**,**
+91,7671,*Bourdillon de Grissac, Chantal*,**,**
+91,7671,*Breton, Ge%Arard*,**,**
+91,7671,*de Broin, France*,**,**
+91,7671,*Camoin, Gilbert*,**,**
+91,7671,*Cappetta, Henri*,**,**
+91,7671,*Carriol, Rene%A-Pierre*,**,**
+91,7671,*Cavalier, Claude*,**,**
+91,7671,*Chaix, Christian*,**,**
+91,7671,*Crochet, Jean-Yves*,**,**
+91,7671,*Farjanel, Genevie%Cve*,**,**
+91,7671,*Gayet, Mireille*,**,**
+91,7671,*Gheerbrant, Emmanuel*,**,**
+91,7671,*Lauriat-Rage, Agne%Cs*,**,**
+91,7671,*Noe%Fl, Denise*,**,**
+91,7671,*Pickford, Martin*,**,**
+91,7671,*Poignant, Alain-Franc%Bois*,**,**
+91,7671,*Rage, Jean-Claude*,**,**
+91,7671,*Roman, Jean*,**,**
+91,7671,*Rouchy, Jean-Marie*,**,**
+91,7671,*Secre%Atan, Sylvie*,**,**
+91,7671,*Sige%A, Bernard*,**,**
+91,7671,*Tassy, Pascal*,**,**
+91,7671,*Wenz, Sylvie*,**,**
+91,7680,*Fontes, Jean-Charles*,**,**
+91,7681,*Filly, Annick*,**,**
+91,7681,*Gaudant, Jean*,**,**
+91,7681,*Duringer, Philippe*,**,**
+91,7690,*Legendre, Serge*,**,**
+91,7691,*Crochet, Jean-Yves*,**,**
+91,7691,*Godinot, Marc*,**,**
+91,7691,*Hartenberger, Jean-Louis*,**,**
+91,7691,*Marandat, Bernard*,**,**
+91,7691,*Remy, Jean Albert*,**,**
+91,7691,*Sige%A, Bernard*,**,**
+91,7691,*Sudre, Jean*,**,**
+91,7691,*Vianey-Liaud, Monique*,**,**
+91,7700,*Bardet, Nathalie*,**,**
+91,7701,*Mazin, Jean-Michel*,**,**
+91,7701,*Aze%Ama, Catherine*,**,**
+91,7701,*Be%Agouen, Ve%Aronique*,**,**
+91,7701,*Masure, Edwige*,**,**
+91,7710,*Fejfar, Oldr%Jich*,**,**
+91,7711,*Storch, Gerhard*,**,**
+91,7720,*Qiu Zhuding*,**,**
+91,7730,*Wu Wenyu*,**,**
+91,7740,*Rothe, Peter*,**,**
+91,7741,*Klemmer, Konrad*,**,**
+91,7750,*Gayet, Mireille*,**,**
+91,7760,*Antunes, Miguel Telles*,*Antunes, M. L.*,**
+91,7761,*Cardoso, Joa%Eo L.*,*Cardoso, J. L.*,**
+91,7761,*Faure, Martine*,*Faure, M.*,**
+91,7770,*Cardoso, Joa%Eo L.*,*Cardoso, J. L.*,**
+91,7780,*Turnbull, William D.*,**,**
+91,7790,*Bruner, John Clay*,**,**
+91,7800,*Sigogneau-Russell, Denise*,**,**
+91,7801,*Bonaparte, Jose%A F.*,**,**
+91,7801,*Frank, Robert M.*,**,**
+91,7801,*Escribano, Virgilio*,**,**
+91,7810,*Brunet-Lecomte, Patrick*,**,**
+91,7811,*Chaline, Jean*,**,**
+91,7820,*Nedin, Christopher*,**,**
+91,7830,*Jaanusson, Valdar*,**,**
+91,7840,*Dzhafarova, Zhanna Dzhalil'yevna*,**,**
+91,7850,*Gadzhiyev, Damir Vagid ogly*,**,**
+91,7851,*Akhundov, Fuad Mirali ogly*,**,**
+91,7860,*Aslanova, Sevil' Mutalibovna*,**,**
+91,7861,*Mchedlidze, Guram Andreyevich*,**,**
+91,7870,*Khozatskiy, Lev Isaakovich*,**,**
+91,7871,*Sablin, M. V.*,**,**
+91,7880,*Ripley, Sidney Dillon*,**,**
+91,7890,*Olson, Storrs L.*,**,**
+91,7900,*Minar%Ji%Akova%A, Dagmar*,**,*e*
+91,7901,*Lobitzer, Harald*,**,*e*
+91,7910,*Brzobohaty%A, Rostislav*,**,**
+91,7920,*Brzobohaty%A, Rostislav*,**,**
+91,7921,*Heinrich, Maria*,**,**
+91,7930,*Whitelaw, Michael J.*,**,**
+91,7940,*Jones, Douglas S.*,**,**
+91,7941,*MacFadden, Bruce J.*,**,**
+91,7941,*Webb, S. David*,**,**
+91,7941,*Mueller, Paul A.*,**,**
+91,7941,*Hodell, David A.*,**,**
+91,7941,*Cronin, Thomas M.*,**,**
+91,7950,*Cresswell, Mary Meyerhoff*,*Cresswell, M. M.*,*e*
+91,7951,*Vella, Paul Philip*,*Vella, P.*,*e*
+91,7960,*Anderson, John Malcolm*,**,**
+91,7970,*Mones, Alvaro*,**,**
+91,7971,*Figueiras, Alfredo*,**,**
+91,7980,*Beltan, Laurence*,**,**
+91,7981,*Tintori, Andrea*,**,**
+91,7990,*Keyser, Andreas W.*,*Keyser, A. W.*,**
+91,8000,*Cheng Zhengwu*,**,**
+91,8010,*Molnar, Ralph E.*,*Molnar, R. E.*,**
+91,8020,*Colbert, Edwin H.*,**,**
+91,8030,*Mikhaylesku, Konstantin Dmitriyevich*,*Mihailescu, C. D.*,**
+91,8031,*Markova, Anastasiya Konstantinovna*,**,**
+91,8031,*Chepalyga, Andrey Leonidovich*,**,**
+91,8031,*Arap, Raisa Ya.*,**,**
+91,8031,*Kovalenko, Angelina Leonidovna*,**,**
+91,8040,*Vangengeym, Eleonora Alekseyevna*,**,**
+91,8041,*Vekua, Mziya Leonovna*,**,**
+91,8041,*Zhegallo, Vladimir Il'ich*,**,**
+91,8041,*Pevzner, Mikhail Abramovich*,**,**
+91,8041,*Taktakishvili, Irakliy Georgiyevich*,**,**
+91,8041,*Tesakov, A. S.*,**,**
+91,8050,*Kalmykov, Nikolay Pavlovich*,**,**
+91,8060,*Ducrocq, Ste%Aphane*,**,**
+91,8061,*S%Ben, S%Bevket*,**,**
+91,8070,*Sigogneau-Russell, Denise*,**,**
+91,8080,*Sander, Paul Martin*,*Sander, P. Martin*,**
+91,8081,*Meyer, Christoph*,**,**
+91,8090,*Bardet, Nathalie*,**,**
+91,8091,*Pennetier, Ge%Arard*,**,**
+91,8091,*Pennetier, Elisabeth*,**,**
+91,8100,*Bo%Fhme, Wolfgang*,**,**
+91,8101,*Lang, Mathias*,**,**
+91,8110,*Thies, Detlev*,**,**
+91,8120,*Mo%Frs, Thomas*,**,**
+91,8130,*Hunt, Adrian P.*,**,**
+91,8131,*Lucas, Spencer G.*,**,**
+91,8140,*Badam, Gyani Lal*,*Badam, G. L.*,**
+91,8141,*Kajalj, M. D.*,**,**
+91,8150,*Suneja, I. J.*,**,**
+91,8151,*Kaul, S.*,**,**
+91,8160,*Sahni, Ashok*,**,**
+91,8170,*Kotlia, Bahadur Singh*,*Kotlia, B. S.*,**
+91,8171,*Sahni, Ashok*,*Sahni, A. K.*,**
+91,8171,*Agrawal, Dharma Pal*,*Agrawal, D. P.*,**
+91,8171,*Pant, Rajendra K.*,*Pant, R. K.*,**
+91,8180,*Sahni, Ashok*,**,**
+91,8190,*Suneja, I. J.*,**,**
+91,8191,*Khurana, P.*,**,**
+91,8191,*Chopra, Shiv Raj Kumar*,*Chopra, S. R. K.*,**
+91,8200,*Suneja, I. J.*,**,**
+91,8201,*Sanjeev*,**,**
+91,8210,*Francis, Peter*,**,**
+91,8220,*Sahni, Ashok*,**,**
+91,8221,*Kotlia, Bahadur Singh*,*Kotlia, B. S.*,**
+91,8230,*Gaur, Rajan*,*Gaur, R.*,**
+91,8231,*Vasishat, Roop Narain*,*Vasishat, R. N.*,**
+91,8231,*Chopra, Shiv Raj Kumar*,*Chopra, S. R. K.*,**
+91,8240,*Tiwari, Brahma Nand*,*Tiwari, B. N.*,**
+91,8241,*Kumar, Kishor*,**,**
+91,8250,*Chattopadhyaya, Umesh C.*,*Chattopadhyaya, U. C.*,**
+91,8260,*Badam, Gyani Lal*,*Badam, G. L.*,**
+91,8261,*Misra, Vidya Dhar*,*Misra, V. D.*,**
+91,8261,*Pal, J. N.*,**,**
+91,8261,*Pandey, Jai Narain*,*Pandey, J. N.*,**
+91,8270,*Neumayer, Erwin*,**,**
+91,8280,*Kumar, Giriraj*,**,**
+91,8281,*Sahni, Ashok*,**,**
+91,8281,*Pancholi, Ramesh Kumar*,**,**
+91,8281,*Narvare, Geeta*,**,**
+91,8290,*Sahni, Ashok*,**,**
+91,8291,*Kumar, Giriraj*,**,**
+91,8291,*Bajpai, Sunil*,**,**
+91,8291,*Srinivasan, S.*,**,**
+91,8300,*Joglekar, P. P.*,**,**
+91,8301,*Thomas, P. K.*,**,**
+91,8310,*Agrawal, Dharma Pal*,*Agrawal, D. P.*,**
+91,8311,*Dodia, Rekha*,**,**
+91,8311,*Kotlia, Bahadur Singh*,*Kotlia, B. S.*,**
+91,8311,*Razdan, H.*,**,**
+91,8311,*Sahni, Ashok*,*Sahni, A.*,**
+91,8320,*Ganjoo, R. K.*,**,**
+91,8330,*Joglekar, P. P.*,**,**
+91,8331,*Thomas, P. K.*,**,**
+91,8340,*Joglekar, P. P.*,**,**
+91,8341,*Thomas, P. K.*,**,**
+91,8350,*Van Neer, Wim*,**,**
+91,8351,*Germonpre%A, Mietje*,**,**
+91,8360,*Kelly, Thomas S.*,**,**
+91,8361,*Lander, E. Bruce*,**,**
+91,8361,*Whistler, David P.*,**,**
+91,8361,*Roeder, Mark A.*,**,**
+91,8361,*Reynolds, Robert E.*,**,**
+91,8370,*Long, Douglas J.*,**,**
+91,8380,*Dundas, Robert G.*,**,**
+91,8390,*Tobias, Phillip V.*,**,**
+91,8400,*Cooke, Herbert Basil Sutton*,*Cooke, H. B. S.*,**
+91,8410,*Suwa, Gen*,**,**
+91,8411,*White, Tim D.*,*White, Tim*,**
+91,8411,*Asfaw, Berhane*,*Asfaw, B.*,**
+91,8411,*WoldeGabriel, Giday*,**,**
+91,8411,*Yemane, Tesfaye*,**,**
+91,8420,*Keyser, Andreas W.*,*Keyser, A. W.*,**
+91,8430,*Partridge, Timothy C.*,*Partridge, T. C.*,**
+91,8431,*Watt, I. B.*,**,**
+91,8440,*McKee, Jeffrey K.*,**,**
+91,8450,*Conroy, Glenn C.*,**,**
+91,8460,*Wood, Bernard A.*,*Wood, Bernard*,**
+91,8470,*Brain, Charles K.*,*Brain, C. K.*,**
+91,8480,*Lambert, W. David*,**,**
+91,8490,*Crochet, Jean-Yves*,**,**
+91,8500,*Gaudin, Timothy J.*,**,**
+91,8510,*Nicholls, Elizabeth L.*,**,**
+91,8511,*Russell, Anthony P.*,**,**
+91,8520,*Rasmussen, D. Tab*,**,**
+91,8521,*Simons, Elwyn L.*,**,**
+91,8530,*Sige%A, Bernard*,**,**
+91,8540,*Wild, Rupert*,**,**
+91,8550,*Mu%Fller, Arnold*,**,**
+91,8560,*Tverdokhlebova, Galina Ivanovna*,**,**
+91,8570,*Mashchenko, Yevgeniy Nikolayevich*,**,**
+91,8580,*Tesakov, A. S.*,**,**
+91,8590,*Yesin, Dmitriy Nikolayevich*,*Esin, D. N.*,**
+91,8600,*Accordi, Bruno*,**,**
+91,8610,*Lombardo, Giuliana*,**,**
+91,8620,*Kashin, G. N.*,**,**
+91,8630,*Greenhall, Arthur M.*,**,*e*
+91,8631,*Schmidt, Uwe*,**,*e*
+91,8640,*Ray, Clayton E.*,**,**
+91,8641,*Linares, Omar J.*,**,**
+91,8641,*Morgan, Gary S.*,**,**
+91,8650,*Anonymous*,**,**
+91,8660,*Zhamoyda, Aleksandr Ivanovich*,**,**
+91,8670,*Yatsenko, G. M.*,**,**
+91,8671,*Yatsenko, I. G.*,**,**
+91,8680,*Grine, Frederick E.*,**,**
+91,8690,*de Broin, France*,**,**
+91,8691,*Barta-Calmus, Sylvie*,**,**
+91,8691,*Beauvais, Louise*,**,**
+91,8691,*Camoin, Gilbert*,**,**
+91,8691,*Dejax, Jean*,**,**
+91,8691,*Gayet, Mireille*,**,**
+91,8691,*Michard, Jean-Guy*,**,**
+91,8691,*Olivaux, Thierry*,**,**
+91,8691,*Roman, Jean*,**,**
+91,8691,*Sigogneau-Russell, Denise*,**,**
+91,8691,*Taquet, Philippe*,**,**
+91,8691,*Wenz, Sylvie*,**,**
+91,8700,*Meyer, Christian A.*,**,**
+91,8710,*Hayward, James L.*,**,**
+91,8711,*Hirsch, Karl F.*,**,**
+91,8711,*Robertson, Theodore C.*,**,**
+91,8720,*Dubiel, Russell F.*,**,**
+91,8721,*Parrish, Judith Totman*,**,**
+91,8721,*Parrish, J. Michael*,**,**
+91,8721,*Good, Steven C.*,**,**
+91,8730,*Cohen, Andrew*,**,**
+91,8731,*Lockley, Martin G.*,**,**
+91,8731,*Halfpenny, James*,**,**
+91,8731,*Michel, A. Ellinor*,**,**
+91,8740,*Snedden, John W.*,**,**
+91,8750,*Dauphin, Yannicke*,**,**
+91,8760,*Ginsburg, Le%Aonard*,**,**
+91,8761,*de Broin, France*,**,**
+91,8761,*Crouzel, Fernand*,**,**
+91,8761,*Duranthon, Francis*,**,**
+91,8761,*Escuillie%A, Franc%Bois*,**,**
+91,8761,*Juillard, Francis*,**,**
+91,8761,*Lassaube, Ste%Aphane*,**,**
+91,8770,*Keller, H. Michael*,**,**
+91,8771,*Tahirkheli, Rashid A. Khan*,*Tahirkheli, R. A. K.*,**
+91,8771,*Mirza, Mohammad A.*,**,**
+91,8771,*Johnson, Gary D.*,**,**
+91,8771,*Johnson, Noye M.*,**,**
+91,8771,*Opdyke, Neil D.*,**,**
+91,8780,*Staudigel, Hubert*,**,**
+91,8781,*Doyle, Pat*,**,**
+91,8781,*Zindler, Alan*,**,**
+91,8790,*Madrid, Victor M.*,**,**
+91,8791,*Stuart, Robert M.*,**,**
+91,8791,*Verosub, Kenneth L.*,**,**
+91,8800,*S%Ben, S%Bevket*,**,**
+91,8801,*Valet, Jean-Pierre*,**,**
+91,8810,*Courtillot, Vincent*,**,**
+91,8811,*Besse, Jean*,**,**
+91,8811,*Vandamme, Didier*,**,**
+91,8811,*Montigny, Raymond*,**,**
+91,8811,*Jaeger, Jean-Jacques*,**,**
+91,8811,*Cappetta, Henri*,**,**
+91,8820,*Whitelaw, Michael J.*,**,**
+91,8830,*Ajie, Henry O.*,**,**
+91,8831,*Hauschka, Peter V.*,**,**
+91,8831,*Kaplan, Isaac R.*,**,**
+91,8831,*Sobel, Harry*,**,**
+91,8840,*Aver'yanov, Aleksandr Olegovich*,*Averianov, A. O.*,**
+91,8850,*Tiwari, Brahma Nand*,*Tiwari, B. N.*,**
+91,8851,*Misra, P. S.*,**,**
+91,8851,*Kumar, M.*,**,**
+91,8851,*Kulshrestha, S. K.*,**,**
+91,8860,*Hughes, Alun R.*,**,**
+91,8870,*An Zhisheng*,**,**
+91,8871,*Wu Xihao*,**,**
+91,8871,*Wang Pinxian*,**,**
+91,8871,*Wang Sumin*,**,**
+91,8871,*Dong Guangrong*,**,**
+91,8871,*Sun Xiangjun*,**,**
+91,8871,*Zhang De'er*,**,**
+91,8871,*Lu Yanchou*,**,**
+91,8871,*Zheng Shaohua*,**,**
+91,8871,*Zhao Songling*,**,**
+91,8880,*Jefferson, George T.*,**,**
+91,8890,*Mason, Mark A.*,**,**
+91,8891,*Swisher, Carl C., III*,**,**
+91,8900,*Norell, Mark A.*,**,**
+91,8910,*Naples, Virginia L.*,**,**
+91,8920,*Bonaparte, Jose%A F.*,*Bonaparte, J. F.*,**
+91,8921,*Novas, Fernando E.*,*Novas, F. E.*,**
+91,8921,*Coria, Rodolfo A.*,*Coria, R. A.*,**
+91,8930,*Kelly, Thomas S.*,**,**
+91,8940,*Barnes, Lawrence G.*,**,**
+91,8950,*Barnes, Lawrence G.*,**,**
+91,8951,*Raschke, Rodney E.*,**,**
+91,8960,*Anonymous*,**,**
+91,8970,*Warth, Manfred*,**,**
+91,8971,*Ziegler, Bernhard*,**,**
+91,8980,*Wild, Rupert*,**,**
+91,8990,*Heizmann, Elmar P. J.*,**,**
+91,9000,*Wild, Rupert*,**,**
+91,9010,*Ziegler, Bernhard*,**,**
+91,9020,*Dubrovo, Irina Aleksandrovna*,**,**
+91,9030,*Dodonov, Andrey Yevgen'yevich*,**,**
+91,9031,*Zhegallo, Vladimir Il'ich*,**,**
+91,9031,*Pen'kov, A. V.*,**,**
+91,9031,*Sotnikova, Marina Vladimirovna*,**,**
+91,9040,*Kubiak, Henryk*,**,**
+91,9050,*Kubiak, Henryk*,**,**
+91,9060,*Szyndlar, Zbigniew*,**,**
+91,9070,*Bosa%Ak, Pavel*,**,**
+91,9071,*Gl%Sazek, Jerzy*,**,**
+91,9071,*Hora%Ac%Jek, Ivan*,**,**
+91,9071,*Szynkiewicz, Adam*,**,**
+91,9080,*Madeyska, Teresa*,**,**
+91,9090,*Lindner, Leszek*,**,**
+91,9100,*Sanchi%Az, Borja*,*Sanchi%Az y Gil de Avalle, Francisco de Borja*,**
+91,9101,*Szyndlar, Zbigniew*,**,**
+91,9110,*Radwan%Aska, Urszula*,**,**
+91,9120,*Czyz%Mewska, Teresa*,**,**
+91,9130,*Alexandrowicz, Stefan Witold*,**,**
+91,9140,*Richter, Martha*,**,**
+91,9150,*Kielan-Jaworowska, Zofia*,**,**
+91,9151,*Dashzeveg, Demberelyin*,**,**
+91,9160,*O%Srvig, Tor*,**,**
+91,9170,*Ginter, Michal%S*,**,**
+91,9180,*Czyz%Mewska, Teresa*,**,**
+91,9181,*Radwan%Aski, Andrzej*,**,**
+91,9190,*Sues, Hans-Dieter*,**,**
+91,9200,*Martill, David M.*,*Martill, D. M.*,**
+91,9201,*Cruickshank, Arthur R. I.*,*Cruickshank, A. R. I.*,**
+91,9201,*Taylor, Michael A.*,*Taylor, M. A.*,**
+91,9210,*Beynon, A. David*,*Beynon, A. D.*,**
+91,9211,*Dean, M. Christopher*,*Dean, M. C.*,**
+91,9220,*Shear, William A.*,**,**
+91,9230,*Stringer, Christopher B.*,*Stringer Chris B.*,**
+91,9231,*Gru%Fn, Rainer*,**,**
+91,9240,*Mercier, Norbert*,*Mercier, N.*,**
+91,9241,*Valladas, He%Ale%Cne*,*Valladas, H.*,**
+91,9241,*Joron, Jean-Louis*,*Joron, J. L.*,**
+91,9241,*Reyss, Jean-Louis*,*Reyss, J. L.*,**
+91,9241,*Le%Ave%Dque, Franc%Bois*,*Le%Ave%Dque, F.*,**
+91,9241,*Vandermeersch, Bernard*,*Vandermeersch, B.*,**
+91,9250,*Cruickshank, Arthur R. I.*,**,**
+91,9251,*Small, Philip G.*,**,**
+91,9251,*Taylor, Michael A.*,**,**
+91,9260,*Martin, Lawrence*,**,**
+91,9270,*Kelley, Jay*,**,**
+91,9271,*Xu Qinghua*,**,**
+91,9280,*Coates, Michael I.*,*Coates, M. I.*,**
+91,9281,*Clack, Jennifer Alice*,*Clack, J. A.*,**
+91,9290,*Diamond, Jared M.*,**,**
+91,9300,*Ostrom, John H.*,**,**
+91,9310,*Diamond, Jared M.*,**,**
+91,9320,*Gee, Henry*,**,**
+91,9330,*Ahlberg, Per Erik*,*Ahlberg, P. E.*,**
+91,9340,*Smith, Roger M. H.*,*Smith, R. M. H.*,**
+91,9350,*Bousman, Charles B.*,*Bousman, C. B.*,**
+91,9351,*Partridge, Timothy C.*,*Partridge, T. C.*,**
+91,9351,*Scott, Louis*,*Scott, L.*,**
+91,9351,*Seaman, M.*,**,**
+91,9351,*Metcalfe, Sarah E.*,*Metcalfe, S. E.*,**
+91,9351,*Vogel, John C.*,*Vogel, J. C.*,**
+91,9351,*Brink, J. S.*,**,**
+91,9360,*Brink, J. S.*,**,**
+91,9370,*Deacon, Hilary J.*,*Deacon, H. J.*,**
+91,9380,*Brown, A. J. V.*,**,**
+91,9390,*Avery, Graham*,*Avery, G.*,**
+91,9400,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+91,9410,*Van Neer, Wim*,*Van Neer, W.*,**
+91,9420,*de Wit, Michiel C. J.*,**,**
+91,9430,*Keyser, Andreas W.*,*Keyser, A. W.*,**
+91,9431,*Martini, J. E. J.*,**,**
+91,9440,*Avery, Diana Margaret*,*Avery, D. M.*,**
+91,9450,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+91,9451,*Avery, Diana Margaret*,*Avery, D. M.*,**
+91,9460,*Malabarba, Maria Cla%Audia de S. L.*,**,**
+91,9470,*Liu Xiang*,**,**
+91,9471,*Cheng Xinmin*,**,**
+91,9471,*Sui Weiguo*,**,**
+91,9480,*Gromov, Igor' Mikhaylovich*,**,**
+91,9490,*Elz%Manowski, Andrzej*,**,**
+91,9500,*de Figueiredo, Francisco Jose%A*,**,**
+91,9501,*da Silva Santos, Rubens*,**,**
+91,9510,*Hutterer, Rainer*,**,**
+91,9520,*Mead, Jim I.*,**,**
+91,9521,*Sharpe, Saxon E.*,**,**
+91,9521,*Agenbroad, Larry D.*,**,**
+91,9530,*Currie, Philip J.*,**,**
+91,9531,*Nadon, Gregory C.*,**,**
+91,9531,*Lockley, Martin G.*,**,**
+91,9540,*Ve%Azina, Daniel*,**,**
+91,9550,*Rodrigues, Cyril G.*,**,**
+91,9560,*Naldrett, Dana L.*,**,**
+91,9570,*Barendregt, Rene%A Willem*,*Barendregt, R. W.*,**
+91,9571,*Stalker, Archibald MacS.*,*Stalker, A. MacS.*,**
+91,9571,*Thomas, Fred F.*,*Thomas, F. F.*,**
+91,9571,*Irving, Edward*,*Irving, E.*,**
+91,9571,*Baker, Judith*,*Baker, J.*,**
+91,9571,*Churcher, Charles S.*,*Churcher, C. S.*,**
+91,9580,*Dilkes, David W.*,**,**
+91,9590,*McGowan, Christopher*,*McGowan, C.*,**
+91,9600,*Fitzgerald, Gerald R.*,**,**
+91,9610,*Bryant, Harold N.*,**,**
+91,9620,*Storrs, Glenn W.*,**,**
+91,9630,*Gould, Stephen Jay*,**,**
+91,9640,*Rich, Patricia Vickers*,*Vickers-Rich, Patricia*,**
+91,9641,*Rich, Thomas H. V.*,**,**
+91,9650,*Ferna%Andez, Jorge*,**,**
+91,9651,*Markgraf, Vera*,**,**
+91,9651,*Panarello, He%Actor O.*,**,**
+91,9651,*Albero, Miguel*,**,**
+91,9651,*Angiolini, Fernando E.*,**,**
+91,9651,*Valencio, Susana*,**,**
+91,9651,*Arriaga, Mirta*,**,**
+91,9660,*Gautier, Achilles*,**,**
+91,9670,*Takai, Masanaru*,**,**
+91,9671,*Setoguchi, Takeshi*,**,**
+91,9671,*Villarroel Arispe, Carlos*,*Villarroel A., Carlos*,**
+91,9671,*Cadena G., Alberto*,**,**
+91,9671,*Shigehara, Nobuo*,**,**
+91,9680,*Watanabe, Mahito*,**,**
+91,9681,*Nakaya, Hideo*,**,**
+91,9690,*Watanabe, Mahito*,**,**
+91,9691,*Nakaya, Hideo*,**,**
+91,9700,*Hampe, Oliver*,**,**
+91,9710,*Ziegler, Reinhard*,**,**
+91,9720,*Haderer, Frank-Otto*,**,**
+91,9730,*Bo%Fttcher, Ronald*,**,**
+91,9740,*Ziegler, Reinhard*,**,**
+91,9750,*Warth, Manfred*,**,**
+91,9760,*Bloos, Gert*,**,**
+91,9761,*Bo%Fttcher, Ronald*,**,**
+91,9761,*Heinrich, Wolf-Dieter*,**,**
+91,9761,*Mu%Fnzing, Klaus*,**,**
+91,9761,*Ziegler, Reinhard*,**,**
+91,9770,*Ziegler, Reinhard*,**,**
+91,9771,*Heizmann, Elmar P. J.*,**,**
+91,9780,*Wild, Rupert*,**,**
+91,9790,*Haderer, Frank-Otto*,**,**
+91,9800,*Hellmund, Meinolf*,**,**
+91,9810,*Ku%Fhner, Ralf*,**,**
+91,9820,*Ueno, Teruya*,*Uyeno, Teruya*,**
+91,9821,*Sakamoto, Kazuo*,**,**
+91,9821,*Fujii, Sho%Nji*,**,**
+91,9830,*Hasegawa, Yoshikazu*,**,**
+91,9831,*Manabe, Makoto*,**,**
+91,9831,*Hanai, Tetsuro%N*,**,**
+91,9831,*Kase, Tomoki*,**,**
+91,9831,*O%Nji, Tatsuo*,**,**
+91,9840,*Ueno, Teruya*,*Uyeno, Teruya*,**
+91,9841,*Suda, Yusuke*,**,**
+91,9850,*Fukuda, Yoshio*,**,**
+91,9851,*Obata, Ikuo*,*Obata, Ikuwo*,**
+91,9860,*Sakamoto, Kazuo*,**,**
+91,9861,*Ueno, Teruya*,*Uyeno, Teruya*,**
+91,9870,*Battail, Bernard*,**,**
+91,9880,*Demathieu, Georges R.*,**,**
+91,9881,*Durand, M.*,**,**
+91,9890,*Gaudant, Jean*,**,**
+91,9900,*Montoya, Plinio*,**,**
+91,9901,*Morales, Jorge*,**,**
+91,9910,*de Muizon, Christian*,**,**
+91,9911,*Marshall, Larry G.*,*Marshall, L. G.*,**
+91,9920,*Laurin, Michel*,**,**
+91,9930,*Rosowski, John J.*,*Rosowski, J. J.*,**
+91,9931,*Graybeal, Anna*,*Graybeal, A.*,**
+91,9940,*Cripps, Anthony P.*,**,**
+91,9950,*de Bruijn, Hans*,**,**
+91,9951,*Sarac%B, Gerc%Bek*,**,**
+91,9960,*Erdbrink, Dirk Peter Bosscha*,*Erdbrink, D. P. Bosscha*,**
+91,9970,*Erdbrink, Dirk Peter Bosscha*,*Erdbrink, D. P. Bosscha*,**
+91,9980,*Lambers, Paul H.*,**,**
+91,9990,*Russell, Loris S.*,**,**
+91,10000,*Faure, Martine*,**,**
+91,10010,*Tsoukala, Evangelia S.*,**,**
+91,10020,*Jeddi, Rekaya Seloua*,**,**
+91,10021,*Pickford, Martin*,**,**
+91,10021,*Tassy, Pascal*,**,**
+91,10021,*Coppens, Yves*,**,**
+91,10030,*Janvier, Philippe*,**,**
+91,10031,*Dingerkus, Guido*,**,**
+91,10040,*Court, Nicholas*,**,**
+91,10041,*Jaeger, Jean-Jacques*,**,**
+91,10050,*Gue%Arin, Claude*,**,**
+91,10060,*Michaux, Jacques*,**,**
+91,10061,*Hutterer, Rainer*,**,**
+91,10061,*Lo%Apez Marti%Anez, Nieves*,**,**
+91,10070,*Buffetaut, Eric*,**,**
+91,10071,*Le Loeuff, Jean*,**,**
+91,10080,*Petter, Germaine*,**,**
+91,10081,*Pickford, Martin*,**,**
+91,10081,*Howell, Francis Clark*,**,**
+91,10090,*Welte%A, Anne-Catherine*,**,**
+91,10091,*Robert, Romain-Henri*,*Robert, Romain*,**
+91,10100,*Gheerbrant, Emmanuel*,**,**
+91,10110,*Iatzoura, Agne%Cs*,**,**
+91,10111,*Cajan, Isabelle*,**,**
+91,10111,*Renard, Maurice*,**,**
+91,10120,*Pickford, Martin*,**,**
+91,10121,*Senut, Brigitte*,**,**
+91,10121,*Vincens, Annie*,**,**
+91,10121,*Van Neer, Wim*,**,**
+91,10121,*Ssemmanda, Immaculate*,**,**
+91,10121,*Baguma, Zachariah*,**,**
+91,10121,*Musiime, Ezra*,**,**
+91,10130,*Antunes, Miguel Telles*,**,**
+91,10131,*Sigogneau-Russell, Denise*,**,**
+91,10140,*Ginsburg, Le%Aonard*,**,**
+91,10141,*Azanza Asensio, Beatriz*,**,**
+91,10150,*S%Ben, S%Bevket*,**,**
+91,10151,*de Bonis, Louis*,**,**
+91,10151,*Dalfes, Nu%Fzhet*,**,**
+91,10151,*Geraads, Denis*,**,**
+91,10151,*Jaeger, Jean-Jacques*,**,**
+91,10151,*Mazin, Jean-Michel*,**,**
+91,10160,*Prasad, Guntupalli V. R.*,**,**
+91,10161,*Rage, Jean-Claude*,**,**
+91,10170,*Sigogneau-Russell, Denise*,**,**
+91,10180,*Gayet, Mireille*,**,**
+91,10181,*Meunier, Franc%Bois J.*,**,**
+91,10190,*Saint-Martin, Bernard*,**,**
+91,10200,*Koufos, Georges D.*,**,**
+91,10201,*Syrides, Georges E.*,**,**
+91,10201,*Koliadimou, Kalliopi K.*,**,**
+91,10201,*Kostopoulos, De%Ame%Ctre S.*,**,**
+91,10210,*Pickford, Martin*,**,**
+91,10220,*Welcomme, Jean-Loup*,**,**
+91,10221,*Aguilar, Jean-Pierre*,**,**
+91,10221,*Ginsburg, Le%Aonard*,**,**
+91,10230,*Pickford, Martin*,**,**
+91,10231,*Senut, Brigitte*,**,**
+91,10240,*Koufos, Georges D.*,**,**
+91,10241,*Kostopoulos, De%Ame%Ctre S.*,**,**
+91,10241,*Koliadimou, Kalliopi K.*,**,**
+91,10250,*Duranthon, Francis*,**,**
+91,10260,*Pereda Suberbiola, Javier*,*Pereda Suberbiola, Xabier*,**
+91,10270,*Mazin, Jean-Michel*,**,**
+91,10271,*Suteethorn, Varavudh*,**,**
+91,10271,*Buffetaut, Eric*,**,**
+91,10271,*Jaeger, Jean-Jacques*,**,**
+91,10271,*Helmcke-Ingavat, Rucha*,**,**
+91,10280,*Denys, Christiane*,**,**
+91,10290,*Bardet, Nathalie*,**,**
+91,10291,*Mazin, Jean-Michel*,**,**
+91,10291,*Cariou, Elie*,**,**
+91,10291,*Enay, Raymond*,**,**
+91,10291,*Krishna, Jai*,**,**
+91,10300,*Sigogneau-Russell, Denise*,**,**
+91,10310,*Eaton, Jeffrey G.*,**,**
+91,10311,*Nelson, Michael E.*,**,**
+91,10320,*Montagne, John*,**,**
+91,10330,*Ensom, Paul C.*,*Ensom, P. C.*,**
+91,10340,*Ensom, Paul C.*,**,**
+91,10350,*Ensom, Paul C.*,**,**
+91,10360,*Ensom, Paul C.*,**,**
+91,10370,*Nunn, J. F.*,**,**
+91,10380,*Kordikova, Ye. G.*,**,**
+91,10390,*Kozhamkulova, Baldyrgan Seraliyevna*,**,**
+91,10391,*Kochenov, Vladimir Georgiyevich*,**,**
+91,10400,*Bo%Fhme, Wolfgang*,**,**
+91,10401,*Zammit-Maempel, George*,**,**
+91,10410,*S%Jpinar, Zdene%Jk V.*,**,**
+91,10411,*Roc%Jek, Zbyne%Jk*,**,**
+91,10420,*Rage, Jean-Claude*,**,**
+91,10430,*Blackburn, Daniel G.*,**,**
+91,10440,*S%Jpinar, Zdene%Jk V.*,**,**
+91,10441,*Hodrova%A, Marcela*,**,**
+91,10450,*Roc%Jek, Zbyne%Jk*,**,**
+91,10460,*Izquierdo, I.*,**,**
+91,10461,*Medina, A. L.*,**,**
+91,10461,*Herna%Andez, J. J.*,**,**
+91,10470,*Szyndlar, Zbigniew*,**,**
+91,10471,*Rage, Jean-Claude*,**,**
+91,10480,*Castanet, Jacques*,**,**
+91,10481,*Baez, Marcos*,**,**
+91,10490,*Habersetzer, Jo%Frg*,**,**
+91,10491,*Schaal, Stephan*,**,**
+91,10500,*Franzen, Jens Lorenz*,**,**
+91,10510,*Martin, Gu%Fnther*,**,**
+91,10520,*Tyrberg, Tommy*,**,**
+91,10530,*Stiner, Mary C.*,**,**
+91,10540,*White, Tim D.*,**,**
+91,10541,*Toth, Nicholas*,**,**
+91,10550,*Straus, Lawrence Guy*,**,**
+91,10560,*Schwarcz, Henry P.*,*Schwarcz, H. P.*,**
+91,10561,*Bietti, Amilcare*,*Bietti, A.*,**
+91,10561,*Buhay, William M.*,*Buhay, W. M.*,**
+91,10561,*Stiner, Mary C.*,*Stiner, M. C.*,**
+91,10561,*Gru%Fn, Rainer*,*Gru%Fn, R.*,**
+91,10561,*Segre, Aldo G.*,*Segre, A.*,**
+91,10570,*Bartstra, Gert-Jan*,**,**
+91,10571,*Keates, Susan G.*,**,**
+91,10571,*Basoeki*,**,**
+91,10571,*Kallupa, Bahru*,**,**
+91,10580,*Nunez, Milton*,**,**
+91,10590,*Trinkaus, Erik*,**,**
+91,10600,*Graves, Paul*,**,**
+91,10610,*Simmons, Tal*,**,**
+91,10611,*Smith, Fred H.*,**,**
+91,10620,*Nadel, D.*,**,**
+91,10621,*Hershkovitz, Israel*,*Hershkovitz, I.*,**
+91,10630,*Vanc%Jata, Va%Aclav*,*Vanc%Jata, V.*,**
+91,10640,*Tyler, Donald E.*,*Tyler, D. E.*,**
+91,10650,*Gibert, Josep*,*Gibert, J.*,**
+91,10651,*Jime%Anez, C.*,**,**
+91,10660,*Tobias, Phillip V.*,*Tobias, P. V.*,**
+91,10670,*Bromage, Timothy G.*,*Bromage, T. G.*,**
+91,10680,*Tuttle, Russel H.*,*Tuttle, R. H.*,**
+91,10681,*Webb, D. M.*,**,**
+91,10681,*Baksh, Michael G.*,*Baksh, M.*,**
+91,10690,*Krantz, Grover S.*,*Krantz, G. S.*,**
+91,10700,*Jouffroy, Franc%Boise K.*,*Jouffroy, F. K.*,**
+91,10701,*Godinot, Marc*,*Godinot, M.*,**
+91,10701,*Nakano, Y.*,**,**
+91,10710,*Godinot, Marc*,*Godinot, M.*,**
+91,10711,*Beard, K. Christopher*,*Beard, K. C.*,**
+91,10720,*Berge, Christine*,*Berge, Ch.*,**
+91,10730,*Tyler, Donald E.*,*Tyler, D. E.*,**
+91,10740,*Bonaparte, Jose%A F.*,**,**
+91,10750,*Kurzanov, Sergey Mikhaylovich*,*Kurzanov, Sergei M.*,**
+91,10751,*Osmo%Alska, Halszka*,**,**
+91,10760,*Dzik, Jerzy*,**,**
+91,10770,*Sabath, Karol*,**,**
+91,10780,*Mikhaylov, Konstantin Yevgen'yevich*,*Mikhailov, Konstantin E.*,**
+91,10790,*Borsuk-Bial%Synicka, Magdalena*,**,**
+91,10791,*Alifanov, Vladimir Rudol'fovich*,**,**
+91,10800,*Laporte, Le%Ao F.*,**,**
+91,10810,*Holloway, Ralph L.*,**,**
+91,10820,*Falk, Dean*,**,**
+91,10830,*Grine, Frederick E.*,*Grine, F. E.*,**
+91,10831,*Susman, Randall L.*,*Susman, R. L.*,**
+91,10840,*Trinkaus, Erik*,**,**
+91,10841,*Villemeur, Isabelle*,**,**
+91,10850,*Meldrum, D. Jeffrey*,**,**
+91,10860,*Dettwyler, Katherine A.*,*Dettwyler, K. A.*,**
+91,10870,*Miller, Joseph A.*,**,**
+91,10880,*Diamond, Michael K.*,**,**
+91,10890,*Rak, Yoel*,**,**
+91,10891,*Kimbel, William H.*,**,**
+91,10900,*Abitbol, M. Maurice*,**,**
+91,10910,*McHenry, Henry M.*,**,**
+91,10920,*Beard, K. Christopher*,**,**
+91,10921,*Wang Banyue*,**,**
+91,10930,*Bamshad, Michael*,**,**
+91,10931,*Comuzzie, Anthony*,**,**
+91,10940,*Trinkaus, Erik*,**,**
+91,10950,*Goodman, Alan H.*,**,**
+91,10960,*Neiburger, Ellis Jay*,*Neiburger, E. J.*,**
+91,10970,*Gebo, Daniel L.*,**,**
+91,10971,*Dagosto, Marian*,**,**
+91,10971,*Rose, Kenneth D.*,**,**
+91,10980,*Simpson, Scott W.*,**,**
+91,10981,*Lovejoy, C. Owen*,**,**
+91,10981,*Meindl, Richard S.*,**,**
+91,10990,*Conroy, Glenn C.*,**,**
+91,10991,*Vannier, Michael W.*,**,**
+91,11000,*Conroy, Glenn C.*,**,**
+91,11001,*Vannier, Michael W.*,**,**
+91,11010,*Smith, B. Holly*,**,**
+91,11020,*Mann, Alan E.*,**,**
+91,11021,*Monge, Janet M.*,**,**
+91,11021,*Lampl, Michelle*,**,**
+91,11030,*Beynon, A. David*,*Beynon, A. D.*,**
+91,11031,*Dean, M. Christopher*,**,**
+91,11031,*Reid, D. J.*,**,**
+91,11040,*Daegling, David J.*,*Daegling, D. J.*,**
+91,11041,*Grine, Frederick E.*,*Grine, F. E.*,**
+91,11050,*McHenry, Henry M.*,**,**
+91,11060,*Kramer, Andrew*,**,**
+91,11070,*Kennedy, Kenneth A. R.*,**,**
+91,11071,*Sonakia, Arun*,**,**
+91,11071,*Chiment, John*,**,**
+91,11071,*Verma, Krishna Kumar*,*Verma, K. K.*,**
+91,11080,*Susman, Randall L.*,**,**
+91,11090,*Burns, James A.*,**,**
+91,11100,*Klein, Richard G.*,**,**
+91,11101,*Cruz-Uribe, Kathryn*,**,**
+91,11101,*Beaumont, Peter B.*,**,**
+91,11110,*Lepper, Bradley T.*,**,**
+91,11111,*Frolking, Tod A.*,**,**
+91,11111,*Fisher, Daniel C.*,**,**
+91,11111,*Goldstein Gerald*,**,**
+91,11111,*Sanger, Jon E.*,**,**
+91,11111,*Wymer, Dee Anne*,**,**
+91,11111,*Ogden, J. Gordon, III*,**,**
+91,11111,*Hooge, Paul E.*,**,**
+91,11120,*Klein, Richard G.*,**,**
+91,11130,*Afanas'yeva, Ol'ga Borisovna*,*Afanassieva, O. B.*,**
+91,11140,*Onoratini, Ge%Arard*,**,**
+91,11141,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+91,11150,*Ra%Rdulescu, Costin*,**,**
+91,11151,*Samson, Petre*,**,**
+91,11151,*S%Btiuca%R, Emanoil*,**,**
+91,11160,*Terzea, Elena*,**,**
+91,11170,*Defleur, Alban*,**,**
+91,11171,*Ra%Rdulescu, Costin*,**,**
+91,11180,*Matsuy, Viktor Mikhaylovich*,**,**
+91,11181,*Mos'kina, Ol'ga Dmitriyevna*,**,**
+91,11190,*Makarenko, Dmitriy Yeliseyevich*,**,**
+91,11200,*Thulborn, Richard A.*,**,**
+91,11210,*Miller, Gifford H.*,**,**
+91,11211,*Wendorf, Fred*,**,**
+91,11211,*Ernst, Richard*,**,**
+91,11211,*Schild, Romuald*,**,**
+91,11211,*Close, Angela E.*,**,**
+91,11211,*Friedman, Irving*,**,**
+91,11211,*Schwarcz, Henry P.*,**,**
+91,11220,*Bryant, J. Daniel*,**,**
+91,11230,*Vianey-Liaud, Monique*,**,**
+91,11240,*Gierlin%Aski, Gerard*,**,**
+91,11250,*Platt, Nigel H.*,**,**
+91,11251,*Meyer, Christian A.*,**,**
+91,11260,*Hunt, Adrian P.*,**,**
+91,11270,*Fiorillo, Anthony R.*,**,**
+91,11280,*Fiorillo, Anthony R.*,**,**
+91,11290,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+91,11300,*Bendukidze, Oleg Grigor'yevich*,**,**
+91,11310,*Bendukidze, Oleg Grigor'yevich*,**,**
+91,11320,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+91,11321,*Burchak, D. N.*,**,**
+91,11330,*Rubidge, Bruce S.*,**,**
+91,11331,*Hopson, James A.*,**,**
+91,11340,*Rayner, Richard J.*,*Rayner, R. J.*,**
+91,11341,*Masters, J. C.*,**,**
+91,11350,*Avery, Diana Margaret*,*Avery, D. M.*,**
+91,11360,*Lee-Thorp, Julia A.*,**,**
+91,11361,*Beaumont, Peter B.*,**,**
+91,11370,*Tricomi, Giuseppina*,**,**
+91,11380,*Lacasa i Ruiz, Antoni*,*Lacasa-Ruiz, A.*,**
+91,11390,*Buffetaut, Eric*,**,**
+91,11400,*Buffetaut, Eric*,**,**
+91,11401,*Sattayarak, Nares*,**,**
+91,11401,*Suteethorn, Varavudh*,**,**
+91,11410,*Bendix-Almgreen, Svend Erik*,**,**
+91,11411,*Clack, Jennifer Alice*,**,**
+91,11411,*Olsen, Henrik*,**,**
+91,11420,*Astibia, Humberto*,*Astibia, H.*,**
+91,11421,*Buffetaut, Eric*,*Buffetaut, E.*,**
+91,11421,*Buscalioni, A%Angela D.*,*Buscalioni, A. D.*,**
+91,11421,*Cappetta, Henri*,*Cappetta, H.*,**
+91,11421,*Corral, C.*,**,**
+91,11421,*Estes, Richard*,*Estes, R.*,**
+91,11421,*Garci%Aa-Garmilla, F.*,**,**
+91,11421,*Jaeger, Jean-Jacques*,*Jaeger, J. J.*,**
+91,11421,*Jime%Anez Fuentes, Emiliano*,*Jimenez-Fuentes, E.*,**
+91,11421,*Le Loeuff, Jean*,*Le Loeuff, J.*,**
+91,11421,*Mazin, Jean-Michel*,*Mazin, J. M.*,**
+91,11421,*Orue-Etxebarria Urkiza, Xabier*,*Orue-Etxebarria, X.*,**
+91,11421,*Pereda Superbiola, Javier*,*Pereda-Superbiola, J.*,**
+91,11421,*Powell, Jaime Eduardo*,*Powell, J. E.*,**
+91,11421,*Rage, Jean-Claude*,*Rage, J. C.*,**
+91,11421,*Rodri%Aguez-Lazaro, Julio M.*,*Rodriguez-Lazaro, J.*,**
+91,11421,*Sanz Garci%Aa, Jose%A Luis*,*Sanz, J. L.*,**
+91,11421,*Tong Haiyan*,*Tong, H.*,**
+91,11430,*Gheerbrant, Emmanuel*,**,**
+91,11440,*Dundas, Robert G.*,**,**
+91,11450,*Pomerol, Charles*,**,**
+91,11460,*Zaji%Ac, Jaroslav*,**,**
+91,11461,*Milner, Andrew R.*,**,**
+91,11461,*Klembara, Jozef*,**,**
+91,11470,*Werneburg, Ralf*,**,**
+91,11471,*Zaji%Ac, Jaroslav*,**,**
+91,11480,*Macoun, Jaroslav*,**,**
+91,11490,*Simons, Elwyn L.*,**,**
+91,11491,*Rasmussen, D. Tab*,**,**
+91,11500,*Rosenberger, Alfred L.*,*Rosenberger, A. L.*,**
+91,11501,*Hartwig, Walter Carl*,*Hartwig, W. C.*,**
+91,11501,*Takai, Masanaru*,*Takai, M.*,**
+91,11501,*Setoguchi, Takeshi*,*Setoguchi, T.*,**
+91,11501,*Shigehara, Nobuo*,*Shigehara, N.*,**
+91,11510,*Rivero, Manuel*,**,**
+91,11511,*Arredondo, Oscar*,**,**
+91,11520,*Schick, Kathy*,**,**
+91,11521,*Toth, Nicholas*,**,**
+91,11521,*Wei Qi*,**,**
+91,11521,*Clark, J. Desmond*,**,**
+91,11521,*Etler, Dennis*,**,**
+91,11530,*Villa, Paola*,**,**
+91,11531,*Mahieu, Eric*,**,**
+91,11540,*Kappelman, John*,**,**
+91,11541,*Kelley, Jay*,**,**
+91,11541,*Pilbeam, David*,**,**
+91,11541,*Sheikh, Khalid A.*,**,**
+91,11541,*Ward, Steven*,**,**
+91,11541,*Anwar, Muhammad*,**,**
+91,11541,*Barry, John C.*,**,**
+91,11541,*Brown, Barbara*,**,**
+91,11541,*Hake, Paige*,**,**
+91,11541,*Johnson, Noye M.*,**,**
+91,11541,*Raza, S. Mahmood*,**,**
+91,11541,*Shah, Syed Mohammad Ibrahim*,*Shah, S. M. Ibrahim*,**
+91,11550,*Ruff, Christopher B.*,**,**
+91,11560,*Asfaw, Berhane*,*Asfaw, B.*,**
+91,11561,*Beyene, Yonas*,*Beyene, Y.*,**
+91,11561,*Semaw, Sileshi*,**,**
+91,11561,*Suwa, Gen*,**,**
+91,11561,*White, Tim D.*,*White, Tim*,**
+91,11561,*WoldeGabriel, Giday*,**,**
+91,11570,*Fleagle, John G.*,**,**
+91,11571,*Rasmussen, D. Tab*,**,**
+91,11571,*Yirga, Solomon*,**,**
+91,11571,*Bown, Thomas M.*,**,**
+91,11571,*Grine, Frederick E.*,**,**
+91,11580,*Tague, Robert G.*,**,**
+91,11590,*Krause, David W.*,**,**
+91,11600,*Pope, Geoffrey G.*,**,**
+91,11610,*Ward, Carol V.*,*Ward, C. V.*,**
+91,11611,*Walker, Alan C.*,*Walker, A.*,**
+91,11611,*Teaford, Mark F.*,*Teaford, M. F.*,**
+91,11620,*Feibel, Craig S.*,**,**
+91,11621,*Brown, Francis H.*,**,**
+91,11630,*Van Couvering, John A.*,**,**
+91,11631,*Harris, Judith A.*,**,**
+91,11640,*McKee, Jeffrey K.*,**,**
+91,11641,*Helman, Saul B.*,**,**
+91,11650,*Koufos, Georges D.*,*Koufos, George D.*,**
+91,11651,*Syrides, Georges E.*,*Syrides, George E.*,**
+91,11651,*Koliadimou, Kalliopi K.*,**,**
+91,11660,*Cerling, Thure E.*,*Cerling, T. E.*,**
+91,11661,*Quade, Jay*,*Quade, J.*,**
+91,11661,*Ambrose, Stanley H.*,*Ambrose, S. H.*,**
+91,11661,*Siles, N. E.*,**,**
+91,11670,*Martill, David M.*,**,*e*
+91,11671,*Hudson, John D.*,**,*e*
+91,11680,*Hudson, John D.*,*Hudson, J. D.*,**
+91,11681,*Martill, David M.*,**,**
+91,11681,*Page, Kevin N.*,**,**
+91,11690,*Martill, David M.*,**,**
+91,11700,*Martill, David M.*,**,**
+91,11710,*Martill, David M.*,**,**
+91,11720,*Martill, David M.*,**,**
+91,11730,*Ravosa, Matthew J.*,**,**
+91,11740,*McHenry, Henry M.*,**,**
+91,11750,*Thomas, Herbert*,**,**
+91,11751,*S%Ben, S%Bevket*,**,**
+91,11751,*Roger, Jack*,**,**
+91,11751,*Al-Sulaimani, Zaher*,**,**
+91,11760,*Jablonski, Nina G.*,**,**
+91,11761,*Gu Yumin*,**,**
+91,11770,*Hill, Andrew*,**,**
+91,11771,*Behrensmeyer, Anna K.*,*Behrensmeyer, Kay*,**
+91,11771,*Brown, Barbara*,**,**
+91,11771,*Deino, Alan*,**,**
+91,11771,*Rose, Michael*,**,**
+91,11771,*Saunders, Jeffrey*,**,**
+91,11771,*Ward, Steven*,**,**
+91,11771,*Winkler, Alisa J.*,*Winkler, Alisa*,**
+91,11780,*Kappelman, John*,**,**
+91,11790,*Rightmire, G. Philip*,**,**
+91,11791,*Deacon, Hilary J.*,**,**
+91,11800,*Arsuaga, Juan Luis*,*Arsuaga, J. L.*,**
+91,11801,*Carretero, Jose%A Miguel*,*Carretero, J. M.*,**
+91,11801,*Marti%Anez, Ignacio*,*Marti%Anez, I.*,**
+91,11801,*Gracia, Ana*,*Gracia, A.*,**
+91,11810,*Gru%Fn, Rainer*,**,**
+91,11811,*Stringer, Christopher B.*,**,**
+91,11811,*Schwarcz, Henry P.*,**,**
+91,11820,*Simmons, Tal*,**,**
+91,11821,*Falsetti, Anthony Benjamin*,*Falsetti, A. B.*,**
+91,11821,*Smith, Fred H.*,**,**
+91,11830,*Rak, Yoel*,**,**
+91,11840,*Wood, Bernard A.*,*Wood, B. A.*,**
+91,11841,*Xu Qinghua*,*Xu Q.*,**
+91,11850,*Ungar, P. S.*,**,**
+91,11851,*Grine, Frederick E.*,*Grine, F. E.*,**
+91,11860,*Armstrong, Este*,**,**
+91,11861,*Zilles, Karl*,**,**
+91,11861,*Curtis, Maria*,**,**
+91,11861,*Schleicher, Axel*,**,**
+91,11870,*Kennedy, Gail E.*,*Kennedy, G. E.*,**
+91,11880,*Foley, Robert A.*,*Foley, R. A.*,**
+91,11890,*Bown, Thomas M.*,**,**
+91,11891,*Rose, Kenneth D.*,**,**
+91,11900,*Bocherens, Herve%A*,**,**
+91,11901,*Fizet, Marc*,**,**
+91,11901,*Mariotti, Andre%A*,**,**
+91,11901,*Lange-Badre, Brigitte*,**,**
+91,11901,*Vandermeersch, Bernard*,**,**
+91,11901,*Borel, Jacques Paul*,**,**
+91,11901,*Bellon, Georges*,**,**
+91,11910,*Skinner, Mark*,**,**
+91,11920,*Grine, Frederick E.*,*Grine, F. E.*,**
+91,11921,*Leakey, Richard E.*,*Leakey, R. E.*,**
+91,11921,*Teaford, Mark F.*,*Teaford, M. F.*,**
+91,11921,*Walker, Alan C.*,*Walker, A. C.*,**
+91,11930,*Harrison, Terry*,**,**
+91,11940,*Begun, David R.*,**,**
+91,11950,*Harrison, Terry*,**,**
+91,11951,*Delson, Eric*,**,**
+91,11951,*Guan Jian*,**,**
+91,11960,*Grine, Frederick E.*,**,**
+91,11961,*Klein, Richard G.*,**,**
+91,11961,*Volman, Thomas P.*,**,**
+91,11970,*Aiello, Leslie C.*,**,**
+91,11971,*Montgomery, Carey*,**,**
+91,11971,*Dean, M. Christopher*,*Dean, Christopher*,**
+91,11980,*Spoor, C. Fred*,**,**
+91,11981,*Sondaar, Paul Y.*,**,**
+91,11981,*Hussain, S. Tassier*,**,**
+91,11990,*Hartwig-Scherer, Sigrid*,**,**
+91,11991,*Martin, Robert D.*,**,**
+91,12000,*Covert, Herbert H.*,**,**
+91,12001,*Williams, Blythe A.*,**,**
+91,12010,*Mottl, Maria*,**,**
+91,12070,*Nomura, Masazumi*,**,**
+91,12071,*Hatanaka, Osamu*,**,**
+91,12071,*Nishimoto, Hiroyuki*,**,**
+91,12071,*Karasawa, Hiroaki*,**,**
+91,12071,*Yamazaki, Katsuhiko*,*Nanao Nojiriko Group*,**
+91,12071,*Kawakame, Toyoake*,*Nanao Nojiriko Group*,**
+91,12071,*Tsunomi, Tohiro*,*Nanao Nojiriko Group*,**
+91,12071,*Kokubu, Hideji*,*Nanao Nojiriko Group*,**
+91,12071,*Takago%N, Takatoshi*,*Nanao Nojiriko Group*,**
+91,12080,*Nishimoto, Hiroyuki*,**,**
+91,12081,*Karasawa, Hiroaki*,**,**
+91,12090,*Yasuno, Toshikatsu*,**,**
+91,12100,*Miller, Wade E.*,**,**
+91,12110,*Rigby, J. Keith*,**,**
+91,12111,*Rigby, J. Keith, Jr.*,**,**
+91,12120,*Brandley, Richard T.*,**,**
+91,12130,*Britt, Brooks B.*,**,**
+91,12140,*Welte%A, Anne-Catherine*,*Welte%A, A.-C.*,**
+91,12150,*Clot, Andre%A*,**,**
+91,12160,*Crouzel, Fernand*,*Crouzel, F.*,**
+91,12170,*Welte%A, Anne-Catherine*,**,**
+91,12171,*Lambert, Georges*,**,**
+91,12180,*Dabrio Gonza%Alez, Cristino Jose%A*,*Dabrio, C. J.*,*e*
+91,12190,*Armenteros Armenteros, Ildefonso*,*Armenteros, I.*,**
+91,12191,*Dabrio Gonza%Alez, Cristino Jose%A*,*Dabrio, C. J.*,**
+91,12191,*Guisado Gonza%Alez, Ricardo*,*Guisado, R.*,**
+91,12191,*Sa%Anchez de Vega, Andres*,*Sa%Anchez de Vega, A.*,**
+91,12200,*Jime%Anez Fuentes, Emiliano*,*Jime%Anez Fuentes, E.*,**
+91,12201,*Cuesta Ruiz-Colmenares, Miguel A.*,*Cuesta, M. A.*,**
+91,12201,*Marti%An de Jesu%As, Santiago*,*Marti%An de Jesu%As, S.*,**
+91,12201,*Mulas Alonso, Eugenia*,*Mulas, E.*,**
+91,12201,*Pe%Arez Ramos, Elisa*,*Pe%Arez Ramos, E.*,**
+91,12201,*Jime%Anez Garci%Aa, Santiago*,*Jime%Anez-Garci%Aa, S.*,**
+91,12210,*Pela%Aez-Campomanes de Labra, Pablo*,*Pela%Aez-Campomanes, P.*,**
+91,12211,*de la Pen%Ea, Armando*,*de la Pen%Ea, A.*,**
+91,12211,*Lo%Apez Marti%Anez, Nieves*,*Lo%Apez Marti%Anez, N.*,**
+91,12220,*Sevilla Garci%Aa, Paloma*,*Sevilla, Paloma*,**
+91,12221,*Esteban Aenlle, Javier*,**,**
+91,12221,*Lo%Apez Marti%Anez, Nieves*,**,**
+91,12230,*Sanchi%Az, Borja*,*Sanchi%Az y Gil de Avalle, Francisco de Borja*,**
+91,12240,*Jime%Anez Fuentes, Emiliano*,*Jime%Anez Fuentes, E.*,**
+91,12241,*Marti%An de Jesu%As, Santiago*,*Marti%An de Jesu%As, S.*,**
+91,12250,*Casanovas Cladellas, Mari%Aa Lourdes*,*Casanovas-Cladellas, Ma. L.*,**
+91,12251,*Ferna%Andez Ortega, Arturo*,*Ferna%Andez-Ortega, A.*,**
+91,12251,*Pe%Arez Lorente, Fe%Alix*,*Pe%Arez-Lorente, F.*,**
+91,12251,*Santafe%A Llopis, Jose%A Vicente*,*Santafe%A-Llopis, J. Vte.*,**
+91,12260,*Zheng Zuoxin*,*Cheng Tso-Hsin*,**
+91,12261,*Feng Zuijian*,**,**
+91,12261,*Zhang Yongzu*,**,**
+91,12261,*Hu Shuqin*,**,**
+91,12270,*Zhang Xingyong*,**,**
+91,12271,*Zhou Guoxing*,**,**
+91,12271,*Hu Youheng*,**,**
+91,12271,*Lin Yipu*,**,**
+91,12280,*Zhou Guoxing*,**,**
+91,12281,*Wang Zhengju*,**,**
+91,12290,*Shi Mozhuang*,**,**
+91,12291,*Guan Jian*,**,**
+91,12291,*Pan Runqun*,**,**
+91,12291,*Tang Dazhung*,**,**
+91,12300,*Guan Jian*,**,**
+91,12301,*Zhang Baokun*,**,**
+91,12301,*Ma Zhengfu*,**,**
+91,12310,*Zhou Mingzhen*,*Chow Minchen*,**
+91,12311,*Rich, Patricia Vickers*,*Li Weibai*,**
+91,12311,*Qi Tao*,**,**
+91,12320,*Liu Jialong*,**,**
+91,12321,*Zhen Shuonan*,**,**
+91,12321,*Jin Fuquan*,**,**
+91,12330,*Zhou Guoxing*,**,**
+91,12331,*Yi Guangyuan*,**,**
+91,12340,*Pei Wenzhong*,*Pei Wenchung*,**
+91,12341,*Zhou Mingzhen*,*Chow, Minchen*,**
+91,12350,*Zhen Shuonan*,**,**
+91,12351,*Li Jianjun*,**,**
+91,12351,*Zhen Baiming*,**,**
+91,12360,*Zheng Zuoxin*,**,**
+91,12361,*Zhang Yongzu*,**,**
+91,12370,*Zhen Shuonan*,**,**
+91,12371,*Li Jianjun*,**,**
+91,12371,*Rao Chenggang*,**,**
+91,12371,*Hu Shaojin*,**,**
+91,12380,*Zhou Guoxing*,**,**
+91,12390,*Zhou Mingzhen*,*Chow, Minchen*,**
+91,12391,*Wang Yuanqing*,*Wang Yuanching*,**
+91,12400,*Guan Jian*,**,**
+91,12410,*Karkhu, Aleksandr Adol'fovich*,**,**
+91,12420,*Kielan-Jaworowska, Zofia*,*Kielan-Jaworowska, Z.*,*e*
+91,12421,*Heintz, Natascha*,*Heintz, N.*,*e*
+91,12421,*Nakrem, Hans Arne*,*Nakrem, H. A.*,*e*
+91,12430,*Archibald, J. David*,**,**
+91,12440,*Battail, Bernard*,**,**
+91,12450,*Battail, Bernard*,**,**
+91,12460,*Bocherens, Herve%A*,**,**
+91,12461,*Mariotti, Andre%A*,**,**
+91,12461,*Fizet, Marc*,**,**
+91,12461,*Borel, Jacques Paul*,*Borel, Jacques P.*,**
+91,12461,*Bellon, Georges*,**,**
+91,12470,*Borsuk-Bial%Synicka, Magdalena*,**,**
+91,12480,*Brinkmann, Winand*,**,**
+91,12490,*Chinsamy, Anusuya*,**,**
+91,12500,*Chinsamy, Anusuya*,**,**
+91,12510,*Clemens, William A.*,**,**
+91,12520,*Dodson, Peter*,**,**
+91,12530,*Ensom, Paul C.*,**,**
+91,12531,*Evans, Susan E.*,**,**
+91,12531,*Milner, Andrew R.*,**,**
+91,12540,*Evans, Susan E.*,**,**
+91,12541,*Milner, Andrew R.*,**,**
+91,12550,*Fiorillo, Anthony R.*,**,**
+91,12560,*Fosse, Gisle*,**,**
+91,12561,*Kielan-Jaworowska, Zofia*,**,**
+91,12561,*Ensom, Paul C.*,**,**
+91,12570,*Hansen, Hans J.*,**,**
+91,12580,*Kielan-Jaworowska, Zofia*,**,**
+91,12581,*Ensom, Paul C.*,**,**
+91,12590,*Krusat, Georg*,**,**
+91,12600,*Lindemann, Franz-Josef*,**,**
+91,12610,*Manabe, Makoto*,**,**
+91,12611,*Hasegawa, Yoshikazu*,**,**
+91,12620,*Milner, Andrew R.*,**,**
+91,12630,*Nesov, Lev Aleksandrovich*,*Nessov, Lev A.*,**
+91,12631,*Kielan-Jaworowska, Zofia*,**,**
+91,12640,*Richter, Annette*,**,**
+91,12650,*Russell, Dale A.*,**,**
+91,12660,*Sabath, Karol*,**,**
+91,12670,*Sigogneau-Russell, Denise*,**,**
+91,12680,*Taquet, Philippe*,**,**
+91,12690,*Tintori, Andrea*,**,**
+91,12691,*Brambilla, Elena*,**,**
+91,12700,*Werner, Christa*,**,**
+91,12710,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+91,12711,*Lacomba, J. I.*,**,**
+91,12711,*Marti%An Sua%Arez, E.*,**,**
+91,12711,*Pen%Ea, J. A.*,**,**
+91,12720,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+91,12721,*Lacomba, J. I.*,**,**
+91,12721,*Marti%An Sua%Arez, E.*,**,**
+91,12730,*Marti%An Sua%Arez, E.*,**,**
+91,12731,*Mein, Pierre*,*Mein, P.*,**
+91,12740,*Mones, Alvaro*,**,**
+91,12750,*Donchenko, V. V.*,**,**
+91,12760,*Lo%Apez Marti%Anez, Nieves*,**,**
+91,12761,*Lo%Apez-Jurado, Luis Felipe*,**,**
+91,12770,*Huggins, Henry H.*,**,**
+91,12780,*Smartt, Richard A.*,**,**
+91,12781,*Hafner, David J.*,**,**
+91,12781,*Lucas, Spencer G.*,**,**
+91,12790,*McDonald, Jerry N.*,**,**
+91,12791,*Echols, Joan*,**,**
+91,12800,*Kasper, Stephen*,**,**
+91,12801,*Parmley, Dennis*,**,**
+91,12810,*Adams, Dawn Adrian*,**,**
+91,12820,*Schafer, Tracy S.*,**,**
+91,12821,*Dalquest, Walter W.*,**,**
+91,12830,*Stangl, Frederick B., Jr.*,**,**
+91,12831,*Dalquest, Walter W.*,**,**
+91,12840,*Holman, J. Alan*,**,**
+91,12841,*Schloeder, M. Elise*,**,**
+91,12850,*Holman, J. Alan*,**,**
+91,12860,*Bon, Mauro*,**,**
+91,12861,*Piccoli, Giuliano*,**,**
+91,12861,*Sala, Benedetto*,**,**
+91,12870,*Flannery, Timothy F.*,*Flannery, T. F.*,**
+91,12871,*White, J. P.*,**,**
+91,12880,*Weishampel, David B.*,**,**
+91,12881,*Grigorescu, Dan*,**,**
+91,12881,*Norman, David B.*,**,**
+91,12890,*Fordyce, R. Ewan*,**,**
+91,12900,*Molnar, Ralph E.*,**,**
+91,12910,*Cappetta, Henri*,**,**
+91,12911,*Nolf, Dirk*,**,**
+91,12920,*Retallack, Gregory J.*,**,**
+91,12930,*Retallack, Gregory J.*,**,**
+91,12940,*Anderson, Michael*,**,**
+91,12950,*Arter, David*,**,**
+91,12960,*Narendra, Barbara L.*,**,**
+91,12970,*Anonymous*,**,**
+91,12980,*Storrs, Glenn W.*,**,**
+91,12990,*Anonymous*,**,**
+91,13000,*Argant, Alain*,**,**
+91,13010,*Dovernois, Marie-Pascale*,**,**
+91,13020,*Argant, Jacqueline*,**,**
+91,13030,*Lavina, Ernesto Luiz*,**,**
+91,13031,*Arau%Ajo-Barberena, Dina Celeste*,*Arau%Ajo, Dina C.*,**
+91,13031,*Azevedo, Se%Argio Alex K.*,**,**
+91,13040,*Kozhamkulova, Baldyrgan Seraliyevna*,**,**
+91,13041,*Kochenov, Vladimir Georgiyevich*,**,**
+91,13050,*Tyut'kova, Lyubov' Anatol'yevna*,**,**
+91,13060,*Malez, Vesna*,**,**
+91,13061,*Dimitrijevic%A, Vesna*,**,**
+91,13070,*Paunovic%A, Maja*,**,**
+91,13071,*Dimitrijevic%A, Vesna*,**,**
+91,13080,*Malez, Mirko*,**,**
+91,13090,*Malez, Mirko*,**,**
+91,13100,*Paunovic%A, Maja*,**,**
+91,13110,*Malez, Mirko*,**,**
+91,13120,*Heinrich, Wolf-Dieter*,**,**
+91,13121,*Ja%Fger, Klaus-Dieter*,**,**
+91,13130,*Julg, Andre%A*,**,**
+91,13140,*Cattani, Laura*,**,**
+91,13141,*Cremaschi, Mauro*,**,**
+91,13141,*Ferraris, Maria R.*,*Ferraris, M. A.*,**
+91,13141,*Mallegni, Francesco*,*Mallegni, F.*,**
+91,13141,*Masini, Federico*,*Masini, F.*,**
+91,13141,*Scola, Valeria*,*Scola, V.*,**
+91,13141,*Tozzi, Carlo*,**,**
+91,13150,*Uytterschaut, Hilde*,**,**
+91,13160,*Belli, Giancarlo*,**,**
+91,13161,*Belluomini, Giorgio*,**,**
+91,13161,*Cassoli, Pier Francesco*,**,**
+91,13161,*Cecchi, Silvana*,**,**
+91,13161,*Cucarzi, Mauro*,**,**
+91,13161,*Delitala, Lauretta*,**,**
+91,13161,*Fornaciari, Gino*,**,**
+91,13161,*Mallegni, Francesco*,**,**
+91,13161,*Piperno, Marcello*,**,**
+91,13161,*Segre, Aldo G.*,**,**
+91,13161,*Segre-Naldini, Eugenia*,**,**
+91,13170,*Rosas, Antonio*,**,**
+91,13171,*Bermudez de Castro, Jose%A Mari%Aa*,**,**
+91,13171,*Aguirre, Emiliano*,**,**
+91,13180,*Czarnetzki, Alfred*,**,**
+91,13190,*Saban, Roger*,**,**
+91,13200,*Sartono, Sastrohamidjojo*,*Sartono, S.*,**
+91,13210,*Jeli%Anek, Jan*,**,**
+91,13220,*Gambier, Dominique*,**,**
+91,13221,*Sacchi, Dominique*,**,**
+91,13230,*Sondaar, Paul Y.*,*Sondaar, P. Y.*,**
+91,13231,*Martini, Fabio*,*Martini, F.*,**
+91,13231,*Ulzega, Antonio*,*Ulzega, A.*,**
+91,13231,*Klein Hofmeijer, Gerard*,*Klein Hofmeijer, G.*,**
+91,13240,*Bermudez de Castro, Jose%A Mari%Aa*,**,**
+91,13250,*Bouville, Claude*,**,**
+91,13260,*Leguebe, Andre%A*,**,**
+91,13270,*Svoboda, Jir%Ji%A*,**,**
+91,13271,*Vlc%Jek, Emanuel*,**,**
+91,13280,*Diez, Carlos*,**,**
+91,13290,*King, Gillian M.*,*King, G. M.*,**
+91,13300,*Czerkas, Sylvia*,**,**
+91,13310,*Harris, John M.*,**,**
+91,13320,*Marche%A, Jordan D., II*,**,**
+91,13330,*Campbell, Kenneth E., Jr.*,*Campbell, Kenneth E.*,**
+91,13331,*Marcus, Leslie*,**,**
+91,13340,*Campbell, Kenneth E., Jr.*,**,**
+91,13341,*Frailey, Carl D.*,**,**
+91,13350,*Harris, John M.*,**,**
+91,13360,*Campbell, Kenneth E., Jr.*,**,**
+91,13370,*Monaghan, Jennifer M.*,**,**
+91,13371,*Rich, Thomas H. V.*,*Rich, Tom*,**
+91,13371,*Vickers-Rich, Patricia*,*Rich, Pat*,**
+91,13380,*Harris, John M.*,**,**
+91,13390,*Kaya, Tanju*,**,**
+91,13400,*Tuna, Vahdet*,**,**
+91,13410,*Arslan, Feral*,**,**
+91,13420,*O%Nno, Ryu%Nichiro%N*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Kusano, Hideji*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Kubota, Yoshinori*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Kurogane, Michio*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Kobayashi, Iwao*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Senda, Ko%Nzo%N*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Takahashi, Hiroichi*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Tokuma, Sho%Nichi*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Nagase, Mikako*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Hasegawa, Tadashi*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Miyatake, Yorisuke*,*Kashiwakazi Naumann's Elephant Research Grp.*,**
+91,13421,*Yasui, Satoshi*,*Kashiwazaki Naumann's Elephant Research Grp.*,**
+91,13421,*Watanabe, Isamu*,*Kashiwazaki Naumann's Elephant Research Grp.*,**
+91,13430,*Nakajima, Tsuneo*,**,**
+91,13431,*Matsuoka, Keiji*,**,**
+91,13431,*Katabayashi, Eiichi*,**,**
+91,13440,*Takahashi, Masashi*,**,**
+91,13441,*Fukuda, Yoshio*,**,**
+91,13450,*Elliot, David H.*,**,**
+91,13490,*Hammer, William R.*,**,**
+91,13500,*Woodburne, Michael O.*,*Woodburne, M. O.*,**
+91,13520,*Hammer, William R.*,**,**
+91,13530,*Krissek, Lawrence A.*,*Krissek, L. A.*,**
+91,13531,*Horner, Timothy C.*,*Horner, T. C.*,**
+91,13540,*Hammer, William R.*,**,**
+91,13541,*Tamplin, Jeffrey*,**,**
+91,13541,*Hickerson, William J.*,**,**
+91,13541,*Krippner, Stephen*,**,**
+91,13550,*Macdonald, David I. M.*,**,**
+91,13551,*Isbell, John L.*,**,**
+91,13551,*Hammer, William R.*,**,**
+91,13560,*Scha%Ffer, Dieter*,**,**
+91,13570,*Ba%Anesz, Ladislav*,**,**
+91,13580,*Guenther, Ekke W.*,**,**
+91,13590,*Paddayya, K.*,**,**
+91,13600,*Kli%Ama, Bohuslav*,**,**
+91,13610,*Lockley, Martin G.*,*Lockley, Martin*,**
+91,13620,*Boeuf, Odile*,**,**
+91,13630,*Bjerring, Hans C.*,**,**
+91,13640,*Dauphin, Yannicke*,**,**
+91,13650,*Hellmund, Meinolf*,**,**
+91,13660,*Ro%Fper, Martin*,**,**
+91,13670,*Gerhard, Uwe*,**,**
+91,13671,*Mo%Frs, Thomas*,**,**
+91,13680,*Schleich, Hans Hermann*,**,**
+91,13690,*Beck, Johann*,**,**
+91,13700,*Damuth, John*,**,*e*
+91,13701,*MacFadden, Bruce J.*,**,*e*
+91,13710,*Damuth, John*,**,**
+91,13711,*MacFadden, Bruce J.*,**,**
+91,13720,*Martin, Robert A.*,**,**
+91,13730,*Jungers, William L.*,**,**
+91,13740,*Roth, V. Louise*,**,**
+91,13750,*Van Valkenburgh, Blaire*,**,**
+91,13760,*Fortelius, Mikael*,**,**
+91,13770,*Damuth, John*,**,**
+91,13780,*Janis, Christine M.*,**,**
+91,13790,*Scott, Kathleen M.*,**,**
+91,13800,*MacFadden, Bruce J.*,**,**
+91,13801,*Hulbert, Richard C., Jr.*,**,**
+91,13810,*Turk, Ivan*,**,**
+91,13811,*Dirjec, Janez*,**,**
+91,13820,*Brodar, Mitja*,**,**
+91,13830,*S%Jkegro, Ante*,**,**
+91,13840,*Turk, Ivan*,**,**
+91,13850,*Crowley, Thomas J.*,**,**
+91,13851,*North, Gerald R.*,**,**
+91,13860,*Bennike, Ole*,**,**
+91,13861,*Kelly, Michael*,**,**
+91,13870,*Bendix-Almgreen, Svend Erik*,**,**
+91,13871,*Clack, Jennifer Alice*,**,**
+91,13871,*Olsen, Henrik*,**,**
+91,13880,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+91,13881,*Fe%Fdorov, Pavel Vasil'yevich*,*Fiodorov, P. V.*,**
+91,13881,*Udovichenko, Nikolay Ivanovich*,*Udovichenko, N. I.*,**
+91,13890,*Ivanov, Aleksandr Olegovich*,**,**
+91,13900,*Fe%Fdorov, Pavel Vasil'yevich*,*Fiodorov, P. V.*,**
+91,13901,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+91,13910,*Stepanov, Dmitriy Leonidovich*,**,**
+91,13920,*Nesov, Lev Aleksandrovich*,**,**
+91,13930,*Nesov, Lev Aleksandrovich*,**,**
+91,13940,*Purdue, James R.*,**,*e*
+91,13941,*Klippel, Walter E.*,**,*e*
+91,13941,*Styles, Bonnie W.*,**,*e*
+91,13950,*McMillan, R. Bruce*,**,**
+91,13960,*Morris, JoAnn*,**,**
+91,13961,*McMillan, R. Bruce*,**,**
+91,13970,*Holman, J. Alan*,**,**
+91,13980,*Graham, Russell W.*,**,**
+91,13990,*Martin, Robert A.*,**,**
+91,14000,*Woodward, Susan L.*,**,**
+91,14010,*Robison, Neil D.*,**,**
+91,14020,*McDonald, Jerry N.*,**,**
+91,14021,*Ray, Clayton E.*,**,**
+91,14021,*Harington, Charles R.*,*Harington, C. R.*,**
+91,14030,*Olsen, Stanley J.*,**,**
+91,14040,*Kordos, La%Aszlo%A*,*Kordos, L.*,**
+91,14050,*Partridge, Timothy C.*,**,**
+91,14051,*Tobias, Phillip V.*,**,**
+91,14051,*Hughes, Alun R.*,**,**
+91,14060,*Tobias, Phillip V.*,**,**
+91,14070,*Ripamonti, Ugo*,**,**
+91,14071,*Petit, Jean-Claude*,**,**
+91,14080,*Coutselinis, A.*,**,**
+91,14081,*Dritsas, C.*,**,**
+91,14081,*Pitsios, Th.*,**,**
+91,14090,*Vlc%Jek, Emanuel*,**,**
+91,14100,*Aguirre, Emiliano*,**,**
+91,14101,*Arsuaga, Juan Luis*,**,**
+91,14101,*Bermudez de Castro, Jose%A Mari%Aa*,**,**
+91,14101,*Carretero, Jose%A Miguel*,*Carretero, Miguel*,**
+91,14101,*Gracia, Ana*,**,**
+91,14101,*Marti%Anez, Ignacio*,**,**
+91,14101,*Pe%Arez, Pilar Julia*,**,**
+91,14101,*Rosas, Antonio*,**,**
+91,14110,*Manzi, Giorgio*,**,**
+91,14111,*Passarello, Pietro*,**,**
+91,14120,*Madre-Dupouy, Martine*,**,**
+91,14130,*Trinkaus, Erik*,**,**
+91,14140,*Day, Michael H.*,*Day, M. H.*,**
+91,14141,*Stringer, Christopher B.*,*Stringer, C. B.*,**
+91,14150,*Day, Michael H.*,*Day, M. H.*,**
+91,14151,*Twist, M. H. C.*,**,**
+91,14151,*Ward, Steven*,*Ward, S.*,**
+91,14160,*Heim, Jean-Louis*,**,**
+91,14170,*Vannier, Michael W.*,**,**
+91,14171,*Conroy, Glenn C.*,**,**
+91,14180,*MacLarnon, Ann M.*,**,**
+91,14190,*Richtsmeier, Joan T.*,**,**
+91,14200,*Preuschoft, Holger*,*Preuschoft, H.*,**
+91,14210,*O'Higgins, Paul*,**,**
+91,14220,*Ruff, Christopher B.*,**,**
+91,14230,*Dean, M. Christopher*,**,**
+91,14240,*Walker, Alan C.*,*Walker, Alan*,**
+91,14241,*Teaford, Mark F.*,*Teaford, M.*,**
+91,14250,*Tyler, Donald E.*,**,**
+91,14260,*Leakey, Meave G.*,*Leakey, M. G.*,**
+91,14261,*Leakey, Richard E.*,*Leakey, R. E.*,**
+91,14261,*Simons, Elwyn L.*,*Simons, E. L.*,**
+91,14261,*Walker, Alan C.*,*Walker, A. C.*,**
+91,14270,*Rosenberger, Alfred L.*,**,**
+91,14271,*Hartwig, Walter Carl*,**,**
+91,14271,*Wolff, Ronald G.*,**,**
+91,14280,*Froehlich, Jeffery W.*,**,**
+91,14281,*Lucas, Spencer G.*,**,**
+91,14290,*Lewandowski, Jo%Azef*,**,**
+91,14291,*Zielin%Aski, Tomasz*,**,**
+91,14300,*Pavlovic%A, Milorad B.*,**,**
+91,14301,*Eremija, Marko I.*,**,**
+91,14310,*Markovic%A, Zoran*,**,**
+91,14311,*Pavlovic%A, Gordana*,**,**
+91,14320,*Pavlovic%A, Gordana*,**,**
+91,14321,*Markovic%A, Zoran*,**,**
+91,14330,*Eastman, Joseph T.*,**,**
+91,14340,*Mulvany, Patrick S.*,**,**
+91,14341,*Mulvany, Judith O.*,**,**
+91,14350,*Taktakishvili, Irakliy Georgiyevich*,**,*e*
+91,14360,*Bendukidze, Oleg Grigor'yevich*,**,**
+91,14361,*Burchak-Abramovich, Nikolay Iosifovich*,*Burchak-Abramovich, N. O.*,**
+91,14370,*Burchak, D. N.*,**,**
+91,14380,*Amiranashvili, N. G.*,**,**
+91,14381,*Gutiyeva, N. V.*,**,**
+91,14381,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+91,14390,*Gabelaya, Tsiala Davidovna*,**,**
+91,14400,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+91,14401,*Vekua, Abesalom Kapitonovich*,**,**
+91,14410,*Gustavson, Thomas Carl*,*Gustavson, T. C.*,*e*
+91,14420,*Gustavson, Thomas Carl*,*Gustavson, T. C.*,**
+91,14421,*Holliday, Vance T.*,*Holliday, V. T.*,**
+91,14421,*Schultz, Gerald E.*,*Schultz, G. E.*,**
+91,14430,*Winkler, Dale A.*,*Winkler, D. A.*,**
+91,14440,*Winkler, Dale A.*,*Winkler, D. A.*,**
+91,14450,*Schultz, Gerald E.*,*Schultz, G. E.*,**
+91,14460,*Schultz, Gerald E.*,*Schultz, G. E.*,**
+91,14470,*Schultz, Gerald E.*,**,**
+91,14480,*Schultz, Gerald E.*,**,**
+91,14490,*Schultz, Gerald E.*,**,**
+91,14500,*Schultz, Gerald E.*,**,**
+91,14520,*Alexander, R. McNeill*,**,**
+91,14530,*Lowenstein, Jerold M.*,*Lowenstein, J. M.*,**
+91,14531,*Rainey, William E.*,*Rainey, W. N.*,**
+91,14531,*Betancourt, Julio L.*,*Betancourt, J. L.*,**
+91,14540,*de Beaumont, Ge%Arard*,**,**
+91,14550,*Kruchinina, Nina Vasil'yevna*,**,*e*
+91,14551,*Modzalevskaya, Tat'yana L'vovna*,**,*e*
+91,14560,*Baygusheva, Vera Sever'yanovna*,**,**
+91,14570,*Kalinovskiy, Pe%Ftr Fe%Fdorovich*,**,**
+91,14580,*Kochenov, Vladimir Georgiyevich*,**,**
+91,14590,*Nesov, Lev Aleksandrovich*,**,**
+91,14591,*Kaznyshkina, L. F.*,**,**
+91,14591,*Cherepanov, G. O.*,**,**
+91,14600,*Praslov, Nikolay Dmitriyevich*,**,**
+91,14610,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+91,14620,*Tatarinov, Konstantin Adrianovich*,**,**
+91,14630,*Sua%Arez Soruco, Ramiro*,**,*e*
+91,14640,*Marshall, Larry G.*,**,**
+91,14641,*Hoffstetter, Robert*,**,**
+91,14650,*Gagnier, Pierre-Yves*,**,**
+91,14660,*Janvier, Philippe*,**,**
+91,14670,*Janvier, Philippe*,**,**
+91,14680,*Gayet, Mireille*,**,**
+91,14681,*Marshall, Larry G.*,**,**
+91,14681,*Sempere, Thierry*,**,**
+91,14690,*Cappetta, Henri*,**,**
+91,14700,*Schultze, Hans-Peter*,**,**
+91,14710,*Schultze, Hans-Peter*,**,**
+91,14720,*Gayet, Mireille*,**,**
+91,14730,*Gayet, Mireille*,**,**
+91,14731,*Meunier, Franc%Bois J.*,**,**
+91,14740,*Rage, Jean-Claude*,**,**
+91,14750,*Rage, Jean-Claude*,**,**
+91,14760,*de Broin, France*,**,**
+91,14770,*Ba%Aez, Ana Mari%Aa*,**,**
+91,14780,*Buffetaut, Eric*,**,**
+91,14790,*Buffetaut, Eric*,**,**
+91,14791,*Marshall, Larry G.*,**,**
+91,14800,*Pascual, Rosendo*,**,**
+91,14801,*Orti%Az Jaureguizar, Edgardo*,**,**
+91,14810,*de Muizon, Christian*,**,**
+91,14820,*Vucetich, Mari%Aa Guiomar*,**,**
+91,14830,*Marshall, Larry G.*,**,**
+91,14831,*Sempere, Thierry*,**,**
+91,14840,*Oiso, Yoshinori*,**,**
+91,14850,*Werdelin, Lars*,**,**
+91,14860,*Marshall, Larry G.*,**,**
+91,14861,*Salinas Z., Patricia*,**,**
+91,14870,*Marshall, Larry G.*,**,**
+91,14880,*Bond, Mariano*,**,**
+91,14890,*Sua%Arez Soruco, Ramiro*,**,**
+91,14900,*Tingey, Robert J.*,**,*e*
+91,14910,*Young, Gavin C.*,*Young, G. C.*,**
+91,14920,*Colbert, Edwin H.*,**,**
+91,14930,*Retallack, Gregory J.*,**,**
+91,14940,*Davies, Melvyn*,**,**
+91,14950,*Grubaugh, J. W.*,**,**
+91,14951,*Hildenbrand, J. D.*,**,**
+91,14960,*Bachl, Inge*,**,**
+91,14970,*Probst, Ernst*,**,**
+91,14980,*Wolf, Hans W.*,**,**
+91,14990,*Martill, David M.*,**,**
+91,15000,*Taylor, Michael A.*,*Taylor, M. A.*,**
+91,15001,*Cruickshank, Arthur R. I.*,*Cruickshank, A. R. I.*,**
+91,15010,*Taylor, Michael A.*,**,**
+91,15011,*Cruickshank, Arthur R. I.*,**,**
+91,15020,*Aronow, Saul*,**,**
+91,15021,*Neck, Raymond W.*,**,**
+91,15021,*McLure, William L.*,**,**
+91,15030,*Breard, Sylvester Q., Jr.*,**,**
+91,15040,*Gand, Georges*,**,**
+91,15050,*Pe%Acsi, Ma%Arton*,**,*e*
+91,15051,*Velichko, Andrey Alekseyevich*,**,*e*
+91,15060,*Markova, Anastasiya Konstantinovna*,**,**
+91,15070,*Du Hengjian*,**,**
+91,15071,*Cheng Jie*,**,**
+91,15071,*Wu Weimin*,**,**
+91,15071,*Ma Ancheng*,**,**
+91,15080,*Jerzykiewicz, Tomasz*,**,**
+91,15090,*Du Hengjian*,**,**
+91,15091,*Cheng Jie*,**,**
+91,15091,*Ma Ancheng*,**,**
+91,15091,*Wu Weimin*,**,**
+91,15100,*Mead, Jim I.*,**,**
+91,15110,*Larsen, Eiliv*,**,**
+91,15111,*Gulliksen, Steinar*,**,**
+91,15111,*Lauritzen, Stein-Erik*,**,**
+91,15111,*Lie, Rolf*,**,**
+91,15111,*Lo%Svlie, Reidar*,**,**
+91,15111,*Mangerud, Jan*,**,**
+91,15120,*Evans, David J. A.*,**,**
+91,15130,*Mead, Emilee M.*,**,**
+91,15131,*Mead, Jim I.*,**,**
+91,15140,*Chaline, Jean*,**,**
+91,15141,*Farjanel, Genevie%Cve*,**,**
+91,15190,*Welte%A, Anne-Catherine*,*Welte%A, A. C.*,**
+91,15191,*Robert, Romain-Henri*,*Robert, R.*,**
+91,15200,*Puchkov, P. V.*,*Putshkov, P. V.*,**
+91,15210,*Nesin, Valentin Antonovich*,**,**
+91,15211,*Topachevskiy, Vadim Aleksandrovich*,**,**
+91,15220,*Drexler, Michael*,**,**
+91,15230,*Mol, Dirk Jan*,*Mol, D. J.*,**
+91,15231,*Van Essen, J. A.*,**,**
+91,15240,*Mohapatra, Gopal Chandra*,*Mohapatra, G. C.*,**
+91,15250,*Schwimmer, David R.*,**,**
+91,15260,*Smith, Paul L.*,**,*e*
+91,15270,*Jin Jisuo*,**,**
+91,15280,*Agenbroad, Larry D.*,**,**
+91,15281,*Barton, Bax R.*,**,**
+91,15290,*Arthur, Andrew J.*,**,**
+91,15291,*Smith, Paul L.*,**,**
+91,15291,*Tipper, Howard W.*,**,**
+91,15300,*Decourten, Frank L.*,**,**
+91,15310,*Robison, Steven F.*,**,**
+91,15320,*Carroll, Robert L.*,**,**
+91,15321,*Dong Zhiming*,*Dong Zhi-Ming*,**
+91,15330,*Chatterjee, Sankar*,**,**
+91,15340,*Hauff, Bernhard*,**,**
+91,15350,*Bordonaro, Osvaldo L.*,*Bordonaro, O.*,*e*
+91,15360,*Contreras, Victor Hugo*,**,**
+91,15361,*Damiani, Oscar*,**,**
+91,15361,*Milana, Juan Pablo*,**,**
+91,15361,*Bracco, Adriana I.*,**,**
+91,15361,*Barrera, Oscar M.*,**,**
+91,15370,*Raghavan, Pathmanathan*,*Raghavan, P.*,**
+91,15380,*Sahni, Ashok*,**,**
+91,15381,*Gupta, Vishwa Jit*,*Gupta, V. J.*,**
+91,15381,*Prakash, Bhuvan*,**,**
+91,15381,*Kotlia, Bahadur Singh*,*Kotlia, B. S.*,**
+91,15390,*Price, Llewelin Ivor*,**,**
+91,15391,*Campos, Dio%Agenes de Almeida*,**,**
+91,15400,*Rigby, John F.*,*Rigby, J. F.*,**
+91,15410,*Suarez, Jose%A Martin*,**,**
+91,15411,*de Arruda, Moacyr Rabelo*,**,**
+91,15420,*Suarez, Jose%A Martin*,**,**
+91,15430,*Whetstone, Kenneth N.*,**,**
+91,15440,*Leonardi, Giuseppe*,**,**
+91,15441,*Godoy, Luiz Carlos*,**,**
+91,15450,*Cunha, Fausto Luiz de Souza*,**,**
+91,15451,*Nunan, Gustavo Wilson Alves*,**,**
+91,15460,*Andreis, Renato Rudolfo*,*Andreis, R. R.*,**
+91,15461,*Bossi, Gerardo Eugenio*,*Bossi, G. E.*,**
+91,15461,*Montardo, Doris Ketzer*,*Montardo, D. K.*,**
+91,15470,*Kellner, Alexander Wilhelm Armin*,**,**
+91,15480,*Lima, Maria Claudia F. Souza*,*Lima, Maria Claudia F. S.*,**
+91,15481,*Richter, Martha*,**,**
+91,15481,*Lavina, Ernesto Luiz*,*Lavina, Ernesto L.*,**
+91,15490,*Cunha, Fausto Luiz de Souza*,**,**
+91,15491,*Mello, Ma%Arcia Gomide da Silva*,**,**
+91,15491,*Bergqvist, Li%Alian Paglarelli*,**,**
+91,15500,*Cunha, Fausto Luiz de Souza*,**,**
+91,15501,*Francisco, Benedicto Humberto Rodrigues*,**,**
+91,15501,*Andrade, Amaro Ba%Arcia*,**,**
+91,15510,*Arau%Ajo, Dina Celeste*,*Arau%Ajo-Barberena, Dina C.*,**
+91,15520,*Ragonha, Evaldo Wehmuth*,**,**
+91,15530,*de Castro, Antonio Carlos Jacome*,**,**
+91,15531,*Fernandes, Antonio Carlos Sequeira*,**,**
+91,15531,*Carvalho, Ismar de Souza*,**,**
+91,15540,*Pinna, Giovanni*,**,**
+91,15550,*Visconti, Agnese*,**,**
+91,15560,*Nosotti, Stefania*,**,**
+91,15570,*Pinna, Giovanni*,**,**
+91,15571,*Teruzzi, Giorgio*,**,**
+91,15580,*Pinna, Giovanni*,**,**
+91,15590,*Kaljo, Dimitri*,*Kaljo, D.*,*e*
+91,15591,*Nestor, Heldur*,*Nestor, H.*,*e*
+91,15600,*Ma%Frss, Tiiu*,*Ma%Frss, T.*,**
+91,15610,*Ma%Frss, Tiiu*,*Ma%Frss, T.*,**
+91,15620,*Ma%Frss, Tiiu*,**,**
+91,15621,*Einasto, Rein*,*Einasto, R.*,**
+91,15630,*Einasto, Rein*,*Einasto, R.*,**
+91,15640,*Ma%Frss, Tiiu*,*Ma%Frss, T.*,**
+91,15641,*Einasto, Rein*,*Einasto, R.*,**
+91,15650,*Einasto, Rein*,*Einasto, R.*,**
+91,15660,*Nestor, Heldur*,*Nestor, H.*,**
+91,15670,*Kaljo, Dimitri*,*Kal'o, Dmitri Leonkhardovich*,**
+91,15671,*Einasto, Rein*,*Einasto, R.*,**
+91,15680,*Jefferson, George T.*,**,**
+91,15690,*Whistler, David P.*,**,**
+91,15700,*Czaplewski, Nicholas J.*,**,**
+91,15710,*Woodburne, Michael O.*,**,*e*
+91,15711,*Reynolds, Robert E.*,**,*e*
+91,15711,*Whistler, David P.*,**,*e*
+91,15720,*Reynolds, Robert E.*,**,**
+91,15721,*Whistler, David P.*,**,**
+91,15721,*Woodburne, Michael O.*,**,**
+91,15730,*Reynolds, Robert E.*,**,**
+91,15731,*Reynolds, Richard L.*,**,**
+91,15731,*Pajak, Alois F., III*,*Pajak, A. F., III*,**
+91,15740,*Reynolds, Robert E.*,**,**
+91,15750,*Reynolds, Robert E.*,**,**
+91,15751,*Reeder, Wessly A.*,**,**
+91,15760,*Woodburne, Michael O.*,**,**
+91,15770,*Lucas, Spencer G.*,**,**
+91,15771,*Reynolds, Robert E.*,**,**
+91,15780,*Reynolds, Robert E.*,**,**
+91,15790,*Woodburne, Michael O.*,**,**
+91,15800,*Lindsay, Everett H.*,**,**
+91,15810,*Pajak, Alois F., III*,**,**
+91,15811,*Vincelette, Alan R.*,**,**
+91,15820,*Bell, Christopher J.*,**,**
+91,15821,*Reynolds, Robert E.*,**,**
+91,15830,*Reynolds, Robert E.*,**,**
+91,15840,*Whistler, David P.*,**,**
+91,15841,*Reynolds, Robert E.*,**,**
+91,15850,*Jefferson, George T.*,**,**
+91,15860,*Reynolds, Robert E.*,**,**
+91,15861,*Reynolds, Richard L.*,**,**
+91,15870,*Reynolds, Robert E.*,**,**
+91,15880,*Whistler, David P.*,**,**
+91,15890,*Reynolds, Robert E.*,**,**
+91,15891,*Reynolds, Richard L.*,**,**
+91,15900,*Reynolds, Robert E.*,**,*e*
+91,15910,*Reynolds, Robert E.*,**,**
+91,15920,*Kooser, Marilyn A.*,**,**
+91,15930,*Reynolds, Robert E.*,**,**
+91,15940,*Reynolds, Robert E.*,**,**
+91,15941,*Lander, E. Bruce*,**,**
+91,15950,*Lander, E. Bruce*,**,**
+91,15960,*Lander, E. Bruce*,**,**
+91,15961,*Reynolds, Robert E.*,**,**
+91,15970,*Jefferson, George T.*,**,**
+91,15980,*Roeder, Mark A.*,**,**
+91,15990,*Reynolds, Robert E.*,**,**
+91,15991,*Reynolds, Richard L.*,**,**
+91,16000,*Reynolds, Robert E.*,**,*e*
+91,16010,*Reynolds, Robert E.*,**,**
+91,16011,*Glazner, Allan*,**,**
+91,16011,*Meek, Norman*,**,**
+91,16020,*Jefferson, George T.*,**,**
+91,16030,*Reynolds, Robert E.*,**,**
+91,16040,*Reynolds, Robert E.*,**,**
+91,16041,*Fay, Leslie P.*,**,**
+91,16050,*Reynolds, Robert E.*,**,*e*
+91,16051,*Wells, Steven G.*,**,*e*
+91,16051,*Brady, Roland H., III*,**,*e*
+91,16060,*Reynolds, Robert E.*,**,**
+91,16061,*Whistler, David P.*,**,**
+91,16070,*Jefferson, George T.*,**,**
+91,16080,*Reynolds, Robert E.*,**,*e*
+91,16090,*Reynolds, Robert E.*,*Reynolds, R. E.*,**
+91,16091,*Jefferson, George T.*,*Jefferson, G. T.*,**
+91,16091,*Reynolds, Richard L.*,*Reynolds, R. L.*,**
+91,16100,*Reynolds, Robert E.*,*Reynolds, R. E.*,**
+91,16101,*Reynolds, Richard L.*,*Reynolds, R. L.*,**
+91,16101,*Bell, Christopher J.*,*Bell, C. J.*,**
+91,16101,*Czaplewski, Nicholas J.*,*Czaplewski, N. J.*,**
+91,16101,*Goodwin, H. Thomas*,*Goodwin, H. T.*,**
+91,16101,*Mead, Jim I.*,*Mead, J. I.*,**
+91,16101,*Roth, Barry*,**,**
+91,16110,*Force, Chris*,**,**
+91,16120,*Reynolds, Robert E.*,*Reynolds, R. E.*,**
+91,16121,*Reynolds, Richard L.*,*Reynolds, R. L.*,**
+91,16121,*Bell, Christopher J.*,*Bell, C. J.*,**
+91,16121,*Pitzer, B.*,**,**
+91,16130,*Reynolds, Robert E.*,*Reynolds, R. E.*,**
+91,16131,*Reynolds, Richard L.*,*Reynolds, R. L.*,**
+91,16131,*Bell, Christopher J.*,*Bell, C. J.*,**
+91,16140,*Mead, Jim I.*,**,**
+91,16141,*Murray, Lyndon K.*,**,**
+91,16150,*Reynolds, Robert E.*,**,**
+91,16151,*Mead, Jim I.*,**,**
+91,16151,*Reynolds, Richard L.*,**,**
+91,16160,*Woodburne, Michael O.*,**,**
+91,16161,*Whistler, David P.*,**,**
+91,16170,*Reynolds, Robert E.*,**,**
+91,16180,*Jefferson, George T.*,**,**
+

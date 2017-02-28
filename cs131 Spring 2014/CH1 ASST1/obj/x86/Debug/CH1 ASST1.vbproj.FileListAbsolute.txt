@@ -1,0 +1,18 @@
+P:\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.exe
+P:\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.pdb
+P:\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.xml
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1_ASST1.Form1.resources
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1_ASST1.Resources.resources
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.exe
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.xml
+P:\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.pdb
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.exe
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.xml
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.pdb
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.exe
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.pdb
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\bin\Debug\CH1 ASST1.xml
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1_ASST1.Form1.resources
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1_ASST1.Resources.resources
+W:\FU_Y\cs131 Spring 2014\CH1 ASST1\obj\x86\Debug\CH1 ASST1.vbproj.GenerateResource.Cache

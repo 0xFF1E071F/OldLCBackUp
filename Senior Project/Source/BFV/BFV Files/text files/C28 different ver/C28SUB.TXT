@@ -1,0 +1,2377 @@
+28,15,*Faunas--Permian*,*Gro%Fdener sandstone, South Tyrol*
+28,16,*Faunas--Paleozoic and Mesozoic*,*tracks*
+28,16,*Faunas--Permian*,*footprints, Italy*
+28,17,*Faunas--Jurassic*,**
+28,19,*Faunas--Paleozoic and Mesozoic*,*Karroo of S. Africa*
+28,21,*Faunas -- Quaternary -- Cave Faunas*,**
+28,22,*Faunas -- Quaternary -- Cave Faunas*,**
+28,25,*Faunas--Cenozoic*,*Primates*
+28,25,*Faunas--Jurassic*,*lithographic slates, Bavaria*
+28,26,*Faunas--Miocene*,*Antwerp*
+28,32,*Faunas -- Quaternary -- Cave Faunas*,**
+28,33,*Faunas -- Quaternary -- Cave Faunas*,**
+28,36,*Faunas -- Quaternary -- Cave Faunas*,**
+28,39,*Faunas -- Quaternary -- Cave Faunas*,**
+28,40,*Faunas -- Quaternary -- Cave Faunas*,*Austria*
+28,46,*Faunas--Tertiary*,*France*
+28,47,*Faunas--Quaternary*,*man, France*
+28,52,*Faunas--Quaternary*,*man, Czecho-Slovakia*
+28,53,*Faunas--Quaternary*,*Bos*
+28,54,*Faunas--Quaternary*,*Illinois*
+28,55,*Faunas--Triassic*,*Connecticut*
+28,57,*Faunas--Pliocene*,**
+28,58,*Faunas--Pliocene*,**
+28,59,*Faunas--Pliocene*,*salamander, Kansas*
+28,61,*Faunas--Cretaceous*,*Texas*
+28,63,*Faunas--Quaternary*,*Australopithecus*
+28,66,*Faunas--Quaternary*,*France*
+28,67,*Faunas--Miocene*,*frogs, Germany*
+28,68,*Faunas--Pliocene*,*mammals, Isola di Coo*
+28,71,*Faunas--Carboniferous*,*fishes of Westfalen*
+28,72,*Faunas--Triassic*,*fishes, Alps*
+28,73,*Faunas--Devonian*,*fishes, Greenland*
+28,74,*Faunas--Carboniferous*,*ichnites, Alabama*
+28,75,*Faunas--Miocene*,*Russia*
+28,76,*Faunas--Cretaceous*,*Laosaurus minimus, Belly River, Montana*
+28,79,*Faunas--Quaternary*,*walrus, New England*
+28,81,*Faunas--Quaternary*,*bat, Florida*
+28,86,*Faunas--Quaternary*,*Palestine*
+28,88,*Faunas--General*,*Garantian beds, Germany*
+28,90,*Faunas--Pliocene*,*Rhea, Argentina*
+28,91,*Faunas--Quaternary*,*Argentina*
+28,92,*Faunas--General*,*Patagonia*
+28,94,*Faunas--Tertiary*,*mammal tracks, Austria*
+28,97,*Faunas--Quaternary*,*Irish elk*
+28,103,*Faunas -- Quaternary -- Cave Faunas*,**
+28,103,*Faunas--Jurassic*,*Mystriosaurus, Holzmaden*
+28,104,*Faunas -- Quaternary -- Cave Faunas*,*Australia*
+28,105,*Faunas--Cenozoic*,*Australia*
+28,106,*Faunas--Quaternary*,*Mazouna, Algeria*
+28,107,*Faunas--Miocene*,*Algeria*
+28,108,*Faunas--Quaternary*,*Sinanthropus*
+28,109,*Faunas -- Quaternary -- Cave Faunas*,*Ho%Fnnetales*
+28,110,*Faunas--Quaternary*,*Germany*
+28,111,*Faunas--Quaternary*,*Elephas, Upnor*
+28,113,*Faunas--Tertiary*,*Mongolia*
+28,116,*Faunas--General*,**
+28,118,*Faunas--General*,*Mongolia*
+28,119,*Faunas--Pliocene*,*Russia*
+28,183,*Faunas--Quaternary*,*China*
+28,269,*Faunas--Quaternary*,*associated with glaciation*
+28,280,*Faunas -- Quaternary -- Cave Faunas*,*Austria*
+28,282,*Faunas--Quaternary*,*Equus, Rancho La Brea*
+28,284,*Faunas--Miocene*,**
+28,288,*Faunas--Quaternary*,**
+28,289,*Faunas--Quaternary*,**
+28,290,*Faunas--Quaternary*,**
+28,291,*Faunas--Quaternary*,*N. Africa*
+28,292,*Faunas--Miocene*,*mammalia from near Lake Rudolph, Africa*
+28,292,*Faunas--Quaternary*,**
+28,293,*Faunas--Quaternary*,*E. Africa*
+28,295,*Faunas--Quaternary*,*Abyssinia*
+28,296,*Faunas--Miocene*,*Pontian of Salonika*
+28,297,*Faunas--Pliocene*,*Parabos, France*
+28,298,*Faunas--Quaternary*,*camels, Argentina*
+28,299,*Faunas -- Quaternary -- Cave Faunas*,*Sinanthropus*
+28,300,*Faunas--Quaternary*,*man*
+28,304,*Faunas--Cretaceous*,*Canada*
+28,306,*Faunas--Carboniferous*,*Utah*
+28,306,*Faunas--Permian*,*Utah*
+28,307,*Faunas -- Quaternary -- Cave Faunas*,*Pin Hole Cave, England*
+28,332,*Faunas--Pliocene*,*Elephas, Rumania*
+28,337,*Faunas--Permian*,**
+28,338,*Faunas--Permian*,*fish and stegocephalians, Moravia*
+28,347,*Faunas--Quaternary*,*Elephas, Mediterranean Islands*
+28,348,*Faunas--Quaternary*,*Cervus*
+28,349,*Faunas -- Quaternary -- Cave Faunas*,**
+28,349,*Faunas--Quaternary*,*Ursus*
+28,350,*Faunas -- Quaternary -- Cave Faunas*,**
+28,351,*Faunas -- Quaternary -- Cave Faunas*,**
+28,352,*Faunas -- Quaternary -- Cave Faunas*,**
+28,353,*Faunas -- Quaternary -- Cave Faunas*,*Austria*
+28,354,*Faunas--Quaternary*,*Capreolus*
+28,358,*Faunas--Pliocene*,*mastodon, Bulgaria*
+28,361,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, France*
+28,362,*Faunas--Miocene*,*Borophagus, California*
+28,367,*Faunas--Pliocene*,**
+28,368,*Faunas--Pliocene*,*Amebelodon, Nebraska*
+28,369,*Faunas--Pliocene*,**
+28,370,*Faunas--Quaternary*,*Mastodon, Nebraska*
+28,371,*Faunas--Cretaceous*,*dinosaur, Nebraska*
+28,372,*Faunas--Quaternary*,*Castoroides, Nebraska*
+28,373,*Faunas--Quaternary*,*Mastodon, Nebraska*
+28,375,*Faunas--Quaternary*,*musk-oxen, Nebraska*
+28,376,*Faunas--Pliocene*,*Torynobelodon, Nebraska*
+28,377,*Faunas--Quaternary*,**
+28,379,*Faunas--Pliocene*,**
+28,379,*Faunas--Quaternary*,*Bison*
+28,380,*Faunas--Pliocene*,*Platybelodon, Nebraska*
+28,381,*Faunas--Quaternary*,*Mastodon, Nebraska*
+28,385,*Faunas--Quaternary*,**
+28,385,*Faunas--Tertiary*,*N. China*
+28,386,*Faunas--Quaternary*,**
+28,387,*Faunas--Quaternary*,*N. China*
+28,388,*Faunas--General*,*amphibians and reptiles*
+28,390,*Faunas--Quaternary*,*Terrapene, Florida*
+28,391,*Faunas--General*,*Rumania*
+28,393,*Faunas--Tertiary*,*Holarctic origins*
+28,394,*Faunas--Pliocene*,*mammals, Persia*
+28,396,*Faunas--Cretaceous*,*dinosaur, Madagascar*
+28,397,*Faunas--Quaternary*,**
+28,399,*Faunas--Quaternary*,**
+28,401,*Faunas--Quaternary*,**
+28,402,*Faunas--Quaternary*,*France*
+28,403,*Faunas--Quaternary*,*Elephas, France*
+28,405,*Faunas--Quaternary*,*Spain*
+28,407,*Faunas -- Quaternary -- Cave Faunas*,*Gibraltar*
+28,408,*Faunas -- Quaternary -- Cave Faunas*,*Kurdistan*
+28,409,*Faunas--Quaternary*,*Erinaceus, Palestine*
+28,410,*Faunas -- Quaternary -- Cave Faunas*,*Palestine*
+28,411,*Faunas--Oligocene*,*Dyspterna, Isle of Wight*
+28,411,*Faunas--Triassic*,*fishes, N. S. Wales*
+28,420,*Faunas -- Quaternary -- Cave Faunas*,*Italy*
+28,424,*Faunas -- Quaternary -- Cave Faunas*,*man, France*
+28,426,*Faunas--Permian*,*Acrolepis gigas, Czecho-Slovakia*
+28,428,*Faunas--Quaternary*,*mammals, Europe*
+28,432,*Faunas--Miocene*,*fish, Java*
+28,433,*Faunas--General*,*East Indies*
+28,436,*Faunas--Miocene*,*Belgium*
+28,440,*Faunas -- Quaternary -- Cave Faunas*,**
+28,441,*Faunas -- Quaternary -- Cave Faunas*,*France*
+28,442,*Faunas--Quaternary*,*mammoth*
+28,444,*Faunas -- Quaternary -- Cave Faunas*,*Germany*
+28,449,*Faunas--Triassic*,*fish, Nova Scotia*
+28,452,*Faunas--Quaternary*,*Homo, North America*
+28,454,*Faunas--General*,**
+28,454,*Faunas--Quaternary*,**
+28,455,*Faunas--Jurassic*,**
+28,457,*Faunas--General*,**
+28,458,*Faunas--General*,**
+28,458,*Faunas--Quaternary*,**
+28,459,*Faunas--Jurassic*,*Mystriosaurus, Holzmaden*
+28,460,*Faunas--Quaternary*,*mammals, Heilbronn*
+28,461,*Faunas--General*,*Wu%Frttemberg*
+28,462,*Faunas--Quaternary*,**
+28,464,*Faunas--Quaternary*,**
+28,465,*Faunas--Quaternary*,*Steinheim man*
+28,466,*Faunas--Triassic*,*reptiles, Keuper*
+28,467,*Faunas--Quaternary*,*mammals, Steinheim*
+28,468,*Faunas--Quaternary*,**
+28,469,*Faunas--Quaternary*,*Homo and associated faunas, Germany*
+28,479,*Faunas--Pliocene*,*turtles, France*
+28,485,*Faunas--Quaternary*,*Bos, Europe*
+28,486,*Faunas--Quaternary*,*rhinoceros, Holland*
+28,487,*Faunas--Quaternary*,*elephant, Holland*
+28,490,*Faunas--Quaternary*,*Ursus, Holland*
+28,491,*Faunas--Quaternary*,*Hystrix, Holland*
+28,492,*Faunas--Quaternary*,*mammals, correlation, Holland*
+28,494,*Faunas--Pliocene*,*Equus, N. Carolina*
+28,495,*Faunas--Miocene*,*fish, Maryland*
+28,497,*Faunas--Quaternary*,*seal, New Zealand*
+28,498,*Faunas--Miocene*,*Xiphias ?, Maryland*
+28,503,*Faunas--Triassic*,*fish, Madagascar*
+28,511,*Faunas--Quaternary*,*mammals, Europe*
+28,512,*Faunas -- Quaternary -- Cave Faunas*,*Europe*
+28,512,*Faunas--Quaternary*,**
+28,513,*Faunas--Quaternary*,*mammals, Europe*
+28,514,*Faunas--Quaternary*,*rodents, Crimea*
+28,519,*Faunas--Quaternary*,*man, China*
+28,520,*Faunas -- Quaternary -- Cave Faunas*,**
+28,521,*Faunas -- Quaternary -- Cave Faunas*,**
+28,522,*Faunas -- Quaternary -- Cave Faunas*,**
+28,523,*Faunas -- Quaternary -- Cave Faunas*,**
+28,524,*Faunas -- Quaternary -- Cave Faunas*,**
+28,525,*Faunas -- Quaternary -- Cave Faunas*,**
+28,526,*Faunas -- Quaternary -- Cave Faunas*,**
+28,527,*Faunas -- Quaternary -- Cave Faunas*,**
+28,529,*Faunas -- Quaternary -- Cave Faunas*,**
+28,530,*Faunas -- Quaternary -- Cave Faunas*,**
+28,532,*Faunas -- Quaternary -- Cave Faunas*,**
+28,533,*Faunas -- Quaternary -- Cave Faunas*,**
+28,534,*Faunas -- Quaternary -- Cave Faunas*,**
+28,535,*Faunas -- Quaternary -- Cave Faunas*,**
+28,536,*Faunas -- Quaternary -- Cave Faunas*,*China*
+28,538,*Faunas--Cenozoic*,*China*
+28,538,*Faunas--Quaternary*,*China*
+28,541,*Faunas -- Quaternary -- Cave Faunas*,*mostly Aves, Italy*
+28,542,*Faunas--Oligocene*,*sharks, mammals, Germany*
+28,546,*Faunas--General*,*Asia*
+28,547,*Faunas--Miocene*,*mammals, mostly primates, Patagonia*
+28,547,*Faunas--Oligocene*,*mammals, mostly primates, Patagonia*
+28,552,*Faunas--Miocene*,**
+28,553,*Faunas--Miocene*,*Equidae, western U. S.*
+28,556,*Faunas--Tertiary*,*whale, fish, Russia*
+28,557,*Faunas--Miocene*,*Hipparion, Hungary*
+28,557,*Faunas--Pliocene*,*Hipparion, Hungary*
+28,562,*Faunas--Quaternary*,*gigantism in mammals*
+28,565,*Faunas -- Quaternary -- Cave Faunas*,*man, Italy*
+28,566,*Faunas--Miocene*,*fish, Italy*
+28,567,*Faunas -- Quaternary -- Cave Faunas*,*man, Africa*
+28,577,*Faunas--Permian*,*pareiasaurs, S. Africa*
+28,589,*Faunas--Miocene*,*mastodonts, Causcaus*
+28,592,*Faunas--Quaternary*,*Ursus*
+28,595,*Faunas--Quaternary*,*Trichechus*
+28,597,*Faunas--Miocene*,*mastodon, Turgai*
+28,607,*Faunas--Pliocene*,*mammals, India*
+28,608,*Faunas--Pliocene*,*ruminant, India*
+28,615,*Faunas--Quaternary*,*mammals, Russia*
+28,616,*Faunas--Quaternary*,*Homo and mammals, Bessarabia*
+28,617,*Faunas--Quaternary*,*mammals, Heidelberg*
+28,619,*Faunas--Pliocene*,*human skull, Australia*
+28,619,*Faunas--Quaternary*,*human skull, Australia*
+28,620,*Faunas -- Quaternary -- Cave Faunas*,*Sinanthropus, China*
+28,622,*Faunas--Quaternary*,*other primates associated with Heidelberg man*
+28,638,*Faunas--Pliocene*,*Hesperopithecus, Nebraska*
+28,640,*Faunas--Quaternary*,*human skull, Rome*
+28,644,*Faunas -- Quaternary -- Cave Faunas*,*China*
+28,644,*Faunas--Quaternary*,*China*
+28,645,*Faunas -- Quaternary -- Cave Faunas*,*Sinanthropus, China*
+28,647,*Faunas--Quaternary*,*man, Africa*
+28,649,*Faunas -- Quaternary -- Cave Faunas*,**
+28,650,*Faunas -- Quaternary -- Cave Faunas*,*man, Africa*
+28,657,*Faunas--Miocene*,*crocodilian, Morocco*
+28,658,*Faunas--Quaternary*,*Bubalus, Morocco*
+28,659,*Faunas--Quaternary*,*Morocco*
+28,668,*Faunas--Permian*,**
+28,669,*Faunas--Permian*,**
+28,670,*Faunas--Permian*,*Wyoming*
+28,671,*Faunas--Devonian*,*fishes, central U. S.*
+28,671,*Faunas--Triassic*,*stegocephalians, Rocky Mt. region*
+28,673,*Faunas--Carboniferous*,*footprints, Wyoming*
+28,674,*Faunas--Devonian*,*fish, Wyoming, Utah*
+28,675,*Faunas--Triassic*,*fishes, western U. S.*
+28,676,*Faunas--Devonian*,*fishes, Utah*
+28,677,*Faunas--Paleozoic and Mesozoic*,**
+28,678,*Faunas--Paleozoic and Mesozoic*,*footprints, U. S.*
+28,687,*Faunas -- Quaternary -- Cave Faunas*,**
+28,688,*Faunas -- Quaternary -- Cave Faunas*,**
+28,690,*Faunas -- Quaternary -- Cave Faunas*,*Ursus, Europe*
+28,692,*Faunas--Quaternary*,*Clactonian, France*
+28,698,*Faunas--Quaternary*,*N. France, Belgium, England*
+28,701,*Faunas--Cretaceous*,*general*
+28,704,*Faunas--Triassic*,*sauropterigian, Austria*
+28,705,*Faunas--Permian*,*arthodires, Rhine*
+28,706,*Faunas--Devonian*,*Lunaspis, Germany*
+28,707,*Faunas--Cretaceous*,*mammals and plesiosaurs, Quiriquina Islands*
+28,708,*Faunas--Devonian*,**
+28,709,*Faunas--Jurassic*,**
+28,710,*Faunas--Jurassic*,**
+28,712,*Faunas--Triassic*,*Mixosauridae, Timor*
+28,713,*Faunas--Carboniferous*,*amphibian, Saar*
+28,714,*Faunas--Jurassic*,*reptiles, Europe*
+28,715,*Faunas--Triassic*,*Hybodus, Germany*
+28,716,*Faunas--Jurassic*,*general, European Jura*
+28,717,*Faunas--Devonian*,**
+28,718,*Faunas--Devonian*,**
+28,720,*Faunas--Devonian*,*fishes, Germany*
+28,722,*Faunas--Permian*,*Anningiamorpha, Africa*
+28,723,*Faunas--Quaternary*,*mammoth, man, S. Africa*
+28,724,*Faunas--Quaternary*,*mammals, Africa*
+28,725,*Faunas--Permian*,*dinocephalians, S. Africa*
+28,726,*Faunas--Permian*,*Dicynodon, S. Africa*
+28,728,*Faunas--Quaternary*,**
+28,730,*Faunas--Permian*,**
+28,733,*Faunas--Quaternary*,*Bushveldt man*
+28,734,*Faunas--Pliocene*,*Australopithecus, and associated mammals, S. Africa*
+28,734,*Faunas--Quaternary*,*Australopithecus*
+28,736,*Faunas--Triassic*,*Stegocephalia, S. Africa*
+28,737,*Faunas--Permian*,*Texas*
+28,738,*Faunas--Permian*,*reptiles, S. Africa*
+28,739,*Faunas--Paleozoic and Mesozoic*,*reptiles, S. Africa*
+28,742,*Faunas--Quaternary*,*Notochoerus, S. Africa*
+28,746,*Faunas--Triassic*,*Pseudosuchia, S. Africa*
+28,749,*Faunas--Triassic*,*Galesaurus*
+28,751,*Faunas--Devonian*,**
+28,752,*Faunas--Devonian*,**
+28,752,*Faunas--Silurian*,*Poland*
+28,753,*Faunas--Devonian*,*Poland*
+28,754,*Faunas--Triassic*,*fishes, S. Africa*
+28,755,*Faunas--Triassic*,*fishes, Madagascar*
+28,756,*Faunas--Quaternary*,**
+28,757,*Faunas--Quaternary*,*Bison and man, New Mexico*
+28,758,*Faunas--Miocene*,*camel, Nebraska*
+28,759,*Faunas--Pliocene*,*Colossochelys, India*
+28,760,*Faunas--Jurassic*,*Stegosaurus, North America*
+28,761,*Faunas--Jurassic*,*crocodilian, Arizona*
+28,762,*Faunas--Cretaceous*,**
+28,763,*Faunas--Triassic*,*stegocephalian, Arizona*
+28,764,*Faunas--Cretaceous*,*ceratopsians, Montana*
+28,765,*Faunas--Jurassic*,*dinosaurs of Cret.-Jurassic boundary*
+28,767,*Faunas--Carboniferous*,*tracks, Wyoming*
+28,769,*Faunas--Pliocene*,**
+28,770,*Faunas--Pliocene*,*mammals, France*
+28,774,*Faunas -- Quaternary -- Cave Faunas*,*Windloch, Bavaria*
+28,774,*Faunas--Quaternary*,*Germany*
+28,775,*Faunas -- Quaternary -- Cave Faunas*,*man and other mammals, Bishops Cap, New Mexico*
+28,776,*Faunas--Cambrian*,*? ostracoderm, Vermont*
+28,777,*Faunas--Permian*,*fish, Brazil*
+28,778,*Faunas--Devonian*,**
+28,779,*Faunas--Devonian*,**
+28,781,*Faunas--Devonian*,**
+28,782,*Faunas--Devonian*,*fishes, New York and Wyoming*
+28,785,*Faunas--Quaternary*,*Moa, New Zealand*
+28,786,*Faunas--Quaternary*,*man*
+28,787,*Faunas--Carboniferous*,*amphibians, Bavaria*
+28,792,*Faunas--Cretaceous*,*Portheus, S. Dakota*
+28,797,*Faunas--Quaternary*,*giant tortoise, Teneriffe*
+28,799,*Faunas--Quaternary*,*man, England*
+28,803,*Faunas -- Quaternary -- Cave Faunas*,*cave bear*
+28,804,*Faunas--Eocene*,*Lagomorpha, Utah*
+28,814,*Faunas--Pliocene*,*Branta, Nevada*
+28,815,*Faunas--Pliocene*,*Machaerodus, Texas*
+28,816,*Faunas--Tertiary*,*fishes, Hampshire*
+28,818,*Faunas -- Quaternary -- Cave Faunas*,*man, Germany*
+28,819,*Faunas--Tertiary*,*horse tooth, Oregon*
+28,822,*Faunas--Quaternary*,*man, Mesopotamia*
+28,824,*Faunas--Quaternary*,*elk, Iowa*
+28,825,*Faunas--Pliocene*,*megatheres, South America*
+28,826,*Faunas--Pliocene*,*borhyaenid, South America*
+28,827,*Faunas--Tertiary*,*astrapothere, Columbia*
+28,830,*Faunas--Quaternary*,*mastodons, Argentina*
+28,833,*Faunas--Tertiary*,*edentate, Argentina*
+28,835,*Faunas--Quaternary*,*Rhinoceros, Italy*
+28,837,*Faunas--Triassic*,*reptiles, Italy*
+28,838,*Faunas--Quaternary*,**
+28,840,*Faunas--Quaternary*,*Castoroides, U. S.*
+28,842,*Faunas--Jurassic*,*Iguanodon footprints, England*
+28,843,*Faunas--Pliocene*,*Persia*
+28,882,*Faunas--Triassic*,**
+28,883,*Faunas--Triassic*,**
+28,884,*Faunas--Triassic*,**
+28,886,*Faunas--Triassic*,*Arizona and New Mexico, Upper and Lower Chinle*
+28,888,*Faunas--General*,*otoliths*
+28,891,*Faunas--Carboniferous*,*footprints, Ohio*
+28,892,*Faunas--General*,*shark teeth*
+28,894,*Faunas -- Quaternary -- Cave Faunas*,*Bilsteinho%Fhle*
+28,897,*Faunas--Triassic*,*Texas and Arizona*
+28,899,*Faunas--Triassic*,*phytosaurs, North America*
+28,901,*Faunas--Devonian*,*arthrodires, Michigan*
+28,902,*Faunas--Triassic*,*Beuttneria, Texas*
+28,904,*Faunas--Triassic*,*phytosaurs, North America*
+28,906,*Faunas--Triassic*,*stegocephalians, Texas*
+28,907,*Faunas--Triassic*,**
+28,908,*Faunas--Triassic*,*Texas*
+28,913,*Faunas--Quaternary*,*Argentine*
+28,923,*Faunas--Pliocene*,*edentates, South America*
+28,924,*Faunas--Devonian*,*amphibia, fish, Pennsylvania*
+28,926,*Faunas -- Quaternary -- Cave Faunas*,*Grimaldi, Italy*
+28,928,*Faunas--Quaternary*,*birds, Madagascar*
+28,934,*Faunas -- Quaternary -- Cave Faunas*,**
+28,935,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,937,*Faunas--Permian*,*fish, Russia*
+28,938,*Faunas--Carboniferous*,*fish, Russia*
+28,940,*Faunas--Cretaceous*,*fish, France*
+28,942,*Faunas--Devonian*,*Bothriolepis, Pennsylvania*
+28,944,*Faunas--Miocene*,*otoliths, Poland*
+28,945,*Faunas--Pliocene*,*otoliths, Spain*
+28,946,*Faunas--Quaternary*,*Stegodon, India*
+28,953,*Faunas--Tertiary*,*fish, Australia*
+28,955,*Faunas--Quaternary*,**
+28,956,*Faunas--Tertiary*,**
+28,957,*Faunas--Eocene*,*Szechuan*
+28,958,*Faunas--Quaternary*,**
+28,959,*Faunas--Quaternary*,**
+28,959,*Faunas--Tertiary*,**
+28,960,*Faunas--General*,**
+28,961,*Faunas--General*,*China*
+28,963,*Faunas--Pliocene*,*mammals, N. China*
+28,964,*Faunas -- Quaternary -- Cave Faunas*,**
+28,964,*Faunas--Quaternary*,**
+28,968,*Faunas--Eocene*,*Paramys, France*
+28,970,*Faunas--Pliocene*,*Nihowan fauna, China*
+28,971,*Faunas--Pliocene*,*Campine, France*
+28,972,*Faunas--Jurassic*,*N. China*
+28,973,*Faunas -- Quaternary -- Cave Faunas*,*Sinanthropus*
+28,973,*Faunas--Cenozoic*,**
+28,973,*Faunas--Quaternary*,*China*
+28,974,*Faunas--Cenozoic*,*China*
+28,974,*Faunas--Pliocene*,*China*
+28,974,*Faunas--Triassic*,*N. China*
+28,976,*Faunas--Quaternary*,*Desman, Russia*
+28,979,*Faunas--Cretaceous*,*Pristidae, Tripoli*
+28,985,*Faunas--Cenozoic*,*mammals, England*
+28,987,*Faunas--Tertiary*,*whale, fish, Japan*
+28,989,*Faunas--Quaternary*,*rhinoceros, Poland*
+28,990,*Faunas--Quaternary*,*birds, Norway*
+28,992,*Faunas -- Quaternary -- Cave Faunas*,*summary, Italy*
+28,999,*Faunas--Pliocene*,*central California*
+28,1000,*Faunas--Eocene*,*turtle, Utah*
+28,1001,*Faunas--Oligocene*,*turtle, Utah*
+28,1006,*Faunas--Carboniferous*,*fishes, Germany*
+28,1009,*Faunas--Cenozoic*,*mammals, Gloucester, Eng.*
+28,1012,*Faunas--Cretaceous*,*fish, Florida*
+28,1013,*Faunas--Tertiary*,*Proboscidea, Nebraska*
+28,1014,*Faunas--Miocene*,*Aphelops, Florida*
+28,1015,*Faunas--Miocene*,**
+28,1016,*Faunas--Eocene*,*Tubulodon, Wyoming*
+28,1016,*Faunas--Pliocene*,*tubulidentate, India*
+28,1016,*Faunas--Tertiary*,*Tubulidentata, India*
+28,1017,*Faunas--Miocene*,**
+28,1018,*Faunas--Miocene*,**
+28,1019,*Faunas--Miocene*,**
+28,1020,*Faunas--Miocene*,**
+28,1021,*Faunas--Miocene*,*mammals, India*
+28,1026,*Faunas--Tertiary*,*wallaby, N. S. Wales*
+28,1027,*Faunas--General*,*distribution of vertebrates, chiefly West Indies*
+28,1033,*Faunas--Tertiary*,*Nebraska*
+28,1035,*Faunas -- Quaternary -- Cave Faunas*,*New Mexico*
+28,1036,*Faunas--Quaternary*,*Elephas, Florida*
+28,1040,*Faunas--Cretaceous*,*fish, Colorado*
+28,1040,*Faunas--Quaternary*,**
+28,1041,*Faunas--Pliocene*,*rhinoceroses, Colorado*
+28,1044,*Faunas--Quaternary*,**
+28,1046,*Faunas--Quaternary*,*Nebraska*
+28,1047,*Faunas--Quaternary*,*mammals, Colorado*
+28,1048,*Faunas--Miocene*,*Nebraska, popular*
+28,1048,*Faunas--Quaternary*,*Bison, man, New Mexico*
+28,1049,*Faunas--Tertiary*,*Nebraska*
+28,1052,*Faunas--Miocene*,*Agate beds, Nebraska*
+28,1053,*Faunas--Quaternary*,**
+28,1054,*Faunas--Quaternary*,*Florida*
+28,1055,*Faunas--Eocene*,**
+28,1056,*Faunas--Eocene*,**
+28,1057,*Faunas--Eocene*,*mammals, England*
+28,1058,*Faunas--Quaternary*,*Kentucky*
+28,1062,*Faunas--Triassic*,**
+28,1063,*Faunas--Triassic*,*Lorraine*
+28,1065,*Faunas--Quaternary*,*elephants, France*
+28,1066,*Faunas--General*,**
+28,1067,*Faunas--General*,*vertebrates, Java*
+28,1069,*Faunas--Miocene*,*sirenians, France*
+28,1071,*Faunas--Tertiary*,*mammals in Muse%Ae d'Elbeuf*
+28,1072,*Faunas--Quaternary*,*Elephas, France*
+28,1075,*Faunas--Tertiary*,*Daemonelix*
+28,1077,*Faunas--Quaternary*,*Elephas, Oklahoma*
+28,1078,*Faunas--Quaternary*,*Bison, Oklahoma*
+28,1086,*Faunas--Eocene*,*fish, Egypt*
+28,1096,*Faunas--Carboniferous*,*tetrapod, general*
+28,1099,*Faunas--Quaternary*,**
+28,1100,*Faunas--Eocene*,*perissodactyl, Sardinia*
+28,1101,*Faunas--Oligocene*,**
+28,1102,*Faunas--Oligocene*,**
+28,1102,*Faunas--Quaternary*,*mammals, Venice*
+28,1103,*Faunas--Oligocene*,**
+28,1104,*Faunas--Oligocene*,**
+28,1105,*Faunas--Oligocene*,**
+28,1106,*Faunas--Oligocene*,**
+28,1107,*Faunas--Oligocene*,**
+28,1108,*Faunas--Pliocene*,*suid, Italy*
+28,1109,*Faunas--Oligocene*,**
+28,1110,*Faunas--Oligocene*,**
+28,1111,*Faunas--Oligocene*,*mammals, Italy*
+28,1111,*Faunas--Quaternary*,*mammals, Italy*
+28,1113,*Faunas--Cretaceous*,*reptiles, Arkansas*
+28,1114,*Faunas--Paleocene*,*New Mexico*
+28,1118,*Faunas--Pliocene*,**
+28,1118,*Faunas--Quaternary*,**
+28,1119,*Faunas--Pliocene*,*elephants, South Africa*
+28,1119,*Faunas--Quaternary*,*elephants, S. Africa*
+28,1120,*Faunas--Quaternary*,**
+28,1121,*Faunas--Quaternary*,**
+28,1122,*Faunas--Quaternary*,**
+28,1123,*Faunas--Quaternary*,*Australopithecus*
+28,1127,*Faunas--Permian*,*batrachians, reptiles, India*
+28,1127,*Faunas--Triassic*,*batrachians, reptiles, India*
+28,1128,*Faunas--Triassic*,*dinosaurs, India*
+28,1131,*Faunas--Carboniferous*,*Helicoprion, Australia*
+28,1131,*Faunas--Permian*,*Helicoprion, Australia*
+28,1132,*Faunas--Permian*,*Australia*
+28,1136,*Faunas--Eocene*,*otolith, Germany*
+28,1137,*Faunas--Eocene*,*fish, England*
+28,1140,*Faunas--Quaternary*,*man, N. Asia*
+28,1143,*Faunas--Quaternary*,*correction on live toads from "Pleistocene", Oklahoma*
+28,1145,*Faunas--Quaternary*,**
+28,1146,*Faunas--Quaternary*,*mammals, Baden*
+28,1148,*Faunas--Cenozoic*,*beaver, Denmark*
+28,1149,*Faunas--Quaternary*,*Campignian, Denmark*
+28,1151,*Faunas--Quaternary*,*Saiga, Denmark*
+28,1155,*Faunas--Quaternary*,*Bos, France*
+28,1156,*Faunas--Cenozoic*,*ground sloths, Iowa*
+28,1160,*Faunas--Oligocene*,*Stampian and Aquitanian*
+28,1161,*Faunas--Quaternary*,*mammals, France*
+28,1165,*Faunas--Miocene*,*Ursidae*
+28,1166,*Faunas--Quaternary*,*Morocco*
+28,1167,*Faunas--Miocene*,*mammals, Burdigalian*
+28,1169,*Faunas--Cretaceous*,*dinosaur, Canada*
+28,1171,*Faunas--Triassic*,*stegocephalian, Lower Buntsandstein, Bernburg/Salle*
+28,1172,*Faunas--Oligocene*,*sirenian, Septarienton*
+28,1178,*Faunas -- Quaternary -- Cave Faunas*,*skull, cave bears*
+28,1179,*Faunas--Miocene*,*Archaeolagus, Oregon*
+28,1182,*Faunas--Quaternary*,*hares, Arizona*
+28,1186,*Faunas--Triassic*,*Nothosaurus, Germany*
+28,1189,*Faunas--General*,*Mongolia*
+28,1192,*Faunas--Oligocene*,**
+28,1193,*Faunas--Eocene*,*mammals, Ulm Alps*
+28,1194,*Faunas--Quaternary*,*Bos, Steinheim*
+28,1195,*Faunas--Oligocene*,**
+28,1197,*Faunas--Oligocene*,*mammals, Swabia*
+28,1198,*Faunas--Quaternary*,**
+28,1199,*Faunas--Quaternary*,*mammals, Berlin diluvium*
+28,1200,*Faunas--Quaternary*,*age of Oldoway, E. Africa*
+28,1201,*Faunas--Quaternary*,*mammoth, Prussia*
+28,1203,*Faunas--General*,*Nyassaland*
+28,1203,*Faunas--Mesozoic*,**
+28,1204,*Faunas--Mesozoic*,*Nyassaland*
+28,1216,*Faunas--Devonian*,*Wyoming*
+28,1242,*Faunas--Jurassic*,*pterodactyl, Solnhofen*
+28,1245,*Faunas--Jurassic*,*Homoeosaurus, Solnhofen*
+28,1246,*Faunas--Triassic*,*Placodus, Muschelkalk*
+28,1248,*Faunas--Triassic*,*reptiles, Muschelkalk*
+28,1250,*Faunas--Quaternary*,*man, Germany*
+28,1257,*Faunas--Quaternary*,**
+28,1258,*Faunas--Quaternary*,**
+28,1259,*Faunas--Quaternary*,*Pithecanthropus, Sinanthropus*
+28,1260,*Faunas--Quaternary*,*Elephas, Cambrai*
+28,1260,*Faunas--Quaternary*,*Martes, France*
+28,1261,*Faunas--Quaternary*,**
+28,1263,*Faunas--Quaternary*,*mammals, France*
+28,1272,*Faunas--Devonian*,**
+28,1273,*Faunas--Devonian*,**
+28,1274,*Faunas--Tertiary*,*France*
+28,1275,*Faunas--Devonian*,*fishes, France*
+28,1276,*Faunas--Quaternary*,*mammoths, N. France*
+28,1282,*Faunas--Quaternary*,*mammals, Rancho La Brea*
+28,1284,*Faunas--Quaternary*,*man*
+28,1297,*Faunas--Quaternary*,*Ovibos, Germany*
+28,1298,*Faunas--Quaternary*,*mammals, Germany*
+28,1299,*Faunas--Pliocene*,*mustelid, Hungary*
+28,1302,*Faunas--Jurassic*,*fish, Germany*
+28,1308,*Faunas--Permian*,**
+28,1308,*Faunas--Triassic*,**
+28,1309,*Faunas--Paleozoic and Mesozoic*,**
+28,1309,*Faunas--Triassic*,**
+28,1310,*Faunas--Paleozoic and Mesozoic*,*stegocephalians, W. Russia*
+28,1310,*Faunas--Permian*,**
+28,1310,*Faunas--Triassic*,**
+28,1311,*Faunas--Triassic*,**
+28,1312,*Faunas--Permian*,**
+28,1315,*Faunas--Permian*,**
+28,1315,*Faunas--Triassic*,**
+28,1316,*Faunas--Permian*,*reptiles and amphibians, Russia*
+28,1316,*Faunas--Triassic*,*reptiles and amphibians, Russia*
+28,1317,*Faunas--Permian*,*amphibians, Russia*
+28,1317,*Faunas--Triassic*,*same*
+28,1321,*Faunas--Oligocene*,*proboscidean, Hungary*
+28,1323,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1324,*Faunas--General*,*vertebrates, Europe*
+28,1324,*Faunas--Permian*,*fishes, Europe*
+28,1325,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1326,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1327,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1328,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1330,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1331,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1332,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1337,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1338,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1339,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1340,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1343,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1344,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1345,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1346,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1349,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1352,*Faunas--Quaternary*,*occurrences of paleolithic man*
+28,1357,*Faunas--Tertiary*,*American Characidae*
+28,1360,*Faunas--Quaternary*,*mammals, Fossil Lake, Oregon*
+28,1361,*Faunas--Cretaceous*,*Kansas*
+28,1361,*Faunas--Pliocene*,*Rhinoceros Hill, Kansas*
+28,1361,*Faunas--Tertiary*,*Kansas*
+28,1364,*Faunas--Quaternary*,**
+28,1365,*Faunas -- Quaternary -- Cave Faunas*,*Odocoileus, Indiana*
+28,1365,*Faunas--Quaternary*,**
+28,1366,*Faunas--Quaternary*,*mammals Indiana*
+28,1367,*Faunas--Miocene*,*chiefly Aves, France*
+28,1369,*Faunas--Eocene*,*England*
+28,1370,*Faunas--Pliocene*,*Tetrabelodon, Italy*
+28,1371,*Faunas--Miocene*,**
+28,1372,*Faunas--Miocene*,*fishes, Italy*
+28,1373,*Faunas--Quaternary*,*Elephas, Italy*
+28,1374,*Faunas--Jurassic*,*fishes, Somaliland*
+28,1375,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Italy*
+28,1376,*Faunas--Tertiary*,*Cirenaica*
+28,1378,*Faunas--Quaternary*,*mammals, Alsace*
+28,1380,*Faunas--Devonian*,*general*
+28,1383,*Faunas -- Quaternary -- Cave Faunas*,*Oklahoma*
+28,1402,*Faunas--Quaternary*,*Megalania, Australia*
+28,1422,*Faunas--Quaternary*,**
+28,1427,*Faunas--Quaternary*,**
+28,1430,*Faunas--Quaternary*,*Rancho La Brea*
+28,1431,*Faunas--Quaternary*,**
+28,1432,*Faunas--Quaternary*,*mammals, Rocky Mt. area*
+28,1440,*Faunas--Quaternary*,*Elephas, Siberia*
+28,1444,*Faunas--Quaternary*,*Connecticut*
+28,1447,*Faunas--Miocene*,*cetacean, Tasmania*
+28,1449,*Faunas--Paleozoic and Mesozoic*,*Island of Santa Marina, Spain*
+28,1454,*Faunas--Quaternary*,*mammoth, Holtzheim*
+28,1456,*Faunas--Carboniferous*,*elasmobranchs, Belgium*
+28,1457,*Faunas--Quaternary*,*mammoth, Missouri*
+28,1459,*Faunas--Permian*,*Gondwana beds, general*
+28,1472,*Faunas--Eocene*,*frog, crocodile, Germany*
+28,1475,*Faunas--Triassic*,*tracks, Solnhofen*
+28,1476,*Faunas--Triassic*,*Lower Keuper*
+28,1483,*Faunas--Triassic*,*correlation, Spitzbergen*
+28,1489,*Faunas--Eocene*,*"man", Montana*
+28,1490,*Faunas--Miocene*,*Prosqualodon, Patagonia*
+28,1491,*Faunas--Quaternary*,**
+28,1493,*Faunas--Quaternary*,*Canis, South America*
+28,1494,*Faunas--Quaternary*,*mammals, Germany*
+28,1494,*Faunas--Quaternary*,*mammals, Germany*
+28,1495,*Faunas--Triassic*,*reptiles and amphibians, Upper Buntsandstein*
+28,1499,*Faunas--Pliocene*,*Hipparion, Bavaria*
+28,1500,*Faunas--Quaternary*,**
+28,1501,*Faunas--Quaternary*,**
+28,1502,*Faunas--Quaternary*,**
+28,1505,*Faunas--Quaternary*,**
+28,1506,*Faunas--Quaternary*,*mammals, mostly anthropoids, Germany*
+28,1511,*Faunas--Oligocene*,**
+28,1512,*Faunas--Oligocene*,*rodent, South America*
+28,1516,*Faunas--Quaternary*,*mammals, Alaska*
+28,1520,*Faunas--Tertiary*,*mastodons, North and Central America*
+28,1523,*Faunas--Quaternary*,**
+28,1529,*Faunas--Miocene*,*fish, Molasse, Switzerland*
+28,1530,*Faunas--Miocene*,**
+28,1530,*Faunas--Oligocene*,**
+28,1532,*Faunas--Eocene*,*otoliths, England*
+28,1532,*Faunas--Oligocene*,*otoliths, England*
+28,1533,*Faunas--Miocene*,*otoliths, New Zealand*
+28,1533,*Faunas--Oligocene*,*otoliths, New Zealand*
+28,1535,*Faunas--General*,*Kentucky*
+28,1536,*Faunas--Quaternary*,*Capromeryx, California*
+28,1537,*Faunas--Pliocene*,*Sphenophalos, Nevada*
+28,1538,*Faunas--Pliocene*,*Lutravus, Nevada*
+28,1550,*Faunas--Miocene*,*mammals, Grive-Saint-Alban*
+28,1553,*Faunas--Quaternary*,*Capra, Solutrean*
+28,1554,*Faunas--Carboniferous*,*tracks, Kiowitz*
+28,1556,*Faunas--Pliocene*,*Elephas, France*
+28,1557,*Faunas--Quaternary*,*mammals, North America*
+28,1558,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1559,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1560,*Faunas -- Quaternary -- Cave Faunas*,*Neanderthal man, Judea*
+28,1561,*Faunas -- Quaternary -- Cave Faunas*,*Kurdistan*
+28,1562,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1563,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1564,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1565,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1566,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1567,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1568,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1569,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1570,*Faunas -- Quaternary -- Cave Faunas*,*Palestine*
+28,1574,*Faunas--Miocene*,*mammals, California*
+28,1575,*Faunas--Miocene*,*mammals, Oregon*
+28,1576,*Faunas--Pliocene*,**
+28,1577,*Faunas--Pliocene*,*mammals, Idaho*
+28,1578,*Faunas--Quaternary*,*American "Eland" Euceratherium*
+28,1580,*Faunas--Quaternary*,*baboons, S. Africa*
+28,1581,*Faunas--Permian*,*fish scales, India*
+28,1581,*Faunas--Triassic*,*Amphibia, reptiles, India*
+28,1583,*Faunas--Miocene*,*mammals, Bulgaria*
+28,1588,*Faunas--Quaternary*,**
+28,1589,*Faunas--Miocene*,*rhinoceroses, Switzerland*
+28,1590,*Faunas--Quaternary*,**
+28,1591,*Faunas--Quaternary*,**
+28,1592,*Faunas--Quaternary*,*Switzerland*
+28,1595,*Faunas--Quaternary*,*Arctodus, Florida*
+28,1596,*Faunas--Quaternary*,**
+28,1597,*Faunas--Quaternary*,**
+28,1598,*Faunas--Pliocene*,**
+28,1598,*Faunas--Quaternary*,*mammals, Oregon*
+28,1599,*Faunas--Quaternary*,**
+28,1600,*Faunas--Pliocene*,**
+28,1601,*Faunas--Pliocene*,*mammals, Idaho*
+28,1602,*Faunas--Quaternary*,*man, Florida*
+28,1603,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Maryland*
+28,1608,*Faunas--Oligocene*,*rhinoceros, France*
+28,1611,*Faunas--Carboniferous*,*amphibia, general*
+28,1614,*Faunas--Quaternary*,*man, S. Africa*
+28,1617,*Faunas--Quaternary*,*teeth, turtle, Florida*
+28,1618,*Faunas--Cretaceous*,*dinosaurs, Montana*
+28,1620,*Faunas--Eocene*,*Wyoming*
+28,1621,*Faunas--Tertiary*,*turtles, Mongolia*
+28,1625,*Faunas--Cretaceous*,*lizard, Alberta*
+28,1627,*Faunas--Oligocene*,*Nebraska, Wyoming and South Dakota*
+28,1628,*Faunas--Pliocene*,*turtles, Idaho*
+28,1629,*Faunas--Cretaceous*,*dinosaurs, Mongolia*
+28,1631,*Faunas--Cretaceous*,*dinosaurs, popular*
+28,1633,*Faunas--Quaternary*,*Silurus and associated mammals, Belgium*
+28,1637,*Faunas--Miocene*,*turtle, Italy*
+28,1638,*Faunas--Miocene*,*primates, Austria*
+28,1639,*Faunas--Miocene*,*turtles, Austria*
+28,1640,*Faunas--Quaternary*,*Man of Asselar*
+28,1641,*Faunas--Miocene*,*otoliths, Moravia*
+28,1644,*Faunas--Quaternary*,*mammals, Russia and Siberia*
+28,1658,*Faunas--Quaternary*,**
+28,1659,*Faunas--Cretaceous*,*reptiles, Kansas, Oklahoma, Texas*
+28,1660,*Faunas--Quaternary*,*mammals, Oklahoma*
+28,1661,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1662,*Faunas -- Polycene*,**
+28,1662,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1662,*Faunas--Cenozoic*,**
+28,1663,*Faunas -- Quaternary -- Cave Faunas*,*Sinanthropus*
+28,1663,*Faunas--Cenozoic*,*"Polycene", Asia*
+28,1663,*Faunas--Quaternary*,*China*
+28,1667,*Faunas--Quaternary*,*ground sloths, Cuba*
+28,1668,*Faunas--Paleocene*,*Multituberculata, New Mexico*
+28,1670,*Faunas--Quaternary*,*auk, California*
+28,1672,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Italy*
+28,1672,*Faunas--Quaternary*,**
+28,1674,*Faunas--Quaternary*,*Equus, Europe*
+28,1680,*Faunas--General*,*stratigraphy*
+28,1681,*Faunas--Quaternary*,*Scotland*
+28,1706,*Faunas--Oligocene*,*fish, Florida*
+28,1725,*Faunas--Oligocene*,*rhinoceroses, Colorado*
+28,1730,*Faunas--Cenozoic*,*bear, Russia*
+28,1731,*Faunas--Tertiary*,*fish, southern Russia*
+28,1733,*Faunas--Quaternary*,**
+28,1734,*Faunas--Quaternary*,*gophers, Rancho La Brea*
+28,1735,*Faunas--General*,*aveopaleontology*
+28,1738,*Faunas--Quaternary*,**
+28,1739,*Faunas--Quaternary*,**
+28,1741,*Faunas--Quaternary*,**
+28,1742,*Faunas--Quaternary*,**
+28,1743,*Faunas--Quaternary*,**
+28,1744,*Faunas--Quaternary*,**
+28,1745,*Faunas--Cenozoic*,*Parabubalis, Transbaikal*
+28,1745,*Faunas--Quaternary*,**
+28,1747,*Faunas--Quaternary*,*mammals, Europe and Transcaucasus*
+28,1748,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1749,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1750,*Faunas -- Quaternary -- Cave Faunas*,*cave bears and culture, Potoc%Anik cave, Jugoslavia*
+28,1752,*Faunas--Devonian*,**
+28,1753,*Faunas--Devonian*,**
+28,1754,*Faunas--Devonian*,**
+28,1755,*Faunas--Devonian*,**
+28,1756,*Faunas--Devonian*,**
+28,1757,*Faunas--Devonian*,**
+28,1758,*Faunas--Paleozoic and Mesozoic*,*ostracoderms and fishes; phylogeny; stratigraphy*
+28,1759,*Faunas--Devonian*,*fishes, chiefly arthrodires*
+28,1768,*Faunas--Miocene*,*moonfish, California*
+28,1770,*Faunas--Quaternary*,*mammals, France*
+28,1771,*Faunas--Carboniferous*,*conodonts, fish, Kansas, Missouri*
+28,1773,*Faunas--Quaternary*,*Germany*
+28,1774,*Faunas--General*,*hist. geol.*
+28,1783,*Faunas--Pliocene*,*hedgehog, Nevada*
+28,1784,*Faunas--Pliocene*,*mammals, California*
+28,1785,*Faunas--Pliocene*,*bat, Nevada*
+28,1786,*Faunas--Miocene*,*rodents, California*
+28,1787,*Faunas--Pliocene*,*rodents, Nevada*
+28,1788,*Faunas--Tertiary*,**
+28,1789,*Faunas--Oligocene*,*Nothocyon, Oregon*
+28,1793,*Faunas--Carboniferous*,*amphibian, Kansas*
+28,1795,*Faunas--Miocene*,**
+28,1796,*Faunas--Miocene*,**
+28,1797,*Faunas--Quaternary*,*Elephas, California*
+28,1798,*Faunas--Miocene*,*marine vertebrates, California*
+28,1800,*Faunas--Miocene*,*Desmostylus, redeposited, California*
+28,1801,*Faunas--Quaternary*,*Elephas, Utah*
+28,1805,*Faunas--Quaternary*,*mammals, Kansas*
+28,1809,*Faunas -- Quaternary -- Cave Faunas*,*Gypsum Cave, Nevada*
+28,1809,*Faunas--Quaternary*,*Gypsum Cave, Nevada*
+28,1811,*Faunas--Permian*,**
+28,1811,*Faunas--Triassic*,**
+28,1812,*Faunas--Cretaceous*,*dinosaurs, Kazakstan*
+28,1813,*Faunas--Permian*,**
+28,1814,*Faunas--Permian*,**
+28,1814,*Faunas--Triassic*,**
+28,1815,*Faunas--Permian*,**
+28,1815,*Faunas--Triassic*,**
+28,1816,*Faunas--Permian*,*reptiles and amphibia, Russia*
+28,1819,*Faunas--Triassic*,*ichthyosaur, Germany*
+28,1820,*Faunas--Mesozoic*,*reptiles, Nyassaland*
+28,1822,*Faunas--Permian*,*Reptilia, Madagascar*
+28,1823,*Faunas--Mesozoic*,*Reptilia, S. Africa*
+28,1823,*Faunas--Permian*,**
+28,1823,*Faunas--Triassic*,*reptiles, S. Africa*
+28,1825,*Faunas--Permian*,*Reptilia, S. Africa*
+28,1826,*Faunas--Tertiary*,*frogs, S. W. Africa*
+28,1827,*Faunas--Tertiary*,*Equidae, S. Africa*
+28,1828,*Faunas--Mesozoic*,*Reptilia, Tanganyika*
+28,1828,*Faunas--Permian*,*Reptilia, Tanganyika*
+28,1828,*Faunas--Triassic*,*reptiles, Tanganyika*
+28,1829,*Faunas--Quaternary*,*Proboscidea, S. Africa*
+28,1832,*Faunas--Jurassic*,*Thecodontosaurus, Rhodesia*
+28,1834,*Faunas--Miocene*,*Germany*
+28,1837,*Faunas--Quaternary*,*Camelops, Utah*
+28,1838,*Faunas--General*,*correlation methods*
+28,1838,*Faunas--Quaternary*,**
+28,1841,*Faunas--Quaternary*,*correlations, remarks*
+28,1844,*Faunas--Quaternary*,*Pleistocene, Florida*
+28,1845,*Faunas--Quaternary*,*mammals, U. S.*
+28,1846,*Faunas--Quaternary*,*mammals, Oklahoma, New Mexico and Texas*
+28,1848,*Faunas--Cenozoic*,*mammals, Japan*
+28,1849,*Faunas--Cenozoic*,*Stegodon, Japan*
+28,1849,*Faunas--Quaternary*,**
+28,1850,*Faunas--Quaternary*,*Stegodon, Formosa*
+28,1854,*Faunas--Pliocene*,*Germany*
+28,1854,*Faunas--Quaternary*,*vertebrates, Germany*
+28,1862,*Faunas--Devonian*,**
+28,1863,*Faunas--Devonian*,*Acanthaspida, Spitzbergen*
+28,1867,*Faunas--Devonian*,**
+28,1875,*Faunas--Devonian*,*Antiarchi, Germany*
+28,1876,*Faunas--Devonian*,*Phyllolepis, Botriolepis, Greenland*
+28,1878,*Faunas--Silurian*,*Archegonaspis versus Onchus*
+28,1879,*Faunas--Permian*,*pleuracanth teeth, Norway*
+28,1880,*Faunas--Devonian*,*Phlyctaenaspis, Canada*
+28,1881,*Faunas--Quaternary*,*mammals, S. W. Africa*
+28,1881,*Faunas--Triassic*,*tracks, Stormberg, S.W. Africa*
+28,1884,*Faunas--Miocene*,**
+28,1885,*Faunas--Miocene*,**
+28,1886,*Faunas--Oligocene*,**
+28,1887,*Faunas--Miocene*,**
+28,1888,*Faunas--Miocene*,**
+28,1889,*Faunas--Miocene*,**
+28,1890,*Faunas--Miocene*,*mammals, Europe*
+28,1891,*Faunas--Oligocene*,*mammals, Europe*
+28,1892,*Faunas--Pliocene*,**
+28,1893,*Faunas--Pliocene*,**
+28,1894,*Faunas--Pliocene*,*mammals, Europe*
+28,1895,*Faunas--Quaternary*,**
+28,1896,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1896,*Faunas--Quaternary*,**
+28,1897,*Faunas--Eocene*,**
+28,1898,*Faunas--Quaternary*,**
+28,1899,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1899,*Faunas--Quaternary*,**
+28,1900,*Faunas--Triassic*,*fish, reptiles, Bavaria*
+28,1901,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1901,*Faunas--Quaternary*,**
+28,1902,*Faunas--Eocene*,**
+28,1903,*Faunas--Eocene*,**
+28,1904,*Faunas -- Quaternary -- Cave Faunas*,**
+28,1904,*Faunas--Quaternary*,**
+28,1905,*Faunas--Eocene*,**
+28,1906,*Faunas--Eocene*,**
+28,1908,*Faunas--Miocene*,*Diceratherium, Germany*
+28,1909,*Faunas--Pliocene*,*mammals, Europe*
+28,1910,*Faunas--Eocene*,*mammals, Europe*
+28,1911,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Europe*
+28,1911,*Faunas--Quaternary*,**
+28,1912,*Faunas--Quaternary*,*mammals, Europe*
+28,1913,*Faunas--Miocene*,*Germany*
+28,1916,*Faunas--General*,*distribution, general*
+28,1917,*Faunas--Quaternary*,*turtle eggs, Germany*
+28,1925,*Faunas--Quaternary*,*prehistoric man*
+28,1931,*Faunas--Quaternary*,*mammals, Wu%Frttemberg*
+28,1939,*Faunas--Miocene*,**
+28,1940,*Faunas--Miocene*,*mammals, Spain*
+28,1941,*Faunas--Miocene*,**
+28,1949,*Faunas--Tertiary*,*Switzerland*
+28,1950,*Faunas--Quaternary*,*Elephas, Switzerland*
+28,1951,*Faunas--Pliocene*,*mammals, midwest U. S.*
+28,1954,*Faunas--Pliocene*,*Bassariscus, Nebraska*
+28,1955,*Faunas--Carboniferous*,*Coelacanthus, Kansas*
+28,1960,*Faunas--Quaternary*,*man*
+28,1962,*Faunas--Devonian*,**
+28,1963,*Faunas--Devonian*,**
+28,1964,*Faunas--Devonian*,**
+28,1965,*Faunas--Devonian*,**
+28,1966,*Faunas--Devonian*,*fishes, Australia*
+28,1969,*Faunas--Quaternary*,**
+28,1970,*Faunas--Quaternary*,**
+28,1972,*Faunas--Quaternary*,**
+28,1973,*Faunas--Quaternary*,**
+28,1974,*Faunas--Quaternary*,*mammals, Europe*
+28,1976,*Faunas -- Quaternary -- Cave Faunas*,*voles, Gibraltar*
+28,1977,*Faunas--Pliocene*,*Mimomys, California*
+28,1978,*Faunas -- Quaternary -- Cave Faunas*,*mammals, S. Wales*
+28,1979,*Faunas--Tertiary*,*rodents, India*
+28,1980,*Faunas--Permian*,*palaeoniscid, Germany*
+28,1982,*Faunas--Quaternary*,*Mammut, Kentucky*
+28,1983,*Faunas--Tertiary*,*mammals, Oregon*
+28,1990,*Faunas--Triassic*,*amphibian footprints, New York*
+28,1991,*Faunas--Quaternary*,*edentates, Florida*
+28,1997,*Faunas--Silurian*,**
+28,1998,*Faunas--Silurian*,*ostracoderms and fishes, Estonia*
+28,2000,*Faunas--Pliocene*,*toxodont, Venezuela*
+28,2002,*Faunas--Quaternary*,**
+28,2003,*Faunas--Miocene*,**
+28,2004,*Faunas--Miocene*,**
+28,2004,*Faunas--Tertiary*,*mammals, Africa*
+28,2005,*Faunas--Quaternary*,*Elephas, Siberia*
+28,2006,*Faunas--Quaternary*,**
+28,2007,*Faunas--Quaternary*,**
+28,2008,*Faunas--Quaternary*,**
+28,2009,*Faunas--Quaternary*,**
+28,2011,*Faunas--Miocene*,**
+28,2012,*Faunas--Quaternary*,*mammals, Africa*
+28,2013,*Faunas--Miocene*,*mammals, Africa*
+28,2016,*Faunas -- Quaternary -- Cave Faunas*,*Kirchtalho%Fhle, Germany*
+28,2020,*Faunas--Cretaceous*,*dinosaur tracks, Texas*
+28,2021,*Faunas--Quaternary*,**
+28,2022,*Faunas--Quaternary*,**
+28,2023,*Faunas--Quaternary*,**
+28,2024,*Faunas--Quaternary*,**
+28,2025,*Faunas--Quaternary*,*birds, New Mexico*
+28,2026,*Faunas--Pliocene*,**
+28,2027,*Faunas--Quaternary*,**
+28,2028,*Faunas--Pliocene*,*birds, California*
+28,2030,*Faunas -- Quaternary -- Cave Faunas*,*birds, New Mexico*
+28,2030,*Faunas--Quaternary*,*birds, New Mexico*
+28,2031,*Faunas--Cenozoic*,*Australia*
+28,2031,*Faunas--Mesozoic*,*Australia*
+28,2039,*Faunas--Quaternary*,*Moa*
+28,2051,*Faunas--Quaternary*,**
+28,2052,*Faunas--Quaternary*,*Mastodon, Turkey*
+28,2053,*Faunas--Eocene*,*"human tooth", Montana*
+28,2053,*Faunas--General*,*North America, controversial*
+28,2053,*Faunas--Triassic*,*"man" and dinosaurs, Arizona*
+28,2057,*Faunas--Oligocene*,*vertebrates, otoliths, Germany*
+28,2058,*Faunas--Triassic*,*mammals, Wu%Frttemberg*
+28,2059,*Faunas--Triassic*,**
+28,2060,*Faunas--Triassic*,**
+28,2061,*Faunas--Jurassic*,**
+28,2062,*Faunas--Triassic*,*saurians, Wu%Frttemberg*
+28,2064,*Faunas--Jurassic*,**
+28,2065,*Faunas--Triassic*,**
+28,2066,*Faunas--Mesozoic*,*dinosaurs*
+28,2067,*Faunas--Cretaceous*,*dinosaurs, Argentina, general*
+28,2068,*Faunas--Cretaceous*,*dinosaurs, Uruguay*
+28,2068,*Faunas--Triassic*,**
+28,2070,*Faunas--General*,*Paleo-Mesozoic reptiles and amphibians, Australia*
+28,2070,*Faunas--Mesozoic*,*reptiles, distribution*
+28,2070,*Faunas--Triassic*,**
+28,2071,*Faunas--Mesozoic*,**
+28,2071,*Faunas--Triassic*,**
+28,2073,*Faunas--Triassic*,**
+28,2074,*Faunas--Paleozoic and Mesozoic*,*reptiles*
+28,2074,*Faunas--Permian*,*reptiles, Madagascar*
+28,2074,*Faunas--Triassic*,**
+28,2075,*Faunas--Cretaceous*,*South America, terrestrial*
+28,2077,*Faunas--Paleozoic and Mesozoic*,**
+28,2078,*Faunas--Jurassic*,*S. Africa*
+28,2078,*Faunas--Paleozoic and Mesozoic*,*reptiles, etc., Karroo, S. Africa*
+28,2078,*Faunas--Permian*,*S. Africa*
+28,2078,*Faunas--Triassic*,*S. Africa*
+28,2079,*Faunas--Triassic*,**
+28,2080,*Faunas--Triassic*,*reptiles, Brazil and Argentina*
+28,2081,*Faunas--Mesozoic*,*ichthyosaurs, Seran and Timor*
+28,2082,*Faunas--Jurassic*,**
+28,2083,*Faunas--Jurassic*,*reptiles, Europe*
+28,2086,*Faunas--Triassic*,**
+28,2090,*Faunas--Triassic*,**
+28,2091,*Faunas--Triassic*,**
+28,2093,*Faunas--Paleozoic and Mesozoic*,*Gondwana Land*
+28,2094,*Faunas--Triassic*,*reptiles, amphibians, Europe*
+28,2095,*Faunas--General*,**
+28,2095,*Faunas--Paleozoic and Mesozoic*,**
+28,2096,*Faunas--General*,*stratigraphy, Brazil*
+28,2096,*Faunas--Paleozoic and Mesozoic*,*stratigraphy, Brazil*
+28,2097,*Faunas--Paleozoic and Mesozoic*,*anomodont, South America*
+28,2099,*Faunas--Cretaceous*,*dinosaurs, India*
+28,2100,*Faunas--Triassic*,*southern Brazil*
+28,2101,*Faunas--Triassic*,*Chirotherium, England*
+28,2102,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,2103,*Faunas--Eocene*,**
+28,2104,*Faunas--Cenozoic*,*turtles, Trionychia*
+28,2104,*Faunas--Eocene*,*Trionychia*
+28,2106,*Faunas--Quaternary*,*asphalt deposits, general*
+28,2109,*Faunas--Miocene*,*Switzerland*
+28,2110,*Faunas--Oligocene*,*Caenotherium, Europe*
+28,2111,*Faunas--Cretaceous*,**
+28,2114,*Faunas--Cretaceous*,*Kansas and Mongolia*
+28,2114,*Faunas--Tertiary*,*fishes, Mongolia*
+28,2115,*Faunas--Quaternary*,*whales, Michigan*
+28,2116,*Faunas--Devonian*,*fishes, North America*
+28,2118,*Faunas--Quaternary*,*man*
+28,2120,*Faunas--Quaternary*,*mammals, Sweden*
+28,2123,*Faunas -- Quaternary -- Cave Faunas*,*England*
+28,2124,*Faunas -- Quaternary -- Cave Faunas*,**
+28,2125,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Ireland*
+28,2126,*Faunas--Quaternary*,*domestic animals*
+28,2127,*Faunas--Quaternary*,*reindeer, Europe and North America*
+28,2130,*Faunas--Quaternary*,*Ovibos, Europe*
+28,2143,*Faunas--Jurassic*,**
+28,2144,*Faunas--Jurassic*,**
+28,2145,*Faunas--Jurassic*,**
+28,2146,*Faunas--Jurassic*,*reptiles, Africa*
+28,2159,*Faunas--Quaternary*,*Podkumak Man*
+28,2160,*Faunas--Tertiary*,*California*
+28,2161,*Faunas--Quaternary*,**
+28,2162,*Faunas--Quaternary*,*man, Minnesota*
+28,2166,*Faunas--Paleocene*,**
+28,2166,*Faunas--Paleocene*,*geologic section, Wyoming*
+28,2167,*Faunas--Eocene*,**
+28,2168,*Faunas--Paleocene*,*Wyoming*
+28,2168,*Faunas--Paleocene*,*mammals, Wyoming; stratigraphy, Ft. Union series, incl. Clark Fork horizon*
+28,2169,*Faunas--Cretaceous*,*dinosaurs, Montana*
+28,2170,*Faunas--Eocene*,*Wyoming*
+28,2171,*Faunas--Oligocene*,*Felidae, western North America*
+28,2172,*Faunas--Quaternary*,*Ursus, Denmark*
+28,2173,*Faunas--Quaternary*,*Bos, Denmark*
+28,2174,*Faunas--Quaternary*,**
+28,2175,*Faunas--Quaternary*,**
+28,2176,*Faunas--Quaternary*,*Kentucky*
+28,2177,*Faunas--Quaternary*,*Elephas, France*
+28,2180,*Faunas--General*,*Colorado*
+28,2182,*Faunas--Mesozoic*,*reptiles, fish, Colorado*
+28,2183,*Faunas--Devonian*,*fishes, Colorado*
+28,2183,*Faunas--Ordovician*,*ostracoderms, Colorado*
+28,2187,*Faunas--Pliocene*,*proboscideans, Ethiopia*
+28,2188,*Faunas--Jurassic*,*Steneosaurus, France*
+28,2189,*Faunas--Quaternary*,**
+28,2190,*Faunas--Quaternary*,*Lepus, N. Africa*
+28,2193,*Faunas--Oligocene*,*mammals, Africa*
+28,2193,*Faunas--Quaternary*,*mammals, Africa*
+28,2194,*Faunas--Quaternary*,*Mousterian man*
+28,2195,*Faunas--Quaternary*,*deer, Africa, Asia*
+28,2199,*Faunas--Pliocene*,*crocodilians, Ethiopia*
+28,2200,*Faunas--Quaternary*,*Homo, Dinotherium, Africa*
+28,2203,*Faunas--Cenozoic*,*Proboscidae, N. Africa*
+28,2204,*Faunas--Quaternary*,*rhinoceros, N. and central Africa*
+28,2206,*Faunas--Cretaceous*,*iguanodonts, France*
+28,2209,*Faunas--Quaternary*,*N. Africa*
+28,2210,*Faunas--Quaternary*,*ruminants, Africa*
+28,2211,*Faunas--Quaternary*,**
+28,2212,*Faunas--Quaternary*,*mammals, Sahara*
+28,2219,*Faunas--Tertiary*,*marsupial, Tasmania*
+28,2221,*Faunas--Carboniferous*,*fish, Netherlands*
+28,2224,*Faunas--Cretaceous*,**
+28,2225,*Faunas--Cretaceous*,*fishes, Alberta*
+28,2229,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Hungary*
+28,2230,*Faunas -- Quaternary -- Cave Faunas*,*Hungary*
+28,2232,*Faunas -- Quaternary -- Cave Faunas*,*Neanderthal man, Germany*
+28,2233,*Faunas--Quaternary*,*mammals, France*
+28,2247,*Faunas--Quaternary*,*Bison, Manchuria*
+28,2248,*Faunas--Cenozoic*,*antelope, Transbaikal*
+28,2255,*Faunas--Quaternary*,**
+28,2257,*Faunas--Quaternary*,*man*
+28,2265,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Kent's cavern*
+28,2267,*Faunas--Jurassic*,*fish, reptiles, England*
+28,2267,*Faunas--Triassic*,*fishes, England*
+28,2269,*Faunas--Miocene*,*Switzerland*
+28,2269,*Faunas--Quaternary*,*Switzerland*
+28,2270,*Faunas--Cenozoic*,*whales*
+28,2273,*Faunas--Pliocene*,**
+28,2274,*Faunas--Pliocene*,*whales, California and Florida*
+28,2275,*Faunas--Eocene*,*whales, Louisiana*
+28,2276,*Faunas--Miocene*,**
+28,2277,*Faunas--Miocene*,*marine mammals, California, and Maryland*
+28,2286,*Faunas--Tertiary*,*California*
+28,2287,*Faunas--Miocene*,**
+28,2288,*Faunas--Miocene*,*sirenian, Sakhalin and Kotelnyi islands*
+28,2289,*Faunas--Pliocene*,*Hyaena, Bessarabia*
+28,2292,*Faunas--Silurian*,*ostracoderm, Sweden*
+28,2294,*Faunas--Silurian*,*ostracoderms, Estonia*
+28,2295,*Faunas--Devonian*,*arthrodires, Estonia*
+28,2296,*Faunas--Miocene*,*mammals, Germany*
+28,2297,*Faunas--Tertiary*,*S. Germany*
+28,2304,*Faunas--Quaternary*,*Mastodon, Indiana*
+28,2305,*Faunas--Quaternary*,*mammals, lower Volga region*
+28,2306,*Faunas--Ordovician*,*Harding sandstone, Colorado*
+28,2307,*Faunas--Ordovician*,**
+28,2308,*Faunas--Ordovician*,*conodonts, ostracoderms, Colorado*
+28,2309,*Faunas--Pliocene*,*mammals, Idaho*
+28,2309,*Faunas--Quaternary*,*mammals, Idaho*
+28,2310,*Faunas--Cretaceous*,*dinosaurs, E. Africa; age of Tendaguru beds*
+28,2311,*Faunas--Miocene*,*"mastodon", Germany*
+28,2312,*Faunas--Miocene*,*"Dinotheriensand", Germany*
+28,2312,*Faunas--Pliocene*,*"Dinotheriensand", Germany*
+28,2313,*Faunas--Miocene*,*"mastodon", Austria*
+28,2314,*Faunas--General*,*mastodonts, correlation*
+28,2316,*Faunas--Miocene*,*Mastodon, Steinheim*
+28,2316,*Faunas--Pliocene*,*Rheinhesse, Germany*
+28,2317,*Faunas--Pliocene*,*"Mastodon", Germany; correlation*
+28,2320,*Faunas--General*,*mammoth, Austria*
+28,2320,*Faunas--Quaternary*,*mammoth tooth*
+28,2321,*Faunas--Quaternary*,*fishes, Austria*
+28,2334,*Faunas--Cretaceous*,*concretions or "turtle eggs", Germany*
+28,2335,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Germany*
+28,2336,*Faunas--Cretaceous*,*paintings, North America*
+28,2337,*Faunas--Quaternary*,*painting of Irish elk*
+28,2342,*Faunas--Carboniferous*,*fish, Greenland*
+28,2342,*Faunas--Triassic*,*fishes, Greenland*
+28,2343,*Faunas--Pliocene*,**
+28,2344,*Faunas--Miocene*,**
+28,2344,*Faunas--Pliocene*,**
+28,2345,*Faunas--Miocene*,**
+28,2346,*Faunas--Miocene*,**
+28,2347,*Faunas--Jurassic*,*Rhamphorhynchus, Germany*
+28,2349,*Faunas--Quaternary*,**
+28,2350,*Faunas--Miocene*,**
+28,2350,*Faunas--Pliocene*,*mammals, Germany*
+28,2350,*Faunas--Tertiary*,*Anthracotheriidae, Europe*
+28,2351,*Faunas--Quaternary*,**
+28,2352,*Faunas--Miocene*,*mammals, Europe*
+28,2353,*Faunas--Quaternary*,*mammals, Java*
+28,2354,*Faunas--Jurassic*,*fishes, New Mexico*
+28,2355,*Faunas--General*,*birds, mammals, Colorado*
+28,2357,*Faunas--Tertiary*,*mammals, general*
+28,2360,*Faunas--Quaternary*,*Homo galilaeensis, Palestine*
+28,2362,*Faunas--Pliocene*,**
+28,2363,*Faunas--Pliocene*,**
+28,2364,*Faunas--Pliocene*,**
+28,2365,*Faunas--Pliocene*,**
+28,2366,*Faunas--Pliocene*,**
+28,2367,*Faunas--Pliocene*,**
+28,2368,*Faunas--Pliocene*,**
+28,2369,*Faunas--Pliocene*,**
+28,2370,*Faunas--Pliocene*,**
+28,2371,*Faunas--Pliocene*,**
+28,2372,*Faunas--Pliocene*,**
+28,2373,*Faunas--Pliocene*,**
+28,2374,*Faunas--Pliocene*,**
+28,2375,*Faunas--Pliocene*,**
+28,2376,*Faunas--Pliocene*,**
+28,2377,*Faunas--Pliocene*,**
+28,2377,*Faunas--Quaternary*,*Felidae, Hungary*
+28,2378,*Faunas--Pliocene*,**
+28,2379,*Faunas--Quaternary*,*general*
+28,2380,*Faunas--Pliocene*,*rodents, Saxony*
+28,2381,*Faunas--Pliocene*,**
+28,2382,*Faunas--Pliocene*,*Pu%Fspo%Fkfurdo%F and Forest beds, Hungary, Italy and Jugoslavia*
+28,2383,*Faunas--Quaternary*,*vertebrates, Czecho-Slovakia*
+28,2384,*Faunas--Quaternary*,*Poland*
+28,2385,*Faunas--Permian*,*cotylosaur tracks, Germany*
+28,2391,*Faunas--Quaternary*,**
+28,2392,*Faunas--Pliocene*,**
+28,2393,*Faunas--General*,**
+28,2393,*Faunas--Quaternary*,**
+28,2394,*Faunas--Cretaceous*,*Uruguay*
+28,2394,*Faunas--General*,**
+28,2394,*Faunas--Oligocene*,*Uruguay*
+28,2394,*Faunas--Quaternary*,**
+28,2395,*Faunas--Tertiary*,**
+28,2397,*Faunas--Oligocene*,*notoungulate, Venezuela*
+28,2399,*Faunas--Pliocene*,**
+28,2399,*Faunas--Quaternary*,**
+28,2400,*Faunas--Tertiary*,**
+28,2402,*Faunas--General*,*mammals*
+28,2404,*Faunas--Miocene*,**
+28,2406,*Faunas--Pliocene*,**
+28,2409,*Faunas--Tertiary*,**
+28,2411,*Faunas--Tertiary*,**
+28,2412,*Faunas--Quaternary*,**
+28,2416,*Faunas--Miocene*,**
+28,2417,*Faunas--Pliocene*,**
+28,2418,*Faunas--Quaternary*,**
+28,2419,*Faunas--Miocene*,**
+28,2421,*Faunas--Pliocene*,**
+28,2422,*Faunas--Pliocene*,*mammals, South America*
+28,2425,*Faunas--Quaternary*,*mammals, South America*
+28,2430,*Faunas--Miocene*,*birds and mammals, South America*
+28,2430,*Faunas--Tertiary*,**
+28,2431,*Faunas--Tertiary*,*birds and mammals, South America*
+28,2432,*Faunas--Cenozoic*,*mammals, stratigraphy, Uruguay*
+28,2434,*Faunas--Oligocene*,*Thesodon, Argentina*
+28,2435,*Faunas--Quaternary*,*Argentina*
+28,2437,*Faunas--Quaternary*,*Germany*
+28,2442,*Faunas--Pliocene*,*Rumania*
+28,2443,*Faunas--Pliocene*,*fishes, Rumania*
+28,2443,*Faunas--Tertiary*,*fishes, Rumania*
+28,2444,*Faunas--Miocene*,**
+28,2445,*Faunas--Miocene*,*mammals, Jugoslavia*
+28,2448,*Faunas--General*,*fossil localities, Dutch East Indies*
+28,2455,*Faunas--Quaternary*,*mammals, Hungary*
+28,2466,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Europe*
+28,2467,*Faunas--Triassic*,*labyrinthodonts and parasuchians, Germany*
+28,2471,*Faunas--Cretaceous*,*Crocodilia, Patagonia, North America, and general*
+28,2472,*Faunas--Miocene*,*Balkans*
+28,2472,*Faunas--Pliocene*,*Balkans*
+28,2473,*Faunas--Cretaceous*,*Austria*
+28,2474,*Faunas--Devonian*,*localities, E. Greenland*
+28,2476,*Faunas--Quaternary*,*Sus, Germany*
+28,2478,*Faunas--Permian*,*labyrinthodonts, Volga region*
+28,2479,*Faunas--Triassic*,*Stegocephalia, Russia*
+28,2481,*Faunas -- Quaternary -- Cave Faunas*,*cave bear culture*
+28,2484,*Faunas--Jurassic*,*internal cast, reptile spine, France*
+28,2485,*Faunas--Jurassic*,*fish, France*
+28,2488,*Faunas--Quaternary*,*lemurs, Madagascar*
+28,2492,*Faunas--Eocene*,**
+28,2492,*Faunas--Paleocene*,*list of birds*
+28,2493,*Faunas--Cretaceous*,*birds, Europe*
+28,2493,*Faunas--General*,**
+28,2493,*Faunas--Mesozoic*,*birds, Europe*
+28,2493,*Faunas--Tertiary*,*birds, Europe*
+28,2494,*Faunas--Cretaceous*,*Neogaeornis, South America*
+28,2495,*Faunas--Oligocene*,**
+28,2495,*Faunas--Quaternary*,*birds, Madagascar*
+28,2497,*Faunas--Oligocene*,*Stromeria, Egypt*
+28,2498,*Faunas--Tertiary*,*Protoplotus, Sumatra*
+28,2499,*Faunas--Eocene*,*birds, Europe, Brazil*
+28,2499,*Faunas--Oligocene*,*birds, Fayum*
+28,2499,*Faunas--Tertiary*,*giant birds, Europe, Fayum, Brazil*
+28,2500,*Faunas--Miocene*,*swans, Europe*
+28,2501,*Faunas -- Quaternary -- Cave Faunas*,*birds, Mixnitz*
+28,2501,*Faunas--Quaternary*,*birds, Austria*
+28,2502,*Faunas--General*,**
+28,2503,*Faunas--Cretaceous*,*birds, France and general*
+28,2510,*Faunas--General*,*birds*
+28,2514,*Faunas--Carboniferous*,*stegocephalian, Arkansas*
+28,2515,*Faunas--Eocene*,*Paleosyops, Wyoming*
+28,2516,*Faunas--Quaternary*,*mammals, Africa*
+28,2523,*Faunas--Quaternary*,*mammals, Washington*
+28,2524,*Faunas--Quaternary*,*bird, California*
+28,2525,*Faunas--General*,*extinct and legendary vertebrates, Madagascar*
+28,2530,*Faunas--Quaternary*,**
+28,2531,*Faunas--Quaternary*,**
+28,2532,*Faunas--Miocene*,*apes, Ausinga Island*
+28,2533,*Faunas--Quaternary*,**
+28,2534,*Faunas--Quaternary*,**
+28,2535,*Faunas--Quaternary*,**
+28,2536,*Faunas--Quaternary*,**
+28,2537,*Faunas--Quaternary*,**
+28,2539,*Faunas--Quaternary*,**
+28,2540,*Faunas--Quaternary*,**
+28,2541,*Faunas--Quaternary*,*man, mammals, E. Africa*
+28,2549,*Faunas--Quaternary*,*man and mammoth, Predmost*
+28,2555,*Faunas--Cretaceous*,*reptiles, United States*
+28,2563,*Faunas--Tertiary*,*shark, W. Indies*
+28,2564,*Faunas--Eocene*,**
+28,2565,*Faunas--Cretaceous*,*fishes, Belgium, Limbourg*
+28,2566,*Faunas--Cretaceous*,*Lamna, France*
+28,2567,*Faunas--Cretaceous*,*Hybodus, France*
+28,2568,*Faunas--Devonian*,*fishes, Belgium*
+28,2569,*Faunas--Eocene*,**
+28,2570,*Faunas--Eocene*,*fishes, France and Belgium*
+28,2571,*Faunas--Oligocene*,*ray, France*
+28,2574,*Faunas--Triassic*,*Colobodus [?], North Tyrol*
+28,2575,*Faunas--Triassic*,*Lepidotus, North Tyrol*
+28,2576,*Faunas--Quaternary*,**
+28,2577,*Faunas--Quaternary*,*mammals, Switzerland*
+28,2579,*Faunas--Quaternary*,*correlations, Florida, general*
+28,2580,*Faunas--Quaternary*,*fossil eggs, Bermuda*
+28,2581,*Faunas--Miocene*,**
+28,2582,*Faunas--Miocene*,*mammals, India*
+28,2583,*Faunas--Pliocene*,*China*
+28,2585,*Faunas -- Quaternary -- Cave Faunas*,*Czecho-Slovakia, Tuffna-Ho%Fhle*
+28,2587,*Faunas--Quaternary*,**
+28,2593,*Faunas--Quaternary*,*mammals, Czecho-Slovakia*
+28,2594,*Faunas--Quaternary*,*sub-recent mammals, Europe*
+28,2604,*Faunas--Eocene*,*Odontaspis, Africa*
+28,2604,*Faunas--Paleocene*,*Odontaspis, Africa*
+28,2607,*Faunas--Quaternary*,**
+28,2608,*Faunas--Cretaceous*,**
+28,2608,*Faunas--Quaternary*,*Australia*
+28,2609,*Faunas--Cretaceous*,**
+28,2610,*Faunas--Cretaceous*,**
+28,2611,*Faunas--Cretaceous*,**
+28,2612,*Faunas--Cretaceous*,*Australia*
+28,2613,*Faunas -- Quaternary -- Cave Faunas*,*Kent's Cavern, England*
+28,2614,*Faunas--General*,*Varanus*
+28,2617,*Faunas--Quaternary*,*buffalo, E. Africa*
+28,2620,*Faunas--Oligocene*,*mammals, Wyoming*
+28,2621,*Faunas--Miocene*,**
+28,2622,*Faunas--Miocene*,**
+28,2623,*Faunas--Miocene*,*mammals, Wyoming, S. Dakota, Nebraska*
+28,2625,*Faunas--Quaternary*,**
+28,2626,*Faunas--Quaternary*,**
+28,2627,*Faunas--Quaternary*,*man and Elephas, Italy*
+28,2628,*Faunas--Quaternary*,*Neanderthal*
+28,2631,*Faunas--Tertiary*,*mammals, auriferous gravels, California*
+28,2632,*Faunas--Quaternary*,*mammals, N. Manchuria*
+28,2638,*Faunas--Pliocene*,*Hypselornis a crocodile [?] Siwaliks, India*
+28,2642,*Faunas--Quaternary*,*ostriches, Africa and Arabia*
+28,2644,*Faunas--Quaternary*,*birds, eastern Asia*
+28,2644,*Faunas--Tertiary*,*birds, Asia*
+28,2645,*Faunas--Quaternary*,*"Elephas", Mexico*
+28,2650,*Faunas--Carboniferous*,*probable reptile footprints, Maryland*
+28,2654,*Faunas--General*,**
+28,2655,*Faunas--Quaternary*,**
+28,2658,*Faunas--Quaternary*,*Nothrotherium, New Mexico*
+28,2667,*Faunas--General*,*general*
+28,2671,*Faunas--Quaternary*,*bovids, Germany*
+28,2673,*Faunas--Permian*,*Russia*
+28,2674,*Faunas--Eocene*,*Amyda, Virginia*
+28,2675,*Faunas--Quaternary*,**
+28,2676,*Faunas--Quaternary*,*mammals, Indiana*
+28,2677,*Faunas--Pliocene*,*Testudo, Rumania*
+28,2685,*Faunas--Cretaceous*,*fishes, Kansas*
+28,2686,*Faunas -- Quaternary -- Cave Faunas*,**
+28,2687,*Faunas -- Quaternary -- Cave Faunas*,**
+28,2688,*Faunas -- Quaternary -- Cave Faunas*,*man, mammals, Palestine*
+28,2689,*Faunas -- Quaternary -- Cave Faunas*,*man, Palestine*
+28,2692,*Faunas--Quaternary*,**
+28,2693,*Faunas--Quaternary*,**
+28,2697,*Faunas--Quaternary*,*mammals, France*
+28,2698,*Faunas--Quaternary*,*mammals associated with man*
+28,2700,*Faunas--Quaternary*,**
+28,2701,*Faunas--Quaternary*,*man, general*
+28,2708,*Faunas--Permian*,*Coconino sandstone, N. A.*
+28,2709,*Faunas--Quaternary*,*man, England*
+28,2710,*Faunas--Cretaceous*,*Canada*
+28,2710,*Faunas--Oligocene*,*Canada*
+28,2711,*Faunas--Cretaceous*,*dinosaur tracks, Canada*
+28,2717,*Faunas -- Quaternary -- Cave Faunas*,*Italy*
+28,2721,*Faunas--General*,*Belgium*
+28,2722,*Faunas--Devonian*,*fishes, Devonian*
+28,2722,*Faunas--General*,*Belgium*
+28,2738,*Faunas--Jurassic*,*plesiosaur, Alaska*
+28,2747,*Faunas--Triassic*,*Germany*
+28,2750,*Faunas -- Quaternary -- Cave Faunas*,*man, Italy*
+28,2752,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,2755,*Faunas--Cretaceous*,**
+28,2756,*Faunas--Cretaceous*,*dinosaurs, India*
+28,2761,*Faunas--Eocene*,*turtle, Japan*
+28,2763,*Faunas--Quaternary*,*N. E. Japan*
+28,2764,*Faunas--Quaternary*,*Sus, Atsuta*
+28,2765,*Faunas--Quaternary*,*Homo, Japan*
+28,2766,*Faunas--Quaternary*,*swordfish, Japan*
+28,2770,*Faunas--Quaternary*,*Sinanthropus, China*
+28,2771,*Faunas--General*,*Bavaria*
+28,2773,*Faunas--Tertiary*,**
+28,2776,*Faunas--Tertiary*,*Siwaliks, India*
+28,2777,*Faunas--Pliocene*,*hedgehog, Nevada*
+28,2798,*Faunas--Pliocene*,*mastodon, California*
+28,2803,*Faunas--Quaternary*,*ground sloths, Cuba*
+28,2804,*Faunas--Miocene*,*mammals, Nebraska*
+28,2809,*Faunas--Miocene*,*mammals, Montana*
+28,2810,*Faunas--Paleocene*,*mammals, Montana*
+28,2811,*Faunas--Pliocene*,*Equidae, Texas*
+28,2812,*Faunas--Pliocene*,*Borophagus, Texas*
+28,2818,*Faunas--Cretaceous*,*fishes, Brazil*
+28,2819,*Faunas--Miocene*,*mammals, California*
+28,2821,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,2822,*Faunas--Mesozoic*,*North America*
+28,2823,*Faunas--Cretaceous*,*mosasaur, Mexico*
+28,2824,*Faunas--Cretaceous*,*North America*
+28,2825,*Faunas--Cretaceous*,*dinosaurs, Kansas*
+28,2826,*Faunas--Cretaceous*,*birds, Colorado*
+28,2830,*Faunas--Quaternary*,*ungulates, Czecho-Slovakia*
+28,2832,*Faunas--Jurassic*,*reptile egg, England*
+28,2834,*Faunas--Quaternary*,*man, mammals, Europe*
+28,2836,*Faunas--Quaternary*,*stone age, treatise*
+28,2838,*Faunas--Tertiary*,**
+28,2839,*Faunas--Tertiary*,*Paleogene selachians, Russia*
+28,2842,*Faunas--Tertiary*,*fishes, Austria*
+28,2850,*Faunas--Quaternary*,**
+28,2853,*Faunas--Quaternary*,*man, N. A.*
+28,2856,*Faunas--Cenozoic*,*California*
+28,2859,*Faunas--Miocene*,*mammals, California*
+28,2859,*Faunas--Tertiary*,*mammals, California*
+28,2865,*Faunas--Eocene*,*frog, India*
+28,2866,*Faunas--Triassic*,*labyrinthodonts, Germany*
+28,2881,*Faunas--Quaternary*,**
+28,2882,*Faunas--Eocene*,*auklet, Oregon*
+28,2883,*Faunas -- Quaternary -- Cave Faunas*,*icterid, New Mexico*
+28,2884,*Faunas--Quaternary*,*birds, California*
+28,2887,*Faunas -- Quaternary -- Cave Faunas*,**
+28,2888,*Faunas -- Quaternary -- Cave Faunas*,*possibility of man, Ohio*
+28,2889,*Faunas -- Quaternary -- Cave Faunas*,*man, mammals, Kentucky*
+28,2891,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Haiti*
+28,2892,*Faunas -- Quaternary -- Cave Faunas*,*antelope, Colorado*
+28,2894,*Faunas--Quaternary*,*falcons, California*
+28,2896,*Faunas--Miocene*,*cormorant, California*
+28,2897,*Faunas--Cenozoic*,*birds, California*
+28,2898,*Faunas--Pliocene*,*goose, California*
+28,2899,*Faunas--Quaternary*,**
+28,2900,*Faunas--Pliocene*,*birds, mammals, California*
+28,2902,*Faunas--Quaternary*,**
+28,2903,*Faunas--Quaternary*,*storks, California*
+28,2904,*Faunas--Quaternary*,*birds, California*
+28,2905,*Faunas--Pliocene*,*vulture, California*
+28,2906,*Faunas--Pliocene*,*auk, California*
+28,2907,*Faunas -- Quaternary -- Cave Faunas*,*owl, California*
+28,2909,*Faunas--Quaternary*,*moon and glaciation*
+28,2911,*Faunas--Quaternary*,*mammals, France*
+28,2913,*Faunas--Carboniferous*,**
+28,2914,*Faunas--Carboniferous*,*footprints, Ohio*
+28,2916,*Faunas--Quaternary*,*stratigraphy*
+28,2917,*Faunas--Quaternary*,*skulls, Italy*
+28,2920,*Faunas--General*,*Schleswig-Holstein*
+28,2924,*Faunas--Quaternary*,*England*
+28,2929,*Faunas--Quaternary*,*Oldoway Man*
+28,2948,*Faunas--Permian*,**
+28,2955,*Faunas--General*,*Indiana*
+28,2956,*Faunas--Quaternary*,*mammals, Arizona*
+28,2958,*Faunas--Permian*,*footprints, Texas*
+28,2967,*Faunas--General*,*Kentucky*
+28,2968,*Faunas--Carboniferous*,*ichnites*
+28,2971,*Faunas--Paleocene*,*crocodilian, New Mexico*
+28,2972,*Faunas--Paleocene*,**
+28,2973,*Faunas--Paleocene*,*crocodiles, New Jersey*
+28,2975,*Faunas--Pliocene*,*gavial, India*
+28,2977,*Faunas--Jurassic*,*crocodile, Colorado*
+28,2978,*Faunas--Jurassic*,*Teleorhinus, Montana*
+28,2982,*Faunas--Carboniferous*,*fish spine, Texas*
+28,2983,*Faunas--Carboniferous*,*general*
+28,2989,*Faunas--Quaternary*,**
+28,2990,*Faunas--Quaternary*,*Mousterian fauna, culture, Moldavia*
+28,2996,*Faunas--Cretaceous*,*mosasaur, Mexico*
+28,2999,*Faunas--Quaternary*,*gravigrade, Mexico*
+28,3000,*Faunas--Quaternary*,*Germany*
+28,3001,*Faunas--Quaternary*,*fish*
+28,3004,*Faunas--Quaternary*,*California*
+28,3005,*Faunas--Quaternary*,*woolly rhinoceros, Europe*
+28,3012,*Faunas--Tertiary*,*Turkey*
+28,3013,*Faunas--Tertiary*,*fishes, Paleogene, Japan*
+28,3016,*Faunas--Tertiary*,*mammal, Japan*
+28,3021,*Faunas--Miocene*,*cervid, Japan*
+28,3022,*Faunas--Quaternary*,*mammals, sharks, Japan*
+28,3029,*Faunas--Carboniferous*,*England*
+28,3030,*Faunas--Quaternary*,**
+28,3033,*Faunas--Quaternary*,**
+28,3049,*Faunas--Permian*,*fishes, Greenland*
+28,3050,*Faunas--Quaternary*,*Bison, Poland*
+28,3051,*Faunas--Quaternary*,*birds, mammals, Poland*
+28,3052,*Faunas--Quaternary*,*mammals, Kansas*
+28,3054,*Faunas--Miocene*,*amphibia, Europe*
+28,3070,*Faunas--Triassic*,*Macrochemus, Italy*
+28,3079,*Faunas--Cretaceous*,*turtles, France*
+28,3086,*Faunas--Quaternary*,*bear, Jutland*
+28,3090,*Faunas--Miocene*,*hungary*
+28,3090,*Faunas--Oligocene*,*Hungary*
+28,3091,*Faunas--Quaternary*,*rhinoceros, Poland*
+28,3095,*Faunas--Quaternary*,*mammals, Bohemia*
+28,3096,*Faunas--Quaternary*,*Altamira*
+28,3099,*Faunas--Quaternary*,*N. Africa*
+28,3104,*Faunas--Devonian*,*fishes, correlation, Europe*
+28,3105,*Faunas--Devonian*,*Coccosteus, Russia*
+28,3106,*Faunas--Devonian*,*arthrodires, Russia*
+28,3107,*Faunas--Devonian*,**
+28,3108,*Faunas--Devonian*,*fishes, Russia*
+28,3110,*Faunas--Triassic*,**
+28,3111,*Faunas--Triassic*,*fishes, Germany*
+28,3115,*Faunas--Cretaceous*,*mosasaur, South America*
+28,3116,*Faunas--Permian*,**
+28,3117,*Faunas--Permian*,*fishes, South America*
+28,3119,*Faunas--Quaternary*,*mammals, Czecho-Slovakia*
+28,3120,*Faunas--Quaternary*,**
+28,3121,*Faunas--Quaternary*,**
+28,3122,*Faunas--Quaternary*,*man, Java*
+28,3126,*Faunas--Quaternary*,**
+28,3127,*Faunas--Quaternary*,**
+28,3128,*Faunas--Quaternary*,**
+28,3129,*Faunas--Quaternary*,**
+28,3130,*Faunas--Pliocene*,**
+28,3130,*Faunas--Quaternary*,*mammals, W. Siberia*
+28,3131,*Faunas--Pliocene*,**
+28,3132,*Faunas--General*,*North America*
+28,3133,*Faunas--Pliocene*,*mammals, Siberia*
+28,3146,*Faunas--Quaternary*,*mammals, reptiles, India*
+28,3153,*Faunas--Tertiary*,*mammals, reptiles, India*
+28,3165,*Faunas--Oligocene*,*Embolotherium, Mongolia*
+28,3172,*Faunas--Quaternary*,**
+28,3190,*Faunas--General*,*central Asia*
+28,3206,*Faunas--Quaternary*,*elephant enamel method of dating*
+28,3217,*Faunas--Quaternary*,*enamel method of dating*
+28,3218,*Faunas--Eocene*,**
+28,3220,*Faunas--Eocene*,*coryphodonts, Mongolia*
+28,3220,*Faunas--Oligocene*,*coryphodonts, Mongolia*
+28,3221,*Faunas--Pliocene*,*Serridentinus, Mongolia*
+28,3226,*Faunas--Triassic*,*Raineria, S. Bavaria*
+28,3227,*Faunas--Triassic*,*Placochelys, S. Tergensee*
+28,3230,*Faunas -- Quaternary -- Cave Faunas*,**
+28,3231,*Faunas -- Quaternary -- Cave Faunas*,**
+28,3232,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,3239,*Faunas--Quaternary*,*mammals, Bristol district*
+28,3249,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,3250,*Faunas--Miocene*,**
+28,3251,*Faunas--Miocene*,*frogs, Europe*
+28,3252,*Faunas--Jurassic*,**
+28,3255,*Faunas--Jurassic*,*dinosaurs, E. Africa*
+28,3256,*Faunas--Cretaceous*,**
+28,3257,*Faunas--Cretaceous*,**
+28,3259,*Faunas--Cretaceous*,**
+28,3261,*Faunas--Cretaceous*,**
+28,3262,*Faunas--Cretaceous*,**
+28,3263,*Faunas--Cretaceous*,**
+28,3264,*Faunas--Cretaceous*,**
+28,3265,*Faunas--Cretaceous*,**
+28,3265,*Faunas--Cretaceous*,*turtles, Canada*
+28,3266,*Faunas--Cretaceous*,**
+28,3267,*Faunas--Cretaceous*,*dinosaurs, Canada*
+28,3268,*Faunas--Quaternary*,*Megatherium, Patagonia*
+28,3269,*Faunas--Pliocene*,*macrauchenids, Argentina*
+28,3271,*Faunas--Pliocene*,*whale, Italy*
+28,3272,*Faunas--Triassic*,*Thrinaxodon, Africa*
+28,3274,*Faunas--Quaternary*,*Sicily*
+28,3276,*Faunas--Quaternary*,*mammals, Asia*
+28,3281,*Faunas--Silurian*,*ostracoderms, Oesel*
+28,3284,*Faunas--Oligocene*,*Allognathosuchus, S. Dakota*
+28,3287,*Faunas--Paleocene*,*amblypod, Colorado*
+28,3288,*Faunas--Quaternary*,*Alaska*
+28,3289,*Faunas--Oligocene*,**
+28,3290,*Faunas--Tertiary*,**
+28,3293,*Faunas--Oligocene*,**
+28,3294,*Faunas--Miocene*,*fish, Rumania*
+28,3295,*Faunas--Oligocene*,*fishes, Rumania*
+28,3297,*Faunas--Pliocene*,*European Russia*
+28,3297,*Faunas--Quaternary*,*European Russia*
+28,3302,*Faunas--Quaternary*,*mammals, Russia*
+28,3303,*Faunas--Miocene*,*Camelopardalis, N. Caucasus*
+28,3304,*Faunas--Quaternary*,*dolphins, Black Sea region*
+28,3314,*Faunas--Quaternary*,*Sinanthropus, China*
+28,3315,*Faunas--Pliocene*,*mammals, China*
+28,3315,*Faunas--Quaternary*,**
+28,3316,*Faunas--Quaternary*,**
+28,3317,*Faunas--Quaternary*,*mammals, China*
+28,3332,*Faunas--Eocene*,*mesonychids, Utah*
+28,3332,*Faunas--Oligocene*,*mesonychids, Utah*
+28,3333,*Faunas--Oligocene*,*titanothere, Utah*
+28,3335,*Faunas--Eocene*,*agriochoerids, Utah*
+28,3336,*Faunas--Oligocene*,*Utah*
+28,3336,*Faunas--Oligocene*,*mammals, Utah*
+28,3339,*Faunas--Quaternary*,*mammals, Czecho-Slovakia*
+28,3340,*Faunas--Quaternary*,*ibex, Czecho-Slovakia*
+28,3341,*Faunas--Miocene*,*Mastodon, Czecho-Slovakia*
+28,3344,*Faunas--Quaternary*,*rhinoceros, Elbe*
+28,3351,*Faunas--Oligocene*,*Switzerland*
+28,3352,*Faunas--Quaternary*,*fish, Switzerland*
+28,3354,*Faunas--Tertiary*,*fish, Peru*
+28,3355,*Faunas--Triassic*,**
+28,3356,*Faunas--Triassic*,**
+28,3357,*Faunas--Triassic*,**
+28,3359,*Faunas--Triassic*,**
+28,3360,*Faunas--Triassic*,**
+28,3360,*Faunas--Triassic*,*Tanystropheus, Switzerland*
+28,3361,*Faunas--Triassic*,**
+28,3362,*Faunas--Triassic*,**
+28,3362,*Faunas--Triassic*,*Ceresiosaurus, Switzerland*
+28,3363,*Faunas--Triassic*,**
+28,3364,*Faunas--Triassic*,*placodonts, Switzerland*
+28,3366,*Faunas--Triassic*,**
+28,3367,*Faunas--Triassic*,*Switzerland*
+28,3369,*Faunas--Jurassic*,*selachian tooth, Switzerland*
+28,3376,*Faunas--Tertiary*,*North America*
+28,3377,*Faunas--Quaternary*,*mammoth cadaver, Siberia*
+28,3379,*Faunas--Triassic*,*reptiles, Rhodesia*
+28,3380,*Faunas--Quaternary*,**
+28,3381,*Faunas--Quaternary*,*Phacochoerus, S. W. Africa*
+28,3389,*Faunas--Pliocene*,**
+28,3390,*Faunas--Cenozoic*,*Carnivora, India*
+28,3391,*Faunas--Pliocene*,*skunk, Samos*
+28,3393,*Faunas--Miocene*,*Conohyus, India*
+28,3395,*Faunas--Eocene*,*land turtle, China*
+28,3396,*Faunas--Quaternary*,*turtle, China*
+28,3397,*Faunas--Pliocene*,*turtle, China*
+28,3398,*Faunas--Cretaceous*,*fishes, China*
+28,3400,*Faunas--Tertiary*,*fishes, France*
+28,3402,*Faunas--Triassic*,*Stegocephalia, France*
+28,3403,*Faunas--Miocene*,*Salonica*
+28,3403,*Faunas--Triassic*,**
+28,3404,*Faunas--Triassic*,**
+28,3405,*Faunas--Triassic*,**
+28,3406,*Faunas--Triassic*,**
+28,3407,*Faunas--Eocene*,*artiodactyl, France*
+28,3411,*Faunas--Triassic*,*fishes, Madagascar*
+28,3413,*Faunas--Tertiary*,*fishes, Angola*
+28,3418,*Faunas--Quaternary*,**
+28,3419,*Faunas--Quaternary*,*mammals, Africa*
+28,3421,*Faunas--Quaternary*,*Bos, deer, France*
+28,3429,*Faunas--Quaternary*,**
+28,3430,*Faunas--Quaternary*,**
+28,3431,*Faunas--Quaternary*,**
+28,3432,*Faunas--Quaternary*,*elephants, England*
+28,3435,*Faunas--Quaternary*,**
+28,3436,*Faunas--Quaternary*,**
+28,3439,*Faunas--Quaternary*,*elephants, France*
+28,3444,*Faunas -- Quaternary -- Cave Faunas*,*Haiti*
+28,3454,*Faunas--Quaternary*,*Ireland*
+28,3455,*Faunas--Carboniferous*,*elasmobranch egg capsule, Bohemia*
+28,3460,*Faunas--Quaternary*,*mastodon, Pennsylvania*
+28,3464,*Faunas--Carboniferous*,**
+28,3465,*Faunas--Carboniferous*,**
+28,3466,*Faunas--Carboniferous*,*fishes, Belgium*
+28,3467,*Faunas--Quaternary*,*Italy*
+28,3489,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Algeria*
+28,3496,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Yorkshire*
+28,3496,*Faunas--Quaternary*,*mammals, England*
+28,3497,*Faunas -- Quaternary -- Cave Faunas*,*Coelodonta, Yugoslavia*
+28,3498,*Faunas--Paleozoic*,*S. Africa*
+28,3499,*Faunas--Cretaceous*,*reptiles, mammals, India*
+28,3500,*Faunas--Cenozoic*,*hyaena, India*
+28,3501,*Faunas--Cretaceous*,*reptiles, India*
+28,3502,*Faunas--Cretaceous*,*reptile vertebrae, India*
+28,3503,*Faunas--Cretaceous*,*dinosaurs, India*
+28,3508,*Faunas--Quaternary*,*man, North America*
+28,3510,*Faunas--Quaternary*,*"mastodon", North America*
+28,3512,*Faunas--Quaternary*,*artiodactyl, Africa*
+28,3514,*Faunas--Mesozoic*,*reptiles, Africa*
+28,3515,*Faunas--Quaternary*,**
+28,3516,*Faunas--Quaternary*,**
+28,3517,*Faunas--Quaternary*,*man, associated vertebrates, Africa*
+28,3518,*Faunas--Paleozoic and Mesozoic*,**
+28,3522,*Faunas--Paleozoic and Mesozoic*,*S. Africa*
+28,3524,*Faunas--Paleozoic*,*fish tubercles, India*
+28,3525,*Faunas--Triassic*,*fishes, Brazil*
+28,3526,*Faunas--Paleozoic*,*fish scales, Brazil*
+28,3527,*Faunas--Pliocene*,*mammals, Texas*
+28,3528,*Faunas--Quaternary*,*California*
+28,3531,*Faunas--Mesozoic*,*vertebrates, dinosaur tracks, North America*
+28,3533,*Faunas--General*,*North America*
+28,3539,*Faunas--Quaternary*,*Elephas tusk, Germany*
+28,3543,*Faunas--Quaternary*,*stratigraphy*
+28,3544,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Czech-Slovakia*
+28,3548,*Faunas--Quaternary*,*man, associated vertebrates, France*
+28,3549,*Faunas--Eocene*,*bat, France*
+28,3550,*Faunas--Tertiary*,*mastodon, Bolivia*
+28,3554,*Faunas--Quaternary*,*Megaceros, Britain*
+28,3555,*Faunas--Paleocene*,*insectivores, New Mexico*
+28,3557,*Faunas--Tertiary*,*frog, Transcaucasus*
+28,3558,*Faunas--Tertiary*,*turtle, N. Caucasus*
+28,3559,*Faunas--Pliocene*,*mammals, Russia*
+28,3560,*Faunas--Quaternary*,*beavers, Russia*
+28,3561,*Faunas--Cretaceous*,**
+28,3562,*Faunas--Triassic*,*stegocephalian, Russia*
+28,3563,*Faunas--Cretaceous*,**
+28,3564,*Faunas--Tertiary*,*birds, Transcaucasus*
+28,3565,*Faunas--Cretaceous*,**
+28,3566,*Faunas--Cretaceous*,*dinosaurs, Russia*
+28,3567,*Faunas--Quaternary*,**
+28,3568,*Faunas--Quaternary*,*cave lion, hyaena, Siberia*
+28,3571,*Faunas--Oligocene*,*mammals, France*
+28,3572,*Faunas--Quaternary*,*New Jersey*
+28,3579,*Faunas--Jurassic*,*Protornis, Bavaria*
+28,3586,*Faunas--Quaternary*,**
+28,3587,*Faunas--Quaternary*,**
+28,3588,*Faunas--Quaternary*,*mammals, Germany*
+28,3590,*Faunas--Miocene*,*mammals, Europe*
+28,3595,*Faunas--Pliocene*,*marsupial, Argentina*
+28,3596,*Faunas--Quaternary*,*Sweden*
+28,3597,*Faunas--Quaternary*,*Ireland*
+28,3598,*Faunas--Quaternary*,**
+28,3599,*Faunas--Quaternary*,**
+28,3600,*Faunas--Quaternary*,*Scotland*
+28,3606,*Faunas--Paleocene*,*otolith, Germany*
+28,3608,*Faunas--General*,*S. Africa*
+28,3610,*Faunas--Miocene*,*mammals, Spain*
+28,3610,*Faunas--Pliocene*,*mammals, Spain*
+28,3612,*Faunas--Quaternary*,*Elephas, France*
+28,3613,*Faunas--General*,*Lyons, France*
+28,3616,*Faunas--Quaternary*,*mammals, Algeria*
+28,3617,*Faunas--Carboniferous*,*Texas*
+28,3617,*Faunas--Permian*,*Texas*
+28,3618,*Faunas -- Quaternary -- Cave Faunas*,*camel, Utah*
+28,3619,*Faunas--Carboniferous*,*amphibians, taxonomy, morphology*
+28,3623,*Faunas--Carboniferous*,*tetrapods, Ohio*
+28,3628,*Faunas--Quaternary*,*vertebrates and antiquity of man, North America*
+28,3630,*Faunas--Miocene*,*beaver, Wyoming*
+28,3631,*Faunas--Quaternary*,*rat, Sahara*
+28,3633,*Faunas--Triassic*,*stegocephalian, Germany*
+28,3634,*Faunas--Quaternary*,*Bison, Germany*
+28,3638,*Faunas--Quaternary*,*England*
+28,3639,*Faunas--Quaternary*,*mammals, Spain*
+28,3646,*Faunas--Quaternary*,*mammals, France*
+28,3648,*Faunas--Carboniferous*,*elasmobranch, Iowa*
+28,3652,*Faunas--Permian*,*fishes, Brazil*
+28,3653,*Faunas--Paleozoic*,*N. Y. State*
+28,3654,*Faunas--Quaternary*,**
+28,3655,*Faunas--Triassic*,*footprints, Germany*
+28,3656,*Faunas--Quaternary*,**
+28,3657,*Faunas--Quaternary*,**
+28,3658,*Faunas--Quaternary*,*man, mammals, Germany*
+28,3660,*Faunas--Quaternary*,*tapir, Argentina*
+28,3663,*Faunas--Pliocene*,**
+28,3664,*Faunas--Cenozoic*,**
+28,3664,*Faunas--Quaternary*,*Myocastoridae*
+28,3666,*Faunas--Quaternary*,**
+28,3667,*Faunas--Pliocene*,**
+28,3668,*Faunas--Pliocene*,**
+28,3668,*Faunas--Quaternary*,**
+28,3670,*Faunas--Pliocene*,**
+28,3671,*Faunas--Pliocene*,*peccaries*
+28,3671,*Faunas--Quaternary*,*peccaries*
+28,3673,*Faunas--Pliocene*,**
+28,3673,*Faunas--Quaternary*,**
+28,3675,*Faunas--Quaternary*,*Ctenomys*
+28,3677,*Faunas--Tertiary*,*crocodilian tooth, Bolivia*
+28,3678,*Faunas--Pliocene*,**
+28,3679,*Faunas--Quaternary*,**
+28,3680,*Faunas--Quaternary*,*Paleolama, Argentina*
+28,3681,*Faunas--Quaternary*,**
+28,3682,*Faunas--Pliocene*,**
+28,3683,*Faunas--Pliocene*,*Pampean*
+28,3684,*Faunas--Pliocene*,**
+28,3685,*Faunas--Pliocene*,**
+28,3686,*Faunas--Pliocene*,*Pampean mustelids*
+28,3687,*Faunas--Pliocene*,*Didelphys*
+28,3688,*Faunas--Pliocene*,*amphibian*
+28,3689,*Faunas--Pliocene*,**
+28,3690,*Faunas--Cretaceous*,*reptiles, South America*
+28,3691,*Faunas--Pliocene*,**
+28,3692,*Faunas--Tertiary*,*macrauchenids, South America*
+28,3693,*Faunas--Pliocene*,**
+28,3693,*Faunas--Quaternary*,**
+28,3694,*Faunas--Pliocene*,**
+28,3695,*Faunas--Quaternary*,**
+28,3697,*Faunas--Quaternary*,*South America*
+28,3697,*Faunas--Tertiary*,*Proalligator, South America*
+28,3698,*Faunas--Pliocene*,**
+28,3699,*Faunas--Pliocene*,*marsupials*
+28,3700,*Faunas--Pliocene*,**
+28,3702,*Faunas--Oligocene*,*Homunculus, Patagonia*
+28,3703,*Faunas--Tertiary*,*mammals, South America*
+28,3704,*Faunas--Pliocene*,*South America*
+28,3706,*Faunas--Quaternary*,*France*
+28,3707,*Faunas--Cretaceous*,*didelphids, Wyoming*
+28,3708,*Faunas--Paleocene*,**
+28,3709,*Faunas--Paleocene*,*fishes, Canada*
+28,3710,*Faunas--Paleocene*,**
+28,3712,*Faunas--Paleocene*,*mammal tracks, Canada*
+28,3713,*Faunas--Paleocene*,*Chelonian*
+28,3714,*Faunas--Cretaceous*,*dinosaurs, North America*
+28,3715,*Faunas--Devonian*,*fishes, Canada*
+28,3716,*Faunas--Cretaceous*,*plesiosaurs, Canada*
+28,3717,*Faunas--Cretaceous*,**
+28,3717,*Faunas--Paleocene*,**
+28,3717,*Faunas--Tertiary*,*Alberta*
+28,3718,*Faunas--Paleocene*,*Canada*
+28,3719,*Faunas--Cretaceous*,*Canada*
+28,3720,*Faunas--Eocene*,*Canada*
+28,3720,*Faunas--Miocene*,*Merychippus, Canada*
+28,3721,*Faunas--Paleocene*,*mammal tracks, Canada*
+28,3723,*Faunas--Pliocene*,*C%California*
+28,3726,*Faunas--Devonian*,*fishes, Bohemia*
+28,3729,*Faunas--Quaternary*,*Ovibos, Poland*
+28,3730,*Faunas--Quaternary*,*deer, Russia*
+28,3732,*Faunas--Pliocene*,*Parelephas, Japan*
+28,3733,*Faunas--Pliocene*,*mammals, Rumania*
+28,3733,*Faunas--Quaternary*,**
+28,3734,*Faunas--Quaternary*,*mammals, Rumania*
+28,3736,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,3743,*Faunas--Paleozoic and Mesozoic*,*Poland*
+28,3746,*Faunas--Quaternary*,**
+28,3747,*Faunas--Quaternary*,*England*
+28,3750,*Faunas--Quaternary*,**
+28,3751,*Faunas--Quaternary*,*mastodon, Indiana*
+28,3753,*Faunas--Cretaceous*,**
+28,3753,*Faunas--Miocene*,*Ichthyodorulites, Italy*
+28,3754,*Faunas--Cretaceous*,**
+28,3754,*Faunas--Tertiary*,*Ichthyodorulites and Pristiphoca, Italy*
+28,3755,*Faunas--Cretaceous*,*Ichthyodorulites, Italy*
+28,3755,*Faunas--Pliocene*,*mammal teeth, Italy*
+28,3764,*Faunas--Quaternary*,*mammals, France*
+28,3766,*Faunas--Tertiary*,**
+28,3768,*Faunas--Pliocene*,*antelopes, Tuscany*
+28,3770,*Faunas--Oligocene*,*tapir, Switzerland*
+28,3771,*Faunas--Eocene*,*birds, Switzerland*
+28,3772,*Faunas--Miocene*,**
+28,3772,*Faunas--Oligocene*,*rodents, Switzerland*
+28,3772,*Faunas--Tertiary*,**
+28,3773,*Faunas--Pliocene*,**
+28,3773,*Faunas--Quaternary*,*rodents, Europe*
+28,3773,*Faunas--Tertiary*,**
+28,3774,*Faunas--General*,*mammals, Venezuela, Trinidad*
+28,3774,*Faunas--Tertiary*,**
+28,3775,*Faunas--Pliocene*,*rodents, Europe*
+28,3776,*Faunas--Quaternary*,*ruminants, Hungary*
+28,3777,*Faunas--Miocene*,*rodents, Switzerland*
+28,3777,*Faunas--Tertiary*,*rodents, Europe*
+28,3780,*Faunas--General*,*types at Harvard*
+28,3782,*Faunas--Triassic*,*footprints, Germany*
+28,3788,*Faunas--Oligocene*,**
+28,3789,*Faunas--Oligocene*,*Mesohippus, S. Dakota*
+28,3790,*Faunas--Oligocene*,*insectivore, Wyoming*
+28,3791,*Faunas--Quaternary*,*Alces, Europe*
+28,3792,*Faunas--Cretaceous*,*shark teeth, Africa*
+28,3796,*Faunas--Carboniferous*,*footprints, general*
+28,3796,*Faunas--Paleozoic and Mesozoic*,*reptile tracks, general*
+28,3796,*Faunas--Permian*,*footprints, general*
+28,3796,*Faunas--Triassic*,*footprints, general*
+28,3798,*Faunas--Carboniferous*,*fish*
+28,3799,*Faunas--Carboniferous*,*guide fossils*
+28,3799,*Faunas--General*,*guide fossils*
+28,3800,*Faunas--Quaternary*,*Alces, Germany*
+28,3801,*Faunas--Devonian*,**
+28,3803,*Faunas--Devonian*,*fishes, Germany*
+28,3805,*Faunas--Eocene*,*turtle, Peru*
+28,3809,*Faunas--Permian*,**
+28,3810,*Faunas--Quaternary*,*bird, Germany*
+28,3811,*Faunas--Permian*,*tracks, Germany*
+28,3814,*Faunas--Quaternary*,*deer, Germany*
+28,3815,*Faunas -- Quaternary -- Cave Faunas*,*"Drachenho%Fhle," Mixnitz, Austria*
+28,3821,*Faunas--Jurassic*,*fishes, Colorado*
+28,3823,*Faunas--Quaternary*,*Bos, Sweden*
+28,3834,*Faunas--Devonian*,*Europe*
+28,3835,*Faunas--Quaternary*,*proboscideans, Germany*
+28,3837,*Faunas--Quaternary*,*mammals, Germany*
+28,3839,*Faunas--Quaternary*,**
+28,3841,*Faunas--Quaternary*,*Siberia*
+28,3842,*Faunas--Paleozoic*,*general*
+28,3859,*Faunas--Quaternary*,*Sumatra*
+28,3866,*Faunas--Quaternary*,*Hipparion, Africa*
+28,3867,*Faunas--Quaternary*,*antelopes, Africa*
+28,3868,*Faunas--Quaternary*,**
+28,3869,*Faunas--Quaternary*,**
+28,3871,*Faunas--Quaternary*,*man*
+28,3873,*Faunas--Cretaceous*,*dinosaurs, tracks, Texas*
+28,3876,*Faunas--Miocene*,**
+28,3881,*Faunas--Silurian*,*Norway*
+28,3882,*Faunas--Miocene*,**
+28,3884,*Faunas--Miocene*,*notoungulates, primates, Patagonia*
+28,3887,*Faunas--Triassic*,**
+28,3888,*Faunas--Triassic*,*Germany*
+28,3894,*Faunas--General*,*Texas*
+28,3901,*Faunas--Quaternary*,**
+28,3903,*Faunas--Quaternary*,**
+28,3904,*Faunas--Quaternary*,**
+28,3905,*Faunas--Quaternary*,*man, mammals, Italy*
+28,3912,*Faunas--Cretaceous*,*fish, Tripoli*
+28,3913,*Faunas--Pliocene*,*mammals, India*
+28,3914,*Faunas--Quaternary*,*general*
+28,3915,*Faunas--Eocene*,*Heptodon, Wyoming*
+28,3942,*Faunas--Tertiary*,*mammals, Austria*
+28,3944,*Faunas--Miocene*,*mammals, Austria*
+28,3945,*Faunas--Quaternary*,*Capra, Austria*
+28,3947,*Faunas -- Quaternary -- Cave Faunas*,**
+28,3948,*Faunas--Pliocene*,**
+28,3949,*Faunas--Quaternary*,*Austria*
+28,3950,*Faunas--Pliocene*,*antelope, Samos*
+28,3951,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Austria*
+28,3952,*Faunas -- Quaternary -- Cave Faunas*,*Austria*
+28,3954,*Faunas--Tertiary*,*Carcharias, Dutch East Indies*
+28,3955,*Faunas--Pliocene*,*mastodon, Czecho-Slovakia*
+28,3956,*Faunas--Quaternary*,*Arctomys, Rumania*
+28,3957,*Faunas--Quaternary*,*Elephas, Rumania*
+28,3958,*Faunas--Pliocene*,**
+28,3959,*Faunas--Miocene*,*marine mammals, Rumania*
+28,3964,*Faunas--Jurassic*,*pantothere, E. Africa*
+28,3965,*Faunas--Paleocene*,**
+28,3966,*Faunas--Mesozoic*,*mammals, England*
+28,3967,*Faunas--Mesozoic*,*mammals, America*
+28,3968,*Faunas--Paleocene*,**
+28,3970,*Faunas--Quaternary*,**
+28,3970,*Faunas--Tertiary*,**
+28,3971,*Faunas--Quaternary*,**
+28,3971,*Faunas--Tertiary*,**
+28,3972,*Faunas--Paleocene*,*uintathere, Wyoming*
+28,3973,*Faunas--Eocene*,*mammals, Europe*
+28,3973,*Faunas--Paleocene*,*mammals, Europe*
+28,3974,*Faunas--Quaternary*,**
+28,3975,*Faunas--Cretaceous*,*mammals, Wyoming*
+28,3976,*Faunas--Paleocene*,*mammals, Montana*
+28,3980,*Faunas--Quaternary*,**
+28,3981,*Faunas--Paleocene*,*crocodile, New Mexico*
+28,3982,*Faunas--Quaternary*,**
+28,3983,*Faunas--Paleocene*,*Eodelphis, Canada*
+28,3987,*Faunas--Tertiary*,*mammals, Florida*
+28,3990,*Faunas--Oligocene*,*insectivore, Inner Mongolia*
+28,3992,*Faunas--General*,*origin of mammalian faunas*
+28,3993,*Faunas--Paleocene*,*Cochilius, Patagonia*
+28,3996,*Faunas--Miocene*,*mammals, Florida*
+28,3996,*Faunas--Quaternary*,*mammals, Florida*
+28,3999,*Faunas--Tertiary*,*mammals, Patagonia*
+28,4000,*Faunas--Paleocene*,*mammal, Louisiana*
+28,4004,*Faunas--Tertiary*,*dinosaurs, mammals, Patagonia*
+28,4005,*Faunas--Mesozoic*,*"mammals", South America*
+28,4010,*Faunas--General*,*North American mammal horizons*
+28,4011,*Faunas--Tertiary*,*North American correlations*
+28,4014,*Faunas--Eocene*,*crocodilian, Patagonia*
+28,4015,*Faunas--Eocene*,**
+28,4016,*Faunas--Eocene*,*snake, Patagonia*
+28,4017,*Faunas--Pliocene*,*"marsupial", Africa*
+28,4021,*Faunas--Eocene*,**
+28,4022,*Faunas--General*,*Patagonia*
+28,4022,*Faunas--Tertiary*,*mammal horizons, Patagonia*
+28,4023,*Faunas--Eocene*,*mammals, Patagonia*
+28,4024,*Faunas--Carboniferous*,*fishes, England*
+28,4025,*Faunas--Quaternary*,*mastodon, Indiana*
+28,4027,*Faunas--Oligocene*,*mammals, S. Dakota*
+28,4028,*Faunas--Eocene*,*marsupial, Patagonia*
+28,4037,*Faunas--Quaternary*,*mammals, Moravia*
+28,4039,*Faunas -- Quaternary -- Cave Faunas*,*Cuon, Russia*
+28,4042,*Faunas--Oligocene*,*fishes, N. Caucasus*
+28,4043,*Faunas--Permian*,*general*
+28,4044,*Faunas--Triassic*,*general*
+28,4045,*Faunas--Permian*,*general*
+28,4046,*Faunas--Quaternary*,*mammals, New York*
+28,4095,*Faunas--Triassic*,*environment, Germany*
+28,4097,*Faunas--Quaternary*,*mammals, Germany*
+28,4105,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Segovia, Spain*
+28,4106,*Faunas--Triassic*,*Spain*
+28,4111,*Faunas--Eocene*,*France*
+28,4115,*Faunas--Jurassic*,*marine reptile, Germany*
+28,4122,*Faunas--Pliocene*,**
+28,4123,*Faunas--Cretaceous*,*Mongolia*
+28,4123,*Faunas--Pliocene*,*Mongolia*
+28,4123,*Faunas--Quaternary*,*Mongolia*
+28,4124,*Faunas -- Quaternary -- Cave Faunas*,*Hungary*
+28,4128,*Faunas--Tertiary*,*Emydidae, Germany*
+28,4129,*Faunas--Cretaceous*,*turtles, Patagonia*
+28,4130,*Faunas--Miocene*,*turtles, Germany*
+28,4132,*Faunas--Eocene*,*general*
+28,4133,*Faunas--Miocene*,*general*
+28,4134,*Faunas--Oligocene*,*general*
+28,4135,*Faunas--Pliocene*,*general*
+28,4137,*Faunas--Tertiary*,*general*
+28,4138,*Faunas--Quaternary*,*France*
+28,4139,*Faunas--Carboniferous*,*amphibia, Ohio*
+28,4140,*Faunas--Carboniferous*,*dipnoan, Ohio*
+28,4147,*Faunas--Tertiary*,*astrapotheres, Venezuela*
+28,4149,*Faunas--Quaternary*,*mammals, island of Pianosa*
+28,4150,*Faunas--Oligocene*,*mammals, Bavaria*
+28,4151,*Faunas--Quaternary*,*mammals, Oelberg*
+28,4153,*Faunas--Oligocene*,*pentadactyl artiodactyls, Europe*
+28,4156,*Faunas--Oligocene*,*rhinocerotid, Switzerland*
+28,4158,*Faunas--Quaternary*,*Bison, Switzerland*
+28,4159,*Faunas--Tertiary*,*giraffe, Persia*
+28,4161,*Faunas--Quaternary*,*Ovibos*
+28,4162,*Faunas -- Quaternary -- Cave Faunas*,*Asinus, Europe*
+28,4163,*Faunas -- Quaternary -- Cave Faunas*,**
+28,4164,*Faunas -- Quaternary -- Cave Faunas*,*associated artifacts, Switzerland*
+28,4165,*Faunas--Quaternary*,*Java*
+28,4167,*Faunas--Quaternary*,*Irish elk, Ireland*
+28,4168,*Faunas--Devonian*,*Greenland*
+28,4169,*Faunas--Devonian*,*cephalaspids, Great Britain*
+28,4170,*Faunas--Triassic*,*fishes, Greenland*
+28,4171,*Faunas--Cretaceous*,*Canada*
+28,4172,*Faunas--Cretaceous*,*Kansas*
+28,4173,*Faunas--Quaternary*,*McKittrick, California*
+28,4174,*Faunas--Triassic*,*ichthyosaurs, British Columbia*
+28,4176,*Faunas--Cretaceous*,**
+28,4177,*Faunas--Cretaceous*,**
+28,4178,*Faunas--Miocene*,*Saskatchewan*
+28,4182,*Faunas--Paleocene*,*crocodile, Saskatchewan*
+28,4183,*Faunas--Cretaceous*,*crocodile, Alberta*
+28,4184,*Faunas--Cretaceous*,**
+28,4185,*Faunas--Cretaceous*,*dinosaur tracks, British Columbia*
+28,4186,*Faunas--Carboniferous*,*tracks, Nova Scotia*
+28,4187,*Faunas--Cretaceous*,**
+28,4189,*Faunas--Cretaceous*,*dinosaurs, Alberta*
+28,4193,*Faunas--Silurian*,*Thelodus, Canada*
+28,4207,*Faunas--Miocene*,*shrew, California*
+28,4208,*Faunas--Pliocene*,*bat, Arizona*
+28,4209,*Faunas--Pliocene*,*antelope, Nevada*
+28,4210,*Faunas--Pliocene*,*beavers, Nevada*
+28,4211,*Faunas--General*,*mammals, Miocene and Pliocene, Nevada*
+28,4213,*Faunas--Pliocene*,*artiodactyl, Texas*
+28,4215,*Faunas--Pliocene*,*Osteoborus, North America*
+28,4217,*Faunas--Pliocene*,*mammals, America and Asia*
+28,4218,*Faunas--General*,*mammals, with invertebrates, California*
+28,4219,*Faunas--Pliocene*,*Hipparion, California*
+28,4220,*Faunas--Quaternary*,*mammals, Rancho La Brea*
+28,4222,*Faunas--Miocene*,*carnivores, Oregon*
+28,4223,*Faunas -- Quaternary -- Cave Faunas*,*man and mammals, Nevada*
+28,4224,*Faunas--Miocene*,*oreodonts, California*
+28,4225,*Faunas -- Quaternary -- Cave Faunas*,*antelope, New Mexico*
+28,4226,*Faunas--Quaternary*,*birds, mammals, Rancho La Brea*
+28,4227,*Faunas--Pliocene*,*Hipparion, Oregon*
+28,4228,*Faunas--Quaternary*,*general, mammals*
+28,4229,*Faunas -- Quaternary -- Cave Faunas*,*Nevada*
+28,4230,*Faunas--Eocene*,**
+28,4231,*Faunas -- Quaternary -- Cave Faunas*,*man, mammals, New Mexico*
+28,4232,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Gypsum Cave, Nevada*
+28,4233,*Faunas--Miocene*,*mammals, California*
+28,4233,*Faunas--Oligocene*,**
+28,4234,*Faunas--Eocene*,*mammals, California*
+28,4235,*Faunas--Pliocene*,*Hyaenognathus, California*
+28,4236,*Faunas--Quaternary*,*Felis, California*
+28,4237,*Faunas--Oligocene*,*mammals, California*
+28,4238,*Faunas -- Quaternary -- Cave Faunas*,*antelopes, New Mexico*
+28,4239,*Faunas--Eocene*,*amynodont, California*
+28,4240,*Faunas--Oligocene*,*carnivora, California*
+28,4241,*Faunas--Eocene*,*primate, California*
+28,4242,*Faunas--Eocene*,*Hyaenodon, California*
+28,4243,*Faunas--Eocene*,*miacid, California*
+28,4244,*Faunas--Miocene*,*Pseudaelurus, Nevada*
+28,4245,*Faunas--Oligocene*,*perissodactyls, California*
+28,4246,*Faunas--Eocene*,*mammals, California*
+28,4247,*Faunas--Oligocene*,*mammals, California*
+28,4248,*Faunas--Eocene*,*carnivora, California*
+28,4251,*Faunas--Pliocene*,*mammals, California*
+28,4252,*Faunas--Mesozoic*,*Tanganyika*
+28,4252,*Faunas--Permian*,*Reptilia, Tanganyika*
+28,4252,*Faunas--Triassic*,*reptile localities, Tanganyika*
+28,4253,*Faunas--Triassic*,*fish, Germany*
+28,4257,*Faunas--Tertiary*,*Equidae, dentition*
+28,4258,*Faunas--Jurassic*,*dinosaur, Oklahoma*
+28,4259,*Faunas--Cretaceous*,*fish, Texas*
+28,4266,*Faunas--Paleozoic*,*fish*
+28,4272,*Faunas--Quaternary*,*mammals, Bavaria*
+28,4273,*Faunas--Quaternary*,*muskox, Germany*
+28,4274,*Faunas--Miocene*,*mammals, Germany*
+28,4276,*Faunas--Eocene*,*fishes and reptiles, Egypt*
+28,4277,*Faunas--Miocene*,*mammals, Germany*
+28,4281,*Faunas--Pliocene*,*mammals, W. Africa*
+28,4282,*Faunas--Cretaceous*,**
+28,4283,*Faunas--Tertiary*,*mammals, Sunda islands*
+28,4284,*Faunas--Tertiary*,*marsupial, S. Africa*
+28,4286,*Faunas--Cretaceous*,*dinosaurs, Egypt*
+28,4287,*Faunas--Cretaceous*,*Crocodilia, Egypt*
+28,4288,*Faunas--Pliocene*,*mammals, Bavaria*
+28,4289,*Faunas--Cretaceous*,*Egypt*
+28,4293,*Faunas--Quaternary*,*mammals, Africa*
+28,4294,*Faunas--Quaternary*,*mammals, Czecho-Slovakia*
+28,4296,*Faunas--Miocene*,*otoliths, Czecho-Slovakia*
+28,4300,*Faunas--Permian*,**
+28,4302,*Faunas--Paleozoic and Mesozoic*,*Tetrapoda, Russia*
+28,4303,*Faunas--Permian*,*Permocynodon, U. S. S. R.*
+28,4306,*Faunas--Triassic*,*fish, England*
+28,4310,*Faunas--Devonian*,*fish, England*
+28,4311,*Faunas--Tertiary*,*reptiles, Venezuela*
+28,4312,*Faunas--Cretaceous*,*dinosaur, Alberta*
+28,4314,*Faunas--Jurassic*,**
+28,4315,*Faunas--Jurassic*,*ichthyosaur, Germany*
+28,4316,*Faunas--Jurassic*,*plesiosaur, England*
+28,4317,*Faunas--Cretaceous*,*mosasaur, Nigeria*
+28,4317,*Faunas--Eocene*,*reptiles, Nigeria*
+28,4322,*Faunas--Miocene*,*faunal lists, Hungary*
+28,4323,*Faunas--Miocene*,*turtle, Hungary*
+28,4324,*Faunas--Miocene*,*Dinotherium, Hungary*
+28,4325,*Faunas--Oligocene*,*turtle, Mongolia*
+28,4327,*Faunas--Pliocene*,*turtle, Samos*
+28,4328,*Faunas--Tertiary*,*turtles, Hungary*
+28,4331,*Faunas--Miocene*,*snakes, Hungary*
+28,4335,*Faunas--Cretaceous*,*trachodont teeth, northern Mexico*
+28,4340,*Faunas -- Quaternary -- Cave Faunas*,*mammals and man, England*
+28,4341,*Faunas--Pliocene*,*fish, China*
+28,4347,*Faunas--Quaternary*,*man, Arkansas*
+28,4350,*Faunas--Paleozoic*,*glaciation*
+28,4356,*Faunas--Jurassic*,*fish, reptiles, France*
+28,4369,*Faunas--Ordovician*,*ostracoderms, Wyoming*
+28,4369,*Faunas--Paleozoic*,*ostracoderms, Wyoming*
+28,4370,*Faunas--Permian*,*U. S. S. R.*
+28,4376,*Faunas--Devonian*,*West Virginia*
+28,4377,*Faunas--Permian*,*tracks, West Virginia*
+28,4378,*Faunas--Carboniferous*,*fishes, West Virginia*
+28,4380,*Faunas--Oligocene*,*mammal, Mongolia*
+28,4381,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Australia*
+28,4384,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Korea*
+28,4388,*Faunas--Quaternary*,*man, mammals, Manchukuo*
+28,4392,*Faunas--Miocene*,*marine, Colombia*
+28,4393,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Venosa*
+28,4409,*Faunas--Eocene*,*Diatryma*
+28,4414,*Faunas -- Quaternary -- Cave Faunas*,*birds, Palaearctic*
+28,4414,*Faunas--Quaternary*,*avifauna, Siberia*
+28,4418,*Faunas--Quaternary*,*mastodon and man, Ecuador*
+28,4423,*Faunas -- Quaternary -- Cave Faunas*,*human footprints, France*
+28,4441,*Faunas--Miocene*,*dog, California*
+28,4442,*Faunas--Pliocene*,**
+28,4443,*Faunas--Pliocene*,*mammals, California*
+28,4469,*Faunas -- Quaternary -- Cave Faunas*,*cave bears, U. S. S. R.*
+28,4473,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+28,4496,*Faunas--Miocene*,*mammals, Spain*
+28,4499,*Faunas--Oligocene*,**
+28,4500,*Faunas--Miocene*,**
+28,4502,*Faunas--Oligocene*,*mammals, France*
+28,4505,*Faunas--Miocene*,*carnivores, France*
+28,4506,*Faunas--Pliocene*,*mammals, France*
+28,4518,*Faunas--Jurassic*,*Germany, general*
+28,4520,*Faunas--Mesozoic*,*fishes of Australia*
+28,4522,*Faunas--Triassic*,**
+28,4523,*Faunas--Triassic*,*fishes, Australia*
+28,4524,*Faunas--Tertiary*,*India*
+28,4529,*Faunas--Quaternary*,*Neckarlande*
+28,4533,*Faunas--Oligocene*,*rabbits*
+28,4540,*Faunas--Eocene*,*Geiseltal, Germany*
+28,4541,*Faunas--Eocene*,*Geiseltal, Germany*
+28,4544,*Faunas--Miocene*,**
+28,4545,*Faunas--Miocene*,*rhinoceroses, Germany*
+28,4546,*Faunas--Quaternary*,**
+28,4547,*Faunas--Quaternary*,*mammals, China*
+28,4551,*Faunas--General*,*Florida*
+28,4555,*Faunas--Triassic*,*fishes, Texas*
+28,4577,*Faunas--Permian*,*validity of "Permian"*
+28,4578,*Faunas--Mesozoic*,*Tanganyika*
+28,4580,*Faunas--Devonian*,**
+28,4587,*Faunas--Jurassic*,*Tithonian, Argentina*
+28,4588,*Faunas--Quaternary*,*mammals, Germany*
+28,4593,*Faunas--Carboniferous*,**
+28,4594,*Faunas--Carboniferous*,*fishes, Germany*
+28,4595,*Faunas--Oligocene*,*cervid, Germany*
+28,4612,*Faunas--Triassic*,*fish, Germany*
+28,4615,*Faunas--Eocene*,*Geiseltal, Germany*
+28,4622,*Faunas--Permian*,*Palaeochamaeleo*
+28,4623,*Faunas--Eocene*,*Cecilie mine, Germany*
+28,4624,*Faunas--Eocene*,**
+28,4627,*Faunas--Quaternary*,**
+28,4628,*Faunas--Eocene*,*Geiseltal, Germany*
+28,4630,*Faunas--Quaternary*,*mammals, tar-pit, Poland*
+28,4631,*Faunas--Eocene*,*Geiseltal, Germany*
+28,4635,*Faunas--Oligocene*,**
+28,4638,*Faunas--Eocene*,*fish, N. Egypt*
+28,4640,*Faunas--Oligocene*,**
+28,4642,*Faunas--Quaternary*,*mammals, Germany*
+28,4643,*Faunas--Oligocene*,**
+28,4644,*Faunas--Oligocene*,*fish, Germany*
+28,4647,*Faunas--Cretaceous*,*fish, Timor*
+28,4649,*Faunas--Oligocene*,*fish, Hungary*
+28,4683,*Faunas--Jurassic*,**
+28,4684,*Faunas--Jurassic*,*fish, Germany*
+28,4688,*Faunas--Miocene*,*fish, Germany*
+28,4696,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Germany*
+28,4699,*Faunas--Quaternary*,*mammals, Rhine Valley*
+28,4702,*Faunas -- Quaternary -- Cave Faunas*,*cave man, Europe*
+28,4716,*Faunas--Miocene*,*birds, Nebraska*
+28,4717,*Faunas--Miocene*,*birds, California*
+28,4718,*Faunas--Quaternary*,**
+28,4719,*Faunas -- Quaternary -- Cave Faunas*,**
+28,4720,*Faunas -- Quaternary -- Cave Faunas*,**
+28,4722,*Faunas--Quaternary*,*birds, Florida*
+28,4726,*Faunas--Oligocene*,**
+28,4727,*Faunas--Oligocene*,*birds, Wyoming*
+28,4732,*Faunas--Pliocene*,*birds, Idaho*
+28,4739,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Austria*
+28,4741,*Faunas--Cretaceous*,*fish, reptiles, Chile*
+28,4746,*Faunas--Quaternary*,*general, Ireland*
+28,4749,*Faunas--Permian*,*West Virginia*
+28,4750,*Faunas--Permian*,*footprints, Arizona*
+28,4753,*Faunas--Devonian*,*fish, Scotland*
+28,4757,*Faunas--Triassic*,*fish, Madagascar*
+28,4758,*Faunas--Eocene*,*fish, England*
+28,4771,*Faunas--Quaternary*,*mammals, Alaska*
+28,4773,*Faunas--Carboniferous*,*footprints, Rhode Island*
+28,4778,*Faunas--General*,*Alberta and Saskatchewan*
+28,4782,*Faunas--Quaternary*,*mamals, California*
+28,4784,*Faunas--Cenozoic*,*mammals, Idaho*
+28,4787,*Faunas--Cretaceous*,*dinosaurs, Shantung*
+28,4789,*Faunas--General*,*turtles, China*
+28,4791,*Faunas--Cretaceous*,**
+28,4792,*Faunas--Cretaceous*,**
+28,4793,*Faunas--Cretaceous*,**
+28,4794,*Faunas--Cretaceous*,*dinosaurs, New Mexico*
+28,4796,*Faunas--Cretaceous*,*turtles, New Mexico*
+28,4797,*Faunas--General*,*World*
+28,4798,*Faunas--Cenozoic*,*mammals, Kansas*
+28,4802,*Faunas--Miocene*,*frogs, Germany*
+28,4805,*Faunas--Miocene*,*rodents, Florida*
+28,4810,*Faunas--General*,*Argentina*
+28,4813,*Faunas--Oligocene*,**
+28,4817,*Faunas--Oligocene*,*rhinoceroses, North America*
+28,4822,*Faunas--Pliocene*,*California*
+28,4822,*Faunas--Quaternary*,*California*
+28,4832,*Faunas--Quaternary*,*dwarf elephants, Sicily and Malta*
+28,4849,*Faunas--Quaternary*,*man and associated faunas, general*
+28,4853,*Faunas--Tertiary*,*fishes, England, Australia, Argentina*
+28,4857,*Faunas--Mesozoic*,*general*
+28,4861,*Faunas--Cretaceous*,*fishes, Japan*
+28,4864,*Faunas--Quaternary*,*mammals, China*
+28,4867,*Faunas -- Quaternary -- Cave Faunas*,*mammals, China*
+28,4872,*Faunas--Tertiary*,*rodents, China*
+28,4874,*Faunas--Cretaceous*,*dinosaurs, Mongolia*
+28,4875,*Faunas--Quaternary*,*Artiodactyla, China*
+28,4876,*Faunas--Quaternary*,**
+28,4877,*Faunas--Quaternary*,*mammals, China*
+28,4880,*Faunas -- Quaternary -- Cave Faunas*,*mammals, China*
+28,4891,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Germany*
+28,4897,*Faunas--Oligocene*,*fish, Germany*
+28,76,*Faunas--Cretaceous*,*Laosaurus, Montana*
+28,109,*Faunas--Quaternary*,**
+28,120,*Faunas--Quaternary*,*man and mammals, Rome*
+28,286,*Faunas--Quaternary*,**
+28,287,*Faunas--Miocene*,*Sahelian of Oran*
+28,314,*Faunas--Miocene*,**
+28,315,*Faunas--Pliocene*,*mammals, Roussillon*
+28,316,*Faunas--Oligocene*,**
+28,317,*Faunas--Quaternary*,**
+28,318,*Faunas--Quaternary*,**
+28,319,*Faunas--Quaternary*,**
+28,320,*Faunas--Eocene*,**
+28,321,*Faunas--Miocene*,**
+28,322,*Faunas--Pliocene*,*gazelle, France*
+28,323,*Faunas--Miocene*,**
+28,324,*Faunas--Jurassic*,*ichthyosaur, France*
+28,325,*Faunas--Quaternary*,*France*
+28,326,*Faunas--Eocene*,**
+28,327,*Faunas--Eocene*,*crocodile, France*
+28,328,*Faunas--Miocene*,**
+28,329,*Faunas--Miocene*,**
+28,329,*Faunas--Oligocene*,*mammals, France*
+28,330,*Faunas--Miocene*,*mammals, France*
+28,331,*Faunas--Eocene*,*France*
+28,335,*Faunas--Mesozoic*,**
+28,359,*Faunas--Quaternary*,*Castoroides, Illinois*
+28,398,*Faunas--Quaternary*,**
+28,406,*Faunas--Miocene*,*Dinotherium, Spain*
+28,421,*Faunas--Quaternary*,*man*
+28,423,*Faunas--Quaternary*,*Italy*
+28,424,*Faunas--Quaternary--Cave Faunas*,*man, Fance*
+28,447,*Faunas--Quaternary*,**
+28,448,*Faunas--Quaternary*,*mammals, Siberia*
+28,463,*Faunas--Triassic*,**
+28,472,*Faunas--Quaternary*,*Elephas, Norway*
+28,483,*Faunas--General*,*Mongolia*
+28,487,*Faunas--Quaternary*,*Elephas, Holland*
+28,488,*Faunas--Pliocene*,*Macacus, Netherlands*
+28,489,*Faunas--Quaternary*,*Sus, Holland*
+28,504,*Faunas--General*,*Brazil*
+28,538,*Faunas--Pliocene*,*China*
+28,538,*Faunas--Quaternary--Cave Faunas*,*China*
+28,539,*Faunas--Quaternary*,*Mastodon, California*
+28,582,*Faunas--Pliocene*,*Argentina*
+28,596,*Faunas--Quaternary*,*Spelaearctos, N. Caucasus*
+28,611,*Faunas--Quaternary*,*England*
+28,654,*Faunas--Quaternary*,*mammals, China*
+28,672,*Faunas--Triassic*,*Wyoming*
+28,689,*Faunas--Quaternary*,*disease, mammals, Europe*
+28,703,*Faunas--Permian*,*Amphibia, Saar*
+28,780,*Faunas--Devonian*,**
+28,812,*Faunas--Quaternary--Cave Faunas*,**
+28,813,*Faunas--Quaternary--Cave Faunas*,*England*
+28,820,*Faunas--Quaternary*,*man, mammals, China*
+28,832,*Faunas--Quaternary*,*camels, South America*
+28,834,*Faunas--Tertiary*,*ungulates, South America*
+28,836,*Faunas--Quaternary*,*man, Italy*
+28,895,*Faunas--Pliocene*,*mammals, Spain*
+28,914,*Faunas--Tertiary*,**
+28,920,*Faunas--Tertiary*,*glyptodonts, Pliocene and Miocene of South America*
+28,922,*Faunas--Quaternary*,*man, mammals, Argentine*
+28,939,*Faunas--Triassic*,*dipnoans, Russia*
+28,955,*Faunas--Tertiary*,**
+28,956,*Faunas--Tertiary*,*mammals, Orsmael*
+28,960,*Faunas--Quaternary*,*China*
+28,960,*Faunas--Tertiary*,*China*
+28,964,*Faunas--Quaternary--Cave Faunas*,*Sinanthropus*
+28,967,*Faunas--Cenozoic*,*Bovidae, China*
+28,970,*Faunas--Pliocene*,*mammals, China*
+28,988,*Faunas--Quaternary*,*Hemianthropus, Heidelberg*
+28,1028,*Faunas--General*,*distribution, theories*
+28,1040,*Faunas--Pliocene*,*Trilophodon, Nebraska*
+28,1127,*Faunas--Triassic*,**
+28,1144,*Faunas--Quaternary*,*Bos, Italy*
+28,1147,*Faunas--Quaternary*,*mammals, Poland*
+28,1154,*Faunas--Quaternary*,*Java*
+28,1157,*Faunas--Quaternary*,*Aves, Italy*
+28,1158,*Faunas--Carboniferous*,*fish, Netherlands*
+28,1163,*Faunas--Pliocene*,*monkeys, France*
+28,1164,*Faunas--Pliocene*,*primates, Se%Jne%Cze*
+28,1183,*Faunas--Oligocene*,*Palaeolagus, Wyoming*
+28,1210,*Faunas--Cenozoic*,*Microsuchus, Argentine*
+28,1211,*Faunas--Miocene*,*Jacaretinga, Argentina*
+28,1277,*Faunas--Mesozoic*,*Gondwana*
+28,1313,*Faunas--Permian*,**
+28,1313,*Faunas--Triassic*,**
+28,1314,*Faunas--Cretaceous*,*dinosaurs, Turkestan*
+28,1314,*Faunas--Permian*,**
+28,1314,*Faunas--Triassic*,**
+28,1320,*Faunas--Quaternary*,*Mustela, Europe*
+28,1322,*Faunas--Quaternary*,*Ovibos, Asia*
+28,1385,*Faunas--Quaternary*,*man, prehistory*
+28,1386,*Faunas--Quaternary*,*Italy*
+28,1462,*Faunas--Quaternary*,*Pithecanthropus*
+28,1524,*Faunas--Quaternary*,*Eoanthropus, England*
+28,1543,*Faunas--Quaternary--Cave Faunas*,**
+28,1544,*Faunas--Quaternary--Cave Faunas*,*mammals, Hungary*
+28,1545,*Faunas--Quaternary*,*proboscideans, Hungary*
+28,1546,*Faunas--Quaternary*,*mammals, Hungary*
+28,1607,*Faunas--Quaternary*,*Oldoway fauna*
+28,1656,*Faunas--Quaternary*,*man, Krapina*
+28,1670,*Faunas--Pliocene*,*auk, California*
+28,1789,*Faunas--Tertiary*,*mustelids, North America*
+28,1806,*Faunas--Quaternary--Cave Faunas*,*Gypsum Cave, Nevada*
+28,1809,*Faunas--Quaternary--Cave Faunas*,*man, mammals, Nevada*
+28,1816,*Faunas--Triassic*,*amphibians and reptiles, Russia*
+28,1896,*Faunas--Pliocene*,**
+28,1942,*Faunas--Oligocene*,*bird tracks, Spain*
+28,1958,*Faunas--Quaternary*,*Sinanthropus*
+28,2001,*Faunas--Miocene*,*Kenya*
+28,2029,*Faunas--Quaternary*,*birds, Rancho La Brea*
+28,2046,*Faunas--Quaternary*,*early man, and mammals*
+28,2088,*Faunas--Mesozoic*,*Saurischia*
+28,2092,*Faunas--Mesozoic*,*Crocodilia*
+28,2093,*Faunas--Mesozoic*,*Gondwana Land*
+28,2113,*Faunas--Permian*,*fish, Brazil*
+28,2113,*Faunas--Triassic*,*fish, Brazil*
+28,2117,*Faunas--Cenozoic*,*paleogeography*
+28,2131,*Faunas--Quaternary*,*rhinoceros, Germany*
+28,2136,*Faunas--Jurassic*,*Protornis, bird tracks, Eichsta%Fdt*
+28,2152,*Faunas--Devonian*,*fishes, Czecho-Slovakia*
+28,2207,*Faunas--Quaternary*,*N. Africa*
+28,2208,*Faunas--Quaternary*,*whale, France*
+28,2228,*Faunas--Triassic*,*Germany*
+28,2246,*Faunas--Carboniferous*,*Proamphibia, Russia*
+28,2246,*Faunas--Devonian*,*Proamphibia, Russia*
+28,2248,*Faunas--Quaternary*,*antelope, Transbaikal*
+28,2262,*Faunas--Quaternary--Cave Faunas*,*mammalia, Kent's Cavern*
+28,2263,*Faunas--Quaternary--Cave Faunas*,*mammalia, Kent's Cavern*
+28,2293,*Faunas--Devonian*,*ostracoderms, Spitzbergen*
+28,2333,*Faunas--Paleozoic and Mesozoic*,*tracks, Cornberg sandstone, Germany*
+28,2409,*Faunas--Pliocene*,**
+28,2472,*Faunas--Tertiary*,*Balkans*
+28,2478,*Faunas--Paleozoic and Mesozoic*,*labyrinthodonts, Volga region*
+28,2483,*Faunas--Quaternary*,*Bos, Europe*
+28,2526,*Faunas--Devonian*,**
+28,2527,*Faunas--Devonian*,*fishes, France*
+28,2529,*Faunas--Quaternary*,**
+28,2542,*Faunas--Triassic*,*tracks, Germany*
+28,2560,*Faunas--Quaternary*,*hippopotamus, Italy*
+28,2562,*Faunas--Quaternary*,*fishes, Switzerland*
+28,2586,*Faunas--Tertiary*,*salamanders, Bohemia*
+28,2603,*Faunas--Miocene*,*marine vertebrates, California*
+28,2618,*Faunas--Oligocene*,**
+28,2621,*Faunas--Miocene*,**
+28,2725,*Faunas--Quaternary--Cave Faunas*,*fish, mammals, N. Africa*
+28,2733,*Faunas--Devonian*,**
+28,2734,*Faunas--Devonian*,*Dinichthys, Belgium*
+28,2735,*Faunas--Devonian*,*Pteraspis, Belgium*
+28,2767,*Faunas--Quaternary*,*Sus, Japan*
+28,2768,*Faunas--Quaternary*,*culture sites, Japan*
+28,2808,*Faunas--Paleocene*,*Gashato, Mongolia*
+28,3049,*Faunas--Carboniferous*,*fishes, Greenland*
+28,3085,*Faunas--Quaternary*,*elephant molar, Denmark*
+28,3272,*Faunas--General*,*Tanganyika*
+28,3273,*Faunas--Quaternary--Cave Faunas*,*mammals, birds, artifacts, England*
+28,3290,*Faunas--Tertiary*,*fishes, Rumania*
+28,3322,*Faunas--Cenozoic*,*Corsica*
+28,3323,*Faunas--Quaternary*,*mammals, Spain*
+28,3338,*Faunas--Quaternary*,*mammals, Madagascar*
+28,3383,*Faunas--General*,*mammals, China*
+28,3388,*Faunas--Eocene*,*artiodactyls, Burma*
+28,3394,*Faunas--Miocene*,*Bovidae, Europe*
+28,3412,*Faunas--Eocene*,*crocodilian, Africa*
+28,3478,*Faunas--Quaternary*,*Rhodesian man, associated vertebrates*
+28,3615,*Faunas--Pliocene*,*Alces, France*
+28,3624,*Faunas--Quaternary*,*general*
+28,3647,*Faunas--Quaternary*,*proboscidean tusk, Iowa*
+28,3649,*Faunas--Cretaceous*,*Spain*
+28,3650,*Faunas--Pliocene*,*mammals, Spain*
+28,3672,*Faunas--Cenozoic*,*Myocastor, South America*
+28,3745,*Faunas--Pliocene*,*Africa*
+28,3745,*Faunas--Quaternary*,*Africa*
+28,3760,*Faunas--Devonian*,**
+28,3761,*Faunas--Devonian*,**
+28,3763,*Faunas--Devonian*,*Greenland*
+28,3807,*Faunas--Triassic*,**
+28,3808,*Faunas--Triassic*,*Germany*
+28,3889,*Faunas--Miocene*,*Germany*
+28,3889,*Faunas--Quaternary*,*Wu%Frttemberg*
+28,3911,*Faunas--Quaternary*,*elephant, Portugal*
+28,3941,*Faunas--Miocene*,*sirenian, Austria*
+28,3952,*Faunas--Quaternary--Cave Faunas*,*mammals, chiefly cave bears, Europe*
+28,3960,*Faunas--Cenozoic*,*Camelidae, Rumania*
+28,3960,*Faunas--Quaternary*,*Camelidae, Rumania*
+28,3960,*Faunas--Tertiary*,*Camelidae, Rumania*
+28,3961,*Faunas--Pliocene*,*Rumania*
+28,4029,*Faunas--Miocene*,*birds, South America*
+28,4100,*Faunas--Miocene*,*Pontian of Tunis*
+28,4119,*Faunas--Quaternary*,**
+28,4120,*Faunas--Quaternary*,**
+28,4121,*Faunas--Quaternary*,*mastodon, Ecuador*
+28,4136,*Faunas--Quaternary*,*general*
+28,4143,*Faunas--Quaternary*,**
+28,4144,*Faunas--Quaternary*,*proboscidea, Czecho-Slovakia*
+28,4145,*Faunas--Quaternary*,*man, vertebrates, Czecho-Slovakia*
+28,4160,*Faunas--Oligocene*,*mammals, Germany*
+28,4206,*Faunas--Pliocene*,*Procamelus, Nevada*
+28,4214,*Faunas--Pliocene*,*mammals, California*
+28,4216,*Faunas--Quaternary*,*tapir, California*
+28,4249,*Faunas--Quaternary*,*Elephas, California*
+28,4250,*Faunas--Pliocene*,*Eomellivora, California*
+28,4251,*Faunas--Tertiary*,*mammals, California*
+28,4288,*Faunas--Pliocene*,*Bavaria*
+28,4305,*Faunas--Quaternary*,*rhinoceros, Czecho-Slovakia*
+28,4313,*Faunas--Mesozoic*,*reptiles, fish*
+28,4342,*Faunas--Quaternary*,*mammals, U. S. S. R.*
+28,4385,*Faunas--Eocene*,*Desmatotherium, Korea*
+28,4385,*Faunas--Tertiary*,*mammals, Japan and Korea*
+28,4387,*Faunas--Oligocene*,*Desmatotherium, Korea*
+28,4387,*Faunas--Quaternary*,*elephants, Tokyo*
+28,4407,*Faunas--General*,*Australia*
+28,4438,*Faunas--Tertiary*,*Cetacea, Holland*
+28,4449,*Faunas--Cenozoic*,**
+28,4450,*Faunas--Cenozoic*,*mammals, Java*
+28,4452,*Faunas--Quaternary*,*Pithecanthropus and associated mammals*
+28,4453,*Faunas--Quaternary*,**
+28,4454,*Faunas--Quaternary*,**
+28,4455,*Faunas--Quaternary*,*horses, S. Africa*
+28,4456,*Faunas--Quaternary*,*suids, S. Africa*
+28,4457,*Faunas--Quaternary*,*artiodactyls, S. Africa*
+28,4467,*Faunas--Quaternary*,*elephants, other mamals, N. Africa*
+28,4515,*Faunas--Eocene*,*Grube Cecilie*
+28,4542,*Faunas--Triassic*,*fish, Uruguay*
+28,4630,*Faunas--Eocene*,*primates, Germany*
+28,4712,*Faunas--Eocene*,*supposed Cretaceous birds, New Jersey*
+28,4725,*Faunas--Quaternary--Cave Faunas*,*birds, New mexico*
+28,4758,*Faunas--Eocene*,*fishes, England*
+28,4764,*Faunas--Quaternary*,*Germany*
+28,4773,*Faunas--Carboniferous*,*amphibian tracks, Rhode Island*
+28,4800,*Faunas--Quaternary*,*general*
+28,4879,*Faunas--Cenozoic*,**
+28,4880,*Faunas--Cenozoic*,*China*
+28,4881,*Faunas--Cretaceous*,**
+28,4882,*Faunas--Cretaceous*,*reptiles, fishes, Bohemia*
+28,4885,*Faunas--Quaternary*,*mammals, China*
+28,4886,*Faunas--Tertiary*,*mammals, China*
+28,4887,*Faunas--Quaternary*,*mammals, birds, Bohemia*
+

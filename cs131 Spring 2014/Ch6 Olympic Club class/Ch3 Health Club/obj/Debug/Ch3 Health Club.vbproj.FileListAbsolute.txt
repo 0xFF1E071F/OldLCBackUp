@@ -1,0 +1,137 @@
+I:\Ch3 Health Club sp11\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+I:\Ch3 Health Club sp11\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+I:\Ch3 Health Club sp11\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Form1.resources
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.vbproj.GenerateResource.Cache
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+I:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+F:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+F:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+F:\Ch3 Health Club sp11\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+F:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+F:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+F:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Form1.resources
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+P:\private\CS 131 SPRING 2011\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.vbproj.GenerateResource.Cache
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Form1.resources
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+H:\Ch3 Health Club sp11wan\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Form1.resources
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+C:\Users\norko_w\Documents\Ch3 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\Ch3_Health_Club.sign_in_form.resources
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+C:\Users\norko_w\Documents\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Spring 2012\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\CS131 Spring 2012\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\CS131 Spring 2012\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.read.1.tlog
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\obj\Debug\ResGen.write.1.tlog
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+H:\Ch6 Health Club Fall 11 class\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+P:\private\cs131 fall2012 class\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\cs131 fall2012 class\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\cs131 fall2012 class\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\private\CS131 Spring 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\CS131 Spring 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\CS131 Spring 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+E:\Ch6 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+E:\Ch6 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+E:\Ch6 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\private\CS131 Spring_fall 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\CS131 Spring_fall 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\CS131 Spring_fall 2013\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\private\CS131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\private\CS131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\private\CS131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.SplashScreen1.resources
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.vbproj.GenerateResource.Cache
+P:\cs131Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.LoginForm1.resources
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.exe
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.xml
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.pdb
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.exe
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.pdb
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\bin\Debug\Ch3 Health Club.xml
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.LoginForm1.resources
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Purchase_form.resources
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.Resources.resources
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3_Health_Club.SplashScreen1.resources
+P:\cs131 Spring 2014\Ch6 Olympic Club class\Ch3 Health Club\obj\Debug\Ch3 Health Club.vbproj.GenerateResource.Cache

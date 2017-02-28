@@ -1,0 +1,110 @@
+﻿/* this is calender table
+*/
+table tr td.datetitle{
+border-left:1px solid black;
+border-top:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:28%;
+}
+table tr td.contitle{
+border-left:1px solid black;
+border-top:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:12%;
+}
+table tr td.buttitle{
+border-left:1px solid black;
+border-top:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:10%;
+}
+table tr td.nametitle{
+border:1px solid black;
+text-align:center;
+width:40%;
+}
+/* this is calender table
+*/
+table tr td.date{
+border-left:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:28%;
+}
+table tr td.con{
+border-left:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:12%;
+}
+table tr td.but{
+border-left:1px solid black;
+border-bottom:1px solid black;
+text-align:center;
+width:10%;
+}
+table tr td.name{
+border-left:1px solid black;
+border-right:1px solid black;
+border-bottom:1px solid black;
+text-align:left;
+width:40%;
+word-wrap:break-word;
+word-break:keep-all;
+}
+body{
+text-align:center;
+color:#000000;
+background:#aaa111;
+}
+
+div.reg{
+text-align:left;
+color:#000000;
+background:#aaa111;
+}
+div.header{
+height: 100px; width: 100%
+text-align:center;
+background:#880000;
+}
+
+div.footer{
+height: 100px; width: 100%
+text-align:center;
+background:#880000;
+}
+
+body,input,textarea{
+font-size:16px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+text-align:center;
+font-size:40px;
+font-family:Berlin San FB;
+}
+
+.footer{
+font-size:14px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.line{
+    padding: 0 0 0;
+    margin: 0px 0;
+    line-height: 2px;
+
+    border-left: 100% solid #ddd;
+    border-right:100% solid #ddd;
+    text-align: center;
+}
+
+.login {
+   width :300px;
+  }
+	

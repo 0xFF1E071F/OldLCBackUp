@@ -1,0 +1,36 @@
+int height( BTN<D>* node)
+{
+	if (node != NULL)
+		return height(node->left_) + height(node->right_ )+1;
+}
+list<K> BST:: treeToSortedList()
+{
+	list<K> tmp;
+	preorder(node,tmp);
+	return tmp;
+}
+void preorder(BTN* n,list<K> l)
+{
+	l.push_back(n->value);
+	preorder(n->left_, l);
+	preorder(n->right_, l);
+}
+
+bool lookup(K& key)
+{
+	return look(root_,key);
+}
+
+bool look(BST* n, key)
+{
+	if(n!=null)
+	{
+		if(n->key<key)
+		{
+			look(n->right_, key)
+		}
+		else if(n->key>key)
+			look(n->left_, key)
+	}
+	return n!=NULL;
+}

@@ -1,0 +1,72 @@
+//Yu Fu
+//CS385 HW5
+//2014-9-29
+
+/*create a new dataBase*/
+
+/*use it*/
+
+
+/*create 4 tables*/
+/*Users table:
+  include user information and id as primary key*/ 
+/*Posts table
+  include all posted content and tital connect with foreign key to other tables*/  
+/*text table
+  include all text that posted, text_id is PK*/ 
+/*Tags table
+  include all tags with tag_id as pk*/
+
+
+/*Create table, Insert into values and print */
+CREATE DATABASE collectLikes;
+USE collectLikes;
+
+CREATE TABLE Users(
+  user_id INT NOT NULL AUTO_INCREMENT,
+  username VARCHAR(20) NOT NULL,
+  password VARCHAR(40) NOT NULL,
+  regdate DATETIME NOT NULL,
+  PRIMARY KEY (user_id)
+  );
+CREATE TABLE Text (
+  text_id INT NOT NULL AUTO_INCREMENT,
+  text TEXT,
+  PRIMARY KEY (text_id)
+  );
+CREATE TABLE Tags (
+  tag_id INT NOT NULL AUTO_INCREMENT,
+  tagname CHAR(250),
+  PRIMARY KEY (tag_id)
+  );
+CREATE TABLE Posts (
+  post_id INT NOT NULL AUTO_INCREMENT,
+  title TEXT,
+  text_id INT NOT NULL,
+  tag_id INT NOT NULL,
+  user_id INT NOT NULL,
+  PRIMARY KEY (post_id),
+  FOREIGN KEY (text_id) REFERENCES text(text_id) ON UPDATE CASCADE,
+  FOREIGN KEY (tag_id) REFERENCES Tags(tag_id) ON UPDATE CASCADE,
+  FOREIGN KEY (user_id) REFERENCES Users(user_id) ON UPDATE CASCADE
+  );
+INSERT INTO Users(username,password) VALUES ('userFu','passwordFu');
+INSERT INTO Text(text) VALUES ('this is some text');
+INSERT INTO Tags(tagname) VALUES ('TNOne');
+INSERT INTO Posts(title,text_id,tag_id,user_id) VALUES ('title1',1,1,1);
+
+INSERT INTO Users(username,password) VALUES ('fu','yu');
+INSERT INTO Text(text) VALUES ('this is some text');
+INSERT INTO Tags(tagname) VALUES ('TNOne');
+INSERT INTO Posts(title,text_id,tag_id,user_id) VALUES ('title1',2,2,2);
+
+SELECT Posts.post_id,Posts.title,Users.username,Users.password,Tags.tagname,Text.text 
+	FROM Users JOIN Posts JOIN Text JOIN Tags where Users.user_id=Posts.user_id 
+	AND Posts.text_id=Text.text_id AND Posts.tag_id=Tags.tag_id;
+	
++---------+--------+----------+------------+---------+-------------------+
+| post_id | title  | username | password   | tagname | text              |
++---------+--------+----------+------------+---------+-------------------+
+|       1 | title1 | userFu   | passwordFu | TNOne   | this is some text |
++---------+--------+----------+------------+---------+-------------------+
+1 row in set (0.00 sec)

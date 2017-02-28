@@ -1,0 +1,2831 @@
+93,10,*Speakman, J. R.*,**,**
+93,20,*Ruben, John*,**,**
+93,30,*Yefimov, V. M.*,*Efimov, V. M.*,**
+93,40,*Alifanov, Vladimir Rudol'fovich*,**,**
+93,50,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,60,*Novikov, Igor' Vital'yevich*,**,**
+93,70,*Esteban, Graciela*,**,**
+93,80,*Roehler, Henry W.*,**,**
+93,90,*Anonymous*,**,**
+93,100,*Russell, Donald E.*,*Russell, D. E.*,**
+93,110,*Scarlett, Ron*,**,**
+93,120,*Glassman, Susan*,**,**
+93,121,*Bolt, Eugene A., Jr.*,**,**
+93,121,*Spamer, Earle E.*,**,**
+93,130,*Cheng Xinmin*,**,**
+93,131,*Chen Quanjia*,**,**
+93,140,*Sakamoto, Kazuo*,**,*Y*
+93,141,*Ueno, Teruya*,*Uyeno, Teruya*,**
+93,150,*Tomida, Yukimitsu*,**,**
+93,151,*O%Ntsuka, Hiroyuki*,**,**
+93,160,*Sakamoto, Kazuo*,**,**
+93,161,*Ueno, Teruya*,*Uyeno, Teruya*,**
+93,170,*Ko%Nno, Naoki*,*Kohno, Naoki*,**
+93,171,*Tomida, Yukimitsu*,**,**
+93,180,*Ko%Fhler, Meike*,**,**
+93,190,*Gregorova%A, Ru%Hz%Jena*,**,**
+93,191,*Ml%Synarski, Marian*,**,**
+93,200,*Ueno, Teruya*,*Uyeno, Teruya*,**
+93,201,*Matsui, Nobuteru*,**,**
+93,210,*Holman, J. Alan*,**,**
+93,220,*Chure, Daniel J.*,**,**
+93,230,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+93,240,*Novikov, Igor' Vital'yevich*,**,**
+93,241,*Orlov, Aleksandr Nikolayevich*,**,**
+93,250,*Parin, Nikolay Nikolayevich*,*Parin, Nikolay N.*,**
+93,260,*Kalmykov, Nikolay Pavlovich*,**,**
+93,261,*Mashchenko, Yevgeniy Nikolayevich*,**,**
+93,270,*Aver'yanov, Aleksandr Olegovich*,*Averianov, A. O.*,**
+93,280,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,290,*Novikov, Igor' Vital'yevich*,**,**
+93,291,*Shishkin, Mikhail Aleksandrovich*,**,**
+93,300,*Kurzanov, Sergey Mikhaylovich*,**,**
+93,310,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+93,320,*Karataju%Nte%M-Talimaa, Valentina Nikolayevna*,*Karatajute-Talimaa, V. N.*,**
+93,321,*Novitskaya, Larisa Illarionovna*,**,**
+93,330,*Tesakov, Aleksey S.*,*Tesakov, A. N.*,**
+93,331,*Mashchenko, Yevgeniy Nikolayevich*,**,**
+93,340,*Parin, Nikolay Nikolayevich*,**,**
+93,350,*Tyut'kova, Lyubov' Anatol'yevna*,**,**
+93,360,*Deacon, Janette*,**,**
+93,370,*Cooke, H. Basil S.*,*Cooke, H. B. S.*,**
+93,380,*Cooke, H. Basil S.*,*Cooke, H. B. S.*,**
+93,390,*Watson, V.*,**,**
+93,400,*McKee, Jeffrey K.*,**,**
+93,410,*Berger, Lee R.*,**,**
+93,420,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+93,421,*Kieser, Julius A.*,*Kieser, J.*,**
+93,430,*Brink, James S.*,*Brink, J. S.*,**
+93,440,*Chinsamy, Anusuya*,*Chinsamy, A.*,**
+93,441,*Rubidge, Bruce S.*,*Rubidge, B. S.*,**
+93,450,*Fourie, H.*,**,**
+93,460,*Welman, Johann*,**,**
+93,461,*Flemming, Alex*,**,**
+93,470,*Thies, Detlev*,**,**
+93,471,*Mu%Fller, Arnold*,**,**
+93,480,*Cappetta, Henri*,**,**
+93,490,*Boy, Ju%Frgen A.*,**,**
+93,500,*Klembara, Jozef*,**,**
+93,510,*Munk, Wolfgang*,**,**
+93,511,*Sues, Hans-Dieter*,**,**
+93,520,*Storrs, Glenn W.*,**,**
+93,530,*Rothausen, Karlheinz*,*Rothausen, K.*,**
+93,540,*Heidtke, Ulrich*,**,**
+93,550,*Werneburg, Ralf*,**,**
+93,560,*Koufos, George D.*,**,**
+93,570,*Dauphin, Yannicke*,**,**
+93,580,*Auge%A, Marc*,**,**
+93,590,*Mourer-Chauvire%A, Ce%Acile*,**,**
+93,600,*Krause, David W.*,**,**
+93,601,*Kielan-Jaworowska, Zofia*,**,**
+93,610,*Duranthon, Francis*,**,**
+93,620,*Gheerbrant, Emmanuel*,**,**
+93,621,*Thomas, Herbert*,**,**
+93,621,*Roger, Jack*,**,**
+93,621,*S%Ben, S%Bevket*,**,**
+93,621,*al-Sulaimani, Zaher*,**,**
+93,630,*Meunier, Franc%Bois J.*,**,**
+93,631,*Gayet, Mireille*,**,**
+93,640,*Castillo Ruiz, Carolina*,**,**
+93,650,*Kotlia, Bahadur Singh*,**,**
+93,651,*Mathur, Pawnashwar Dayal*,**,**
+93,660,*Solounias, Nikos*,**,**
+93,661,*Moelleken, Sonja M. C.*,**,**
+93,670,*Williamson, Thomas E.*,**,**
+93,671,*Lucas, Spencer G.*,**,**
+93,680,*Long, Douglas J.*,**,**
+93,690,*Dashzeveg, Dembereleyin*,**,**
+93,700,*Holman, J. Alan*,**,**
+93,710,*Koufos, George D.*,**,**
+93,720,*Benvenuti, Marco*,**,**
+93,730,*Rustioni, Marco*,**,**
+93,731,*Mazza, Paul*,**,**
+93,740,*Bonfiglio, Laura*,**,**
+93,741,*Di Stefano, Giovanni*,**,**
+93,741,*Insacco, Gianni*,**,**
+93,741,*Marra, Antonella C.*,**,**
+93,750,*Gheerbrant, Emmanuel*,**,**
+93,760,*Cuny, Gilles*,**,**
+93,761,*Galton, Peter M.*,**,**
+93,770,*Gaudant, Jean*,**,**
+93,780,*Bertini, Reinaldo J.*,**,**
+93,781,*Marshall, Larry G.*,**,**
+93,781,*Gayet, Mireille*,**,**
+93,781,*Brito, Paulo Marques*,*Brito, Paolo*,**
+93,790,*Rieppel, Olivier*,**,**
+93,800,*Mo%Frs, Thomas*,**,**
+93,810,*Klima, Milan*,**,**
+93,820,*Pinna, Giovanni*,**,**
+93,830,*Macho, Gabriele A.*,*Macho, G. A.*,**
+93,831,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+93,840,*Wu Xinzhi*,**,**
+93,841,*Bra%Fuer, Gu%Fnter*,**,**
+93,850,*Zaytsev, M. V.*,**,*e*
+93,860,*Aver'yanov, Aleksandr Olegovich*,*Averiyanov, A. O.*,**
+93,870,*Tyut'kova, Lyubov' Anatol'yevna*,*Tjut'kova, L. A.*,**
+93,880,*Thenius, Erich*,**,**
+93,890,*Karl, Hans-Volker*,**,**
+93,900,*Karl, Hans-Volker*,**,**
+93,910,*Karl, Hans-Volker*,**,**
+93,920,*Karl, Hans-Volker*,**,**
+93,930,*Dalquest, Walter W.*,**,**
+93,931,*Kocurko, M. John*,**,**
+93,931,*Buzas-Stephens, Pamela*,**,**
+93,940,*Humphrey, Philip S.*,**,**
+93,941,*Pe%Afaur, Jaine E.*,**,**
+93,941,*Rasmussen, Pamela C.*,**,**
+93,950,*Schultz, Ortwin*,**,**
+93,960,*Bernor, Raymond L.*,*Bernor, R. L.*,**
+93,961,*Mittmann, Hans-Walter*,*Mittmann, H.-W.*,**
+93,961,*Ro%Fgl, Fred*,*Ro%Fgl, F.*,**
+93,970,*Lange-Badre%A, Brigitte*,**,**
+93,971,*Mathis, Christian*,**,**
+93,980,*Estravis, Carmen*,**,**
+93,981,*Russell, Donald E.*,**,**
+93,990,*Baudry, Myle%Cne*,**,**
+93,1000,*Gaudant, Jean*,**,**
+93,1010,*Ginsburg, Le%Aonard*,**,**
+93,1020,*Zapfe, Helmuth*,*Zapfe, H.*,**
+93,1030,*Gaudant, Jean*,*Gaudant, J.*,**
+93,1040,*Gliozzi, Elsa*,**,**
+93,1041,*Malatesta, Alberto*,**,**
+93,1041,*Scalone, Elena*,**,**
+93,1050,*Berman, David S.*,**,**
+93,1051,*Martens, Thomas*,**,**
+93,1060,*Morgan, Gary S.*,**,**
+93,1061,*Ottenwalder, Jose%A A.*,**,**
+93,1070,*Sues, Hans-Dieter*,**,**
+93,1071,*Baird, Donald*,**,**
+93,1071,*Olsen, Paul E.*,**,**
+93,1080,*Hook, Robert W.*,**,**
+93,1090,*Sumida, Stuart S.*,**,**
+93,1091,*Berman, David S.*,**,**
+93,1100,*Rose, Kenneth D.*,**,**
+93,1101,*Beard, K. Christopher*,**,**
+93,1101,*Houde, Peter*,**,**
+93,1110,*Burjachs, Francese*,**,**
+93,1111,*Renault-Miskovsky, Josette*,**,**
+93,1120,*Montellano Ballesteros, Marisol*,*Montellano, Marisol*,**
+93,1130,*Kova%Ac%J, Michal*,**,**
+93,1140,*Stefaniak, Krzysztof*,**,**
+93,1150,*Morgan, Gary S.*,**,**
+93,1151,*Franz, Richard*,**,**
+93,1151,*Crombie, Ronald I.*,**,**
+93,1160,*Herm, Dietrich*,**,**
+93,1170,*Ru%Fckert-U%Flku%Fmen, Neriman*,**,**
+93,1171,*Kaya, Orhan*,**,**
+93,1171,*Hottenrott, Martin*,**,**
+93,1180,*Patnaik, Rajeev*,**,**
+93,1181,*Schleich, Hans Hermann*,*Schleich, H. Herman*,**
+93,1190,*Ziegler, Reinhard*,**,**
+93,1200,*Scho%Ftz, Manfred*,**,**
+93,1210,*Bernor, Raymond L.*,*Bernor, R. L.*,**
+93,1211,*Kretzoi, Miklo%As*,*Kretzoi, M.*,**
+93,1211,*Mittmann, Hans-Walter*,*Mittmann, H.-W.*,**
+93,1211,*Tobien, Heinz*,*Tobien, H.*,**
+93,1220,*Storch, Gerhard*,**,**
+93,1230,*Wilson, Allan C.*,**,**
+93,1231,*Cann, Rebecca L.*,**,**
+93,1240,*Thorne, Alan G.*,**,**
+93,1241,*Wolpoff, Milford H.*,**,**
+93,1250,*Tattersall, Ian*,**,**
+93,1260,*Bar-Yosef, Ofer*,**,**
+93,1261,*Vandermeersch, Bernard*,**,**
+93,1270,*Vickers-Rich, Patricia*,**,**
+93,1271,*Rich, Thomas Hewitt*,**,**
+93,1280,*Milton, Katharine*,**,**
+93,1290,*Pa%Fa%Fbo, Svante*,**,**
+93,1300,*Klein, Jan*,**,**
+93,1301,*Takahata, Naoyuki*,**,**
+93,1301,*Ayala, Francisco J.*,**,**
+93,1310,*Whitelaw, Michael John*,**,**
+93,1320,*Pearson, Stuart*,**,**
+93,1321,*Dodson, John R.*,**,**
+93,1330,*Hafner, David J.*,**,**
+93,1340,*Hamilton, Thomas D.*,**,**
+93,1341,*Ashley, Gail M.*,**,**
+93,1341,*Reed, Katherine M.*,**,**
+93,1341,*Schweger, Charles E.*,**,**
+93,1350,*Acharyya, Subhrangsu Kanta*,**,**
+93,1351,*Basu, Prabir Kumar*,**,**
+93,1360,*Hope, Geoffrey*,**,**
+93,1361,*Flannery, Timothy F.*,*Flannery, Tim*,**
+93,1361,*Boeardi*,**,**
+93,1370,*Harris, Arthur H.*,**,**
+93,1380,*Miller, Barry B.*,**,**
+93,1381,*Palmer, Donald F.*,**,**
+93,1381,*McCoy, William D.*,**,**
+93,1381,*Smith, Alison J.*,**,**
+93,1381,*Colburn, Mona L.*,**,**
+93,1390,*Campy, Michel*,**,**
+93,1391,*Chaline, Jean*,**,**
+93,1400,*Tobias, Phillip V.*,**,**
+93,1401,*Vogel, John C.*,**,**
+93,1401,*Oschadleus, H. Dieter*,**,**
+93,1401,*Partridge, Timothy C.*,**,**
+93,1401,*McKee, Jeffrey K.*,**,**
+93,1410,*Miskovsky, Jean-Claude*,*Miskovsky, J.-C.*,*e*
+93,1420,*Gue%Arin, Claude*,**,**
+93,1430,*Faure, Martine*,**,**
+93,1431,*Gue%Arin, Claude*,**,**
+93,1440,*Gingerich, Philip D.*,**,**
+93,1441,*Raza, S. Mahmood*,**,**
+93,1441,*Arif, Muhammad*,**,**
+93,1441,*Anwar, Mohammad*,**,**
+93,1441,*Zhou Xiaoyuan*,**,**
+93,1450,*Gingerich, Philip D.*,**,**
+93,1460,*Gunnell, Gregg F.*,**,**
+93,1461,*Gingerich, Philip D.*,**,**
+93,1470,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+93,1480,*Bailon, Salvador*,**,**
+93,1481,*Rage, Jean-Claude*,**,**
+93,1490,*Dauphin, Yannicke*,**,**
+93,1491,*Denys, Christiane*,**,**
+93,1500,*Joglekar, P. P.*,**,**
+93,1501,*Thomas, P. K.*,**,**
+93,1510,*Kuz'min, Yaroslav V.*,*Kuzmin, Yaroslav V.*,**
+93,1520,*Joglekar, P. P.*,**,**
+93,1521,*Thomas, P. K.*,**,**
+93,1530,*Walimbe, Subhash R.*,*Walimbe, S. R.*,**
+93,1531,*Tavares, Aletha*,**,**
+93,1540,*Badam, Gyani Lal*,*Badam, G. L.*,**
+93,1550,*Holman, J. Alan*,**,**
+93,1551,*Dockery, David T., III*,**,**
+93,1551,*Case, Gerard R.*,**,**
+93,1560,*Beard, K. Christopher*,**,**
+93,1561,*Tabrum, Alan R.*,**,**
+93,1570,*Case, Gerard R.*,**,**
+93,1580,*Stringer, Gary L.*,**,**
+93,1590,*Ingram, Stephen L.*,**,**
+93,1600,*Nolf, Dirk*,**,**
+93,1601,*Dockery, David T., III*,**,**
+93,1610,*Hoffecker, John F.*,**,**
+93,1611,*Powers, W. Roger*,**,**
+93,1611,*Goebel, Ted*,**,**
+93,1620,*Morell, Virginia*,**,**
+93,1630,*Feduccia, Alan*,**,**
+93,1640,*Benton, Michael J.*,**,**
+93,1650,*Rogers, Raymond R.*,**,**
+93,1651,*Swisher, Carl C., III*,**,**
+93,1651,*Sereno, Paul C.*,**,**
+93,1651,*Monetta, Alfredo M.*,**,**
+93,1651,*Forster, Catherine A.*,**,**
+93,1651,*Marti%Anez, Ricardo N.*,**,**
+93,1660,*Culotta, Elizabeth*,**,**
+93,1670,*Eijgenraam, Felix*,**,**
+93,1680,*Van Valkenburgh, Blaire*,**,**
+93,1681,*Hertel, Fritz*,**,**
+93,1690,*Kerr, Richard A.*,**,**
+93,1700,*Morell, Virginia*,**,**
+93,1710,*Lee, Michael S. Y.*,**,**
+93,1720,*Fischman, Joshua*,**,**
+93,1730,*Dorozynski, Alexander*,**,**
+93,1740,*Fischman, Joshua*,**,**
+93,1750,*Barreto, Claudia*,**,**
+93,1751,*Albrecht, Ralph M.*,**,**
+93,1751,*Bjorling, Dale E.*,**,**
+93,1751,*Horner, John R.*,**,**
+93,1751,*Wilsman, Norman J.*,**,**
+93,1760,*Pe%Arez Lo%Apez, Alberto*,*Pe%Arez Lo%Apez, A.*,**
+93,1770,*Cuesta Ruiz-Colmenares, Miguel A%Angel*,*Cuesta Ruiz-Colmenares, M.*,**
+93,1780,*Delgado Castilla, L.*,**,**
+93,1781,*Pascual Molina, Antonio M.*,*Pascual Molina, A.*,**
+93,1781,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1790,*Guerra Mercha%An, Antonio*,*Guerra Mercha%An A.*,**
+93,1791,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1800,*Soria Mingorance, Jesu%As Miguel*,*Soria Mingorance, J. M.*,**
+93,1801,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1810,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1811,*Ferna%Andez Marti%Anez, Juan*,*Ferna%Andez, J.*,**
+93,1811,*Lo%Apez Garrido, A%Angel Carlos*,*Lo%Apez Garrido, A. C.*,**
+93,1820,*Aldana Carrasco, Elis Jose%A*,*Aldana, Elis J.*,**
+93,1830,*Aldana Carrasco, Elis Jose%A*,*Aldana Carrasco, E. J.*,**
+93,1840,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1841,*Marti%An Marti%An, Jose%A Manuel*,*Marti%An Marti%An, M.*,**
+93,1841,*Marti%An Algarra, Augusti%An*,*Marti%An Algarra, A.*,**
+93,1850,*Rui%Az Bustos, Antonio*,*Ruiz Bustos, A.*,**
+93,1851,*Pe%Arez Lo%Apez, Alberto*,*Pe%Arez Lo%Apez, A.*,**
+93,1860,*Lancis, C.*,**,**
+93,1861,*Este%Avez Rubio, Antonio*,*Este%Avez, A.*,**
+93,1870,*Mein, Pierre*,*Mein, P.*,**
+93,1871,*Marti%An Sua%Arez, Elvira*,*Marti%An Sua%Arez, E.*,**
+93,1880,*Morales Romero, Jorge*,*Morales, J.*,**
+93,1881,*Capita%An Vallvey, Francisco Javier*,*Capita%An, J.*,**
+93,1881,*Calvo Sorando, Jose%A Pedro*,*Calvo, J. P.*,**
+93,1881,*Sese%A Benito, Mari%Aa del Carmen*,*Sese%A, C.*,**
+93,1890,*Valenzuela Ferna%Andez, Marta*,*Valenzuela, M.*,**
+93,1891,*Garci%Aa-Ramos, Jose%A Carlos*,*Garci%Aa-Ramos, J. C.*,**
+93,1891,*Sua%Arez de Centi, Ce%Asar*,*Sua%Arez de Centi, C.*,**
+93,1900,*Lucas, Spencer G.*,**,**
+93,1901,*Reynolds, Robert E.*,**,**
+93,1910,*Currie, Philip J.*,*Currie, P. J.*,**
+93,1911,*Eberth, David A.*,*Eberth, D. A.*,**
+93,1920,*Jaillard, Etienne*,*Jaillard E.*,**
+93,1921,*Cappetta, Henri*,*Cappetta, H.*,**
+93,1921,*Ellenberger, Paul*,*Ellenberger, P.*,**
+93,1921,*Feist, Monique*,*Feist, M.*,**
+93,1921,*Grambast-Fessard, Nicole*,*Grambast-Fessard, N.*,**
+93,1921,*Lefranc, Jean-Philippe*,*Lefranc, J. P.*,**
+93,1921,*Sige%A, Bernard*,*Sige%A, B.*,**
+93,1930,*Duarte da Silva-Santos, Lelia*,*Duarte, L.*,**
+93,1931,*da Silva Santos, Rubens*,*Silva Santos, R.*,**
+93,1940,*Telles Antunes, Miguel*,*Telles Antunes, M.*,**
+93,1950,*Landini, Walter*,**,**
+93,1951,*Sorbini, Lorenzo*,**,**
+93,1960,*Bonifay, Marie-Franc%Boise*,**,**
+93,1970,*Alberdi Alonso, Mari%Aa Teresa*,*Alberdi, M. T.*,**
+93,1971,*Bonadonna, Francesco P.*,*Bonadonna, F. P.*,**
+93,1971,*Cerden%Eo, Esperanza*,*Cerden%Eo, E.*,**
+93,1971,*Leone, Gabriello*,*Leone, G.*,**
+93,1971,*Longinelli, Antonio*,*Longinelli, A.*,**
+93,1971,*Prado, Jose%A Luis*,*Prado, J. L.*,**
+93,1971,*Sa%Anchez Chillo%An, Begon%Ea*,*Sa%Anchez, B.*,**
+93,1971,*Tonni, Eduardo P.*,*Tonni, E. P.*,**
+93,1980,*Kimber, Ronald W. L.*,*Kimber, R. W. L.*,**
+93,1981,*Hare, P. Edgar*,*Hare, P. E.*,**
+93,1990,*Gaudant, Jean*,**,**
+93,2000,*Goujet, Daniel*,**,**
+93,2001,*Janvier, Philippe*,**,**
+93,2001,*Racheboeuf, Patrick R.*,**,**
+93,2010,*Bardet, Nathalie*,**,**
+93,2011,*Mazin, Jean-Michel*,**,**
+93,2011,*Martin, Michel*,**,**
+93,2020,*Ducrocq, Ste%Aphane*,**,**
+93,2021,*Jaeger, Jean-Jacques*,**,**
+93,2021,*Sige%A, Bernard*,**,**
+93,2030,*Sander, P. Martin*,**,**
+93,2031,*Bucher, Hugo*,**,**
+93,2040,*Gauffre, Franc%Bois-Xavier*,**,**
+93,2050,*Duffin, Christopher J.*,**,**
+93,2051,*Delsate, Dominique*,**,**
+93,2060,*Kohring, Rolf*,**,**
+93,2070,*Thies, Detlev*,**,**
+93,2080,*Nojiri-ko Excavation Research Group*,**,**
+93,2090,*Antunes, Miguel Telles*,*Antunes, M. T.*,**
+93,2091,*Sigogneau-Russell, Denise*,*Sigogneau, D.*,**
+93,2100,*Keupp, Helmut*,**,**
+93,2101,*Kohring, Rolf*,**,**
+93,2110,*Ciochon, Russell L.*,**,**
+93,2120,*Chatterjee, Sankar*,**,**
+93,2130,*Prasad, K. Narayan*,*Prasad, K. N.*,**
+93,2140,*Nanda, Avinash C.*,*Nanda, A. C.*,**
+93,2141,*Sehgal, R. K.*,**,**
+93,2150,*Dasgupta, Kasturi*,**,**
+93,2160,*Estes, Richard*,**,*e*
+93,2161,*Pregill, Gregory*,**,*e*
+93,2170,*Estes, Richard*,**,**
+93,2180,*Gauthier, Jacques A.*,**,**
+93,2181,*Estes, Richard*,**,**
+93,2181,*de Queiroz, Kevin*,**,**
+93,2190,*Carroll, Robert L.*,**,**
+93,2200,*Freudenthal, Matthijs*,*Freudenthal, M.*,*e*
+93,2210,*Daams, Remmert*,*Daams, R.*,**
+93,2211,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+93,2220,*Lacomba Andueza, Jose%A Ignacio*,**,**
+93,2230,*Daams, Remmert*,*Daams, R.*,**
+93,2231,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+93,2240,*Freudenthal, Matthijs*,**,**
+93,2241,*Daams, Remmert*,**,**
+93,2250,*de Jong, Fred*,*de Jong, F.*,**
+93,2260,*Daams, Remmert*,*Daams, R.*,**
+93,2261,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+93,2261,*van der Meulen, Albert Jan*,*van der Meulen, A. J.*,**
+93,2270,*Willemsen, Gerard F.*,*Willemsen, G. F.*,**
+93,2280,*Aguilar, Jean-Pierre*,*Aguilar, J. P.*,**
+93,2281,*Michaux, Jacques*,*Michaux, J.*,**
+93,2281,*Delannoy, J. J.*,**,**
+93,2281,*Guendon, J. L.*,**,**
+93,2290,*Morales Romero, Jorge*,*Morales, J.*,**
+93,2291,*Alcala%A Marti%Anez, Luis*,*Alcala%A, L.*,**
+93,2291,*Hoyos Go%Amez, Manuel*,*Hoyos, M.*,**
+93,2291,*Montoya Bello, Plinio*,*Montoya, P.*,**
+93,2291,*Pe%Arez, Benigno*,*Pe%Arez, B.*,**
+93,2291,*Soria, Dolores*,*Soria, D.*,**
+93,2300,*Mein, Pierre*,*Mein, P.*,**
+93,2301,*Marti%An Sua%Arez, Elvira*,*Marti%An Suarez, E.*,**
+93,2301,*Agusti%A Ballester, Jorge*,*Agusti%A, J.*,**
+93,2310,*Marti%An Sua%Arez, Elvira*,*Marti%An Sua%Arez, E.*,**
+93,2311,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+93,2320,*Agusti%A Ballester, Jorge*,*Agusti%A, J.*,**
+93,2321,*Galobart, A.*,**,**
+93,2321,*Marti%An Sua%Arez, Elvira*,*Marti%An Sua%Arez, E.*,**
+93,2330,*Montoya Bello, Plinio*,*Montoya, Plinio*,**
+93,2340,*Cvancara, Alan M.*,**,**
+93,2341,*Hoganson, John W.*,**,**
+93,2350,*Evans, Susan E.*,**,**
+93,2351,*Milner, Andrew R.*,**,**
+93,2360,*Rieppel, Olivier*,**,**
+93,2370,*Clark, James M.*,**,**
+93,2371,*Welman, Johann*,**,**
+93,2371,*Gauthier, Jacques A.*,**,**
+93,2371,*Parrish, J. Michael*,**,**
+93,2380,*Wu Xiaochun*,*Wu Xiao-Chun*,**
+93,2381,*Chatterjee, Sankar*,**,**
+93,2390,*Willis, Paul M. A.*,**,**
+93,2400,*Varricchio, David J.*,**,**
+93,2410,*Eaton, Jeffrey G.*,**,**
+93,2420,*Gebo, Daniel L.*,**,**
+93,2421,*Rose, Kenneth D.*,**,**
+93,2430,*Lucas, Spencer G.*,**,**
+93,2431,*Hunt, Adrian P.*,**,**
+93,2440,*Wu Xiaochun*,*Wu Xiao-Chun*,**
+93,2441,*Brinkman, Donald B.*,**,**
+93,2450,*Forster, Catherine A.*,**,**
+93,2451,*Sereno, Paul C.*,**,**
+93,2451,*Evans, Thomas W.*,**,**
+93,2451,*Rowe, Timothy B.*,**,**
+93,2460,*Bryant, Harold N.*,**,**
+93,2461,*Russell, Anthony P.*,**,**
+93,2470,*Livezey, Bradley C.*,**,**
+93,2480,*Laurin, Michel*,**,**
+93,2490,*White, Jennifer L.*,**,**
+93,2500,*Walton, Anne H.*,**,**
+93,2510,*Walton, Anne H.*,**,**
+93,2520,*Court, Nicholas*,**,**
+93,2530,*Wilson, Robert W.*,**,**
+93,2540,*Brinkman, Donald B.*,**,**
+93,2541,*Nicholls, Elizabeth L.*,**,**
+93,2550,*Sues, Hans-Dieter*,**,**
+93,2551,*Olsen, Paul E.*,**,**
+93,2560,*Parrish, J. Michael*,**,**
+93,2570,*Korth, William W.*,**,**
+93,2580,*Lucas, Spencer G.*,**,**
+93,2581,*Luo Zhexi*,**,**
+93,2590,*Pfretzschner, Hans-Ulrich*,**,**
+93,2600,*Hulbert, Richard C., Jr.*,**,**
+93,2610,*Hall, Jean P.*,**,**
+93,2620,*Sues, Hans-Dieter*,**,**
+93,2621,*Baird, Donald*,**,**
+93,2630,*Johanson, Zerina*,**,**
+93,2640,*Czaplewski, Nicholas*,**,**
+93,2770,*Parkes, A. S.*,**,**
+93,2780,*Doyle, Peter*,**,**
+93,2781,*Robinson, Eric*,**,**
+93,2790,*Whyte, Martin A.*,*Whyte, M. A.*,**
+93,2791,*Romano, Michael*,*Romano, M.*,**
+93,2800,*Gibbard, Philip L.*,*Gibbard, P. L.*,**
+93,2801,*West, Richard G.*,*West, R. G.*,**
+93,2801,*Zagwijn, Waldo H.*,*Zagwijn, W. H.*,**
+93,2801,*Balson, Peter S.*,*Balson, P. S.*,**
+93,2801,*Burger, A. W.*,**,**
+93,2801,*Funnell, Brian M.*,*Funnell, B. M.*,**
+93,2801,*Jeffery, Dennis H.*,*Jeffery, D. H.*,**
+93,2801,*de Jong, J.*,**,**
+93,2801,*van Kolfschoten, Thijs*,*van Kolfschoten, T.*,**
+93,2801,*Lister, Adrian M.*,*Lister, A. M.*,**
+93,2801,*Meijer, T.*,**,**
+93,2801,*Norton, P. E. P.*,**,**
+93,2801,*Preece, Richard C.*,*Preece, R. C.*,**
+93,2801,*Rose, James*,*Rose, J.*,**
+93,2801,*Stuart, Anthony J.*,*Stuart, A. J.*,**
+93,2801,*Whiteman, Colin A.*,*Whiteman, C. A.*,**
+93,2801,*Zalasiewicz, Jan Antoni*,*Zalasiewicz, J. A.*,**
+93,2810,*Derbyshire, Edward*,**,*e*
+93,2820,*Jia Lanpo*,**,**
+93,2821,*Huang Weiwan*,**,**
+93,2830,*Bahain, Jean-Jacques*,**,**
+93,2831,*Yokoyama, Yuji*,**,**
+93,2831,*Falgue%Cres, Christophe*,**,**
+93,2831,*Sarcia, Maria Neomia*,*Sarcia, Maria Noemia*,**
+93,2840,*Blackwell, Bonnie*,*Blackwell, B.*,**
+93,2841,*Porat, Naomi*,*Porat, N.*,**
+93,2841,*Schwarcz, Henry P.*,*Schwarcz, H. P.*,**
+93,2841,*Debe%Anath, Andre%A*,*Debe%Anath, A.*,**
+93,2850,*Dennison, K. John*,*Dennison, K. J.*,**
+93,2851,*Peake, B. M.*,**,**
+93,2860,*Lister, Adrian M.*,*Lister, A. M.*,**
+93,2870,*Holman, J. Alan*,**,**
+93,2880,*Peteet, Dorothy M.*,*Peteet, D. M.*,**
+93,2881,*Daniels, Robert A.*,*Daniels, R. A.*,**
+93,2881,*Heusser, Linda E.*,*Heusser, L. E.*,**
+93,2881,*Vogel, John S.*,*Vogel, J. S.*,**
+93,2881,*Southon, John R.*,*Southon, J. R.*,**
+93,2881,*Nelson, D. Erle*,*Nelson, D. E.*,**
+93,2890,*Mol, Dick*,**,**
+93,2900,*van der Brugghen, William*,*van der Brugghen, W.*,**
+93,2910,*van der Brugghen, William*,*van der Brugghen, W.*,**
+93,2920,*Vergoossen, J.*,**,**
+93,2930,*van der Brugghen, William*,*van der Brugghen, W.*,**
+93,2931,*Quack-Potteboom, E. Z. M.*,**,**
+93,2931,*Ode%A, H.*,**,**
+93,2940,*Roehler, Henry W.*,**,**
+93,2950,*Anonymous*,**,**
+93,2960,*Boy, Ju%Frgen A.*,**,**
+93,2961,*Clausing, Andreas*,**,**
+93,2961,*Schindler, Thomas*,**,**
+93,2961,*Schmidt, Dieter*,**,**
+93,2970,*Engesser, Burkart*,**,**
+93,2971,*Scha%Ffer, Peter*,**,**
+93,2971,*Schwarz, Ju%Frgen*,**,**
+93,2971,*Tobien, Heinz*,**,**
+93,2980,*Verzilin, Nikita Nikolayevich*,**,**
+93,2981,*Oknova, N. S.*,**,**
+93,2990,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+93,3000,*Panteleyev, A. V.*,*Panteleev, A. V.*,**
+93,3010,*Yerbayeva, Margarita Aleksandrovna*,*Erbaeva, M. A.*,**
+93,3011,*Belolyubskiy, Innokentiy Nikiforovich*,*Belolubski, I. N.*,**
+93,3020,*Kappelman, John*,**,**
+93,3021,*Simons, Elwyn L.*,**,**
+93,3021,*Swisher, Carl C., III*,**,**
+93,3030,*Eberth, David A.*,**,**
+93,3031,*Hamblin, Anthony P.*,**,**
+93,3040,*Nicholls, Elizabeth L.*,**,**
+93,3041,*Brinkman, Donald B.*,**,**
+93,3050,*Naylor, Bruce G.*,**,**
+93,3051,*Fox, Richard C.*,**,**
+93,3060,*Varricchio, David J.*,**,**
+93,3061,*Horner, John R.*,**,**
+93,3070,*Churcher, Charles S.*,*Churcher, C. S.*,**
+93,3071,*Morgan, Alan V.*,*Morgan, A. V.*,**
+93,3071,*Carter, L. David*,*Carter, L. D.*,**
+93,3080,*Rogers, Raymond R.*,**,**
+93,3081,*Swisher, Carl C., III*,**,**
+93,3081,*Horner, John R.*,**,**
+93,3090,*McGowan, Christopher*,*McGowan, C.*,**
+93,3100,*Mustoe, George E.*,**,**
+93,3110,*Harington, Charles R.*,*Harington, C. R.*,**
+93,3111,*Grant, Douglas R.*,*Grant, D. R.*,**
+93,3111,*Mott, Robert J.*,*Mott, R. J.*,**
+93,3120,*Storer, John E.*,**,**
+93,3130,*Bouchard, Michel A.*,*Bouchard, M. A.*,**
+93,3131,*Harington, Charles R.*,*Harington, C. R.*,**
+93,3131,*Guilbault, Jean-Pierre*,*Guilbault, J.-P.*,**
+93,3140,*Swisher, Carl C., III*,**,**
+93,3141,*Dingus, Lowell*,**,**
+93,3141,*Butler, Robert F.*,**,**
+93,3150,*Currie, Philip J.*,*Currie, P. J.*,*e*
+93,3151,*Dong Zhiming*,*Dong, Z.-M.*,*e*
+93,3151,*Russell, Dale A.*,*Russell, D. A.*,*e*
+93,3160,*Currie, Philip J.*,**,**
+93,3170,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3180,*Russell, Dale A.*,**,**
+93,3190,*Peng Jianghua*,*Peng, Jiang-Hua*,**
+93,3200,*Zhao Xijin*,*Zhao, Xi-Jin*,**
+93,3201,*Currie, Philip J.*,**,**
+93,3210,*Currie, Philip J.*,**,**
+93,3211,*Zhao Xijin*,*Zhao, Xi-Jin*,**
+93,3220,*Russell, Dale A.*,**,**
+93,3221,*Zheng Zhong*,**,**
+93,3230,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3240,*Eberth, David A.*,*Eberth, D. A.*,**
+93,3241,*Russell, Dale A.*,*Russell, D. A.*,**
+93,3241,*Braman, Dennis R.*,*Braman, D. R.*,**
+93,3241,*Deino, Alan L.*,*Deino, A. L.*,**
+93,3250,*Russell, Dale A.*,**,**
+93,3251,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3260,*Brinkman, Donald B.*,**,**
+93,3261,*Peng Jianghua*,*Peng, Jiang-Hua*,**
+93,3270,*Brinkman, Donald B.*,**,**
+93,3271,*Peng Jianghua*,*Peng, Jiang-Hua*,**
+93,3280,*Brinkman, Donald B.*,**,**
+93,3281,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3290,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3300,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3310,*Jerzykiewicz, Tomasz*,*Jerzykiewicz, T.*,**
+93,3311,*Currie, Philip J.*,*Currie, P. J.*,**
+93,3311,*Eberth, David A.*,*Eberth, D. A.*,**
+93,3311,*Johnston, Paul A.*,*Johnston, P. A.*,**
+93,3311,*Koster, Emlyn H.*,*Koster, E. H.*,**
+93,3311,*Zheng Jiajian*,*Zheng, Jia-Jian*,**
+93,3320,*Eberth, David A.*,*Eberth, D. A.*,**
+93,3330,*Brinkman, Donald B.*,**,**
+93,3331,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+93,3331,*Peng Jianghua*,*Peng, Jiang-Hua*,**
+93,3340,*Currie, Philip J.*,**,**
+93,3341,*Peng Jianghua*,*Peng, Jing-Hua*,**
+93,3350,*Currie, Philip J.*,**,**
+93,3351,*Zhao Xijin*,*Zhao, Xi-Jin*,**
+93,3360,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,3370,*Currie, Philip J.*,**,**
+93,3371,*Godfrey, Stephen J.*,**,**
+93,3371,*Nesov, Lev Aleksandrovich*,*Nessov, Lev*,**
+93,3380,*Morris, Thomas F.*,*Morris, T. F.*,**
+93,3381,*McAndrews, John H.*,*McAndrews, J. H.*,**
+93,3381,*Seymour, Kevin L.*,*Seymour, K. L.*,**
+93,3390,*Martill, David M.*,*Martill, D. M.*,**
+93,3400,*Turner, Neil S.*,**,**
+93,3410,*Dawn, Alan*,**,**
+93,3420,*Murphy, Edward C.*,**,**
+93,3421,*Hoganson, John W.*,**,**
+93,3421,*Forsman, Nels F.*,**,**
+93,3430,*Georgescu, Marius-Dan*,**,**
+93,3440,*Ra%Rdulescu, Costin*,*Ra%Rdulescu, C.*,**
+93,3441,*Samson, Petre-Mihai*,*Samson, P.-M.*,**
+93,3441,*S%Btiuca%R, Emanoil*,*Stiuca, E.*,**
+93,3441,*Enciu, Petre*,*Enciu, P.*,**
+93,3441,*Popescu, Aurelian*,*Popescu, A.*,**
+93,3450,*Ra%Rdulescu, Costin*,*Ra%Rdulescu, C.*,**
+93,3451,*Burlacu, D.*,**,**
+93,3460,*Halstead, L. Beverly*,*Tarlo Halstead, Lambert Beverly*,*e*
+93,3470,*Buffetaut, Eric*,**,**
+93,3480,*Dodson, Peter*,**,**
+93,3481,*Dawson, Susan D.*,**,**
+93,3490,*Buffetaut, Eric*,**,**
+93,3491,*Cuny, Gilles*,**,**
+93,3491,*Le Loeuff, Jean*,**,**
+93,3500,*Hunt, Adrian P.*,**,**
+93,3510,*Martill, David M.*,**,**
+93,3520,*Paul, Gregory S.*,**,**
+93,3530,*Giffin, Emily B.*,**,**
+93,3540,*Thulborn, Anthony*,*Thulborn, Tony*,**
+93,3550,*Lucas, Spencer G.*,**,**
+93,3560,*Lockley, Martin*,**,**
+93,3570,*Farlow, James O.*,**,**
+93,3571,*Brinkman, Daniel L.*,**,**
+93,3571,*Abler, William L.*,**,**
+93,3571,*Currie, Philip J.*,**,**
+93,3580,*Tanimoto, Masahiro*,*Tanimoto, M.*,**
+93,3590,*Spotila, James R.*,**,**
+93,3591,*O'Connor, Michael P.*,**,**
+93,3591,*Dodson, Peter*,**,**
+93,3591,*Paladino, Frank V.*,**,**
+93,3600,*Lingham-Soliar, Theagarten*,*Lingham-Soliar, T.*,**
+93,3610,*Sarjeant, William A. S.*,**,**
+93,3620,*Lucas, Spencer G.*,**,**
+93,3621,*Hunt, Adrian P.*,**,**
+93,3630,*Shields, Oakley*,**,**
+93,3640,*Sarjeant, William A. S.*,**,*e*
+93,3650,*Sarjeant, William A. S.*,**,**
+93,3660,*Sarjeant, William A. S.*,**,**
+93,3670,*Dietz, Linda F.*,**,**
+93,3671,*Sarjeant, William A. S.*,**,**
+93,3680,*Kielan-Jaworowska, Zofia*,**,**
+93,3690,*Janvier, Philippe*,**,**
+93,3691,*Blieck, Alain*,**,**
+93,3700,*Mark-Kurik, Elga*,**,**
+93,3710,*Novitskaya, Larisa Illarionovna*,*Novitskaya, L.*,**
+93,3720,*Turner, Susan*,**,**
+93,3721,*van der Brugghen, William*,*van der Brugghen, W.*,**
+93,3730,*Halstead, Jenny*,**,**
+93,3740,*Sarjeant, William A. S.*,**,*e*
+93,3750,*Sarjeant, William A. S.*,**,**
+93,3760,*Buffetaut, Eric*,**,**
+93,3761,*Cuny, Gilles*,**,**
+93,3761,*Le Loeuff, Jean*,**,**
+93,3770,*Cooper, John A.*,**,**
+93,3780,*Dean, Dennis R.*,**,**
+93,3790,*Halstead, L. Beverly*,*Halstead, L. B.*,**
+93,3791,*Sarjeant, William A. S.*,*Sarjeant, W. A. S.*,**
+93,3800,*Norman, David B.*,**,**
+93,3810,*Spalding, David A. E.*,**,**
+93,3820,*Torrens, Hugh S.*,**,**
+93,3830,*Sarjeant, William A. S.*,**,*e*
+93,3840,*Sarjeant, William A. S.*,**,**
+93,3850,*Ager, Derek V.*,**,**
+93,3860,*Charig, Alan J.*,**,**
+93,3870,*Chinsamy, Anusuya*,**,**
+93,3880,*Delair, Justin B.*,**,**
+93,3881,*Wimbledon, William A.*,**,**
+93,3890,*Haste, Helen*,**,**
+93,3900,*Lucas, Spencer G.*,**,**
+93,3910,*Reid, Robert Edward Hay*,*Reid, R. E. H.*,**
+93,3920,*Tresise, Geoffrey*,**,**
+93,3930,*Sarjeant, William A. S.*,**,*e*
+93,3940,*Sarjeant, William A. S.*,**,**
+93,3950,*Deeming, D. Charles*,**,**
+93,3951,*Halstead, L. Beverly*,**,**
+93,3951,*Manabe, Makoto*,**,**
+93,3951,*Unwin, David M.*,**,**
+93,3960,*Lingham-Soliar, Theagarten*,*Lingham-Soliar, T.*,**
+93,3970,*Moody, Richard T. J.*,*Moody, R. T. J.*,**
+93,3971,*Sutcliffe, P. J. C.*,**,**
+93,3980,*Storer, John E.*,**,**
+93,3990,*Thulborn, Anthony*,*Thulborn, Tony*,**
+93,3991,*Turner, Susan*,**,**
+93,4000,*Tokaryk, Tim T.*,**,**
+93,4010,*Walkden, Gordon M.*,**,**
+93,4011,*Fraser, Nicholas C.*,**,**
+93,4020,*Chinsamy, Anusuya*,**,**
+93,4030,*Dodson, Peter*,**,*e*
+93,4031,*Gingerich, Philip D.*,**,*e*
+93,4040,*Dodson, Peter*,**,**
+93,4041,*Gingerich, Philip D.*,**,**
+93,4050,*Colbert, Edwin H.*,**,**
+93,4060,*Thomson, Keith Stewart*,**,**
+93,4070,*Storrs, Glenn W.*,**,**
+93,4080,*Padian, Kevin*,**,**
+93,4081,*Rayner, Jeremy M. V.*,**,**
+93,4090,*Farlow, James O.*,**,**
+93,4100,*Dodson, Peter*,**,**
+93,4110,*Elz%Manowski, Andrzej*,**,**
+93,4111,*Wellnhofer, Peter*,**,**
+93,4120,*Jenkins, Farish A., Jr.*,**,**
+93,4130,*Hopson, James A.*,**,**
+93,4131,*Rougier, Guillermo W.*,**,**
+93,4140,*MacLeod, Norman*,**,**
+93,4141,*Rose, Kenneth D.*,**,**
+93,4150,*Anthony, Mark R. L.*,**,**
+93,4151,*Kay, Richard F.*,**,**
+93,4160,*Simons, Elwyn L.*,**,**
+93,4170,*Gans, Carl*,**,**
+93,4180,*Norell, Mark A.*,**,**
+93,4190,*Vrba, Elisabeth S.*,**,**
+93,4200,*Gingerich, Philip D.*,**,**
+93,4210,*Baker, Richard G.*,*Baker, R. G.*,**
+93,4211,*Schwert, Donald P.*,*Schwert, D. P.*,**
+93,4211,*Bettis, Elmer A., III*,*Bettis, E. A., III*,**
+93,4211,*Kemmis, Timothy J.*,*Kemmis, T. J.*,**
+93,4211,*Horton, Diana G.*,*Horton, D. G.*,**
+93,4211,*Semken, Holmes A.*,*Semken, H. A.*,**
+93,4220,*Turner, Christine E.*,**,**
+93,4221,*Fishman, Neil S.*,**,**
+93,4230,*Schmitz, Birger*,**,**
+93,4231,*A%Hbert, Go%Fran*,**,**
+93,4231,*Werdelin, Lars*,**,**
+93,4231,*Forey, Peter L.*,**,**
+93,4231,*Bendix-Almgreen, Svend Erik*,**,**
+93,4240,*Whitelaw, Michael John*,**,**
+93,4250,*Bryant, J. Daniel*,**,**
+93,4251,*MacFadden, Bruce J.*,**,**
+93,4251,*Mueller, Paul A.*,**,**
+93,4260,*Whistler, David P.*,**,**
+93,4261,*Burbank, Douglas W.*,**,**
+93,4270,*Sloan, Doris*,**,**
+93,4280,*Hamilton, Thomas D.*,**,**
+93,4281,*Ashley, Gail M.*,**,**
+93,4290,*Lucas, Spencer G.*,**,**
+93,4291,*Steiner, Maureen B.*,**,**
+93,4291,*Huber, Phillip*,**,**
+93,4291,*Hunt, Adrian P.*,**,**
+93,4291,*Witte, William K.*,**,**
+93,4291,*Kent, Dennis V.*,**,**
+93,4291,*Olsen, Paul E.*,**,**
+93,4300,*Lucas, Spencer G.*,**,**
+93,4301,*Williamson, Thomas E.*,**,**
+93,4301,*Sobus, Jay*,**,**
+93,4310,*Lawton, Timothy F.*,**,**
+93,4311,*Basabilvazo, George T.*,**,**
+93,4311,*Hodgson, Scott A.*,**,**
+93,4311,*Wilson, Dee A.*,**,**
+93,4311,*Mack, Greg H.*,**,**
+93,4311,*McIntosh, William C.*,**,**
+93,4311,*Lucas, Spencer G.*,**,**
+93,4311,*Kietzke, Kenneth K.*,**,**
+93,4320,*Carroll, Robert L.*,**,**
+93,4330,*Cordea, Vlad*,**,**
+93,4340,*Codrea, Vlad*,**,**
+93,4341,*Bra%Dnzila%R, Mihai*,**,**
+93,4341,*Hosu, Alexandru*,**,**
+93,4350,*Mallegni, Francesco*,*Mallegni, F.*,**
+93,4351,*Segre-Naldini, Eugenia*,*Segre-Naldini, E.*,**
+93,4360,*Laquay, Guy*,*Laquay, G.*,**
+93,4370,*Cassoli, Pier Francesco*,*Cassoli, P. F.*,**
+93,4380,*Ben'yamovskiy, Vladimir Naumovich*,**,**
+93,4381,*Levina, Alla Pavlovna*,**,**
+93,4381,*Pronin, V. G.*,**,**
+93,4381,*Tabachnikova, Irina Petrovna*,**,**
+93,4390,*Shishkin, Mikhail Aleksandrovich*,**,**
+93,4391,*Ochev, Vitaliy Georgiyevich*,**,**
+93,4400,*Ignatov, P. A.*,**,**
+93,4401,*Levin, A. S.*,**,**
+93,4401,*Sabirov, M. A.*,**,**
+93,4401,*Terent'yev, M. A.*,**,**
+93,4401,*Florenskiy, V. K.*,**,**
+93,4410,*Ochev, Vitaliy Georgiyevich*,**,**
+93,4420,*Ben'yamovskiy, Vladimir Naumovich*,*Ben'yamovskiy, V. I.*,**
+93,4421,*Vasil'yevna, Ol'ga Nikolayevna*,**,**
+93,4421,*Levina, Alla Pavlovna*,**,**
+93,4421,*Pronin, V. G.*,**,**
+93,4430,*Bu%Frgin, Toni*,**,**
+93,4431,*Furrer, Heinz*,**,**
+93,4440,*Bolliger, Thomas*,**,**
+93,4441,*Engesser, Burkart*,**,**
+93,4441,*Weidmann, Marc*,**,**
+93,4450,*Mo%Fdden, Clemens*,**,**
+93,4460,*Wang Xiaoming*,**,**
+93,4470,*Maisey, John G.*,**,**
+93,4480,*Biknevicius, Androne Regina*,*Biknevicius, A. R.*,**
+93,4481,*McFarlane, Donald A.*,*McFarlane, D. A.*,**
+93,4481,*MacPhee, Ross D. E.*,*MacPhee, R. D. E.*,**
+93,4490,*Chiappe, Luis M.*,**,**
+93,4500,*Voss, Robert S.*,**,**
+93,4501,*Carleton, Michael D.*,**,**
+93,4510,*Ziegler, Alfred M.*,**,**
+93,4520,*Yemane, Keddy*,**,**
+93,4530,*Sereno, Paul C.*,**,**
+93,4531,*Forster, Catherine A.*,**,**
+93,4531,*Rogers, Raymond R.*,**,**
+93,4531,*Monetta, Alfredo M.*,**,**
+93,4540,*Forey, Peter L.*,**,**
+93,4541,*Janvier, Philippe*,**,**
+93,4550,*Novacek, Michael J.*,**,**
+93,4560,*Tobias, Phillip V.*,**,**
+93,4570,*Milinkovitch, Michel C.*,**,**
+93,4571,*Orti%A, Guillermo*,**,**
+93,4571,*Meyer, Axel*,**,**
+93,4580,*Wilson, Mark V. H.*,**,**
+93,4581,*Caldwell, Michael W.*,**,**
+93,4590,*Thewissen, J. G. M.*,**,**
+93,4591,*Hussain, S. Taseer*,*Hussain, S. T.*,**
+93,4600,*Ahlberg, Per Erik*,**,**
+93,4610,*Forey, Peter L.*,**,**
+93,4620,*Asfaw, Berhane*,**,**
+93,4621,*Beyene, Yonas*,**,**
+93,4621,*Suwa, Gen*,**,**
+93,4621,*Walker, Robert C.*,**,**
+93,4621,*White, Tim D.*,**,**
+93,4621,*WoldeGabriel, Giday*,**,**
+93,4621,*Yemane, Tesfaye*,**,**
+93,4630,*Bahn, Paul G.*,**,**
+93,4640,*Defleur, Alban*,**,**
+93,4641,*Dutour, Olivier*,**,**
+93,4641,*Valladas, He%Ale%Cne*,**,**
+93,4641,*Vandermeersch, Bernard*,**,**
+93,4650,*Lister, Adrian M.*,*Lister, A. M.*,**
+93,4660,*Nisbet, Euan G.*,**,**
+93,4670,*Vartanyan, S. L.*,**,**
+93,4671,*Garutt, Vadim Yevgen'yevich*,*Garutt, V. E.*,**
+93,4671,*Sher, Andrey Vladimirovich*,**,**
+93,4680,*Stringer, Christopher B.*,*Stringer, Chris*,**
+93,4690,*Arsuaga, Juan Luis*,**,**
+93,4691,*Marti%Anez, Ignacio*,**,**
+93,4691,*Gracia, Ana*,**,**
+93,4691,*Carretero, Jose%A Miguel*,**,**
+93,4691,*Carbonell, Eudald*,**,**
+93,4700,*Milner, Angela C.*,**,**
+93,4710,*Perle%A, Altangerel*,*Altangerel, Perle*,**
+93,4711,*Norell, Mark A.*,**,**
+93,4711,*Chiappe, Luis M.*,**,**
+93,4711,*Clark, James M.*,**,**
+93,4720,*Perle%A, Altangerel*,*Perle%A, Altangereliyn*,**
+93,4721,*Norell, Mark A.*,**,**
+93,4721,*Chiappe, Luis M.*,**,**
+93,4721,*Clark, James M.*,**,**
+93,4730,*Martin, Robert D.*,**,**
+93,4740,*McDermott, Frank*,*McDermott, F.*,**
+93,4741,*Gru%Fn, Rainer*,*Gru%Fn, R.*,**
+93,4741,*Stringer, Christopher B.*,*Stringer, C. B.*,**
+93,4741,*Hawkesworth, Christopher J.*,*Hawkesworth, C. J.*,**
+93,4750,*Hedges, S. Blair*,**,**
+93,4751,*Hass, Carla Ann*,**,**
+93,4751,*Maxson, Linda R.*,**,**
+93,4760,*Wood, Bernard*,**,**
+93,4770,*van der Brugghen, William*,*van der Brugghen, Wim*,**
+93,4771,*Janvier, Philippe*,**,**
+93,4780,*Kissane, John M.*,**,**
+93,4790,*Patterson, Colin*,**,**
+93,4800,*Jenkins, Farish A., Jr.*,**,**
+93,4801,*Walsh, Denis M.*,**,**
+93,4810,*Savage, Robert J. G.*,*Savage, Bob*,**
+93,4820,*Wyss, Andre%A R.*,**,**
+93,4821,*Flynn, John J.*,**,**
+93,4821,*Norell, Mark A.*,**,**
+93,4821,*Swisher, Carl C., III*,**,**
+93,4821,*Charrier, Reynaldo*,**,**
+93,4821,*Novacek, Michael J.*,**,**
+93,4821,*McKenna, Malcolm C.*,**,**
+93,4830,*Martin, Lawrence*,**,**
+93,4831,*Andrews, Peter J.*,**,**
+93,4840,*Moya%C Sola%C, Salvador*,**,**
+93,4841,*Ko%Fhler, Meike*,**,**
+93,4850,*Pickford, Martin*,**,**
+93,4851,*Morales Romero, Jorge*,*Morales, Jorge*,**
+93,4851,*Soria, Dolores*,**,**
+93,4860,*de Muizon, Christian*,**,**
+93,4870,*Damuth, John*,**,**
+93,4880,*Wood, Bernard*,**,**
+93,4890,*Schrenk, Friedemann*,**,**
+93,4891,*Bromage, Timothy G.*,**,**
+93,4891,*Betzler, Christian G.*,**,**
+93,4891,*Ring, Uwe*,**,**
+93,4891,*Juwayeyi, Yusuf M.*,**,**
+93,4900,*Reid, Robert Edward Hay*,*Reid, R. E. H.*,**
+93,4910,*Wu Xiaochun*,*Wu, Xiao-chun*,**
+93,4911,*Brinkman, Donald B.*,**,**
+93,4911,*Russell, Anthony P.*,**,**
+93,4911,*Dong Zhiming*,*Dong, Zhi-ming*,**
+93,4911,*Currie, Philip J.*,**,**
+93,4911,*Hou Lianhai*,*Hou, Lian-hai*,**
+93,4911,*Cui Guihai*,*Cui, Gui-hai*,**
+93,4920,*Gee, Henry*,**,**
+93,4930,*Gould, Stephen Jay*,**,**
+93,4931,*Eldredge, Niles*,**,**
+93,4940,*White, Tim D.*,**,**
+93,4941,*Suwa, Gen*,**,**
+93,4941,*Hart, William K.*,**,**
+93,4941,*Walter, Robert C.*,**,**
+93,4941,*WoldeGabriel, Giday*,**,**
+93,4941,*de Heinzelin, Jean*,**,**
+93,4941,*Clark, J. Desmond*,**,**
+93,4941,*Asfaw, Berhane*,**,**
+93,4941,*Vrba, Elisabeth*,**,**
+93,4950,*Bar-Yosef, Ofer*,**,**
+93,4951,*Pilbeam, David*,**,**
+93,4951,*McDermott, Frank*,*McDermott, F.*,**
+93,4951,*Hawkesworth, Christopher J.*,*Hawkesworth, C. J.*,**
+93,4951,*Gru%Fn, Rainer*,*Gru%Fn, R.*,**
+93,4951,*Stringer, Christopher B.*,*Stringer, C. B.*,**
+93,4960,*Johnson, Kirk R.*,**,**
+93,4970,*Zangerl, Rainer*,**,**
+93,4971,*Winter, H. Frank*,**,**
+93,4971,*Hansen, Michael C.*,**,**
+93,4980,*Rieppel, Olivier*,**,**
+93,4990,*Guan Jian*,**,**
+93,4991,*van der Made, Jan*,*Meide, Zhanwande*,**
+93,5000,*Guan Jian*,**,**
+93,5010,*Guan Jian*,**,**
+93,5011,*Zhang Xing*,**,**
+93,5020,*Zhang Baokun*,**,**
+93,5030,*Guan Jian*,**,**
+93,5031,*Zhang Xing*,**,**
+93,5040,*Zhou Guoxing*,**,**
+93,5050,*Mazin, Jean-Michel*,**,*e*
+93,5051,*Pinna, Giovanni*,**,*e*
+93,5060,*Arduini, Paolo*,**,**
+93,5070,*Bardet, Nathalie*,**,**
+93,5071,*Cuny, Gilles*,**,**
+93,5080,*Benton, Michael J.*,**,**
+93,5090,*Benton, Michael J.*,*Benton, M. J.*,**
+93,5091,*Wild, Rupert*,*Wild, R.*,**
+93,5100,*Buffetaut, Eric*,**,**
+93,5110,*Charig, Alan J.*,**,**
+93,5120,*de Buffre%Anil, Vivian*,**,**
+93,5121,*Mazin, Jean-Michel*,**,**
+93,5130,*Haubold, Hartmut*,**,**
+93,5140,*King, Gillian M.*,**,**
+93,5150,*Mazin, Jean-Michel*,**,**
+93,5151,*Pinna, Giovanni*,**,**
+93,5160,*Mazin, Jean-Michel*,**,**
+93,5161,*Sander, P. Martin*,**,**
+93,5170,*Nosotti, Stefania*,**,**
+93,5171,*Pinna, Giovanni*,**,**
+93,5180,*Pinna, Giovanni*,**,**
+93,5190,*Pinna, Giovanni*,**,**
+93,5191,*Mazin, Jean-Michel*,**,**
+93,5200,*Rieppel, Olivier*,**,**
+93,5210,*Sander, P. Martin*,**,**
+93,5211,*Mazin, Jean-Michel*,**,**
+93,5220,*Sanz Garci%Aa, Jose%A Luis*,*Sanz, Jose%A Luis*,**
+93,5221,*Alafont, Luis Sebastia%An*,**,**
+93,5221,*Moratalla, Jose%A Joaqui%An*,**,**
+93,5230,*Tatarinov, Leonid Petrovich*,**,**
+93,5240,*Rightmire, G. Philip*,**,**
+93,5250,*Ward, Carol V.*,*Ward, C. V.*,**
+93,5251,*Walker, Alan C.*,*Walker, A.*,**
+93,5251,*Teaford, Mark F.*,*Teaford, M. F.*,**
+93,5251,*Odhiambo, Isiah*,*Odhiambo, I.*,**
+93,5260,*Lampl, Michelle*,**,**
+93,5261,*Monge, Janet M.*,**,**
+93,5261,*Mann, Alan E.*,**,**
+93,5270,*Houghton, Philip*,**,**
+93,5280,*Schwalm, Ju%Frgen*,**,**
+93,5290,*Kowalski, Heinz*,**,**
+93,5300,*Hahn, Gerhard*,**,**
+93,5310,*Le%Ave%Dque, Franc%Bois*,*Le%Ave%Dque, F.*,**
+93,5320,*Savage, Robert J. G.*,**,**
+93,5330,*Storrs, Glenn W.*,*Storrs, G. W.*,**
+93,5331,*Gower, David J.*,*Gower, D. J.*,**
+93,5340,*Angelova, Dora*,**,**
+93,5341,*Popov, Nikolay*,**,**
+93,5341,*Mikov, Emil*,**,**
+93,5350,*Angelova, Dora*,**,**
+93,5360,*Lerbekmo, John F.*,*Lerbekmo, J. F.*,**
+93,5361,*Demchuk, Thomas D.*,*Demchuk, T. D.*,**
+93,5361,*Evans, Michael E.*,*Evans, M. E.*,**
+93,5361,*Hoye, G. S.*,**,**
+93,5370,*Foote, Mike*,**,**
+93,5380,*Godfrey, Laurie R.*,**,**
+93,5381,*Lyon, Sarah K.*,**,**
+93,5381,*Sutherland, Michael R.*,**,**
+93,5390,*Wolpoff, Milford H.*,**,**
+93,5400,*Tardieu, Christine*,**,**
+93,5401,*Aurengo, Andre%A*,**,**
+93,5401,*Tardieu, Bernard*,**,**
+93,5410,*Walker, Alan C.*,*Walker, Alan*,**
+93,5411,*Brown, Barbara*,**,**
+93,5411,*Ward, Steven C.*,**,**
+93,5420,*Rak, Yoel*,**,**
+93,5421,*Kimbel, William H.*,**,**
+93,5430,*Ravosa, Matthew J.*,**,**
+93,5431,*Hylander, William L.*,**,**
+93,5440,*Spencer, Mark A.*,*Spencer, M. A.*,**
+93,5441,*Demes, Brigitte*,*Demes, B.*,**
+93,5450,*Ruff, Christopher B.*,**,**
+93,5451,*Trinkaus, Erik*,**,**
+93,5451,*Walker, Alan C.*,*Walker, Alan*,**
+93,5451,*Larsen, Clark Spencer*,**,**
+93,5460,*Brown, Barbara*,*Brown, B. A.*,**
+93,5461,*Walker, Alan C.*,*Walker, A.*,**
+93,5461,*Ward, Carol V.*,*Ward, C. V.*,**
+93,5461,*Leakey, Richard E. F.*,*Leakey, R. E.*,**
+93,5470,*Kramer, Andrew*,**,**
+93,5480,*Koufos, George D.*,**,**
+93,5490,*Sohn, Songy*,**,**
+93,5491,*Wolpoff, Milford H.*,**,**
+93,5500,*Dean, M. Christopher*,*Dean, M. C.*,**
+93,5501,*Beynon, A. David*,*Beynon, A. D.*,**
+93,5501,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+93,5501,*Macho, Gabriele A.*,*Macho, G. A.*,**
+93,5510,*Spoor, C. Fred*,**,**
+93,5511,*Zonneveld, Frans W.*,**,**
+93,5511,*Macho, Gabriele A.*,**,**
+93,5520,*Gibson, Kathleen R.*,**,**
+93,5521,*Calcagno, James M.*,**,**
+93,5530,*Reed, Kaye E.*,**,**
+93,5531,*Kitching, James W.*,**,**
+93,5531,*Grine, Frederick E.*,**,**
+93,5531,*Jungers, William L.*,**,**
+93,5531,*Sokoloff, Leon*,**,**
+93,5540,*Hartwig-Scherer, Sigrid*,**,**
+93,5550,*Falk, Dean*,**,**
+93,5560,*Berger, Lee R.*,**,**
+93,5561,*Keyser, Andre%A W.*,**,**
+93,5561,*Tobias, Phillip V.*,**,**
+93,5570,*Molnar, Stephen*,**,**
+93,5571,*Hildebolt, Charles*,**,**
+93,5571,*Molnar, Iva M.*,**,**
+93,5571,*Radovc%Jic%A, Jakov*,*Radovcic, Jakov*,**
+93,5571,*Gravier, Michael*,**,**
+93,5580,*Heinrich, Ronald E.*,*Heinrich, R. E.*,**
+93,5581,*Rose, Michael D.*,*Rose, M. D.*,**
+93,5581,*Leakey, Richard E. F.*,*Leakey, R. E.*,**
+93,5581,*Walker, Alan C.*,*Walker, A. C.*,**
+93,5590,*Rader, William T.*,**,**
+93,5591,*Peters, Charles R.*,**,**
+93,5600,*Ward, Carol V.*,**,**
+93,5610,*Benefit, Brenda R.*,**,**
+93,5611,*McCrossin, Monte L.*,**,**
+93,5620,*Grine, Frederick E.*,*Grine, F. E.*,**
+93,5621,*Demes, Brigitte*,*Demes, B.*,**
+93,5621,*Jungers, William L.*,*Jungers, W. L.*,**
+93,5621,*Cole, Theodore M., III*,*Cole, T. M., III*,**
+93,5630,*Minugh-Purvis, Nancy*,**,**
+93,5640,*Russell, Dale A.*,**,**
+93,5641,*Dong Zhiming*,*Dong, Zhi-Ming*,**
+93,5650,*Knu%Fsel, Christopher J.*,*Knu%Fsel, C. J.*,**
+93,5660,*Hartenberger, Jean-Louis*,*Hartenberger, J.-L.*,**
+93,5661,*Marandat, Bernard*,*Marandat, B.*,**
+93,5670,*Pickford, Martin*,*Pickford, M.*,**
+93,5671,*Mein, Pierre*,*Mein, P.*,**
+93,5671,*Senut, Brigitte*,*Senut, B.*,**
+93,5680,*Mottura, Alberto*,*Mottura, A.*,**
+93,5690,*Lane%Cque, Laurence*,*Lane%Cque, L.*,**
+93,5700,*Tattersall, Ian*,*Tattersall, I.*,**
+93,5710,*Bennike, Pia*,*Bennike, P.*,**
+93,5711,*Bonde, Niels*,*Bonde, N.*,**
+93,5720,*McCrossin, Monte L.*,**,**
+93,5730,*Ullrich, Herbert*,*Ullrich, H.*,**
+93,5740,*Verhaegen, M. J. B.*,**,**
+93,5750,*Senut, Brigitte*,*Senut, B.*,**
+93,5760,*Albrecht, Gene Harrison*,*Albrecht, G. H.*,**
+93,5770,*Sevilla Garci%Aa, Paloma*,*Sevilla, Paloma*,**
+93,5780,*Reshetov, Valeriy Yur'yevich*,**,**
+93,5790,*Tatarinov, Leonid Petrovich*,**,**
+93,5800,*Trofimov, Boris Aleksandrovich*,**,**
+93,5801,*Reshetov, Valeriy Yur'yevich*,**,**
+93,5810,*Ranov, Vadim Aleksandrovich*,**,**
+93,5820,*Trofimov, Boris Aleksandrovich*,**,**
+93,5830,*Sokolov, Boris Sergeyevich*,**,**
+93,5840,*Chubur, A. A.*,**,**
+93,5850,*Vasil'yev, S. K.*,**,**
+93,5851,*Grebne%Fv, I. Ye.*,**,**
+93,5860,*Mashchenko, Yevgeniy Nikolayevich*,**,**
+93,5870,*Chumakov, Ivan Sergeyevich*,**,**
+93,5880,*Dugard, Jane*,**,**
+93,5890,*Sillen, Andrew*,**,**
+93,5900,*Grine, Frederick E.*,**,**
+93,5901,*Klein, Richard G.*,**,**
+93,5910,*Ramsay, Peter J.*,*Ramsay, P. J.*,**
+93,5911,*Smith, A. M.*,**,**
+93,5911,*Lee-Thorp, Julia A.*,*Lee-Thorp, J. A.*,**
+93,5911,*Vogel, John C.*,**,**
+93,5911,*Tyldsley, M.*,**,**
+93,5911,*Kidwell, W.*,**,**
+93,5920,*Pickford, Martin*,**,**
+93,5930,*Sillen, Andrew*,**,**
+93,5931,*Lee-Thorp, Julia A.*,**,**
+93,5940,*Tobias, Phillip V.*,**,**
+93,5950,*Rubidge, Bruce S.*,**,**
+93,5960,*Mania, Dietrich*,**,**
+93,5970,*Jefferson, George T.*,**,**
+93,5971,*Fierstine, Harry L.*,**,**
+93,5971,*Wesling, John R.*,**,**
+93,5971,*Ku, Teh-Lung*,*Gu Delong*,**
+93,5980,*Kelly, Thomas S.*,**,**
+93,5990,*Santalo%A, Luis A.*,**,**
+93,6000,*Pascual, Rosendo*,**,**
+93,6010,*Pascual, Rosendo*,**,**
+93,6020,*Amos, Arturo Jorge*,*Amos, Arturo J.*,**
+93,6030,*Gand, Georges*,**,**
+93,6040,*Turland, Michel*,**,**
+93,6041,*Larque%A, Philippe*,**,**
+93,6041,*Sudre, Jean*,**,**
+93,6041,*Vianey-Liaud, Monique*,**,**
+93,6041,*Weber, Francis*,**,**
+93,6050,*Hawthorne, J. Michael*,**,**
+93,6060,*Symeonidis, Nikolaos K.*,*Symeonidis, N. K.*,**
+93,6070,*Theodorou, George E.*,**,**
+93,6080,*Sua%Arez, Manuel*,*Suarez, M.*,**
+93,6081,*Bell, C. Michael*,*Bell, C. M.*,**
+93,6090,*Schmitz, Birger*,*Schmitz, B.*,**
+93,6100,*Pereda-Subuerbiola, Javier*,**,**
+93,6110,*Oleynikov, Aleksandr Nikolayevich*,*Oleinikov, A. N.*,**
+93,6111,*Romanovskaya, Galina Matveyevna*,**,**
+93,6120,*Derevyanko, Anatoliy Panteleyevich*,**,**
+93,6121,*Laukhin, Stanislav Alekseyevich*,**,**
+93,6121,*Kulikov, Oleg Anatoliyevich*,**,**
+93,6121,*Gnibidenko, Z. N.*,**,**
+93,6121,*Shun'kov, Mikhail Vasil'yevich*,**,**
+93,6130,*Leiggi, Patrick*,**,**
+93,6140,*Rhodes-James, April*,**,**
+93,6141,*James, Barry*,**,**
+93,6150,*Russell, Dale A.*,**,**
+93,6151,*Russell, Donald E.*,**,**
+93,6160,*Simmons, Alan H.*,**,**
+93,6170,*Thewissen, J. G. M.*,**,**
+93,6180,*Gross, Janet D.*,**,**
+93,6181,*Rich, Thomas Hewitt*,*Rich, Thomas H.*,**
+93,6181,*Vickers-Rich, Patricia*,**,**
+93,6190,*Chatterjee, Sankar*,**,**
+93,6200,*Wang Xiaoming*,**,**
+93,6201,*Martin, Larry D.*,**,**
+93,6210,*Eaton, Jeffrey G.*,**,**
+93,6220,*Santos, Rubens da Silva*,**,**
+93,6221,*Santos, Hugo Ricardo Secioso*,**,**
+93,6230,*Vucetich, Mari%Aa Guiomar*,**,**
+93,6231,*Cunha, Fausto Luis de Souza*,**,**
+93,6231,*de Alvarenga, Herculano Marcos Ferraz*,**,**
+93,6240,*de Azevedo, Sergio Alex Kugland*,**,**
+93,6250,*de Alvarenga, Herculano Marcos Ferraz*,*Alvarenga, Herculano M. F.*,**
+93,6260,*Corruccini, Robert S.*,*Corruccini, R. S.*,**
+93,6261,*Gill, Pritmohinder S.*,*Gill, P. S.*,**
+93,6270,*Vanc%Jata, Va%Aclav*,*Vanc%Jata, V.*,**
+93,6280,*Stanyon, R.*,**,**
+93,6281,*Consigliere, S.*,**,**
+93,6281,*Morescalchi, M. A.*,**,**
+93,6290,*Thompson, Jennifer L.*,*Thompson, J. L.*,**
+93,6300,*Krantz, Grover S.*,*Krantz, G. S.*,**
+93,6310,*Galdikas, Birute M. F.*,*Galdikas, B. M. F.*,**
+93,6311,*Duffy, J. B.*,**,**
+93,6311,*Odwak, H.*,**,**
+93,6311,*Purss, C. M.*,**,**
+93,6311,*Vasey, P.*,**,**
+93,6320,*Malasse%A, Anne Dambricourt*,**,**
+93,6330,*Debe%Anath, Andre%A*,**,**
+93,6340,*Pelegrin, J.*,**,**
+93,6350,*Tobias, Phillip V.*,**,**
+93,6360,*Mishra, Sheila*,**,**
+93,6370,*Lieberman, Philip*,**,**
+93,6380,*De Vore, Irven*,**,**
+93,6390,*Stiner, Mary C.*,**,**
+93,6400,*Belfer-Cohen, Anna*,**,**
+93,6401,*Hovers, Erella*,**,**
+93,6410,*Li Xingxue*,**,**
+93,6411,*Cai Chongyang*,**,**
+93,6411,*Ouyang Shu*,**,**
+93,6420,*Liu Hongyun*,**,**
+93,6421,*Liu Xianting*,**,**
+93,6430,*Hu Chengzhi*,**,**
+93,6431,*Cheng Zhengwu*,**,**
+93,6440,*Pan Jiang*,**,**
+93,6450,*Chen Maonan*,**,**
+93,6451,*Wang Yunchen*,**,**
+93,6451,*Wang Shufang*,**,**
+93,6451,*Luo Baoxin*,**,**
+93,6451,*Wang Qiang*,**,**
+93,6451,*Yue Jun*,**,**
+93,6451,*Jiang Mingmei*,**,**
+93,6451,*Ge Shuhua*,**,**
+93,6460,*Cai Baoquan*,**,**
+93,6461,*Yin Jicai*,**,**
+93,6470,*Goto%N, Masatoshi*,**,*e*
+93,6471,*Takahashi, Masashi*,**,*e*
+93,6471,*Kimura, Masaichi*,**,*e*
+93,6471,*Horikawa, Hideo*,**,*e*
+93,6480,*Kimura, Masaichi*,**,**
+93,6481,*Kuge, Naoyuki*,**,**
+93,6481,*Goto%N, Masatoshi*,**,**
+93,6481,*Sasakawa, Ichiro%N*,**,**
+93,6481,*Takahashi, Keiichi*,**,**
+93,6481,*Takahashi, Masashi*,**,**
+93,6481,*Horikawa, Hideo*,**,**
+93,6490,*Takahashi, Masashi*,**,**
+93,6500,*Goto%N, Masatoshi*,**,**
+93,6510,*Kuge, Naoyuki*,*Kuga, Naoyuki*,**
+93,6520,*Suzuki, Shigeru*,**,**
+93,6530,*Hirota, Kiyoharu*,**,**
+93,6531,*Kuge, Naoyuki*,*Kuga, Naoyuki*,**
+93,6540,*Miyazaki, Shigeo*,**,**
+93,6541,*Horikawa, Hideo*,**,**
+93,6550,*Horikawa, Hideo*,**,**
+93,6551,*Miyazaki, Shigeo*,**,**
+93,6551,*O%Nmi, Kazuyoshi*,**,**
+93,6551,*Kabayashi, Sho%Nji*,**,**
+93,6551,*Nakagawa, Masaoto*,**,**
+93,6551,*O%Nsawa, Susumu*,**,**
+93,6551,*Sato%N, Kenji*,**,**
+93,6551,*Hirota, Seiji*,**,**
+93,6560,*Shinohara, Satoshi*,**,**
+93,6561,*Kimura, Masaichi*,**,**
+93,6561,*Furusawa, Hitoshi*,**,**
+93,6570,*Okazaki, Yoshihiko*,**,**
+93,6580,*O%Nishi, Masayuki*,**,**
+93,6590,*Kimura, Masaichi*,**,**
+93,6600,*Ma%Frss, Tiiu*,*Myarss, Tiyu*,**
+93,6610,*Mark-Kurik, Elga*,**,**
+93,6620,*Mark-Kurik, Elga*,**,**
+93,6621,*Ivanov, Aleksandr Olegovich*,*Ivanov, Alexandr*,**
+93,6621,*Obrucheva, Ol`ga Pavlovna*,*Obrucheva, Olga*,**
+93,6630,*Ma%Frss, Tiiu*,**,**
+93,6640,*Mark-Kurik, Elga*,**,**
+93,6650,*Bar-Yosef, Ofer*,*Bar-Yosef, O.*,**
+93,6651,*Vandermeersch, Bernard*,*Vandermeersch, B.*,**
+93,6651,*Arensburg, Baruch*,*Arensburg, B.*,**
+93,6651,*Belfer-Cohen, Anna*,*Belfer-Cohen, A.*,**
+93,6651,*Goldberg, Paul*,*Goldberg, P.*,**
+93,6651,*Laville, Henri*,*Laville, H.*,**
+93,6651,*Meignen, Liliane*,*Meignen, L.*,**
+93,6651,*Rak, Yoel*,*Rak, Y.*,**
+93,6651,*Speth, John D.*,*Speth, J. D.*,**
+93,6651,*Tchernov, Eitan*,*Tchernov, E.*,**
+93,6651,*Tillier, Anne-Marie*,*Tillier, A.-M.*,**
+93,6651,*Weiner, Stephen*,*Weiner, S.*,**
+93,6660,*Roebroeks, Wil*,**,**
+93,6661,*Conard, Nicholas*,**,**
+93,6661,*van Kolfschoten, Thijs*,**,**
+93,6670,*Clermont, Norman*,**,**
+93,6680,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+93,6690,*Stringer, Christopher B.*,**,**
+93,6700,*Tobias, Phillip V.*,**,**
+93,6710,*Tobias, Phillip V.*,**,**
+93,6711,*Kennedy, Kenneth A. R.*,*Kennedy, K. A. R.*,**
+93,6720,*Dibble, Harold L.*,**,**
+93,6721,*Chase, Philip G.*,**,**
+93,6730,*Lieberman, Philip*,**,**
+93,6740,*Aiello, Leslie C.*,**,**
+93,6741,*Dunbar, Robin I. M.*,*Dunbar, R. I. M.*,**
+93,6750,*Stern, Nicola*,**,**
+93,6760,*Munizaga, Juan R.*,**,**
+93,6770,*Goebel, Ted*,**,**
+93,6771,*Derevyanko, Anatoliy Panteleyevich*,*Derevianko, Anatoli P.*,**
+93,6771,*Petrin, Valeriy Trofimovich*,*Petrin, Valerii T.*,**
+93,6780,*Milo, Richard G.*,**,**
+93,6781,*Quiatt, Duane*,**,**
+93,6790,*Lieberman, Daniel E.*,**,**
+93,6800,*Hossini, Sai%Fda*,**,**
+93,6810,*Meister, Christian*,**,**
+93,6820,*Bartosiewicz, La%Aszlo%A*,**,**
+93,6830,*Brunet-Lecomte, Patrick*,**,**
+93,6831,*Chaline, Jean*,**,**
+93,6831,*Campy, Michel*,**,**
+93,6840,*Mouchet, Philippe O. J.*,**,**
+93,6850,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,6860,*Gubin, Yuriy Mikhaylovich*,**,**
+93,6870,*Alifanov, Vladimir Rudol'fovich*,**,**
+93,6880,*Godina, Anna Yakovlevna*,**,**
+93,6881,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,6881,*Abdrakhmanova, Lyaylya Talipovna*,*Abdrachmanova, L. T.*,**
+93,6890,*Ochev, Vitaliy Georgiyevich*,**,**
+93,6900,*Parin, Nikolay Nikolayevich*,**,**
+93,6910,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+93,6920,*Shishkin, Mikhail Aleksandrovich*,**,**
+93,6921,*Sokolov, Boris Sergeyevich*,**,**
+93,6930,*Lazarev, Stanislav Samuilovich*,**,**
+93,6940,*Panteleyev, N. V.*,**,**
+93,6950,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,6960,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+93,6970,*Yefimov, Mikhail Borisovich*,*Efimov, M. B.*,**
+93,6971,*Yarkov, Aleksandr Arkad'yevich*,**,**
+93,6980,*Tumanova, Tat'yana Alekseyevna*,**,**
+93,6990,*Agadzhanyan, Aleksandr Karenovich*,*Agadjanian, A. K.*,**
+93,7000,*Alifanov, Vladimir Rudol'fovich*,**,**
+93,7010,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,7011,*Godina, Anna Yakovlevna*,**,**
+93,7020,*Yesin, Dmitriy Nikolayevich*,*Esin, D. N.*,**
+93,7030,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,7031,*Tatarinov, Leonid Petrovich*,**,**
+93,7031,*Trofimov, Boris Aleksandrovich*,**,**
+93,7031,*Fedotov, Viktor Fe%Fdorovich*,**,**
+93,7040,*Amitrov, Oleg Vladimirovich*,**,**
+93,7050,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,7060,*Gubin, Yuriy Mikhaylovich*,**,**
+93,7070,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+93,7080,*Modzalevskaya Tat'yana L'vovna*,**,**
+93,7090,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,7100,*Gubin, Yuriy Mikhaylovich*,**,**
+93,7110,*Alifanov, Vladimir Rudol'fovich*,**,**
+93,7120,*Godina, Anna Yakovlevna*,**,**
+93,7121,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,7121,*Abdrakhmanova, Lyaylya Talipovna*,*Abdrachmanova, L. T.*,**
+93,7130,*Ochev, Vitaliy Georgiyevich*,**,**
+93,7140,*Parin, Nikolay Nikolayevich*,**,**
+93,7150,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+93,7160,*Albino, Adriana Mari%Aa*,**,**
+93,7170,*Hopf, Hagen*,**,**
+93,7171,*Martens, Thomas*,**,**
+93,7180,*Walter, Harald*,**,**
+93,7181,*Ku%Fnzell, Gu%Fnter*,**,**
+93,7190,*Tobien, Heinz*,**,**
+93,7200,*Gu%Frs, Karl*,**,**
+93,7201,*Mo%Fdden, Clemens*,**,**
+93,7210,*Rothausen, Karlheinz*,**,**
+93,7220,*Anonymous*,**,**
+93,7230,*Lutz, Herbert*,**,**
+93,7240,*Franzen, Jens Lorenz*,**,**
+93,7250,*Mo%Fdden, Clemens*,**,**
+93,7251,*Wolsan, Mieczysl%Saw*,**,**
+93,7260,*Hutterer, Rainer*,**,**
+93,7261,*von Koenigswald, Wighart*,**,**
+93,7270,*Sun Ailing*,**,**
+93,7271,*Li Jinling*,**,**
+93,7271,*Ye Xiangkui*,**,**
+93,7271,*Dong Zhiming*,**,**
+93,7271,*Hou Lianhai*,**,**
+93,7280,*Qi Guoqin*,**,**
+93,7290,*Wheeler, P. E.*,**,**
+93,7300,*Lalueza Fox, C.*,**,**
+93,7301,*Pe%Arez Pe%Arez, Alberto*,*Pe%Arez-Pe%Arez, A.*,**
+93,7310,*Bermu%Adez de Castro, Jose%A Mari%Aa*,**,**
+93,7311,*Durand, Ana I.*,**,**
+93,7311,*Ipin%Ea, Santiago L.*,**,**
+93,7320,*Sighinolfi, Gian Paolo*,*Sighinolfi, G. P.*,**
+93,7321,*Sartono, Sastrohamidjojo*,*Sartono, S.*,**
+93,7321,*Artioli, Gilberto*,*Artioli, G.*,**
+93,7330,*McCollum, Melanie A.*,**,**
+93,7331,*Grine, Frederick E.*,**,**
+93,7331,*Ward, Steven C.*,**,**
+93,7331,*Kimbel, William H.*,**,**
+93,7340,*Turner, Alan*,**,**
+93,7341,*Wood, Bernard*,**,**
+93,7350,*Bernor, Raymond L.*,**,**
+93,7351,*Fahlbusch, Volker*,**,**
+93,7351,*Rietschel, Siegfried*,**,**
+93,7360,*Gingerich, Philip D.*,**,**
+93,7370,*Rayner, Richard J.*,*Rayner, R. J.*,**
+93,7371,*Moon, Bernard P.*,*Moon, B. P.*,**
+93,7371,*Masters, J. C.*,**,**
+93,7380,*Rae, Todd C.*,**,**
+93,7390,*Bartsiokas, Antonis*,**,**
+93,7391,*Day, Michael H.*,**,**
+93,7400,*Jablonski, Nina G.*,**,**
+93,7401,*Chaplin, George*,**,**
+93,7410,*Lalueza Fox, C.*,*Lalueza, C.*,**
+93,7411,*Pe%Arez Pe%Arez, Alberto*,*Pe%Arez-Pe%Arez, A*,**
+93,7411,*Turbo%An, D.*,**,**
+93,7420,*Turner, Alan*,**,**
+93,7421,*Wood, Bernard*,**,**
+93,7430,*Grine, Frederick E.*,**,**
+93,7431,*Daegling, David J.*,**,**
+93,7440,*Bermu%Adez de Castro, Jose%A Mari%Aa*,**,**
+93,7450,*Begun, David R.*,**,**
+93,7460,*Stern, Jack T., Jr.*,**,**
+93,7461,*Larson, Susan G.*,**,**
+93,7470,*Ramirez-Rozzi, Fernando V.*,**,**
+93,7480,*de Bonis, Louis*,**,**
+93,7481,*Koufos, George D.*,**,**
+93,7490,*Trinkaus, Erik*,**,**
+93,7500,*Smith, Richard J.*,**,**
+93,7510,*Walker, Alan C.*,*Walker, A.*,**
+93,7511,*Teaford, Mark F.*,*Teaford, M. F.*,**
+93,7511,*Martin, Lawrence*,*Martin, L.*,**
+93,7511,*Andrews, Peter J.*,*Andrews, P.*,**
+93,7520,*Benefit, Brenda R.*,**,**
+93,7530,*Walter, Robert C.*,**,**
+93,7531,*Aronson, James L.*,**,**
+93,7540,*Begun, David R.*,**,**
+93,7541,*Kordos, La%Aszlo%A*,**,**
+93,7550,*Lane%Cque, Laurence*,**,**
+93,7560,*Kay, Richard F.*,**,**
+93,7561,*Frailey, Carl D.*,**,**
+93,7570,*Zavada, Michael S.*,**,**
+93,7571,*Cadman, Ann*,**,**
+93,7580,*Covert, Herbert H.*,**,**
+93,7581,*Hamrick, Mark W.*,**,**
+93,7590,*McKee, Jeffrey K.*,**,**
+93,7600,*Trinkaus, Erik*,**,**
+93,7610,*Shapiro, Liza*,**,**
+93,7620,*Tobias, Phillip V.*,**,**
+93,7630,*Taylor, Michael A.*,*Taylor, M. A.*,**
+93,7640,*Nudds, John R.*,*Nudds, J. R.*,**
+93,7650,*Evans, Susan E.*,*Evans, S. E.*,**
+93,7651,*King, M. E.*,**,**
+93,7660,*Anonymous*,**,**
+93,7670,*Novikov, Igor' Vital'yevich*,**,**
+93,7680,*Shimanskiy, Viktor Nikolayevich*,*Shimansky, V. N.*,**
+93,7690,*Petukhov, Sergey Valentinovich*,**,**
+93,7700,*Caldwell, William Glen Elliot*,*Caldwell, W. G. E.*,*e*
+93,7701,*Kauffman, Erle G.*,*Kauffman, E. G.*,*e*
+93,7710,*Bakker, Robert T.*,*Bakker, R. T.*,**
+93,7720,*Russell, Dale A.*,*Russell, D. A.*,**
+93,7730,*Renesto, Silvio*,**,**
+93,7740,*Barrier, Pascal*,**,**
+93,7741,*Gaudant, Jean*,**,**
+93,7741,*Raisson, Franc%Bois*,**,**
+93,7741,*Merle, Didier*,**,**
+93,7741,*Toumarkine, Monique*,**,**
+93,7750,*Renesto, Silvio*,**,**
+93,7760,*Rook, Lorenzo*,**,**
+93,7770,*Renesto, Silvio*,**,**
+93,7780,*Silva Ba%Arcenas, A%Angel*,**,**
+93,7790,*Storch, Gerhard*,**,**
+93,7800,*Nazarkin, M. V.*,**,**
+93,7801,*Lebedintsev, A. I.*,**,**
+93,7810,*Man%Jourova%A, Milada*,**,**
+93,7811,*Horny%A, Radvan*,**,**
+93,7820,*Abraczinskas, Laura Marie*,**,**
+93,7830,*Holman, J. Alan*,**,**
+93,7831,*Fisher, Daniel C.*,**,**
+93,7840,*Johnson, Richard A.*,**,**
+93,7850,*Scott, Thomas M.*,**,*e*
+93,7851,*Allmon, Warren D.*,**,*e*
+93,7860,*Emslie, Steven D.*,**,**
+93,7870,*Zullo, Victor A.*,**,*e*
+93,7871,*Harris, W. Burleigh*,**,*e*
+93,7871,*Scott, Thomas M.*,**,*e*
+93,7871,*Portell, Roger W.*,**,*e*
+93,7880,*Morgan, Gary S.*,**,**
+93,7890,*Rookmaaker, L. C.*,**,**
+93,7900,*Haarhoff, Philippa J.*,**,**
+93,7910,*Jime%Anez Fuentes, Emiliano*,**,**
+93,7920,*Kempf, Eugen Karl*,**,*e*
+93,7930,*Wild, Reinhard*,**,**
+93,7931,*Kaaya, Charles Z.*,**,**
+93,7931,*Kreuser, Thomas*,**,**
+93,7931,*Markwort, Stefan*,**,**
+93,7931,*Semkiwa, Pascal Z.*,**,**
+93,7940,*Mu%Fller-Wilmes, Brigitta*,**,**
+93,7950,*Kreuser, Thomas*,**,**
+93,7960,*Markwort, Stefan*,**,**
+93,7970,*Aktas, Ali*,*Aktas, A.*,*e*
+93,7971,*Boenigk, Wolfgang*,*Boenigk, W.*,*e*
+93,7980,*Bosinski, Gerhard*,**,**
+93,7981,*Bosinski, Hannelore*,**,**
+93,7990,*Ronen, Avraham*,**,**
+93,8000,*Kaaya, Charles Z.*,**,**
+93,8010,*Pe%Acsi, Ma%Arton*,*Pe%Acsi, M.*,**
+93,8011,*Schweitzer, Ferenc*,*Schweitzer, F.*,**
+93,8020,*Chaline, Jean*,**,*e*
+93,8021,*Werdelin, Lars*,**,*e*
+93,8030,*Turner, Alan*,**,**
+93,8040,*Nadachowski, Adam*,**,**
+93,8050,*Nevo, Eviatar*,**,**
+93,8060,*Auffray, Jean-Christophe*,**,**
+93,8070,*Chaline, Jean*,*Chaline, J.*,**
+93,8071,*Laurin, Bernard*,*Laurin, B.*,**
+93,8071,*Brunet-Lecomte, Patrick*,*Brunet-Lecomte, P.*,**
+93,8071,*Viriot, Laurent*,*Viriot, L.*,**
+93,8080,*Tesakov, Aleksey S.*,*Tesakov, Alexey, S.*,**
+93,8090,*van Kolfschoten, Thijs*,**,**
+93,8100,*Agusti%A Ballester, Jorge*,*Agusti%A, Jorge*,**
+93,8101,*Castillo Ruiz, Carolina*,*Castillo, C.*,**
+93,8101,*Galobart, A.*,**,**
+93,8110,*von Koenigswald, Wighart*,**,**
+93,8120,*Abbazzi, L.*,**,**
+93,8121,*Masini, Federico*,*Masini, F.*,**
+93,8121,*Torre, Danilo*,*Torre, D.*,**
+93,8130,*Forste%An, Ann*,**,**
+93,8140,*Lister, Adrian M.*,**,**
+93,8150,*Dambricourt-Malasse%A, Anne*,**,**
+93,8160,*Stuart, Anthony J.*,*Stuart, A. J.*,**
+93,8170,*Werdelin, Lars*,**,**
+93,8180,*Su Dezao*,**,**
+93,8190,*Ye Xingkui*,**,**
+93,8191,*Qi Tao*,**,**
+93,8200,*Tong Yongsheng*,**,**
+93,8201,*Wang Jingwen*,**,**
+93,8210,*Vertebrata PalAsiatica Editorial Board*,**,**
+93,8220,*Huang Xueshi*,**,**
+93,8230,*Li Yizheng*,**,**
+93,8240,*Liu Guanbang*,**,**
+93,8241,*Chen Guikun*,**,**
+93,8250,*Hu Shaojin*,**,**
+93,8260,*Shi Longzi*,**,**
+93,8270,*Zhou Zhonghe*,**,**
+93,8280,*Lucas, Spencer G.*,*Lukasi, Sibinse G.*,**
+93,8290,*Zhao Zikui*,**,**
+93,8291,*Li Rong*,**,**
+93,8300,*Li Jinling*,**,**
+93,8310,*Flynn, Lawrence J.*,*Fulin, Laolunsi J.*,**
+93,8320,*Zong Guanfu*,**,**
+93,8321,*Wei Qi*,**,**
+93,8330,*Liu Guanbang*,**,**
+93,8331,*Zhang Chenghua*,**,**
+93,8340,*Dong Wei*,**,**
+93,8341,*Jiang Peng*,**,**
+93,8350,*Zhao Xijin*,**,**
+93,8360,*Russell, Dale A.*,*Lase'er, D. A.*,**
+93,8361,*Russell, Donald E.*,*Lase'er, D. E.*,**
+93,8361,*Sweet, Arthur R.*,*Siweite, A. R.*,**
+93,8370,*Han Gang*,**,**
+93,8371,*Zhao Huaxi*,**,**
+93,8380,*Zheng Longting*,**,**
+93,8390,*Hu Yaoming*,**,**
+93,8400,*Zhao Zhongru*,**,**
+93,8410,*Huang Wanbo*,*Huang Wanpo*,**
+93,8420,*Ouyang Lian*,**,**
+93,8421,*Xu Qinqi*,**,**
+93,8430,*Hou Lianhai*,**,**
+93,8431,*Zhang Jiangyong*,**,**
+93,8440,*Pan Jiang*,**,**
+93,8441,*Chen Liezu*,**,**
+93,8450,*Miao Desui*,**,**
+93,8460,*Jin Fan*,**,**
+93,8461,*Zhang Jiangyong*,**,**
+93,8461,*Zhou Zhonghe*,**,**
+93,8470,*Dong Zhiming*,**,**
+93,8480,*Cai Baoquan*,**,**
+93,8481,*Qiu Zhuding*,**,**
+93,8490,*Huang Xueshi*,**,**
+93,8500,*Pan Jiang*,**,**
+93,8501,*Ji Shu'an*,**,**
+93,8510,*Gao Yuhui*,**,**
+93,8520,*Liu Yuhai*,**,**
+93,8530,*Bayshashov, Bolat Uapovich*,**,**
+93,8540,*Engesser, Burkart*,**,**
+93,8541,*Ginsburg, Le%Aonard*,**,**
+93,8541,*Weidmann, Marc*,**,**
+93,8541,*Bucher, Hugo*,**,**
+93,8550,*Smith, Gary A.*,**,**
+93,8560,*Anonymous*,**,**
+93,8570,*Sher, Andrey Vladimirovich*,*Sher, Andrei V.*,**
+93,8580,*Applegate, Shelton Pleasants*,*Applegate, Shelton P.*,**
+93,8590,*Montellano Ballesteros, Marisol*,**,**
+93,8591,*Carranza Castan%Eeda, Oscar*,**,**
+93,8600,*Perrilliat, Mari%Aa del Carmen*,**,**
+93,8601,*Applegate, Shelton Pleasants*,**,**
+93,8601,*Espinosa Arrubarrena, Luis*,**,**
+93,8610,*Ferrusqui%Aa Villafranca, Ismael*,**,**
+93,8611,*Comas Rodri%Aguez, Oscar*,**,**
+93,8620,*Carranza Castan%Eeda, Oscar*,**,**
+93,8621,*Miller, Wade E.*,**,**
+93,8630,*Applegate, Shelton Pleasants*,*Applegate, Shelton P.*,**
+93,8640,*Carranza Castan%Eeda, Oscar*,**,**
+93,8650,*Carranza Castan%Eeda, Oscar*,**,**
+93,8651,*Walton, Anne H.*,**,**
+93,8660,*Applegate, Shelton Pleasants*,**,**
+93,8670,*Carranza Castan%Eeda, Oscar*,**,**
+93,8680,*Hoch, Ella*,**,**
+93,8690,*Schudack, Michael E.*,**,*e*
+93,8700,*Kohring, Rolf*,**,**
+93,8701,*Schlu%Fter, Thomas*,**,**
+93,8710,*Schlu%Fter, Thomas*,**,**
+93,8720,*Milhi, Abdellah*,**,**
+93,8730,*Mo%Fdden, Clemens*,**,**
+93,8740,*Gon%Ei, Ricardo*,**,**
+93,8750,*Zhong Xiaochun*,**,**
+93,8751,*Tang Wensong*,**,**
+93,8751,*Zhao Xiulan*,**,**
+93,8751,*Xu Daoyi*,**,**
+93,8751,*Yan Zheng*,**,**
+93,8751,*Ye Lianfang*,**,**
+93,8760,*Xu Qinqi*,**,**
+93,8761,*Mu Xinan*,**,**
+93,8761,*Xu Hankui*,**,**
+93,8761,*Zhong Shilan*,**,**
+93,8761,*Mu Daocheng*,**,**
+93,8770,*Zhang Jinghua*,**,**
+93,8771,*Zhou Yaoqi*,**,**
+93,8771,*Chai Zhifang*,**,**
+93,8771,*Ma Shulan*,**,**
+93,8771,*Fang Hong*,**,**
+93,8771,*Zhu Shida*,**,**
+93,8771,*Ouyang Hui*,**,**
+93,8771,*Huang Jianguo*,**,**
+93,8780,*Liu Shifan*,**,**
+93,8790,*Yang Weidong*,**,**
+93,8791,*Chen Nansheng*,**,**
+93,8791,*Ni Shijun*,**,**
+93,8791,*Nan Junya*,**,**
+93,8791,*Wu Mingqing*,**,**
+93,8791,*Jiang Jiuyu*,**,**
+93,8791,*Ye Jianliu*,**,**
+93,8791,*Feng Xinxiang*,**,**
+93,8791,*Ran Yong*,**,**
+93,8800,*Macdonald, Heather*,**,**
+93,8810,*Sander, P. Martin*,*Sander, Paul Martin*,**
+93,8811,*Gee, Carole Terry*,**,**
+93,8820,*Rauber, Albert*,**,**
+93,8830,*Gallagher, William Brian*,**,**
+93,8840,*Gorr, Thomas*,**,**
+93,8841,*Kleinschmidt, Traute*,**,**
+93,8850,*Burney, David A.*,**,**
+93,8860,*Hagdorn, Hans*,**,**
+93,8861,*Simon, Theo*,**,**
+93,8870,*Di Stefano, Giuseppe*,**,**
+93,8871,*Petronio, Carmelo*,**,**
+93,8880,*Harrison, Terry*,**,**
+93,8881,*Verniers, Jacques*,**,**
+93,8890,*Boles, Walter E.*,**,**
+93,8900,*Marsicano, Claudia A.*,**,**
+93,8910,*Rozefelds, Andrew C.*,**,**
+93,8920,*Baird, Robert F.*,**,**
+93,8930,*Gasparini, Zulma*,**,**
+93,8931,*Ferna%Andez, Marta S.*,*Fernandez, Marta*,**
+93,8931,*Powell, Jaime*,**,**
+93,8940,*Albino, Adriana Mari%Aa*,**,**
+93,8950,*Agusti%A Ballester, Jorge*,*Agusti%A, Jordi*,*e*
+93,8960,*de Bonis, Louis*,*de Bonis, L.*,**
+93,8961,*Bouvrain, Genevie%Cve*,*Bouvrain, G.*,**
+93,8961,*Geraads, Denis*,*Geraads, D.*,**
+93,8961,*Koufos, George D.*,*Koufos, G.*,**
+93,8970,*de Bonis, Louis*,*de Bonis, L.*,**
+93,8971,*Brunet, Michel*,*Brunet, M.*,**
+93,8971,*Heintz, E%Amile*,*Heintz, E.*,**
+93,8971,*S%Ben, S%Bevket*,*Sen, S.*,**
+93,8980,*Eisenmann, Ve%Ara*,**,**
+93,8981,*Gue%Arin, Claude*,**,**
+93,8990,*Hugueney, Marguerite*,**,**
+93,8991,*Mein, Pierre*,**,**
+93,8991,*Ringeade, Michel*,**,**
+93,9000,*Kondopoulou, D.*,**,**
+93,9001,*S%Ben, S%Bevket*,*Sen, S.*,**
+93,9001,*Koufos, George D.*,*Koufos, G. D.*,**
+93,9001,*de Bonis, Louis*,*de Bonis, L.*,**
+93,9010,*Rook, Lorenzo*,**,**
+93,9020,*Vislobokova, Inesa Anatol'yevna*,*Vislobokova, I.*,**
+93,9030,*Watabe, Mahito*,*Watabe, M.*,**
+93,9040,*Bianucci, Giovanni*,*Bianucci, G.*,**
+93,9041,*Landini, Walter*,*Landini, W.*,**
+93,9050,*Gaudant, Jean*,**,**
+93,9060,*Nolf, Dirk*,*Nolf, D.*,**
+93,9061,*Brzobohaty%A, Rostislav*,*Brzobohaty, R.*,**
+93,9070,*Peri, Silvia I.*,**,**
+93,9080,*Bond, Mariano*,**,**
+93,9081,*Lo%Apez, Guillermo*,**,**
+93,9090,*Salgado, Leonardo*,**,**
+93,9091,*Coria, Rodolfo A.*,**,**
+93,9100,*Pardin%Eas, Ulyses Francisco Jose%A*,**,**
+93,9110,*Salgado, Leonardo*,**,**
+93,9111,*Calvo, Jorge Orlando*,**,**
+93,9120,*Ubilla, Marti%An*,**,**
+93,9121,*Parea, Daniel*,**,**
+93,9121,*Bond, Mariano*,**,**
+93,9130,*Gasparini, Zulma*,*de Gasparini, Zulma B.*,**
+93,9131,*Spalletti, Luis*,**,**
+93,9140,*dos Santos, Jose%A Carlos Rodrigues*,**,**
+93,9141,*Rancy, Alceu*,**,**
+93,9141,*Ferigolo, Jorge*,**,**
+93,9150,*Salgado, Leonardo*,**,**
+93,9160,*Bonaparte, Jose%A F.*,**,**
+93,9161,*Coria, Rodolfo A.*,**,**
+93,9170,*Ferna%Andez, Marta S.*,**,**
+93,9171,*de la Fuente, Marcelo S.*,**,**
+93,9180,*Vucetich, Mari%Aa Guiomar*,*Vucetich, Mari%Aa G.*,**
+93,9181,*Mazzoni, Mario M.*,**,**
+93,9181,*Pardin%Eas, Ulyses Francisco Jose%A*,*Pardin%Eas, Ulyses F. J.*,**
+93,9190,*Massoia, Elio*,**,**
+93,9191,*Pardin%Eas, Ulyses Francisco Jose%A*,*Pardin%Eas, Ulyses Francisco*,**
+93,9200,*de la Fuente, Marcelo S.*,**,**
+93,9210,*Vizcaino, Sergio F.*,**,**
+93,9211,*Bargo, Mari%Aa S.*,**,**
+93,9220,*Lyman, R. Lee*,**,**
+93,9230,*Racheboeuf, Patrick R.*,**,*e*
+93,9231,*Babin, Claude*,**,*e*
+93,9240,*Barriel, Ve%Aronique*,**,**
+93,9241,*Tassy, Pascal*,**,**
+93,9250,*Eisenmann, Ve%Ara*,**,**
+93,9260,*Mein, Pierre*,**,**
+93,9261,*Romaggi, Jean-Paul*,**,**
+93,9270,*Vianey-Liaud, Monique*,**,**
+93,9280,*David, Bruno*,**,**
+93,9281,*Laurin, Bernard*,**,**
+93,9290,*de Ricqle%Cs, Armand*,*de Ricqle%Cs, A.*,**
+93,9300,*Godinot, Marc*,**,**
+93,9310,*Mourer-Chauvire%A, Ce%Acile*,**,**
+93,9320,*Senut, Brigitte*,**,**
+93,9330,*Valentin, Sophie-E%Cve*,**,**
+93,9331,*Lange-Badre%A, Brigitte*,**,**
+93,9340,*Meunier, Franc%Bois J.*,**,**
+93,9341,*Gayet, Mireille*,**,**
+93,9350,*Sige%A, Bernard*,**,**
+93,9360,*Sengupta, Dhurjati Prasad*,**,**
+93,9370,*Gaudant, Jean*,**,**
+93,9380,*Colombo, Ferran*,*Colombo, F.*,**
+93,9381,*Cuevas, J. L.*,**,**
+93,9390,*Eshelman, Ralph E.*,**,**
+93,9391,*Grady, Frederick*,*Grady, Fred*,**
+93,9400,*Polyak, Victor J.*,**,**
+93,9401,*Cokendolpher, James C.*,**,**
+93,9410,*Bultynck, Pierre*,**,**
+93,9420,*Godefroit, Pascal*,**,**
+93,9430,*Germonpre%A, Mietje*,**,**
+93,9440,*Lamolda Palacios, Marcos A.*,*Lamolda, Marcos A.*,*e*
+93,9441,*Kauffman, Erle G.*,**,*e*
+93,9441,*Walliser, Otto H.*,**,*e*
+93,9450,*Hallam, Anthony*,**,**
+93,9460,*Monclova Boho%Arquez, Antonio*,**,**
+93,9470,*Raup, David M.*,**,**
+93,9480,*Ra%Rdulescu, Costin*,**,**
+93,9481,*Samson, Petre-Mihai*,*Samson, Petre*,**
+93,9490,*Terzea, Elena*,**,**
+93,9500,*Ra%Rdulescu, Costin*,**,**
+93,9501,*Samson, Petre-Mihai*,**,**
+93,9501,*S%Btiuca%R, Emanoil*,**,**
+93,9510,*Terzea, Elena*,**,**
+93,9520,*Ra%Rdulescu, Costin*,**,**
+93,9521,*Samson, Petre-Mihai*,**,**
+93,9530,*Negrea, S%Btefan*,**,**
+93,9531,*Negrea, Alexandrina*,**,**
+93,9531,*Karban, Gu%Fnter*,**,**
+93,9540,*Ra%Rdulescu, Costin*,**,**
+93,9541,*Samson, Petre-Mihai*,**,**
+93,9541,*S%Btiuca%R, Emanoil*,**,**
+93,9541,*Enciu, Petre*,**,**
+93,9541,*Popescu, Aurelian*,**,**
+93,9550,*Terzea, Elena*,**,**
+93,9560,*S%Btiuca%R, Emanoil*,**,**
+93,9570,*Negrea, S%Btefan*,**,**
+93,9571,*Negrea, Alexandrina*,**,**
+93,9571,*Karban, Gu%Fnter*,**,**
+93,9580,*Schmid, Ulrich*,**,**
+93,9590,*Clottes, Jean*,**,**
+93,9600,*Benton, Michael J.*,**,**
+93,9610,*Ducrocq, Ste%Aphane*,**,**
+93,9620,*Stoczkowski, Wiktor*,**,**
+93,9630,*Baudry, Myle%Cne*,**,**
+93,9640,*Gayet, Mireille*,**,**
+93,9641,*Meunier, Franc%Bois J.*,**,**
+93,9650,*Gauffre, Franc%Bois-Xavier*,*Gauffre, Franc%Bois*,**
+93,9660,*Gould, Stephen Jay*,**,**
+93,9670,*Ducrocq, Ste%Aphane*,**,**
+93,9680,*Rocchia, Robert*,**,**
+93,9690,*Arsuaga, Juan Luis*,**,**
+93,9700,*Dauphin, Yannicke*,**,**
+93,9701,*Pickford, Martin*,**,**
+93,9701,*Senut, Brigitte*,**,**
+93,9710,*De Zanche, Vittorio*,**,**
+93,9711,*Gianolla, Piero*,**,**
+93,9711,*Mietto, Paolo*,**,**
+93,9711,*Siorpaes, Chiara*,**,**
+93,9711,*Vail, Peter R.*,**,**
+93,9720,*Franco, Franca*,**,**
+93,9721,*Piccoli, Giuliano*,**,**
+93,9730,*Dalla Vecchia, Fabio Marco*,**,**
+93,9731,*Tarlao, Alceo*,**,**
+93,9731,*Tunis, Giorgio*,**,**
+93,9740,*Almac%Ba, Carlos*,**,**
+93,9750,*Brunet-Lecomte, Patrick*,**,**
+93,9751,*Povoas, Liliana*,**,**
+93,9760,*Anonymous*,**,**
+93,9770,*Zallinger, Rudolph F.*,*Tsallinger, Rudol'f Frantsevich*,**
+93,9780,*Moore, Jon A.*,**,**
+93,9790,*Richard, Alison F.*,**,**
+93,9800,*Ostrom, John H.*,**,**
+93,9801,*Yellis, Ken*,**,**
+93,9810,*Ostrom, John H.*,**,**
+93,9820,*Narendra, Barbara L.*,**,**
+93,9830,*Ledendecker, Stefan*,**,**
+93,9840,*Kogbe, Cornelius Adedapo*,*Kogbe, C. A.*,*e*
+93,9841,*Lang, Jacques*,*Lang, J.*,*e*
+93,9850,*Lefranc, Jean-Philippe*,*Lefranc, J. Ph.*,**
+93,9851,*Guiraud, Rene%A*,*Guiraud, R.*,**
+93,9860,*Smith, Roger M. H.*,*Smith, R. M. H.*,**
+93,9870,*Yemane, Keddy*,*Yemane, K.*,**
+93,9871,*Kelts, Kerry R.*,*Kelts, K.*,**
+93,9880,*Lang, Jacques*,*Lang, J.*,*e*
+93,9890,*Busson, Georges*,*Busson, G.*,**
+93,9891,*Corne%Ae, Annie*,*Corne%Ae, A.*,**
+93,9900,*Sinitsa, Sof'ya Mikhaylovna*,**,**
+93,9910,*Lucas, Spencer G.*,**,**
+93,9911,*Hunt, Adrian P.*,**,**
+93,9920,*Morales Romero, Jorge*,*Morales, Jorge*,**
+93,9921,*Pickford, Martin*,**,**
+93,9921,*Soria, Dolores*,**,**
+93,9930,*Ficcarelli, Giovanni*,**,**
+93,9931,*Borselli, Vittorio*,**,**
+93,9931,*Moreno Espinosa, Miguel*,**,**
+93,9931,*Torre, Danilo*,**,**
+93,9940,*Fistani, Anton B.*,*Fistani, Anton*,**
+93,9941,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+93,9950,*Marti%An Sua%Arez, Elvira*,**,**
+93,9951,*Freudenthal, Matthijs*,**,**
+93,9951,*Agusti%A Ballester, Jorge*,*Agusti, Jorge*,**
+93,9960,*Gaudant, Jean*,**,**
+93,9970,*Vianey-Liaud, Monique*,**,**
+93,9971,*Ringeade, Michel*,**,**
+93,9980,*Gue%Arin, Claude*,**,**
+93,9981,*Demathieu, Georges*,**,**
+93,9990,*Rage, Jean-Claude*,**,**
+93,9991,*Marshall, Larry G.*,**,**
+93,9991,*Gayet, Mireille*,**,**
+93,10000,*Sudre, Jean*,**,**
+93,10001,*Jaeger, Jean-Jacques*,**,**
+93,10001,*Sige%A, Bernard*,**,**
+93,10001,*Vianey-Liaud, Monique*,**,**
+93,10010,*Marandat, Bernard*,**,**
+93,10011,*Crochet, Jean-Yves*,**,**
+93,10011,*Godinot, Marc*,**,**
+93,10011,*Hartenberger, Jean-Louis*,**,**
+93,10011,*Legendre, Serge*,**,**
+93,10011,*Remy, Jean-Albert*,**,**
+93,10011,*Sige%A, Bernard*,**,**
+93,10011,*Sudre, Jean*,**,**
+93,10011,*Vianey-Liaud, Monique*,**,**
+93,10020,*Ferriz, Francisco Javier*,*Ferriz, F. Javier*,**
+93,10021,*Freudenthal, Matthijs*,**,**
+93,10021,*Marti%An Sua%Arez, Elvira*,**,**
+93,10030,*Aguilar, Jean-Pierre*,**,**
+93,10031,*Bachelet, Bernadette*,**,**
+93,10031,*Bonnet, Andre%A*,**,**
+93,10031,*Lesage, Jean-Luc*,**,**
+93,10031,*Michaux, Jacques*,**,**
+93,10040,*Reshetov, Valeriy Yur'yevich*,*Reshetov, Valeri*,**
+93,10041,*Spassov, Nikolay B.*,*Spassov, Nikolai*,**
+93,10041,*Bayshashov, Bolat Uapovich*,*Baishashov, Bolat*,**
+93,10050,*Mein, Pierre*,**,**
+93,10051,*Marti%An Sua%Arez, Elvira*,**,**
+93,10060,*Geraads, Denis*,**,**
+93,10070,*Prasad, Guntupalli V. R.*,*Prasad, G. V. R.*,**
+93,10071,*Singh, Verinder*,**,**
+93,10080,*Vangengeym, Eleonora Alekseyevna*,*Vangengeim, E. A.*,**
+93,10081,*Pevzner, Mikhail Abramovich*,**,**
+93,10090,*Vangengeym, Eleonora Alekseyevna*,*Vangengeim, E. A.*,**
+93,10091,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,10091,*Godina, Anna Yakovlevna*,**,**
+93,10091,*Dmitriyeva, Yekaterina Leonidovna*,*Dmitrieva, E. L.*,**
+93,10091,*Zhegallo, Vladimir Il'ich*,**,**
+93,10091,*Sotnikova, Marina Vladimirovna*,**,**
+93,10091,*Tleuberdina, Pirusa Ablayevna*,**,**
+93,10100,*Shuvalov, Vladimir Fe%Fdorovich*,**,**
+93,10110,*Tesakov, Aleksey S.*,**,**
+93,10120,*Aver'yanov, Aleksandr Olegovich*,**,**
+93,10121,*Udovichenko, Nikolay Ivanovich*,**,**
+93,10130,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,10131,*Yerbayeva, Margarita Aleksandrovna*,*Erbaeva, M. A.*,**
+93,10131,*Sotnikova, Marina Vladimirovna*,**,**
+93,10140,*Masini, Federico*,**,**
+93,10141,*Rook, Lorenzo*,**,**
+93,10150,*Dalla Vecchia, Fabio Marco*,**,**
+93,10151,*Ligabue, Giancarlo*,**,**
+93,10160,*Magnatti, Mauro*,**,**
+93,10161,*Blasetti, Alessandro*,**,**
+93,10170,*Dalla Vecchia, Fabio Marco*,**,**
+93,10180,*Wellnhofer, Peter*,**,**
+93,10190,*Herzog, Karl*,**,**
+93,10200,*Tischlinger, Helmut*,**,**
+93,10210,*Wiesenmu%Fller, Herbert*,**,**
+93,10211,*Zapp, Manfred*,**,**
+93,10220,*Velichko, Andrey Alekseyevich*,*Velitchko, A. A.*,**
+93,10230,*Russell, Dale A.*,**,**
+93,10240,*Cahen, Daniel*,*Cahen, D.*,*e*
+93,10241,*Orban, Rosine*,*Orban, R.*,*e*
+93,10241,*Vrydagh, Stana*,*Vrydagh, S.*,*e*
+93,10250,*Trinkaus, Erik*,**,**
+93,10251,*Ruff, Christopher B.*,**,**
+93,10260,*van Vark, Gerrit-N.*,**,**
+93,10261,*Bilsborough, Alan*,**,**
+93,10261,*Dijkema, Jacob*,**,**
+93,10270,*Dams, Lya*,**,**
+93,10280,*Thoma, Andor*,**,**
+93,10281,*Janssens, Paul*,**,**
+93,10290,*Twiesselmann, Franc%Bois*,**,**
+93,10300,*Leguebe, Andre%A*,**,**
+93,10310,*Zidek, Jir%Ji%A*,**,**
+93,10320,*Nosovskiy, Mikhail Fe%Fdorovich*,*Nosovsky, M. F.*,**
+93,10330,*Archer, Michael*,**,**
+93,10331,*Godthelp, Henk*,**,**
+93,10331,*Hand, Suzanne J.*,**,**
+93,10331,*Megirian, Dirk*,**,**
+93,10340,*Beard, K. Christopher*,**,**
+93,10341,*Krishtalka, Leonard*,**,**
+93,10341,*Stucky, Richard K.*,**,**
+93,10350,*Gayet, Mireille*,**,**
+93,10360,*Ducrocq, Ste%Aphane*,**,**
+93,10370,*Saint-Andre%A, Pierre-Antoine*,**,**
+93,10380,*Gmira, Saloua*,**,**
+93,10390,*Azanza, Beatriz*,**,**
+93,10400,*Maureille, Bruno*,**,**
+93,10410,*Peyre, E%Avelyne*,**,**
+93,10420,*Parent, Jean-Pierre*,**,**
+93,10430,*Amani, Fethi*,**,**
+93,10431,*Geraads, Denis*,**,**
+93,10440,*Defleur, Alban*,**,**
+93,10441,*Dutour, Olivier*,**,**
+93,10441,*Valladas, He%Ale%Cne*,**,**
+93,10441,*Combier, Jean*,**,**
+93,10441,*Vandermeersch, Bernard*,**,**
+93,10450,*Bulot, Christian*,**,**
+93,10451,*Ginsburg, Le%Aonard*,**,**
+93,10460,*Le Loeuff, Jean*,**,**
+93,10461,*Buffetaut, Eric*,**,**
+93,10461,*Martin, Michel*,**,**
+93,10461,*Martin, Vale%Arie*,**,**
+93,10461,*Tong-Buffetaut, Haiyan*,*Tong, Haiyan*,**
+93,10470,*Ramirez-Rozzi, Fernando V.*,**,**
+93,10480,*Azanza, Beatriz*,**,**
+93,10490,*Cirot, Edith*,**,**
+93,10491,*de Bonis, Louis*,**,**
+93,10500,*Raynal, Jean-Paul*,**,**
+93,10501,*Geraads, Denis*,**,**
+93,10501,*Magoga, Lionel*,**,**
+93,10501,*El Hajraoui, Abdeljelil*,**,**
+93,10501,*Texier, Jean-Pierre*,**,**
+93,10501,*Lefevre, David*,**,**
+93,10501,*Sbihi-Alaoui, Fatima-Zora*,**,**
+93,10510,*Couture, Christine*,**,**
+93,10520,*Ramirez-Rozzi, Fernando V.*,**,**
+93,10530,*Lechene de la Porte, Paulette*,**,**
+93,10531,*Marzin, E%Aric*,**,**
+93,10531,*Lafont, Raymond*,**,**
+93,10531,*Begoue%Fn, Robert*,**,**
+93,10531,*Clottes, Jean*,**,**
+93,10531,*Giraud, Jean-Pierre*,**,**
+93,10531,*Rouzand, Franc%Bois*,**,**
+93,10531,*Fosse, Philippe*,**,**
+93,10531,*Dutour, Olivier*,**,**
+93,10540,*Pickford, Martin*,**,**
+93,10541,*Dauphin, Yannicke*,**,**
+93,10550,*Hambucken, Anne*,**,**
+93,10560,*Minzoni-De%Aroche, Angela*,**,**
+93,10561,*Fontugne, Michel*,**,**
+93,10570,*Michel, Patrick*,**,**
+93,10571,*Wengler, Luc*,**,**
+93,10580,*Pickford, Martin*,**,**
+93,10581,*Senut, Brigitte*,**,**
+93,10581,*Mein, Pierre*,**,**
+93,10581,*Conroy, Glenn C.*,**,**
+93,10590,*Nosotti, Stefania*,**,**
+93,10591,*Pinna, Giovanni*,**,**
+93,10600,*Hua, Ste%Aphane*,**,**
+93,10601,*Vasse, Denis*,**,**
+93,10601,*Buffetaut, Eric*,**,**
+93,10601,*Martin, Michel*,**,**
+93,10601,*Mazin, Jean-Michel*,**,**
+93,10601,*Vadet, Alain*,**,**
+93,10610,*Conroy, Glenn C.*,*Conroy, Glenn*,**
+93,10611,*Pickford, Martin*,**,**
+93,10611,*Senut, Brigitte*,**,**
+93,10611,*Mein, Pierre*,**,**
+93,10620,*Polly, Paul David*,**,**
+93,10621,*Lange-Badre%A, Brigitte*,**,**
+93,10630,*Azanza, Beatriz*,**,**
+93,10631,*de Broin, France*,**,**
+93,10631,*Galoyer, Alain*,**,**
+93,10631,*Ginsburg, Le%Aonard*,**,**
+93,10631,*Zouhri, Samir*,**,**
+93,10640,*Ramirez-Rozzi, Fernando V.*,**,**
+93,10650,*Buffetaut, Eric*,**,**
+93,10651,*Tong-Buffetaut, Haiyan*,**,**
+93,10660,*Picq, Pascal*,**,**
+93,10670,*Cerden%Eo, Esperanza*,**,**
+93,10680,*Vignaud, Patrick*,**,**
+93,10681,*Lange-Badre%A, Brigitte*,**,**
+93,10681,*Hantzpergue, Pierre*,**,**
+93,10681,*Dutrieux, Michel*,**,**
+93,10681,*Maury, Gabriel*,**,**
+93,10690,*Morales, Michael*,**,*e*
+93,10700,*Lucas, Spencer G.*,**,**
+93,10710,*Huber, Phillip*,**,**
+93,10711,*Lucas, Spencer G.*,**,**
+93,10711,*Hunt, Adrian P.*,**,**
+93,10720,*Hunt, Adrian P.*,**,**
+93,10730,*Luttrell, Patty Rubick*,**,**
+93,10740,*Eaton, Jeffrey G.*,**,**
+93,10750,*Malez, Mirko*,**,**
+93,10751,*Malez, Vesna*,**,**
+93,10760,*Paunovic%A, Maja*,**,**
+93,10770,*Pols%Jak, Ante*,**,**
+93,10771,*Bajraktarevic%A, Zlatan*,**,**
+93,10771,*Gus%Jic%A, Ivan*,**,**
+93,10771,*Sremac, Jasenka*,**,**
+93,10771,*Magas%J, Blaz%Jenka*,**,**
+93,10780,*Guz%Jvica, Goran*,**,**
+93,10790,*Lenardic%A, Jadranka*,**,**
+93,10800,*Malez, Mirko*,**,**
+93,10801,*Brajkovic%A, Dejana*,**,**
+93,10810,*Malez, Mirko*,**,**
+93,10811,*Hajek-Tadesse, Valentina*,**,**
+93,10811,*Malez, Vesna*,**,**
+93,10820,*Paunovic%A, Maja*,**,**
+93,10830,*Zhang Miman*,*Chang Mee-mann*,**
+93,10831,*Liu Yuhai*,**,**
+93,10831,*Zhang Guorui*,**,**
+93,10840,*Blieck, Alain*,**,**
+93,10841,*Elliott, David K.*,**,**
+93,10841,*Gagnier, Pierre-Yves*,**,**
+93,10850,*Arsenault, Marius*,**,**
+93,10851,*Janvier, Philippe*,**,**
+93,10860,*Wang Nianzhong*,**,**
+93,10870,*Young, Gavin C.*,**,**
+93,10880,*Turner, Susan*,**,**
+93,10890,*Lelie%Cvre, Herve%A*,**,**
+93,10891,*Lelie%Cvre, Herve%A*,*Lelie%Cvre, H.*,**
+93,10900,*Lee Cho Min*,*Li Zhomin*,**
+93,10910,*Liu Yuhai*,**,**
+93,10920,*Zhu Min*,**,**
+93,10930,*Zhang Guorui*,**,**
+93,10931,*Liu Yaguang*,**,**
+93,10940,*Arratia, Gloria*,**,**
+93,10950,*Wang Junqing*,**,**
+93,10960,*Smith, Moya Meredith*,**,**
+93,10970,*Zhang Miman*,*Chang Mee-mann*,**
+93,10980,*Cloutier, Richard*,**,**
+93,10990,*Campbell, Kenton S. W.*,*Campbell, K. S. W.*,**
+93,10991,*Barwick, Richard E.*,*Barwick, R. E.*,**
+93,11000,*Kemp, Anne*,*Kemp, A.*,**
+93,11010,*Song Changqi*,**,**
+93,11011,*Zhang Miman*,*Chang Mee-mann*,**
+93,11020,*Vorob'ye%Fva, Emiliya Ivanovna*,*Vorobyeva, Emilia I.*,**
+93,11021,*Nikitin, Vladimir B.*,**,**
+93,11030,*Wang Shitao*,**,**
+93,11040,*Liu Shifan*,**,**
+93,11050,*Dal Sasso, Cristiano*,**,**
+93,11060,*Anonymous*,**,**
+93,11070,*Bishop, Richard S.*,**,**
+93,11080,*Leanza, Hector*,**,**
+93,11081,*Zeiss, Arnold*,**,**
+93,11081,*Cione, Alberto L.*,**,**
+93,11081,*Dullo, Wolf-Christian*,**,**
+93,11081,*Flu%Fgel, Erik*,**,**
+93,11081,*Garate-Zubillaga, Jose%A I.*,**,**
+93,11081,*Gasparini, Zulma*,**,**
+93,11090,*Mazin, Jean-Michel*,**,**
+93,11091,*Cuny, Gilles*,**,**
+93,11100,*Goede, Albert*,*Goede, A.*,**
+93,11101,*Bada, Jeffrey L.*,*Bada, J. L.*,**
+93,11110,*Whitelaw, Michael John*,*Whitelaw, M. J.*,**
+93,11120,*Roc%Jek, Zbyne%Jk*,**,**
+93,11130,*Rajarajan, K.*,**,**
+93,11140,*Baird, Robert F.*,*Baird, Robert*,**
+93,11150,*Long, John A.*,**,**
+93,11160,*Ritchie, Alexander*,*Ritchie, A.*,**
+93,11161,*Wang Shitao*,**,**
+93,11161,*Young, Gavin C.*,*Young, G. C.*,**
+93,11161,*Zhang Guorui*,**,**
+93,11170,*Seme%Fnov, Yuriy Alekseyevich*,**,**
+93,11180,*Pan Jiang*,*P'an Kiang*,**
+93,11190,*Heuertz, Fe%Alix*,**,**
+93,11191,*Klein, Edmond J.*,**,**
+93,11191,*Tockert, Joseph*,**,**
+93,11200,*Heuertz, Marcel*,**,**
+93,11210,*Heuertz, Marcel*,**,**
+93,11220,*Hary, Armand*,**,**
+93,11230,*Delsate, Dominique*,**,**
+93,11240,*Tyler, James C.*,**,**
+93,11241,*Jerzman%Aska, Anna*,**,**
+93,11241,*Bannikov, Aleksandr Fe%Fdorovich*,*Bannikov, Alexandre F.*,**
+93,11241,*S%Awidnicki, Jacek*,**,**
+93,11250,*Archibald, J. David*,**,**
+93,11260,*Wright, David B.*,**,**
+93,11270,*Bennett, S. Christopher*,**,**
+93,11280,*Hulbert, Richard C., Jr.*,**,**
+93,11290,*Cohen, Andrew S.*,**,**
+93,11291,*Halfpenny, James*,**,**
+93,11291,*Lockley, Martin*,**,**
+93,11291,*Michel, Ellinor*,**,**
+93,11300,*Polly, Paul David*,**,**
+93,11310,*Welles, Samuel P.*,**,**
+93,11320,*Dundas, Robert G.*,**,*e*
+93,11321,*Long, Douglas J.*,**,*e*
+93,11330,*Gobalet, Kenneth W.*,**,**
+93,11331,*Fenenga, Gerrit L.*,**,**
+93,11340,*Long, Douglas J.*,**,**
+93,11350,*Bell, Christopher J.*,**,**
+93,11351,*Dundas, Robert G.*,**,**
+93,11360,*Bell, Christopher J.*,**,**
+93,11370,*Scott, Eric*,**,**
+93,11371,*Cox, Shelley M.*,**,**
+93,11380,*Jefferson, George T.*,*Jefferson, G. T.*,**
+93,11381,*Tejada-Flores, Antonia E.*,*Tejada-Flores, A. E.*,**
+93,11390,*Dundas, Robert G.*,**,**
+93,11391,*Cunningham, Laura M.*,**,**
+93,11400,*Majors, C. Paul*,**,**
+93,11410,*Fay, Leslie P.*,**,**
+93,11411,*Thiessen, Kenneth R.*,**,**
+93,11420,*Diamond, Jared*,**,**
+93,11430,*Simons, Elwyn L.*,*Simons, Elwyn*,**
+93,11440,*Clottes, Jean*,**,**
+93,11441,*Courtin, Jean*,**,**
+93,11450,*Vrba, Elisabeth S.*,**,**
+93,11460,*Johanson, Donald C.*,**,**
+93,11470,*Pope, Geoffrey G.*,**,**
+93,11480,*White, Randall*,**,**
+93,11490,*Flannery, Timothy F.*,*Flannery, Tim*,**
+93,11500,*Albrecht, Gerd*,**,**
+93,11510,*Winkler, Eike-Meinrad*,*Winkler, E.-M.*,**
+93,11511,*Paunovic%A, Maja*,*Pounovic%A, M.*,**
+93,11520,*Bal%Suk, Alicja*,**,**
+93,11521,*Ml%Synarski, Marian*,**,**
+93,11521,*Sulimski, Andrzej*,**,**
+93,11530,*Kozl%Sowski, Janusz Krzysztof*,**,**
+93,11540,*Nolf, Dirk*,**,**
+93,11541,*Stringer, Gary L.*,**,**
+93,11550,*Jeli%Anek, Jan*,**,**
+93,11560,*Velichko, Andrey Alekseyevich*,**,**
+93,11561,*Arslanov, Khikmatulla Adiyevich*,**,**
+93,11561,*Gerasimova, S. A.*,**,**
+93,11561,*Islamov, Utkar Islamovich*,**,**
+93,11561,*Kremenetskiy, K. V.*,**,**
+93,11561,*Markova, Anastasiya Konstantinovna*,**,**
+93,11561,*Udartsev, V. P.*,**,**
+93,11561,*Chikolini, N. I.*,**,**
+93,11570,*Mania, Dietrich*,**,**
+93,11580,*Kli%Ama, Bohuslav*,**,**
+93,11590,*Abramova, Zoya Aleksandrovna*,**,**
+93,11600,*Vencl, Slavomil*,**,**
+93,11610,*Barandiara%An, Ignacio*,**,**
+93,11620,*Broglio, Alberto*,**,**
+93,11630,*Musil, Rudolf*,**,**
+93,11640,*Haynes, Gary*,**,**
+93,11650,*Fiorillo, Anthony R.*,**,**
+93,11660,*Bromage, Timothy G.*,**,**
+93,11661,*Bermu%Adez de Castro, Jose%A Mari%Aa*,**,**
+93,11661,*Fernandez Jalvo, Yolanda*,**,**
+93,11670,*Puech, Pierre-Franc%Bois*,**,**
+93,11671,*Puech, Stella*,**,**
+93,11680,*Cook, Jill*,**,**
+93,11690,*Le Mort, Franc%Boise*,**,**
+93,11691,*Gambier, Dominique*,**,**
+93,11700,*Jeli%Anek, Jan*,**,**
+93,11710,*Med, Milan*,**,**
+93,11720,*Henke, Winfied*,**,**
+93,11730,*Garralda, Mari%Aa Dolores*,*Garralda, M. D.*,**
+93,11731,*Tillier, Anne-Marie*,*Tillier, A. M.*,**
+93,11731,*Vandermeersch, Bernard*,*Vandermeersch, B.*,**
+93,11731,*Cabrera Valdes, Victoria*,*Cabrera, V.*,**
+93,11731,*Gambier, Dominique*,*Gambier, D.*,**
+93,11740,*Vanc%Jata, Va%Aclav*,**,**
+93,11750,*Mu%Fller, E. Peter*,**,*e*
+93,11751,*Porth, Hans*,**,*e*
+93,11760,*Schneider, Jo%Frg*,**,**
+93,11761,*Gebhardt, Ute*,**,**
+93,11770,*Gregor, Hans-Joachim*,*Gregor, H.-J.*,**
+93,11771,*Maisch, G.*,**,**
+93,11780,*Weidert, Werner K.*,**,*e*
+93,11790,*Koch, Lutz*,**,**
+93,11800,*Hagdorn, Hans*,**,**
+93,11810,*Wellnhofer, Peter*,**,**
+93,11820,*Moosleitner, Gero*,**,**
+93,11830,*Winckler, K. Martin*,**,**
+93,11840,*Kru%Fger, Fritz J.*,**,**
+93,11850,*Hagemeister, Dieter*,**,**
+93,11860,*Stojaspal, Franz*,**,**
+93,11870,*Kru%Fger, Fritz J.*,**,**
+93,11880,*Meyer, Wilhelm*,**,**
+93,11890,*Weidert, Werner K.*,**,*e*
+93,11900,*Kowalski, Heinz*,**,**
+93,11910,*Jungheim, Hans Josef*,**,**
+93,11920,*Streichen, H.-J.*,**,**
+93,11930,*Hagdorn, Hans*,**,**
+93,11940,*Sauerborn, Ulrich*,**,**
+93,11950,*Seilacher, Adolf*,**,**
+93,11960,*Sauerborn, Ulrich*,**,**
+93,11970,*Riegraf, Wolfgang*,**,**
+93,11980,*Richter, Andreas E.*,**,**
+93,11990,*Stojaspal, Franz*,**,**
+93,12000,*Selmeier, Alfred*,**,**
+93,12010,*Lienau, Hans-Werner*,**,**
+93,12020,*Lienau, Hans-Werner*,**,**
+93,12030,*Fejfar, Oldr%Jich*,**,**
+93,12040,*Ko%Nno, Naoki*,*Kohno, Naoki*,**
+93,12041,*Hasegawa, Yoshikazu*,**,**
+93,12050,*Obrhelova%A, Nade%Jz%Jda*,**,**
+93,12060,*S%Jtamberg, Stanislav*,**,**
+93,12070,*Vanc%Jatova%A, Marina A.*,**,**
+93,12071,*Vanc%Jata, Va%Aclav*,**,**
+93,12080,*Strouhal, Eugen*,**,**
+93,12090,*Pesce Delfino, Vittorio*,*Pesce Delfino, V.*,**
+93,12091,*Vacca, Eligio*,*Vacca, E.*,**
+93,12100,*Strouhal, Eugen*,**,**
+93,12110,*Strouhal, Eugen*,**,**
+93,12120,*Strouhal, Eugen*,**,**
+93,12130,*Bacon, Anne-Marie*,*Bacon, A.-M.*,**
+93,12140,*Courtaud, Patrice*,*Courtaud, P.*,**
+93,12150,*Heim, Jean-Louis*,*Heim, J.-L.*,**
+93,12160,*Senut, Brigitte*,**,**
+93,12161,*Coppens, Yves*,**,**
+93,12170,*Arensburg, Baruch*,*Arensburg, B.*,**
+93,12171,*Tillier, Anne-Marie*,*Tillier, A.-M.*,**
+93,12180,*Senut, Brigitte*,**,**
+93,12190,*Blanckaert, Claude*,*Blanckaert, C.*,*e*
+93,12191,*Ducros, Albert*,*Ducros, A.*,*e*
+93,12191,*Hublin, Jean-Jacques*,*Hublin, J.-J.*,*e*
+93,12200,*Cohen, Claudine*,**,**
+93,12210,*Laurent, Goulven*,**,**
+93,12220,*Pautrat, Jean-Yves*,**,**
+93,12230,*Hublin, Jean-Jacques*,**,**
+93,12240,*Piveteau, Jean*,**,**
+93,12250,*Ducros, Albert*,**,**
+93,12251,*Ducros, Jacqueline*,**,**
+93,12260,*Arsuaga, Juan Luis*,*Arsuaga, J. L.*,**
+93,12261,*Carretero, Jose%A Miguel*,*Carretero, J. M.*,**
+93,12261,*Gracia, Ana*,*Gracia, A.*,**
+93,12261,*Marti%Anez, Ignacio*,*Marti%Anez, I.*,**
+93,12270,*Beraud-Colomb, Elaine*,**,**
+93,12280,*Mann, Alan E.*,*Mann, Alan*,**
+93,12281,*Lampl, Michelle*,**,**
+93,12281,*Monge, Janet M.*,**,**
+93,12290,*Trinkaus, Erik*,**,**
+93,12300,*Crube%Azy, E%Aric*,*Crube%Azy, E%A.*,*e*
+93,12301,*Duday, Henri*,*Duday, H.*,*e*
+93,12301,*Sellier, Pascal*,*Sellier, P.*,*e*
+93,12301,*Tillier, Anne-Marie*,*Tillier, A.-M.*,*e*
+93,12310,*Crube%Azy, E%Aric*,**,**
+93,12311,*Duday, Henri*,**,**
+93,12311,*Sellier, Pascal*,**,**
+93,12311,*Tillier, Anne-Marie*,**,**
+93,12320,*Gambier, Dominique*,**,**
+93,12330,*Duday, Henri*,**,**
+93,12331,*Courtaud, Patrice*,**,**
+93,12331,*Crube%Azy, E%Aric*,**,**
+93,12331,*Sellier, Pascal*,**,**
+93,12331,*Tillier, Anne-Marie*,**,**
+93,12340,*Ferembach, Denise*,**,**
+93,12350,*Nara, Takashi*,**,**
+93,12351,*Tillier, Anne-Marie*,**,**
+93,12360,*Picq, Pascal*,**,**
+93,12370,*Franciscus, Robert G.*,**,**
+93,12371,*Holliday, Trenton W.*,**,**
+93,12380,*Mallegni, Francesco*,**,**
+93,12390,*Bresson, Fre%Ade%Arique*,**,**
+93,12400,*Defleur, Alban*,**,**
+93,12401,*Dutour, Olivier*,**,**
+93,12401,*Vandermeersch, Bernard*,**,**
+93,12410,*Brugal, Jean-Philippe*,**,**
+93,12420,*David, Francine*,*David, F.*,**
+93,12421,*Enloe, James G.*,*Enloe, J. G.*,**
+93,12430,*Calzada Badi%Aa, Sebastia%An*,*Calzada, Sebastia%An*,**
+93,12431,*Urquiola, Mari%Aa del Mar*,**,**
+93,12440,*Wollanke, Gerd*,**,**
+93,12441,*Zimmerle, Winfried*,**,**
+93,12450,*Andrews, Sheila Mahala*,*Andrews, S. M.*,**
+93,12451,*Carroll, Robert L.*,*Carroll, R. L.*,**
+93,12460,*Jime%Anez Fuentes, Emiliano*,**,**
+93,12470,*Kues, Barry S.*,**,**
+93,12471,*Smith, Clay T.*,**,**
+93,12471,*North, Robert M.*,**,**
+93,12471,*Lucas, Spencer G.*,**,**
+93,12471,*Northrop, Stuart A.*,**,**
+93,12471,*Balk, Christina L.*,**,**
+93,12471,*Eveleth, Robert W.*,**,**
+93,12480,*Lucas, Spencer G.*,**,**
+93,12490,*Gottfried, Michael D.*,**,**
+93,12500,*Lucas, Spencer G.*,**,**
+93,12510,*Lucas, Spencer G.*,**,**
+93,12511,*Allen, Bruce D.*,**,**
+93,12511,*Hayden, Steven N.*,**,**
+93,12520,*von Koenigswald, Wighart*,**,**
+93,12530,*Court, Nicholas*,*Court, Nick*,**
+93,12540,*Calligaris, Ruggero*,**,**
+93,12550,*Pilleri, Giorgio*,*Pilleri. G.*,**
+93,12560,*Holman, J. Alan*,**,**
+93,12570,*Lang, Mathias*,**,**
+93,12580,*Holman, J. Alan*,**,**
+93,12590,*Holman, J. Alan*,**,**
+93,12591,*Clayden, John D.*,**,**
+93,12600,*Holman, J. Alan*,**,**
+93,12610,*Holman, J. Alan*,**,**
+93,12620,*Holman, J. Alan*,**,**
+93,12630,*Holman, J. Alan*,**,**
+93,12640,*Holman, J. Alan*,**,**
+93,12650,*Demathieu, Georges*,**,**
+93,12651,*Fichter, Ju%Frgen*,**,**
+93,12660,*Hellmund, Meinolf*,**,**
+93,12670,*von Koenigswald, Wighart*,**,**
+93,12671,*Martin, Thomas*,**,**
+93,12671,*Mo%Frs, Thomas*,**,**
+93,12671,*Pfretzschner, Hans-Ulrich*,*Pfretzschner, U.*,**
+93,12680,*Mattner, Jo%Frg*,**,**
+93,12681,*Mu%Fller, Rainer*,**,**
+93,12690,*Kulle-Battermann, Silvia*,**,**
+93,12691,*To%Fnebo%Fhn, Reihard*,**,**
+93,12700,*Muirhead, Jeanette*,**,**
+93,12710,*Rybar%J, Petr*,**,**
+93,12720,*Hyodo, Masayuki*,**,**
+93,12721,*Watanabe, Naotune*,**,**
+93,12721,*Sunata, Wahyu*,**,**
+93,12721,*Susanto, Eko Edi*,**,**
+93,12721,*Wahyono, Hendro*,**,**
+93,12730,*Akazawa, Takeru*,**,**
+93,12731,*Dodo, Yukio*,**,**
+93,12731,*Muhesen, Sultan*,**,**
+93,12731,*Abdul-Salam, Adel*,**,**
+93,12731,*Abe, Yoshito*,**,**
+93,12731,*Kondo%N, Osamu*,**,**
+93,12731,*Mizoguchi, Yuji*,**,**
+93,12740,*Baba, Hisao*,**,**
+93,12750,*Archambeau, Monique*,**,**
+93,12751,*Archambeau, Claude*,**,**
+93,12760,*Mussi, Margherita*,**,**
+93,12770,*Moncel, Marie-He%Ale%Cne*,**,**
+93,12771,*Combier, Jean*,**,**
+93,12780,*Fagnart, Jean-Pierre*,**,**
+93,12790,*Duhard, Jean-Pierre*,**,**
+93,12800,*Furusawa, Hitoshi*,**,**
+93,12801,*Maeda, Toshitsugu*,**,**
+93,12801,*Yamashita, Shigeru*,**,**
+93,12801,*Sagayama, Tsumoru*,**,**
+93,12801,*Igarashi, Yaeko*,**,**
+93,12801,*Kimura, Masaichi*,**,**
+93,12810,*Ishiguri, Hiroyuki*,**,**
+93,12811,*Kimura, Masaichi*,**,**
+93,12820,*Chita Whale Excavation Research Group*,**,**
+93,12830,*Xiao Jule*,**,**
+93,12831,*Zhu Yizhi*,**,**
+93,12831,*Kumai, Hisao*,**,**
+93,12831,*Sakai, Jun'ichi*,**,**
+93,12840,*Goto%N, Masatoshi*,**,**
+93,12841,*Tanabe, Tomotaka*,**,**
+93,12841,*Yoshikawa, Hiroaki*,**,**
+93,12850,*Bennington, J. Bret*,**,**
+93,12860,*Nicholls, Elizabeth L.*,**,**
+93,12861,*Brinkman, Donald B.*,**,**
+93,12870,*Lehman, Thomas M.*,**,**
+93,12880,*Schwimmer, David R.*,**,**
+93,12881,*Williams, G. Dent*,**,**
+93,12881,*Dobie, James L.*,**,**
+93,12881,*Siesser, William G.*,**,**
+93,12890,*Heaton, Timothy H.*,**,**
+93,12900,*Forster, Catherine A.*,**,**
+93,12910,*Lucas, Spencer G.*,**,**
+93,12920,*Krause, David W.*,**,**
+93,12930,*Williamson, Thomas E.*,**,**
+93,12931,*Kirkland, James I.*,**,**
+93,12931,*Lucas, Spencer G.*,**,**
+93,12940,*Long, Douglas J.*,**,**
+93,12941,*Murphy, Michael A.*,**,**
+93,12941,*Rodda, Peter U.*,**,**
+93,12950,*Storer, John E.*,**,**
+93,12951,*Bryant, Harold N.*,**,**
+93,12960,*Gillette, David D.*,**,**
+93,12961,*Madsen, David B.*,**,**
+93,12970,*Flynn, John J.*,**,**
+93,12980,*McKenna, Malcolm C.*,**,**
+93,12990,*Schwimmer, David R.*,**,**
+93,13000,*Case, Gerard R.*,**,**
+93,13010,*Kemp, Anne*,*Kemp, A.*,**
+93,13020,*Court, Nicholas*,**,**
+93,13021,*Mahboubi, Mohamed*,**,**
+93,13030,*Lipps, Jere H.*,**,**
+93,13031,*Wetmore, Karen L.*,**,**
+93,13040,*Henrici, Amy C.*,**,**
+93,13041,*Fiorillo, Anthony R.*,**,**
+93,13050,*Brinkman, Donald B.*,**,**
+93,13051,*Nicholls, Elizabeth L.*,**,**
+93,13060,*Bryant, Harold N.*,**,**
+93,13070,*Emry, Robert J.*,**,**
+93,13071,*Korth, William W.*,**,**
+93,13080,*Rodda, Peter U.*,**,**
+93,13081,*Baghai, Nina*,**,**
+93,13090,*Mader, Bryn J.*,**,**
+93,13100,*Rossolimo, Ol'ga Leonidovna*,**,*e*
+93,13101,*Dolgov, Vladimir A.*,**,*e*
+93,13110,*Gromov, Igor' Mikhaylovich*,**,**
+93,13120,*Rossolimo, Ol'ga Leonidovna*,**,*e*
+93,13130,*Geptner, Vladimir Georgiyevich*,*Heptner, V. G.*,**
+93,13140,*Shenbrot, Georgiy Isidorovich*,**,**
+93,13150,*Pavlinov, Igor' Yakovlevich*,**,**
+93,13160,*Agadzhanyan, Aleksandr Karenovich*,**,**
+93,13161,*Yatsenko, V. N.*,**,**
+93,13170,*Pavlinov, Igor' Yakovlevich*,**,**
+93,13180,*Rossolimo, Ol'ga Leonidovna*,**,*e*
+93,13190,*Pavlinov, Igor' Yakovlevich*,**,**
+93,13200,*Kalandadze, Nikolay Nikolayevich*,**,**
+93,13201,*Rautian, Aleksandr Sergeyevich*,**,**
+93,13210,*Hartenberger, Jean-Louis*,*Artenberzhe, Zh.-L.*,**
+93,13220,*Pavlinov, Igor' Yakovlevich*,**,**
+93,13230,*Leguebe, Andre%A*,**,**
+93,13231,*Toussaint, Michel*,**,**
+93,13240,*Senut, Brigitte*,**,**
+93,13250,*Coppens, Yves*,**,*e*
+93,13251,*Senut, Brigitte*,**,*e*
+93,13260,*Kummer, Benno*,**,**
+93,13270,*Ishida, Hidemi*,**,**
+93,13280,*Jouffroy, Franc%Boise*,**,**
+93,13290,*Madre-Dupouy, Martine*,**,**
+93,13300,*Tardieu, Christine*,**,**
+93,13310,*Condemi, Silvana*,**,**
+93,13320,*Santafe%A Llopis, Jose%A Vicente*,*Santafe%A, J. V.*,**
+93,13321,*Casanovas Cladellas, Mari%Aa Lourdes*,*Casanovas, Ma. L.*,**
+93,13321,*Sanz Garci%Aa, Jose%A Luis*,*Sanz, J. L.*,**
+93,13321,*Calzada Badi%Aa, Sebastia%An*,*Calzada, S.*,**
+93,13330,*Wo%Flk, Ernst*,**,**
+93,13340,*Wouters, Br. A.*,**,**
+93,13350,*Bartstra, Gert-Jan*,*Bartstra, G.-J.*,**
+93,13360,*Morales Romero, Jorge*,*Morales, J.*,**
+93,13361,*Soria, Dolores*,*Soria, D.*,**
+93,13370,*Alberdi Alonso, Mari%Aa Teresa*,*Alberdi, Mari%Aa Teresa*,**
+93,13380,*Mazo, Ana Victoria*,*Mazo, Ana V.*,**
+93,13390,*Alberdi Alonso, Mari%Aa Teresa*,*Alberdi, M. T.*,**
+93,13391,*Morales Romero, Jorge*,*Morales, J.*,**
+93,13400,*Adrover, Rafael*,*Adrover, Hermano Rafael*,**
+93,13410,*Adrover, Rafael*,**,**
+93,13411,*Alcala%A Marti%Anez, Luis*,*Alcala, Luis*,**
+93,13411,*Paricio Cardona, Juan*,*Paricio, Juan*,**
+93,13411,*Mein, Pierre*,*Mein, P.*,**
+93,13411,*Moissenet, E%Atienne*,*Moissenet, E.*,**
+93,13420,*Buscalioni, A%Angela D.*,*Buscalioni, A. D.*,**
+93,13421,*Sanz Garci%Aa, Jose%A Luis*,*Sanz, J. L.*,**
+93,13430,*Gil Baza%An, Enrique*,**,**
+93,13440,*Paricio Cardona, Juan*,**,**
+93,13450,*Carrasquer, Jose%A*,**,**
+93,13451,*Alcala%A Marti%Anez, Luis*,*Alcala%A, Luis*,**
+93,13451,*A%Alvarez, Mari%Aa Victoria*,**,**
+93,13451,*Paricio Cardona, Juan*,*Paricio, Juan*,**
+93,13460,*Adrover, Rafael*,**,**
+93,13461,*Mein, Pierre*,**,**
+93,13461,*Moissenet, E%Atienne*,**,**
+93,13470,*Gil Baza%An, Enrique*,**,**
+93,13480,*Potapov, Roal'd Leonidovich*,**,**
+93,13490,*Aver'yanov, Aleksandr Olegovich*,*Averianov, A. O.*,**
+93,13491,*Potapova, Ol'ga R.*,**,**
+93,13491,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+93,13500,*Nesov, Lev Aleksandrovich*,*Nessov, L. A.*,**
+93,13510,*Agusti%A Ballester, Jorge*,*Agusti, J.*,**
+93,13511,*Moya%C Sola%C, Salvador*,*Moya%C-Sola%C, S.*,**
+93,13520,*Giusberti, Gianni*,**,**
+93,13521,*Peretto, Carlo*,**,**
+93,13530,*Serre, Fre%Ade%Arik*,**,**
+93,13540,*Valensi, Patricia*,**,**
+93,13550,*Moncel, Marie-He%Ale%Cne*,**,**
+93,13551,*Combier, Jean*,**,**
+93,13560,*Auguste, Patrick*,**,**
+93,13570,*Wagner, Eberhard*,**,**
+93,13580,*Altuna, Jesu%As*,**,**
+93,13590,*Jaubert, Jacques*,**,**
+93,13591,*Kervazo, Bertrand*,**,**
+93,13591,*Quinif, Yves*,**,**
+93,13591,*Brugal, Jean-Philippe*,**,**
+93,13591,*O'yl, Willford*,**,**
+93,13600,*Patou-Mathis, Maryle%Cne*,**,**
+93,13610,*Le Gall, Olivier*,*Le Gall, O.*,**
+93,13620,*Allain, Jacques*,**,**
+93,13621,*Rigaud, Andre%A*,**,**
+93,13630,*Saint-Martin, Bernard*,**,**
+93,13640,*Olins Alpert, Barbara*,**,**
+93,13650,*Welte%A, Anne-Catherine*,**,**
+93,13651,*Lambert, Georges*,**,**
+93,13660,*Cremades, Miche%Cle*,**,**
+93,13670,*Mons, Lucette*,**,**
+93,13680,*Ladier, Edme%Ae*,**,**
+93,13690,*Plassard, J.*,**,**
+93,13700,*Villaverde, Valenti%An*,**,**
+93,13710,*de Balbin Behrmann, Rodrigo*,**,**
+93,13711,*Alcolea Gonza%Alez, J. Javier*,**,**
+93,13720,*Apella%Aniz, Juan-Mari%Aa*,**,**
+93,13730,*Welte%A, Anne-Catherine*,**,**
+93,13731,*White, Randall*,**,**
+93,13740,*Bednarik, Robert G.*,*Bednarik, R. G.*,**
+93,13750,*Debe%Anath, Andre%A*,**,**
+93,13760,*Michel, Patrick*,**,**
+93,13770,*Nakaya, Hideo*,**,**
+93,13780,*Gowlett, John A. J.*,*Gowlett, J. A. J.*,**
+93,13790,*Mason, Revil J.*,*Mason, R. J.*,**
+93,13800,*Hadjouis, Djillali*,*Hadjouis, D.*,**
+93,13810,*Wolsan, Mieczysl%Saw*,**,**
+93,13820,*Fistani, Anton B.*,**,**
+93,13830,*Lyubin, Valeriy Petrovich*,*Lioubine, V. P.*,**
+93,13840,*Borziyak, Il'ya Aleksandrovich*,*Borziak, I. A.*,**
+93,13850,*Ho Chuankun*,**,**
+93,13851,*Jiang Peng*,**,**
+93,13860,*Wang Danian*,**,**
+93,13870,*Lescure, J.*,**,**
+93,13871,*Renous, S.*,**,**
+93,13880,*Rage, Jean-Claude*,*Rage, J. C.*,**
+93,13890,*Gaudant, Jean*,**,**
+93,13900,*Salinas Z., Patricia*,**,**
+93,13910,*Schultze, Hans-Peter*,**,**
+93,13920,*Marshall, Larry G.*,**,**
+93,13930,*Marshall, Larry G.*,**,**
+93,13931,*Salinas Z., Patricia*,*Salinas, Patricia*,**
+93,13940,*Rubilar, Alfonso*,**,**
+93,13941,*Abad, Eduardo*,**,**
+93,13950,*Marshall, Larry G.*,**,**
+93,13951,*Salinas Z., Patricia*,**,**
+93,13951,*Sua%Arez, Manuel*,**,**
+93,13960,*Ya%An%Eez, Jose%A*,**,**
+93,13961,*Canto, Johann*,*Canto, Jhoann*,**
+93,13970,*Lu Zun'e*,**,**
+93,13980,*Huang Siting*,**,**
+93,13981,*Long Fengxiang*,**,**
+93,13981,*An Jiayuan*,**,**
+93,13990,*Li Jiahe*,**,**
+93,13991,*Xu Changqing*,**,**
+93,13991,*Peng Yunqiu*,**,**
+93,13991,*Ao Yousheng*,**,**
+93,13991,*Xu Chunhua*,**,**
+93,13991,*Qiu Zhonglang*,**,**
+93,14000,*Shen Guanjun*,**,**
+93,14001,*Jin Linhong*,**,**
+93,14010,*Wu Rukang*,**,**
+93,14020,*Wu Rukang*,**,**
+93,14030,*Chen Tiemei*,**,**
+93,14031,*Hedges, Robert E. M.*,*Hedges, R. E. M.*,**
+93,14031,*Yuan Zhenxin*,**,**
+93,14040,*Pan Yuerong*,**,**
+93,14050,*Long Fengxiang*,**,**
+93,14060,*Tyler, Donald E.*,*Tailei, Duan*,**
+93,14070,*Pan Yuerong*,**,**
+93,14071,*Peng Yanzhang*,**,**
+93,14071,*Zhang Xingyong*,**,**
+93,14071,*Pan Ruliang*,**,**
+93,14080,*Li Zhuangwei*,**,**
+93,14081,*Wang Zhigang*,**,**
+93,14090,*Huang Weiwen*,**,**
+93,14100,*Anonymous*,**,**
+93,14110,*Yuan Sixun*,**,**
+93,14120,*Jiang Chu*,**,**
+93,14121,*Xiao Lin*,**,**
+93,14121,*Li Jianming*,**,**
+93,14130,*Si Xinqiang*,**,**
+93,14131,*Liu Jun*,**,**
+93,14131,*Zhang Han'gang*,**,**
+93,14131,*Yuan Chengwu*,**,**
+93,14140,*Deng Tianfu*,**,**
+93,14150,*Li Zhanyang*,**,**
+93,14160,*Yang Zhengchun*,**,**
+93,14170,*Chen Tiemei*,**,**
+93,14171,*Yang Quan*,**,**
+93,14171,*Wu En*,**,**
+93,14180,*Delsate, Dominique*,**,**
+93,14181,*Lepage, Jean-Claude*,**,**
+93,14190,*Mu%Fller, Arnold*,**,**
+93,14200,*Kremp, Gerhard O.*,**,**
+93,14210,*S%Jpinar, Zdene%Jk V.*,**,**
+93,14211,*Klembara, Jozef*,**,**
+93,14211,*Me%Asza%Aros, S%Jtefan*,**,**
+93,14220,*Halouzka, Rudolf*,**,**
+93,14221,*Holec, Peter*,**,**
+93,14230,*Baran, I%Mbrahim*,**,**
+93,14240,*Paunovic%A, Maja*,**,**
+93,14250,*Brajkovic%A, Dejana*,**,**
+93,14260,*Lenardic%A, Jadranka*,**,**
+93,14270,*Guz%Jvica, Goran*,**,**
+93,14280,*Malez, Vesna*,**,**
+93,14290,*Thenius, Erich*,**,**
+93,14300,*Ullrich, Herbert*,**,**
+93,14310,*Miracle, Preston*,**,**
+93,14320,*Paunovic%A, Maja*,**,**
+93,14330,*Malez, Vesna*,**,**
+93,14340,*Guz%Jvica, Goran*,**,**
+93,14350,*Lenardic%A, Jadranka*,**,**
+93,14351,*Peza, Luftulla*,**,**
+93,14360,*Miracle, Preston*,**,**
+93,14361,*Brajkovic%A, Dejana*,**,**
+93,14370,*Wild, Rupert*,**,**
+93,14380,*Paganoni, Anna*,**,**
+93,14381,*Pandolfi, Mario*,**,**
+93,14390,*Engesser, Burkart*,**,**
+93,14391,*Ginsburg, Le%Aonard*,**,**
+93,14391,*Weidmann, Marc*,**,**
+93,14391,*Bucher, Hugo*,**,**
+93,14400,*McKee, Jeffrey K.*,**,**
+93,14410,*Korth, William W.*,**,**
+93,14420,*Mena L., Francisco*,**,**
+93,14430,*Hafner, David J.*,**,**
+93,14440,*Korth, William W.*,**,**
+93,14450,*Lucas, Spencer G.*,**,**
+93,14451,*Williamson, Thomas E.*,**,**
+93,14460,*de Iuliis, Gerardo*,**,**
+93,14470,*Solounias, Nikos*,**,**
+93,14471,*Moelleken, Sonja M. C.*,**,**
+93,14480,*Solounias, Nikos*,*Solounias, N.*,**
+93,14481,*Hayek, Lee-Ann C.*,**,**
+93,14490,*Roc%Jek, Zbyne%Jk*,**,**
+93,14491,*Nesov, Lev Aleksandrovich*,*Nessov, Lev A.*,**
+93,14500,*Court, Nicholas*,**,**
+93,14510,*Bjerring, Hans C.*,**,**
+93,14520,*Klembara, Jozef*,**,**
+93,14530,*Duffin, Christopher J.*,**,**
+93,14540,*Tong-Buffetaut, Haiyan*,*Tong Haiyan*,**
+93,14541,*Jaeger, Jean-Jacques*,**,**
+93,14550,*Meckert, Dirk*,**,**
+93,14560,*Storch, Gerhard*,**,**
+93,14570,*Reichenbacher, Bettina*,**,**
+93,14580,*Hasegawa, Yoshikazu*,**,**
+93,14581,*Kanie, Yasumitsu*,**,**
+93,14590,*Hasegawa, Yoshikazu*,**,**
+93,14591,*Kanie, Yasumitsu*,**,**
+93,14600,*Kurte%An, Bjo%Frn*,**,**
+93,14610,*Szyndlar, Zbigniew*,**,**
+93,14620,*Duffin, Christopher J.*,**,**
+93,14630,*Schaedler, J. M.*,**,**
+93,14631,*Krook, Lennart*,*Krook, L.*,**
+93,14631,*Wootton, Joyce A. M.*,*Wootton, J. A. M.*,**
+93,14631,*Hover, B.*,**,**
+93,14631,*Brodsky, B.*,**,**
+93,14631,*Naresh, M. D.*,**,**
+93,14631,*Gillette, David D.*,*Gillette, D. D.*,**
+93,14631,*Madsen, David B.*,*Madsen, D. B.*,**
+93,14631,*Horne, R. H.*,**,**
+93,14631,*Minor, Ronald R.*,*Minor, R. R.*,**
+93,14640,*Wang Shitao*,**,**
+93,14641,*Drapala, V.*,**,**
+93,14641,*Barwick, Richard E.*,*Barwick, R. E.*,**
+93,14641,*Campbell, Kenton S. W.*,*Campbell, K. S. W.*,**
+93,14650,*Taylor, Michael A.*,**,**
+93,14660,*Wing, Scott*,**,**
+93,14661,*Greenwood, David R.*,**,**
+93,14670,*Hallam, Anthony*,*Hallam, A.*,**
+93,14680,*Taylor, Michael A.*,**,**
+93,14681,*Cruickshank, Arthur R. I.*,*Cruickshank, A. R. I.*,**
+93,14690,*Avery, D. M.*,**,**
+93,14700,*de Bonis, Louis*,*de Bonis, L.*,**
+93,14701,*Bouvrain, Genevie%Cve*,*Bouvrain, G.*,**
+93,14701,*Geraads, Denis*,*Geraads, D.*,**
+93,14701,*Koufos, George D.*,*Koufos, G.*,**
+93,14710,*Leckie, Dale A.*,**,**
+93,14711,*Singh, Chaitanya*,**,**
+93,14711,*Bloch, John*,**,**
+93,14711,*Wilson, Mark*,**,**
+93,14711,*Wall, John*,**,**
+93,14720,*Hoch, Ella*,**,**
+93,14730,*van der Meulen, Albert Jan*,**,**
+93,14731,*Daams, Remmert*,**,**
+93,14740,*Sander, P. Martin*,**,**
+93,14750,*Weems, Robert E.*,**,**
+93,14760,*Tonni, Eduardo P.*,**,**
+93,14761,*Alberdi Alonso, Mari%Aa Teresa*,*Alberdi, Mari%Aa T.*,**
+93,14761,*Prado, Jose%A Luis*,*Prado, Jose%A L.*,**
+93,14761,*Bargo, Mari%Aa S.*,**,**
+93,14761,*Cione, Alberto L.*,**,**
+93,14770,*Bonfiglio, Laura*,**,**
+93,14771,*Insacco, Gianni*,**,**
+93,14780,*Thackeray, J. Francis*,*Thackeray, J. F.*,**
+93,14781,*Lee-Thorp, Julia A.*,*Lee-Thorp, J. A.*,**
+93,14790,*Ayliffe, L. K.*,**,**
+93,14791,*Lister, Adrian M.*,*Lister, A. M.*,**
+93,14791,*Chivas, A. R.*,**,**
+93,14800,*Dauphin, Yannicke*,**,**
+93,14801,*Denys, Christiane*,**,**
+93,14810,*Tambussi, Claudia P.*,*Tambussi, C. P.*,**
+93,14811,*Noriega, J. I.*,**,**
+93,14811,*Tonni, Eduardo P.*,*Tonni, E. P.*,**
+93,14820,*Avery, D. M.*,**,**
+93,14830,*Gayet, Mireille*,**,**
+93,14831,*Sempere, Thierry*,**,**
+93,14831,*Cappetta, Henri*,**,**
+93,14831,*Jaillard, Etienne*,**,**
+93,14831,*Le%Avy, Alain*,**,**
+93,14840,*King, Gillian M.*,**,**
+93,14850,*Zhao Zikui*,*Zhao Zi-kui*,**
+93,14851,*Wang Jiangke*,*Wang Jiang-ke*,**
+93,14851,*Chen Shuixie*,**,**
+93,14851,*Zhong Yueming*,*Zhong Yue-ming*,**
+93,14860,*Mohabey, D. M.*,**,**
+93,14861,*Udhoji, S. G.*,**,**
+93,14861,*Verma, K. K.*,**,**
+93,14870,*Le%Acuyer, C.*,**,**
+93,14871,*Grandjean, P.*,**,**
+93,14871,*O'Neil, J. R.*,**,**
+93,14871,*Cappetta, Henri*,*Cappetta, H.*,**
+93,14871,*Martineau, F.*,**,**
+93,14880,*Gagnier, Pierre-Yves*,**,**
+93,14890,*Gagnier, Pierre-Yves*,*Gagnier, P. Y.*,**
+93,14900,*de Broin, France*,**,**
+93,14901,*de la Fuente, Marcelo S.*,**,**
+93,14910,*de Muizon, Christian*,**,**
+93,14911,*Machado Brito, Ignacio*,**,**
+93,14920,*de Buffre%Anil, Vivian*,**,**
+93,14921,*Rage, Jean-Claude*,**,**
+93,14930,*Mones, A%Alvaro*,**,**
+93,14940,*Siverson, Mikael*,**,**
+93,14950,*Coates, Michael I.*,**,**
+93,14960,*Prasad, Guntupalli V. R.*,*Prasad, G. V. R.*,**
+93,14961,*Cappetta, Henri*,*Cappetta, H.*,**
+93,14970,*Janvier, Philippe*,*Janvier, P.*,**
+93,14971,*Thanh, To%Dng-Dzuy*,**,**
+93,14971,*Phuong, Ta-Hoa*,**,**
+93,14980,*Taylor, Michael A.*,**,**
+93,14981,*Norman, David B.*,**,**
+93,14981,*Cruickshank, Arthur R. I.*,**,**
+93,14990,*Weishampel, David*,*Weishampel, D.*,**
+93,14991,*Norman, David B.*,*Norman, D. B.*,**
+93,14991,*Grigorescu, Dan*,*Grigorescu, D.*,**
+93,15000,*Howse, Stafford C. B.*,**,**
+93,15001,*Milner, Andrew R.*,**,**
+93,15010,*Jacobs, Louis L.*,**,**
+93,15011,*Winkler, Dale A.*,**,**
+93,15011,*Downs, William R.*,**,**
+93,15011,*Gomani, Elizabeth M.*,**,**
+93,15020,*Sequeira, Sandra E. K.*,**,**
+93,15021,*Milner, Andrew R.*,**,**
+93,15030,*Lebedev, Oleg Anatol'yevich*,*Lebedev, O. A.*,**
+93,15031,*Clack, Jennifer A.*,*Clack, J. A.*,**
+93,15040,*Dilkes, David W.*,**,**
+93,15050,*Gauffre, Franc%Bois-Xavier*,**,**
+93,15060,*Rieppel, Olivier*,**,**
+93,15070,*Dalla Vecchia, Fabio Marco*,*Dalla Vecchia, F. M.*,**
+93,15080,*Jime%Anez Fuentes, Emiliano*,*Jime%Anez, E.*,**
+93,15081,*Cuesta Ruiz-Colmenares, Miguel A%Angel*,*Cuesta, M. A.*,**
+93,15081,*Gil Tudanca, Santiago*,*Gil Tudanca, S.*,**
+93,15090,*Cuesta Ruiz-Colmenares, Miguel A%Angel*,*Cuesta, Miguel A%Angel*,**
+93,15100,*Karl, Hans-Volker*,**,**
+93,15110,*Jime%Anez Fuentes, Emiliano*,*Jime%Anez Fuentes, E.*,**
+93,15111,*Alonso Andre%As, L.*,**,**
+93,15120,*Fuentes Vidarte, Carolina*,*Fuentes Vidarte, C.*,**
+93,15130,*Legasa, O.*,**,**
+93,15131,*Buscalioni, A%Angela D.*,*Buscalioni, A. D.*,**
+93,15131,*Gasparini, Zulma*,*Gasparini, Z.*,**
+93,15140,*Armenteros Armenteros, Ildefonso*,*Armenteros, Ildefonso*,**
+93,15150,*Cuesta Ruiz-Colmenares, Miguel A%Angel*,**,**
+93,15151,*Jime%Anez Fuentes, Emiliano*,**,**
+93,15160,*Cerden%Eo, Esperanza*,*Cerden%Eo Serrano, Mari%Aa Esperanza*,**
+93,15170,*Cardoso, Joa%Eo Luis*,**,**
+93,15180,*Azanza, Beatriz*,*Azanza Asensio, Beatriz*,**
+93,15181,*Cerden%Eo, Esperanza*,*Cerden%Eo, E.*,**
+93,15181,*Ginsburg, Le%Aonard*,**,**
+93,15181,*Van der Made, Jan*,*Van der Made, J.*,**
+93,15181,*Morales Romero, Jorge*,*Morales, Jorge*,**
+93,15181,*Tassy, Pascal*,**,**
+93,15190,*Sudre, Jean*,**,**
+93,15191,*Ginsburg, Le%Aonard*,**,**
+93,15200,*Ensom, Paul C.*,*Ensom, P. C.*,**
+93,15210,*Brokenshire, Adrian J.*,**,**
+93,15211,*Clarke, Jane B.*,**,**
+93,15220,*Etches, Steve M.*,**,**
+93,15221,*Clarke, Jane B.*,**,**
+93,15230,*Ensom, Paul C.*,*Ensom, P. C.*,**
+93,15231,*Evans, Susan E.*,*Evans, S. E.*,**
+93,15231,*Francis, Jane E.*,*Francis, J. E.*,**
+93,15231,*Kielan-Jaworowska, Zofia*,*Kielan-Jaworowska, Z.*,**
+93,15231,*Milner, Andrew R.*,*Milner, A. R.*,**
+93,15240,*Ensom, Paul C.*,*Ensom, P. C.*,**
+93,15250,*Theron, Johannes N.*,**,**
+93,15260,*Anonymous*,**,*e*
+93,15270,*Miskovsky, Jean-Claude*,**,**
+93,15271,*Gibert, Elisabeth*,**,**
+93,15280,*Sereno, Paul C.*,**,**
+93,15281,*Arcucci, Andrea B.*,**,**
+93,15290,*Novas, Fernando E.*,**,**
+93,15300,*Sereno, Paul C.*,**,**
+93,15310,*Sereno, Paul C.*,**,**
+93,15311,*Novas, Fernando E.*,**,**
+93,15320,*Luo Zhexi*,**,**
+93,15321,*Sun Ailin*,**,**
+93,15330,*Woodburne, Michael O.*,**,**
+93,15331,*MacFadden, Bruce J.*,**,**
+93,15331,*Case, Judd A.*,**,**
+93,15331,*Springer, Mark S.*,**,**
+93,15331,*Pledge, Neville S.*,**,**
+93,15331,*Power, Jeanne D.*,**,**
+93,15331,*Woodburne, Janice M.*,**,**
+93,15331,*Springer, Kathleen B.*,**,**
+93,15340,*Fox, Richard C.*,**,**
+93,15350,*de Iuliis, Gerardo*,**,**
+93,15351,*Cartelle, Ca%Astor*,**,**
+93,15360,*Bon, M.*,**,**
+93,15361,*Boscato, P.*,**,**
+93,15370,*Alessio, Marisa*,*Alessio, M.*,**
+93,15371,*Alhaique, F.*,**,**
+93,15371,*Allegri, Lucia*,*Allegri, L.*,**
+93,15371,*Bietti, Amilcare*,*Bietti, A.*,**
+93,15371,*Branca, Marili%C*,*Branca, M.*,**
+93,15371,*D'Arpino, A.*,**,**
+93,15371,*Importa, Salvatore*,*Importa, S.*,**
+93,15371,*Kuhn, Steven L.*,*Kuhn, S.*,**
+93,15371,*Palmieri, A.*,**,**
+93,15371,*Preite Martinez, Maria*,*Preite Martinez, M.*,**
+93,15380,*Gue%Arin, Claude*,*Gue%Arin, C.*,**
+93,15381,*Curvello, M. A.*,**,**
+93,15381,*Faure, Martine*,*Faure, M.*,**
+93,15381,*Hugueney, Marguerite*,*Hugueney, M.*,**
+93,15381,*Mourer-Chauvire%A, Ce%Acile*,*Mourer-Chauvire%A, C.*,**
+93,15390,*Moncel, Marie-He%Ale%Cne*,**,**
+93,15391,*Bahain, Jean-Jacques*,**,**
+93,15391,*Falgueres, Christophe*,**,**
+93,15391,*El Hazzazi, Nai%Fma*,**,**
+93,15391,*Kalai, Chafika*,**,**
+93,15391,*Masaoudi, Hassan*,**,**
+93,15391,*Mjahad, Mohamed*,**,**
+93,15391,*Patou-Mathis, Maryle%Cne*,**,**
+93,15391,*Renault-Miskovsky, Josette*,**,**
+93,15400,*Shishkin, Mikhail Aleksandrovich*,**,**
+93,15401,*Novikov, Igor' Vital'yevich*,**,**
+93,15410,*Derevyanko, Anatoliy Panteleyevich*,**,**
+93,15411,*Laukhin, Stanislav Alekseyevich*,**,**
+93,15411,*Kulikov, Oleg Anatoliyevich*,**,**
+93,15411,*Gnibidenko, Z. N.*,**,**
+93,15411,*Shun'kov, Mikhail Vasil'yevich*,**,**
+93,15420,*Sennikov, Andrey Gerasimovich*,**,**
+93,15430,*Novikov, Igor' Vital'yevich*,**,**
+93,15431,*Il'yina, Natal'ya Valer'yevna*,*Il'ina, N. V.*,**
+93,15431,*Kane%Fv, Gennadiy Panteleymonovich*,**,**
+93,15431,*Dobretsova, Yu. G.*,**,**
+93,15431,*Kochegura, V. V.*,**,**
+93,15440,*Moravec, Jir%Ji%A*,**,**
+93,15450,*Shishkin, Mikhail Aleksandrovich*,**,**
+93,15451,*Sokolov, Boris Sergeyevich*,**,**
+93,15460,*Lazarev, Stanislav Samuilovich*,**,**
+93,15470,*Panteleyev, N. V.*,**,**
+93,15480,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,15490,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+93,15500,*Yefimov, Mikhail Borisovich*,*Efimov, M. B.*,**
+93,15501,*Yarkov, Aleksandr Arkad'yevich*,**,**
+93,15510,*Tumanova, Tat'yana Alekseyevna*,**,**
+93,15520,*Agadzhanyan, Aleksandr Karenovich*,*Agadjanian, A. K.*,**
+93,15530,*Alifanov, Vladimir Rudol'fovich*,**,**
+93,15540,*Vislobokova, Inesa Anatol'yevna*,**,**
+93,15541,*Godina, Anna Yakovlevna*,**,**
+93,15550,*Yesin, Dmitriy Nikolayevich*,*Esin, D. N.*,**
+93,15560,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,15561,*Tatarinov, Leonid Petrovich*,**,**
+93,15561,*Trofimov, Boris Aleksandrovich*,**,**
+93,15561,*Fedotov, Viktor Fe%Fdorovich*,**,**
+93,15570,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+93,15580,*Gubin, Yuriy Mikhaylovich*,**,**
+93,15590,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+93,15600,*LaDuke, Thomas C.*,**,**
+93,15610,*Bengoechea, A.*,**,**
+93,15611,*Izquierdo, L. A.*,**,**
+93,15611,*Marti%Anez, J. M.*,**,**
+93,15611,*Molinero, J. M.*,**,**
+93,15611,*Montero, D.*,**,**
+93,15611,*Torcida, F.*,**,**
+93,15611,*Urien, V.*,**,**
+93,15620,*Sanz Pe%Arez, E.*,**,**
+93,15630,*Gregory, Joseph T.*,**,*e*
+93,15631,*Bacskai, Judith Ann*,**,*e*
+93,15631,*Shkurkin, George Vladimirovich*,**,*e*
+93,15631,*Rauscher, Bonnie H.*,**,*e*
+

@@ -1,0 +1,82 @@
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\ResolveAssemblyReference.cache
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.LoginForm.resources
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.vbproj.GenerateResource.Cache
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS 131 SPRING 2011\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS 131 SPRING 2011\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS 131 SPRING 2011\Shared folder sp2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Fall 2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS131 Fall 2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS131 Fall 2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\public\CS131 Shared Folder\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\public\CS131 Shared Folder\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\public\CS131 Shared Folder\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.LoginForm.resources
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\private\CS131 Shared Folder fall2011\Ch6 usernm_pswd class\Ch6 usernm_pswd class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\ResolveAssemblyReference.cache
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.LoginForm.resources
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\private\cs131 fall2012 class\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.LoginForm.resources
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+P:\private\CS131 Spring 2014\Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.loginForm.resources
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.splash.resources
+P:\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\bin\Debug\Ch6 usernm_pswd class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.loginForm.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.purchaseForm1.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.siteForm.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6_usernm_pswd.splash.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 12Ch6 usernm_pswd classv1\Ch6 usernm_pswd class\obj\Debug\Ch6 usernm_pswd class.vbproj.GenerateResource.Cache

@@ -1,0 +1,4753 @@
+*Hay1*,1,*Adam, Walter*
+*Hay1*,2,*Adams, A. Leith*
+*Hay1*,3,*Adams, A. Leith*
+*Hay1*,4,*Adams, A. Leith*
+*Hay1*,5,*Adams, A. Leith*
+*Hay1*,6,*Adams, A. Leith*
+*Hay1*,7,*Adams, A. Leith*
+*Hay1*,8,*Adams, C. B.*
+*Hay1*,9,*Adams, George I.*
+*Hay1*,10,*Adams, George I.*
+*Hay1*,11,*Adams, George I.*
+*Hay1*,12,*Adams, George I.*
+*Hay1*,13,*Adloff, Paul*
+*Hay1*,14,*Agassiz, Louis*
+*Hay1*,15,*Agassiz, Louis*
+*Hay1*,16,*Agassiz, Louis*
+*Hay1*,17,*Agassiz, Louis*
+*Hay1*,18,*Agassiz, Louis*
+*Hay1*,19,*Agassiz, Louis*
+*Hay1*,20,*Agassiz, Louis*
+*Hay1*,21,*Agassiz, Louis*
+*Hay1*,22,*Agassiz, Louis*
+*Hay1*,23,*Agassiz, Louis*
+*Hay1*,24,*Agassiz, Louis*
+*Hay1*,25,*Agassiz, Louis*
+*Hay1*,26,*Agassiz, Louis*
+*Hay1*,27,*Agassiz, Louis*
+*Hay1*,28,*Agassiz, Louis*
+*Hay1*,29,*Agassiz, Louis*
+*Hay1*,30,*Agassiz, Louis*
+*Hay1*,31,*Agassiz, Louis*
+*Hay1*,32,*Agassiz, Louis*
+*Hay1*,33,*Agassiz, Louis*
+*Hay1*,34,*Agassiz, Louis*
+*Hay1*,35,*Agassiz, Louis*
+*Hay1*,36,*Agassiz, Louis*
+*Hay1*,37,*Ahlborn, Fr.*
+*Hay1*,38,*Albrecht, Paul*
+*Hay1*,39,*Albrecht, Paul*
+*Hay1*,40,*Alessandri, G. De.*
+*Hay1*,41,*Alezais, Henri*
+*Hay1*,42,*Alezais, Henri*
+*Hay1*,43,*Allen, Harrison*
+*Hay1*,44,*Allen, Harrison*
+*Hay1*,45,*Allen, Harrison*
+*Hay1*,46,*Allen, Harrison*
+*Hay1*,47,*Allen, Harrison*
+*Hay1*,48,*Allen, Harrison*
+*Hay1*,49,*Allen, Harrison*
+*Hay1*,50,*Allen, Harrison*
+*Hay1*,51,*Allen, Joel Asaph*
+*Hay1*,52,*Allen, Joel Asaph*
+*Hay1*,53,*Allen, Joel Asaph*
+*Hay1*,54,*Allen, Joel Asaph*
+*Hay1*,55,*Allen, Joel Asaph*
+*Hay1*,56,*Allen, Joel Asaph*
+*Hay1*,57,*Allen, Joel Asaph*
+*Hay1*,58,*Allen, Joel Asaph*
+*Hay1*,59,*Allen, Joel Asaph*
+*Hay1*,60,*Allen, Joel Asaph*
+*Hay1*,61,*Allen, Joel Asaph*
+*Hay1*,62,*Allen, Joel Asaph*
+*Hay1*,63,*Allen, Joel Asaph*
+*Hay1*,64,*Allen, John H.*
+*Hay1*,65,*Allis, Edward P.*
+*Hay1*,66,*Allis, Edward P.*
+*Hay1*,67,*Allis, Edward P.*
+*Hay1*,68,*Allis, Edward P.*
+*Hay1*,69,*Alston, Edward R.*
+*Hay1*,70,*Alth, Alois v*
+*Hay1*,71,*Alth, Alois v*
+*Hay1*,72,*Ameghino, Florentino*
+*Hay1*,73,*Ameghino, Florentino*
+*Hay1*,74,*Ameghino, Florentino*
+*Hay1*,75,*Ameghino, Florentino*
+*Hay1*,76,*Ameghino, Florentino*
+*Hay1*,77,*Ameghino, Florentino*
+*Hay1*,78,*Ameghino, Florentino*
+*Hay1*,79,*Ameghino, Florentino*
+*Hay1*,80,*Ameghino, Florentino*
+*Hay1*,81,*Ameghino, Florentino*
+*Hay1*,82,*Ameghino, Florentino*
+*Hay1*,83,*Ameghino, Florentino*
+*Hay1*,84,*Ameghino, Florentino*
+*Hay1*,85,*Ameghino, Florentino*
+*Hay1*,86,*American Geologist*
+*Hay1*,87,*American Geologist*
+*Hay1*,88,*American Geologist*
+*Hay1*,89,*American Geologist*
+*Hay1*,90,*American Geologist*
+*Hay1*,91,*American Geologist*
+*Hay1*,92,*American Geologist*
+*Hay1*,93,*American Geologist*
+*Hay1*,94,*American Geologist*
+*Hay1*,95,*American Journal of Science*
+*Hay1*,96,*American Journal of Science*
+*Hay1*,97,*American Journal of Science*
+*Hay1*,98,*American Journal of Science*
+*Hay1*,99,*American Journal of Science*
+*Hay1*,100,*American Journal of Science*
+*Hay1*,101,*American Journal of Science*
+*Hay1*,102,*American Journal of Science*
+*Hay1*,103,*American Journal of Science*
+*Hay1*,104,*American Journal of Science*
+*Hay1*,105,*American Journal of Science*
+*Hay1*,106,*American Journal of Science*
+*Hay1*,107,*American Journal of Science*
+*Hay1*,108,*American Journal of Science*
+*Hay1*,109,*American Journal of Science*
+*Hay1*,110,*American Journal of Science*
+*Hay1*,111,*American Journal of Science*
+*Hay1*,112,*American Journal of Science*
+*Hay1*,113,*American Journal of Science*
+*Hay1*,114,*American Naturalist*
+*Hay1*,115,*American Naturalist*
+*Hay1*,116,*American Naturalist*
+*Hay1*,117,*Ami, Henry M.*
+*Hay1*,118,*Ami, Henry M.*
+*Hay1*,119,*Ammon, Ludwig v.*
+*Hay1*,120,*Ammon, Ludwig v.*
+*Hay1*,121,*Anderson, John*
+*Hay1*,122,*Anderson, John*
+*Hay1*,123,*Andreae, A.*
+*Hay1*,124,*Andreae, A.*
+*Hay1*,125,*Andrews, Charles W.*
+*Hay1*,126,*Andrews, Charles W.*
+*Hay1*,127,*Andrews, Charles W.*
+*Hay1*,128,*Andrews, Charles W.*
+*Hay1*,129,*Andrews, Charles W.*
+*Hay1*,130,*Andrews, Charles W.*
+*Hay1*,131,*Andrews, Charles W.*
+*Hay1*,132,*Andrews, Edmund*
+*Hay1*,133,*Annan, Robert*
+*Hay1*,134,*Anonymous*
+*Hay1*,135,*Anonymous*
+*Hay1*,136,*Atthey, Thomas*
+*Hay1*,137,*Atthey, Thomas*
+*Hay1*,138,*Atthey, Thomas*
+*Hay1*,139,*Atthey, Thomas*
+*Hay1*,140,*Atthey, Thomas*
+*Hay1*,141,*Atwater, Caleb*
+*Hay1*,142,*Auld, Robert C.*
+*Hay1*,143,*Ayres, Howard*
+*Hay1*,144,*Baer, K. E. von*
+*Hay1*,145,*Baer, K. E. von*
+*Hay1*,146,*Baer, K. E. von*
+*Hay1*,147,*Baikie, Balfour*
+*Hay1*,148,*Baird, Spencer F.*
+*Hay1*,149,*Baird, Spencer F.*
+*Hay1*,150,*Balfour, F. M.*
+*Hay1*,151,*Balfour, F. M.*
+*Hay1*,152,*Barbour, Edwin H.*
+*Hay1*,153,*Barbour, Edwin H.*
+*Hay1*,154,*Barkas, T. P.*
+*Hay1*,155,*Barkas, T. P.*
+*Hay1*,156,*Barkas, T. P.*
+*Hay1*,157,*Barkas, T. P.*
+*Hay1*,158,*Barkas, W. J.*
+*Hay1*,159,*Barkas, W. J.*
+*Hay1*,160,*Barkas, W. J.*
+*Hay1*,161,*Barkas, W. J.*
+*Hay1*,162,*Barkas, W. J.*
+*Hay1*,163,*Barnston, George*
+*Hay1*,164,*Barrett, L.*
+*Hay1*,165,*Bartlett, John*
+*Hay1*,166,*Barton, Benjamin Smith*
+*Hay1*,167,*Bassani, Francesco*
+*Hay1*,168,*Bate, C. Spence*
+*Hay1*,169,*Baudelot, E.*
+*Hay1*,170,*Baudelot, E.*
+*Hay1*,171,*Bauer, Franz*
+*Hay1*,172,*Bauer, Franz*
+*Hay1*,173,*Baur, George*
+*Hay1*,174,*Baur, George*
+*Hay1*,175,*Baur, George*
+*Hay1*,176,*Baur, George*
+*Hay1*,177,*Baur, George*
+*Hay1*,178,*Baur, George*
+*Hay1*,179,*Baur, George*
+*Hay1*,180,*Baur, George*
+*Hay1*,181,*Baur, George*
+*Hay1*,182,*Baur, George*
+*Hay1*,183,*Baur, George*
+*Hay1*,184,*Baur, George*
+*Hay1*,185,*Baur, George*
+*Hay1*,186,*Baur, George*
+*Hay1*,187,*Baur, George*
+*Hay1*,188,*Baur, George*
+*Hay1*,189,*Baur, George*
+*Hay1*,190,*Baur, George*
+*Hay1*,191,*Baur, George*
+*Hay1*,192,*Baur, George*
+*Hay1*,193,*Baur, George*
+*Hay1*,194,*Baur, George*
+*Hay1*,195,*Baur, George*
+*Hay1*,196,*Baur, George*
+*Hay1*,197,*Baur, George*
+*Hay1*,198,*Baur, George*
+*Hay1*,199,*Baur, George*
+*Hay1*,200,*Baur, George*
+*Hay1*,201,*Baur, George*
+*Hay1*,202,*Baur, George*
+*Hay1*,203,*Baur, George*
+*Hay1*,204,*Baur, George*
+*Hay1*,205,*Baur, George*
+*Hay1*,206,*Baur, George*
+*Hay1*,207,*Baur, George*
+*Hay1*,208,*Baur, George*
+*Hay1*,209,*Baur, George*
+*Hay1*,210,*Baur, George*
+*Hay1*,211,*Baur, George*
+*Hay1*,212,*Baur, George*
+*Hay1*,213,*Baur, George*
+*Hay1*,214,*Baur, George*
+*Hay1*,215,*Baur, George*
+*Hay1*,216,*Baur, George*
+*Hay1*,217,*Baur, George*
+*Hay1*,218,*Baur, George*
+*Hay1*,219,*Baur, George*
+*Hay1*,220,*Baur, George*
+*Hay1*,221,*Baur, George*
+*Hay1*,222,*Baur, George*
+*Hay1*,223,*Baur, George*
+*Hay1*,224,*Baur, George*
+*Hay1*,225,*Baur, George*
+*Hay1*,226,*Baur, George*
+*Hay1*,227,*Baur, George*
+*Hay1*,228,*Baur, George*
+*Hay1*,229,*Baur, George*
+*Hay1*,230,*Baur, George*
+*Hay1*,231,*Baur, George*
+*Hay1*,232,*Baur, George*
+*Hay1*,233,*Baur, George*
+*Hay1*,234,*Baur, George*
+*Hay1*,235,*Baur, George*
+*Hay1*,236,*Baur, George*
+*Hay1*,237,*Baur, George*
+*Hay1*,238,*Baur, George*
+*Hay1*,239,*Baur, George*
+*Hay1*,240,*Baur, George*
+*Hay1*,241,*Baur, George*
+*Hay1*,242,*Baur, George*
+*Hay1*,243,*Baur, George*
+*Hay1*,244,*Baur, George*
+*Hay1*,245,*Baur, George*
+*Hay1*,246,*Baur, George*
+*Hay1*,247,*Baur, George*
+*Hay1*,248,*Baur, George*
+*Hay1*,249,*Baur, George*
+*Hay1*,250,*Baur, George*
+*Hay1*,251,*Baur, G.*
+*Hay1*,251,*Case, E. C.*
+*Hay1*,252,*Baur, G.*
+*Hay1*,252,*Case, E. C.*
+*Hay1*,253,*Bayer, Franz*
+*Hay1*,254,*Bayle, E%Amile de*
+*Hay1*,255,*Beard, J.*
+*Hay1*,256,*Beddard, Frank E.*
+*Hay1*,257,*Beddard, Frank E.*
+*Hay1*,258,*Belcher, Edward*
+*Hay1*,259,*Bell, Robert*
+*Hay1*,260,*Bemmelen, J. F. van*
+*Hay1*,261,*Bemmelen, J. F. van*
+*Hay1*,262,*Bemmelen, J. F. van*
+*Hay1*,263,*Bensley, B. A.*
+*Hay1*,264,*Bensted, W. H.*
+*Hay1*,265,*Be%Araneck, Ed.*
+*Hay1*,266,*Berthold, Arnold A.*
+*Hay1*,267,*Bettany, G. T.*
+*Hay1*,268,*Bettany, G. T.*
+*Hay1*,269,*Beyer, Samuel Walker*
+*Hay1*,270,*Beyrich, E.*
+*Hay1*,271,*Beyrich, E.*
+*Hay1*,272,*Beyrich, E.*
+*Hay1*,273,*Bibbins, Arthur*
+*Hay1*,274,*Bienz, Amie%A*
+*Hay1*,275,*Billings, E.*
+*Hay1*,276,*Bischoff, Th. Ludwig Wilhelm*
+*Hay1*,277,*Blackmore, Humphrey P.*
+*Hay1*,278,*Blainville, H. M. Ducrotay de*
+*Hay1*,279,*Blainville, H. M. Ducrotay de*
+*Hay1*,280,*Blainville, H. M. Ducrotay de*
+*Hay1*,281,*Blainville, H. M. Ducrotay de*
+*Hay1*,282,*Blake, Chas. C.*
+*Hay1*,283,*Blake, Chas. C.*
+*Hay1*,284,*Blake, Chas. C.*
+*Hay1*,285,*Blake, William P.*
+*Hay1*,286,*Blake, William P.*
+*Hay1*,287,*Blake, William P.*
+*Hay1*,288,*Blake, William P.*
+*Hay1*,289,*Blake, William P.*
+*Hay1*,290,*Blake, William P.*
+*Hay1*,291,*Blake, William P.*
+*Hay1*,292,*Blake, William P.*
+*Hay1*,293,*Blake, William P.*
+*Hay1*,294,*Blanchard, E%Amile*
+*Hay1*,295,*Blanchard, E%Amile*
+*Hay1*,296,*Blanchard, E%Amile*
+*Hay1*,297,*Blasius, Wilhelm*
+*Hay1*,298,*Blatchley, W. S.*
+*Hay1*,299,*Bloch, Leopold*
+*Hay1*,300,*Blyth, E.*
+*Hay1*,301,*Boas, J. E. V.*
+*Hay1*,302,*Boas, J. E. V.*
+*Hay1*,303,*Bojanus, L. H.*
+*Hay1*,304,*Born, G.*
+*Hay1*,305,*Born, G.*
+*Hay1*,306,*Boule, Marcellin*
+*Hay1*,307,*Boulenger, G. A.*
+*Hay1*,308,*Boulenger, G. A.*
+*Hay1*,309,*Boulenger, G. A.*
+*Hay1*,310,*Boulenger, G. A.*
+*Hay1*,311,*Boulenger, G. A.*
+*Hay1*,312,*Boulenger, G. A.*
+*Hay1*,313,*Boulenger, G. A.*
+*Hay1*,314,*Boulenger, G. A.*
+*Hay1*,315,*Boulenger, G. A.*
+*Hay1*,316,*Boulenger, G. A.*
+*Hay1*,317,*Boulenger, G. A.*
+*Hay1*,318,*Boulenger, G. A.*
+*Hay1*,319,*Boulenger, G. A.*
+*Hay1*,320,*Boulenger, G. A.*
+*Hay1*,321,*Boulenger, G. A.*
+*Hay1*,322,*Boulenger, G. A.*
+*Hay1*,323,*Bouve%A, T. T.*
+*Hay1*,324,*Bouve%A, T. T.*
+*Hay1*,325,*Bowerbank, J. S.*
+*Hay1*,326,*Bowerbank, J. S.*
+*Hay1*,327,*Bowerbank, J. S.*
+*Hay1*,328,*Bowerbank, J. S.*
+*Hay1*,329,*Bowers, Stephen*
+*Hay1*,330,*Boyd, C. H.*
+*Hay1*,331,*Brainerd*
+*Hay1*,332,*Branco, W.*
+*Hay1*,333,*Branco, W.*
+*Hay1*,334,*Branco, W.*
+*Hay1*,335,*Brandt, Alexander*
+*Hay1*,336,*Brandt, Ed.*
+*Hay1*,337,*Brandt, Ed.*
+*Hay1*,338,*Brandt, Ed.*
+*Hay1*,339,*Brandt, Johann Friedrich*
+*Hay1*,340,*Brandt, Johann Friedrich*
+*Hay1*,341,*Brandt, Johann Friedrich*
+*Hay1*,342,*Brandt, Johann Friedrich*
+*Hay1*,343,*Brandt, Johann Friedrich*
+*Hay1*,344,*Brandt, Johann Friedrich*
+*Hay1*,345,*Brandt, Johann Friedrich*
+*Hay1*,346,*Brandt, Johann Friedrich*
+*Hay1*,347,*Brandt, Johann Friedrich*
+*Hay1*,348,*Brandt, Johann Friedrich*
+*Hay1*,349,*Brandt, Johann Friedrich*
+*Hay1*,350,*Brandt, Johann Friedrich*
+*Hay1*,351,*Brandt, Johann Friedrich*
+*Hay1*,352,*Brandt, Johann Friedrich*
+*Hay1*,353,*Brandt, Johann Friedrich*
+*Hay1*,354,*Brandt, Johann Friedrich*
+*Hay1*,355,*Brandt, Johann Friedrich*
+*Hay1*,356,*Brandt, Johann Friedrich*
+*Hay1*,357,*Brandt, Johann Friedrich*
+*Hay1*,358,*Brandt, Johann Friedrich*
+*Hay1*,359,*Brandt, Johann Friedrich*
+*Hay1*,360,*Brandt, Johann Friedrich*
+*Hay1*,361,*Braus, Hermann*
+*Hay1*,362,*Brevoort, J. C.*
+*Hay1*,363,*Brewer, W. H.*
+*Hay1*,364,*Bridge, T. W.*
+*Hay1*,365,*Bridge, T. W.*
+*Hay1*,366,*Bridge, T. W.*
+*Hay1*,367,*Bridge, T. W.*
+*Hay1*,368,*Bridge, T. W.*
+*Hay1*,369,*Bridge, T. W.*
+*Hay1*,369,*Haddon, A. C.*
+*Hay1*,370,*Bridge, T. W.*
+*Hay1*,370,*Haddon, A. C.*
+*Hay1*,371,*Bridge, William J.*
+*Hay1*,372,*Briggs, C.*
+*Hay1*,373,*Britton, N. L.*
+*Hay1*,374,*Broadhead, G. C.*
+*Hay1*,375,*Broadhead, G. C.*
+*Hay1*,376,*Broadhead, G. C.*
+*Hay1*,377,*Broili, Ferdinand*
+*Hay1*,378,*Brongniart, Chas*
+*Hay1*,379,*Brongniart, Chas*
+*Hay1*,380,*Brongniart, Chas*
+*Hay1*,381,*Bronn, Heinrich Georg*
+*Hay1*,382,*Bronn, Heinrich Georg*
+*Hay1*,383,*Brooke, Victor*
+*Hay1*,384,*Brooke, Victor*
+*Hay1*,385,*Broom, R.*
+*Hay1*,386,*Brown, Campbell*
+*Hay1*,387,*Browne, Montagu*
+*Hay1*,388,*Bru, D. Jean Baptiste*
+*Hay1*,389,*Bruce, Adam T.*
+*Hay1*,390,*Bru%Fhl, Bernhard Carl*
+*Hay1*,391,*Buckland, William*
+*Hay1*,392,*Buckland, William*
+*Hay1*,393,*Buckland, William*
+*Hay1*,394,*Buckley, S. B.*
+*Hay1*,395,*Buckley, S. B.*
+*Hay1*,396,*Bu%Fchner, Eug.*
+*Hay1*,397,*Burckhardt, Rudolph*
+*Hay1*,398,*Burckhardt, Rudolph*
+*Hay1*,399,*Burmeister, Hermann*
+*Hay1*,400,*Burmeister, Hermann*
+*Hay1*,401,*Burmeister, Hermann*
+*Hay1*,402,*Burmeister, Hermann*
+*Hay1*,403,*Burmeister, Hermann*
+*Hay1*,404,*Burmeister, Hermann*
+*Hay1*,405,*Burmeister, Hermann*
+*Hay1*,406,*Burmeister, Hermann*
+*Hay1*,407,*Burmeister, Hermann*
+*Hay1*,408,*Burmeister, Hermann*
+*Hay1*,409,*Burmeister, Hermann*
+*Hay1*,410,*Burmeister, Hermann*
+*Hay1*,411,*Burmeister, Hermann*
+*Hay1*,412,*Burmeister, Hermann*
+*Hay1*,413,*Burmeister, Hermann*
+*Hay1*,414,*Burmeister, Hermann*
+*Hay1*,415,*Burmeister, Hermann*
+*Hay1*,416,*Burmeister, Hermann*
+*Hay1*,417,*Burmeister, Hermann*
+*Hay1*,418,*Burmeister, Hermann*
+*Hay1*,419,*Burmeister, Hermann*
+*Hay1*,420,*Butts, Edward*
+*Hay1*,421,*Butts, Edward*
+*Hay1*,422,*"C. D."*
+*Hay1*,423,*Calori, Luigi*
+*Hay1*,424,*Camper, Peter*
+*Hay1*,425,*Cannon, Geo. L., jr.*
+*Hay1*,426,*Cannon, Geo. L., jr.*
+*Hay1*,427,*Capellini, Giovanni*
+*Hay1*,428,*Carpenter, W. M.*
+*Hay1*,429,*Carpenter, W. M.*
+*Hay1*,430,*Carpenter, W. M.*
+*Hay1*,431,*Carte, Alex*
+*Hay1*,431,*Macalister, Alex*
+*Hay1*,432,*Carus, C. G.*
+*Hay1*,433,*Carus, C. G.*
+*Hay1*,434,*Cary, Austin*
+*Hay1*,435,*Case, E. C.*
+*Hay1*,436,*Case, E. C.*
+*Hay1*,437,*Case, E. C.*
+*Hay1*,438,*Case, E. C.*
+*Hay1*,439,*Case, E. C.*
+*Hay1*,440,*Case, E. C.*
+*Hay1*,441,*Chadbourne, P. A.*
+*Hay1*,442,*Chaloner, A. D.*
+*Hay1*,443,*Chamberlin, Thomas C.*
+*Hay1*,444,*Champley, Robert*
+*Hay1*,445,*Chapman, E. J.*
+*Hay1*,446,*Charlesworth, Edward*
+*Hay1*,447,*Charlesworth, Edward*
+*Hay1*,448,*Charlton, O. C.*
+*Hay1*,449,*Cheney, T. A.*
+*Hay1*,450,*Christie, W. J.*
+*Hay1*,451,*Clark, J. W.*
+*Hay1*,452,*Clark, W. B.*
+*Hay1*,453,*Clark, W. B.*
+*Hay1*,454,*Clarke, John M.*
+*Hay1*,455,*Clarke, John M.*
+*Hay1*,456,*Clarke, John M.*
+*Hay1*,457,*Clarke, S. F.*
+*Hay1*,458,*Claudius*
+*Hay1*,459,*Claypole, E. W.*
+*Hay1*,460,*Claypole, E. W.*
+*Hay1*,461,*Claypole, E. W.*
+*Hay1*,462,*Claypole, E. W.*
+*Hay1*,463,*Claypole, E. W.*
+*Hay1*,464,*Claypole, E. W.*
+*Hay1*,465,*Claypole, E. W.*
+*Hay1*,466,*Claypole, E. W.*
+*Hay1*,467,*Claypole, E. W.*
+*Hay1*,468,*Claypole, E. W.*
+*Hay1*,469,*Claypole, E. W.*
+*Hay1*,470,*Claypole, E. W.*
+*Hay1*,471,*Claypole, E. W.*
+*Hay1*,472,*Claypole, E. W.*
+*Hay1*,473,*Claypole, E. W.*
+*Hay1*,474,*Claypole, E. W.*
+*Hay1*,475,*Claypole, E. W.*
+*Hay1*,476,*Claypole, E. W.*
+*Hay1*,477,*Claypole, E. W.*
+*Hay1*,478,*Claypole, E. W.*
+*Hay1*,479,*Claypole, E. W.*
+*Hay1*,480,*Claypole, E. W.*
+*Hay1*,481,*Claypole, E. W.*
+*Hay1*,482,*Claypole, E. W.*
+*Hay1*,483,*Claypole, E. W.*
+*Hay1*,484,*Claypole, E. W.*
+*Hay1*,485,*Claypole, E. W.*
+*Hay1*,486,*Claypole, E. W.*
+*Hay1*,487,*Claypole, E. W.*
+*Hay1*,488,*Claypole, E. W.*
+*Hay1*,489,*Claypole, E. W.*
+*Hay1*,490,*Claypole, E. W.*
+*Hay1*,491,*Claypole, E. W.*
+*Hay1*,492,*Claypole, E. W.*
+*Hay1*,493,*Claypole, E. W.*
+*Hay1*,494,*Claypole, E. W.*
+*Hay1*,495,*Claypole, E. W.*
+*Hay1*,496,*Claypole, E. W.*
+*Hay1*,497,*Clift, William*
+*Hay1*,498,*Cocchi, Igino*
+*Hay1*,499,*Coles, Henry*
+*Hay1*,500,*Collett, John*
+*Hay1*,501,*Collinge, Walter E.*
+*Hay1*,502,*Collinge, Walter E.*
+*Hay1*,503,*Conrad, T. A.*
+*Hay1*,504,*Conrad, T. A.*
+*Hay1*,505,*Conrad, T. A.*
+*Hay1*,506,*Conybeare, William D.*
+*Hay1*,507,*Cook, Geo. H.*
+*Hay1*,508,*Cooper, J. Hamilton*
+*Hay1*,509,*Cooper, William*
+*Hay1*,510,*Cooper, William*
+*Hay1*,511,*Cooper, William*
+*Hay1*,512,*Cooper, William*
+*Hay1*,513,*Cooper, William*
+*Hay1*,513,*Smith, J. A.*
+*Hay1*,513,*DeKay, J. E.*
+*Hay1*,514,*Cope, E. D.*
+*Hay1*,515,*Cope, E. D.*
+*Hay1*,516,*Cope, E. D.*
+*Hay1*,517,*Cope, E. D.*
+*Hay1*,518,*Cope, E. D.*
+*Hay1*,519,*Cope, E. D.*
+*Hay1*,520,*Cope, E. D.*
+*Hay1*,521,*Cope, E. D.*
+*Hay1*,522,*Cope, E. D.*
+*Hay1*,523,*Cope, E. D.*
+*Hay1*,524,*Cope, E. D.*
+*Hay1*,525,*Cope, E. D.*
+*Hay1*,526,*Cope, E. D.*
+*Hay1*,527,*Cope, E. D.*
+*Hay1*,528,*Cope, E. D.*
+*Hay1*,529,*Cope, E. D.*
+*Hay1*,530,*Cope, E. D.*
+*Hay1*,531,*Cope, E. D.*
+*Hay1*,532,*Cope, E. D.*
+*Hay1*,533,*Cope, E. D.*
+*Hay1*,534,*Cope, E. D.*
+*Hay1*,535,*Cope, E. D.*
+*Hay1*,536,*Cope, E. D.*
+*Hay1*,537,*Cope, E. D.*
+*Hay1*,538,*Cope, E. D.*
+*Hay1*,539,*Cope, E. D.*
+*Hay1*,540,*Cope, E. D.*
+*Hay1*,541,*Cope, E. D.*
+*Hay1*,542,*Cope, E. D.*
+*Hay1*,543,*Cope, E. D.*
+*Hay1*,544,*Cope, E. D.*
+*Hay1*,545,*Cope, E. D.*
+*Hay1*,546,*Cope, E. D.*
+*Hay1*,547,*Cope, E. D.*
+*Hay1*,548,*Cope, E. D.*
+*Hay1*,549,*Cope, E. D.*
+*Hay1*,550,*Cope, E. D.*
+*Hay1*,551,*Cope, E. D.*
+*Hay1*,552,*Cope, E. D.*
+*Hay1*,553,*Cope, E. D.*
+*Hay1*,554,*Cope, E. D.*
+*Hay1*,555,*Cope, E. D.*
+*Hay1*,556,*Cope, E. D.*
+*Hay1*,557,*Cope, E. D.*
+*Hay1*,558,*Cope, E. D.*
+*Hay1*,559,*Cope, E. D.*
+*Hay1*,560,*Cope, E. D.*
+*Hay1*,561,*Cope, E. D.*
+*Hay1*,562,*Cope, E. D.*
+*Hay1*,563,*Cope, E. D.*
+*Hay1*,564,*Cope, E. D.*
+*Hay1*,565,*Cope, E. D.*
+*Hay1*,566,*Cope, E. D.*
+*Hay1*,567,*Cope, E. D.*
+*Hay1*,568,*Cope, E. D.*
+*Hay1*,569,*Cope, E. D.*
+*Hay1*,570,*Cope, E. D.*
+*Hay1*,571,*Cope, E. D.*
+*Hay1*,572,*Cope, E. D.*
+*Hay1*,573,*Cope, E. D.*
+*Hay1*,574,*Cope, E. D.*
+*Hay1*,575,*Cope, E. D.*
+*Hay1*,576,*Cope, E. D.*
+*Hay1*,577,*Cope, E. D.*
+*Hay1*,578,*Cope, E. D.*
+*Hay1*,579,*Cope, E. D.*
+*Hay1*,580,*Cope, E. D.*
+*Hay1*,581,*Cope, E. D.*
+*Hay1*,582,*Cope, E. D.*
+*Hay1*,583,*Cope, E. D.*
+*Hay1*,584,*Cope, E. D.*
+*Hay1*,585,*Cope, E. D.*
+*Hay1*,586,*Cope, E. D.*
+*Hay1*,587,*Cope, E. D.*
+*Hay1*,588,*Cope, E. D.*
+*Hay1*,589,*Cope, E. D.*
+*Hay1*,590,*Cope, E. D.*
+*Hay1*,591,*Cope, E. D.*
+*Hay1*,592,*Cope, E. D.*
+*Hay1*,593,*Cope, E. D.*
+*Hay1*,594,*Cope, E. D.*
+*Hay1*,595,*Cope, E. D.*
+*Hay1*,596,*Cope, E. D.*
+*Hay1*,597,*Cope, E. D.*
+*Hay1*,598,*Cope, E. D.*
+*Hay1*,599,*Cope, E. D.*
+*Hay1*,600,*Cope, E. D.*
+*Hay1*,601,*Cope, E. D.*
+*Hay1*,602,*Cope, E. D.*
+*Hay1*,603,*Cope, E. D.*
+*Hay1*,604,*Cope, E. D.*
+*Hay1*,605,*Cope, E. D.*
+*Hay1*,606,*Cope, E. D.*
+*Hay1*,607,*Cope, E. D.*
+*Hay1*,608,*Cope, E. D.*
+*Hay1*,609,*Cope, E. D.*
+*Hay1*,610,*Cope, E. D.*
+*Hay1*,611,*Cope, E. D.*
+*Hay1*,612,*Cope, E. D.*
+*Hay1*,613,*Cope, E. D.*
+*Hay1*,614,*Cope, E. D.*
+*Hay1*,615,*Cope, E. D.*
+*Hay1*,616,*Cope, E. D.*
+*Hay1*,617,*Cope, E. D.*
+*Hay1*,618,*Cope, E. D.*
+*Hay1*,619,*Cope, E. D.*
+*Hay1*,620,*Cope, E. D.*
+*Hay1*,621,*Cope, E. D.*
+*Hay1*,622,*Cope, E. D.*
+*Hay1*,623,*Cope, E. D.*
+*Hay1*,624,*Cope, E. D.*
+*Hay1*,625,*Cope, E. D.*
+*Hay1*,626,*Cope, E. D.*
+*Hay1*,627,*Cope, E. D.*
+*Hay1*,628,*Cope, E. D.*
+*Hay1*,629,*Cope, E. D.*
+*Hay1*,630,*Cope, E. D.*
+*Hay1*,631,*Cope, E. D.*
+*Hay1*,632,*Cope, E. D.*
+*Hay1*,633,*Cope, E. D.*
+*Hay1*,634,*Cope, E. D.*
+*Hay1*,635,*Cope, E. D.*
+*Hay1*,636,*Cope, E. D.*
+*Hay1*,637,*Cope, E. D.*
+*Hay1*,638,*Cope, E. D.*
+*Hay1*,639,*Cope, E. D.*
+*Hay1*,640,*Cope, E. D.*
+*Hay1*,641,*Cope, E. D.*
+*Hay1*,642,*Cope, E. D.*
+*Hay1*,643,*Cope, E. D.*
+*Hay1*,644,*Cope, E. D.*
+*Hay1*,645,*Cope, E. D.*
+*Hay1*,646,*Cope, E. D.*
+*Hay1*,647,*Cope, E. D.*
+*Hay1*,648,*Cope, E. D.*
+*Hay1*,649,*Cope, E. D.*
+*Hay1*,650,*Cope, E. D.*
+*Hay1*,651,*Cope, E. D.*
+*Hay1*,652,*Cope, E. D.*
+*Hay1*,653,*Cope, E. D.*
+*Hay1*,654,*Cope, E. D.*
+*Hay1*,655,*Cope, E. D.*
+*Hay1*,656,*Cope, E. D.*
+*Hay1*,657,*Cope, E. D.*
+*Hay1*,658,*Cope, E. D.*
+*Hay1*,659,*Cope, E. D.*
+*Hay1*,660,*Cope, E. D.*
+*Hay1*,661,*Cope, E. D.*
+*Hay1*,662,*Cope, E. D.*
+*Hay1*,663,*Cope, E. D.*
+*Hay1*,664,*Cope, E. D.*
+*Hay1*,665,*Cope, E. D.*
+*Hay1*,666,*Cope, E. D.*
+*Hay1*,667,*Cope, E. D.*
+*Hay1*,668,*Cope, E. D.*
+*Hay1*,669,*Cope, E. D.*
+*Hay1*,670,*Cope, E. D.*
+*Hay1*,671,*Cope, E. D.*
+*Hay1*,672,*Cope, E. D.*
+*Hay1*,673,*Cope, E. D.*
+*Hay1*,674,*Cope, E. D.*
+*Hay1*,675,*Cope, E. D.*
+*Hay1*,676,*Cope, E. D.*
+*Hay1*,677,*Cope, E. D.*
+*Hay1*,678,*Cope, E. D.*
+*Hay1*,679,*Cope, E. D.*
+*Hay1*,680,*Cope, E. D.*
+*Hay1*,681,*Cope, E. D.*
+*Hay1*,682,*Cope, E. D.*
+*Hay1*,683,*Cope, E. D.*
+*Hay1*,684,*Cope, E. D.*
+*Hay1*,685,*Cope, E. D.*
+*Hay1*,686,*Cope, E. D.*
+*Hay1*,687,*Cope, E. D.*
+*Hay1*,688,*Cope, E. D.*
+*Hay1*,689,*Cope, E. D.*
+*Hay1*,690,*Cope, E. D.*
+*Hay1*,691,*Cope, E. D.*
+*Hay1*,692,*Cope, E. D.*
+*Hay1*,693,*Cope, E. D.*
+*Hay1*,694,*Cope, E. D.*
+*Hay1*,695,*Cope, E. D.*
+*Hay1*,696,*Cope, E. D.*
+*Hay1*,697,*Cope, E. D.*
+*Hay1*,698,*Cope, E. D.*
+*Hay1*,699,*Cope, E. D.*
+*Hay1*,700,*Cope, E. D.*
+*Hay1*,701,*Cope, E. D.*
+*Hay1*,702,*Cope, E. D.*
+*Hay1*,703,*Cope, E. D.*
+*Hay1*,704,*Cope, E. D.*
+*Hay1*,705,*Cope, E. D.*
+*Hay1*,706,*Cope, E. D.*
+*Hay1*,707,*Cope, E. D.*
+*Hay1*,708,*Cope, E. D.*
+*Hay1*,709,*Cope, E. D.*
+*Hay1*,710,*Cope, E. D.*
+*Hay1*,711,*Cope, E. D.*
+*Hay1*,712,*Cope, E. D.*
+*Hay1*,713,*Cope, E. D.*
+*Hay1*,714,*Cope, E. D.*
+*Hay1*,715,*Cope, E. D.*
+*Hay1*,716,*Cope, E. D.*
+*Hay1*,717,*Cope, E. D.*
+*Hay1*,718,*Cope, E. D.*
+*Hay1*,719,*Cope, E. D.*
+*Hay1*,720,*Cope, E. D.*
+*Hay1*,721,*Cope, E. D.*
+*Hay1*,722,*Cope, E. D.*
+*Hay1*,723,*Cope, E. D.*
+*Hay1*,724,*Cope, E. D.*
+*Hay1*,725,*Cope, E. D.*
+*Hay1*,726,*Cope, E. D.*
+*Hay1*,727,*Cope, E. D.*
+*Hay1*,728,*Cope, E. D.*
+*Hay1*,729,*Cope, E. D.*
+*Hay1*,730,*Cope, E. D.*
+*Hay1*,731,*Cope, E. D.*
+*Hay1*,732,*Cope, E. D.*
+*Hay1*,733,*Cope, E. D.*
+*Hay1*,734,*Cope, E. D.*
+*Hay1*,735,*Cope, E. D.*
+*Hay1*,736,*Cope, E. D.*
+*Hay1*,737,*Cope, E. D.*
+*Hay1*,738,*Cope, E. D.*
+*Hay1*,739,*Cope, E. D.*
+*Hay1*,740,*Cope, E. D.*
+*Hay1*,741,*Cope, E. D.*
+*Hay1*,742,*Cope, E. D.*
+*Hay1*,743,*Cope, E. D.*
+*Hay1*,744,*Cope, E. D.*
+*Hay1*,745,*Cope, E. D.*
+*Hay1*,746,*Cope, E. D.*
+*Hay1*,747,*Cope, E. D.*
+*Hay1*,748,*Cope, E. D.*
+*Hay1*,749,*Cope, E. D.*
+*Hay1*,750,*Cope, E. D.*
+*Hay1*,751,*Cope, E. D.*
+*Hay1*,752,*Cope, E. D.*
+*Hay1*,753,*Cope, E. D.*
+*Hay1*,754,*Cope, E. D.*
+*Hay1*,755,*Cope, E. D.*
+*Hay1*,756,*Cope, E. D.*
+*Hay1*,757,*Cope, E. D.*
+*Hay1*,758,*Cope, E. D.*
+*Hay1*,759,*Cope, E. D.*
+*Hay1*,760,*Cope, E. D.*
+*Hay1*,761,*Cope, E. D.*
+*Hay1*,762,*Cope, E. D.*
+*Hay1*,763,*Cope, E. D.*
+*Hay1*,764,*Cope, E. D.*
+*Hay1*,765,*Cope, E. D.*
+*Hay1*,766,*Cope, E. D.*
+*Hay1*,767,*Cope, E. D.*
+*Hay1*,768,*Cope, E. D.*
+*Hay1*,769,*Cope, E. D.*
+*Hay1*,770,*Cope, E. D.*
+*Hay1*,771,*Cope, E. D.*
+*Hay1*,772,*Cope, E. D.*
+*Hay1*,773,*Cope, E. D.*
+*Hay1*,774,*Cope, E. D.*
+*Hay1*,775,*Cope, E. D.*
+*Hay1*,776,*Cope, E. D.*
+*Hay1*,777,*Cope, E. D.*
+*Hay1*,778,*Cope, E. D.*
+*Hay1*,779,*Cope, E. D.*
+*Hay1*,780,*Cope, E. D.*
+*Hay1*,781,*Cope, E. D.*
+*Hay1*,782,*Cope, E. D.*
+*Hay1*,783,*Cope, E. D.*
+*Hay1*,784,*Cope, E. D.*
+*Hay1*,785,*Cope, E. D.*
+*Hay1*,786,*Cope, E. D.*
+*Hay1*,787,*Cope, E. D.*
+*Hay1*,788,*Cope, E. D.*
+*Hay1*,789,*Cope, E. D.*
+*Hay1*,790,*Cope, E. D.*
+*Hay1*,791,*Cope, E. D.*
+*Hay1*,792,*Cope, E. D.*
+*Hay1*,793,*Cope, E. D.*
+*Hay1*,794,*Cope, E. D.*
+*Hay1*,795,*Cope, E. D.*
+*Hay1*,796,*Cope, E. D.*
+*Hay1*,797,*Cope, E. D.*
+*Hay1*,798,*Cope, E. D.*
+*Hay1*,799,*Cope, E. D.*
+*Hay1*,800,*Cope, E. D.*
+*Hay1*,801,*Cope, E. D.*
+*Hay1*,802,*Cope, E. D.*
+*Hay1*,803,*Cope, E. D.*
+*Hay1*,804,*Cope, E. D.*
+*Hay1*,805,*Cope, E. D.*
+*Hay1*,806,*Cope, E. D.*
+*Hay1*,807,*Cope, E. D.*
+*Hay1*,808,*Cope, E. D.*
+*Hay1*,809,*Cope, E. D.*
+*Hay1*,810,*Cope, E. D.*
+*Hay1*,811,*Cope, E. D.*
+*Hay1*,812,*Cope, E. D.*
+*Hay1*,813,*Cope, E. D.*
+*Hay1*,814,*Cope, E. D.*
+*Hay1*,815,*Cope, E. D.*
+*Hay1*,816,*Cope, E. D.*
+*Hay1*,817,*Cope, E. D.*
+*Hay1*,818,*Cope, E. D.*
+*Hay1*,819,*Cope, E. D.*
+*Hay1*,820,*Cope, E. D.*
+*Hay1*,821,*Cope, E. D.*
+*Hay1*,822,*Cope, E. D.*
+*Hay1*,823,*Cope, E. D.*
+*Hay1*,824,*Cope, E. D.*
+*Hay1*,825,*Cope, E. D.*
+*Hay1*,826,*Cope, E. D.*
+*Hay1*,827,*Cope, E. D.*
+*Hay1*,828,*Cope, E. D.*
+*Hay1*,829,*Cope, E. D.*
+*Hay1*,830,*Cope, E. D.*
+*Hay1*,831,*Cope, E. D.*
+*Hay1*,832,*Cope, E. D.*
+*Hay1*,833,*Cope, E. D.*
+*Hay1*,834,*Cope, E. D.*
+*Hay1*,835,*Cope, E. D.*
+*Hay1*,836,*Cope, E. D.*
+*Hay1*,837,*Cope, E. D.*
+*Hay1*,838,*Cope, E. D.*
+*Hay1*,839,*Cope, E. D.*
+*Hay1*,840,*Cope, E. D.*
+*Hay1*,841,*Cope, E. D.*
+*Hay1*,842,*Cope, E. D.*
+*Hay1*,843,*Cope, E. D.*
+*Hay1*,844,*Cope, E. D.*
+*Hay1*,845,*Cope, E. D.*
+*Hay1*,846,*Cope, E. D.*
+*Hay1*,847,*Cope, E. D.*
+*Hay1*,848,*Cope, E. D.*
+*Hay1*,849,*Cope, E. D.*
+*Hay1*,850,*Cope, E. D.*
+*Hay1*,851,*Cope, E. D.*
+*Hay1*,852,*Cope, E. D.*
+*Hay1*,853,*Cope, E. D.*
+*Hay1*,854,*Cope, E. D.*
+*Hay1*,855,*Cope, E. D.*
+*Hay1*,856,*Cope, E. D.*
+*Hay1*,857,*Cope, E. D.*
+*Hay1*,858,*Cope, E. D.*
+*Hay1*,859,*Cope, E. D.*
+*Hay1*,860,*Cope, E. D.*
+*Hay1*,861,*Cope, E. D.*
+*Hay1*,862,*Cope, E. D.*
+*Hay1*,863,*Cope, E. D.*
+*Hay1*,864,*Cope, E. D.*
+*Hay1*,865,*Cope, E. D.*
+*Hay1*,866,*Cope, E. D.*
+*Hay1*,867,*Cope, E. D.*
+*Hay1*,868,*Cope, E. D.*
+*Hay1*,869,*Cope, E. D.*
+*Hay1*,870,*Cope, E. D.*
+*Hay1*,871,*Cope, E. D.*
+*Hay1*,872,*Cope, E. D.*
+*Hay1*,873,*Cope, E. D.*
+*Hay1*,874,*Cope, E. D.*
+*Hay1*,875,*Cope, E. D.*
+*Hay1*,876,*Cope, E. D.*
+*Hay1*,877,*Cope, E. D.*
+*Hay1*,878,*Cope, E. D.*
+*Hay1*,879,*Cope, E. D.*
+*Hay1*,880,*Cope, E. D.*
+*Hay1*,881,*Cope, E. D.*
+*Hay1*,882,*Cope, E. D.*
+*Hay1*,883,*Cope, E. D.*
+*Hay1*,884,*Cope, E. D.*
+*Hay1*,885,*Cope, E. D.*
+*Hay1*,886,*Cope, E. D.*
+*Hay1*,887,*Cope, E. D.*
+*Hay1*,888,*Cope, E. D.*
+*Hay1*,889,*Cope, E. D.*
+*Hay1*,890,*Cope, E. D.*
+*Hay1*,891,*Cope, E. D.*
+*Hay1*,892,*Cope, E. D.*
+*Hay1*,893,*Cope, E. D.*
+*Hay1*,894,*Cope, E. D.*
+*Hay1*,895,*Cope, E. D.*
+*Hay1*,896,*Cope, E. D.*
+*Hay1*,897,*Cope, E. D.*
+*Hay1*,898,*Cope, E. D.*
+*Hay1*,899,*Cope, E. D.*
+*Hay1*,900,*Cope, E. D.*
+*Hay1*,901,*Cope, E. D.*
+*Hay1*,902,*Cope, E. D.*
+*Hay1*,903,*Cope, E. D.*
+*Hay1*,904,*Cope, E. D.*
+*Hay1*,905,*Cope, E. D.*
+*Hay1*,906,*Cope, E. D.*
+*Hay1*,907,*Cope, E. D.*
+*Hay1*,908,*Cope, E. D.*
+*Hay1*,909,*Cope, E. D.*
+*Hay1*,910,*Cope, E. D.*
+*Hay1*,911,*Cope, E. D.*
+*Hay1*,912,*Cope, E. D.*
+*Hay1*,913,*Cope, E. D.*
+*Hay1*,914,*Cope, E. D.*
+*Hay1*,915,*Cope, E. D.*
+*Hay1*,916,*Cope, E. D.*
+*Hay1*,917,*Cope, E. D.*
+*Hay1*,918,*Cope, E. D.*
+*Hay1*,919,*Cope, E. D.*
+*Hay1*,920,*Cope, E. D.*
+*Hay1*,921,*Cope, E. D.*
+*Hay1*,922,*Cope, E. D.*
+*Hay1*,923,*Cope, E. D.*
+*Hay1*,924,*Cope, E. D.*
+*Hay1*,925,*Cope, E. D.*
+*Hay1*,926,*Cope, E. D.*
+*Hay1*,927,*Cope, E. D.*
+*Hay1*,928,*Cope, E. D.*
+*Hay1*,929,*Cope, E. D.*
+*Hay1*,930,*Cope, E. D.*
+*Hay1*,931,*Cope, E. D.*
+*Hay1*,932,*Cope, E. D.*
+*Hay1*,933,*Cope, E. D.*
+*Hay1*,934,*Cope, E. D.*
+*Hay1*,935,*Cope, E. D.*
+*Hay1*,936,*Cope, E. D.*
+*Hay1*,937,*Cope, E. D.*
+*Hay1*,938,*Cope, E. D.*
+*Hay1*,939,*Cope, E. D.*
+*Hay1*,940,*Cope, E. D.*
+*Hay1*,941,*Cope, E. D.*
+*Hay1*,942,*Cope, E. D.*
+*Hay1*,943,*Cope, E. D.*
+*Hay1*,944,*Cope, E. D.*
+*Hay1*,945,*Cope, E. D.*
+*Hay1*,946,*Cope, E. D.*
+*Hay1*,947,*Cope, E. D.*
+*Hay1*,948,*Cope, E. D.*
+*Hay1*,949,*Cope, E. D.*
+*Hay1*,950,*Cope, E. D.*
+*Hay1*,951,*Cope, E. D.*
+*Hay1*,952,*Cope, E. D.*
+*Hay1*,953,*Cope, E. D.*
+*Hay1*,954,*Cope, E. D.*
+*Hay1*,955,*Cope, E. D.*
+*Hay1*,956,*Cope, E. D.*
+*Hay1*,957,*Cope, E. D.*
+*Hay1*,958,*Cope, E. D.*
+*Hay1*,959,*Cope, E. D.*
+*Hay1*,960,*Cope, E. D.*
+*Hay1*,961,*Cope, E. D.*
+*Hay1*,962,*Cope, E. D.*
+*Hay1*,963,*Cope, E. D.*
+*Hay1*,964,*Cope, E. D.*
+*Hay1*,965,*Cope, E. D.*
+*Hay1*,966,*Cope, E. D.*
+*Hay1*,967,*Cope, E. D.*
+*Hay1*,968,*Cope, E. D.*
+*Hay1*,969,*Cope, E. D.*
+*Hay1*,970,*Cope, E. D.*
+*Hay1*,971,*Cope, E. D.*
+*Hay1*,972,*Cope, E. D.*
+*Hay1*,973,*Cope, E. D.*
+*Hay1*,974,*Cope, E. D.*
+*Hay1*,975,*Cope, E. D.*
+*Hay1*,976,*Cope, E. D.*
+*Hay1*,977,*Cope, E. D.*
+*Hay1*,978,*Cope, E. D.*
+*Hay1*,979,*Cope, E. D.*
+*Hay1*,980,*Cope, E. D.*
+*Hay1*,981,*Cope, E. D.*
+*Hay1*,982,*Cope, E. D.*
+*Hay1*,983,*Cope, E. D.*
+*Hay1*,984,*Cope, E. D.*
+*Hay1*,985,*Cope, E. D.*
+*Hay1*,986,*Cope, E. D.*
+*Hay1*,987,*Cope, E. D.*
+*Hay1*,988,*Cope, E. D.*
+*Hay1*,989,*Cope, E. D.*
+*Hay1*,990,*Cope, E. D.*
+*Hay1*,991,*Cope, E. D.*
+*Hay1*,992,*Cope, E. D.*
+*Hay1*,993,*Cope, E. D.*
+*Hay1*,994,*Cope, E. D.*
+*Hay1*,995,*Cope, E. D.*
+*Hay1*,996,*Cope, E. D.*
+*Hay1*,997,*Cope, E. D.*
+*Hay1*,998,*Cope, E. D.*
+*Hay1*,999,*Cope, E. D.*
+*Hay1*,1000,*Cope, E. D.*
+*Hay1*,1001,*Cope, E. D.*
+*Hay1*,1002,*Cope, E. D.*
+*Hay1*,1003,*Cope, E. D.*
+*Hay1*,1004,*Cope, E. D.*
+*Hay1*,1005,*Cope, E. D.*
+*Hay1*,1006,*Cope, E. D.*
+*Hay1*,1007,*Cope, E. D.*
+*Hay1*,1008,*Cope, E. D.*
+*Hay1*,1009,*Cope, E. D.*
+*Hay1*,1010,*Cope, E. D.*
+*Hay1*,1011,*Cope, E. D.*
+*Hay1*,1012,*Cope, E. D.*
+*Hay1*,1013,*Cope, E. D.*
+*Hay1*,1014,*Cope, E. D.*
+*Hay1*,1015,*Cope, E. D.*
+*Hay1*,1016,*Cope, E. D.*
+*Hay1*,1017,*Cope, E. D.*
+*Hay1*,1018,*Cope, E. D.*
+*Hay1*,1019,*Cope, E. D.*
+*Hay1*,1020,*Cope, E. D.*
+*Hay1*,1021,*Cope, E. D.*
+*Hay1*,1022,*Cope, E. D.*
+*Hay1*,1023,*Cope, E. D.*
+*Hay1*,1024,*Cope, E. D.*
+*Hay1*,1025,*Cope, E. D.*
+*Hay1*,1026,*Cope, E. D.*
+*Hay1*,1027,*Cope, E. D.*
+*Hay1*,1028,*Cope, E. D.*
+*Hay1*,1029,*Cope, E. D.*
+*Hay1*,1030,*Cope, E. D.*
+*Hay1*,1031,*Cope, E. D.*
+*Hay1*,1032,*Cope, E. D.*
+*Hay1*,1033,*Cope, E. D.*
+*Hay1*,1034,*Cope, E. D.*
+*Hay1*,1035,*Cope, E. D.*
+*Hay1*,1036,*Cope, E. D.*
+*Hay1*,1037,*Cope, E. D.*
+*Hay1*,1038,*Cope, E. D.*
+*Hay1*,1039,*Cope, E. D.*
+*Hay1*,1040,*Cope, E. D.*
+*Hay1*,1041,*Cope, E. D.*
+*Hay1*,1042,*Cope, E. D.*
+*Hay1*,1043,*Cope, E. D.*
+*Hay1*,1044,*Cope, E. D.*
+*Hay1*,1045,*Cope, E. D.*
+*Hay1*,1046,*Cope, E. D.*
+*Hay1*,1047,*Cope, E. D.*
+*Hay1*,1048,*Cope, E. D.*
+*Hay1*,1049,*Cope, E. D.*
+*Hay1*,1050,*Cope, E. D.*
+*Hay1*,1051,*Cope, E. D.*
+*Hay1*,1052,*Cope, E. D.*
+*Hay1*,1053,*Cope, E. D.*
+*Hay1*,1054,*Cope, E. D.*
+*Hay1*,1055,*Cope, E. D.*
+*Hay1*,1056,*Cope, E. D.*
+*Hay1*,1057,*Cope, E. D.*
+*Hay1*,1058,*Cope, E. D.*
+*Hay1*,1059,*Cope, E. D.*
+*Hay1*,1060,*Cope, E. D.*
+*Hay1*,1061,*Cope, E. D.*
+*Hay1*,1062,*Cope, E. D.*
+*Hay1*,1063,*Cope, E. D.*
+*Hay1*,1064,*Cope, E. D.*
+*Hay1*,1065,*Cope, E. D.*
+*Hay1*,1066,*Cope, E. D.*
+*Hay1*,1067,*Cope, E. D.*
+*Hay1*,1068,*Cope, E. D.*
+*Hay1*,1069,*Cope, E. D.*
+*Hay1*,1070,*Cope, E. D.*
+*Hay1*,1071,*Cope, E. D.*
+*Hay1*,1072,*Cope, E. D.*
+*Hay1*,1073,*Cope, E. D.*
+*Hay1*,1074,*Cope, E. D.*
+*Hay1*,1075,*Cope, E. D.*
+*Hay1*,1076,*Cope, E. D.*
+*Hay1*,1077,*Cope, E. D.*
+*Hay1*,1078,*Cope, E. D.*
+*Hay1*,1079,*Cope, E. D.*
+*Hay1*,1080,*Cope, E. D.*
+*Hay1*,1081,*Cope, E. D.*
+*Hay1*,1082,*Cope, E. D.*
+*Hay1*,1083,*Cope, E. D.*
+*Hay1*,1084,*Cope, E. D.*
+*Hay1*,1085,*Cope, E. D.*
+*Hay1*,1086,*Cope, E. D.*
+*Hay1*,1087,*Cope, E. D.*
+*Hay1*,1088,*Cope, E. D.*
+*Hay1*,1089,*Cope, E. D.*
+*Hay1*,1090,*Cope, E. D.*
+*Hay1*,1091,*Cope, E. D.*
+*Hay1*,1092,*Cope, E. D.*
+*Hay1*,1093,*Cope, E. D.*
+*Hay1*,1094,*Cope, E. D.*
+*Hay1*,1095,*Cope, E. D.*
+*Hay1*,1096,*Cope, E. D.*
+*Hay1*,1097,*Cope, E. D.*
+*Hay1*,1098,*Cope, E. D.*
+*Hay1*,1099,*Cope, E. D.*
+*Hay1*,1100,*Cope, E. D.*
+*Hay1*,1101,*Cope, E. D.*
+*Hay1*,1102,*Cope, E. D.*
+*Hay1*,1103,*Cope, E. D.*
+*Hay1*,1104,*Cope, E. D.*
+*Hay1*,1105,*Cope, E. D.*
+*Hay1*,1106,*Cope, E. D.*
+*Hay1*,1107,*Cope, E. D.*
+*Hay1*,1108,*Cope, E. D.*
+*Hay1*,1109,*Cope, E. D.*
+*Hay1*,1110,*Cope, E. D.*
+*Hay1*,1111,*Cope, E. D.*
+*Hay1*,1112,*Cope, E. D.*
+*Hay1*,1113,*Cope, E. D.*
+*Hay1*,1114,*Cope, E. D.*
+*Hay1*,1115,*Cope, E. D.*
+*Hay1*,1116,*Cope, E. D.*
+*Hay1*,1117,*Cope, E. D.*
+*Hay1*,1118,*Cope, E. D.*
+*Hay1*,1119,*Cope, E. D.*
+*Hay1*,1120,*Cope, E. D.*
+*Hay1*,1121,*Cope, E. D.*
+*Hay1*,1122,*Cope, E. D.*
+*Hay1*,1123,*Cope, E. D.*
+*Hay1*,1124,*Cope, E. D.*
+*Hay1*,1125,*Cope, E. D.*
+*Hay1*,1126,*Cope, E. D.*
+*Hay1*,1127,*Cope, E. D.*
+*Hay1*,1128,*Cope, E. D.*
+*Hay1*,1129,*Cope, E. D.*
+*Hay1*,1130,*Cope, E. D.*
+*Hay1*,1131,*Cope, E. D.*
+*Hay1*,1132,*Cope, E. D.*
+*Hay1*,1133,*Cope, E. D.*
+*Hay1*,1134,*Cope, E. D.*
+*Hay1*,1135,*Cope, E. D.*
+*Hay1*,1136,*Cope, E. D.*
+*Hay1*,1137,*Cope, E. D.*
+*Hay1*,1138,*Cope, E. D.*
+*Hay1*,1139,*Cope, E. D.*
+*Hay1*,1140,*Cope, E. D.*
+*Hay1*,1141,*Cope, E. D.*
+*Hay1*,1142,*Cope, E. D.*
+*Hay1*,1143,*Cope, E. D.*
+*Hay1*,1144,*Cope, E. D.*
+*Hay1*,1145,*Cope, E. D.*
+*Hay1*,1146,*Cope, E. D.*
+*Hay1*,1147,*Cope, E. D.*
+*Hay1*,1148,*Cope, E. D.*
+*Hay1*,1149,*Cope, E. D.*
+*Hay1*,1150,*Cope, E. D.*
+*Hay1*,1151,*Cope, E. D.*
+*Hay1*,1152,*Cope, E. D.*
+*Hay1*,1153,*Cope, E. D.*
+*Hay1*,1154,*Cope, E. D.*
+*Hay1*,1155,*Cope, E. D.*
+*Hay1*,1156,*Cope, E. D.*
+*Hay1*,1157,*Cope, E. D.*
+*Hay1*,1158,*Cope, E. D.*
+*Hay1*,1159,*Cope, E. D.*
+*Hay1*,1160,*Cope, E. D.*
+*Hay1*,1161,*Cope, E. D.*
+*Hay1*,1162,*Cope, E. D.*
+*Hay1*,1163,*Cope, E. D.*
+*Hay1*,1164,*Cope, E. D.*
+*Hay1*,1165,*Cope, E. D.*
+*Hay1*,1166,*Cope, E. D.*
+*Hay1*,1167,*Cope, E. D.*
+*Hay1*,1168,*Cope, E. D.*
+*Hay1*,1169,*Cope, E. D.*
+*Hay1*,1170,*Cope, E. D.*
+*Hay1*,1171,*Cope, E. D.*
+*Hay1*,1172,*Cope, E. D.*
+*Hay1*,1173,*Cope, E. D.*
+*Hay1*,1174,*Cope, E. D.*
+*Hay1*,1175,*Cope, E. D.*
+*Hay1*,1176,*Cope, E. D.*
+*Hay1*,1177,*Cope, E. D.*
+*Hay1*,1178,*Cope, E. D.*
+*Hay1*,1179,*Cope, E. D.*
+*Hay1*,1180,*Cope, E. D.*
+*Hay1*,1180,*Wortman, J. L.*
+*Hay1*,1181,*Cornevin, Charles*
+*Hay1*,1182,*Cornuel, J.*
+*Hay1*,1183,*Cottle, Thomas*
+*Hay1*,1184,*Cottle, Thomas*
+*Hay1*,1185,*Coues, Elliott*
+*Hay1*,1186,*Coues, Elliott*
+*Hay1*,1187,*Coues, Elliott*
+*Hay1*,1188,*Coues, Elliott*
+*Hay1*,1189,*Coues, Elliott*
+*Hay1*,1190,*Coues, Elliott*
+*Hay1*,1191,*Coues, Elliott*
+*Hay1*,1192,*Coues, Elliott*
+*Hay1*,1193,*Coues, Elliott*
+*Hay1*,1194,*Coues, Elliott*
+*Hay1*,1195,*Coues, Elliott*
+*Hay1*,1196,*Coues, Elliott*
+*Hay1*,1197,*Coues, Elliott*
+*Hay1*,1198,*Couper, J. Hamilton*
+*Hay1*,1199,*Cox, E. T.*
+*Hay1*,1200,*Cragin, F. W.*
+*Hay1*,1201,*Cragin, F. W.*
+*Hay1*,1202,*Cragin, F. W.*
+*Hay1*,1203,*Cragin, F. W.*
+*Hay1*,1204,*Cragin, F. W.*
+*Hay1*,1205,*Cragin, F. W.*
+*Hay1*,1206,*Cragin, F. W.*
+*Hay1*,1207,*Cragin, F. W.*
+*Hay1*,1208,*Cramer, Frank*
+*Hay1*,1209,*Credner, Hermann*
+*Hay1*,1210,*Credner, Hermann*
+*Hay1*,1211,*Credner, Hermann*
+*Hay1*,1212,*Credner, Hermann*
+*Hay1*,1213,*Credner, Hermann*
+*Hay1*,1214,*Credner, Hermann*
+*Hay1*,1215,*Credner, Hermann*
+*Hay1*,1216,*Credner, Hermann*
+*Hay1*,1217,*Credner, Hermann*
+*Hay1*,1218,*Credner, Hermann*
+*Hay1*,1219,*Credner, Hermann*
+*Hay1*,1220,*Credner, Hermann*
+*Hay1*,1221,*Credner, Hermann*
+*Hay1*,1222,*Crook, Alja Robinson*
+*Hay1*,1223,*Croom, H. B.*
+*Hay1*,1224,*Cunningham, John*
+*Hay1*,1225,*Cunningham, Robt. O.*
+*Hay1*,1226,*Cuvier, Georges*
+*Hay1*,1227,*Cuvier, Georges*
+*Hay1*,1228,*Cuvier, Georges*
+*Hay1*,1229,*Cuvier, Georges*
+*Hay1*,1230,*Cuvier, Georges*
+*Hay1*,1231,*Cuvier, Georges*
+*Hay1*,1232,*Cuvier, Georges*
+*Hay1*,1233,*Cuvier, Georges*
+*Hay1*,1234,*Cuvier, Georges*
+*Hay1*,1235,*Daily State Journal*
+*Hay1*,1236,*Dall, William H.*
+*Hay1*,1237,*Dall, William H.*
+*Hay1*,1238,*Dall, William H.*
+*Hay1*,1239,*Dames, W.*
+*Hay1*,1240,*Dames, W.*
+*Hay1*,1241,*Dames, W.*
+*Hay1*,1242,*Dames, W.*
+*Hay1*,1243,*Dames, W.*
+*Hay1*,1244,*Dames, W.*
+*Hay1*,1245,*Dames, W.*
+*Hay1*,1246,*Dames, W.*
+*Hay1*,1247,*Dames, W.*
+*Hay1*,1248,*Dames, W.*
+*Hay1*,1249,*Dames, W.*
+*Hay1*,1250,*Dames, W.*
+*Hay1*,1251,*Dames, W.*
+*Hay1*,1252,*Dames, W.*
+*Hay1*,1253,*Dana, James D.*
+*Hay1*,1254,*Dana, James D.*
+*Hay1*,1255,*Dana, James D.*
+*Hay1*,1256,*Dana, James D.*
+*Hay1*,1257,*Dana, James D.*
+*Hay1*,1258,*Dana, James D.*
+*Hay1*,1259,*Dana, James D.*
+*Hay1*,1260,*Dareste, Camille*
+*Hay1*,1261,*Dareste, Camille*
+*Hay1*,1262,*Davidoff, M.*
+*Hay1*,1263,*Davidoff, M.*
+*Hay1*,1264,*Davidoff, M.*
+*Hay1*,1265,*Davies, William*
+*Hay1*,1266,*Davies, William*
+*Hay1*,1267,*Davies, William*
+*Hay1*,1268,*Davis, Chas. H. S.*
+*Hay1*,1269,*Davis, James W.*
+*Hay1*,1270,*Davis, James W.*
+*Hay1*,1271,*Davis, James W.*
+*Hay1*,1272,*Davis, James W.*
+*Hay1*,1273,*Davis, James W.*
+*Hay1*,1274,*Davis, James W.*
+*Hay1*,1275,*Davis, James W.*
+*Hay1*,1276,*Davis, James W.*
+*Hay1*,1277,*Davis, James W.*
+*Hay1*,1278,*Davis, James W.*
+*Hay1*,1279,*Davis, James W.*
+*Hay1*,1280,*Davis, James W.*
+*Hay1*,1281,*Davis, James W.*
+*Hay1*,1282,*Davis, James W.*
+*Hay1*,1283,*Davis, James W.*
+*Hay1*,1284,*Davis, James W.*
+*Hay1*,1285,*Davison, Charles*
+*Hay1*,1286,*Dawkins, W. Boyd*
+*Hay1*,1287,*Dawkins, W. Boyd*
+*Hay1*,1288,*Dawkins, W. Boyd*
+*Hay1*,1289,*Dawkins, W. Boyd*
+*Hay1*,1290,*Dawkins, W. Boyd*
+*Hay1*,1291,*Dawkins, W. Boyd*
+*Hay1*,1292,*Dawkins, W. Boyd*
+*Hay1*,1293,*Dawkins, W. B.*
+*Hay1*,1293,*Sanford, W. A.*
+*Hay1*,1294,*Dawson, George M.*
+*Hay1*,1295,*Dawson, J. William*
+*Hay1*,1296,*Dawson, J. William*
+*Hay1*,1297,*Dawson, J. William*
+*Hay1*,1298,*Dawson, J. William*
+*Hay1*,1299,*Dawson, J. William*
+*Hay1*,1300,*Dawson, J. William*
+*Hay1*,1301,*Dawson, J. William*
+*Hay1*,1302,*Dawson, J. William*
+*Hay1*,1303,*Dawson, J. William*
+*Hay1*,1304,*Dawson, J. William*
+*Hay1*,1305,*Dawson, J. William*
+*Hay1*,1306,*Dawson, J. William*
+*Hay1*,1307,*Dawson, J. William*
+*Hay1*,1308,*Dawson, J. William*
+*Hay1*,1309,*Dawson, J. William*
+*Hay1*,1310,*Dawson, J. William*
+*Hay1*,1311,*Dawson, J. William*
+*Hay1*,1312,*Dawson, J. William*
+*Hay1*,1313,*Dawson, J. William*
+*Hay1*,1314,*Dawson, J. William*
+*Hay1*,1315,*Dawson, J. William*
+*Hay1*,1316,*Dawson, J. William*
+*Hay1*,1317,*Dawson, J. William*
+*Hay1*,1318,*Dawson, J. William*
+*Hay1*,1319,*Dawson, J. William*
+*Hay1*,1320,*Dawson, J. William*
+*Hay1*,1321,*Day, E. C. H.*
+*Hay1*,1322,*"D. L. H."*
+*Hay1*,1323,*Dean, Bashford*
+*Hay1*,1324,*Dean, Bashford*
+*Hay1*,1325,*Dean, Bashford*
+*Hay1*,1326,*Dean, Bashford*
+*Hay1*,1327,*Dean, Bashford*
+*Hay1*,1328,*Dean, Bashford*
+*Hay1*,1329,*Dean, Bashford*
+*Hay1*,1330,*Dean, Bashford*
+*Hay1*,1331,*Dean, Bashford*
+*Hay1*,1332,*Dean, Bashford*
+*Hay1*,1333,*Dean, Bashford*
+*Hay1*,1334,*Dean, Bashford*
+*Hay1*,1335,*Dean, Bashford*
+*Hay1*,1336,*Dean, Bashford*
+*Hay1*,1337,*Deane, James*
+*Hay1*,1338,*Deane, James*
+*Hay1*,1339,*Deane, James*
+*Hay1*,1340,*Deane, James*
+*Hay1*,1341,*Deane, James*
+*Hay1*,1342,*Deane, James*
+*Hay1*,1343,*Deane, James*
+*Hay1*,1344,*Deane, James*
+*Hay1*,1345,*Deane, James*
+*Hay1*,1346,*Deane, James*
+*Hay1*,1347,*Deane, James*
+*Hay1*,1348,*Deane, James*
+*Hay1*,1349,*Deane, James*
+*Hay1*,1350,*Deecke, W.*
+*Hay1*,1351,*De Kay, James E.*
+*Hay1*,1351,*Deichmu%Fller, J. V.*
+*Hay1*,1352,*De Kay, James E.*
+*Hay1*,1353,*De Kay, James E.*
+*Hay1*,1354,*De Kay, James E.*
+*Hay1*,1355,*De Kay, James E.*
+*Hay1*,1356,*De Kay, James E.*
+*Hay1*,1357,*De Kay, James E.*
+*Hay1*,1358,*Delbos, Joseph*
+*Hay1*,1359,*Delbos, Joseph*
+*Hay1*,1360,*Delbos, Joseph*
+*Hay1*,1361,*Delfortrie, E.*
+*Hay1*,1362,*Dennis, J. B. P.*
+*Hay1*,1363,*Depe%Aret, Charles*
+*Hay1*,1364,*Depe%Aret, Charles*
+*Hay1*,1365,*Deslongchamps-Eudes, J. A.*
+*Hay1*,1366,*Deslongchamps-Eudes, J. A.*
+*Hay1*,1367,*Deslongchamps-Eudes, E.*
+*Hay1*,1368,*Desor, E.*
+*Hay1*,1369,*Desor, E.*
+*Hay1*,1370,*Destinez, P.*
+*Hay1*,1371,*Dickeson, M. W.*
+*Hay1*,1372,*Dickeson, M. W.*
+*Hay1*,1373,*Didelot, Le%Aon*
+*Hay1*,1374,*Diffenberger, F. R.*
+*Hay1*,1375,*Dixon, Frederick*
+*Hay1*,1376,*Dixon, Frederick*
+*Hay1*,1377,*Dobson, G. E.*
+*Hay1*,1378,*Dobson, G. E.*
+*Hay1*,1379,*Dobson, G. E.*
+*Hay1*,1380,*Do%Fderlein, Ludwig*
+*Hay1*,1381,*Do%Fderlein, Ludwig*
+*Hay1*,1382,*Dohrn, Anton*
+*Hay1*,1383,*Dollo, Louis*
+*Hay1*,1384,*Dollo, Louis*
+*Hay1*,1385,*Dollo, Louis*
+*Hay1*,1386,*Dollo, Louis*
+*Hay1*,1387,*Dollo, Louis*
+*Hay1*,1388,*Dollo, Louis*
+*Hay1*,1389,*Dollo, Louis*
+*Hay1*,1390,*Dollo, Louis*
+*Hay1*,1391,*Dollo, Louis*
+*Hay1*,1392,*Dollo, Louis*
+*Hay1*,1393,*Dollo, Louis*
+*Hay1*,1394,*Dollo, Louis*
+*Hay1*,1395,*Dollo, Louis*
+*Hay1*,1396,*Dollo, Louis*
+*Hay1*,1397,*Dollo, Louis*
+*Hay1*,1398,*Dollo, Louis*
+*Hay1*,1399,*Dollo, Louis*
+*Hay1*,1400,*Dollo, Louis*
+*Hay1*,1401,*Dollo, Louis*
+*Hay1*,1402,*Dollo, Louis*
+*Hay1*,1403,*Dollo, Louis*
+*Hay1*,1404,*Dollo, Louis*
+*Hay1*,1405,*Dollo, Louis*
+*Hay1*,1406,*Dollo, Louis*
+*Hay1*,1407,*Dollo, Louis*
+*Hay1*,1408,*Dollo, Louis*
+*Hay1*,1409,*Dollo, Louis*
+*Hay1*,1410,*Dollo, Louis*
+*Hay1*,1411,*Dollo, Louis*
+*Hay1*,1412,*Dollo, Louis*
+*Hay1*,1413,*Dollo, Louis*
+*Hay1*,1414,*Domeier, Wilhelm*
+*Hay1*,1415,*Douglass, Earl*
+*Hay1*,1416,*Douglass, Earl*
+*Hay1*,1417,*Donald, J. T.*
+*Hay1*,1418,*Duge%Cs, Alfredo*
+*Hay1*,1419,*Dume%Aril, Aug*
+*Hay1*,1420,*Dupont, Edward*
+*Hay1*,1421,*Duralde, Martin*
+*Hay1*,1422,*Duvernoy, G. L.*
+*Hay1*,1423,*Duvernoy, G. L.*
+*Hay1*,1424,*Earle, Charles*
+*Hay1*,1425,*Earle, Charles*
+*Hay1*,1426,*Earle, Charles*
+*Hay1*,1427,*Earle, Charles*
+*Hay1*,1428,*Earle, Charles*
+*Hay1*,1429,*Earle, Charles*
+*Hay1*,1430,*Earle, Charles*
+*Hay1*,1431,*Earle, Charles*
+*Hay1*,1432,*Earle, Charles*
+*Hay1*,1433,*Earle, Charles*
+*Hay1*,1434,*Earle, Charles*
+*Hay1*,1435,*Earle, Charles*
+*Hay1*,1436,*Earle, Charles*
+*Hay1*,1437,*Eastman, Charles R.*
+*Hay1*,1438,*Eastman, Charles R.*
+*Hay1*,1439,*Eastman, Charles R.*
+*Hay1*,1440,*Eastman, Charles R.*
+*Hay1*,1441,*Eastman, Charles R.*
+*Hay1*,1442,*Eastman, Charles R.*
+*Hay1*,1443,*Eastman, Charles R.*
+*Hay1*,1444,*Eastman, Charles R.*
+*Hay1*,1445,*Eastman, Charles R.*
+*Hay1*,1446,*Eastman, Charles R.*
+*Hay1*,1447,*Eastman, Charles R.*
+*Hay1*,1448,*Eastman, Charles R.*
+*Hay1*,1449,*Eastman, Charles R.*
+*Hay1*,1450,*Eastman, Charles R.*
+*Hay1*,1451,*Eastman, Charles R.*
+*Hay1*,1452,*Eastman, Charles R.*
+*Hay1*,1453,*Eastman, Charles R.*
+*Hay1*,1454,*Eastman, Charles R.*
+*Hay1*,1455,*Eastman, Charles R.*
+*Hay1*,1456,*Eastman, Charles R.*
+*Hay1*,1457,*Eastman, Charles R.*
+*Hay1*,1458,*Eastman, Charles R.*
+*Hay1*,1459,*Eastman, Charles R.*
+*Hay1*,1460,*Eastman, Charles R.*
+*Hay1*,1461,*Edwards, Alphonse Milne*
+*Hay1*,1462,*Edwards, Alphonse Milne*
+*Hay1*,1463,*Edwards, Alphonse Milne*
+*Hay1*,1464,*Edwards, Alphonse Milne*
+*Hay1*,1465,*Edwards, Alphonse Milne*
+*Hay1*,1466,*Edwards, Arthur M.*
+*Hay1*,1467,*Edwards, Timothy*
+*Hay1*,1468,*Egerton, P. G.*
+*Hay1*,1469,*Egerton, P. G.*
+*Hay1*,1470,*Egerton, P. G.*
+*Hay1*,1471,*Egerton, P. G.*
+*Hay1*,1472,*Egerton, P. G.*
+*Hay1*,1473,*Egerton, P. G.*
+*Hay1*,1474,*Egerton, P. G.*
+*Hay1*,1475,*Egerton, P. G.*
+*Hay1*,1476,*Egerton, P. G.*
+*Hay1*,1477,*Egerton, P. G.*
+*Hay1*,1478,*Egerton, P. G.*
+*Hay1*,1479,*Egerton, P. G.*
+*Hay1*,1480,*Egerton, P. G.*
+*Hay1*,1481,*Egerton, P. G.*
+*Hay1*,1482,*Egerton, P. G.*
+*Hay1*,1483,*Egerton, P. G.*
+*Hay1*,1484,*Egerton, P. G.*
+*Hay1*,1485,*Egerton, P. G.*
+*Hay1*,1486,*Egerton, P. G.*
+*Hay1*,1487,*Egerton, P. G.*
+*Hay1*,1488,*Egerton, P. G.*
+*Hay1*,1489,*Egerton, P. G.*
+*Hay1*,1490,*Eichwald, Eduard*
+*Hay1*,1491,*Eichwald, Eduard*
+*Hay1*,1492,*Eichwald, Eduard*
+*Hay1*,1493,*Eichwald, Eduard*
+*Hay1*,1494,*Eichwald, Eduard*
+*Hay1*,1495,*Eichwald, Eduard*
+*Hay1*,1496,*Eichwald, Eduard*
+*Hay1*,1497,*Eigenmann, C. H.*
+*Hay1*,1498,*Emerton, J. H.*
+*Hay1*,1499,*Emery, Carl*
+*Hay1*,1500,*Emery, Carl*
+*Hay1*,1501,*Emery, Carl*
+*Hay1*,1502,*Emmons, Ebenezer*
+*Hay1*,1503,*Emmons, Ebenezer*
+*Hay1*,1504,*Emmons, Ebenezer*
+*Hay1*,1505,*Emmons, Ebenezer*
+*Hay1*,1506,*Emmons, Ebenezer*
+*Hay1*,1507,*Emmons, Ebenezer*
+*Hay1*,1508,*Emmons, Ebenezer*
+*Hay1*,1509,*Emmons, Ebenezer*
+*Hay1*,1510,*Emmons, Ebenezer*
+*Hay1*,1511,*Etheridge, Robert*
+*Hay1*,1511,*Willett, Henry*
+*Hay1*,1512,*Evermann, B. W.*
+*Hay1*,1513,*Ewart, J. C.*
+*Hay1*,1514,*Ewart, J. C.*
+*Hay1*,1515,*Eyerman, John*
+*Hay1*,1516,*Eyerman, John*
+*Hay1*,1517,*Eyerman, John*
+*Hay1*,1518,*Eyerman, John*
+*Hay1*,1519,*Eyerman, John*
+*Hay1*,1520,*Eyerman, John*
+*Hay1*,1521,*Eyerman, John*
+*Hay1*,1522,*Eyerman, John*
+*Hay1*,1523,*Eyerman, John*
+*Hay1*,1524,*Falconer, Hugh*
+*Hay1*,1525,*Falconer, Hugh*
+*Hay1*,1526,*Falconer, Hugh*
+*Hay1*,1527,*Falconer, Hugh*
+*Hay1*,1528,*Falconer, Hugh*
+*Hay1*,1529,*Falconer, Hugh*
+*Hay1*,1529,*Cautley, Proby T.*
+*Hay1*,1530,*Farr, Marcus S.*
+*Hay1*,1531,*Farrington, Oliver C.*
+*Hay1*,1532,*Faujas-Saint-Fond, Barth*
+*Hay1*,1533,*Featherstonhaugh, G. W.*
+*Hay1*,1534,*Felix, Johannes*
+*Hay1*,1535,*Felix, Johannes*
+*Hay1*,1535,*Lenk, H.*
+*Hay1*,1536,*Field, Roswell*
+*Hay1*,1537,*Field, Roswell*
+*Hay1*,1538,*Field, Roswell*
+*Hay1*,1539,*Filhol, Henri*
+*Hay1*,1540,*Filhol, Henri*
+*Hay1*,1541,*Filhol, Henri*
+*Hay1*,1542,*Filhol, Henri*
+*Hay1*,1543,*Filhol, Henri*
+*Hay1*,1544,*Filhol, Henri*
+*Hay1*,1545,*Filhol, Henri*
+*Hay1*,1546,*Filhol, Henri*
+*Hay1*,1547,*Filhol, Henri*
+*Hay1*,1548,*Filhol, Henri*
+*Hay1*,1549,*Filhol, Henri*
+*Hay1*,1550,*Filhol, Henri*
+*Hay1*,1551,*Filhol, Henri*
+*Hay1*,1552,*Filhol, Henri*
+*Hay1*,1553,*Filhol, Henri*
+*Hay1*,1554,*Filhol, Henri*
+*Hay1*,1555,*Fisher, G. J.*
+*Hay1*,1556,*Fleischmann, A.*
+*Hay1*,1557,*Fleischmann, A.*
+*Hay1*,1558,*Flores, Eduardo*
+*Hay1*,1559,*Flot, L.*
+*Hay1*,1560,*Flot, L.*
+*Hay1*,1561,*Flower, W. H.*
+*Hay1*,1562,*Flower, W. H.*
+*Hay1*,1563,*Flower, W. H.*
+*Hay1*,1564,*Flower, W. H.*
+*Hay1*,1565,*Flower, W. H.*
+*Hay1*,1566,*Flower, W. H.*
+*Hay1*,1567,*Flower, W. H.*
+*Hay1*,1568,*Flower, W. H.*
+*Hay1*,1569,*Flower, W. H.*
+*Hay1*,1570,*Flower, W. H.*
+*Hay1*,1571,*Flower, W. H.*
+*Hay1*,1572,*Flower, W. H.*
+*Hay1*,1573,*Flower, W. H.*
+*Hay1*,1574,*Flower, W. H.*
+*Hay1*,1575,*Flower, W. H.*
+*Hay1*,1576,*Flower, W. H.*
+*Hay1*,1577,*Flower, W. H.*
+*Hay1*,1578,*Flower, W. H.*
+*Hay1*,1579,*Flower, W. H.*
+*Hay1*,1580,*Flower, W. H.*
+*Hay1*,1581,*Flower, W. H.*
+*Hay1*,1582,*Flower, W. H.*
+*Hay1*,1583,*Flower, W. H.*
+*Hay1*,1583,*Lydekker, R.*
+*Hay1*,1584,*Forbes, Henry O.*
+*Hay1*,1585,*Forshey, C. G.*
+*Hay1*,1586,*Foster, J. W.*
+*Hay1*,1587,*Foster, J. W.*
+*Hay1*,1588,*Foster, J. W.*
+*Hay1*,1589,*Foster, J. W.*
+*Hay1*,1590,*Foster, J. W.*
+*Hay1*,1591,*Foster, J. W.*
+*Hay1*,1592,*Foulke, William P.*
+*Hay1*,1593,*Fraas, Eberhard*
+*Hay1*,1594,*Fraas, Eberhard*
+*Hay1*,1595,*Fraas, Eberhard*
+*Hay1*,1596,*Fraas, Eberhard*
+*Hay1*,1597,*Fraas, Eberhard*
+*Hay1*,1598,*Fraas, Eberhard*
+*Hay1*,1599,*Fraas, Eberhard*
+*Hay1*,1600,*Fraas, Eberhard*
+*Hay1*,1601,*Fraas, Eberhard*
+*Hay1*,1602,*Fraas, Eberhard*
+*Hay1*,1603,*Fraas, Oscar*
+*Hay1*,1604,*Fraas, Oscar*
+*Hay1*,1605,*Franque, Henricus*
+*Hay1*,1606,*Frenkel, F.*
+*Hay1*,1607,*Fricke, Karl*
+*Hay1*,1608,*Fritsch, Anton*
+*Hay1*,1609,*Fritsch, Anton*
+*Hay1*,1610,*Fritsch, Anton*
+*Hay1*,1611,*Fritsch, Anton*
+*Hay1*,1612,*Fritsch, Anton*
+*Hay1*,1613,*Fritsch, Anton*
+*Hay1*,1614,*Fritsch, Anton*
+*Hay1*,1615,*Fritsch, Anton*
+*Hay1*,1616,*Fritsch, Anton*
+*Hay1*,1617,*Fritsch, Anton*
+*Hay1*,1618,*Fritsch, Anton*
+*Hay1*,1619,*Fritsch, Anton*
+*Hay1*,1620,*Fry, Edward*
+*Hay1*,1621,*Fu%Frbringer, Max.*
+*Hay1*,1622,*Fu%Frbringer, Max.*
+*Hay1*,1623,*Fu%Frbringer, Max.*
+*Hay1*,1624,*Fu%Frbringer, Max.*
+*Hay1*,1625,*Fu%Frbringer, Max.*
+*Hay1*,1626,*Fu%Frbringer, Max.*
+*Hay1*,1627,*Fu%Frbringer, Max.*
+*Hay1*,1628,*Fu%Frbringer, Max.*
+*Hay1*,1629,*Fu%Frbringer, Max.*
+*Hay1*,1630,*Fu%Frbringer, Max.*
+*Hay1*,1631,*Gadow, Hans*
+*Hay1*,1632,*Gadow, Hans*
+*Hay1*,1633,*Gadow, Hans*
+*Hay1*,1634,*Gadow, Hans*
+*Hay1*,1635,*Gadow, Hans*
+*Hay1*,1636,*Gadow, Hans*
+*Hay1*,1637,*Gadow, Hans*
+*Hay1*,1638,*Gadow, Hans*
+*Hay1*,1639,*Gadow, Hans*
+*Hay1*,1640,*Gadow, Hans*
+*Hay1*,1641,*Gadow, Hans*
+*Hay1*,1642,*Gadow, Hans*
+*Hay1*,1642,*Abbott, E. C.*
+*Hay1*,1643,*Garman, Samuel*
+*Hay1*,1644,*Garman, Samuel*
+*Hay1*,1645,*Garman, Samuel*
+*Hay1*,1646,*Garman, Samuel*
+*Hay1*,1647,*Garman, Samuel*
+*Hay1*,1648,*Garman, Samuel*
+*Hay1*,1649,*Garman, Samuel*
+*Hay1*,1650,*Garrod, A. H.*
+*Hay1*,1651,*Garrod, A. H.*
+*Hay1*,1652,*Garrod, A. H.*
+*Hay1*,1653,*Garrod, A. H.*
+*Hay1*,1654,*Gaudin, C.*
+*Hay1*,1654,*Gaudry, A.*
+*Hay1*,1655,*Gaudry, A.*
+*Hay1*,1656,*Gaudry, A.*
+*Hay1*,1657,*Gaudry, A.*
+*Hay1*,1658,*Gaudry, A.*
+*Hay1*,1659,*Gaudry, A.*
+*Hay1*,1660,*Gaudry, A.*
+*Hay1*,1661,*Gaudry, A.*
+*Hay1*,1662,*Gaudry, A.*
+*Hay1*,1663,*Gaudry, A.*
+*Hay1*,1664,*Gaudry, A.*
+*Hay1*,1665,*Gaudry, A.*
+*Hay1*,1666,*Gaudry, A.*
+*Hay1*,1667,*Gaudry, A.*
+*Hay1*,1668,*Gaudry, A.*
+*Hay1*,1669,*Gaudry, A.*
+*Hay1*,1670,*Gaudry, A.*
+*Hay1*,1671,*Gaudry, A.*
+*Hay1*,1672,*Gaupp, Ernst*
+*Hay1*,1673,*Gaupp, Ernst*
+*Hay1*,1674,*Gaupp, Ernst*
+*Hay1*,1675,*Gaupp, Ernst*
+*Hay1*,1676,*Gaupp, Ernst*
+*Hay1*,1677,*Gaupp, Ernst*
+*Hay1*,1678,*Gazley, Sayres*
+*Hay1*,1679,*Gegenbaur, Carl*
+*Hay1*,1680,*Gegenbaur, Carl*
+*Hay1*,1681,*Gegenbaur, Carl*
+*Hay1*,1682,*Gegenbaur, Carl*
+*Hay1*,1683,*Gegenbaur, Carl*
+*Hay1*,1684,*Gegenbaur, Carl*
+*Hay1*,1685,*Gegenbaur, Carl*
+*Hay1*,1686,*Gegenbaur, Carl*
+*Hay1*,1687,*Gegenbaur, Carl*
+*Hay1*,1688,*Gegenbaur, Carl*
+*Hay1*,1689,*Geinitz, Hans Bruno*
+*Hay1*,1690,*Geinitz, Hans Bruno*
+*Hay1*,1691,*Geinitz, Hans Bruno*
+*Hay1*,1692,*Geinitz, Hans Bruno*
+*Hay1*,1693,*Geinitz, Hans Bruno*
+*Hay1*,1694,*Geinitz, Hans Bruno*
+*Hay1*,1695,*Geinitz, Hans Bruno*
+*Hay1*,1696,*Geinitz, Hans Bruno*
+*Hay1*,1697,*Geinitz, Hans Bruno*
+*Hay1*,1698,*Geinitz, Hans Bruno*
+*Hay1*,1698,*Deichmu%Fller, J. V.*
+*Hay1*,1699,*Geissler, Gustav*
+*Hay1*,1700,*Gemmellaro, Gaetano Ge%Aorgio*
+*Hay1*,1701,*George*
+*Hay1*,1702,*Gervais, Paul*
+*Hay1*,1703,*Gervais, Paul*
+*Hay1*,1704,*Gervais, Paul*
+*Hay1*,1705,*Gervais, Paul*
+*Hay1*,1706,*Gervais, Paul*
+*Hay1*,1707,*Gervais, Paul*
+*Hay1*,1708,*Gervais, Paul*
+*Hay1*,1709,*Gervais, Paul*
+*Hay1*,1710,*Gervais, Paul*
+*Hay1*,1711,*Gervais, Paul*
+*Hay1*,1712,*Gervais, Paul*
+*Hay1*,1713,*Gervais, Paul*
+*Hay1*,1714,*Gervais, Paul*
+*Hay1*,1715,*Gervais, Paul*
+*Hay1*,1716,*Gervais, Paul*
+*Hay1*,1716,*Ameghino, F.*
+*Hay1*,1717,*Ghigi, Alessandro*
+*Hay1*,1718,*Gibbes, Robert W.*
+*Hay1*,1719,*Gibbes, Robert W.*
+*Hay1*,1720,*Gibbes, Robert W.*
+*Hay1*,1721,*Gibbes, Robert W.*
+*Hay1*,1722,*Gibbes, Robert W.*
+*Hay1*,1723,*Gibbes, Robert W.*
+*Hay1*,1724,*Gibbes, Robert W.*
+*Hay1*,1725,*Gibbes, Robert W.*
+*Hay1*,1726,*Gibbes, Robert W.*
+*Hay1*,1727,*Gibbes, Robert W.*
+*Hay1*,1728,*Gibbes, Robert W.*
+*Hay1*,1729,*Gibbes, Robert W.*
+*Hay1*,1730,*Gibbes, Robert W.*
+*Hay1*,1731,*Gibbes, Robert W.*
+*Hay1*,1732,*Gibbes, Robert W.*
+*Hay1*,1733,*Gidley, J. W.*
+*Hay1*,1734,*Giebel, C. G.*
+*Hay1*,1735,*Giebel, C. G.*
+*Hay1*,1736,*Giebel, C. G.*
+*Hay1*,1737,*Giebel, C. G.*
+*Hay1*,1738,*Giebel, C. G.*
+*Hay1*,1739,*Giebel, C. G.*
+*Hay1*,1740,*Giebel, C. G.*
+*Hay1*,1741,*Giebel, C. G.*
+*Hay1*,1742,*Giebel, C. G.*
+*Hay1*,1743,*Giebel, C. G.*
+*Hay1*,1744,*Giebel, C. G.*
+*Hay1*,1745,*Giebel, C. G.*
+*Hay1*,1746,*Giebel, C. G.*
+*Hay1*,1747,*Giebel, C. G.*
+*Hay1*,1748,*Giebel, C. G.*
+*Hay1*,1749,*Gilbert, G. K.*
+*Hay1*,1750,*Gilbert, J. Z.*
+*Hay1*,1751,*Gill, Theodore*
+*Hay1*,1752,*Gill, Theodore*
+*Hay1*,1753,*Gill, Theodore*
+*Hay1*,1754,*Gill, Theodore*
+*Hay1*,1755,*Gill, Theodore*
+*Hay1*,1756,*Gill, Theodore*
+*Hay1*,1757,*Gill, Theodore*
+*Hay1*,1758,*Gill, Theodore*
+*Hay1*,1759,*Gill, Theodore*
+*Hay1*,1760,*Gill, Theodore*
+*Hay1*,1761,*Gill, Theodore*
+*Hay1*,1762,*Gill, Theodore*
+*Hay1*,1763,*Gill, Theodore*
+*Hay1*,1764,*Gill, Theodore*
+*Hay1*,1765,*Gill, Theodore*
+*Hay1*,1766,*Gill, Theodore*
+*Hay1*,1767,*Gill, Theodore*
+*Hay1*,1768,*Gill, Theodore*
+*Hay1*,1769,*Gill, Theodore*
+*Hay1*,1770,*Gill, Theodore*
+*Hay1*,1771,*Gill, Theodore*
+*Hay1*,1772,*Gill, Theodore*
+*Hay1*,1773,*Gill, Theodore*
+*Hay1*,1774,*Gill, Theodore*
+*Hay1*,1775,*Gill, Theodore*
+*Hay1*,1776,*Gill, Theodore*
+*Hay1*,1777,*Gill, Theodore*
+*Hay1*,1778,*Gill, Theodore*
+*Hay1*,1779,*Gill, Theodore*
+*Hay1*,1780,*Gill, Theodore*
+*Hay1*,1781,*Gill, Theodore*
+*Hay1*,1782,*Gill, Theodore*
+*Hay1*,1783,*Gill, Theodore*
+*Hay1*,1784,*Gill, T.*
+*Hay1*,1784,*Coues, E.*
+*Hay1*,1785,*Gilpin, Bernard*
+*Hay1*,1786,*Goddard*
+*Hay1*,1787,*Godman, J. D.*
+*Hay1*,1788,*Godman, J. D.*
+*Hay1*,1789,*Godman, J. D.*
+*Hay1*,1790,*Go%Fldi, Emil A.*
+*Hay1*,1791,*Go%Fldi, Emil A.*
+*Hay1*,1792,*Goeppert, Ernst*
+*Hay1*,1793,*Goeppert, Ernst*
+*Hay1*,1794,*Goeppert, Ernst*
+*Hay1*,1795,*Goethe, Johann Wolfgang*
+*Hay1*,1796,*Goette, Alex*
+*Hay1*,1797,*Goette, Alex*
+*Hay1*,1798,*Goldfuss, August*
+*Hay1*,1799,*Goldfuss, August*
+*Hay1*,1800,*Goldfuss, August*
+*Hay1*,1801,*Goode, G. Brown*
+*Hay1*,1802,*Goodrich, E. S.*
+*Hay1*,1803,*Gorski, Constantin*
+*Hay1*,1804,*Grabbe, A.*
+*Hay1*,1805,*Grant, E.*
+*Hay1*,1806,*Grassi, B.*
+*Hay1*,1807,*Gratacap, L. P.*
+*Hay1*,1808,*Gratacap, L. P.*
+*Hay1*,1809,*Grateloup, J. P. S.*
+*Hay1*,1810,*Gratiolet, Pierre*
+*Hay1*,1811,*Gray, Asa.*
+*Hay1*,1812,*Gray, J. E.*
+*Hay1*,1813,*Gray, J. E.*
+*Hay1*,1814,*Gray, J. E.*
+*Hay1*,1815,*Gray, J. E.*
+*Hay1*,1816,*Gray, J. E.*
+*Hay1*,1817,*Gray, J. E.*
+*Hay1*,1818,*Gray, J. E.*
+*Hay1*,1819,*Gray, J. E.*
+*Hay1*,1820,*Gray, J. E.*
+*Hay1*,1821,*Gray, J. E.*
+*Hay1*,1822,*Gray, J. E.*
+*Hay1*,1823,*Gray, J. E.*
+*Hay1*,1824,*Gray, J. E.*
+*Hay1*,1825,*Gray, J. E.*
+*Hay1*,1826,*Gray, J. E.*
+*Hay1*,1827,*Green, Jacob*
+*Hay1*,1828,*Greene, Francis V.*
+*Hay1*,1829,*Grinnell, G. B.*
+*Hay1*,1830,*Grinnell, G. B.*
+*Hay1*,1830,*Dana, E. S.*
+*Hay1*,1831,*Gruber, W.*
+*Hay1*,1832,*Gu%Fnther, Albert C.*
+*Hay1*,1833,*Gu%Fnther, Albert C.*
+*Hay1*,1834,*Gu%Fnther, Albert C.*
+*Hay1*,1835,*Gu%Fnther, Albert C.*
+*Hay1*,1836,*Gu%Fnther, Albert C.*
+*Hay1*,1837,*Gu%Fnther, Albert C.*
+*Hay1*,1838,*Gu%Fnther, Albert C.*
+*Hay1*,1839,*Gu%Fnther, Albert C.*
+*Hay1*,1840,*Gu%Fnther, Albert C.*
+*Hay1*,1841,*Gu%Fnther, Albert C.*
+*Hay1*,1842,*Gu%Fnther, Albert C.*
+*Hay1*,1843,*Gu%Fnther, Albert C.*
+*Hay1*,1844,*Gu%Fnther, Albert C.*
+*Hay1*,1845,*Gu%Fnther, Albert C.*
+*Hay1*,1846,*Gu%Fnther, Albert C.*
+*Hay1*,1847,*Gu%Fnther, Albert C.*
+*Hay1*,1848,*Gu%Fnther, Albert C.*
+*Hay1*,1849,*Gu%Frich, Georg*
+*Hay1*,1850,*Gu%Frich, Georg*
+*Hay1*,1851,*Haacke, Wilhelm*
+*Hay1*,1852,*Haacke, Wilhelm*
+*Hay1*,1853,*Haberlandt, G.*
+*Hay1*,1854,*Haeckel, Ernst*
+*Hay1*,1855,*Hale, C. S.*
+*Hay1*,1856,*Hall, J.*
+*Hay1*,1857,*Hall, J.*
+*Hay1*,1858,*Hall, J.*
+*Hay1*,1859,*Hall, J.*
+*Hay1*,1860,*Hall, J.*
+*Hay1*,1861,*Hallman, E.*
+*Hay1*,1862,*Hallowell, Edward*
+*Hay1*,1863,*Hambach, G.*
+*Hay1*,1864,*Hammerschmidt, Carl E.*
+*Hay1*,1865,*Hancock, Albany*
+*Hay1*,1865,*Atthey, Thos.*
+*Hay1*,1866,*Hancock, Albany*
+*Hay1*,1866,*Atthey, Thos.*
+*Hay1*,1867,*Hancock, Albany*
+*Hay1*,1867,*Atthey, Thos*
+*Hay1*,1868,*Hancock, Albany*
+*Hay1*,1868,*Atthey, Thos.*
+*Hay1*,1869,*Hancock, Albany*
+*Hay1*,1869,*Atthey, Thos.*
+*Hay1*,1870,*Hancock, Albany*
+*Hay1*,1870,*Atthey, Thos.*
+*Hay1*,1871,*Hancock, Albany*
+*Hay1*,1871,*Hancock, Albany*
+*Hay1*,1871,*Atthey, Thos.*
+*Hay1*,1872,*Hancock, Albany*
+*Hay1*,1872,*Hancock, Albany*
+*Hay1*,1872,*Howse, Richard*
+*Hay1*,1873,*Hancock, Albany*
+*Hay1*,1873,*Howse, Richard*
+*Hay1*,1874,*Hannover, A.*
+*Hay1*,1875,*Harlan, R.*
+*Hay1*,1876,*Harlan, R.*
+*Hay1*,1877,*Harlan, R.*
+*Hay1*,1878,*Harlan, R.*
+*Hay1*,1879,*Harlan, R.*
+*Hay1*,1880,*Harlan, R.*
+*Hay1*,1881,*Harlan, R.*
+*Hay1*,1882,*Harlan, R.*
+*Hay1*,1883,*Harlan, R.*
+*Hay1*,1884,*Harlan, R.*
+*Hay1*,1885,*Harlan, R.*
+*Hay1*,1886,*Harlan, R.*
+*Hay1*,1887,*Harlan, R.*
+*Hay1*,1888,*Harlan, R.*
+*Hay1*,1889,*Harlan, R.*
+*Hay1*,1890,*Harlan, R.*
+*Hay1*,1891,*Harlan, R.*
+*Hay1*,1892,*Harlan, R.*
+*Hay1*,1893,*Harlan, R.*
+*Hay1*,1894,*Harlan, R.*
+*Hay1*,1895,*Harlan, R.*
+*Hay1*,1896,*Harlan, R.*
+*Hay1*,1897,*Harlan, R.*
+*Hay1*,1898,*Harlan, R.*
+*Hay1*,1899,*Harlan, R.*
+*Hay1*,1900,*Harlan, R.*
+*Hay1*,1901,*Harlan, R.*
+*Hay1*,1902,*Harlan, R.*
+*Hay1*,1903,*Harlan, R.*
+*Hay1*,1904,*Harlan, R.*
+*Hay1*,1905,*Harlan, R.*
+*Hay1*,1906,*Harlan, R.*
+*Hay1*,1907,*Harlan, R.*
+*Hay1*,1908,*Harlan, R.*
+*Hay1*,1909,*Harrison, R. G.*
+*Hay1*,1910,*Hartlaub, Clemens*
+*Hay1*,1911,*Hartmann, R.*
+*Hay1*,1912,*Hartt, Ch. Fred.*
+*Hay1*,1913,*Hasse, C.*
+*Hay1*,1914,*Hasse, C.*
+*Hay1*,1915,*Hasse, C.*
+*Hay1*,1916,*Hasse, C.*
+*Hay1*,1917,*Hasse, C.*
+*Hay1*,1918,*Hasse, C.*
+*Hay1*,1919,*Hasse, C.*
+*Hay1*,1920,*Hasse, C.*
+*Hay1*,1921,*Haswell, William A.*
+*Hay1*,1922,*Haswell, William A.*
+*Hay1*,1923,*Hatcher, J. B.*
+*Hay1*,1924,*Hatcher, J. B.*
+*Hay1*,1925,*Hatcher, J. B.*
+*Hay1*,1926,*Hatcher, J. B.*
+*Hay1*,1927,*Hatcher, J. B.*
+*Hay1*,1928,*Hatcher, J. B.*
+*Hay1*,1929,*Hatcher, J. B.*
+*Hay1*,1930,*Hatcher, J. B.*
+*Hay1*,1931,*Hatcher, J. B.*
+*Hay1*,1932,*Hatcher, J. B.*
+*Hay1*,1933,*Hatcher, J. B.*
+*Hay1*,1934,*Hatcher, J. B.*
+*Hay1*,1935,*Hatcher, J. B.*
+*Hay1*,1936,*Hawkins, B. W.*
+*Hay1*,1937,*Hawkins, B. W.*
+*Hay1*,1938,*Hay, O. P.*
+*Hay1*,1939,*Hay, O. P.*
+*Hay1*,1940,*Hay, O. P.*
+*Hay1*,1941,*Hay, O. P.*
+*Hay1*,1942,*Hay, O. P.*
+*Hay1*,1943,*Hay, O. P.*
+*Hay1*,1944,*Hay, O. P.*
+*Hay1*,1945,*Hay, O. P.*
+*Hay1*,1946,*Hay, O. P.*
+*Hay1*,1947,*Hay, O. P.*
+*Hay1*,1948,*Hay, O. P.*
+*Hay1*,1949,*Hay, O. P.*
+*Hay1*,1950,*Hay, O. P.*
+*Hay1*,1951,*Hay, O. P.*
+*Hay1*,1952,*Hay, O. P.*
+*Hay1*,1953,*Hay, O. P.*
+*Hay1*,1954,*Hay, O. P.*
+*Hay1*,1955,*Hay, O. P.*
+*Hay1*,1956,*Hay, O. P.*
+*Hay1*,1957,*Hay, Robert*
+*Hay1*,1958,*Haycraft, John Berry*
+*Hay1*,1959,*Hayden, F. V.*
+*Hay1*,1960,*Hayden, F. V.*
+*Hay1*,1961,*Hayden, F. V.*
+*Hay1*,1962,*Hayes, Seth*
+*Hay1*,1963,*Haymond, Rufus*
+*Hay1*,1964,*Hays, Isaac*
+*Hay1*,1965,*Hays, Isaac*
+*Hay1*,1966,*Hays, Isaac*
+*Hay1*,1967,*Hays, Isaac*
+*Hay1*,1968,*Hays, Isaac*
+*Hay1*,1969,*Hays, Isaac*
+*Hay1*,1970,*Hays, Isaac*
+*Hay1*,1971,*Hays, Isaac*
+*Hay1*,1972,*Hays, Isaac*
+*Hay1*,1973,*Hazeltine, John*
+*Hay1*,1974,*He%Abert, Edmund*
+*Hay1*,1975,*He%Abert, Edmund*
+*Hay1*,1976,*He%Abert, Edmund*
+*Hay1*,1977,*He%Abert, Edmund*
+*Hay1*,1978,*Heckel, Joh. Jakob*
+*Hay1*,1979,*Heckel, Joh. Jakob*
+*Hay1*,1980,*Heckel, Joh. Jakob*
+*Hay1*,1981,*Heckel, Joh. Jakob*
+*Hay1*,1982,*Helm, F.*
+*Hay1*,1983,*Hemstedt, R.*
+*Hay1*,1984,*Hensel, Reinhold*
+*Hay1*,1985,*Hensel, Reinhold*
+*Hay1*,1986,*Hensel, Reinhold*
+*Hay1*,1987,*Hertwig, O.*
+*Hay1*,1988,*Hertwig, O.*
+*Hay1*,1989,*Hertwig, O.*
+*Hay1*,1990,*Hertwig, O.*
+*Hay1*,1991,*Hibbert, Samuel*
+*Hay1*,1992,*Hicks, L. E.*
+*Hay1*,1993,*Higgins, E. T.*
+*Hay1*,1994,*Higley, W. K.*
+*Hay1*,1995,*Hilgard, Eugene W.*
+*Hay1*,1996,*Hilgard, Eugene W.*
+*Hay1*,1997,*Hilgendorf, F.*
+*Hay1*,1998,*Hill, F. C.*
+*Hay1*,1999,*Hill, F. C.*
+*Hay1*,2000,*Hills, R. C.*
+*Hay1*,2001,*Hitchcock, Charles H.*
+*Hay1*,2002,*Hitchcock, Charles H.*
+*Hay1*,2003,*Hitchcock, Charles H.*
+*Hay1*,2004,*Hitchcock, Charles H.*
+*Hay1*,2005,*Hitchcock, Charles H.*
+*Hay1*,2006,*Hitchcock, Charles H.*
+*Hay1*,2007,*Hitchcock, Charles H.*
+*Hay1*,2008,*Hitchcock, Charles H.*
+*Hay1*,2009,*Hitchcock, Charles H.*
+*Hay1*,2010,*Hitchcock, Charles H.*
+*Hay1*,2011,*Hitchcock, Edward*
+*Hay1*,2012,*Hitchcock, Edward*
+*Hay1*,2013,*Hitchcock, Edward*
+*Hay1*,2014,*Hitchcock, Edward*
+*Hay1*,2015,*Hitchcock, Edward*
+*Hay1*,2016,*Hitchcock, Edward*
+*Hay1*,2017,*Hitchcock, Edward*
+*Hay1*,2018,*Hitchcock, Edward*
+*Hay1*,2019,*Hitchcock, Edward*
+*Hay1*,2020,*Hitchcock, Edward*
+*Hay1*,2021,*Hitchcock, Edward*
+*Hay1*,2022,*Hitchcock, Edward*
+*Hay1*,2023,*Hitchcock, Edward*
+*Hay1*,2024,*Hitchcock, Edward*
+*Hay1*,2025,*Hitchcock, Edward*
+*Hay1*,2026,*Hitchcock, Edward*
+*Hay1*,2027,*Hitchcock, Edward*
+*Hay1*,2028,*Hitchcock, Edward*
+*Hay1*,2029,*Hitchcock, Edward*
+*Hay1*,2030,*Hitchcock, Edward*
+*Hay1*,2031,*Hitchcock, Edward*
+*Hay1*,2032,*Hitchcock, Fanny R. M.*
+*Hay1*,2033,*Hitchcock, Fanny R. M.*
+*Hay1*,2034,*Hitchcock, Fanny R. M.*
+*Hay1*,2035,*Hodson, William B.*
+*Hay1*,2036,*Hoernes, R.*
+*Hay1*,2037,*Hoernes, R.*
+*Hay1*,2038,*Hoernes, R.*
+*Hay1*,2039,*Hoernes, R.*
+*Hay1*,2040,*Hoffmann, C. K.*
+*Hay1*,2041,*Hoffmann, C. K.*
+*Hay1*,2042,*Hoffmann, C. K.*
+*Hay1*,2043,*Hoffmann, C. K.*
+*Hay1*,2044,*Hoffmann, C. K.*
+*Hay1*,2045,*Hoffmann, C. K.*
+*Hay1*,2046,*Hoffmann, C. K.*
+*Hay1*,2047,*Holder, Joseph B.*
+*Hay1*,2048,*Holland, W. J.*
+*Hay1*,2049,*Hollard, Henri*
+*Hay1*,2050,*Hollard, Henri*
+*Hay1*,2051,*Hollard, Henri*
+*Hay1*,2052,*Hollard, Henri*
+*Hay1*,2053,*Hollick, Arthur*
+*Hay1*,2054,*Holmes, F. S.*
+*Hay1*,2055,*Holmes, F. S.*
+*Hay1*,2056,*Holmes, F. S.*
+*Hay1*,2057,*Holmes, F. S.*
+*Hay1*,2058,*Holmes, F. S.*
+*Hay1*,2059,*Holmes, F. S.*
+*Hay1*,2060,*Holmes, N.*
+*Hay1*,2061,*Home, Everard*
+*Hay1*,2062,*Home, Everard*
+*Hay1*,2063,*Honeyman, D.*
+*Hay1*,2064,*Honeyman, D.*
+*Hay1*,2065,*Hopkins, William*
+*Hay1*,2066,*Horner, W. E.*
+*Hay1*,2067,*Horner, W. E.*
+*Hay1*,2068,*Horner, W. E.*
+*Hay1*,2069,*Horner, W. E.*
+*Hay1*,2070,*Horner, W. E.*
+*Hay1*,2071,*Horner, W. E.*
+*Hay1*,2071,*Hays, Isaac*
+*Hay1*,2072,*Hovey, Edmund O.*
+*Hay1*,2073,*Hovey, Edmund O.*
+*Hay1*,2074,*Howes, G. B.*
+*Hay1*,2075,*Howes, G. B.*
+*Hay1*,2076,*Howes, G. B.*
+*Hay1*,2077,*Howes, G. B.*
+*Hay1*,2078,*Howes, G. B.*
+*Hay1*,2079,*Howes, G. B.*
+*Hay1*,2079,*Davies, A. M.*
+*Hay1*,2080,*Howes, G. B.*
+*Hay1*,2080,*Harrison, J.*
+*Hay1*,2081,*Howes, G. B.*
+*Hay1*,2081,*Ridewood, W.*
+*Hay1*,2082,*Howes, G. B.*
+*Hay1*,2082,*Swinnerton, H. H.*
+*Hay1*,2083,*Howorth, H. H.*
+*Hay1*,2084,*Howorth, H. H.*
+*Hay1*,2085,*Howorth, H. H.*
+*Hay1*,2086,*Howorth, H. H.*
+*Hay1*,2087,*Howorth, H. H.*
+*Hay1*,2088,*Howorth, H. H.*
+*Hay1*,2089,*Hoy, P. R.*
+*Hay1*,2090,*Hubrecht, A. A. W.*
+*Hay1*,2091,*Hubrecht, A. A. W.*
+*Hay1*,2092,*Hubrecht, A. A. W.*
+*Hay1*,2093,*Huene, Friedrich v.*
+*Hay1*,2094,*Hulke, J. W.*
+*Hay1*,2095,*Hulke, J. W.*
+*Hay1*,2096,*Hulke, J. W.*
+*Hay1*,2097,*Hulke, J. W.*
+*Hay1*,2098,*Hulke, J. W.*
+*Hay1*,2099,*Hulke, J. W.*
+*Hay1*,2100,*Hulke, J. W.*
+*Hay1*,2101,*Hulke, J. W.*
+*Hay1*,2102,*Hulke, J. W.*
+*Hay1*,2103,*Hulke, J. W.*
+*Hay1*,2104,*Humphry, G. M.*
+*Hay1*,2105,*Humphry, G. M.*
+*Hay1*,2106,*Humphreys, John*
+*Hay1*,2107,*Hunt, J. G.*
+*Hay1*,2108,*Hunter, William*
+*Hay1*,2109,*Hurst, C. Herbert*
+*Hay1*,2110,*Hurst, C. Herbert*
+*Hay1*,2111,*Hutchinson, H. N.*
+*Hay1*,2112,*Huxley, Thomas H.*
+*Hay1*,2113,*Huxley, Thomas H.*
+*Hay1*,2114,*Huxley, Thomas H.*
+*Hay1*,2115,*Huxley, Thomas H.*
+*Hay1*,2116,*Huxley, Thomas H.*
+*Hay1*,2117,*Huxley, Thomas H.*
+*Hay1*,2118,*Huxley, Thomas H.*
+*Hay1*,2119,*Huxley, Thomas H.*
+*Hay1*,2120,*Huxley, Thomas H.*
+*Hay1*,2121,*Huxley, Thomas H.*
+*Hay1*,2122,*Huxley, Thomas H.*
+*Hay1*,2123,*Huxley, Thomas H.*
+*Hay1*,2124,*Huxley, Thomas H.*
+*Hay1*,2125,*Huxley, Thomas H.*
+*Hay1*,2126,*Huxley, Thomas H.*
+*Hay1*,2127,*Huxley, Thomas H.*
+*Hay1*,2128,*Huxley, Thomas H.*
+*Hay1*,2129,*Huxley, Thomas H.*
+*Hay1*,2130,*Huxley, Thomas H.*
+*Hay1*,2131,*Huxley, Thomas H.*
+*Hay1*,2132,*Huxley, Thomas H.*
+*Hay1*,2133,*Huxley, Thomas H.*
+*Hay1*,2134,*Huxley, Thomas H.*
+*Hay1*,2135,*Huxley, Thomas H.*
+*Hay1*,2136,*Huxley, Thomas H.*
+*Hay1*,2137,*Huxley, Thomas H.*
+*Hay1*,2138,*Huxley, Thomas H.*
+*Hay1*,2139,*Huxley, Thomas H.*
+*Hay1*,2140,*Huxley, Thomas H.*
+*Hay1*,2141,*Huxley, Thomas H.*
+*Hay1*,2142,*Huxley, Thomas H.*
+*Hay1*,2143,*Huxley, Thomas H.*
+*Hay1*,2144,*Huxley, Thomas H.*
+*Hay1*,2145,*Huxley, Thomas H.*
+*Hay1*,2146,*Huxley, Thomas H.*
+*Hay1*,2147,*Huxley, Thomas H.*
+*Hay1*,2148,*Hyrtl, Joseph*
+*Hay1*,2149,*Hyrtl, Joseph*
+*Hay1*,2150,*Ihering, H. von.*
+*Hay1*,2151,*Ihering, H. von.*
+*Hay1*,2152,*Iwanzon, Nikolai*
+*Hay1*,2153,*Jaccard, Auguste*
+*Hay1*,2153,*Jackson, C. T.*
+*Hay1*,2154,*Jackson, C. T.*
+*Hay1*,2155,*Jackson, J. B. S.*
+*Hay1*,2156,*Jaeger, Georg Friedr*
+*Hay1*,2157,*Jaeger, Georg Friedr*
+*Hay1*,2158,*Jaeger, Georg Friedr*
+*Hay1*,2159,*Jaeger, Georg Friedr*
+*Hay1*,2160,*Jaekel, O.*
+*Hay1*,2161,*Jaekel, O.*
+*Hay1*,2162,*Jaekel, O.*
+*Hay1*,2163,*Jaekel, O.*
+*Hay1*,2164,*Jaekel, O.*
+*Hay1*,2165,*Jaekel, O.*
+*Hay1*,2166,*Jaekel, O.*
+*Hay1*,2167,*Jaekel, O.*
+*Hay1*,2168,*Jaekel, O.*
+*Hay1*,2169,*Jaekel, O.*
+*Hay1*,2170,*Jaekel, O.*
+*Hay1*,2171,*Jaekel, O.*
+*Hay1*,2172,*Jaekel, O.*
+*Hay1*,2173,*Jaekel, O.*
+*Hay1*,2174,*Jaekel, O.*
+*Hay1*,2175,*Jaekel, O.*
+*Hay1*,2176,*Jaekel, O.*
+*Hay1*,2177,*Jaekel, O.*
+*Hay1*,2178,*Jaekel, O.*
+*Hay1*,2179,*Jaekel, O.*
+*Hay1*,2180,*Jaekel, O.*
+*Hay1*,2181,*Jaekel, O.*
+*Hay1*,2182,*Jaekel, O.*
+*Hay1*,2183,*Jaekel, O.*
+*Hay1*,2184,*James, Joseph F.*
+*Hay1*,2185,*Jefferson, Thomas*
+*Hay1*,2186,*Jeffries, J. A.*
+*Hay1*,2187,*Jeffries, J. A.*
+*Hay1*,2188,*Jeffries, J. A.*
+*Hay1*,2189,*Jeffries, J. A.*
+*Hay1*,2190,*Jeffries, J. A.*
+*Hay1*,2191,*Johnston, Christopher*
+*Hay1*,2192,*Jordan, D. S.*
+*Hay1*,2193,*Jordan D. S.*
+*Hay1*,2193,*Evermann, B. W.*
+*Hay1*,2194,*Jordan D. S.*
+*Hay1*,2194,*Evermann, B. W.*
+*Hay1*,2195,*Jordan D. S.*
+*Hay1*,2195,*Evermann, B. W.*
+*Hay1*,2196,*Jourdan*
+*Hay1*,2197,*Karpinsky, A.*
+*Hay1*,2198,*Kaup, J.*
+*Hay1*,2199,*Kaup, J.*
+*Hay1*,2200,*Kaup, J.*
+*Hay1*,2201,*Kaup, J.*
+*Hay1*,2202,*Kaup, J.*
+*Hay1*,2203,*Kehner, F. A.*
+*Hay1*,2204,*Kehrer, Gustav*
+*Hay1*,2205,*Kersten, Hermann*
+*Hay1*,2206,*Keyes, Charles R.*
+*Hay1*,2207,*Keyes, Charles R.*
+*Hay1*,2208,*Keyes, Charles R.*
+*Hay1*,2209,*Kindle, Edward M.*
+*Hay1*,2210,*King, Alfred T.*
+*Hay1*,2211,*King, Alfred T.*
+*Hay1*,2212,*King, Alfred T.*
+*Hay1*,2213,*King, Alfred T.*
+*Hay1*,2214,*King, Alfred T.*
+*Hay1*,2215,*King, Clarence*
+*Hay1*,2216,*King, William*
+*Hay1*,2217,*Kingsley, J. S.*
+*Hay1*,2217,*Ruddick, W. H.*
+*Hay1*,2218,*Kiprijanoff, Valerian*
+*Hay1*,2219,*Kiprijanoff, Valerian*
+*Hay1*,2220,*Kiprijanoff, Valerian*
+*Hay1*,2221,*Kiprijanoff, Valerian*
+*Hay1*,2222,*Kiprijanoff, Valerian*
+*Hay1*,2223,*Kittary, Modeste*
+*Hay1*,2224,*Kittl, Ernst*
+*Hay1*,2225,*Klaatsch, H.*
+*Hay1*,2226,*Klaatsch, H.*
+*Hay1*,2227,*Klaatsch, H.*
+*Hay1*,2228,*Klaatsch, H.*
+*Hay1*,2229,*Klein, E. F.*
+*Hay1*,2230,*Klein, E. F.*
+*Hay1*,2231,*Klein, E. F.*
+*Hay1*,2232,*Klein, E. F.*
+*Hay1*,2233,*Klein, E. F.*
+*Hay1*,2234,*Klever, Ernst*
+*Hay1*,2235,*Klippart, John H.*
+*Hay1*,2236,*Klippart, John H.*
+*Hay1*,2237,*Klunzinger, C. B.*
+*Hay1*,2238,*Kneeland, S.*
+*Hay1*,2239,*Kner, Rudolph*
+*Hay1*,2240,*Kner, Rudolph*
+*Hay1*,2241,*Kner, Rudolph*
+*Hay1*,2242,*Kner, Rudolph*
+*Hay1*,2243,*Kner, Rudolph*
+*Hay1*,2244,*Kner, Rudolph*
+*Hay1*,2245,*Kner, Rudolph*
+*Hay1*,2246,*Kner, Rudolph*
+*Hay1*,2247,*Knight*
+*Hay1*,2248,*Knight, W. C.*
+*Hay1*,2249,*Knight, W. C.*
+*Hay1*,2250,*Knight, W. C.*
+*Hay1*,2251,*Knight, W. C.*
+*Hay1*,2252,*Knight, W. C.*
+*Hay1*,2253,*Kober, J.*
+*Hay1*,2254,*Kober, J.*
+*Hay1*,2255,*Koch, Albert*
+*Hay1*,2256,*Koch, Albert*
+*Hay1*,2257,*Koch, Albert*
+*Hay1*,2258,*Koch, Albert*
+*Hay1*,2259,*Koch, Albert*
+*Hay1*,2260,*Koch, Albert*
+*Hay1*,2261,*Koch, Albert*
+*Hay1*,2262,*Koch, Albert*
+*Hay1*,2263,*Koch, Albert*
+*Hay1*,2264,*Koch, Albert*
+*Hay1*,2265,*Koch, Albert*
+*Hay1*,2266,*Koch, Albert*
+*Hay1*,2267,*Koch, Albert*
+*Hay1*,2268,*Koch, Albert*
+*Hay1*,2269,*Ko%Flliker, Albert*
+*Hay1*,2270,*Ko%Flliker, Albert*
+*Hay1*,2271,*Ko%Flliker, Albert*
+*Hay1*,2272,*Ko%Flliker, Albert*
+*Hay1*,2273,*Koenen, A. von*
+*Hay1*,2274,*Koenen, A. von*
+*Hay1*,2275,*Koenen, A. von*
+*Hay1*,2276,*Koken, Ernst*
+*Hay1*,2277,*Koken, Ernst*
+*Hay1*,2278,*Koken, Ernst*
+*Hay1*,2279,*Koken, Ernst*
+*Hay1*,2280,*Koken, Ernst*
+*Hay1*,2281,*Koken, Ernst*
+*Hay1*,2282,*Koken, Ernst*
+*Hay1*,2283,*Koken, Ernst*
+*Hay1*,2284,*Koken, Ernst*
+*Hay1*,2285,*Koken, Ernst*
+*Hay1*,2286,*Koken, Ernst*
+*Hay1*,2287,*Koken, Ernst*
+*Hay1*,2288,*Kollmann, J.*
+*Hay1*,2289,*Koninck, L. G. de*
+*Hay1*,2290,*Koninck, L. G. de*
+*Hay1*,2291,*Kosmak, George William*
+*Hay1*,2292,*Ko%Fstlin, Otto*
+*Hay1*,2293,*Kowalevsky, Woldemar*
+*Hay1*,2294,*Kowalevsky, Woldemar*
+*Hay1*,2295,*Kowalevsky, Woldemar*
+*Hay1*,2296,*Kowalevsky, Woldemar*
+*Hay1*,2297,*Kramberger, Dragutin*
+*Hay1*,2298,*Krause, W.*
+*Hay1*,2299,*Krauss, Ferd*
+*Hay1*,2300,*Krauss, Ferd*
+*Hay1*,2301,*Krauss, Ferd*
+*Hay1*,2302,*Krefft, Gerard*
+*Hay1*,2303,*Ku%Fkenthal, Willy*
+*Hay1*,2304,*Ku%Fkenthal, Willy*
+*Hay1*,2305,*Ku%Fkenthal, Willy*
+*Hay1*,2306,*Ku%Fkenthal, Willy*
+*Hay1*,2307,*Ku%Fkenthal, Willy*
+*Hay1*,2308,*Ku%Fkenthal, Willy*
+*Hay1*,2309,*Ku%Fkenthal, Willy*
+*Hay1*,2310,*Ku%Fkenthal, Willy*
+*Hay1*,2311,*Ku%Fkenthal, Willy*
+*Hay1*,2312,*Ku%Fkenthal, Willy*
+*Hay1*,2313,*Ku%Fkenthal, Willy*
+*Hay1*,2314,*Ku%Fkenthal, Willy*
+*Hay1*,2315,*Ku%Fkenthal, Willy*
+*Hay1*,2316,*Ku%Fkenthal, Willy*
+*Hay1*,2317,*Ku%Fkenthal, Willy*
+*Hay1*,2318,*Ku%Fkenthal, Willy*
+*Hay1*,2319,*Ku%Fkenthal, Willy*
+*Hay1*,2320,*Ku%Fkenthal, Willy*
+*Hay1*,2321,*Kunth, A.*
+*Hay1*,2322,*L. P. B.*
+*Hay1*,2323,*Lahusen, I.*
+*Hay1*,2324,*Lambe, Lawrence M.*
+*Hay1*,2325,*Lambe, Lawrence M.*
+*Hay1*,2326,*Landois*
+*Hay1*,2327,*Landois*
+*Hay1*,2328,*Lang, Fr.*
+*Hay1*,2328,*Ru%Ftimeyer, L.*
+*Hay1*,2329,*Langdon, F. W.*
+*Hay1*,2330,*Lankester, E. R.*
+*Hay1*,2331,*Lankester, E. R.*
+*Hay1*,2332,*Lankester, E. R.*
+*Hay1*,2333,*Lankester, E. R.*
+*Hay1*,2334,*Lankester, E. R.*
+*Hay1*,2335,*Lankester, E. R.*
+*Hay1*,2336,*Lankester, E. R.*
+*Hay1*,2337,*Lankester, E. R.*
+*Hay1*,2338,*Lankester, E. R.*
+*Hay1*,2339,*Lapham, I. A.*
+*Hay1*,2340,*Lartet, E%Ad.*
+*Hay1*,2341,*Lartet, E%Ad.*
+*Hay1*,2342,*Lataste, Fernand*
+*Hay1*,2343,*Lathrop, S. P.*
+*Hay1*,2344,*Lawley, R.*
+*Hay1*,2345,*Lazier*
+*Hay1*,2345,*Parieu*
+*Hay1*,2346,*Lea, Isaac*
+*Hay1*,2347,*Lea, Isaac*
+*Hay1*,2348,*Lea, Isaac*
+*Hay1*,2349,*Lea, Isaac*
+*Hay1*,2350,*Lea, Isaac*
+*Hay1*,2351,*Lea, Isaac*
+*Hay1*,2352,*Lea, Isaac*
+*Hay1*,2353,*Lea, Isaac*
+*Hay1*,2354,*Lea, Isaac*
+*Hay1*,2355,*Lea, Isaac*
+*Hay1*,2356,*Lea, Isaac*
+*Hay1*,2357,*Leboucq, H.*
+*Hay1*,2358,*Leboucq, H.*
+*Hay1*,2359,*Leboucq, H.*
+*Hay1*,2360,*Leche, W.*
+*Hay1*,2361,*Leche, W.*
+*Hay1*,2362,*Leche, W.*
+*Hay1*,2363,*Leche, W.*
+*Hay1*,2364,*Leche, W.*
+*Hay1*,2365,*Leche, W.*
+*Hay1*,2366,*Leche, W.*
+*Hay1*,2367,*Leche, W.*
+*Hay1*,2368,*Leche, W.*
+*Hay1*,2369,*Leche, W.*
+*Hay1*,2370,*Le Conte, John L.*
+*Hay1*,2371,*Le Conte, John L.*
+*Hay1*,2372,*Le Conte, John L.*
+*Hay1*,2373,*Le Conte, John L.*
+*Hay1*,2374,*Le Conte, John L.*
+*Hay1*,2375,*Le Conte, John L.*
+*Hay1*,2376,*Le Conte, Joseph*
+*Hay1*,2377,*Lee, W. T.*
+*Hay1*,2378,*Lefe%Cvre, Th.*
+*Hay1*,2379,*Leidy, Joseph*
+*Hay1*,2380,*Leidy, Joseph*
+*Hay1*,2381,*Leidy, Joseph*
+*Hay1*,2382,*Leidy, Joseph*
+*Hay1*,2383,*Leidy, Joseph*
+*Hay1*,2384,*Leidy, Joseph*
+*Hay1*,2385,*Leidy, Joseph*
+*Hay1*,2386,*Leidy, Joseph*
+*Hay1*,2387,*Leidy, Joseph*
+*Hay1*,2388,*Leidy, Joseph*
+*Hay1*,2389,*Leidy, Joseph*
+*Hay1*,2390,*Leidy, Joseph*
+*Hay1*,2391,*Leidy, Joseph*
+*Hay1*,2392,*Leidy, Joseph*
+*Hay1*,2393,*Leidy, Joseph*
+*Hay1*,2394,*Leidy, Joseph*
+*Hay1*,2395,*Leidy, Joseph*
+*Hay1*,2396,*Leidy, Joseph*
+*Hay1*,2397,*Leidy, Joseph*
+*Hay1*,2398,*Leidy, Joseph*
+*Hay1*,2399,*Leidy, Joseph*
+*Hay1*,2400,*Leidy, Joseph*
+*Hay1*,2401,*Leidy, Joseph*
+*Hay1*,2402,*Leidy, Joseph*
+*Hay1*,2403,*Leidy, Joseph*
+*Hay1*,2404,*Leidy, Joseph*
+*Hay1*,2405,*Leidy, Joseph*
+*Hay1*,2406,*Leidy, Joseph*
+*Hay1*,2407,*Leidy, Joseph*
+*Hay1*,2408,*Leidy, Joseph*
+*Hay1*,2409,*Leidy, Joseph*
+*Hay1*,2410,*Leidy, Joseph*
+*Hay1*,2411,*Leidy, Joseph*
+*Hay1*,2412,*Leidy, Joseph*
+*Hay1*,2413,*Leidy, Joseph*
+*Hay1*,2414,*Leidy, Joseph*
+*Hay1*,2415,*Leidy, Joseph*
+*Hay1*,2416,*Leidy, Joseph*
+*Hay1*,2417,*Leidy, Joseph*
+*Hay1*,2418,*Leidy, Joseph*
+*Hay1*,2419,*Leidy, Joseph*
+*Hay1*,2420,*Leidy, Joseph*
+*Hay1*,2421,*Leidy, Joseph*
+*Hay1*,2422,*Leidy, Joseph*
+*Hay1*,2423,*Leidy, Joseph*
+*Hay1*,2424,*Leidy, Joseph*
+*Hay1*,2425,*Leidy, Joseph*
+*Hay1*,2426,*Leidy, Joseph*
+*Hay1*,2427,*Leidy, Joseph*
+*Hay1*,2428,*Leidy, Joseph*
+*Hay1*,2429,*Leidy, Joseph*
+*Hay1*,2430,*Leidy, Joseph*
+*Hay1*,2431,*Leidy, Joseph*
+*Hay1*,2432,*Leidy, Joseph*
+*Hay1*,2433,*Leidy, Joseph*
+*Hay1*,2434,*Leidy, Joseph*
+*Hay1*,2435,*Leidy, Joseph*
+*Hay1*,2436,*Leidy, Joseph*
+*Hay1*,2437,*Leidy, Joseph*
+*Hay1*,2438,*Leidy, Joseph*
+*Hay1*,2439,*Leidy, Joseph*
+*Hay1*,2440,*Leidy, Joseph*
+*Hay1*,2441,*Leidy, Joseph*
+*Hay1*,2442,*Leidy, Joseph*
+*Hay1*,2443,*Leidy, Joseph*
+*Hay1*,2444,*Leidy, Joseph*
+*Hay1*,2445,*Leidy, Joseph*
+*Hay1*,2446,*Leidy, Joseph*
+*Hay1*,2447,*Leidy, Joseph*
+*Hay1*,2448,*Leidy, Joseph*
+*Hay1*,2449,*Leidy, Joseph*
+*Hay1*,2450,*Leidy, Joseph*
+*Hay1*,2451,*Leidy, Joseph*
+*Hay1*,2452,*Leidy, Joseph*
+*Hay1*,2453,*Leidy, Joseph*
+*Hay1*,2454,*Leidy, Joseph*
+*Hay1*,2455,*Leidy, Joseph*
+*Hay1*,2456,*Leidy, Joseph*
+*Hay1*,2457,*Leidy, Joseph*
+*Hay1*,2458,*Leidy, Joseph*
+*Hay1*,2459,*Leidy, Joseph*
+*Hay1*,2460,*Leidy, Joseph*
+*Hay1*,2461,*Leidy, Joseph*
+*Hay1*,2462,*Leidy, Joseph*
+*Hay1*,2463,*Leidy, Joseph*
+*Hay1*,2464,*Leidy, Joseph*
+*Hay1*,2465,*Leidy, Joseph*
+*Hay1*,2466,*Leidy, Joseph*
+*Hay1*,2467,*Leidy, Joseph*
+*Hay1*,2468,*Leidy, Joseph*
+*Hay1*,2469,*Leidy, Joseph*
+*Hay1*,2470,*Leidy, Joseph*
+*Hay1*,2471,*Leidy, Joseph*
+*Hay1*,2472,*Leidy, Joseph*
+*Hay1*,2473,*Leidy, Joseph*
+*Hay1*,2474,*Leidy, Joseph*
+*Hay1*,2475,*Leidy, Joseph*
+*Hay1*,2476,*Leidy, Joseph*
+*Hay1*,2477,*Leidy, Joseph*
+*Hay1*,2478,*Leidy, Joseph*
+*Hay1*,2479,*Leidy, Joseph*
+*Hay1*,2480,*Leidy, Joseph*
+*Hay1*,2481,*Leidy, Joseph*
+*Hay1*,2482,*Leidy, Joseph*
+*Hay1*,2483,*Leidy, Joseph*
+*Hay1*,2484,*Leidy, Joseph*
+*Hay1*,2485,*Leidy, Joseph*
+*Hay1*,2486,*Leidy, Joseph*
+*Hay1*,2487,*Leidy, Joseph*
+*Hay1*,2488,*Leidy, Joseph*
+*Hay1*,2489,*Leidy, Joseph*
+*Hay1*,2490,*Leidy, Joseph*
+*Hay1*,2491,*Leidy, Joseph*
+*Hay1*,2492,*Leidy, Joseph*
+*Hay1*,2493,*Leidy, Joseph*
+*Hay1*,2494,*Leidy, Joseph*
+*Hay1*,2495,*Leidy, Joseph*
+*Hay1*,2496,*Leidy, Joseph*
+*Hay1*,2497,*Leidy, Joseph*
+*Hay1*,2498,*Leidy, Joseph*
+*Hay1*,2499,*Leidy, Joseph*
+*Hay1*,2500,*Leidy, Joseph*
+*Hay1*,2501,*Leidy, Joseph*
+*Hay1*,2502,*Leidy, Joseph*
+*Hay1*,2503,*Leidy, Joseph*
+*Hay1*,2504,*Leidy, Joseph*
+*Hay1*,2505,*Leidy, Joseph*
+*Hay1*,2506,*Leidy, Joseph*
+*Hay1*,2507,*Leidy, Joseph*
+*Hay1*,2508,*Leidy, Joseph*
+*Hay1*,2509,*Leidy, Joseph*
+*Hay1*,2510,*Leidy, Joseph*
+*Hay1*,2511,*Leidy, Joseph*
+*Hay1*,2512,*Leidy, Joseph*
+*Hay1*,2513,*Leidy, Joseph*
+*Hay1*,2514,*Leidy, Joseph*
+*Hay1*,2515,*Leidy, Joseph*
+*Hay1*,2516,*Leidy, Joseph*
+*Hay1*,2517,*Leidy, Joseph*
+*Hay1*,2518,*Leidy, Joseph*
+*Hay1*,2519,*Leidy, Joseph*
+*Hay1*,2520,*Leidy, Joseph*
+*Hay1*,2521,*Leidy, Joseph*
+*Hay1*,2522,*Leidy, Joseph*
+*Hay1*,2523,*Leidy, Joseph*
+*Hay1*,2524,*Leidy, Joseph*
+*Hay1*,2525,*Leidy, Joseph*
+*Hay1*,2526,*Leidy, Joseph*
+*Hay1*,2527,*Leidy, Joseph*
+*Hay1*,2528,*Leidy, Joseph*
+*Hay1*,2529,*Leidy, Joseph*
+*Hay1*,2530,*Leidy, Joseph*
+*Hay1*,2531,*Leidy, Joseph*
+*Hay1*,2532,*Leidy, Joseph*
+*Hay1*,2533,*Leidy, Joseph*
+*Hay1*,2534,*Leidy, Joseph*
+*Hay1*,2535,*Leidy, Joseph*
+*Hay1*,2536,*Leidy, Joseph*
+*Hay1*,2537,*Leidy, Joseph*
+*Hay1*,2538,*Leidy, Joseph*
+*Hay1*,2539,*Leidy, Joseph*
+*Hay1*,2540,*Leidy, Joseph*
+*Hay1*,2541,*Leidy, Joseph*
+*Hay1*,2542,*Leidy, Joseph*
+*Hay1*,2543,*Leidy, Joseph*
+*Hay1*,2544,*Leidy, Joseph*
+*Hay1*,2545,*Leidy, Joseph*
+*Hay1*,2546,*Leidy, Joseph*
+*Hay1*,2547,*Leidy, Joseph*
+*Hay1*,2548,*Leidy, Joseph*
+*Hay1*,2549,*Leidy, Joseph*
+*Hay1*,2550,*Leidy, Joseph*
+*Hay1*,2551,*Leidy, Joseph*
+*Hay1*,2552,*Leidy, Joseph*
+*Hay1*,2553,*Leidy, Joseph*
+*Hay1*,2554,*Leidy, Joseph*
+*Hay1*,2555,*Leidy, Joseph*
+*Hay1*,2556,*Leidy, Joseph*
+*Hay1*,2557,*Leidy, Joseph*
+*Hay1*,2558,*Leidy, Joseph*
+*Hay1*,2559,*Leidy, Joseph*
+*Hay1*,2560,*Leidy, Joseph*
+*Hay1*,2561,*Leidy, Joseph*
+*Hay1*,2562,*Leidy, Joseph*
+*Hay1*,2563,*Leidy, Joseph*
+*Hay1*,2564,*Leidy, Joseph*
+*Hay1*,2565,*Leidy, Joseph*
+*Hay1*,2566,*Leidy, Joseph*
+*Hay1*,2567,*Leidy, Joseph*
+*Hay1*,2568,*Leidy, Joseph*
+*Hay1*,2569,*Leidy, Joseph*
+*Hay1*,2570,*Leidy, Joseph*
+*Hay1*,2571,*Leidy, Joseph*
+*Hay1*,2572,*Leidy, Joseph*
+*Hay1*,2573,*Leidy, Joseph*
+*Hay1*,2574,*Leidy, Joseph*
+*Hay1*,2575,*Leidy, Joseph*
+*Hay1*,2576,*Leidy, Joseph*
+*Hay1*,2577,*Leidy, Joseph*
+*Hay1*,2578,*Leidy, Joseph*
+*Hay1*,2579,*Leidy, Joseph*
+*Hay1*,2580,*Leidy, Joseph*
+*Hay1*,2581,*Leidy, Joseph*
+*Hay1*,2582,*Leidy, Joseph*
+*Hay1*,2583,*Leidy, Joseph*
+*Hay1*,2584,*Leidy, Joseph*
+*Hay1*,2585,*Leidy, Joseph*
+*Hay1*,2586,*Leidy, Joseph*
+*Hay1*,2587,*Leidy, Joseph*
+*Hay1*,2588,*Leidy, Joseph*
+*Hay1*,2589,*Leidy, Joseph*
+*Hay1*,2590,*Leidy, Joseph*
+*Hay1*,2591,*Leidy, Joseph*
+*Hay1*,2592,*Leidy, Joseph*
+*Hay1*,2593,*Leidy, Joseph*
+*Hay1*,2594,*Leidy, Joseph*
+*Hay1*,2595,*Leidy, Joseph*
+*Hay1*,2596,*Leidy, Joseph*
+*Hay1*,2597,*Leidy, Joseph*
+*Hay1*,2598,*Leidy, Joseph*
+*Hay1*,2598,*Lucas, Fred. A.*
+*Hay1*,2599,*Lemoine, Victor*
+*Hay1*,2600,*Lemoine, Victor*
+*Hay1*,2601,*Lemoine, Victor*
+*Hay1*,2602,*Lemoine, Victor*
+*Hay1*,2603,*Lemoine, Victor*
+*Hay1*,2604,*Lemoine, Victor*
+*Hay1*,2605,*Lemoine, Victor*
+*Hay1*,2606,*Lemoine, Victor*
+*Hay1*,2607,*Lemoine, Victor*
+*Hay1*,2608,*Lemoine, Victor*
+*Hay1*,2609,*Lemoine, Victor*
+*Hay1*,2610,*Lemoine, Victor*
+*Hay1*,2611,*Lenk, H.*
+*Hay1*,2611,*Lennox, T. H.*
+*Hay1*,2612,*Lepsius, G. R.*
+*Hay1*,2613,*Lesley, J. P.*
+*Hay1*,2614,*Lesley, J. P.*
+*Hay1*,2615,*Lesley, J. P.*
+*Hay1*,2616,*Lesley, J. P.*
+*Hay1*,2617,*Leuthardt, Franz*
+*Hay1*,2618,*Levy, Hugo*
+*Hay1*,2619,*Lewis, J. L.*
+*Hay1*,2620,*Lewis, H. C.*
+*Hay1*,2621,*Leydig, F.*
+*Hay1*,2622,*Lindahl, Josua*
+*Hay1*,2623,*Lindahl, Josua*
+*Hay1*,2624,*Lindstro%Fm, G.*
+*Hay1*,2625,*Lippincott, James S.*
+*Hay1*,2626,*Lister, George*
+*Hay1*,2627,*Lockwood, Samuel*
+*Hay1*,2628,*Lockwood, Samuel*
+*Hay1*,2629,*Lo%Fnnberg, Einar*
+*Hay1*,2630,*Lo%Fnnberg, Einar*
+*Hay1*,2631,*Logan, W. E.*
+*Hay1*,2632,*Lohest, Maximin*
+*Hay1*,2633,*Lohest, Maximin*
+*Hay1*,2634,*Lohest, Maximin*
+*Hay1*,2635,*Longhi, Paolo*
+*Hay1*,2636,*Loomis, Frederic B.*
+*Hay1*,2637,*Lortet, L.*
+*Hay1*,2638,*Lortet, L.*
+*Hay1*,2638,*Chantre, E.*
+*Hay1*,2639,*Lucas, Frederick A.*
+*Hay1*,2640,*Lucas, Frederick A.*
+*Hay1*,2641,*Lucas, Frederick A.*
+*Hay1*,2642,*Lucas, Frederick A.*
+*Hay1*,2643,*Lucas, Frederick A.*
+*Hay1*,2644,*Lucas, Frederick A.*
+*Hay1*,2645,*Lucas, Frederick A.*
+*Hay1*,2646,*Lucas, Frederick A.*
+*Hay1*,2647,*Lucas, Frederick A.*
+*Hay1*,2648,*Lucas, Frederick A.*
+*Hay1*,2649,*Lucas, Frederick A.*
+*Hay1*,2650,*Lucas, Frederick A.*
+*Hay1*,2651,*Lucas, Frederick A.*
+*Hay1*,2652,*Lucas, Frederick A.*
+*Hay1*,2653,*Lucas, Frederick A.*
+*Hay1*,2654,*Lucas, Frederick A.*
+*Hay1*,2655,*Lucas, Frederick A.*
+*Hay1*,2656,*Lucas, Frederick A.*
+*Hay1*,2657,*Lucas, Frederick A.*
+*Hay1*,2658,*Lucas, Frederick A.*
+*Hay1*,2659,*Ludwig, Rudolph*
+*Hay1*,2660,*Lu%Ftken, Chr.*
+*Hay1*,2661,*Lu%Ftken, Chr.*
+*Hay1*,2662,*Lu%Ftken, Chr.*
+*Hay1*,2663,*Lund, P. W.*
+*Hay1*,2664,*Lund, P. W.*
+*Hay1*,2665,*Lund, P. W.*
+*Hay1*,2666,*Lund, P. W.*
+*Hay1*,2667,*Lydekker, R.*
+*Hay1*,2668,*Lydekker, R.*
+*Hay1*,2669,*Lydekker, R.*
+*Hay1*,2670,*Lydekker, R.*
+*Hay1*,2671,*Lydekker, R.*
+*Hay1*,2672,*Lydekker, R.*
+*Hay1*,2673,*Lydekker, R.*
+*Hay1*,2674,*Lydekker, R.*
+*Hay1*,2675,*Lydekker, R.*
+*Hay1*,2676,*Lydekker, R.*
+*Hay1*,2677,*Lydekker, R.*
+*Hay1*,2678,*Lydekker, R.*
+*Hay1*,2679,*Lydekker, R.*
+*Hay1*,2680,*Lydekker, R.*
+*Hay1*,2681,*Lydekker, R.*
+*Hay1*,2682,*Lydekker, R.*
+*Hay1*,2683,*Lydekker, R.*
+*Hay1*,2684,*Lydekker, R.*
+*Hay1*,2685,*Lydekker, R.*
+*Hay1*,2686,*Lydekker, R.*
+*Hay1*,2687,*Lydekker, R.*
+*Hay1*,2688,*Lydekker, R.*
+*Hay1*,2689,*Lydekker, R.*
+*Hay1*,2690,*Lydekker, R.*
+*Hay1*,2691,*Lydekker, R.*
+*Hay1*,2692,*Lydekker, R.*
+*Hay1*,2693,*Lydekker, R.*
+*Hay1*,2694,*Lydekker, R.*
+*Hay1*,2695,*Lydekker, R.*
+*Hay1*,2696,*Lydekker, R.*
+*Hay1*,2697,*Lydekker, R.*
+*Hay1*,2698,*Lydekker, R.*
+*Hay1*,2699,*Lydekker, R.*
+*Hay1*,2700,*Lydekker, R.*
+*Hay1*,2701,*Lydekker, R.*
+*Hay1*,2702,*Lydekker, R.*
+*Hay1*,2703,*Lydekker, R.*
+*Hay1*,2704,*Lydekker, R.*
+*Hay1*,2705,*Lydekker, R.*
+*Hay1*,2706,*Lydekker, R.*
+*Hay1*,2707,*Lydekker, R.*
+*Hay1*,2708,*Lydekker, R.*
+*Hay1*,2709,*Lydekker, R.*
+*Hay1*,2710,*Lydekker, R.*
+*Hay1*,2711,*Lydekker, R.*
+*Hay1*,2712,*Lydekker, R.*
+*Hay1*,2713,*Lydekker, R.*
+*Hay1*,2714,*Lydekker, R.*
+*Hay1*,2715,*Lydekker, R.*
+*Hay1*,2716,*Lydekker, R.*
+*Hay1*,2717,*Lydekker, R.*
+*Hay1*,2718,*Lydekker, R.*
+*Hay1*,2719,*Lydekker, R.*
+*Hay1*,2720,*Lyell, Charles*
+*Hay1*,2721,*Lyell, Charles*
+*Hay1*,2722,*Lyell, Charles*
+*Hay1*,2723,*Lyell, Charles*
+*Hay1*,2724,*Lyell, Charles*
+*Hay1*,2725,*Lyell, Charles*
+*Hay1*,2726,*Lyell, Charles*
+*Hay1*,2727,*Lyell, Charles*
+*Hay1*,2728,*Lyell, Charles*
+*Hay1*,2729,*Lyell, Charles*
+*Hay1*,2730,*Lyell, Charles*
+*Hay1*,2731,*Lyell, Charles*
+*Hay1*,2732,*Lyell, Charles*
+*Hay1*,2732,*Dawson, J. W.*
+*Hay1*,2733,*Maack, G. A.*
+*Hay1*,2734,*Maack, G. A.*
+*Hay1*,2735,*McAdams, William*
+*Hay1*,2736,*McCallie, S. W.*
+*Hay1*,2737,*McCoy, Frederick*
+*Hay1*,2738,*McCoy, Frederick*
+*Hay1*,2739,*McCoy, Frederick*
+*Hay1*,2740,*McCoy, Frederick*
+*Hay1*,2741,*McCoy, Frederick*
+*Hay1*,2742,*McCoy, Frederick*
+*Hay1*,2743,*McGee, W. J.*
+*Hay1*,2744,*Mackie, S. J.*
+*Hay1*,2745,*Mackie, S. J.*
+*Hay1*,2746,*Mackintosh, H. W.*
+*Hay1*,2747,*McMurrich, J. P.*
+*Hay1*,2748,*McMurrich, J. P.*
+*Hay1*,2749,*Madison (Bishop)*
+*Hay1*,2750,*Maggi, Leopoldo*
+*Hay1*,2751,*Maggi, Leopoldo*
+*Hay1*,2752,*Maggi, Leopoldo*
+*Hay1*,2753,*Maggi, Leopoldo*
+*Hay1*,2754,*Maggi, Leopoldo*
+*Hay1*,2755,*Magnus, Hugo*
+*Hay1*,2756,*Major, C. J. Forsyth*
+*Hay1*,2757,*Major, C. J. Forsyth*
+*Hay1*,2758,*Major, C. J. Forsyth*
+*Hay1*,2759,*Major, C. J. Forsyth*
+*Hay1*,2760,*Major, C. J. Forsyth*
+*Hay1*,2761,*Malmgren, A. J.*
+*Hay1*,2762,*Malmgren, A. J.*
+*Hay1*,2763,*Mandl, L.*
+*Hay1*,2764,*Ma%Fnner, H.*
+*Hay1*,2765,*Mantell, G. A.*
+*Hay1*,2766,*Mantell, G. A.*
+*Hay1*,2767,*Mantell, G. A.*
+*Hay1*,2768,*Mantell, G. A.*
+*Hay1*,2769,*Marck, W. v.*
+*Hay1*,2770,*Marcou, John B.*
+*Hay1*,2771,*Marcou, John B.*
+*Hay1*,2772,*Marcou, Jules*
+*Hay1*,2773,*Markert, F.*
+*Hay1*,2774,*Marsh, Dexter*
+*Hay1*,2775,*Marsh, O. C.*
+*Hay1*,2776,*Marsh, O. C.*
+*Hay1*,2777,*Marsh, O. C.*
+*Hay1*,2778,*Marsh, O. C.*
+*Hay1*,2779,*Marsh, O. C.*
+*Hay1*,2780,*Marsh, O. C.*
+*Hay1*,2781,*Marsh, O. C.*
+*Hay1*,2782,*Marsh, O. C.*
+*Hay1*,2783,*Marsh, O. C.*
+*Hay1*,2784,*Marsh, O. C.*
+*Hay1*,2785,*Marsh, O. C.*
+*Hay1*,2786,*Marsh, O. C.*
+*Hay1*,2787,*Marsh, O. C.*
+*Hay1*,2788,*Marsh, O. C.*
+*Hay1*,2789,*Marsh, O. C.*
+*Hay1*,2790,*Marsh, O. C.*
+*Hay1*,2791,*Marsh, O. C.*
+*Hay1*,2792,*Marsh, O. C.*
+*Hay1*,2793,*Marsh, O. C.*
+*Hay1*,2794,*Marsh, O. C.*
+*Hay1*,2795,*Marsh, O. C.*
+*Hay1*,2796,*Marsh, O. C.*
+*Hay1*,2797,*Marsh, O. C.*
+*Hay1*,2798,*Marsh, O. C.*
+*Hay1*,2799,*Marsh, O. C.*
+*Hay1*,2800,*Marsh, O. C.*
+*Hay1*,2801,*Marsh, O. C.*
+*Hay1*,2802,*Marsh, O. C.*
+*Hay1*,2803,*Marsh, O. C.*
+*Hay1*,2804,*Marsh, O. C.*
+*Hay1*,2805,*Marsh, O. C.*
+*Hay1*,2806,*Marsh, O. C.*
+*Hay1*,2807,*Marsh, O. C.*
+*Hay1*,2808,*Marsh, O. C.*
+*Hay1*,2809,*Marsh, O. C.*
+*Hay1*,2810,*Marsh, O. C.*
+*Hay1*,2811,*Marsh, O. C.*
+*Hay1*,2812,*Marsh, O. C.*
+*Hay1*,2813,*Marsh, O. C.*
+*Hay1*,2814,*Marsh, O. C.*
+*Hay1*,2815,*Marsh, O. C.*
+*Hay1*,2816,*Marsh, O. C.*
+*Hay1*,2817,*Marsh, O. C.*
+*Hay1*,2818,*Marsh, O. C.*
+*Hay1*,2819,*Marsh, O. C.*
+*Hay1*,2820,*Marsh, O. C.*
+*Hay1*,2821,*Marsh, O. C.*
+*Hay1*,2822,*Marsh, O. C.*
+*Hay1*,2823,*Marsh, O. C.*
+*Hay1*,2824,*Marsh, O. C.*
+*Hay1*,2825,*Marsh, O. C.*
+*Hay1*,2826,*Marsh, O. C.*
+*Hay1*,2827,*Marsh, O. C.*
+*Hay1*,2828,*Marsh, O. C.*
+*Hay1*,2829,*Marsh, O. C.*
+*Hay1*,2830,*Marsh, O. C.*
+*Hay1*,2831,*Marsh, O. C.*
+*Hay1*,2832,*Marsh, O. C.*
+*Hay1*,2833,*Marsh, O. C.*
+*Hay1*,2834,*Marsh, O. C.*
+*Hay1*,2835,*Marsh, O. C.*
+*Hay1*,2836,*Marsh, O. C.*
+*Hay1*,2837,*Marsh, O. C.*
+*Hay1*,2838,*Marsh, O. C.*
+*Hay1*,2839,*Marsh, O. C.*
+*Hay1*,2840,*Marsh, O. C.*
+*Hay1*,2841,*Marsh, O. C.*
+*Hay1*,2842,*Marsh, O. C.*
+*Hay1*,2843,*Marsh, O. C.*
+*Hay1*,2844,*Marsh, O. C.*
+*Hay1*,2845,*Marsh, O. C.*
+*Hay1*,2846,*Marsh, O. C.*
+*Hay1*,2847,*Marsh, O. C.*
+*Hay1*,2848,*Marsh, O. C.*
+*Hay1*,2849,*Marsh, O. C.*
+*Hay1*,2850,*Marsh, O. C.*
+*Hay1*,2851,*Marsh, O. C.*
+*Hay1*,2852,*Marsh, O. C.*
+*Hay1*,2853,*Marsh, O. C.*
+*Hay1*,2854,*Marsh, O. C.*
+*Hay1*,2855,*Marsh, O. C.*
+*Hay1*,2856,*Marsh, O. C.*
+*Hay1*,2857,*Marsh, O. C.*
+*Hay1*,2858,*Marsh, O. C.*
+*Hay1*,2859,*Marsh, O. C.*
+*Hay1*,2860,*Marsh, O. C.*
+*Hay1*,2861,*Marsh, O. C.*
+*Hay1*,2862,*Marsh, O. C.*
+*Hay1*,2863,*Marsh, O. C.*
+*Hay1*,2864,*Marsh, O. C.*
+*Hay1*,2865,*Marsh, O. C.*
+*Hay1*,2866,*Marsh, O. C.*
+*Hay1*,2867,*Marsh, O. C.*
+*Hay1*,2868,*Marsh, O. C.*
+*Hay1*,2869,*Marsh, O. C.*
+*Hay1*,2870,*Marsh, O. C.*
+*Hay1*,2871,*Marsh, O. C.*
+*Hay1*,2872,*Marsh, O. C.*
+*Hay1*,2873,*Marsh, O. C.*
+*Hay1*,2874,*Marsh, O. C.*
+*Hay1*,2875,*Marsh, O. C.*
+*Hay1*,2876,*Marsh, O. C.*
+*Hay1*,2877,*Marsh, O. C.*
+*Hay1*,2878,*Marsh, O. C.*
+*Hay1*,2879,*Marsh, O. C.*
+*Hay1*,2880,*Marsh, O. C.*
+*Hay1*,2881,*Marsh, O. C.*
+*Hay1*,2882,*Marsh, O. C.*
+*Hay1*,2883,*Marsh, O. C.*
+*Hay1*,2884,*Marsh, O. C.*
+*Hay1*,2885,*Marsh, O. C.*
+*Hay1*,2886,*Marsh, O. C.*
+*Hay1*,2887,*Marsh, O. C.*
+*Hay1*,2888,*Marsh, O. C.*
+*Hay1*,2889,*Marsh, O. C.*
+*Hay1*,2890,*Marsh, O. C.*
+*Hay1*,2891,*Marsh, O. C.*
+*Hay1*,2892,*Marsh, O. C.*
+*Hay1*,2893,*Marsh, O. C.*
+*Hay1*,2894,*Marsh, O. C.*
+*Hay1*,2895,*Marsh, O. C.*
+*Hay1*,2896,*Marsh, O. C.*
+*Hay1*,2897,*Marsh, O. C.*
+*Hay1*,2898,*Marsh, O. C.*
+*Hay1*,2899,*Marsh, O. C.*
+*Hay1*,2900,*Marsh, O. C.*
+*Hay1*,2901,*Marsh, O.C.*
+*Hay1*,2902,*Marsh, O.C.*
+*Hay1*,2903,*Marsh, O.C.*
+*Hay1*,2904,*Marsh, O.C.*
+*Hay1*,2905,*Marsh, O.C.*
+*Hay1*,2906,*Marsh, O.C.*
+*Hay1*,2907,*Marsh, O.C.*
+*Hay1*,2908,*Marsh, O. C.*
+*Hay1*,2909,*Marsh, O. C.*
+*Hay1*,2910,*Marsh, O. C.*
+*Hay1*,2911,*Marsh, O. C.*
+*Hay1*,2912,*Marsh, O. C.*
+*Hay1*,2913,*Marsh, O. C.*
+*Hay1*,2914,*Marsh, O. C.*
+*Hay1*,2915,*Marsh, O. C.*
+*Hay1*,2916,*Marsh, O. C.*
+*Hay1*,2917,*Marsh, O. C.*
+*Hay1*,2918,*Marsh, O. C.*
+*Hay1*,2919,*Marsh, O. C.*
+*Hay1*,2920,*Marsh, O. C.*
+*Hay1*,2921,*Marsh, O. C.*
+*Hay1*,2922,*Marsh, O. C.*
+*Hay1*,2923,*Marsh, O. C.*
+*Hay1*,2924,*Marsh, O. C.*
+*Hay1*,2925,*Marsh, O. C.*
+*Hay1*,2926,*Marsh, O. C.*
+*Hay1*,2927,*Marsh, O. C.*
+*Hay1*,2928,*Marsh, O. C.*
+*Hay1*,2929,*Marsh, O. C.*
+*Hay1*,2930,*Marsh, O. C.*
+*Hay1*,2931,*Marsh, O. C.*
+*Hay1*,2932,*Marsh, O. C.*
+*Hay1*,2933,*Marsh, O. C.*
+*Hay1*,2934,*Marsh, O. C.*
+*Hay1*,2935,*Marsh, O. C.*
+*Hay1*,2936,*Marsh, O. C.*
+*Hay1*,2937,*Marsh, O. C.*
+*Hay1*,2938,*Marsh, O. C.*
+*Hay1*,2939,*Marsh, O. C.*
+*Hay1*,2940,*Marsh, O. C.*
+*Hay1*,2941,*Marsh, O. C.*
+*Hay1*,2942,*Marsh, O. C.*
+*Hay1*,2943,*Marsh, O. C.*
+*Hay1*,2944,*Marsh, O. C.*
+*Hay1*,2945,*Marsh, O. C.*
+*Hay1*,2946,*Marsh, O. C.*
+*Hay1*,2947,*Marsh, O. C.*
+*Hay1*,2948,*Marsh, O. C.*
+*Hay1*,2949,*Marsh, O. C.*
+*Hay1*,2950,*Marsh, O. C.*
+*Hay1*,2951,*Marsh, O. C.*
+*Hay1*,2952,*Marsh, O. C.*
+*Hay1*,2953,*Marsh, O. C.*
+*Hay1*,2954,*Marsh, O. C.*
+*Hay1*,2955,*Marsh, O. C.*
+*Hay1*,2956,*Marsh, O. C.*
+*Hay1*,2957,*Marsh, O. C.*
+*Hay1*,2958,*Marsh, O. C.*
+*Hay1*,2959,*Marsh, O. C.*
+*Hay1*,2960,*Marsh, O. C.*
+*Hay1*,2961,*Marsh, O. C.*
+*Hay1*,2962,*Marsh, O. C.*
+*Hay1*,2963,*Marsh, O. C.*
+*Hay1*,2964,*Marsh, O. C.*
+*Hay1*,2965,*Marsh, O. C.*
+*Hay1*,2966,*Marsh, O. C.*
+*Hay1*,2967,*Marsh, O. C.*
+*Hay1*,2968,*Marsh, O. C.*
+*Hay1*,2969,*Marsh, O. C.*
+*Hay1*,2970,*Marsh, O. C.*
+*Hay1*,2971,*Marsh, O. C.*
+*Hay1*,2972,*Marsh, O. C.*
+*Hay1*,2973,*Marsh, O. C.*
+*Hay1*,2974,*Marsh, O. C.*
+*Hay1*,2975,*Marsh, O. C.*
+*Hay1*,2976,*Marsh, O. C.*
+*Hay1*,2977,*Marsh, O. C.*
+*Hay1*,2978,*Marsh, O. C.*
+*Hay1*,2979,*Marsh, O. C.*
+*Hay1*,2980,*Marsh, O. C.*
+*Hay1*,2981,*Marsh, O. C.*
+*Hay1*,2982,*Marsh, O. C.*
+*Hay1*,2983,*Marsh, O. C.*
+*Hay1*,2984,*Marsh, O. C.*
+*Hay1*,2985,*Marsh, O. C.*
+*Hay1*,2986,*Marsh, O. C.*
+*Hay1*,2987,*Marsh, O. C.*
+*Hay1*,2988,*Marsh, O. C.*
+*Hay1*,2989,*Marsh, O. C.*
+*Hay1*,2990,*Marsh, O. C.*
+*Hay1*,2991,*Marsh, O. C.*
+*Hay1*,2992,*Marsh, O. C.*
+*Hay1*,2993,*Marsh, O. C.*
+*Hay1*,2994,*Marsh, O. C.*
+*Hay1*,2995,*Marsh, O. C.*
+*Hay1*,2996,*Marsh, O. C.*
+*Hay1*,2997,*Marsh, O. C.*
+*Hay1*,2998,*Marsh, O. C.*
+*Hay1*,2999,*Marshall, William*
+*Hay1*,3000,*Martin, K.*
+*Hay1*,3001,*Martin, W.*
+*Hay1*,3002,*Martins, Charles*
+*Hay1*,3003,*Mason, William D. H.*
+*Hay1*,3004,*Mather, W. W.*
+*Hay1*,3005,*Mather, W. W.*
+*Hay1*,3006,*Matthew, G. F.*
+*Hay1*,3007,*Matthew, G. F.*
+*Hay1*,3008,*Matthew, G. F.*
+*Hay1*,3009,*Matthew, G. F.*
+*Hay1*,3010,*Matthew, G. F.*
+*Hay1*,3011,*Matthew, W. D.*
+*Hay1*,3012,*Matthew, W. D.*
+*Hay1*,3013,*Matthew, W. D.*
+*Hay1*,3014,*Matthew, W. D.*
+*Hay1*,3015,*Matthew, W. D.*
+*Hay1*,3016,*Matthew, W. D.*
+*Hay1*,3017,*Maxwell, J. B.*
+*Hay1*,3018,*Mayer, Paul*
+*Hay1*,3019,*Mayer*
+*Hay1*,3020,*Mayo, Florence*
+*Hay1*,3021,*Mehnert, Ernst*
+*Hay1*,3022,*Mehnert, Ernst*
+*Hay1*,3023,*Mehnert, Ernst*
+*Hay1*,3024,*Menzbier, M. v.*
+*Hay1*,3025,*Mercer, H. C.*
+*Hay1*,3026,*Mercer, H. C.*
+*Hay1*,3027,*Mercer, H. C.*
+*Hay1*,3028,*Mercer, H. C.*
+*Hay1*,3029,*Merian, Peter*
+*Hay1*,3030,*Mermier, E%Alie*
+*Hay1*,3031,*Merriam, C. Hart*
+*Hay1*,3032,*Merriam, C. Hart*
+*Hay1*,3033,*Merriam, C. Hart*
+*Hay1*,3034,*Merriam, C. Hart*
+*Hay1*,3035,*Merriam, C. Hart*
+*Hay1*,3036,*Merriam, J. C.*
+*Hay1*,3037,*Merriam, J. C.*
+*Hay1*,3038,*Merriam, J. C.*
+*Hay1*,3039,*Merriam, J. C.*
+*Hay1*,3040,*Metschnikoff, Olga*
+*Hay1*,3041,*Mettam, A. E.*
+*Hay1*,3042,*Meyer, H. v.*
+*Hay1*,3043,*Meyer, H. v.*
+*Hay1*,3044,*Meyer, H. v.*
+*Hay1*,3045,*Meyer, H. v.*
+*Hay1*,3046,*Meyer, H. v.*
+*Hay1*,3047,*Meyer, H. v.*
+*Hay1*,3048,*Meyer, H. v.*
+*Hay1*,3049,*Meyer, H. v.*
+*Hay1*,3050,*Meyer, H. v.*
+*Hay1*,3051,*Meyer, H. v.*
+*Hay1*,3052,*Meyer, H. v.*
+*Hay1*,3053,*Meyer, H. v.*
+*Hay1*,3054,*Meyer, H. v.*
+*Hay1*,3055,*Meyer, H. v.*
+*Hay1*,3056,*Meyer, H. v.*
+*Hay1*,3057,*Meyer, H. v.*
+*Hay1*,3058,*Meyer, H. v.*
+*Hay1*,3059,*Meyer, H. v.*
+*Hay1*,3060,*Meyer, H. v.*
+*Hay1*,3061,*Meyer, H. v.*
+*Hay1*,3062,*Meyer, H. v.*
+*Hay1*,3063,*Meyer, H. v.*
+*Hay1*,3064,*Meyer, H. v.*
+*Hay1*,3065,*Meyer, H. v.*
+*Hay1*,3066,*Meyer, H. v.*
+*Hay1*,3067,*Meyer, H. v.*
+*Hay1*,3068,*Meyer, H. v.*
+*Hay1*,3069,*Meyer, H. v.*
+*Hay1*,3070,*Meyer, H. v.*
+*Hay1*,3071,*Meyer, H. v.*
+*Hay1*,3072,*Meyer, H. v.*
+*Hay1*,3073,*Meyer, H. v.*
+*Hay1*,3074,*Meyer, Otto*
+*Hay1*,3075,*Miall, L. C.*
+*Hay1*,3076,*Miall, L. C.*
+*Hay1*,3077,*Miall, L. C.*
+*Hay1*,3078,*Miall, L. C.*
+*Hay1*,3079,*Miall, L. C.*
+*Hay1*,3080,*Miall, L. C.*
+*Hay1*,3081,*Miall, L. C.*
+*Hay1*,3082,*Miall, L. C.*
+*Hay1*,3083,*Miall, L. C.*
+*Hay1*,3084,*Miall, L. C.*
+*Hay1*,3085,*Middendorff, A. Th.*
+*Hay1*,3086,*Middleton, W. G.*
+*Hay1*,3086,*Moore, Joseph*
+*Hay1*,3087,*Miller, Gerritt S.*
+*Hay1*,3088,*Miller, Gerritt S.*
+*Hay1*,3089,*Miller, Gerritt S.*
+*Hay1*,3090,*Miller, Gerritt S.*
+*Hay1*,3091,*Miller, Gerritt S.*
+*Hay1*,3092,*Miller, Hugh*
+*Hay1*,3093,*Miller, Hugh*
+*Hay1*,3094,*Miller, John*
+*Hay1*,3095,*Miller, S. A.*
+*Hay1*,3096,*Miller, S. A.*
+*Hay1*,3097,*Miller, S. A.*
+*Hay1*,3098,*Miller, S. A.*
+*Hay1*,3099,*Miller, Sylvanus*
+*Hay1*,3100,*Minot, C. S.*
+*Hay1*,3101,*Mitchell, Hugh*
+*Hay1*,3102,*Mitchell, Hugh*
+*Hay1*,3103,*Mitchell, James A.*
+*Hay1*,3104,*Mitchill, Samuel L.*
+*Hay1*,3105,*Mitchill, Samuel L.*
+*Hay1*,3106,*Mitchill, Samuel L.*
+*Hay1*,3106,*Smith, J. A.*
+*Hay1*,3106,*Cooper*
+*Hay1*,3107,*Mitivier, M. M.*
+*Hay1*,3108,*Mivart, St. George*
+*Hay1*,3109,*Mivart, St. George*
+*Hay1*,3110,*Mivart, St. George*
+*Hay1*,3111,*Mivart, St. George*
+*Hay1*,3112,*Mivart, St. George*
+*Hay1*,3113,*Mivart, St. George*
+*Hay1*,3114,*Mivart, St. George*
+*Hay1*,3115,*Mivart, St. George*
+*Hay1*,3116,*Mivart, St. George*
+*Hay1*,3117,*Mivart, St. George*
+*Hay1*,3118,*Mivart, St. George*
+*Hay1*,3119,*Mivart, St. George*
+*Hay1*,3120,*Mivart, St. George*
+*Hay1*,3121,*Mivart, St. George*
+*Hay1*,3122,*Mivart, St. George*
+*Hay1*,3123,*Mivart, St. George*
+*Hay1*,3124,*Mivart, St. George*
+*Hay1*,3125,*Mivart, St. George*
+*Hay1*,3126,*Mivart, St. George*
+*Hay1*,3127,*Mivart, St. George*
+*Hay1*,3128,*Mivart, St. George*
+*Hay1*,3129,*Mo%Fbius, K.*
+*Hay1*,3130,*Mojsisovics, A.*
+*Hay1*,3131,*Molin, Raffaele*
+*Hay1*,3132,*Mollier, S.*
+*Hay1*,3133,*Mollier, S.*
+*Hay1*,3134,*Mollier, S.*
+*Hay1*,3135,*Monks, Sarah P.*
+*Hay1*,3136,*Moore, Charles*
+*Hay1*,3137,*Moore, Joseph*
+*Hay1*,3138,*Moore, Joseph*
+*Hay1*,3139,*Moore, Joseph*
+*Hay1*,3140,*Moore, Joseph*
+*Hay1*,3141,*Moore, Joseph*
+*Hay1*,3142,*Moore, Joseph*
+*Hay1*,3143,*Moore, W. D.*
+*Hay1*,3144,*Moreno, Francisco P.*
+*Hay1*,3145,*Morse, E. S.*
+*Hay1*,3146,*Morse, E. S.*
+*Hay1*,3147,*Morse, E. S.*
+*Hay1*,3148,*Morse, E. S.*
+*Hay1*,3149,*Morton, S. G.*
+*Hay1*,3150,*Morton, S. G.*
+*Hay1*,3151,*Morton, S. G.*
+*Hay1*,3152,*Morton, S. G.*
+*Hay1*,3153,*Morton, S. G.*
+*Hay1*,3154,*Morton, S. G.*
+*Hay1*,3155,*Morton, S. G.*
+*Hay1*,3156,*Moseley, H. N.*
+*Hay1*,3156,*Lankester, E. R.*
+*Hay1*,3157,*Mudge, B. F.*
+*Hay1*,3158,*Mudge, B. F.*
+*Hay1*,3159,*Mudge, B. F.*
+*Hay1*,3160,*Mu%Fller, Aug*
+*Hay1*,3161,*Mu%Fller, Johannes*
+*Hay1*,3162,*Mu%Fller, Johannes*
+*Hay1*,3163,*Mu%Fller, Johannes*
+*Hay1*,3164,*Mu%Fller, Johannes*
+*Hay1*,3165,*Mu%Fller, Johannes*
+*Hay1*,3166,*Mu%Fller, Johannes*
+*Hay1*,3167,*Mu%Fller, Johannes*
+*Hay1*,3168,*Mu%Fller, Johannes*
+*Hay1*,3169,*Mu%Fller, Johannes*
+*Hay1*,3170,*Mu%Fller, Johannes*
+*Hay1*,3171,*Mu%Fller, Johannes*
+*Hay1*,3172,*Mu%Fller, Johannes*
+*Hay1*,3173,*Mu%Fller, Johannes*
+*Hay1*,3174,*Mu%Fller, J.*
+*Hay1*,3174,*Henle, J.*
+*Hay1*,3175,*Mu%Fller, J.*
+*Hay1*,3175,*Henle, J.*
+*Hay1*,3176,*Mu%Fller, J.*
+*Hay1*,3176,*Henle, J.*
+*Hay1*,3177,*Mu%Fller, J.*
+*Hay1*,3177,*Henle, J.*
+*Hay1*,3178,*Murie, James*
+*Hay1*,3179,*Murie, James*
+*Hay1*,3180,*Murie, James*
+*Hay1*,3181,*Murie, James*
+*Hay1*,3182,*Murie, James*
+*Hay1*,3183,*Murie, James*
+*Hay1*,3184,*Nasmyth, Alexander*
+*Hay1*,3185,*Natural Science*
+*Hay1*,3186,*Natural Science*
+*Hay1*,3187,*Nature*
+*Hay1*,3188,*Nature*
+*Hay1*,3189,*Nature*
+*Hay1*,3190,*Nature*
+*Hay1*,3191,*Nature*
+*Hay1*,3192,*Nature*
+*Hay1*,3193,*Naumann, Edmund*
+*Hay1*,3194,*Negri, Arturo*
+*Hay1*,3195,*Nehring, Alfred*
+*Hay1*,3196,*Nehring, Alfred*
+*Hay1*,3197,*Nehring, Alfred*
+*Hay1*,3198,*Newberry, J. S.*
+*Hay1*,3199,*Newberry, J. S.*
+*Hay1*,3200,*Newberry, J. S.*
+*Hay1*,3201,*Newberry, J. S.*
+*Hay1*,3202,*Newberry, J. S.*
+*Hay1*,3203,*Newberry, J. S.*
+*Hay1*,3204,*Newberry, J. S.*
+*Hay1*,3205,*Newberry, J. S.*
+*Hay1*,3206,*Newberry, J. S.*
+*Hay1*,3207,*Newberry, J. S.*
+*Hay1*,3208,*Newberry, J. S.*
+*Hay1*,3209,*Newberry, J. S.*
+*Hay1*,3210,*Newberry, J. S.*
+*Hay1*,3211,*Newberry, J. S.*
+*Hay1*,3212,*Newberry, J. S.*
+*Hay1*,3213,*Newberry, J. S.*
+*Hay1*,3214,*Newberry, J. S.*
+*Hay1*,3215,*Newberry, J. S.*
+*Hay1*,3216,*Newberry, J. S.*
+*Hay1*,3217,*Newberry, J. S.*
+*Hay1*,3218,*Newberry, J. S.*
+*Hay1*,3219,*Newberry, J. S.*
+*Hay1*,3220,*Newberry, J. S.*
+*Hay1*,3221,*Newberry, J. S.*
+*Hay1*,3222,*Newberry, J. S.*
+*Hay1*,3223,*Newberry, J. S.*
+*Hay1*,3224,*Newberry, J. S.*
+*Hay1*,3225,*Newberry, J. S.*
+*Hay1*,3226,*Newberry, J. S.*
+*Hay1*,3227,*Newberry, J. S.*
+*Hay1*,3228,*Newberry, J. S.*
+*Hay1*,3229,*Newberry, J. S.*
+*Hay1*,3230,*Newberry, J. S.*
+*Hay1*,3231,*Newberry, J. S.*
+*Hay1*,3232,*Newberry, J. S.*
+*Hay1*,3233,*Newberry, J. S.*
+*Hay1*,3234,*Newberry, J. S.*
+*Hay1*,3235,*Newberry, J. S.*
+*Hay1*,3236,*Newberry, J. S.*
+*Hay1*,3237,*Newberry, J. S.*
+*Hay1*,3238,*Newberry, J. S.*
+*Hay1*,3239,*Newberry, J. S.*
+*Hay1*,3240,*Newberry, J. S.*
+*Hay1*,3241,*Newberry, J. S.*
+*Hay1*,3242,*Newberry, J. S.*
+*Hay1*,3243,*Newberry, J. S.*
+*Hay1*,3244,*Newberry, J. S.*
+*Hay1*,3245,*Newberry, J. S.*
+*Hay1*,3246,*Newberry, J. S.*
+*Hay1*,3247,*Newberry, J. S.*
+*Hay1*,3247,*Worthen, A. H.*
+*Hay1*,3248,*Newberry, J. S.*
+*Hay1*,3248,*Worthen, A. H.*
+*Hay1*,3249,*Newton, Alfred*
+*Hay1*,3250,*Newton, Alfred*
+*Hay1*,3251,*Newton, Alfred*
+*Hay1*,3252,*Newton, Alfred*
+*Hay1*,3253,*Newton, Alfred*
+*Hay1*,3254,*Newton, Alfred*
+*Hay1*,3255,*Newton, E. T.*
+*Hay1*,3256,*Newton, E. T.*
+*Hay1*,3257,*Newton, E. T.*
+*Hay1*,3258,*Newton, E. T.*
+*Hay1*,3259,*Newton, E. T.*
+*Hay1*,3260,*Newton, E. T.*
+*Hay1*,3261,*Newton, E. T.*
+*Hay1*,3262,*Newton, E. T.*
+*Hay1*,3263,*Newton, E. T.*
+*Hay1*,3264,*Newton, E. T.*
+*Hay1*,3265,*Nicholson, Henry Allen*
+*Hay1*,3265,*Lydekker, Richard*
+*Hay1*,3266,*Nickerson, W. S.*
+*Hay1*,3267,*Nitsche, H.*
+*Hay1*,3268,*Nitsche, H.*
+*Hay1*,3269,*Noack, Th.*
+*Hay1*,3270,*Nodot, L.*
+*Hay1*,3271,*Noetling, Fritz*
+*Hay1*,3272,*Nopcsa, Franz B.*
+*Hay1*,3273,*Nordmann, Alex*
+*Hay1*,3274,*Norwood, J. G.*
+*Hay1*,3274,*Owen, D. D.*
+*Hay1*,3275,*Norwood, J. G.*
+*Hay1*,3275,*Owen, D. D.*
+*Hay1*,3276,*Oldham, Thomas*
+*Hay1*,3277,*Orr, Henry*
+*Hay1*,3278,*Orton, Edw.*
+*Hay1*,3279,*Orton, James*
+*Hay1*,3280,*Osawa, Gakutaro*
+*Hay1*,3281,*Osborn, H. F.*
+*Hay1*,3282,*Osborn, H. F.*
+*Hay1*,3283,*Osborn, H. F.*
+*Hay1*,3284,*Osborn, H. F.*
+*Hay1*,3285,*Osborn, H. F.*
+*Hay1*,3286,*Osborn, H. F.*
+*Hay1*,3287,*Osborn, H. F.*
+*Hay1*,3288,*Osborn, H. F.*
+*Hay1*,3289,*Osborn, H. F.*
+*Hay1*,3290,*Osborn, H. F.*
+*Hay1*,3291,*Osborn, H. F.*
+*Hay1*,3292,*Osborn, H. F.*
+*Hay1*,3293,*Osborn, H. F.*
+*Hay1*,3294,*Osborn, H. F.*
+*Hay1*,3295,*Osborn, H. F.*
+*Hay1*,3296,*Osborn, H. F.*
+*Hay1*,3297,*Osborn, H. F.*
+*Hay1*,3298,*Osborn, H. F.*
+*Hay1*,3299,*Osborn, H. F.*
+*Hay1*,3300,*Osborn, H. F.*
+*Hay1*,3301,*Osborn, H. F.*
+*Hay1*,3302,*Osborn, H. F.*
+*Hay1*,3303,*Osborn, H. F.*
+*Hay1*,3304,*Osborn, H. F.*
+*Hay1*,3305,*Osborn, H. F.*
+*Hay1*,3306,*Osborn, H. F.*
+*Hay1*,3307,*Osborn, H. F.*
+*Hay1*,3308,*Osborn, H. F.*
+*Hay1*,3309,*Osborn, H. F.*
+*Hay1*,3310,*Osborn, H. F.*
+*Hay1*,3311,*Osborn, H. F.*
+*Hay1*,3312,*Osborn, H. F.*
+*Hay1*,3313,*Osborn, H. F.*
+*Hay1*,3314,*Osborn, H. F.*
+*Hay1*,3315,*Osborn, H. F.*
+*Hay1*,3316,*Osborn, H. F.*
+*Hay1*,3317,*Osborn, H. F.*
+*Hay1*,3318,*Osborn, H. F.*
+*Hay1*,3319,*Osborn, H. F.*
+*Hay1*,3320,*Osborn, H. F.*
+*Hay1*,3321,*Osborn, H. F.*
+*Hay1*,3322,*Osborn, H. F.*
+*Hay1*,3323,*Osborn, H. F.*
+*Hay1*,3324,*Osborn, H. F.*
+*Hay1*,3325,*Osborn, H. F.*
+*Hay1*,3326,*Osborn, H. F.*
+*Hay1*,3327,*Osborn, H. F.*
+*Hay1*,3328,*Osborn, H. F.*
+*Hay1*,3329,*Osborn, H. F.*
+*Hay1*,3330,*Osborn, H. F.*
+*Hay1*,3331,*Osborn, H. F.*
+*Hay1*,3332,*Osborn, H. F.*
+*Hay1*,3333,*Osborn, H. F.*
+*Hay1*,3334,*Osborn, H. F.*
+*Hay1*,3335,*Osborn, H. F.*
+*Hay1*,3336,*Osborn, H. F.*
+*Hay1*,3337,*Osborn, H. F.*
+*Hay1*,3338,*Osborn, H. F.*
+*Hay1*,3339,*Osborn, H. F.*
+*Hay1*,3340,*Osborn, H. F.*
+*Hay1*,3341,*Osborn, H. F.*
+*Hay1*,3342,*Osborn, H. F.*
+*Hay1*,3343,*Osborn, H. F.*
+*Hay1*,3344,*Osborn, H. F.*
+*Hay1*,3345,*Osborn, H. F.*
+*Hay1*,3346,*Osborn, H. F.*
+*Hay1*,3347,*Osborn, H. F.*
+*Hay1*,3348,*Osborn, H. F.*
+*Hay1*,3349,*Osborn, H. F.*
+*Hay1*,3350,*Osborn, H. F.*
+*Hay1*,3351,*Osborn, H. F.*
+*Hay1*,3352,*Osborn, H. F.*
+*Hay1*,3353,*Osborn, H. F.*
+*Hay1*,3354,*Osborn, H. F.*
+*Hay1*,3355,*Osborn, H. F.*
+*Hay1*,3356,*Osborn, H. F.*
+*Hay1*,3357,*Osborn, H. F.*
+*Hay1*,3358,*Osborn, H. F.*
+*Hay1*,3359,*Osborn, H. F.*
+*Hay1*,3360,*Osborn, H. F.*
+*Hay1*,3361,*Osborn, H. F.*
+*Hay1*,3362,*Osborn, H. F.*
+*Hay1*,3363,*Osborn, H. F.*
+*Hay1*,3364,*Osborn, H. F.*
+*Hay1*,3365,*Osborn, H. F.*
+*Hay1*,3366,*Osborn, H. F.*
+*Hay1*,3367,*Osborn, H. F.*
+*Hay1*,3368,*Osborn, H. F.*
+*Hay1*,3369,*Osborn, H. F.*
+*Hay1*,3370,*Osborn, H. F.*
+*Hay1*,3371,*Osborn, H. F.*
+*Hay1*,3372,*Osborn, H. F.*
+*Hay1*,3373,*Osborn, H. F.*
+*Hay1*,3374,*Osborn, H. F.*
+*Hay1*,3375,*Osborn, H. F.*
+*Hay1*,3376,*Osborn, H. F.*
+*Hay1*,3377,*Osborn, H. F.*
+*Hay1*,3378,*Osborn, H. F.*
+*Hay1*,3379,*Osborn, H. F.*
+*Hay1*,3380,*Osborn, H. F.*
+*Hay1*,3381,*Osborn, H. F.*
+*Hay1*,3382,*Osborn, H. F.*
+*Hay1*,3383,*Osborn, H. F.*
+*Hay1*,3383,*Earle, Charles*
+*Hay1*,3384,*Osborn, H. F.*
+*Hay1*,3384,*Scott, W. B.*
+*Hay1*,3384,*Speir, Francis, jr.*
+*Hay1*,3385,*Osborn, H. F.*
+*Hay1*,3385,*Speir, F. jr.*
+*Hay1*,3386,*Osborn, H. F.*
+*Hay1*,3386,*Osborn, H. F.*
+*Hay1*,3387,*Osborn, H. F.*
+*Hay1*,3387,*Wortman, J. L.*
+*Hay1*,3388,*Osborn, H. F.*
+*Hay1*,3388,*Wortman, J. L.*
+*Hay1*,3389,*Osborn, H. F.*
+*Hay1*,3389,*Wortman, J. L.*
+*Hay1*,3390,*Osborn, H. F.*
+*Hay1*,3390,*Wortman, J. L.*
+*Hay1*,3391,*Owen, David Dale*
+*Hay1*,3392,*Owen, David Dale*
+*Hay1*,3393,*Owen, D. D.*
+*Hay1*,3393,*Norwood, J. G.*
+*Hay1*,3393,*Evans, John*
+*Hay1*,3394,*Owen, Richard*
+*Hay1*,3395,*Owen, Richard*
+*Hay1*,3396,*Owen, Richard*
+*Hay1*,3397,*Owen, Richard*
+*Hay1*,3398,*Owen, Richard*
+*Hay1*,3399,*Owen, Richard*
+*Hay1*,3400,*Owen, Richard*
+*Hay1*,3401,*Owen, Richard*
+*Hay1*,3402,*Owen, Richard*
+*Hay1*,3403,*Owen, Richard*
+*Hay1*,3404,*Owen, Richard*
+*Hay1*,3405,*Owen, Richard*
+*Hay1*,3406,*Owen, Richard*
+*Hay1*,3407,*Owen, Richard*
+*Hay1*,3408,*Owen, Richard*
+*Hay1*,3409,*Owen, Richard*
+*Hay1*,3410,*Owen, Richard*
+*Hay1*,3411,*Owen, Richard*
+*Hay1*,3412,*Owen, Richard*
+*Hay1*,3413,*Owen, Richard*
+*Hay1*,3414,*Owen, Richard*
+*Hay1*,3415,*Owen, Richard*
+*Hay1*,3416,*Owen, Richard*
+*Hay1*,3417,*Owen, Richard*
+*Hay1*,3418,*Owen, Richard*
+*Hay1*,3419,*Owen, Richard*
+*Hay1*,3420,*Owen, Richard*
+*Hay1*,3421,*Owen, Richard*
+*Hay1*,3422,*Owen, Richard*
+*Hay1*,3423,*Owen, Richard*
+*Hay1*,3424,*Owen, Richard*
+*Hay1*,3425,*Owen, Richard*
+*Hay1*,3426,*Owen, Richard*
+*Hay1*,3427,*Owen, Richard*
+*Hay1*,3428,*Owen, Richard*
+*Hay1*,3429,*Owen, Richard*
+*Hay1*,3430,*Owen, Richard*
+*Hay1*,3431,*Owen, Richard*
+*Hay1*,3432,*Owen, Richard*
+*Hay1*,3433,*Owen, Richard*
+*Hay1*,3434,*Owen, Richard*
+*Hay1*,3435,*Owen, Richard*
+*Hay1*,3436,*Owen, Richard*
+*Hay1*,3437,*Owen, Richard*
+*Hay1*,3438,*Owen, Richard*
+*Hay1*,3439,*Owen, Richard*
+*Hay1*,3440,*Owen, Richard*
+*Hay1*,3441,*Owen, Richard*
+*Hay1*,3442,*Owen, Richard*
+*Hay1*,3443,*Owen, Richard*
+*Hay1*,3444,*Owen, Richard*
+*Hay1*,3445,*Owen, Richard*
+*Hay1*,3446,*Owen, Richard*
+*Hay1*,3447,*Owen, Richard*
+*Hay1*,3448,*Owen, Richard*
+*Hay1*,3449,*Owen, Richard*
+*Hay1*,3450,*Owen, Richard*
+*Hay1*,3451,*Owen, Richard*
+*Hay1*,3452,*Owen, Richard*
+*Hay1*,3453,*Owen, Richard*
+*Hay1*,3454,*Owen, Richard*
+*Hay1*,3455,*Owen, Richard*
+*Hay1*,3456,*Owen, Richard*
+*Hay1*,3457,*Owen, Richard*
+*Hay1*,3458,*Owen, Richard*
+*Hay1*,3459,*Owen, Richard*
+*Hay1*,3460,*Owen, Richard*
+*Hay1*,3461,*Owen, Richard*
+*Hay1*,3462,*Owen, Richard*
+*Hay1*,3463,*Owen, Richard*
+*Hay1*,3464,*Owen, Richard*
+*Hay1*,3465,*Owen, Richard*
+*Hay1*,3466,*Owen, Richard*
+*Hay1*,3467,*Owen, Richard*
+*Hay1*,3468,*Owen, Richard*
+*Hay1*,3469,*Owen, Richard*
+*Hay1*,3470,*Owen, Richard*
+*Hay1*,3471,*Owen, Richard*
+*Hay1*,3472,*Owen, Richard*
+*Hay1*,3473,*Owen, Richard*
+*Hay1*,3474,*Owen, Richard*
+*Hay1*,3475,*Owen, Richard*
+*Hay1*,3476,*Owen, Richard*
+*Hay1*,3477,*Owen, Richard*
+*Hay1*,3478,*Owen, Richard*
+*Hay1*,3479,*Owen, Richard*
+*Hay1*,3480,*Owen, Richard*
+*Hay1*,3481,*Owen, Richard*
+*Hay1*,3482,*Owen, Richard*
+*Hay1*,3483,*Owen, Richard*
+*Hay1*,3484,*Owen, Richard*
+*Hay1*,3485,*Owen, Richard*
+*Hay1*,3486,*Owen, Richard*
+*Hay1*,3487,*Owen, Richard*
+*Hay1*,3488,*Owen, Richard*
+*Hay1*,3489,*Owen, Richard*
+*Hay1*,3490,*Owen, Richard*
+*Hay1*,3491,*Owen, Richard*
+*Hay1*,3492,*Owen, Richard*
+*Hay1*,3493,*Owen, Richard*
+*Hay1*,3494,*Owen, Richard*
+*Hay1*,3495,*Owen, Richard*
+*Hay1*,3496,*Owen, Richard*
+*Hay1*,3497,*Owen, Richard*
+*Hay1*,3498,*Owen, Richard*
+*Hay1*,3499,*Owen, Richard*
+*Hay1*,3500,*Owen, Richard*
+*Hay1*,3501,*Owen, Richard*
+*Hay1*,3502,*Owen, Richard*
+*Hay1*,3503,*Owen, Richard*
+*Hay1*,3504,*Owen, Richard*
+*Hay1*,3505,*Owen, Richard*
+*Hay1*,3506,*Owen, Richard*
+*Hay1*,3507,*Owen, Richard*
+*Hay1*,3508,*Owen, Richard*
+*Hay1*,3509,*Owen, Richard*
+*Hay1*,3510,*Owen, Richard*
+*Hay1*,3511,*Owen, Richard*
+*Hay1*,3512,*Owen, Richard*
+*Hay1*,3513,*Owen, Richard*
+*Hay1*,3514,*Owen, Richard*
+*Hay1*,3515,*Owen, Richard*
+*Hay1*,3516,*Owen, Richard*
+*Hay1*,3517,*Owen, Richard*
+*Hay1*,3518,*Owen, Richard*
+*Hay1*,3519,*Owen, Richard*
+*Hay1*,3520,*Owen, Richard*
+*Hay1*,3521,*Owen, Richard*
+*Hay1*,3522,*Owen, Richard*
+*Hay1*,3523,*Owen, Richard*
+*Hay1*,3524,*Owen, Richard*
+*Hay1*,3525,*Packard, A. S.*
+*Hay1*,3526,*Packard, A. S.*
+*Hay1*,3527,*Packard, A. S.*
+*Hay1*,3528,*Palmer, T. S.*
+*Hay1*,3529,*Palmer, T. S.*
+*Hay1*,3530,*Palmer, T. S.*
+*Hay1*,3531,*Pander, Christ. H.*
+*Hay1*,3532,*Pander, Christ. H.*
+*Hay1*,3533,*Pander, Christ. H.*
+*Hay1*,3534,*Pander, Christ. H.*
+*Hay1*,3535,*Pander, C. H.*
+*Hay1*,3535,*d'Alton, Ed.*
+*Hay1*,3536,*Panton, J. Hoyes*
+*Hay1*,3537,*Panton, J. Hoyes*
+*Hay1*,3538,*Paquier, V.*
+*Hay1*,3539,*Parker, H. W.*
+*Hay1*,3540,*Parker, H. W.*
+*Hay1*,3541,*Parker, T. Jeffrey*
+*Hay1*,3542,*Parker, T. Jeffrey*
+*Hay1*,3543,*Parker, T. Jeffrey*
+*Hay1*,3544,*Parker, W. K.*
+*Hay1*,3545,*Parker, W. K.*
+*Hay1*,3546,*Parker, W. K.*
+*Hay1*,3547,*Parker, W. K.*
+*Hay1*,3548,*Parker, W. K.*
+*Hay1*,3549,*Parker, W. K.*
+*Hay1*,3550,*Parker, W. K.*
+*Hay1*,3551,*Parker, W. K.*
+*Hay1*,3552,*Parker, W. K.*
+*Hay1*,3553,*Parker, W. K.*
+*Hay1*,3554,*Parker, W. K.*
+*Hay1*,3555,*Parker, W. K.*
+*Hay1*,3556,*Parker, W. K.*
+*Hay1*,3557,*Parker, W. K.*
+*Hay1*,3558,*Parker, W. K.*
+*Hay1*,3559,*Parker, W. K.*
+*Hay1*,3560,*Parker, W. K.*
+*Hay1*,3561,*Parker, W. K.*
+*Hay1*,3562,*Parker, W. K.*
+*Hay1*,3563,*Parker, W. K.*
+*Hay1*,3564,*Parker, W. K.*
+*Hay1*,3565,*Parker, W. K.*
+*Hay1*,3566,*Parker, W. K.*
+*Hay1*,3567,*Parker, W. K.*
+*Hay1*,3568,*Parker, W. K.*
+*Hay1*,3569,*Parker, W. K.*
+*Hay1*,3570,*Parker, W. K.*
+*Hay1*,3571,*Parker, W. K.*
+*Hay1*,3572,*Parker, W. K.*
+*Hay1*,3573,*Parker, W. K.*
+*Hay1*,3574,*Parker, W. K.*
+*Hay1*,3575,*Parker, W. K.*
+*Hay1*,3576,*Parker, W. K.*
+*Hay1*,3577,*Parker, W. K.*
+*Hay1*,3578,*Parsons, F. G.*
+*Hay1*,3579,*Parsons, F. G.*
+*Hay1*,3580,*Patten, William*
+*Hay1*,3581,*Paulli, Simon*
+*Hay1*,3582,*Paulli, Simon*
+*Hay1*,3583,*Paulli, Simon*
+*Hay1*,3584,*Pavlow, A.*
+*Hay1*,3585,*Pavlow, Marie*
+*Hay1*,3586,*Pavlow, Marie*
+*Hay1*,3587,*Pavlow, Marie*
+*Hay1*,3588,*Pavlow, Marie*
+*Hay1*,3589,*Pavlow, Marie*
+*Hay1*,3590,*Pavlow, Marie*
+*Hay1*,3591,*Pavlow, Marie*
+*Hay1*,3592,*Pavlow, Marie*
+*Hay1*,3593,*Peale, Rembrandt*
+*Hay1*,3594,*Peale, Rembrandt*
+*Hay1*,3595,*Peale, Rembrandt*
+*Hay1*,3596,*Peale, Rembrandt*
+*Hay1*,3597,*Pearce, J. Chaning*
+*Hay1*,3598,*Pe%Adroni, P. M.*
+*Hay1*,3599,*Perkins, H. C.*
+*Hay1*,3600,*Perkins, H. C.*
+*Hay1*,3601,*Perrin, A.*
+*Hay1*,3602,*Perrin, A.*
+*Hay1*,3603,*Peters, Karl*
+*Hay1*,3604,*Peters, Karl*
+*Hay1*,3605,*Peters, Karl*
+*Hay1*,3606,*Peters, Karl*
+*Hay1*,3607,*Peters, Wilhelm*
+*Hay1*,3608,*Peters, Wilhelm*
+*Hay1*,3609,*Peters, Wilhelm*
+*Hay1*,3610,*Peters, Wilhelm*
+*Hay1*,3611,*Philippi, E.*
+*Hay1*,3612,*Pictet, F. J.*
+*Hay1*,3613,*Pictet, F. J.*
+*Hay1*,3614,*Pictet, F. J.*
+*Hay1*,3614,*Campiche, G.*
+*Hay1*,3615,*Pictet, F. J.*
+*Hay1*,3615,*Gaudin, C.*
+*Hay1*,3615,*Harpe, Ph. de la.*
+*Hay1*,3616,*Pictet, F. J.*
+*Hay1*,3616,*Humbert, Alois*
+*Hay1*,3617,*Pictet, F. J.*
+*Hay1*,3617,*Humbert, Alois*
+*Hay1*,3618,*Pictet, F. J.*
+*Hay1*,3618,*Jaccard, Auguste*
+*Hay1*,3619,*Plieninger, Th.*
+*Hay1*,3620,*Plieninger, Felix*
+*Hay1*,3621,*Plummer, John T.*
+*Hay1*,3622,*Pohlig, Hans*
+*Hay1*,3623,*Pohlig, Hans*
+*Hay1*,3624,*Pohlig, Hans*
+*Hay1*,3625,*Pohlig, Hans*
+*Hay1*,3626,*Pohlig, Hans*
+*Hay1*,3627,*Pohlig, Hans*
+*Hay1*,3628,*Pollard, E. C.*
+*Hay1*,3629,*Pollard, H. B.*
+*Hay1*,3630,*Pollard, H. B.*
+*Hay1*,3631,*Pollard, H. B.*
+*Hay1*,3632,*Pollard, H. B.*
+*Hay1*,3633,*Pomel, A.*
+*Hay1*,3634,*Pomel, A.*
+*Hay1*,3635,*Pomel, A.*
+*Hay1*,3636,*Pomel, A.*
+*Hay1*,3637,*Pomel, A.*
+*Hay1*,3638,*Pomel, A.*
+*Hay1*,3639,*Pomel, A.*
+*Hay1*,3640,*Pomel, A.*
+*Hay1*,3641,*Portis, Alessandro*
+*Hay1*,3642,*Portis, Alessandro*
+*Hay1*,3643,*Pouchet, Georges*
+*Hay1*,3644,*Pouchet, G.*
+*Hay1*,3644,*Beauregard, H.*
+*Hay1*,3645,*Powrie, James*
+*Hay1*,3646,*Powrie, James*
+*Hay1*,3647,*Powrie, James*
+*Hay1*,3648,*Powrie, James*
+*Hay1*,3649,*Powrie, James*
+*Hay1*,3649,*Lankester, E. Ray.*
+*Hay1*,3650,*Powrie, James*
+*Hay1*,3650,*Lankester, E. Ray.*
+*Hay1*,3651,*Preble, Edward A.*
+*Hay1*,3652,*Preyer, William*
+*Hay1*,3653,*Priem, F.*
+*Hay1*,3654,*Priem, F.*
+*Hay1*,3655,*Priem, F.*
+*Hay1*,3656,*Prime, A. J.*
+*Hay1*,3657,*Probst, J.*
+*Hay1*,3658,*Probst, J.*
+*Hay1*,3659,*Probst, J.*
+*Hay1*,3660,*Probst, J.*
+*Hay1*,3661,*Probst, J.*
+*Hay1*,3662,*Probst, J.*
+*Hay1*,3663,*Prout, H. A.*
+*Hay1*,3664,*Prout, H. A.*
+*Hay1*,3665,*Prout, H. A.*
+*Hay1*,3666,*Putnam, F. W.*
+*Hay1*,3667,*Putnam, F. W.*
+*Hay1*,3668,*Pycraft, W. P.*
+*Hay1*,3669,*Pycraft, W. P.*
+*Hay1*,3670,*Pycraft, W. P.*
+*Hay1*,3671,*Pycraft, W. P.*
+*Hay1*,3672,*Quart. Jour. Geol. Sci.*
+*Hay1*,3673,*Quenstedt, Fr. Aug*
+*Hay1*,3674,*Quenstedt, Fr. Aug*
+*Hay1*,3675,*Quenstedt, Fr. Aug*
+*Hay1*,3676,*Quenstedt, Fr. Aug*
+*Hay1*,3677,*Quenstedt, Fr. Aug*
+*Hay1*,3678,*Quenstedt, Fr. Aug*
+*Hay1*,3679,*Quenstedt, Fr. Aug*
+*Hay1*,3680,*Rapp, Wilhelm*
+*Hay1*,3681,*Rathke, Heinrich*
+*Hay1*,3682,*Redfield, John Howard*
+*Hay1*,3683,*Redfield, W. C.*
+*Hay1*,3684,*Redfield, W. C.*
+*Hay1*,3685,*Redfield, W. C.*
+*Hay1*,3686,*Redfield, W. C.*
+*Hay1*,3687,*Redfield, W. C.*
+*Hay1*,3688,*Redfield, W. C.*
+*Hay1*,3689,*Redfield, W. C.*
+*Hay1*,3690,*Redfield, W. C.*
+*Hay1*,3691,*Redfield, W. C.*
+*Hay1*,3692,*Reh, L.*
+*Hay1*,3693,*Reh, L.*
+*Hay1*,3694,*Reichenow, Anton*
+*Hay1*,3695,*Reichert, C. B.*
+*Hay1*,3696,*Reinhardt, J.*
+*Hay1*,3697,*Reinhardt, J.*
+*Hay1*,3698,*Reinhardt, J.*
+*Hay1*,3699,*Reinhardt, J.*
+*Hay1*,3700,*Reinhardt, J.*
+*Hay1*,3701,*Reis, Otto M.*
+*Hay1*,3702,*Reis, Otto M.*
+*Hay1*,3703,*Reis, Otto M.*
+*Hay1*,3704,*Reis, Otto M.*
+*Hay1*,3705,*Reis, Otto M.*
+*Hay1*,3706,*Reis, Otto M.*
+*Hay1*,3707,*Reis, Otto M.*
+*Hay1*,3708,*Reissner, E.*
+*Hay1*,3709,*Renevier, E.*
+*Hay1*,3710,*Reuss, August Em.*
+*Hay1*,3711,*Rhoads, Samuel N.*
+*Hay1*,3712,*Rhoads, Samuel N.*
+*Hay1*,3713,*Rhoads, Samuel N.*
+*Hay1*,3714,*Rhoads, Samuel N.*
+*Hay1*,3715,*Rice, Franklin P.*
+*Hay1*,3716,*Richardson, John*
+*Hay1*,3717,*Richardson, John*
+*Hay1*,3718,*Richardson, John*
+*Hay1*,3719,*Ridewood, W. G.*
+*Hay1*,3720,*Riese, Heinrich*
+*Hay1*,3721,*Riggs, Elmer S.*
+*Hay1*,3722,*Riggs, Elmer S.*
+*Hay1*,3723,*Riggs, Elmer S.*
+*Hay1*,3724,*Riggs, Elmer S.*
+*Hay1*,3725,*Riggs, Elmer S.*
+*Hay1*,3726,*Riley, Henry*
+*Hay1*,3726,*Stutchbury, Samuel*
+*Hay1*,3727,*Ringueberg, Eug. N. S.*
+*Hay1*,3728,*Roberts, G. E.*
+*Hay1*,3729,*Rochebrune, A. J.*
+*Hay1*,3730,*Rochebrune, A. J.*
+*Hay1*,3731,*Roemer, Ferdinand*
+*Hay1*,3732,*Roemer, Ferdinand*
+*Hay1*,3733,*Roemer, Ferdinand*
+*Hay1*,3734,*Roemer, Ferdinand*
+*Hay1*,3735,*Roemer, Ferdinand*
+*Hay1*,3736,*Roemer, Ferdinand*
+*Hay1*,3737,*Roemer, Ferdinand*
+*Hay1*,3738,*Ro%Fse, C.*
+*Hay1*,3739,*Ro%Fse, C.*
+*Hay1*,3740,*Ro%Fse, C.*
+*Hay1*,3741,*Ro%Fse, C.*
+*Hay1*,3742,*Ro%Fse, C.*
+*Hay1*,3743,*Ro%Fse, C.*
+*Hay1*,3744,*Ro%Fse, C.*
+*Hay1*,3745,*Ro%Fse, C.*
+*Hay1*,3746,*Ro%Fse, C.*
+*Hay1*,3747,*Ro%Fse, C.*
+*Hay1*,3748,*Ro%Fse, C.*
+*Hay1*,3749,*Ro%Fse, C.*
+*Hay1*,3750,*Ro%Fse, C.*
+*Hay1*,3750,*Bartels, O.*
+*Hay1*,3751,*Roger, Otto.*
+*Hay1*,3752,*Roger, Otto.*
+*Hay1*,3753,*Roger, Otto.*
+*Hay1*,3754,*Rogers, Henry D.*
+*Hay1*,3755,*Rogers, Henry D.*
+*Hay1*,3756,*Rogers, Henry D.*
+*Hay1*,3757,*Rogers, Henry D.*
+*Hay1*,3758,*Rogers, Henry D.*
+*Hay1*,3759,*Rogers, Henry D.*
+*Hay1*,3760,*Rohon, J. Victor*
+*Hay1*,3761,*Rohon, J. Victor*
+*Hay1*,3762,*Rohon, J. Victor*
+*Hay1*,3763,*Rohon, J. Victor*
+*Hay1*,3764,*Rohon, J. Victor*
+*Hay1*,3765,*Rohon, J. Victor*
+*Hay1*,3766,*Rohon, J. Victor*
+*Hay1*,3767,*Rohon, J. Victor*
+*Hay1*,3768,*Rohon, J. Victor*
+*Hay1*,3769,*Rohon, J. Victor*
+*Hay1*,3770,*Rohon, J. Victor*
+*Hay1*,3771,*Rohon, J. Victor*
+*Hay1*,3772,*Rohon, J. Victor*
+*Hay1*,3773,*Rohon, J. Victor*
+*Hay1*,3774,*Romanovski, G.*
+*Hay1*,3775,*Romanovski, G.*
+*Hay1*,3776,*Romanovski, G.*
+*Hay1*,3777,*Rosenberg, Emil*
+*Hay1*,3778,*Rouault, Marie*
+*Hay1*,3779,*Ru%Ftimeyer, L.*
+*Hay1*,3779,*Ruddick, W. H.*
+*Hay1*,3780,*Ru%Ftimeyer, L.*
+*Hay1*,3781,*Ru%Ftimeyer, L.*
+*Hay1*,3782,*Ru%Ftimeyer, L.*
+*Hay1*,3783,*Ru%Ftimeyer, L.*
+*Hay1*,3784,*Ru%Ftimeyer, L.*
+*Hay1*,3785,*Ru%Ftimeyer, L.*
+*Hay1*,3786,*Ru%Ftimeyer, L.*
+*Hay1*,3787,*Ru%Ftimeyer, L.*
+*Hay1*,3788,*Ru%Ftimeyer, L.*
+*Hay1*,3789,*Ru%Ftimeyer, L.*
+*Hay1*,3790,*Ru%Ftimeyer, L.*
+*Hay1*,3791,*Ru%Ftimeyer, L.*
+*Hay1*,3792,*Ru%Ftimeyer, L.*
+*Hay1*,3793,*Ru%Ftimeyer, L.*
+*Hay1*,3794,*Ru%Ftimeyer, L.*
+*Hay1*,3795,*Ru%Ftimeyer, L.*
+*Hay1*,3796,*Ru%Ftimeyer, L.*
+*Hay1*,3797,*Ru%Ftimeyer, L.*
+*Hay1*,3798,*Ru%Ftimeyer, L.*
+*Hay1*,3799,*Ru%Ftimeyer, L.*
+*Hay1*,3800,*Ru%Ftimeyer, L.*
+*Hay1*,3801,*Ryder, John A.*
+*Hay1*,3802,*Ryder, John A.*
+*Hay1*,3803,*Ryder, John A.*
+*Hay1*,3804,*Ryder, John A.*
+*Hay1*,3805,*Ryder, John A.*
+*Hay1*,3806,*Ryder, John A.*
+*Hay1*,3807,*Ryder, John A.*
+*Hay1*,3808,*Ryder, John A.*
+*Hay1*,3809,*Ryder, John A.*
+*Hay1*,3810,*Ryder, John A.*
+*Hay1*,3811,*Ryder, John A.*
+*Hay1*,3812,*Ryder, John A.*
+*Hay1*,3813,*Safely, Robert*
+*Hay1*,3814,*Safford, J. M.*
+*Hay1*,3815,*Safford, J. M.*
+*Hay1*,3816,*Safford, J. M.*
+*Hay1*,3817,*Sagemehl, M.*
+*Hay1*,3818,*Sagemehl, M.*
+*Hay1*,3819,*Sagemehl, M.*
+*Hay1*,3820,*St. Hilaire, Geoffroy*
+*Hay1*,3821,*St. John, Orestes H.*
+*Hay1*,3822,*St. John, Orestes H.*
+*Hay1*,3823,*St. John, O. H.*
+*Hay1*,3823,*Worthen, A. H.*
+*Hay1*,3824,*St. John, O. H.*
+*Hay1*,3824,*Worthen, A. H.*
+*Hay1*,3825,*St. John, Samuel*
+*Hay1*,3826,*Salensky, W.*
+*Hay1*,3827,*Salter, J. W.*
+*Hay1*,3828,*Sanson, A.*
+*Hay1*,3829,*Saporta, Gaston de.*
+*Hay1*,3830,*Sauvage, H. E.*
+*Hay1*,3831,*Sauvage, H. E.*
+*Hay1*,3832,*Sauvage, H. E.*
+*Hay1*,3833,*Sauvage, H. E.*
+*Hay1*,3834,*Sauvage, H. E.*
+*Hay1*,3835,*Sauvage, H. E.*
+*Hay1*,3836,*Sauvage, H. E.*
+*Hay1*,3837,*Sauvage, H. E.*
+*Hay1*,3838,*Sauvage, H. E.*
+*Hay1*,3839,*Sauvage, H. E.*
+*Hay1*,3840,*Sauvage, H. E.*
+*Hay1*,3841,*Sauvage, H. E.*
+*Hay1*,3842,*Savage, J.*
+*Hay1*,3843,*Scheidt, Paul*
+*Hay1*,3844,*Schenk, F.*
+*Hay1*,3845,*Schlosser, M.*
+*Hay1*,3846,*Schlosser, M.*
+*Hay1*,3847,*Schlosser, M.*
+*Hay1*,3848,*Schlosser, M.*
+*Hay1*,3849,*Schlosser, M.*
+*Hay1*,3850,*Schlosser, M.*
+*Hay1*,3851,*Schlosser, M.*
+*Hay1*,3852,*Schlosser, M.*
+*Hay1*,3853,*Schlosser, M.*
+*Hay1*,3854,*Schlosser, M.*
+*Hay1*,3855,*Schlosser, M.*
+*Hay1*,3856,*Schlosser, M.*
+*Hay1*,3857,*Schlosser, M.*
+*Hay1*,3858,*Schlosser, M.*
+*Hay1*,3859,*Schlosser, M.*
+*Hay1*,3860,*Schlosser, M.*
+*Hay1*,3861,*Schlosser, M.*
+*Hay1*,3862,*Schlosser, M.*
+*Hay1*,3863,*Schlosser, M.*
+*Hay1*,3864,*Schlosser, M.*
+*Hay1*,3865,*Schlosser, M.*
+*Hay1*,3866,*Schlosser, M.*
+*Hay1*,3867,*Schlosser, M.*
+*Hay1*,3868,*Schlosser, M.*
+*Hay1*,3869,*Schlosser, M.*
+*Hay1*,3870,*Schlosser, M.*
+*Hay1*,3871,*Schlosser, M.*
+*Hay1*,3872,*Schlosser, M.*
+*Hay1*,3873,*Schlosser, M.*
+*Hay1*,3874,*Schlosser, M.*
+*Hay1*,3875,*Schlosser, M.*
+*Hay1*,3876,*Schlosser, M.*
+*Hay1*,3877,*Schlosser, M.*
+*Hay1*,3878,*Schlu%Fter, Clemens*
+*Hay1*,3879,*Schmidt, Friedrich*
+*Hay1*,3880,*Schmidt, Friedrich*
+*Hay1*,3881,*Schmidt, Friedrich*
+*Hay1*,3882,*Schmidt, Friedrich*
+*Hay1*,3883,*Schmidt, Friedrich*
+*Hay1*,3884,*Schmidt, Friedrich*
+*Hay1*,3885,*Schmidt, Oscar*
+*Hay1*,3886,*Schneider, Anton*
+*Hay1*,3887,*Schuchert, Charles*
+*Hay1*,3888,*Schulze, Eilhard*
+*Hay1*,3889,*Schwalbe, G.*
+*Hay1*,3890,*Science*
+*Hay1*,3891,*Science*
+*Hay1*,3892,*Science*
+*Hay1*,3893,*Scott, W. B.*
+*Hay1*,3894,*Scott, W. B.*
+*Hay1*,3895,*Scott, W. B.*
+*Hay1*,3896,*Scott, W. B.*
+*Hay1*,3897,*Scott, W. B.*
+*Hay1*,3898,*Scott, W. B.*
+*Hay1*,3899,*Scott, W. B.*
+*Hay1*,3900,*Scott, W. B.*
+*Hay1*,3901,*Scott, W. B.*
+*Hay1*,3902,*Scott, W. B.*
+*Hay1*,3903,*Scott, W. B.*
+*Hay1*,3904,*Scott, W. B.*
+*Hay1*,3905,*Scott, W. B.*
+*Hay1*,3906,*Scott, W. B.*
+*Hay1*,3907,*Scott, W. B.*
+*Hay1*,3908,*Scott, W. B.*
+*Hay1*,3909,*Scott, W. B.*
+*Hay1*,3910,*Scott, W. B.*
+*Hay1*,3911,*Scott, W. B.*
+*Hay1*,3912,*Scott, W. B.*
+*Hay1*,3913,*Scott, W. B.*
+*Hay1*,3914,*Scott, W. B.*
+*Hay1*,3915,*Scott, W. B.*
+*Hay1*,3916,*Scott, W. B.*
+*Hay1*,3917,*Scott, W. B.*
+*Hay1*,3918,*Scott, W. B.*
+*Hay1*,3919,*Scott, W. B.*
+*Hay1*,3920,*Scott, W. B.*
+*Hay1*,3921,*Scott, W. B.*
+*Hay1*,3922,*Scott, W. B.*
+*Hay1*,3923,*Scott, W. B.*
+*Hay1*,3924,*Scott, W. B.*
+*Hay1*,3925,*Scott, W. B.*
+*Hay1*,3926,*Scott, W. B.*
+*Hay1*,3927,*Scott, W. B.*
+*Hay1*,3928,*Scott, W. B.*
+*Hay1*,3929,*Scott, W. B.*
+*Hay1*,3930,*Scott, W. B.*
+*Hay1*,3931,*Scott, W. B.*
+*Hay1*,3932,*Scott, W. B.*
+*Hay1*,3933,*Scott, W. B.*
+*Hay1*,3934,*Scott, W. B.*
+*Hay1*,3935,*Scott, W. B.*
+*Hay1*,3936,*Scott, W. B.*
+*Hay1*,3937,*Scott, W. B.*
+*Hay1*,3938,*Scott, W. B.*
+*Hay1*,3939,*Scott, W. B.*
+*Hay1*,3940,*Scott, W. B.*
+*Hay1*,3941,*Scott, W. B.*
+*Hay1*,3942,*Scott, W. B.*
+*Hay1*,3943,*Scott, W. B.*
+*Hay1*,3944,*Scott, W. B.*
+*Hay1*,3944,*Osborn, H. F.*
+*Hay1*,3945,*Scott, W. B.*
+*Hay1*,3945,*Osborn, H. F.*
+*Hay1*,3946,*Scott, W. B.*
+*Hay1*,3946,*Osborn, H. F.*
+*Hay1*,3947,*Scott, W. B.*
+*Hay1*,3947,*Osborn, H. F.*
+*Hay1*,3948,*Scott, W. B.*
+*Hay1*,3948,*Osborn, H. F.*
+*Hay1*,3949,*Scott, W. B.*
+*Hay1*,3949,*Osborn, H. F.*
+*Hay1*,3950,*Scott, W. B.*
+*Hay1*,3950,*Osborn, H. F.*
+*Hay1*,3951,*Seebohm, Henry*
+*Hay1*,3952,*Seeley, Harry G.*
+*Hay1*,3953,*Seeley, Harry G.*
+*Hay1*,3954,*Seeley, Harry G.*
+*Hay1*,3955,*Seeley, Harry G.*
+*Hay1*,3956,*Seeley, Harry G.*
+*Hay1*,3957,*Seeley, Harry G.*
+*Hay1*,3958,*Seeley, Harry G.*
+*Hay1*,3959,*Seeley, Harry G.*
+*Hay1*,3960,*Seeley, Harry G.*
+*Hay1*,3961,*Seeley, Harry G.*
+*Hay1*,3962,*Seeley, Harry G.*
+*Hay1*,3963,*Seeley, Harry G.*
+*Hay1*,3964,*Seeley, Harry G.*
+*Hay1*,3965,*Seeley, Harry G.*
+*Hay1*,3966,*Seeley, Harry G.*
+*Hay1*,3967,*Seeley, Harry G.*
+*Hay1*,3968,*Seeley, Harry G.*
+*Hay1*,3969,*Seeley, Harry G.*
+*Hay1*,3970,*Seeley, Harry G.*
+*Hay1*,3971,*Seeley, Harry G.*
+*Hay1*,3972,*Seeley, Harry G.*
+*Hay1*,3973,*Seeley, Harry G.*
+*Hay1*,3974,*Seeley, Harry G.*
+*Hay1*,3975,*Seeley, Harry G.*
+*Hay1*,3976,*Seeley, Harry G.*
+*Hay1*,3977,*Seeley, Harry G.*
+*Hay1*,3978,*Seeley, Harry G.*
+*Hay1*,3979,*Seeley, Harry G.*
+*Hay1*,3980,*Seeley, Harry G.*
+*Hay1*,3981,*Seeley, Harry G.*
+*Hay1*,3982,*Seeley, Harry G.*
+*Hay1*,3983,*Seeley, Harry G.*
+*Hay1*,3984,*Seeley, Harry G.*
+*Hay1*,3985,*Seeley, Harry G.*
+*Hay1*,3986,*Seeley, Harry G.*
+*Hay1*,3987,*Seeley, Harry G.*
+*Hay1*,3988,*Seeley, Harry G.*
+*Hay1*,3989,*Segond, L. A.*
+*Hay1*,3990,*Segond, L. A.*
+*Hay1*,3991,*Segond, L. A.*
+*Hay1*,3992,*Segond, L. A.*
+*Hay1*,3993,*Selenka, Emil.*
+*Hay1*,3994,*Selwyn, Alfred R. C.*
+*Hay1*,3995,*Semon, Richard*
+*Hay1*,3996,*Serres, M.*
+*Hay1*,3997,*Serres, M.*
+*Hay1*,3998,*Shaler, N. S.*
+*Hay1*,3999,*Shaler, N. S.*
+*Hay1*,4000,*Shaler, N. S.*
+*Hay1*,4001,*Shepard, Charles Upham*
+*Hay1*,4002,*Sherborn, C. D.*
+*Hay1*,4002,*Shufeldt, R. W.*
+*Hay1*,4003,*Shufeldt, R. W.*
+*Hay1*,4004,*Shufeldt, R. W.*
+*Hay1*,4005,*Shufeldt, R. W.*
+*Hay1*,4006,*Shufeldt, R. W.*
+*Hay1*,4007,*Shufeldt, R. W.*
+*Hay1*,4008,*Shufeldt, R. W.*
+*Hay1*,4009,*Shufeldt, R. W.*
+*Hay1*,4010,*Shufeldt, R. W.*
+*Hay1*,4011,*Shufeldt, R. W.*
+*Hay1*,4012,*Shufeldt, R. W.*
+*Hay1*,4013,*Shufeldt, R. W.*
+*Hay1*,4014,*Shufeldt, R. W.*
+*Hay1*,4015,*Shufeldt, R. W.*
+*Hay1*,4016,*Shufeldt, R. W.*
+*Hay1*,4017,*Shufeldt, R. W.*
+*Hay1*,4018,*Shufeldt, R. W.*
+*Hay1*,4019,*Shufeldt, R. W.*
+*Hay1*,4020,*Shufeldt, R. W.*
+*Hay1*,4021,*Shufeldt, R. W.*
+*Hay1*,4022,*Shufeldt, R. W.*
+*Hay1*,4023,*Shufeldt, R. W.*
+*Hay1*,4024,*Shufeldt, R. W.*
+*Hay1*,4025,*Shufeldt, R. W.*
+*Hay1*,4026,*Shufeldt, R. W.*
+*Hay1*,4027,*Shufeldt, R. W.*
+*Hay1*,4028,*Shufeldt, R. W.*
+*Hay1*,4029,*Shufeldt, R. W.*
+*Hay1*,4030,*Shufeldt, R. W.*
+*Hay1*,4031,*Shufeldt, R. W.*
+*Hay1*,4032,*Shufeldt, R. W.*
+*Hay1*,4033,*Shufeldt, R. W.*
+*Hay1*,4034,*Shufeldt, R. W.*
+*Hay1*,4035,*Shufeldt, R. W.*
+*Hay1*,4036,*Shufeldt, R. W.*
+*Hay1*,4037,*Shufeldt, R. W.*
+*Hay1*,4038,*Shufeldt, R. W.*
+*Hay1*,4039,*Shufeldt, R. W.*
+*Hay1*,4040,*Shufeldt, R. W.*
+*Hay1*,4041,*Shufeldt, R. W.*
+*Hay1*,4042,*Shufeldt, R. W.*
+*Hay1*,4043,*Shurtleff, N. B.*
+*Hay1*,4044,*Sickler, F. K. L.*
+*Hay1*,4045,*Siebenrock, Friedrich*
+*Hay1*,4046,*Siebenrock, Friedrich*
+*Hay1*,4047,*Siebenrock, Friedrich*
+*Hay1*,4048,*Siebenrock, Friedrich*
+*Hay1*,4049,*Siebenrock, Friedrich*
+*Hay1*,4050,*Siebenrock, Friedrich*
+*Hay1*,4051,*Siebenrock, Friedrich*
+*Hay1*,4052,*Siebenrock, Friedrich*
+*Hay1*,4053,*Siebenrock, Friedrich*
+*Hay1*,4054,*Silliman, Benj., Sr.*
+*Hay1*,4055,*Silliman, Benj., Sr.*
+*Hay1*,4056,*Silliman, Benj., Jr.*
+*Hay1*,4057,*Sirodot, S.*
+*Hay1*,4058,*Sirodot, S.*
+*Hay1*,4059,*Sismonda, Eugenio*
+*Hay1*,4060,*Sixta, V.*
+*Hay1*,4061,*Skilton, Dr.*
+*Hay1*,4062,*Slade, D. D.*
+*Hay1*,4063,*Slade, D. D.*
+*Hay1*,4064,*Slade, D. D.*
+*Hay1*,4065,*Slade, D. D.*
+*Hay1*,4066,*Slade, D. D.*
+*Hay1*,4067,*Slade, D. D.*
+*Hay1*,4068,*Slade, D. D.*
+*Hay1*,4069,*Smith, Horace P.*
+*Hay1*,4070,*Smith, J.*
+*Hay1*,4071,*Smith, J. Augustine*
+*Hay1*,4072,*Smith, J. Lawrence*
+*Hay1*,4073,*Snow, F. H.*
+*Hay1*,4074,*Snow, F. H.*
+*Hay1*,4075,*Sollas, W. J.*
+*Hay1*,4076,*Speir, Francis*
+*Hay1*,4076,*Stainier, X.*
+*Hay1*,4077,*Stannius, H.*
+*Hay1*,4078,*Stannius, H.*
+*Hay1*,4079,*Stannius, H.*
+*Hay1*,4080,*Stannius, H.*
+*Hay1*,4081,*Stannius, H.*
+*Hay1*,4082,*Starks, Edwin Chapin*
+*Hay1*,4083,*Stecker, Anton*
+*Hay1*,4084,*Steenstrup, Jap.*
+*Hay1*,4085,*Stehlin, H. G.*
+*Hay1*,4086,*Stehlin, H. G.*
+*Hay1*,4087,*Steinmann, Gustav*
+*Hay1*,4087,*Do%Fderlein, Ludwig*
+*Hay1*,4088,*Steitz, Auguste*
+*Hay1*,4089,*Stejneger, Leonhard*
+*Hay1*,4090,*Stejneger, Leonhard*
+*Hay1*,4091,*Stejneger, Leonhard*
+*Hay1*,4092,*Stejneger, Leonhard*
+*Hay1*,4093,*Stejneger, Leonhard*
+*Hay1*,4094,*Stejneger, Leonhard*
+*Hay1*,4095,*Stejneger, L.*
+*Hay1*,4095,*Lucas, F. A.*
+*Hay1*,4096,*Steller, Georg Wilhelm*
+*Hay1*,4097,*Stephan, Pierre*
+*Hay1*,4098,*Sternberg, Charles*
+*Hay1*,4099,*Stevenson, W. D.*
+*Hay1*,4100,*Stewart, Alban*
+*Hay1*,4101,*Stewart, Alban*
+*Hay1*,4102,*Stewart, Alban*
+*Hay1*,4103,*Stewart, Alban*
+*Hay1*,4104,*Stewart, Alban*
+*Hay1*,4105,*Stewart, Alban*
+*Hay1*,4106,*Stewart, Alban*
+*Hay1*,4107,*Stewart, Alban*
+*Hay1*,4108,*Stewart, Alban*
+*Hay1*,4109,*Stewart, Alban*
+*Hay1*,4110,*Stewart, Alban*
+*Hay1*,4111,*Stewart, Alban*
+*Hay1*,4112,*Stewart, Thos. P.*
+*Hay1*,4113,*Stickler, L.*
+*Hay1*,4114,*Stirrup, Mark*
+*Hay1*,4115,*Stirrup, Mark*
+*Hay1*,4116,*Stock, Thos.*
+*Hay1*,4117,*Stock, Thos.*
+*Hay1*,4118,*Stock, Thos.*
+*Hay1*,4119,*Stock, Thos.*
+*Hay1*,4120,*Stock, Thos.*
+*Hay1*,4121,*Strauch, Alexander*
+*Hay1*,4122,*Struckmann, C.*
+*Hay1*,4123,*Stru%Fver, Johannes*
+*Hay1*,4124,*Struthers, John*
+*Hay1*,4125,*Struthers, John*
+*Hay1*,4126,*Struthers, John*
+*Hay1*,4127,*Struthers, John*
+*Hay1*,4128,*Struthers, John*
+*Hay1*,4129,*Struthers, John*
+*Hay1*,4130,*Struthers, John*
+*Hay1*,4131,*Struthers, John*
+*Hay1*,4132,*Struthers, John*
+*Hay1*,4133,*Swallow, G. C.*
+*Hay1*,4134,*T. R. D.*
+*Hay1*,4135,*T. R. J.*
+*Hay1*,4136,*Taeker, Julius*
+*Hay1*,4137,*Teller, Friedrich*
+*Hay1*,4138,*Teller, Friedrich*
+*Hay1*,4139,*Thacher, James K.*
+*Hay1*,4140,*Thacher, James K.*
+*Hay1*,4141,*The%Avenin, Armand*
+*Hay1*,4142,*The%Avenin, Armand*
+*Hay1*,4143,*Thilenius, G.*
+*Hay1*,4144,*Thomas, Oldfield*
+*Hay1*,4145,*Thomas, Oldfield*
+*Hay1*,4146,*Thomas, Oldfield*
+*Hay1*,4147,*Thomas, Oldfield*
+*Hay1*,4148,*Thomas, Oldfield*
+*Hay1*,4149,*Thomas, Oldfield*
+*Hay1*,4150,*Thomas, O.*
+*Hay1*,4150,*Lydekker, R.*
+*Hay1*,4151,*Thompson, D'Arcy W.*
+*Hay1*,4152,*Thompson, D'Arcy W.*
+*Hay1*,4153,*Thompson, D'Arcy W.*
+*Hay1*,4154,*Thompson, James*
+*Hay1*,4155,*Thompson, James*
+*Hay1*,4156,*Thompson, James*
+*Hay1*,4157,*Thompson, J. Arthur*
+*Hay1*,4158,*Thompson, Zadock*
+*Hay1*,4159,*Thompson, Zadock*
+*Hay1*,4160,*Thompson, Zadock*
+*Hay1*,4161,*Tims, H. W. Marett*
+*Hay1*,4162,*Tims, H. W. Marett*
+*Hay1*,4163,*Todd, Albert*
+*Hay1*,4164,*Toll, Eduard*
+*Hay1*,4165,*Tomes, Charles S.*
+*Hay1*,4166,*Tomes, John*
+*Hay1*,4167,*Topinard, Paul*
+*Hay1*,4168,*Tornier, Gustav*
+*Hay1*,4169,*Tornier, Gustav*
+*Hay1*,4170,*Tornier, Gustav*
+*Hay1*,4171,*Toula, Franz*
+*Hay1*,4172,*Toula, Franz*
+*Hay1*,4173,*Toula, Franz*
+*Hay1*,4173,*Kail, J. A.*
+*Hay1*,4174,*Traquair, R. H.*
+*Hay1*,4175,*Traquair, R. H.*
+*Hay1*,4176,*Traquair, R. H.*
+*Hay1*,4177,*Traquair, R. H.*
+*Hay1*,4178,*Traquair, R. H.*
+*Hay1*,4179,*Traquair, R. H.*
+*Hay1*,4180,*Traquair, R. H.*
+*Hay1*,4181,*Traquair, R. H.*
+*Hay1*,4182,*Traquair, R. H.*
+*Hay1*,4183,*Traquair, R. H.*
+*Hay1*,4184,*Traquair, R. H.*
+*Hay1*,4185,*Traquair, R. H.*
+*Hay1*,4186,*Traquair, R. H.*
+*Hay1*,4187,*Traquair, R. H.*
+*Hay1*,4188,*Traquair, R. H.*
+*Hay1*,4189,*Traquair, R. H.*
+*Hay1*,4190,*Traquair, R. H.*
+*Hay1*,4191,*Traquair, R. H.*
+*Hay1*,4192,*Traquair, R. H.*
+*Hay1*,4193,*Traquair, R. H.*
+*Hay1*,4194,*Traquair, R. H.*
+*Hay1*,4195,*Traquair, R. H.*
+*Hay1*,4196,*Traquair, R. H.*
+*Hay1*,4197,*Traquair, R. H.*
+*Hay1*,4198,*Traquair, R. H.*
+*Hay1*,4199,*Traquair, R. H.*
+*Hay1*,4200,*Traquair, R. H.*
+*Hay1*,4201,*Traquair, R. H.*
+*Hay1*,4202,*Traquair, R. H.*
+*Hay1*,4203,*Traquair, R. H.*
+*Hay1*,4204,*Traquair, R. H.*
+*Hay1*,4205,*Traquair, R. H.*
+*Hay1*,4206,*Traquair, R. H.*
+*Hay1*,4207,*Traquair, R. H.*
+*Hay1*,4208,*Traquair, R. H.*
+*Hay1*,4209,*Traquair, R. H.*
+*Hay1*,4210,*Traquair, R. H.*
+*Hay1*,4211,*Traquair, R. H.*
+*Hay1*,4212,*Traquair, R. H.*
+*Hay1*,4213,*Traquair, R. H.*
+*Hay1*,4214,*Traquair, R. H.*
+*Hay1*,4215,*Traquair, R. H.*
+*Hay1*,4216,*Traquair, R. H.*
+*Hay1*,4217,*Traquair, R. H.*
+*Hay1*,4218,*Traquair, R. H.*
+*Hay1*,4219,*Traquair, R. H.*
+*Hay1*,4220,*Trautschold, H.*
+*Hay1*,4221,*Trautschold, H.*
+*Hay1*,4222,*Trautschold, H.*
+*Hay1*,4223,*Trautschold, H.*
+*Hay1*,4224,*Trautschold, H.*
+*Hay1*,4225,*Trautschold, H.*
+*Hay1*,4226,*Trautschold, H.*
+*Hay1*,4227,*Trautschold, H.*
+*Hay1*,4228,*Trautschold, H.*
+*Hay1*,4229,*Trautschold, H.*
+*Hay1*,4230,*Trautschold, H.*
+*Hay1*,4231,*Trautschold, H.*
+*Hay1*,4232,*Trautschold, H.*
+*Hay1*,4233,*Treuenfels, Paul*
+*Hay1*,4234,*Troost, G.*
+*Hay1*,4235,*Troschel, F. H.*
+*Hay1*,4236,*Trouessart, E. L.*
+*Hay1*,4237,*Trouessart, E. L.*
+*Hay1*,4238,*Trouessart, E. L.*
+*Hay1*,4239,*Trouessart, E. L.*
+*Hay1*,4240,*Trouessart, E. L.*
+*Hay1*,4241,*True, Frederick W.*
+*Hay1*,4242,*True, Frederick W.*
+*Hay1*,4243,*True, Frederick W.*
+*Hay1*,4244,*Tscherski, J. D.*
+*Hay1*,4245,*Tullberg, Tycho*
+*Hay1*,4246,*Tuomey, M.*
+*Hay1*,4247,*Tuomey, M.*
+*Hay1*,4248,*Tuomey, M.*
+*Hay1*,4249,*Tuomey, M.*
+*Hay1*,4250,*Tuomey, M.*
+*Hay1*,4251,*Turner, George*
+*Hay1*,4252,*Turner, H. N., jr.*
+*Hay1*,4253,*Turner, H. N., jr.*
+*Hay1*,4254,*Turner, H. N., jr.*
+*Hay1*,4255,*Turner, H. N., jr.*
+*Hay1*,4256,*Turner, H. N., jr.*
+*Hay1*,4257,*Turner, William*
+*Hay1*,4258,*Ubaghs, Casimir*
+*Hay1*,4259,*Udden, J. A.*
+*Hay1*,4260,*Udden, J. A.*
+*Hay1*,4261,*Underwood, Lucien*
+*Hay1*,4262,*Ussow, S. A.*
+*Hay1*,4263,*Ussow, S. A.*
+*Hay1*,4264,*Vaillant, Le%Aon*
+*Hay1*,4265,*Vaillant, Le%Aon*
+*Hay1*,4266,*Vaillant, Le%Aon*
+*Hay1*,4267,*Van Beneden, P. J.*
+*Hay1*,4268,*Van Beneden, P. J.*
+*Hay1*,4269,*Van Beneden, P. J.*
+*Hay1*,4270,*Van Beneden, P. J.*
+*Hay1*,4271,*Van Beneden, P. J.*
+*Hay1*,4272,*Van Beneden, P. J.*
+*Hay1*,4273,*Van Beneden, P. J.*
+*Hay1*,4274,*Van Beneden, P. J.*
+*Hay1*,4275,*Van Beneden, P. J.*
+*Hay1*,4276,*Van Beneden, P. J.*
+*Hay1*,4277,*Van Beneden, P. J.*
+*Hay1*,4278,*Van Beneden, P. J.*
+*Hay1*,4279,*Van Beneden, P. J.*
+*Hay1*,4280,*Van Beneden, P. J.*
+*Hay1*,4280,*Gervais, P.*
+*Hay1*,4281,*Van Beneden, P. J.*
+*Hay1*,4281,*Koninck, L. G. de*
+*Hay1*,4282,*Van Rensselaer, Jeremiah*
+*Hay1*,4283,*Van Rensselaer, Jeremiah*
+*Hay1*,4284,*Van Rensselaer, Jeremiah*
+*Hay1*,4285,*Van Wijhe, J. W.*
+*Hay1*,4286,*Vasseur, Gaston*
+*Hay1*,4287,*Vasseur, Gaston*
+*Hay1*,4288,*Vetter, Benjamin*
+*Hay1*,4289,*Vetter, Benjamin*
+*Hay1*,4290,*Vogt, Carl*
+*Hay1*,4291,*Voigt, Fr. S.*
+*Hay1*,4292,*Vrolik, A. J.*
+*Hay1*,4293,*Wagner, Andreas*
+*Hay1*,4294,*Wagner, Andreas*
+*Hay1*,4295,*Wagner, Andreas*
+*Hay1*,4296,*Wagner, Andreas*
+*Hay1*,4297,*Wagner, Andreas*
+*Hay1*,4298,*Wagner, Andreas*
+*Hay1*,4299,*Wagner, George*
+*Hay1*,4300,*Wagner, George*
+*Hay1*,4301,*Wailes, B. L. C.*
+*Hay1*,4302,*Walcott, C. D.*
+*Hay1*,4303,*Walcott, C. D.*
+*Hay1*,4304,*Walker, S. T.*
+*Hay1*,4305,*Walter, Ferdinand*
+*Hay1*,4306,*Wanner, Atreus*
+*Hay1*,4307,*Wanner, Atreus*
+*Hay1*,4308,*Ward, Henry A.*
+*Hay1*,4309,*Ward, Henry L.*
+*Hay1*,4310,*Ward, John*
+*Hay1*,4311,*Warren, John C.*
+*Hay1*,4312,*Warren, John C.*
+*Hay1*,4313,*Warren, John C.*
+*Hay1*,4314,*Warren, John C.*
+*Hay1*,4315,*Warren, John C.*
+*Hay1*,4316,*Warren, John C.*
+*Hay1*,4317,*Warren, John C.*
+*Hay1*,4318,*Warren, John C.*
+*Hay1*,4319,*Warren, John C.*
+*Hay1*,4320,*Warren, John C.*
+*Hay1*,4321,*Warren, John C.*
+*Hay1*,4322,*Waterhouse, G. R.*
+*Hay1*,4323,*Waterhouse, G. R.*
+*Hay1*,4324,*Weber, Max.*
+*Hay1*,4325,*Weber, Max.*
+*Hay1*,4326,*Weber, Max.*
+*Hay1*,4327,*Weber, Max.*
+*Hay1*,4328,*Weber, Max.*
+*Hay1*,4329,*Weber, Max.*
+*Hay1*,4330,*Weil, Richard*
+*Hay1*,4331,*Weithofer, Anton*
+*Hay1*,4332,*Weithofer, Anton*
+*Hay1*,4333,*Weithofer, Anton*
+*Hay1*,4334,*Weithofer, Anton*
+*Hay1*,4335,*Wellburn, Edgar D.*
+*Hay1*,4336,*Wellburn, Edgar D.*
+*Hay1*,4337,*Weller, Stuart*
+*Hay1*,4338,*West, H. H.*
+*Hay1*,4339,*Weyhe*
+*Hay1*,4340,*Wheatley, Charles M.*
+*Hay1*,4341,*Wheatley, Charles M.*
+*Hay1*,4342,*Wheatley, Charles M.*
+*Hay1*,4343,*Wheeler, William*
+*Hay1*,4344,*Wheeler, William Morton*
+*Hay1*,4345,*Whipple, S. H.*
+*Hay1*,4346,*White, C. A.*
+*Hay1*,4347,*White, C. A.*
+*Hay1*,4348,*White, Philip J.*
+*Hay1*,4349,*Whiteaves, J. F.*
+*Hay1*,4350,*Whiteaves, J. F.*
+*Hay1*,4351,*Whiteaves, J. F.*
+*Hay1*,4352,*Whiteaves, J. F.*
+*Hay1*,4353,*Whiteaves, J. F.*
+*Hay1*,4354,*Whiteaves, J. F.*
+*Hay1*,4355,*Whiteaves, J. F.*
+*Hay1*,4356,*Whiteaves, J. F.*
+*Hay1*,4357,*Whiteaves, J. F.*
+*Hay1*,4358,*Whiteaves, J. F.*
+*Hay1*,4359,*Whiteaves, J. F.*
+*Hay1*,4360,*Whiteaves, J. F.*
+*Hay1*,4361,*Whiteaves, J. F.*
+*Hay1*,4362,*Whiteaves, J. F.*
+*Hay1*,4363,*Whiteaves, J. F.*
+*Hay1*,4364,*Whitfield, R. P.*
+*Hay1*,4365,*Whitfield, R. P.*
+*Hay1*,4366,*Whitfield, R. P.*
+*Hay1*,4367,*Whitfield, R. P.*
+*Hay1*,4368,*Whitfield, R. P.*
+*Hay1*,4368,*Hovey, E. O.*
+*Hay1*,4369,*Whitney, J. D.*
+*Hay1*,4370,*Whitney, J. D.*
+*Hay1*,4371,*Whittlesey, Charles*
+*Hay1*,4372,*Whittlesey, Charles*
+*Hay1*,4373,*Wiedersheim, Robert*
+*Hay1*,4374,*Wiedersheim, Robert*
+*Hay1*,4375,*Wiedersheim, Robert*
+*Hay1*,4376,*Wiedersheim, Robert*
+*Hay1*,4377,*Wiedersheim, Robert*
+*Hay1*,4378,*Wiedersheim, Robert*
+*Hay1*,4379,*Wiedersheim, Robert*
+*Hay1*,4380,*Wiedersheim, Robert*
+*Hay1*,4381,*Wiedersheim, Robert*
+*Hay1*,4382,*Wiegmann, Fr. Aug.*
+*Hay1*,4383,*Wieland, George R.*
+*Hay1*,4384,*Wieland, George R.*
+*Hay1*,4385,*Wieland, George R.*
+*Hay1*,4386,*Wieland, George R.*
+*Hay1*,4387,*Wieland, George R.*
+*Hay1*,4388,*Wilckens, M.*
+*Hay1*,4389,*Wilckens, M.*
+*Hay1*,4390,*Wilckens, M.*
+*Hay1*,4391,*Wilckens, M.*
+*Hay1*,4392,*Wilckens, M.*
+*Hay1*,4393,*Wilckens, M.*
+*Hay1*,4394,*Wilckens, M.*
+*Hay1*,4395,*Wilckens, M.*
+*Hay1*,4396,*Wilder, B. G.*
+*Hay1*,4397,*Wilder, B. G.*
+*Hay1*,4398,*Wildermuth, H. A.*
+*Hay1*,4399,*Willemoes-Suhm, Rudolph*
+*Hay1*,4400,*Williams, Henry S.*
+*Hay1*,4401,*Williams, Henry S.*
+*Hay1*,4402,*Williams, Henry S.*
+*Hay1*,4403,*Williams, Henry S.*
+*Hay1*,4404,*Williams, Henry S.*
+*Hay1*,4405,*Williams, Herbert Upham*
+*Hay1*,4406,*Williamson, W. C.*
+*Hay1*,4407,*Williamson, W. C.*
+*Hay1*,4408,*Williston, S. W.*
+*Hay1*,4409,*Williston, S. W.*
+*Hay1*,4410,*Williston, S. W.*
+*Hay1*,4411,*Williston, S. W.*
+*Hay1*,4412,*Williston, S. W.*
+*Hay1*,4413,*Williston, S. W.*
+*Hay1*,4414,*Williston, S. W.*
+*Hay1*,4415,*Williston, S. W.*
+*Hay1*,4416,*Williston, S. W.*
+*Hay1*,4417,*Williston, S. W.*
+*Hay1*,4418,*Williston, S. W.*
+*Hay1*,4419,*Williston, S. W.*
+*Hay1*,4420,*Williston, S. W.*
+*Hay1*,4421,*Williston, S. W.*
+*Hay1*,4422,*Williston, S. W.*
+*Hay1*,4423,*Williston, S. W.*
+*Hay1*,4424,*Williston, S. W.*
+*Hay1*,4425,*Williston, S. W.*
+*Hay1*,4426,*Williston, S. W.*
+*Hay1*,4427,*Williston, S. W.*
+*Hay1*,4428,*Williston, S. W.*
+*Hay1*,4429,*Williston, S. W.*
+*Hay1*,4430,*Williston, S. W.*
+*Hay1*,4431,*Williston, S. W.*
+*Hay1*,4432,*Williston, S. W.*
+*Hay1*,4433,*Williston, S. W.*
+*Hay1*,4434,*Williston, S. W.*
+*Hay1*,4435,*Williston, S. W.*
+*Hay1*,4436,*Williston, S. W.*
+*Hay1*,4437,*Williston, S. W.*
+*Hay1*,4438,*Williston, S. W.*
+*Hay1*,4439,*Williston, S. W.*
+*Hay1*,4440,*Williston, S. W.*
+*Hay1*,4441,*Williston, S. W.*
+*Hay1*,4442,*Williston, S. W.*
+*Hay1*,4443,*Williston, S. W.*
+*Hay1*,4444,*Williston, S. W.*
+*Hay1*,4445,*Williston, S. W.*
+*Hay1*,4446,*Williston, S. W.*
+*Hay1*,4447,*Williston, S. W.*
+*Hay1*,4448,*Williston, S. W.*
+*Hay1*,4449,*Williston, S. W.*
+*Hay1*,4450,*Williston, S. W.*
+*Hay1*,4451,*Williston, S. W.*
+*Hay1*,4452,*Williston, S. W.*
+*Hay1*,4453,*Williston, S. W.*
+*Hay1*,4454,*Williston, S. W.*
+*Hay1*,4455,*Williston, S. W.*
+*Hay1*,4456,*Williston, S. W.*
+*Hay1*,4457,*Williston, S. W.*
+*Hay1*,4457,*Case, E. C.*
+*Hay1*,4458,*Willeston, S. W.*
+*Hay1*,4458,*Case, E. C.*
+*Hay1*,4459,*Wilson, J. T.*
+*Hay1*,4459,*Hill, J. P.*
+*Hay1*,4459,*Wilson, J. T.*
+*Hay1*,4460,*Wilson, Thomas*
+*Hay1*,4461,*Winchell, Alex*
+*Hay1*,4462,*Winchell, Alex*
+*Hay1*,4463,*Winckler, T. C.*
+*Hay1*,4464,*Winckler, T. C.*
+*Hay1*,4465,*Winckler, T. C.*
+*Hay1*,4466,*Winckler, T. C.*
+*Hay1*,4467,*Winckler, T. C.*
+*Hay1*,4468,*Windle, B. C. A.*
+*Hay1*,4468,*Humphreys, John*
+*Hay1*,4469,*Winge, Herluf*
+*Hay1*,4470,*Winge, Herluf*
+*Hay1*,4471,*Winge, Herluf*
+*Hay1*,4472,*Winge, Herluf*
+*Hay1*,4473,*Winge, Herluf*
+*Hay1*,4474,*Winge, Herluf*
+*Hay1*,4475,*Winslow, C. F.*
+*Hay1*,4476,*Winslow, C. F.*
+*Hay1*,4477,*Wislizenus, A.*
+*Hay1*,4478,*Wistar, Caspar*
+*Hay1*,4479,*Wistar, Caspar*
+*Hay1*,4480,*Woodhull, Alfred A.*
+*Hay1*,4481,*Woodward, A. S.*
+*Hay1*,4482,*Woodward, A. S.*
+*Hay1*,4483,*Woodward, A. S.*
+*Hay1*,4484,*Woodward, A. S.*
+*Hay1*,4485,*Woodward, A. S.*
+*Hay1*,4486,*Woodward, A. S.*
+*Hay1*,4487,*Woodward, A. S.*
+*Hay1*,4488,*Woodward, A. S.*
+*Hay1*,4489,*Woodward, A. S.*
+*Hay1*,4490,*Woodward, A. S.*
+*Hay1*,4491,*Woodward, A. S.*
+*Hay1*,4492,*Woodward, A. S.*
+*Hay1*,4493,*Woodward, A. S.*
+*Hay1*,4494,*Woodward, A. S.*
+*Hay1*,4495,*Woodward, A. S.*
+*Hay1*,4496,*Woodward, A. S.*
+*Hay1*,4497,*Woodward, A. S.*
+*Hay1*,4498,*Woodward, A. S.*
+*Hay1*,4499,*Woodward, A. S.*
+*Hay1*,4500,*Woodward, A. S.*
+*Hay1*,4501,*Woodward, A. S.*
+*Hay1*,4502,*Woodward, A. S.*
+*Hay1*,4503,*Woodward, A. S.*
+*Hay1*,4504,*Woodward, A. S.*
+*Hay1*,4505,*Woodward, A. S.*
+*Hay1*,4506,*Woodward, A. S.*
+*Hay1*,4507,*Woodward, A. S.*
+*Hay1*,4508,*Woodward, A. S.*
+*Hay1*,4509,*Woodward, A. S.*
+*Hay1*,4510,*Woodward, A. S.*
+*Hay1*,4511,*Woodward, A. S.*
+*Hay1*,4512,*Woodward, A. S.*
+*Hay1*,4513,*Woodward, A. S.*
+*Hay1*,4514,*Woodward, A. S.*
+*Hay1*,4515,*Woodward, A. S.*
+*Hay1*,4516,*Woodward, A. S.*
+*Hay1*,4517,*Woodward, A. S.*
+*Hay1*,4518,*Woodward, A. S.*
+*Hay1*,4519,*Woodward, A. S.*
+*Hay1*,4520,*Woodward, A. S.*
+*Hay1*,4521,*Woodward, A. S.*
+*Hay1*,4522,*Woodward, A. S.*
+*Hay1*,4523,*Woodward, A. S.*
+*Hay1*,4524,*Woodward, A. S.*
+*Hay1*,4525,*Woodward, A. S.*
+*Hay1*,4526,*Woodward, A. S.*
+*Hay1*,4527,*Woodward, A. S.*
+*Hay1*,4528,*Woodward, A. S.*
+*Hay1*,4529,*Woodward, A. S.*
+*Hay1*,4530,*Woodward, A. S.*
+*Hay1*,4531,*Woodward, A. S.*
+*Hay1*,4532,*Woodward, A. S.*
+*Hay1*,4533,*Woodward, A. S.*
+*Hay1*,4534,*Woodward, A. S.*
+*Hay1*,4535,*Woodward, A. S.*
+*Hay1*,4536,*Woodward, A. S.*
+*Hay1*,4537,*Woodward, A. S.*
+*Hay1*,4538,*Woodward, A. S.*
+*Hay1*,4539,*Woodward, A. S.*
+*Hay1*,4540,*Woodward, A. S.*
+*Hay1*,4541,*Woodward, A. S.*
+*Hay1*,4542,*Woodward, A. S.*
+*Hay1*,4543,*Woodward, A. S.*
+*Hay1*,4544,*Woodward, A. S.*
+*Hay1*,4545,*Woodward, A. S.*
+*Hay1*,4546,*Woodward, A. S.*
+*Hay1*,4547,*Woodward, A. S.*
+*Hay1*,4548,*Woodward, A. S.*
+*Hay1*,4549,*Woodward, A. S.*
+*Hay1*,4549,*Sherborn, C. D.*
+*Hay1*,4550,*Woodward, Henry*
+*Hay1*,4551,*Woodward, Henry*
+*Hay1*,4552,*Woodward, Henry*
+*Hay1*,4553,*Woodward, Henry*
+*Hay1*,4554,*Woodward, Henry*
+*Hay1*,4555,*Woodward, Henry*
+*Hay1*,4556,*Woodward, Henry*
+*Hay1*,4557,*Woodward, Henry*
+*Hay1*,4558,*Woodward, Henry*
+*Hay1*,4559,*Woodward, Henry*
+*Hay1*,4560,*Woodward, Henry*
+*Hay1*,4561,*Woodward, Henry*
+*Hay1*,4562,*Woodward, Henry*
+*Hay1*,4563,*Woodward, Henry*
+*Hay1*,4564,*Woodward, M. F.*
+*Hay1*,4565,*Woodward, M. F.*
+*Hay1*,4566,*Woodward, M. F.*
+*Hay1*,4567,*Woodward, M. F.*
+*Hay1*,4568,*Woodward, M. F.*
+*Hay1*,4569,*Woodworth, J. B.*
+*Hay1*,4570,*Woodworth, J. B.*
+*Hay1*,4571,*Woodworth, J. B.*
+*Hay1*,4572,*Woolworth, Samuel*
+*Hay1*,4573,*Worthen, A. H.*
+*Hay1*,4574,*Worthen, A. H.*
+*Hay1*,4575,*Wortman, J. L.*
+*Hay1*,4576,*Wortman, J. L.*
+*Hay1*,4577,*Wortman, J. L.*
+*Hay1*,4578,*Wortman, J. L.*
+*Hay1*,4579,*Wortman, J. L.*
+*Hay1*,4580,*Wortman, J. L.*
+*Hay1*,4581,*Wortman, J. L.*
+*Hay1*,4582,*Wortman, J. L.*
+*Hay1*,4583,*Wortman, J. L.*
+*Hay1*,4584,*Wortman, J. L.*
+*Hay1*,4585,*Wortman, J. L.*
+*Hay1*,4586,*Wortman, J. L.*
+*Hay1*,4587,*Wortman, J. L.*
+*Hay1*,4588,*Wortman, J. L.*
+*Hay1*,4589,*Wortman, J. L.*
+*Hay1*,4590,*Wortman, J. L.*
+*Hay1*,4591,*Wortman, J. L.*
+*Hay1*,4592,*Wortman, J. L.*
+*Hay1*,4593,*Wortman, J. L.*
+*Hay1*,4593,*Earle, Charles*
+*Hay1*,4594,*Wortman, J. L.*
+*Hay1*,4594,*Matthew, W. D.*
+*Hay1*,4595,*Wright, Albert A.*
+*Hay1*,4596,*Wright, Albert A.*
+*Hay1*,4597,*Wright, R. R.*
+*Hay1*,4598,*Wylie, T. A.*
+*Hay1*,4599,*Wyman, Jeffries*
+*Hay1*,4600,*Wyman, Jeffries*
+*Hay1*,4601,*Wyman, Jeffries*
+*Hay1*,4602,*Wyman, Jeffries*
+*Hay1*,4603,*Wyman, Jeffries*
+*Hay1*,4604,*Wyman, Jeffries*
+*Hay1*,4605,*Wyman, Jeffries*
+*Hay1*,4606,*Wyman, Jeffries*
+*Hay1*,4607,*Wyman, Jeffries*
+*Hay1*,4608,*Wyman, Jeffries*
+*Hay1*,4609,*Wyman, Jeffries*
+*Hay1*,4610,*Wyman, Jeffries*
+*Hay1*,4611,*Wyman, Jeffries*
+*Hay1*,4612,*Wyman, Jeffries*
+*Hay1*,4613,*Wyman, Jeffries*
+*Hay1*,4614,*Wyman, Jeffries*
+*Hay1*,4615,*Wyman, Jeffries*
+*Hay1*,4616,*Wyman, Jeffries*
+*Hay1*,4617,*Wyman, Jeffries*
+*Hay1*,4618,*Wyman, Jeffries*
+*Hay1*,4619,*Wyman, Jeffries*
+*Hay1*,4620,*Wyman, Jeffries*
+*Hay1*,4621,*Yates, L. G.*
+*Hay1*,4622,*Yates, L. G.*
+*Hay1*,4623,*Young, John*
+*Hay1*,4624,*Young, John*
+*Hay1*,4625,*Zigno, A de.*
+*Hay1*,4626,*Zilliken, J. E.*
+*Hay1*,4627,*Zittel, Karl A.*
+*Hay1*,4628,*Zittel, Karl A.*
+*Hay1*,4629,*Zittel, Karl A.*
+*Hay1*,4630,*Zittel, Dr. Karl A.*
+*Hay1*,4631,*Zittel, Dr. Karl A.*
+*Hay1*,4632,*Zittel, Dr. Karl A.*
+*Hay1*,4633,*Zograf, N.*
+*Hay1*,4634,*Zwick, Wilhelm*
+*Hay1*,4635,*Ballou, William H.*
+*Hay1*,4636,*Baur, G.*
+*Hay1*,4637,*Cope, E. D.*
+*Hay1*,4638,*Lucas, F. A.*
+*Hay1*,4639,*Lucas, F. A.*
+*Hay1*,4640,*Rohon, J. V.*
+*Hay1*,4641,*Rohon, J. V.*
+*Hay1*,4642,*Hay, Oliver Perry*
+

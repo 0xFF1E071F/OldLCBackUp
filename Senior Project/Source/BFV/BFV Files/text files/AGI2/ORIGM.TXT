@@ -1,0 +1,829 @@
+72,25598,*Die Definition der Zeiteinheit M (sub 1) (Eggenburgien)*
+72,25600,*Holostratotypus und Faziostratotypen des M (sub 1) Eggenburgien*
+72,25603,*Vertebrata (excl. Pisces) der Eggenburger Schichtengruppe*
+72,32461,*Les predecesseurs de l'homme moderne dans le Midi mediterraneen*
+72,32462,*Recentes decouvertes de squelettes humains a Qafzeh (Israel); essai d'interpretation*
+72,32463,*Quelques caracteres sapiens du crane de Petralona (resume)--Some sapiens features of the Petralona skull*
+72,32464,*Une decouverte de A. Debenath (resume)--A discovery made by A. Debenath*
+72,32465,*Sur l'ancetre le plus proche de l'Homo sapiens et le lieu de sa transformation en homme moderne*
+72,32467,*L'ancetre de l'homme du Paleolithique superieur, etait-il neandertalien?*
+72,32468,*L'evolution polycentrique de l'Homo sapiens*
+72,32474,*Les apports de la stratigraphie et de la typologie au probleme des origines de l'homme moderne dans le Maghreb*
+72,32476,*Environnement et culture de l'homme du Perigordien ancien dans le sud-ouest de la France; donnees recentes*
+72,32477,*Le Paleolithique superieur ancien dans le midi de la France*
+72,32479,*Rapports entre le Paleolithique moyen et le Paleolithique superieur en Europe centrale*
+72,32484,*Du Paleolithique moyen au Paleolithique superieur, continuite ou discontinuite?*
+72,32491,*Problemes du peuplement de l'Amerique a la lumiere des decouvertes de Tlapacoya (Mexique)*
+72,32492,*Dynamique des modifications naturelles dans le Pleistocene superieur et probleme du passage des neandertaliens a l'Homo sapiens*
+72,32494,*La reconstitution documentee de l'homme fossile et la formation de l'homme moderne*
+72,85062,*Die Fischfauna der Eggenburger Schichtengruppe*
+73,3959,*Pliopleistozaene Daten zur Aenderung der Hauptabdachung im Main-Gebiet, Sueddeutschland*
+73,5574,*Contribution a la connaissance du Quaternaire de la depression intracarpathique de Ciuc*
+73,5577,*Essai sur la chronologie du Quaternaire inferieur et moyen de Roumanie*
+73,5578,*La stratigraphie du Quaternaire superieur en Roumanie*
+73,5582,*Stratigraphie des depots quaternaires et geologie du Paleolithique au Sud de la partie europeenne de l'URSS*
+73,5659,*Etude anthropologique d'un squelette mesolithique provenant de la grotte Maritza (Avezzano, Abruzzo)*
+73,5883,*Vergleich zwischen den Ablagerungen des Verrucano in den Westalpen und des Rotliegenden in Sueddeutschland und Frankreich*
+73,6637,*Los Vertebrados fosiles de Torralba y Ambrona*
+73,6640,*Etude preliminaire de la faune du Djebel Qafzeh pres de Nazareth (Israel)*
+73,6642,*Le lion des cavernes; panthera (Leo) spelaea Goldfuss et son histoire dans l'Holarctique*
+73,6646,*Les etapes de l'evolution de la nature au Pleistocene dans l'hemisphere boreal et leurs rapports avec l'histoire de l'Homme prehistorique*
+73,6655,*Faut-il remplacer le terme Villafranchien par celui d'Arvernien?*
+73,6656,*Stratigraphie du Quaternaire dans la Vallee du Rhone*
+73,6663,*Nouvelles donnees sur le Villafranchien-type*
+73,6664,*Sur la limite inferieure du Quaternaire en Yougoslavie*
+73,6759,*Die Geschichte der Pleistozaenforschung an der Lokalitaet Stranska Skala (1910-1945)*
+73,6760,*Uebersicht der Geschichte von Forschungsarbeiten der Quartaersedimente in Gebiet von Stranska skala bei Brno*
+73,6763,*Die mittelpleistozaene Vogelfauna der Stranska skala*
+73,6766,*Die Caniden der Stranska skala*
+73,6767,*Die Baerzn der Stranska skala*
+73,6769,*Die Feliden (Carnivora) aus dem Pleistozaen von Stranska skala*
+73,6770,*Citellus (Rodentia) und lagomorpha aus del aelteren Aufsammlungen an der pleistozaenen Lokalitaet Stranska skala bei Brno (CSSR)*
+73,6771,*Die Hamster- und Zieselreste aus den Ablagerungen von Stranska skala bei Brno*
+73,6772,*Die Wuehlmaeuse (Microtidae, Mammalia) der aelteren Sammlungen aus Stranska skala bei Brno*
+73,6773,*Die Rhinocerotiden; reste der Stranska skala bei Brno*
+73,6775,*Die Elefantenueberreste der Lokalitaet Stranska skala*
+73,6776,*Die Pferdefunde der Lokalitaet Stranska skala*
+73,6777,*Die Cerviden; reste der Stranska skala bei Brno*
+73,9363,*Ostatki mlekopitayushchikh iz neogenovykh otlozheniy Moldavii*
+73,9364,*Ostatki mlekopitayushchikh iz Karagashskogo kar'yera*
+73,9365,*K istorii roda Lagomeryx*
+73,9366,*Ekologicheskaya kharakteristika gipparionovykh faun yuga SSSR*
+73,9367,*Ptitsy srednego sarmata Moldavii*
+73,9368,*Osobennosti stroyeniya i fatsial'nogo sostava terras nizhnego Pridnestrov'ya*
+73,10108,*Zametki k biostratigrafii pleystotsena*
+73,10109,*Novoye mestonakhozhdeniye tiraspol'skoy fauny bliz s. Malayeshty*
+73,10111,*Nekotoryye problemy stratigrafii antropogena*
+73,10112,*Stratigraficheskoye i nomenklaturnoye znacheniye ponyatiy "gyunts", "mindel", "riss"*
+73,10113,*O sledakh deyatel'nosti iskopayemykh gominid v otlozheniyakh eopleystotsena i rannego pleystotsena Yevropy*
+73,11000,*Novyye nakhodki ostatkov psammosteid iz Shvyantoyskogo gorizonta Latvii*
+73,11003,*Akuly semeystva Anacoracidae iz senomana i turona Litvy, Povolzh'ya i Sredney Azii*
+73,11008,*Novyy vid osteolepid iz srednego devona Latvii*
+73,19403,*Oeningian*
+73,19419,*Villafranchian*
+73,20095,*Le Pleistocene moyen (Mindel-Riss et Riss) a la grotte du Prince (Grimaldi, Ligurie italienne)*
+73,20795,*Empleo del escintilometro para el descubrimiento de restos de vertebrados*
+73,20815,*Las series continentales al E. de la Sierra de Altomira*
+73,22198,*Rapport sur les Vertebres; l'apport de la paleontologie des Vertebres a la stratigraphie*
+73,22199,*Les Squales (Cretace et Tertiaire); interet pour la stratigraphie et sa problematique*
+73,22200,*Les Reptiles Therapsides dans la stratigraphie du Permo-Trias continental; la serie de Beaufort (Afrique du Sud) et ses equivalents dans le monde*
+73,22201,*Un exemple d'analyse biometrique sur quelques lignees de Rongeurs et application a la datation d'un gisement (Bouzigues, Herault)*
+73,22202,*Le role des Rongeurs dans l'elaboration d'une biostratigraphie et d'une stratigraphie climatique fine du Quaternaire*
+73,22203,*Valeur stratigraphique des Mammiferes au Tertiaire*
+73,22204,*Les Mammiferes et le probleme des correlations a distance*
+73,22205,*Apports de la biometrie a la biostratigraphie des Mammiferes fossiles*
+73,22206,*Interet stratigraphique des Vertebres inferieurs*
+73,22207,*Un exemple de datation et de correlation stratigraphique base sur les Captorhinomorphes (Reptiles cotylosauriens)*
+73,22208,*Datation, zonation et Mammiferes*
+73,22209,*De l'apport des poissons holosteens a la stratigraphie*
+73,24118,*Apercu sur la macrofaune*
+73,24131,*Les equivalents continentaux de l'Aquitanien marin provencal et le classement de la zone de Paulhiac a la base du Miocene*
+73,24214,*Cuenca triasica de Ischigualasto-Villa Union (provincias de San Juan y La Rioja)*
+73,24216,*Cuenca de San Luis*
+73,31097,*Kristalline Bausteine und Mineralbestand von kalkigen Eischalen*
+73,31425,*Nizhniy devon Pribaltiki*
+73,31436,*Znacheniye pozvonochnykh dlya korrelyatsii siluriyskikh i nizhne-srednedevonskikh otlozheniy SSSR*
+73,31437,*Korrelyatsiya nizhnedevonskikh tolshch yugo-zapadnogo Taymyra i Sibirskoy platformy po brakhiopodam i pozvonochnym*
+73,31438,*Nizhniy devon Pol'shi*
+73,31822,*Novyye dannyye po stratigrafii nizhne- i srednetriasovykh otlozheniy Orenburgskogo i Bashkirskogo Priural'ya*
+73,32167,*Carnivores pleistocenes du ravin d'Olduvai (Tanzanie)*
+74,7844,*Usloviya zakhoroneniya kostey mlekopitayushchikh v otlozheniyakh Mamontovoy gory*
+74,7845,*Gryzuny iz pleystotsenovykh otlozheniy Mamontovoy gory*
+74,7846,*Pleystotsenovyye mlekopitayushchiye Mamontovoy gory (slony, nosorogi, oleni)*
+74,7847,*Ostatki iskopayemogo bizona iz otlozheniy razreza Mamontova gora*
+74,7848,*Iskopayemyye loshadi Mamontovoy gory*
+74,7849,*Ostatki bobra-trogonteriya iz mestorozhdeniy u s. Port-Katon i Liventsovskogo kar'yera v Priazov'ye i usloviya yego obitaniya*
+74,7850,*Verkhnepleystotsenovyye gryzuny kotloviny oz. Nero*
+74,8020,*Biostratigraphie des bassins tertiaires du Massif Central*
+74,8025,*La contribution du Massif Central volcanique a la chronologie du Quaternaire europeen*
+74,11524,*O vozraste allyuviya vtorykh terras Dnestra i Pruta*
+74,18288,*Tafonomiya ikhtiofauny v glinakh kar'yera Lode i nekotoryye voprosy paleogeografii Severnoy Latvii v rannefranskoye vremya*
+74,18357,*Ergebnisse palaeontologisch-stratigraphischer Untersuchungen in der Grenzbitumenzone (Mittlere Trias) des Monte San Giorgio (Kanton Tessin, Schweiz)*
+74,18847,*Predvaritel'noye sosbshcheniye o nakhodke ostatkov gryzunov v Bryanskoy pochve*
+74,21929,*Die Tetrapodenfaehrten aus dem Perm Europas*
+74,26867,*Nekotoryye dannyye o gerpetofaune srednego sarmata Moldavii*
+74,26868,*Novyy vid Hipparion iz srednego sarmata Moldavii*
+74,26878,*Novyye dannyye o vozraste vysokikh terras srednego Pridnestrov'ya*
+74,27286,*Sur un nouveau genre d'Arvicolides (Rodentia, Mammalia) du Pleistocene de Roumanie*
+74,27287,*Les genres Rattus et Lemmus (Rodentia, Mammalia) dans le Pleistocene de Roumanie*
+74,27288,*Remarques sur l'evolution des Castorides (Rodentia, Mammalia)*
+74,27289,*Les traces de vie de l'ours des cavernes (Ursus spelaeus) dans les grottes de Roumanie*
+74,38142,*Le Sundgau, aspect geologique et structural*
+74,38144,*Le Quaternaire du departement du Haut-Rhin*
+75,777,*Posledovatel'nost' i usloviya obrazovaniya neogen-chetvertichnogo kompleksa porod*
+75,1809,*Itogi issledovaniy iskopayemoy teriofauny yuzhnoy poloviny Kazakhstana*
+75,1810,*Novyye vidy melovykh ryb iz Taldysaya*
+75,1811,*Eotsenovyye Amiidae yugo-vostoka Kazakhstana*
+75,1812,*Novyy vid miotsenovoy cherepakhi yugo-vostoka Kazakhstana*
+75,1813,*Antropogenovyye slony yugo-vostochnoy chasti Kazakhstana*
+75,1814,*Pozdnepliotsenovyye zaytseobraznyye i gryzuny Kiikbaya*
+75,1815,*Novyy rod semeystva Lophialetidae iz eotsena Kazakhstana*
+75,1816,*Novyy gigantskiy verblyud iz pliotsenovykh otlozheniy Tekesskoy vpadiny*
+75,1817,*Iskopayemyye zhvachnyye Karabastuza*
+75,1825,*Golotipy, khranyashchiyesya v paleobiologicheskoy kollektsii Instituta zoologii AN KazSSR v g. Alma-Ata*
+75,2039,*El Cretacico superior del Montsec*
+75,2040,*El Maastrichtiense lagunar ("Garumniense") de Isona*
+75,3431,*Stratygrafia czwartorzedu Polski*
+75,3433,*Rozwoj fauny w czwartorzedzie Polski*
+75,3434,*Czlowiek paleolityczny; kultury archeologiczne plejstocenu Polski*
+75,3439,*Badanie szczatkow kopalnych kregowcow*
+75,3445,*Zastosowanie metody fluoro-chloro-apatytowej i kollagenowej w datowaniu kosci ssakow z osadow czwartorzedowych i trzeciorzedowych [system F-Cl-P-Coll.]*
+75,6290,*Speleologia, preistoria e ricerca paletnologica moderna*
+75,9209,*Ocherednaya zadacha Russkoy paleontologii*
+75,9210,*Nekotoryye uspekhi Russkoy paleontologii v oblasti pozvonochnykh*
+75,9211,*O novom predstavitele gigantskikh nosorogov iz oligotsena Azii, Indricotherium asiaticum n. g., n. sp*
+75,9212,*O podsemeystve Indricotheriinae Boriss.=Baluchitheriinae Osb*
+75,9213,*O novom napravlenii v adaptivnoy radiatsii mastodontov*
+75,9216,*Paleontologiya i Darvinizm*
+75,9217,*Vstupitel'noye slovo na otkrytii paleontologicheskoy sektsii Moskovskogo obshchestva ispytateley prirody*
+75,9218,*Osnovnyye zadachi evolyutsionnoy paleontologii*
+75,9219,*Problema filogeneza v paleontologii*
+75,9220,*Osnovnyye problemy evolyutsionnoy paleontologii*
+75,9221,*Zh. Kyuv'ye i yego nauchnoye znacheniye*
+75,9222,*Ch. Lyayel' i teoriya razvitiya*
+75,9223,*Charl'z Darvin i geologicheskaya letopis'*
+75,9224,*V. O. Kovalevskiy Vego zhizn' i nauchnyye trudy*
+75,9225,*Aleksandr Petrovich Karpinskiy*
+75,9226,*Geologiya i paleontologiya*
+75,9228,*Bud'te ostorozhny s nakhodkami iskopayemykh kostey*
+75,9229,*Russkiye okhotniki za iskopayemymi*
+75,9452,*Voprosy istorii iskopayemogo cheloveka na VIII kongresse INQUA vo Frantsii*
+75,9456,*Nekotoryye kostenosnyye mestonakhozhdeniya pozdnego kaynozoya severo-vostoka Frantsii*
+75,9457,*Geologicheskaya ekskursiya po territorii El'zasa i Burgundii*
+75,9675,*Evolution und Lebensgemeinschaft terrestrischer Tetrapoden nach ihren Faehrten in der Trias*
+75,9680,*Probleme der Triasgliederung und Parallelisierung der germanischen und tethyalen Trias Teil I; abgrenzung und Gliederung der Trias*
+75,9780,*L'archetipo del drago*
+75,9781,*I dinosauri*
+75,9782,*I dinosauri in Africa*
+75,9783,*Le ricerche paleontologiche italiane nel Niger*
+75,9784,*Il giacimento di Gadoufaoua*
+75,10679,*El problema de las oscilaciones climaticas en el Pleistoceno de Cuba*
+75,12411,*Nuovi importanti ritrovamenti nella "Buca dei Ladri"*
+75,13740,*Les problemes de la limite Pliocene-Quaternaire dans le bassin du Rhone*
+75,13741,*Stratigraphie, paleopedologie et paleogeographie des depots Plio-Pleistocenes languedociens*
+75,13743,*Les rongeurs du Languedoc et de l'Espagne, dans leurs rapports avec la faune et le climat de l'Europe, de l'"Astien" au debut du Pleistocene moyen*
+75,13744,*Application de la geodynamique au Plio-Pleistocene du Massif Central*
+75,13745,*Stratigraphie et paleoclimatologie du Pleistocene moyen (Mindel et Mindel-Riss)*
+75,13746,*Principaux gisements paleontologiques francais du Pleistocene moyen; essai de classification*
+75,13747,*Chronologie climatique des faunes rissiennes a rongeurs en France*
+75,21729,*Kolvillskiy basseyn sedimentatsii*
+75,21738,*Yuzhnyy region*
+75,21749,*Vostochno-Aziatskiy region kontinental'nogo osadkonakopleniya*
+75,21758,*Vostochno-Aziatskiy region kontinental'noy sedimentatsii; mongol'skaya oblast'*
+75,21760,*Bokhayskaya oblast'*
+75,21774,*Vostochno-Gobiyskaya oblast'*
+75,21787,*Vostochno-Aziatskiy region; Dal'niy Vostok*
+75,21788,*Rayon Bol'shogo Khingana i basseyn r. Sungari*
+75,21791,*Yaponskiye ostrova*
+75,22457,*Kohfidisch*
+75,22459,*Das Steirische Neogen-Becken*
+75,22460,*Die Drachenhoehle bei Mixnitz*
+75,23820,*Severo-zapadnyye oblasti Russkoy platformy; glavnoye devonskoye polye; zapadnaya chast' Glavnogo devonskogo polya (Pribaltika)*
+75,23821,*Vostochnaya chast' Glavnogo devonskogo polya*
+75,23822,*Severnyye rayony Russkoy platformy*
+75,23824,*Tsentral'nyye oblasti Russkoy platformy*
+75,23826,*Timano-Pechorskaya oblast'*
+75,23827,*Yugo-zapadnyye oblasti Russkoy platformy; l'vovskaya vpadina, Volyn' i Podoliya*
+75,23828,*Pripyatskiy progib*
+75,23876,*Zapadnaya chast' Severo-Vostochnogo Kazakhstana*
+75,23884,*Mezhgornyye vpadiny Altaye-Sayanskoy skladchatoy oblasti*
+75,23885,*Sibirskaya platforma*
+75,23886,*Taymyrskaya skladchataya oblast'; taymyr*
+75,23887,*Severnaya Zemlya*
+75,23895,*Istoriya razvitiya fauny i flory, i biogeograficheskiye provintsii; obshchaya kharakteristika fauny i flory*
+75,23910,*Pozvonochnyye; ryby i beschelyustnyye*
+75,25314,*Faunisticheskiye osobennosti glinistykh porod*
+75,26702,*Importancia del hallazgo de un craneo de Mesoplodon grayi, Haast (Cet. Odont.) en la loc. de Monte Hermoso, Provincia de Buenos Aires*
+75,26703,*Estado actual del conocimiento de la edad de los sedimentos continentales cenozoicos mamaliferos que bordean las Sierras Australes de la Provincia de Buenos Aires*
+76,7025,*Evoluzione e distribuzione del genere fossile Eolates e suoi rapporti con il genere attuale Lates (Pisces-Centropomidae)*
+76,7026,*Revisione del Ogilby. fossile Cyclopoma agassiz e suoi rapporti con l'attuale genere Percalates Ramsay e Ogilby (Pisces)*
+76,7030,*Studio paleontologico di Acropoma lepidotus (Agassiz); Pisces, Acropomidae*
+76,7031,*Gli Holocentridae di Monte Bolca; I, Eoholocentrum, nov. gen., Eoholocentrum macrocephalum (de Blainville) (Pisces-Actinopterygii)*
+76,7032,*The famille des Zanclidae*
+76,7033,*Les selaciens eocenes du Monte Bolca; I, les Carcharhinidae*
+76,7037,*Gli Holocentridae di M. Bolca; II, Tenuicentrum pattersoni nov. gen. nov. sp. nuovi dati a favore dell'origine monofiletica dei Bericiformi (Pisces)*
+76,7278,*Vyvoj hlodavcu (Rodentia, Mammalia) na hranici oligocen-miocen a behem miocenu*
+76,7825,*Das Erstauftreten von Hipparion im Intra- und Vorkarpatischen Raum der Paratethys*
+76,7828,*Verzeichnis und Charakter des Holostratotypus, der Fazio- und Boundary Stratotypen*
+76,7829,*Stratotypen aus der Sarmatischen Schichtengruppe M (sub 5a-c(d)) im Ost-alpin-intrakarpatischen Raum*
+76,7830,*Stratotypen des Sarmats s. str. aus der Vortiefe der Karpaten in Polen und Rumaenien*
+76,7838,*Die Fischfauna des Sarmatien s. str.*
+76,11590,*Verzeichnis und Charakter des Holostratotypus und der Faziostratotypen (incl."Boundary" und "Unit-Stratotypen")*
+76,11602,*Die Wirbeltierreste (excl. Pisces) aus dem Egerien von Oesterreich*
+76,11603,*Die Fischfauna des Egerien*
+76,19278,*Pozdniy pleystotsen*
+76,19280,*Yugo-Zapad yevropeyskoy chasti SSSR; zapadnoye Prichernomor'ye*
+76,19282,*Vostochnoye Prichernomor'ye; sredniy-pozdniy pliotsen*
+76,19283,*Pleystotsen*
+76,19298,*Chastnyye geokhronologicheskiye kalendari noveyshego etapa; arkheologicheskiy kalendar'*
+76,24325,*Novyye nakhodki antropogenovykh mlekopitayushchikh v Smorgonskom graviyno-peschanom kar'yere*
+76,34608,*Presence de poissons Characidae, caracteristiques de l'eocene inferieur europeen, dans la formation lignitifere de Sardaigne*
+76,34621,*La formation continentale de Capo Mannu, sa faune de vertebres pliocenes et la question du Messinien en Sardaigne*
+76,44592,*Vydeleniye kollagena iz iskopayemykh kostey dlya radiouglerodnogo datirovaniy*
+77,951,*Sur la stratigraphie du Pleistocene dans le centre et le sud du T. F. A. I.*
+77,1701,*Usloviya otbora kostnogo materiala dlya opredeleniya yego vozrasta po ftoru*
+77,3518,*Novyy rod ryb semeystva Palaeoesocidae iz nizhnego paleogena Ukrainy*
+77,4953,*Pogranichnyye nizhne-srednedevonskiye otlozheniya Pribaltiki*
+77,4956,*Stroyeniye i ikhtiofauna Ketlerskoy svity Latvii*
+77,15537,*Novyye dannyye po akantodam devona Sredney Pribaltiki*
+77,15538,*Osteolepidnaya kisteperaya ketlerskoy svity Latvii*
+78,1702,*Novyye dannyye o Buginbaatar Kielan-Jaworowska et Sochava, 1969 (Mammalia, Multituberculata) iz Mongolii*
+78,1704,*Primitivnaya forma brontoteriya iz eotsenovykh otlozheniy Mongolii*
+78,1705,*Obzor rannetretichnykh tapiroobraznykh Mongolii i SSSR*
+78,1706,*K voprosu o geograficheskom i stratigraficheskom rasprostranenii sinoteriya (Mammalia, Rhinocerotidae)*
+78,1707,*Miotsenovyy Muntzhak (Dicrocerus, Ruminantia) iz Darigangi i zamechaniye o vozraste fauny Tun-Gur vo Vnutrenney Mongolii (KNR)*
+78,1708,*Palaeotragus iz neogenovykh otlozheniy Zapadnoy Mongolii i Sredney Azii*
+78,1709,*Iskopayemyye vintorogiye antilopy Zapadnoy Mongolii i nekotorykh rayonov Sredney Azii*
+78,1710,*Khampsozavrid iz nizhnego mela Mongolii*
+78,1711,*Cherepakhi gruppy Basilemys (Chelonia, Dermatemydidae) v Azii*
+78,1712,*Novyye dannyye o gigantskoy cherepakhe Ergilemys insolitus iz nizhnego oligotsena Mongolii*
+78,1713,*Miotsenovaya cherepakha iz Zapadnoy Mongolii*
+78,1723,*Novoye mestonakhozhdeniye rannemelovykh dinozavrov Buylyasutuin-Khuduk*
+78,1724,*Novyye dannyye o pozdnemelovykh cherepakhakh Yuzhnoy Mongolii*
+78,1725,*Stratigrafiya i tafonomiya verkhnepaleotsenovogo mestonakhozhdeniya pozvonochnykh Naran-Bulak (Yuzhnaya Gobi, MNR)*
+78,1726,*Stratigrafiya paleogena i neogena Doliny Ozer (K voprosu o vydelenii stratotipicheskogo rayona dlya paleogena i neogena Tsentral'noy Azii)*
+78,18225,*Elementy tiraspol'skogo i khaprovskogo faunisticheskikh kompleksov antropogena v g. Kamne-na-Obi (Zapadnaya Sibir')*
+78,18441,*O dvukh kanalakh evolyutsii cheloveka*
+78,18442,*Geologiya, klimat i evolyutsiya cheloveka*
+78,18445,*Pozdnekaynozoyskaya istoriya Kazakhstana*
+78,18448,*Klimaticheskiye kolebaniya i detal'naya stratigrafiya verkhnepliotsenovykh-nizhnepleystotsenovykh otlozheniy yuga SSSR*
+78,25304,*Razrez noveyshikh otlozheniy Tsentral'noy Yakutii (Mamontova Gora)*
+78,25312,*O periglyatsial'nykh obrazovaniyakh pleystotsena severnoy chasti Vostochnoy Azii*
+78,25313,*O periglyatsial'noy faune pleystotsena*
+78,25315,*Khronologiya klimaticheskikh kolebaniy pleystotsena v Zapadnoy Sibiri*
+78,25641,*Obstanovka poyavleniya pervykh tetrapod i vopros ob ikh predkakh*
+78,25642,*Paleoekologicheskiye predposylki formirovaniya faun amfiaspid v Sibiri*
+78,30714,*Beringiya i mlekopitayushchiye v paleogene*
+78,30715,*K voprosu o rodstvennykh elementakh neogenovykh faun mlekopitayushchikh Vostochnoy Yevropy, Azii i Severnoy Ameriki*
+78,30716,*Rol' Beringiyskoy sushi v formirovanii fauny mlekopitayushchikh Golarktiki v pozdnem kaynozoye*
+78,30717,*Rol' Beringiyskoy sushi v rasselenii shchukovidnykh*
+78,30718,*Migratsii khobotnykh i zaytseobraznykh cherez Beringiyskiy most sushi v pozdnem kaynozoye*
+78,30719,*Transberingiyskiye populyatsii khishchnykh v pleystotsene*
+78,30720,*Yuzhnaya granitsa pozdnepleystotsenovogo yevropeysko-sibirskogo faunisticheskogo kompleksa v Vostochnoy Azii*
+78,30721,*Nekotoryye novyye dannyye o faunisticheskom obmene cherez Beringiyskiy most*
+78,30722,*Ranniye etapy evolyutsii kolytnykh lemmingov Dicrostonychini, Microtinae, Rodentia; kharakternykh predstaviteley subarkticheskoy fauny Beringii*
+78,30723,*Istoriya stanovleniya kopytnykh lemmingov v pleystostene*
+78,30724,*Vliyaniye okruzhayushchey sredy na razmery tela, "sotsial'nyye" organy, parametry populyatsiy i vymiraniye mlekopitayushchikh Beringii*
+78,30725,*Evolyutsionnyye svyazi nekotorykh beringiyskikh mlekopitayushchikh*
+78,30726,*Genetika i problemy transberingiyskikh svyazey golarkticheskikh mlekopitayushchikh*
+78,30727,*Ekologicheskiy i zoogeograficheskiy analiz migratsiy zhivotnykh cherez Beringiyskiy most sushi v chetvertichnom periode*
+78,30728,*Osnovnyye elementy gornykh faun Severo-Vostoka Sibiri i Severo-Zapada Ameriki i etapy formirovaniya etikh faun (po dannym biogeograficheskogo analiza)*
+78,30729,*Rasseleniye gel'mintov pri migratsiyakh mlekopitayushchikh cherez Beringiyskuyu sushu (na primere kun'ikh)*
+78,30730,*Sistematicheskiye vzaimootnosheniya nekotorykh nazemnykh mlekopitayushchikh Starogo i Novogo sveta v svyazi s problemoy Beringii*
+78,36087,*Donnees nouvelles sur les microfaunes malacologiques et sur les rongeurs du Pleistocene continental de la Basse-Seine*
+78,36090,*Les gisements paleolithiques du Havre et de sa region*
+78,38796,*Le peuplement prehistorique du Nouveau-Quebec--Labrador*
+78,38798,*Les Mammiferes et le probleme de la limite Eocene-Oligocene en Europe*
+78,38799,*Contribution a la connaissance des Mammiferes paleogenes du bassin de Zaissan (Kazakhstan central)*
+78,38802,*Etat des recherches sur la faune de Mammiferes du Montien de Hainin (Belgique)*
+78,38807,*Les didelphides paleogenes holarctiques; historique et tendances evolutives*
+78,38809,*Les plus vieilles Taupes*
+78,38812,*A propos de l'origine des Rongeurs*
+78,38814,*Brachyodonty and hypsodonty in some Paleogene Eurasiatic Lagomorphs*
+78,38815,*L'evolution du genre Robiacina Sudre 1969, et l'origine des Cainotheriidae; implications systematiques*
+78,38816,*Description du premier crane de Prodremotherium, Filhol 1877 (ruminant primitif de l'Oligocene eurasiatique*
+78,44754,*L'attivita del comitato per le celebrazioni del centenario della scoperta della Grotta del Farneto*
+78,44755,*La salvaguardia e la valorizzazione del Farneto; attivita svolta dall'Unione Speleologica Bolognese dal 1962 ad oggi*
+78,44756,*Francesco Orsoni e la Grotta del Farneto*
+78,44757,*La documentazione archeologica del Farneto nel quadro della preistoria regionale e padana*
+78,44758,*I reperti osteologici della stazione del Farneto e il loro interesse antropologico*
+78,44762,*Fauna cavernicola della Grotta del Farneto 7E con particolare riguardo alla fauna delle cavita nei gessi del Bolognese*
+78,44766,*Le ultime scoperte paleontologiche nella Grotta del Re Tiberio 36 E/RA*
+78,44773,*Note su alcuni resti scheletrici umani rinvenuti nella Grotta del Re Tiberio 36 E/RA (Riolo Terme, Ravenna)*
+78,48392,*Quelques definitions du Gondwana*
+78,48393,*L'Antarctique et le Gondwana ou synthese de sept annees de recherches geologiques en Antarctique a travers le Symposium de Madison (Aout 1977)*
+78,48400,*Maroc et Gondwana*
+78,48402,*Niger et Gondwana*
+78,48403,*Les Reptiles Therapsides dans la stratigraphie du Trias continental; les faunes d'age Stormberg en Afrique et leurs equivalents dans le monde*
+78,48404,*Decouverte d'une ichtyofaune dans le Carbonifere superieur d'Uruguay; Rapports avec les faunes ichtyologiques contemporaines des autres regions du Gondwana*
+78,48405,*Apports recents a la geologie du Gondwana; Recapitulation des affinites gondwaniennes ante-jurassiques de Madagascar (Poissons, Amphibiens, Reptiles)*
+78,48406,*A propos de nouveau materiel de Thelodontes (Vertebres Agnathes) d'Iran et de Thailande; apercu sur la repartition geographique et stratigraphique des Agnathes "des regions gondwaniennes" au Paleozoique moyen*
+78,48407,*Vertebres devoniens de deux nouveaux gisements du Moyen-Orient; Le probleme des relations intercontinentales au Paleozoique moyen vu a la lumiere de la paleobiogeographie des Rhipidistiens osteolepiformes et des premiers Tetrapodes*
+79,1729,*Zonal'nyye osobennosti vliyaniya cheloveka i yego khozyaystvennoy deyatel'nosti na faunu*
+79,1732,*K geologii otkrytykh stoyanok kamennogo veka Sredney Azii*
+79,2408,*Amphibien- und Reptilienreste aus dem Pleistozaen von Taubach*
+79,2409,*Die fossilen Vogelreste aus den Travertinen von Taubach*
+79,2410,*Fossile Vogeleischalen aus dem Pleistozaen von Taubach*
+79,2411,*Die fossilen Bisonreste von Taubach und ihre Stellung in der Entwicklungsgeschichte der Gattung Bison in Europa*
+79,2412,*Die Cervidenreste aus den Travertinen von Taubach*
+79,2413,*Sus scrofa L. aus dem Jungpleistozaen von Taubach bei Weimar in Thueringen*
+79,2414,*Die Equidenreste aus den Travertinen von Taubach*
+79,2415,*Die Backenzaehne der Elefanten von Taubach bei Weimar*
+79,2416,*Die Rhinocerotidenreste aus den Travertinen von Taubach*
+79,2417,*Baeren- und Hyaenenreste aus dem Pleistozaen von Taubach*
+79,2418,*Die Carnivorenreste (mit Ausnahme der Baeren und Hyaenen) aus den jungpleistozaenen Travertinen von Taubach bei Weimar*
+79,2419,*Die Castor-Reste aus den Travertinen von Taubach bei Weimar*
+79,2420,*Insektivoren und Rodentier aus dem Travertin von Taubach bei Weimar*
+79,2452,*O pervoy nakhodke Hyopsodus Leidy, 1870 (Mammalia, Condylarthra) v Mongol'skoy Narodnoy Respublike*
+79,2453,*Mestonakhozhdeniye Ergilin-Dzo; stratotip nizhnego oligotsena v Yugo-Vostochnoy Mongolii*
+79,2454,*Kinetizm i osobennosti stroyeniya chelyustnogo apparata u oviraptorov (Theropoda, Saurischia)*
+79,2455,*K evolyutsii khishchnykh dinozavrov*
+79,2456,*Pantsir' i konechnosti Basilemys orientalis (Chelonia, Dermatemydidae); k morfologii i evolyutsii roda*
+79,2461,*Novoye mestonakhozhdeniye mezozoyskoy limnicheskoy fauny v rayone oz. Bon-Tsagan-Nur (Tsentral'naya Mongoliya)*
+79,10459,*El Ampurdan*
+79,10462,*Teruel, II*
+79,10463,*Levante*
+79,10464,*The Betic and Levantine depressions*
+79,11858,*Ein neues Genus und zwei neue Arten fossiler Riesenfaultiere von der Familie der Megalonychidae (Edentata: Mammalia) aus dem Pleistozaen Kubas*
+79,11861,*Ein varanoider Lacertilier (Reptilia, Squamata) aus einer alttertiaeren Spaltenfuellung von Dielsdorf (Kt. Zuerich)*
+79,15461,*Gruppo ricerche di paleontologia umana; Relazione sull'attivita*
+79,15970,*La palichnologie des Vertebres; developpement recent et role dans la stratigraphie du Trias*
+79,23470,*Mnogosloynaya paleoliticheskaya stoyanka Korman' IV i yeye mesto v paleolite*
+79,23474,*Fauna pozvonochnykh stoyanki Korman' IV*
+79,23476,*Geologiya i paleogeografiya stoyanki Korman' IV na obshchem fone geologicheskoy istorii kamennogo veka Srednego Pridnestrov'ya*
+79,24177,*Les limites Tertiaire-Quaternarie et Pliocene-Pleistocene en France*
+79,24184,*Les evenements remarquables de l'historie plio-pleistocene des campagnols (Arvicolidae, Rodentia) dans l'hemisphere nord, essai de correlation avec la limite Plio-Pleistocene etablie dans le depots marins d'Italie*
+79,24185,*Pliozaen und Aeltest-pleistozaen in der Bundesrepublik Deutschland; Ein Beitrag zur Neogen/Quartaer-Grenze*
+79,24191,*Le Villafranchien du Nord de l'Afrique*
+79,28356,*Korrelyatsiya vozrasta karstovykh peshcher po ikh iskopayemoy faune*
+79,28882,*Quelques precisions sur l'anatomie et la place systematique tres speciale de Cosesaurus aviceps (Ladinien superieur de Montral, Catalogne)*
+79,28888,*Paleontologia y paleoecologia de los yacimientos fosiliferos del Muschelkalk superior entre Alcover y Mont-Ral (Montanas de Prades, provincia de Tarragona)*
+79,31612,*Ueber Palaeoxyris und andere Eikapseln fossiler Knorpelfische (Chondrichthyes)*
+79,31613,*Ueber Hydromedusen (Coelenterata) und medusoide Problematica aus dem Rotliegenden von Mitteleuropa*
+79,31618,*Beitraege zur Stratigraphie des Perms, Teil III (1); Zur Korrelation der ueberwiegend kontinentalen Ablagerungen des obersten Karbons und Perms von Mittel- und Westeuropa*
+79,33967,*Evolution geodynamique de bassins intramontagneaux tertiaires d'Afghanistan central (Bamyan, Yakawlang et valle du Ghorband)*
+79,33980,*Les Poissons devoniens de l'Iran central et de l'Afghanistan*
+79,33983,*Les decouvertes recentes de Dinosaures du Jurassique et du Cretace en Afrique, au Procheet Moyen-Orient et en Inde*
+79,37187,*Consideraciones sobre la evolucion geologica de la parte septentrional del estado de Sonora*
+79,39329,*Mise en evidence de depots a caractere fluvio-marin parmi les nappes alluviales de la Basse Somme*
+79,39336,*Le Paleolithique dans le Nord de la France (Nord--Pas-de Calais)*
+79,39340,*Les Rongeurs de Biache-Saint-Vaast (Pas-de-Calais) et leurs implications stratigraphiques et climatiques*
+79,39341,*Les fouilles du gisement paleolithique de Biache-Saint-Vaast (Pas-de-Calais) annees 1976 et 1977; premiers resultats*
+79,39343,*Apercu sur la grande faune pleistocene du gisement paleolithique de Biache-Saint-Vaast (Pas-de-Calais)*
+79,39344,*Etude preliminaire du crane humain du gisement paleolithique de Biache-Saint-Vaast (Pas-de-Calais)*
+79,39345,*Weichselien et Paleolithique moyen de Seclin (Melantois -- Nord de la France); note preliminaire*
+80,943,*L'avifauna pre-wurmiana di Torre in Pietra*
+80,1964,*La poche et son remplissage*
+80,1965,*Amphibiens, etude preliminaire*
+80,1966,*Cheloniens*
+80,1967,*Crocodiliens*
+80,1968,*Squamates*
+80,1969,*Oiseaux*
+80,1970,*Didelphides (Marsupiaux)*
+80,1971,*Insectivores et Chiropteres*
+80,1972,*Primates et Artiodactyles*
+80,1973,*Paleotheriides (Perissodactyles)*
+80,1974,*Creodontes*
+80,1975,*Fissipedes (Carnivores)*
+80,1976,*Rongeurs*
+80,1977,*Conclusions generales*
+80,1982,*Die geologisch-palaeontologische Erforschung der Burgtonnaer Travertinlagerstaetten*
+80,1988,*Die Ostrakodenfauna des eeminterglazialen Travertins von Burgtonna in Thueringen*
+80,1990,*Reptilienreste aus dem jungpleistozaenen Travertin von Burgtonna in Thueringen*
+80,1991,*Nachweis von Anas platyrhynchos Linnaeus, 1758 (Anatidae, Aves) aus dem Travertin von Burgtonna in Thueringen*
+80,1992,*Die Bison-Reste aus den Travertinen von Burgtonna in Thueringen*
+80,1993,*Die Cerviden-Reste aus den Travertinen von Burgtonna in Thueringen*
+80,1994,*Das Wildschwein (Sus scrofa L.) aus dem Jungpleistozaen von Burgtonna in Thueringen*
+80,1995,*Die Rhinocerotiden-Reste aus den Travertinen von Burgtonna in Thueringen*
+80,1996,*Die fossilen Equiden-Reste aus den Travertinen von Burgtonna in Thueringen*
+80,1997,*Die Elefantenmolaren aus den Travertinen von Burgtonna in Thueringen*
+80,1998,*Baeren- und Hyaenenreste aus dem Pleistozaen von Burgtonna in Thueringen*
+80,1999,*Die Feliden- und Canidenreste aus den jungpleistozaenen Travertinen von Burgtonna in Thueringen*
+80,2000,*Der Biber (Castor fiber L.) aus dem Pleistozaen von Burgtonna in Thueringen*
+80,2001,*Insektivoren und Rodentier aus dem Travertin von Burgtonna in Thueringen*
+80,2002,*Zusammenfassender Ueberblick zur stratigraphischen Stellung der Travertine von Burgtonna in Thueringen*
+80,2003,*Die palaeolithischen Funde im Travertin von Burgtonna in Thueringen*
+80,2004,*Zur Problematik einiger Knochenfunde aus dem Travertin von Burgtonna in Thueringen*
+80,2005,*Zur Entdeckungs- und Forschungsgeschichte der Wirbeltierfundstaette in der jungpleistozaenen Deckschichtenfolge ueber dem Travertin von Burgtonna in Thueringen*
+80,2006,*Die stratigraphische Gliederung eines fossilfuehrenden jungpleistozaenen Deckschichtenprofils ueber dem Interglazialtravertin von Burgtonna in Thueringen*
+80,2009,*Amphibien- und Reptilienreste aus der jungpleistozaenen Deckschichtenfolge des Travertins von Burgtonna in Thueringen*
+80,2010,*Fossile Vogelreste aus der jungpleistozaenen Deckschichtenfolge ueber dem Travertin von Burgtonna in Thueringen*
+80,2011,*Fossile Saeugetierreste aus einer jungpleistozaenen Deckschichtenfolge ueber dem interglazialen Travertin von Burgtonna in Thueringen*
+80,2012,*Biometrische Untersuchungen an fossilen Kleinsaeugetieren aus einer jungpleistozaenen Deckschichtenfolge ueber dem interglazialen Travertin von Burgtonna in Thueringen*
+80,2013,*Zusammenfassende stratigraphische und paloekologische Interpretation des Fossilvorkommens in der untersuchten jungpleistozaenen Deckschichtenfolge ueber dem Travertin von Burgtonna in Thueringen*
+80,2712,*Die biostratigraphische Untergliederung des Autun (Unteres Perm) im mittleren Thueringer Wald*
+80,2713,*Die Position der Autun/Saxon-Grenze (Unteres Perm) in Europa und Nordamerika*
+80,2903,*Die Auswirkungen der Inlandvereisungen auf die Kleinvertebratenfauna im Periglazialraum*
+80,2904,*Grosssaeugerstratigraphie im Gebiet der skandinavischen Vereisungen*
+80,3082,*Paleontologia y edad de la Formacion Tinacoa, Sierra de Perija, Estado Zulia, Venezuela*
+80,3088,*Paleoecologia y paleoambiente del Miembro Quevedo (Formacion Navay) en las proximidades de Santa Barbara*
+80,4262,*O znanstvenom skupu "Krapinski pracovjek i evolucija hominida"*
+80,4263,*Dragutin Gorjanovic-Kramberger i otkrice krapinskog pracovjeka*
+80,4264,*Dragutin Gorjanovic-Kramberger kao antropolog*
+80,4265,*Stratigrafski, paleofaunski i paleolitski odnosi krapinskog nalazista*
+80,4268,*Neke znacajnosti zubi i njihova uporaba u krapinskog neandertalca*
+80,4270,*Contribution des Neanderthaliens de Krapina a la connaissance de la region temporale et plus specialement du tympanal*
+80,4271,*Razvoj ideje o postanku covjeka*
+80,4275,*Kannibalismus und Leichenzerstueckelung beim Neandertaler von Krapina*
+80,4276,*Paleoklimatoloski i paleoekoloski odnosi u gornjem pleistocenu Hrvatskog zagorja*
+80,4277,*Populacije neandertalaca i neandertalcima slicnih ljudi u Hrvatskoj*
+80,4304,*Vvedeniye*
+80,4305,*O rybakh karbona*
+80,4306,*O filogeneticheskikh svyazyakh amfiaspid, tsiataspid i kardipel'tid (Heterostraci)*
+80,4307,*Ryby Tsentral'nogo devonskogo polya*
+80,4308,*Sistematicheskoye polozheniye antiarkh Tsentral'nogo Kazakhstana*
+80,4309,*Novyye dannyye ob Asterolepis ornata Eichwald iz rannefranskikh otlozheniy Pribaltiki*
+80,4310,*Stroyeniye plechevogo poyasa rannikh ptiktodontov*
+80,4311,*Stroyeniye i sistematicheskoye polozheniye cheshuy Polymerolepis whitei Karatajute-Talimaa*
+80,4312,*Filogeneticheskiye svyazi osteolepiformnykh Crossopterygii i ikh polozheniye v sisteme*
+80,4313,*Rizodontnyye kisteperyye ryby (sem. Rhizodontidae) iz srednepaleozoyskikh otlozheniy aziatskoy chasti SSSR*
+80,4314,*K sisteme i filogenii otryada Palaeonisciformes*
+80,4315,*Filogenez osetroobraznykh*
+80,4321,*Paleontologicheskaya kharakteristika materiala stoyanki Timonovka II*
+80,4322,*Kul'turnyy sloy i kremnevyy kompleks stoyanok*
+80,4324,*Geoekologiya timonovskikh stoyanok*
+80,4919,*Stratigraficheskoye raschleneniye devonskikh otlozheniy ostrova Shpitsbergen*
+80,4920,*Novyye dannyye po stratigrafii devonskikh otlozheniy severnogo poberekh'ya zaliva Khornsunn (Shpitsbergen)*
+80,6360,*Metazoyskiy etap razvitiya organicheskogo mira*
+80,6361,*Sootnosheniya v razvitii flory i fauny pri perekhode ot paleozoya k mezozoyu*
+80,6367,*Nizhnyaya granitsa chetvertichnoy (antropogenovoy) sistemy v strukturno-fatsial'nykh zonakh Zapadno-Sibirskoy nizmennosti*
+80,12922,*Panthera spelaea (Goldfuss) z Jaskini Niedzwiedziej w Kletnie*
+80,13492,*Resultats du Groupe de Travail des Vertebres*
+80,13536,*Nouveaux gisements a Rongeurs dans des formations marines miocenes du Languedoc mediterraneen*
+80,13537,*Micromammiferes et biostratigraphie des horizons aquitaniens d'Aquitaine*
+80,13538,*Caracteristiques generales de la microevolution du genre Stephanomys (Rodentia, Muridae)*
+80,13539,*Cladistique et paleontologie; application a la phylogenie des Ochotonides europeens (Lagomorpha, Mammalia)*
+80,13540,*Donnees nouvelles sur l'evolution du Rongeur endemique fossile corso-sarde Rhagamys F. Major (1905) (Mammalia, Rodentia)*
+80,13541,*Cricetodontini (Rodentia, Mammalia) miocenes de Turquie; evolution et biostratigraphie*
+80,13828,*Vertebrados*
+80,16421,*Introduccion*
+80,16422,*Situacion y descripcion de la cueva*
+80,16423,*Descripcion de las figuras*
+80,16424,*Analisis e interpretacion de Ekain*
+80,16498,*Die endpalaeolithische (mesolithische) Faunagemeinschaft aus Smolin*
+80,16997,*Sledy zhizni nizhnekamennougol'nykh otlozheniy Moskovskoy sineklizy i ikh ispol'zovaniye dlya stratigrafii*
+80,19383,*O pervoy nakhodke roda Coryphodon Owen, 1845 (Mammalia, Pantodonta) v paleogene Mongol'skoy Narodnoy Respubliki*
+80,19384,*Novyye mezonikhidy (Condylarthra, Mesonychidae) iz paleogena Mongolii*
+80,19385,*Tetralophodon sinensis (Koken) i Anancus sinensis (Hopwood) iz neogena Zapadnoy Mongolii*
+80,19386,*Epimanteoceras amplus sp. nov. (Mammalia, Perissodactyla, Brontotheriidae) iz Mongolii*
+80,19387,*Novyye dannyye ob Entelodontidae (Artiodactyla, Suiformes) iz oligotsena Mongolii*
+80,19388,*Novyye dannyye o ptitsakh pliotsena Zapadnoy Mongolii*
+80,19389,*K evolyutsii i sistematike pozdnemezozoyskikh khishchnykh dinozavrov*
+80,19390,*Novyye dannyye o terizinozavre (Therizinosauridae, Theropoda)*
+80,19391,*Novyy pozdnemelovoy karnozavr iz Nogon-Tsava, Mongoliya*
+80,19392,*Pervaya nakhodka alligatora (Crocodilia) v rannem paleogene Mongolii*
+80,19393,*Paleotsenovyye cherepakhi Mongolii*
+80,19394,*Pervaya nakhodka paleozoyskikh ryb na territorii MNR*
+80,19398,*Ostrakody barungoyotskoy svity verkhnego mela Zaaltayskoy Gobi (MNR)*
+80,19403,*O novom mestonakhozhdenii rannetretichnykh mlekopitayushchikh i Zaaltayskoy Gobi (Mongoliya)*
+80,19404,*Reviziya geologicheskogo stroyeniya i novyye dannyye o faune mestonakhozhdeniya Gashato (paleotsen, MNR)*
+80,19406,*Ob usloviyakh zakhoroneniya rannemelovoy fauny i flory v mestonakhozhdeniyakh Buylyasutuin-Khuduk i Anda-Khuduk (Dolinoozerskaya depressiya, MNR)*
+80,21158,*Avant-propos*
+80,21159,*Stratigraphie du site archeologique de Melka-Kunture (Ethiopie)*
+80,21160,*Apercu des formations plio-pleistocenes de la Basse Vallee de l'Omo (Ethiopie)*
+80,21161,*Magnetostratigraphie des depots pleistocenes de Melka-Kunture (Ethiopie); premieres donnees*
+80,21162,*Sedimentation pliocene et paleoenvironnements de rift; exemple de la formation a Hominides d'Hadar (Afar, Ethiopie)*
+80,21163,*Le Miocene superieur du sud de la depression de l'Afar, Ethiopie; sediments, faunes, ages isotopiques*
+80,21164,*L'evolution morpho-climatique plio-quaternaire de la basse vallee de l'Omo (Ethiopie)*
+80,21165,*Les Proboscidiens (Mammalia) du Miocene d'Afrique orientale; resultats preliminaires*
+80,21166,*Donnees recentes sur l'evolution des Proboscidiens pendant le Plio-Pleistocene en Afrique orientale*
+80,21167,*Chalicotheriidae et Rhinocerotidae (Mammalia, Perissodactyla) du Miocene au Pleistocene de la Rift Valley (Afrique orientale); un exemple d'evolution; le squelette postcranien des Diceros et Ceratotherium plio-pleistocenes*
+80,21168,*Diversification et affinites des Carnivores pliocenes du groupe de l'Omo et de la formation d'Hadar (Ethiopie)*
+80,21169,*Le genre Hipparion (Mammalia, Perissodactyla) et son interet biostratigraphique en Afrique*
+80,21170,*Les Bovides miocenes des Rifts est-africains; implications paleobiogeographiques*
+80,21171,*Les faunes de Rongeurs et de Lagomorphes du Pliocene et du Pleistocene d'Afrique orientale*
+80,21172,*Les Rongeurs fossiles de la formation de Hadar et leur interet paleoecologique*
+80,21173,*Les Hominides du Pliocene et du Pleistocene de la Rift Valley*
+80,21174,*Presence du Crocodilien Euthecodon dans le Miocene inferieur d'Ombo (Golfe de Kavirondo, Kenya)*
+80,21175,*Cheloniens du Miocene et du Plio-Pleistocene d'Afrique orientale*
+80,21176,*Les Serpents de la Rift Valley; un apercu general*
+80,21177,*Methode palynologique et reconstitutions paleoclimatiques au Cenozoique dans le Rift est-africain*
+80,21825,*Knochendiagenese als Datierungshilfe*
+80,21840,*Jungpleistozaene Klima- und Umweltentwicklung im Achtal bei Blaubeuren, Schwaebische Alb*
+80,22862,*Izuchennost' stratigrafii neogena Zapadnoy Sibiri*
+80,22863,*Stratigraficheskiye skhemy paleogenovykh i neogenovykh otlozheniy yuzhnykh rayonov Zapadno-Sibirskoy ravniny*
+80,28635,*Origine et phylogenese des poissons osseux*
+80,28651,*O nizhnem kontakte eyfel'skikh otlozheniy v Kotlovine Bol'shikh Ozer*
+80,28658,*Vorwort*
+80,28659,*Wuerttemberg: "klassisches Saurierland"*
+80,29145,*Le crane de Bone Bank (Indiana) et les fossiles de Walnut Hills, par Charles-Alexandre Lesueur, 1778-1846*
+80,29442,*Iskopayemyye slony Belorussii*
+80,29741,*Melkiye pozvonochnyye*
+80,29873,*Raskopki v peshchere Kul'na v Moravskom karste i ikh znacheniye dlya izucheniya paleolita Chekhoslovakii*
+80,29877,*Litostratigraficheskiye svity otlozheniy v peshchernykh arkheologicheskikh stoyankakh Pol'skoy Yury*
+80,29881,*Obrabotannaya kost' Timonovskoy stoyanki*
+80,29883,*Ob ischeznuvshikh derevyannykh izdeliyakh vo vtoroy mogile na Sungire*
+80,29887,*Malaya poluzemlyanka na paleoliticheskoy stoyanke Pavlov v Chekhoslovakii*
+80,29890,*Trasologicheskiy analiz kamennogo i kostyanogo inventarya iz verkhnepaleoliticheskoy stoyanki Muralovka*
+80,29892,*Nekotoryye itogi mnogoletnikh issledovaniy paleolita i mezolita Prikarpat'ya*
+80,30547,*Cherepakhi roda Adocus iz pozdnego mela SSSR*
+80,30548,*Stroyeniye cherepa rannemelovoy cherepakhi semeystva Adocidae*
+80,30550,*Sous Ordre Sciuromorpha*
+80,30572,*Iskopayemyye pozvonochnyye Tsutskhvatskikh peshcher*
+80,30576,*Unikal'naya kul'tovaya peshchera*
+80,34396,*Le Plio-Pleistocene marin et oligohalin en Grece; stratigraphie et paleogeographie*
+80,34918,*Academician Professor Dr. Yuri Alexandrovich Orlov; 12th June, 1893-2nd October 1966*
+80,34941,*Les insectivores et chiropteres du Paleogene moyen d'Europe dans l'histoire des faunes de Mammiferes sur ce continent*
+80,38673,*Die Schichtenfolge des Badenien in der Molassezone, im Wiener Becken und am Alpenostrand; das Steirische Becken*
+80,38690,*Verzeichnis und Charakter des Holostratotypus und der Faziostratotypen*
+80,38691,*Holostratotypus des Badenien; Baden-Sooss*
+80,38697,*Faziostratotypen des Badenien; 3, Zidlochovice*
+80,38698,*Faziostratotypen des Badenien; 4, Borac*
+80,38702,*Faziostratotypen des Badenien; 8, Devinska Nova Ves-Sandberg*
+80,38720,*Die Fischfauna des Badenien*
+80,38721,*Die Saeugetiere des Badenien*
+80,40384,*Datacion absoluta y restos humanos en la Peninsula Iberica*
+80,40385,*Cronologia del paleolitico y epipaleolitico peninsulares*
+80,40387,*Cronologia absoluta y fauna domestica*
+80,40388,*Apendice; indice de fechas arqueologicas de C-14 para Espana y Portugal*
+80,44789,*Extension a la prehistoire, a l'oceanographie et a la volcanologie de la methode de datation par thermoluminescence*
+80,48178,*Trias, 230-195 mln. lat*
+80,48182,*Dewon, 400-350 mln. lat*
+80,48183,*Karbon, 350-285 mln. lat.*
+80,48184,*Perm, 285-230 mln. lat.*
+80,48185,*Jura, 195-135 mln. lat*
+80,48186,*Kreda, 135-65 mln. lat.*
+80,48187,*Trzeciorzed, 65-1.8 mln. lat*
+80,48188,*Czwartorzed, 1.8 mln. lat-recent*
+80,54150,*Berelekhskoye "kladbishche" mamontov*
+80,54151,*Opisaniye i izmereniya zubov mamontov Berelekha*
+80,54152,*Rezul'taty izmereniy trubchatykh kostey mamontov Berelekhskogo "kladbishcha"*
+80,54153,*Usloviya obitaniya berelekhskoy populyatsii mamontov*
+80,54154,*Gravirovka na bivne mamonta s Berelekha*
+80,54155,*Koleopterologicheskiy analiz geologicheskikh razrezov mamontovykh "kladbishch" v Severnoy Yakutii*
+80,54156,*Ostatki mlekopitayushchikh iz paleoliticheskikh stoyanok na Donu i verkhney Desne*
+80,56821,*O yarusnom delenii neogen-antropogenovykh otlozheniy*
+80,56823,*Istoriya pervobytnoy tekhniki i problemy antropogeneza*
+80,56825,*Pliotsen-pleystotsenovaya granitsa; yeye polozheniye i taksonomicheskiy rang*
+80,56833,*Fauna mlekopitayushikh pozdnego pliotsena i eopleystotsena yuzhnogo Tadzhikistana--Late Pliocene and Eopleistocene mammalian fauna of southern Tajikistan*
+80,56837,*K voprosu o pliotsen-pleystotsenovoy granitse v Kazakhstane--On the problem of the Pliocene-Pleistocene boundary in Kazakhstan*
+80,56840,*Strukturnaya kharakteristika verkhnepliotsen-srednepleystotsenovykh nakopleniy v yugo-zapadnom Tadzhikistane--Structural characteristics of the upper Pliocene to middle Pleistocene accumulations in southwestern Tajikistan*
+80,56844,*Mestonakhozhdeniya mlekopitayushchikh v pliotsenovykh otlozheniyakh Tyan'Shanya--Occurrences of mammals in Pliocene deposits of Tien Shan*
+80,56849,*O granitse neogenovykh i chetvertichnykh otlozheniy v Uzbekistane--On the boundary of the Neogene and Quaternary in Uzbekistan*
+80,56852,*Pliotsen-pleystotsenovyye presnovodnyye malakofauny tsentral'nykh rayonov Azii--Plio-Pleistocene fresh-water mollusk faunas in Central and Middle Asia*
+80,57477,*Cuenca triasica de Ischigualasto; Villa Union (provincias de La Rioja y San Juan)*
+80,57480,*El Triasico del valle del Rio de los Patos (Provincia de San Juan)*
+80,57605,*El Cuaternario, ciencia interdisciplinar*
+80,57635,*Selachierzaehne aus der nordwestdeutschen Unterkreide*
+80,58819,*Esquema estratigrafico de la Provincia de Antofagasta, Chile*
+80,58833,*Bioestratigrafia de algunas secciones pleistocenas del nororiente de Venezuela*
+81,6853,*I fossili e le scienze paleontologiche*
+81,6854,*I fossili; scavo, preparazione, esposizione*
+81,6855,*Il Carbonifero*
+81,6856,*Le orme di tetrapodi piu antiche*
+81,6857,*Il Permiano*
+81,6858,*Il tridentinosauro*
+81,6859,*Tetrapodi e pesci della Val Gardena*
+81,6860,*Il Trias*
+81,6861,*Il giacimento di Besano (Varese)*
+81,6862,*Il giacimento di Perledo (Como)*
+81,6863,*Orme di tetrapodi dei Monti Pisani*
+81,6864,*Faune delle Prealpi Bergamasche*
+81,6865,*Il Giurassico*
+81,6866,*I pesci del Toarciano di Monte Albenza (Bergamo)*
+81,6867,*L' "ittiosauro" di Genga (Ancona)*
+81,6868,*Il "coccodrillo" di Portomaggiore (Ferrara)*
+81,6869,*Il Cretaceo*
+81,6870,*L'ittiofauna di Castellammare di Stabia (Napoli)*
+81,6871,*L'ittiofauna di Pietraroia (Benevento)*
+81,6872,*Il giacimento di Comeno (Carso)*
+81,6873,*Il giacimento di Cinto Euganeo (Padova)*
+81,6874,*Il giacimento di S. Anna d'Alfaedo*
+81,6875,*Il giacimento del Salento (Lecce)*
+81,6876,*Il coccodrillo del Modense*
+81,6877,*Il Paleocene*
+81,6878,*Il giacimento di Spilecco (Verona)*
+81,6879,*L'Eocene*
+81,6880,*I perissodattili dell'Eocene della Sardegna*
+81,6881,*Il giacimento della Purga di Bolca (Verona)*
+81,6882,*Il giacimento di Bolca (Verona)*
+81,6883,*Il giacimento di Avesa (Verona)*
+81,6884,*Il giacimento di Monte Duello (Verona)*
+81,6885,*L'Oligocene*
+81,6886,*Il giacimento di Monteviale (Vicenza)*
+81,6887,*Il giacimento di Cadibona (Savona)*
+81,6888,*Il giacimento di Chiavon (Vicenza)*
+81,6889,*Il Miocene*
+81,6890,*I vertebrati della Molassa Bellunese*
+81,6891,*La fauna di Visiano (Parma)*
+81,6892,*Pesci del Miocene superiore*
+81,6893,*Localita fossilifere del Miocene continentale*
+81,6894,*Il Pliocene e il Pleistocene*
+81,6895,*Pesci dei giacimenti della Vrica (Catanzaro) e di Taranto*
+81,6896,*Anfibi e rettili del Plio-Pleistocene*
+81,6897,*Le balene del Piemonte*
+81,6898,*Mammiferi terrestri del Pliocene*
+81,6899,*Mammiferi del Pleistocene inferiore*
+81,6900,*Mammiferi del Pleistocene medio*
+81,6901,*Il giacimento di Isernia: "La Pineta"*
+81,6902,*Fauna a grossi mammiferi nel Pleistocene superiore*
+81,6903,*I mammiferi delle alluvioni quaternarie pavesi*
+81,6904,*La fauna di Maglie (Lecce)*
+81,6905,*Mammiferi del Plio-Pleistocene delle isole*
+81,6906,*Micromammiferi del Plio-Pleistocene*
+81,6907,*Faune dell'Olocene*
+81,9186,*Beitraege zur Stratigraphie des Perms, Teil III (2); Zur Korrelation der ueberwiegend kontinentalen Ablagerungen des obersten Karbons und Perms von Mittel- und West-europa*
+81,9701,*Relacion entre la geomorfologia mesoamericana y la distribucion actual de los peces*
+81,14360,*Les Poissons*
+81,15640,*Palaeontologie und Hoehlenkunde*
+81,15641,*Das Karstgebiet der Hainburger Berge*
+81,15643,*Urgeschichte und Hoehlenforschung*
+81,15644,*Die Bedeutung der Hoehle fuer die Entwicklung des Menschen*
+81,17296,*Les progres recents de la paleontologie des Vertebres*
+81,17300,*Nouvelles donnees sur l'origine et l'evolution de l'Homme d'apres les decouvertes recentes*
+81,21838,*Evolutions et relations paleobiogeographiques de la Tethys mesozoique et cenozoique*
+81,22564,*Sur la faune de vertebres Pleistocenes de la Roumanie*
+81,23150,*Die Fossil-Lagerstaette in der Kohlengrube Guimarota (Portugal) und der erste Fund eines Docodontiden-Skelettes*
+81,27059,*Faunisticheskiye kompleksy i opornyye razrezy kontinental'nogo antropogena i pliotsena Yugo-Zapada SSSR*
+81,34827,*Ueber die Formen-Maxima-Regal von A. H. Mueller; Teil 1*
+81,34926,*La contribution de Rene Jeannel a la reconstitution de l'histoire paleogeographique des faunes continentales*
+81,37134,*Les Otolithes de Teleosteens du niveau a galets de l'Auversien de Baron (Oise)*
+81,37650,*Predisloviye*
+81,37651,*Nekotoryye problemy istorii formirovaniya teriofaun*
+81,37652,*O proiskhozhdenii i istorii teriofauny sibirskoy Arktiki*
+81,37653,*Istoriya nakhodki trupa selerikanskoy loshadi i yego izucheniye*
+81,37654,*Geologicheskaya kharakteristika uchastka zakhoroneniya trupa selerikanskoy loshadi*
+81,37655,*Ob absolyutnom vozraste selerikanskoy iskopayemoy loshadi*
+81,37656,*Geomorfologicheskiy ocherk basseyna r. Selerikana (Yakutiya)*
+81,37657,*Tafonomicheskiye zamechaniya*
+81,37658,*Opisaniye chastey trupa i skeletnykh ostatkov selerikanskoy loshadi; Kharakter i stepen' sokhrannosti tkaney i organov*
+81,37659,*Kozhnyy pokrov iskopayemoy loshadi iz Selerikana*
+81,37660,*Rezul'taty bakteriologicheskogo issledovaniya selerikanskoy iskopayemoy loshadi*
+81,37661,*Rastitel'nyye ostatki soderzhimogo zheludochno-kishechnogo trakta iskopayemoy selerikanskoy loshadi (Yakutiya)*
+81,37662,*Karpologicheskiy analiz rastitel'nykh ostatkov pishchi selerikanskoy iskopayemoy loshadi*
+81,37663,*Rekonstruktsiya flory i rastitel'nosti vremeni zhizni i gibeli selerikanskoy iskopayemoy loshadi po palinologicheskim dannym*
+81,37664,*Sosudistyye rasteniya rayona nakhodki iskopayemoy loshadi*
+81,37665,*Paleogeografiya pozdnego pleystotsena i golotsena v rayone nakhodki selerikanskoy loshadi*
+81,37666,*Predvaritel'nyye rezul'taty issledovaniya rastitel'nykh ostatkov iz zheludochno-kishechnogo trakta shandrinskogo mamonta (Yakutiya)*
+81,37667,*Novaya nakhodka skeleta sherstistogo nosoroga v Yakutii*
+81,39311,*Die Ueberlieferung von Fossilien und Lebensspuren im fossilen Tierbautensystem von Pisede bei Malchin*
+81,39312,*Moeglichkeiten und Grenzen der biostratigraphischen Differenzierung fossiler Faunenreste aus quartaeren Tierbautensystemen mit grosser zeitlicher Tiefe*
+81,39315,*Fischreste aus dem fossilen Tierbautensystem von Pisede bei Malchin*
+81,39316,*Zur bestimmung Quartaerer Anuren Mitteleuropas an hand von Skelettelementen*
+81,39317,*Pathologische Veraenderungen an fossilen Extremitaetenknochen von Anuren aus dem fossilen Tierbautensystem von Pisede bei Malchin*
+81,39318,*Die Reptilien aus dem fossilen Tierbautensystem von Pisede bei Malchin; Teil 1, Analyse des Fundgutes*
+81,39319,*Die Reptilien aus dem fossilen Tierbautensystem von Pisede bei Malchin; Teil 2, Interpretationen und Probleme*
+81,39320,*Untersuchungen an Vogelresten aus dem fossilen Tierbautensystem von Pisede bei Malchin; Teil 1, Taxonomische und biometrische Kenzeichnung des Fundgutes*
+81,39321,*Untersuchungen an Vogelresten aus dem fossilen Tierbautensystem von Pisede bei Malchin; Teil 2, Palaeooekologische und faunengeschichtliche Auswertung des Fundgutes*
+81,39337,*Cretace inferieur*
+81,39340,*Paleocene*
+81,39342,*Eocene moyen*
+81,39343,*Eocene superieur*
+81,39344,*Oligocene et Miocene basal*
+81,39345,*Miocene et Pliocene*
+81,41103,*Stratigrafiya i iskoiayemyye ryby kalargonskogo gorizonta (verkhniy devon severo-za-nada Sibirskoy platformy)*
+81,41108,*Kochkovskiy regional'nyy gorizont*
+81,41109,*Nekotoryye novyye dannyye o kochkovskom gorizonte Yugo-Vostochnoy Kulundy*
+81,41110,*Mlekopitayushchiye i kochkovskiy gorizont*
+81,41114,*Pliotsen severa Tsentral'nogo Kazakhstana*
+81,41117,*Vozrastnyye analogi kochkovskogo gorizonta na yugo-zapade Sibirskoy platformy*
+81,41118,*Opornyye razrezy i fauna melkikh mlekopitayushchikh eopleystotsenovykh otlozheniy Pribaykal'ya*
+81,41119,*Stratigrafiya verkhnepliotsenovykh i chetvertichnykh otlozheniy Baykal'skoy vpadiny*
+81,41120,*Nekotoryye problemy transsibirskoy paleomagnitnoy korrelyatsii opornykh razrezov kvartera i regional'noy stratigrafii*
+81,45715,*Fuvelien*
+81,45716,*Begudien*
+81,45717,*Rognacien*
+81,45720,*Sparnacien*
+81,45721,*Cuisien*
+81,45722,*Lutetien*
+81,45724,*Auversien*
+81,45726,*Ludien*
+81,47965,*Die Archaeomyinae Lavocat 1952 (Rodentia, Mammalia) von Oensingen und Muemliswil (Oberoligozaen) im Zusammenhang mit der stratigraphischen Einstufung dieser beiden Fundstellen*
+81,54187,*Orme di Microsauri nel Carbonifero superiore della Sardegna*
+81,54188,*Nuovo contributo alla stratigrafia delle "Arenarie di Val Gardena"*
+81,57365,*Premiere journee; Le Plateau du Coiron*
+81,57369,*Cinquieme journee; Le massif du Cantal; partie occidentale et region du puy Mary*
+81,57847,*Geologiczna interpretacja stanowiska fauny staroplejstocenskiej Kozi Grzbiet w Gorach Swietokrzyskich*
+81,57849,*Kopalny kras ze srodkowoplejstocenskimi szczatkami kregowcow w Drabach kolo Dzialoszyna*
+81,57852,*Nowe dane o krasie kopalnym w Przewornie*
+81,59532,*Paleontologie na Univerzite Karlove*
+81,59533,*Vyvojova rekapitulace z hlediska moderni morfologie*
+81,63401,*Die eiszeitliche Tierwelt nach Funden in Warsteiner Hoehlen*
+81,64001,*A fauna sub-recente de vertebrados do "Grande Abrigo da Lapa Vermelha (P.L.) de Pedro Leopoldo, Minas Gerais*
+82,406,*Die biogeographische Geschichte der Krokodilier*
+82,475,*Die palaeogeographische Entwicklung des noerdlichsten Teiles des Atlantischen Ozeans und seine palaeoklimatische Rolle*
+82,957,*Sedimentoloske karakteristike slanacke serije Beogradskog dunavskog kljuca*
+82,1638,*Der Forscher und Lehrer Ehrhard Voigt*
+82,1644,*Ein neuer Vertreter des Ursus deningeri-Formenkreises aus der altquartaeren Wirbeltierfauna von Erpfingen (Schwaebische Alb)*
+82,4207,*I. A. Yefremov; osnovatel' tafonomii*
+82,4211,*Ob usloviyakh sushchestvovaniya reptiliy mela Fergany i nekotorykh tafonomicheskikh zakonomernostyakh zakhoroneniya ikh ostatkov*
+82,4217,*K tafonomii dvoyakodyshashchikh ryb v triase vostoka yevropeyskoy chasti SSSR*
+82,4218,*Tafonomiya osnovnykh zakhoroneniy melkikh mlekopitayuschikh pozdnego kaynozoya Vostochnogo Kazakhstana*
+82,7879,*Faunas y paleobiogeografia de los tetrapodos mesozoicos de America del Sur*
+82,7920,*La zona litoral de la transgresion maastrichtense en el Norte de la Patagonia; aspectos ecologicos*
+82,7924,*Aportes paleoictiologicos al conocimiento de la evolucion de las paleotemperaturas en el area austral de America del Sur durante el Cenozoico; aspectos zoogeograficos y ecologicos conexos*
+82,7926,*Nuevos restos de Cardiatheriinae (Rodentia, Hydrochoeridae) en el territorio argentino; inferencias paleoambientales; nota preliminar*
+82,7927,*Consideraciones sobre los cambios climaticos durante el Pleistoceno tardio-reciente en la provincia de Buenos Aires; aspectos ecologicos y zoogeograficos relacionados*
+82,7928,*Dinamismo historico de la fauna Brasilica en la Argentina*
+82,8962,*La formation des Schistes de Porsguen (Devonien superieur de la rade de Brest, Massif Armoricain); lithologie, flore, faune*
+82,10430,*Rannepleystotsenovaya mikroteriofauna basseyna Dona i yeye sravneniye s melkimi mlekopitayushchimi Pridneprov'ya*
+82,10947,*Depots rissiens de la vallee de la Somme; le probleme du Pre-Riss; la datation de l'Acheuleen et du Levalloisien*
+82,10950,*Le Riss et le Riss-Wurm dans le Sud-Ouest de la France d'apres le Perigord et le bassin de l'Adour; I, Grottes et abris du Perigord*
+82,10952,*Depots du Riss et du Riss-Wurm dans le Midi mediterraneen*
+82,10953,*Les loess du Wurm dans la moitie nord de la France*
+82,10954,*Le Wurm ancien dans le Sud-Ouest de la France; I, Grottes et abris du Perigord*
+82,10956,*Le Wurmien ancien dans le Midi mediterranneen francais d'apres l'etude des depots de grottes et abris sous roche*
+82,12223,*Etude de la faune de l'Abri Pataud*
+82,12229,*Etude anthropologique des restes humains de l'Abri Pataud*
+82,12230,*Presentation des dents des restes humains de l'Abri Pataud*
+82,12355,*Annexe I; Note preliminaire sur la faune de la Couche I2 du Rond-du-Barry (Fouilles 1970-1972)*
+82,12356,*Annexe II; La microfaune de la campagne de fouilles 1971*
+82,12357,*La station eponyme de l'Oued Djebbana a Bir-el-Ater (Est algerien); Contribution a la connaissance de son industrie et de sa fauna*
+82,12358,*Un radius de cygne sauvage utilise et decore dans le Magdalenien final du Rond-du-Barry*
+82,13044,*Fazovite vymirani savcu v pleistocenu*
+82,13045,*Problem vzniku a zaniku druhu z hlediska vzniku zivota na zemi a vyvoje cloveka*
+82,13336,*Nouvelles recherches en Ethiopie*
+82,15902,*Kopytnyye lemmingi iz pleystotsenovykh otlozheniy r. Lai*
+82,18837,*Les actions periglaciaires sur les plateaux et sur les pentes; 5, Mineraux argileux et conditions paleoecologiques dans les depots quaternaires de versants, en Bourgogne*
+82,18838,*Les actions periglaciaires dans le karst; Les traces de deux phases periglaciaires dans le complexe de faune briellien; le remplissage de l'aven des Valerots a Nuits-Saint-Georges*
+82,18839,*Les actions periglaciaires en plaine; Les alluvions pliocenes et quaternaires des vallees de la Tille et de la Norges en bordure de la depression bressane (Cote d'Or)*
+82,18840,*Les paysages periglaciaires; 1, Paysages et climats periglaciaires d'apres les faunes de rongeurs*
+82,21826,*Sediments lacustres-fluviaux de l'Eopleistocene; base de la serie des loess Pleistocenes de la rive droite du Danube en Yugoslavie*
+82,32807,*L'interet des rongeurs dans les gisements quaternaires; premiers resultats d'une recherche effectuee dans une grotte ajoulote*
+82,32829,*Decouvertes paleontologiques a la grotte Mystere (Rochers de Naye, VD)*
+82,33504,*Obzor i istoriya razvitiya organicheskogo mira triasogo perioda na territorii SSSR; Pozvonochnyye*
+82,33505,*Mammalia; Mlekopitayushchiye; Otryad Rodentia; Gryzuny*
+82,33506,*Otryad Carnivora; Khishchnyye*
+82,33507,*Otryad Proboscidea; Khobotnyye*
+82,33508,*Otryad Perissodactyla; Neparnopalyye; Semeystvo Equidae Gray, 1821*
+82,33509,*Otryad Perissodactyla; Semeystvo Rhinocerotidae Owen, 1845*
+82,33510,*Otryad Artiodactyla; Parnopalyye; Semeystvo Camelidae Gray, 1821*
+82,33511,*Otryad Artiodactyla; Parnopalyye; Semeystvo Cervidae Gray, 1821*
+82,33512,*Otryad Artiodactyla; Parnopalyye; Semeystvo Bovidae Gray, 1821; Podsemeystvo Bovinae Gill., 1872; Triba Bovini Simpson, 1945; Rod Bison H. Smith., 1827*
+82,33513,*Otryad Artiodactyla; Parnopalyye; Semeystvo Bovidae Gray, 1821; Podsemeystvo Bovinae Gill., 1872; Triba Tragelaphini Sokolov, 1953*
+82,34223,*Sopostavleniye teriofauny rannego antropogena Moldavii s sootvetstvuyushchimi faunami Yevrazii*
+82,34224,*Rasprostraneniye i chislennost' tura (Bos primigenius Boj.) v golotsene Moldavii*
+82,34225,*Fauna pozdnepliotsenovykh melkikh mlekopitayushchikh Chishmikioyskogo mestonakhozhdeniya v Moldavii*
+82,34226,*Grebnezubyye mastodonty yuga Ukrainy i Moldavii*
+82,34227,*Novyye dannyye o Palaeotragus rouenii Gaudry iz Moldavii*
+82,34243,*Novyy vid letyagi iz roda Pliopetaurista Kretzoi, 1962 (Rodentia Pteromyidae) v srednepliotsenovoy faune Moldavii*
+82,34244,*Novyye dannyye po sistematike, filogenii i ekologii podotryada Deinotherioidea Osborn (1921)*
+82,34245,*Verblyudy Severnogo Prichernomor'ya i Predkavkaz'ya*
+82,34246,*Ostatki Equus caballus latipes Grom. v Moldavii*
+82,34440,*Les insectivores (Mammalia) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze); Complement*
+82,34441,*La lievre sifleur ou chepushka (Ochotonidae, Lagomorpha) dans le remplissage de l'Aven I de la Fage (Correze)*
+82,34442,*Les canides (Mammalia, Carnivora) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34443,*Les ursides du gisement des Abimes de la Fage a Noailles (Correze) (Ursus deningeri von Reich.)*
+82,34444,*Les mustelides (Mammalia, Carnivora) du gisement Pleistocene moyen de la Fage (Correze)*
+82,34445,*Etude de Panthera (Leo) spelaea (Goldfuss) nov. subsp. (Mammalia, Carnivora, Felidae) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34446,*Les chiropteres (Mammalia) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34447,*Les proboscidiens (Mammalia) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34448,*Les oiseaux (Aves) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34449,*Les rongeurs, l'age et la chronologie climatique du remplissage de l'Aven I de la Fage (Correze)*
+82,34450,*Les grands herbivores Rissiens des "Abimes de la Fage en" Correze; la conservation des restes osseux et leur interpretation climatique*
+82,34451,*Conclusions generales sur les faunes de l'Aven I des Abimes de la Fage (Correze)*
+82,34456,*Les Insectivores (Mammalia) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34457,*Les Leporides (Mammalia, Lagomorpha) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34458,*Les trois especes de rhinoceros (Mammalia, Perissodactyla) du gisement Pleistocene moyen des Abimes de la Fage a Noailles (Correze)*
+82,34460,*Presentation du gisement paleontologique Pleistocene des Abimes de la Fage*
+82,34461,*Geometrie du gisement paleontologique des Abimes de la Fage*
+82,34462,*Organisation et realisation techniques du chantier de fouille des Abimes de la Fage*
+82,34463,*Developpement technique de la fouille des Abimes de la Fage*
+82,34464,*Les grands herbivores Rissiens des "Abimes de la Fage" en Correze (Cervides, Bovides, Caprides, Rupricaprines, Suides et Equides)*
+82,34465,*Les rongeurs de l'Aven I des Abimes de la Fage a Noailles (Correze)*
+82,34466,*Les amphibiens et les reptiles du gisement des Abimes de la Fage*
+82,38251,*Zubnaya sistema slonov v ontogeneze i filogeneze*
+82,38252,*Pervaya nakhodka mamonta v podmorennykh sloyakh na Kol'skom poluostrove*
+82,38253,*Bizony severo-vostochnoy Sibiri*
+82,38254,*Gistologicheskoye stroyeniye kozhi bizona, naydennogo v vechnoy merzlote na beregu reki Indigirki*
+82,38255,*Morfologicheskoye izucheniye polovoy sistemy iskopayemogo bizona s reki Indigirki*
+82,38256,*Gistologicheskoye izucheniye myshts tulovishcha shandrinskogo mamonta i iskopayemogo bizona s reki Indigirki*
+82,38257,*Izmeneniye fiziko-geograficheskoy obstanovki na ravninakh severo-vostoka Azii na granitse pleystotena i golotsen, kak osnovnaya prichina vymiraniya teriofauny mamontovogo kompleksa*
+82,38258,*Uvelicheniye vlazhnosti klimata na granitse pleystotsena i golotsena; odna iz prichin vymiraniya mamontov*
+82,38259,*V. N. Tatishchev; pervyy issledovatel' mamonta v Rossii*
+82,38260,*Zakonomernosti zakhoroneniya ostatkov mlekopitayushchikh v pribrezhno-morskikh tolshchakh antropogena*
+82,38261,*Uchastiye aziatskikh grupp mlekopitayushchikh v razvitii rannego etapa chetvertichnoy fauny Yevropy*
+82,38262,*Ob evolyutsii odnopalykh loshadey khaprovskogo i tamanskogo faunisticheskikh kompleksov*
+82,39381,*Die Gliederung der kaenozoischen Sedimente der Tuerkei nach Vertebraten-Faunengruppen*
+82,39382,*Vertebraten-Lokalfaunen der Tuerkei und ihre Altersstellung*
+82,39383,*Die Beziehungen der anatolischen Saeugetierfaunen zu jenen des Balkans und der aegaeischen Inseln*
+82,39384,*Die Stellung der Vertebraten-Faunengruppen der Tuerkei innerhalb der chronostratigraphischen Systeme von Tethys und Paratethys*
+82,39385,*Die Schildkroetenreste der tuerkischen Fundstellen*
+82,39386,*Vorlaeufige Liste der Insectivoren und Chiropteren aus dem hoeheren Jungtertiaer der Tuerkei*
+82,39387,*Rodentia und Lagomorpha aus dem Kaenozoikum der Tuerkei*
+82,39388,*Obermiozaene und unterpliozaene Raubtiere der Tuerkei*
+82,39389,*Proboscidier aus dem Neogen der Tuerkei*
+82,39390,*Anchitherium in der Tuerkei*
+82,39391,*Die Bedeutung der Gattung Hipparion fuer die Stratigraphie des tuerkischen Neogens*
+82,39392,*Rhinocerotidae aus dem Jungtertiaer Anatoliens*
+82,39393,*Die Suidae aus dem tuerkischen Neogen*
+82,39394,*Miozaene Boviden (excl. Ovibovinen) aus der Tuerkei*
+82,40719,*Etude du crane d'un jeune specimen de Moschorhinus kitchingi Broom, 1920 (?Tigrisuchus simus Owen, 1876), Therocephalia, Pristerosauria, Moschorhinidae d'Afrique Australe (Remarques sur les Moschorhinidae el les Whaitsiidae)*
+82,40728,*Derive des continents et paleontologie; quelques reflexions*
+82,40802,*Limites, correlations et ages radiometriques dans le Paleogene d'Europe occidentale*
+82,44679,*Kariologiya lastonogikh (Mammalia, Pinnipedia) i ikh rasseleniye i divergentsiya*
+82,47659,*Istoriya Tsutskhvatskogo mnogoetazhnogo karstovogo peshchernogo kompleksa (Gruziya) i yeye znacheniye dlya poznaniya paleogeografii Kolkhidy v pleystotsene*
+82,47660,*Iskopayemyye medvedi Kavkaza*
+82,47661,*O golotsenovoy faune pozvonochnykh Gruzii*
+82,47675,*Problemy antropogeneza*
+82,47679,*Plasticheskaya reconstruktsiya litsa iskopayemogo cheloveka*
+82,47693,*Absolyutnyy vozrast vulkanogennykh formatsiy Overni i Vele i khronologiya chetvertichnoy fauny mlekopitayushchikh Yevropy*
+82,47694,*Problema korrelyatsionnykh svyazey mezhdu Yuzhnoy Yevropoy i Severnoy Afrikoy v pleystotsene*
+82,47695,*Pozdnevillafranskiye i ranniye srednepleystotsenovyye fauny Italii*
+82,47696,*K biostratigrafii Sredney i Zapadnoy Yevropy na granitse pliotsena i pleystotsena (po faune mlekopitayushchikh)*
+82,47697,*Gippariony pleystotsena Yevropy*
+82,47699,*Granitsa mezhdu nizhnim i srednem pleystotsenom, ustanovlennaya na osnovanii izucheniya ostatkov melkikh pozvonochnykh v Vengrii*
+82,47701,*Stratigrafiya intervala verkhniy pliotsen-nizhniy pleystotsen Dakiyskogo basseyna (Rumyniya)*
+82,47702,*Dannyye o stratigrafii i faune nizhnego i srednego pleystotsena Yugoslavii*
+82,47703,*Tiraspol'skiy faunisticheskiy kompleks*
+82,47705,*Osobennosti stroyeniya srednebi nizhnepleystotsenovykh iskopayemykh pochv na Russkoy ravnine*
+82,47707,*Mestonakhozhdeniye fauny tiraspol'skogo kompleksa na r. Vilyuye (Vostochnaya Sibir')*
+82,47708,*Analogi tiraspol'skogo faunisticheskogo kompleksa v Sibiri*
+82,52700,*Die Equiden aus dem Eozaen des Geiseltals*
+82,52702,*Suesswasserfische des aelteren Tertiaers von Europa*
+82,52703,*Funktional-morphologische Analyse der im Verlaufe des Zeitintervalls Oberkreide-Rezent zur Gestaltung der heutigen Serranidae (Pisces) hinzielenden Veraenderungen*
+82,52704,*Bemerkungen ueber die Schildkroeten (Testudinoides) des Geiseltals*
+82,52705,*Zur Kenntnis der Sauria (Lacertilia) aus dem Eozaen des Geiseltals*
+82,52706,*Genese, Paleoekologie und Biostratigraphie der Fossilfundstellen im Eozaen des Geiseltals*
+82,52707,*Zur Geologie des Geiseltals*
+82,52716,*Novyy vid Alosa (Clupeidae) iz oligotsena Severnogo Priaral'ya*
+82,52717,*Iskopayemaya cherepakha-trioniks iz srednego oligotsena Turgayskoy vpadiny*
+82,52718,*Pozdnepaleogenovyye primitivnyye nosorogoobraznyye i tapiroobraznyye Myneskesuyyek*
+82,52719,*Novyy predstavitel' tushkanchikovykh iz Severnogo Kazakhstana*
+82,52720,*Vymershiye bobry Severo-Zapadnogo Kazakhstana i ikh stratigraficheskaya priurochennost'*
+82,52721,*Neogenovyye zhvachnyye Tul'kisaya*
+82,52722,*Novyye nakhodki nosoroga roda Chilotherium iz Turgayskoy oblasti*
+82,52723,*Sopostavleniye yesekartkanskoy fauny s gipparionovymi i pozdnegipparionovymi faunami Azii*
+82,52724,*Antropogenovyye slony severo-zapadnoy chasti Kazakhstana*
+82,52725,*Zoogeograficheskiy analiz sostava i raspredeleniya antropogenovoy fauny Kazakhstana v prostranstve i vremeni*
+

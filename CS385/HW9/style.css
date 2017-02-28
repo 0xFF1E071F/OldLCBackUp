@@ -1,0 +1,145 @@
+﻿/*	Yu Fu
+	2014
+	cs385
+	This is CSS style file for Collect ur likes website
+*/
+
+body {
+	background-color: #FFFFFF;/*white*/
+}
+
+/*Area to show posted information*/
+.contentAreas	
+{
+	background-color: #CCE8CF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding:10px;
+	height:100%;
+	width:98%
+}
+
+div {
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+
+/* Header*/
+div#header {
+	height: 150px;
+	background-image: url('title_bg.png');
+	background-color: black;
+	background-repeat: no-repeat;
+	color: white;
+}
+/* New define for h1 */
+div#header h1 {
+	width:70%;
+	HEIGHT:100%;
+	text-align:right;
+	margin: 0px;
+	font-size: xx-large;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*leadTable user and tags*/
+table#leadTable {
+	float: left;
+	height:100px;
+	width:100%;
+	position:relative
+}
+	
+/*TagsTable to show all tags of information */
+th#TagsTable{
+	border:0;
+	text-align:left;
+	width:80%;
+	height:20%
+}
+		
+/*userTable include all user managment */
+th#userTable{
+	border:0;
+	width:20%;
+	text-align:mid;
+}
+
+
+/* Middle part*/
+table#middlePart {
+	width: 100%;
+	float: left;
+	height: 100%;
+	border="1"
+}
+/*left part of middle*/
+td#middleTable {
+	width: 83%;
+	border:"0";
+	height: 100%;	
+ 	vertical-align:top;
+	table-layout:fixed;
+	}
+	
+/*contentTable shows all information of a td class*/
+table#contentTable {
+	float: left;
+	width: 100%;
+	border:0;
+	table-layout:fixed;
+	}
+	
+/*this is three parts to show information*/
+td#threeLine{
+	float: left;
+	width: 32%;
+	border:thin gray groove;
+	table-layout:fixed;
+	word-break:break-all;
+	}
+}
+div{ word-wrap: break-word; word-break: normal;}
+/*this is three parts to show information*/
+td#searchResult{
+	float: left;
+	width: 95%;
+	border:thin gray groove;
+	table-layout:fixed;
+	word-break:break-all;
+	word-wrap: break-word;
+	position: static;
+	}
+}
+/* Right Sidebar*/
+td#right-sidebar {
+	float: left;
+	width: 18%;
+	position: fixed;
+	vertical-align:top;
+	background-color: #FFACAA;
+}
+/*Block for every posts*/
+.content_block{
+	background-color:#E8E8E8;
+	width:100%;
+	overflow:hidden;
+	height=100%;
+	}
+.search_block{
+	background-color:#E8E8E8;
+	width:100%;
+	overflow:hidden;
+	height=100%;
+	
+	}
+/* Footer*/
+table#footer {
+	width: 80%;
+	position: static;
+}
+/*text in footer show as alway at center*/
+p#f1{
+	text-align:center;
+}
+

@@ -1,0 +1,1815 @@
+54,1,*Faunas -- Quaternary*,*Bos, Armenia*
+54,2,*Faunas -- Quaternary*,*Elephas, Armenia*
+54,3,*Faunas -- Quaternary*,*Equus, Armenia*
+54,4,*Faunas -- Quaternary*,*rhino, Armenia*
+54,5,*Faunas -- Quaternary*,*mammals, Armenia*
+54,6,*Faunas -- Quaternary*,*camels, Armenia*
+54,14,*Faunas -- Quaternary*,*aurochs, France*
+54,17,*Faunas -- Oligocene*,*anthracothere, Italy*
+54,18,*Faunas -- Triassic*,*fish, Europe*
+54,19,*Faunas -- Quaternary*,**
+54,20,*Faunas -- Triassic*,**
+54,21,*Faunas -- Triassic*,*holostean, Italy*
+54,22,*Faunas -- Quaternary*,**
+54,23,*Faunas -- Quaternary*,*pygmy elephant and pygmy hippo, Sicily*
+54,24,*Faunas -- Quaternary*,**
+54,25,*Faunas -- Quaternary*,**
+54,26,*Faunas -- Quaternary*,**
+54,27,*Faunas -- Quaternary*,**
+54,28,*Faunas -- Quaternary*,*elephants, Europe*
+54,29,*Faunas -- Quaternary*,*rhino, Europe*
+54,49,*Faunas -- Tertiary*,*mammals, Spain*
+54,50,*Faunas -- Quaternary*,*Equus, Granada*
+54,52,*Faunas -- Pliocene*,**
+54,53,*Faunas -- Pliocene*,*mammals, Spain*
+54,53,*Faunas -- Quaternary*,*mammals, Spain*
+54,58,*Faunas -- Tertiary*,*mammals, Canada*
+54,59,*Faunas -- Cretaceous*,**
+54,60,*Faunas -- Cretaceous*,*dinosaur, Champsosaurus, Canada*
+54,65,*Faunas -- Quaternary -- Cave Faunas*,*Starosel'e Cave, Crimea; Neanderthal child*
+54,67,*Faunas -- Miocene*,**
+54,68,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,79,*Faunas -- Quaternary -- Cave Faunas*,*mammals and birds, Fonte%Achevade, France*
+54,117,*Faunas -- Jurassic*,*amphibians, reptiles, Spain*
+54,127,*Faunas -- Quaternary*,*mammals, Belgian Congo*
+54,129,*Faunas -- Cretaceous*,*reptiles, Pacific Coast*
+54,133,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Italy*
+54,147,*Faunas -- Quaternary*,*mammals, Big Bone Lick, Ky.*
+54,163,*Faunas -- Quaternary -- Cave Faunas*,*Australian marsupials*
+54,167,*Faunas -- Quaternary*,*Diprotodon, Australia*
+54,168,*Faunas -- Oligocene*,*verts., South Dakota, Montana*
+54,171,*Faunas -- Pliocene*,*mammals, eastern Oreg.*
+54,198,*Faunas -- Eocene*,*Eohippus*
+54,216,*Faunas -- Miocene*,*Merychippus, Mexico*
+54,219,*Faunas -- Tertiary*,*mammals, Oregon*
+54,225,*Faunas -- Quaternary*,*mammals, Mex.*
+54,233,*Faunas -- Quaternary*,*Australian marsupials*
+54,243,*Faunas -- Jurassic*,*Scelidosaurus*
+54,258,*Faunas -- Eocene*,**
+54,275,*Faunas -- Quaternary*,*mammals, Europe*
+54,296,*Faunas -- Triassic*,*reptiles, Israel*
+54,298,*Faunas -- Paleocene*,**
+54,323,*Faunas -- Paleocene*,*mammals, Wyo*
+54,327,*Faunas -- Quaternary*,*elephant, Calif.*
+54,372,*Faunas -- Eocene*,*mammals, Wyo.*
+54,390,*Faunas -- Pliocene*,*owl, Calif.*
+54,391,*Faunas -- Triassic*,*dicynodonts, N. A.*
+54,433,*Faunas -- Quaternary*,*pygmy mammoths, Calif.*
+54,437,*Faunas -- Pliocene*,*birds, Calif.*
+54,462,*Faunas -- Triassic*,*fishes, Va.*
+54,464,*Faunas -- Quaternary*,*Palaeoloxodon, Japan*
+54,465,*Faunas -- Cretaceous*,*pterosaur, Jordan*
+54,467,*Faunas -- Pliocene*,**
+54,468,*Faunas -- Quaternary*,**
+54,477,*Faunas -- Quaternary*,**
+54,478,*Faunas -- Cretaceous*,*fishes, Morocco*
+54,481,*Faunas -- Quaternary*,*mammals, Algeria*
+54,485,*Faunas -- Pliocene*,*Hipparion, Algeria*
+54,486,*Faunas -- Quaternary*,*gazelles, N. Afr.*
+54,491,*Faunas -- Miocene*,*mammals, Algeria*
+54,497,*Faunas -- Quaternary*,*mammals, N. Afr.*
+54,507,*Faunas -- Quaternary*,*mammals, Algeria*
+54,508,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Angola*
+54,515,*Faunas -- Cenozoic*,*mammals, Mex.*
+54,523,*Faunas -- Quaternary*,*mammals, Tunisia*
+54,524,*Faunas -- Quaternary*,*birds, Cuba*
+54,525,*Faunas -- Quaternary*,*ground sloths, Cuba*
+54,526,*Faunas -- Quaternary*,*strigiform birds, Cuba*
+54,527,*Faunas -- Quaternary*,*rodents, Cuba*
+54,543,*Faunas -- Oligocene*,*mammals, France*
+54,544,*Faunas -- Jurassic*,*pycnodonts, France*
+54,545,*Faunas -- Quaternary -- Cave Faunas*,*carnivores, Arie%Cge*
+54,547,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Dourgne*
+54,548,*Faunas -- Quaternary -- Cave Faunas*,*rhino, France*
+54,549,*Faunas -- Quaternary*,**
+54,550,*Faunas -- Oligocene*,*Anthracotherium, Pyrennes*
+54,551,*Faunas -- Quaternary*,**
+54,552,*Faunas -- Oligocene*,*Aceratherium, France*
+54,553,*Faunas -- Eocene*,*Propalaeotherium, France*
+54,554,*Faunas -- Eocene*,*Myliobates, France*
+54,555,*Faunas -- Quaternary*,*mammals, France*
+54,556,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,557,*Faunas -- Quaternary*,*Elephas, France*
+54,559,*Faunas -- Devonian*,*Holoptychius, Scotland*
+54,562,*Faunas -- Pliocene*,*Gavialosuchus, Fla.*
+54,564,*Faunas -- Pliocene*,*Ophisaurus, Fla.*
+54,564,*Faunas -- Quaternary*,*Ophisaurus, Fla.*
+54,565,*Faunas -- Miocene*,*anurans, Fla.*
+54,566,*Faunas -- Quaternary*,*lizards, Fla.*
+54,567,*Faunas -- Pliocene*,*Bufo, Fla.*
+54,569,*Faunas -- Quaternary*,*Dasypus, Fla.*
+54,570,*Faunas -- Miocene*,*colubrid, Mont.*
+54,572,*Faunas -- Quaternary*,*Terrapene, Fla.*
+54,573,*Faunas -- Quaternary*,*Hyla, lizards, snakes, Leeward Islands*
+54,574,*Faunas -- Miocene*,*salamanders, Tex.*
+54,580,*Faunas -- Permian*,*Czechoslovakia*
+54,583,*Faunas -- Quaternary*,*mammals, Armenia*
+54,584,*Faunas -- Quaternary*,*mammals, Tex.*
+54,585,*Faunas -- Quaternary*,*mammals, Mex.*
+54,587,*Faunas -- Quaternary*,**
+54,588,*Faunas -- Quaternary*,*mammoth, Mex.*
+54,590,*Faunas -- Cretaceous*,*Stratodus, Israel*
+54,592,*Faunas -- Pliocene*,*mastodonts, Nev.*
+54,593,*Faunas -- Quaternary*,*suids, Italy*
+54,594,*Faunas -- Quaternary*,*cervids, India*
+54,597,*Faunas -- Quaternary*,*Capra, Austria*
+54,598,*Faunas -- Triassic*,*tritylodont, Ariz.*
+54,603,*Faunas -- Quaternary -- Cave Faunas*,*cave bear*
+54,606,*Faunas -- Quaternary*,*Elephas, Europe*
+54,607,*Faunas -- Miocene*,*Clemmys, Austria*
+54,610,*Faunas -- Tertiary*,*turtles, Austria*
+54,611,*Faunas -- Quaternary*,*mammoth, Austria*
+54,614,*Faunas -- Pliocene*,*mastodon, Hungary*
+54,615,*Faunas -- Quaternary*,*mastodon, Austria*
+54,616,*Faunas -- Quaternary -- Cave Faunas*,*Plio. cave fauna, Burgenland*
+54,619,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Urals*
+54,621,*Faunas -- Miocene*,*Equidae, Fla.*
+54,622,*Faunas -- Quaternary*,*mammals, Fla.*
+54,633,*Faunas -- Triassic*,*reptile tracks, N. J.*
+54,635,*Faunas -- Carboniferous*,*Physonemus, W. Vir.*
+54,636,*Faunas -- Carboniferous*,*reptiles, Linton, Ohio*
+54,638,*Faunas -- Pliocene*,*mammals, Bulgaria*
+54,639,*Faunas -- Quaternary*,*mastodon, Bulgaria*
+54,642,*Faunas -- Devonian*,*pteraspids, Poland*
+54,642,*Faunas -- Devonian*,*verts., Poland*
+54,644,*Faunas -- Quaternary*,*mammals, France*
+54,663,*Faunas -- Quaternary*,**
+54,664,*Faunas -- Quaternary*,*Soricidae, Afr.*
+54,679,*Faunas -- Miocene*,*mammals, Fla.*
+54,682,*Faunas -- Cenozoic*,*zebra, Mex.*
+54,700,*Faunas -- Quaternary*,*mammals, Tuscany*
+54,703,*Faunas -- Jurassic*,*fishes, Ye%Amen, Arabia*
+54,707,*Faunas -- Jurassic*,*fishes, Spain*
+54,707,*Faunas -- Triassic*,*fishes, Spain*
+54,709,*Faunas -- Tertiary*,*verts., Spain*
+54,711,*Faunas -- Cretaceous*,*reptiles, Spain*
+54,736,*Faunas -- Tertiary*,**
+54,737,*Faunas -- Tertiary*,**
+54,739,*Faunas -- Tertiary*,**
+54,741,*Faunas -- Tertiary*,**
+54,742,*Faunas -- Tertiary*,*fishes, Spain*
+54,745,*Faunas -- Pliocene*,*fishes, Spain*
+54,748,*Faunas -- Quaternary*,*deer, Spain*
+54,749,*Faunas -- Miocene*,**
+54,750,*Faunas -- Miocene*,**
+54,751,*Faunas -- Miocene*,**
+54,752,*Faunas -- Miocene*,*mammals, U.S.S.R.*
+54,757,*Faunas -- Quaternary*,*mammoth, Germany*
+54,781,*Faunas -- Tertiary*,*mammals, Mongolia*
+54,782,*Faunas -- Tertiary*,*mammals, Caucausus*
+54,783,*Faunas -- Quaternary*,*mammoth, Asia*
+54,784,*Faunas -- Oligocene*,*rhinos, Mongolia*
+54,785,*Faunas -- Miocene*,*anchitheres, Mongolia, U.S.S.R.*
+54,786,*Faunas -- Tertiary*,*chalicotheres, Mongolia*
+54,787,*Faunas -- Tertiary*,*rhinos, Asia*
+54,788,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,788,*Faunas -- Tertiary*,*mammals, U.S.S.R.*
+54,794,*Faunas -- Tertiary*,*verts., Sahara*
+54,825,*Faunas -- Carboniferous*,*fishes, U.S.S.R.*
+54,828,*Faunas -- Oligocene*,*Paralichelys, Spain*
+54,830,*Faunas -- Tertiary*,**
+54,831,*Faunas -- Tertiary*,*chelonians, Italy*
+54,832,*Faunas -- Pliocene*,*Testudo, Tunisia*
+54,833,*Faunas -- Eocene*,*chelonians, Tunisia*
+54,834,*Faunas -- Eocene*,*crocodilians, Tunisia*
+54,836,*Faunas -- Eocene*,*reptiles, Tunisia*
+54,837,*Faunas -- Jurassic*,*Thalassochelys, France*
+54,838,*Faunas -- Pliocene*,*Temnoclemmys, Spain*
+54,839,*Faunas -- Quaternary*,*mastodonts, Spain*
+54,839,*Faunas -- Tertiary*,**
+54,840,*Faunas -- Quaternary*,**
+54,841,*Faunas -- Quaternary*,*chelonians, Spain*
+54,842,*Faunas -- Tertiary*,*reptiles, Spain*
+54,846,*Faunas -- Miocene*,**
+54,847,*Faunas -- Miocene*,*mastodonts, Spain*
+54,849,*Faunas -- Miocene*,*Serridanancus, France*
+54,850,*Faunas -- Miocene*,*Tetralophodon, Tunisia*
+54,851,*Faunas -- Miocene*,**
+54,852,*Faunas -- Tertiary*,**
+54,853,*Faunas -- Miocene*,*mastodonts, Europe*
+54,855,*Faunas -- Miocene*,*Turicius, France*
+54,856,*Faunas -- Tertiary*,**
+54,857,*Faunas -- Pliocene*,**
+54,858,*Faunas -- Tertiary*,**
+54,859,*Faunas -- Tertiary*,*mastodonts, Spain*
+54,860,*Faunas -- Pliocene*,*anancines, Spain*
+54,865,*Faunas -- Quaternary*,*mammals, Sicily*
+54,875,*Faunas -- General*,*succession of fish faunas*
+54,891,*Faunas -- Quaternary*,*mammals, Philippines*
+54,894,*Faunas -- Quaternary -- Cave Faunas*,*hippo, Italy*
+54,913,*Faunas -- Quaternary*,*verts., Asia*
+54,925,*Faunas -- Miocene*,*mammals, Afr.*
+54,927,*Faunas -- Miocene*,*sicistine rodent, Wyo.*
+54,942,*Faunas -- Quaternary*,*mammals, Italy*
+54,955,*Faunas -- Quaternary*,*Cygnus, Rome area*
+54,962,*Faunas -- Quaternary*,*Asinus, N. Afr.*
+54,970,*Faunas -- Quaternary*,*mammals, Palestine*
+54,972,*Faunas -- Miocene*,**
+54,973,*Faunas -- Miocene*,*fishes, Europe*
+54,974,*Faunas -- Tertiary*,**
+54,975,*Faunas -- Tertiary*,*fishes, Asia*
+54,976,*Faunas -- Tertiary*,*mammals, Armenia*
+54,978,*Faunas -- Miocene*,*Triceromeryx, Europe*
+54,982,*Faunas -- Mesozoic*,*dinosaur, Europe*
+54,984,*Faunas -- Silurian*,*Panzerfish*
+54,1005,*Faunas -- Permian*,*reptiles, S. Afr.*
+54,1025,*Faunas -- Permian*,*gorgonopsian, S. Afr.*
+54,1026,*Faunas -- Permian*,**
+54,1027,*Faunas -- Permian*,**
+54,1028,*Faunas -- Permian*,**
+54,1029,*Faunas -- Permian*,**
+54,1030,*Faunas -- Permian*,**
+54,1031,*Faunas -- Permian*,*scaloposaurid, S. Afr.*
+54,1033,*Faunas -- Permian*,*therocephalians, S. Afr.*
+54,1034,*Faunas -- Permian*,**
+54,1035,*Faunas -- Permian*,**
+54,1036,*Faunas -- Permian*,*titanosuchid, S. Afr.*
+54,1037,*Faunas -- Permian*,**
+54,1038,*Faunas -- Permian*,*deinocephalians, S. Afr.*
+54,1039,*Faunas -- Permian*,*tapinocephalids, S. Afr.*
+54,1040,*Faunas -- Permian*,*pareiasaurian, S. Afr.*
+54,1042,*Faunas -- Permian*,*moschopids, S. Afr.*
+54,1058,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,1062,*Faunas -- Oligocene*,*Aceratherium, Asia*
+54,1089,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,1092,*Faunas -- Quaternary*,*rare mammals, France*
+54,1093,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,1094,*Faunas -- Quaternary*,*mammals, France*
+54,1106,*Faunas -- Quaternary*,*cold faunas, France*
+54,1111,*Faunas -- Quaternary*,*mammals, France*
+54,1113,*Faunas -- Quaternary*,*mammals and birds, France*
+54,1118,*Faunas -- Quaternary*,*fishes, France*
+54,1119,*Faunas -- Quaternary*,*verts., France*
+54,1121,*Faunas -- Quaternary*,*mastodonts, France*
+54,1127,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,1144,*Faunas -- Triassic*,**
+54,1145,*Faunas -- Triassic*,*Desmatosuchus, Ariz.*
+54,1159,*Faunas -- Tertiary*,*chelonian, Europe*
+54,1160,*Faunas -- Quaternary*,*birds, England*
+54,1169,*Faunas -- Quaternary -- Cave Faunas*,*amphibians and reptiles, Nev.*
+54,1170,*Faunas -- Pliocene*,*pit-vipers, N. A.*
+54,1170,*Faunas -- Quaternary*,*pit-vipers, N. A.*
+54,1171,*Faunas -- Pliocene*,*amphibians, reptiles, Mex.*
+54,1171,*Faunas -- Quaternary*,*amphibians, reptiles, Mex.*
+54,1172,*Faunas -- Quaternary*,*lizards, Mex.*
+54,1173,*Faunas -- Quaternary*,*reptiles, Calif.*
+54,1174,*Faunas -- Eocene*,*snakes and lizards, Calif.*
+54,1175,*Faunas -- Pliocene*,*amphibians, reptiles, Ariz.*
+54,1175,*Faunas -- Quaternary*,*amphibians, reptiles, Ariz.*
+54,1178,*Faunas -- Cenozoic*,*amphibians, reptiles, Calif.*
+54,1179,*Faunas -- Quaternary -- Cave Faunas*,*boa, Cuba*
+54,1180,*Faunas -- Quaternary -- Cave Faunas*,*herpetofauna, Nev.*
+54,1181,*Faunas -- Oligocene*,*lizards, N. A.*
+54,1222,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Pyrenees*
+54,1262,*Faunas -- Quaternary*,*cave bear, France*
+54,1287,*Faunas -- Triassic*,*cynodonts, S. Afr.*
+54,1289,*Faunas -- Permian*,*therocephalians, S. Afr.*
+54,1292,*Faunas -- Triassic*,*Cynognathidae, S. Afr.*
+54,1301,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Alps*
+54,1306,*Faunas -- Quaternary -- Cave Faunas*,**
+54,1307,*Faunas -- Quaternary -- Cave Faunas*,*Elephas and cave bear, Serbia*
+54,1311,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Jugoslavia*
+54,1315,*Faunas -- Pliocene*,*flamingo, Fla.*
+54,1316,*Faunas -- Quaternary*,*rail, Fla.*
+54,1317,*Faunas -- Miocene*,*chachalaca, Fla.*
+54,1318,*Faunas -- Pliocene*,*birds, Bone Valley formation, Fla.*
+54,1319,*Faunas -- Quaternary -- Cave Faunas*,*birds, Eichelberger Cave, Fla.*
+54,1320,*Faunas -- Miocene*,*birds, Fla.*
+54,1321,*Faunas -- Quaternary*,*birds, Fla.*
+54,1322,*Faunas -- Quaternary*,*passerine birds, Fla.*
+54,1323,*Faunas -- Pliocene*,*birds, Oreg.*
+54,1324,*Faunas -- Quaternary*,*birds, Idaho*
+54,1333,*Faunas -- Triassic*,**
+54,1334,*Faunas -- Triassic*,*reptiles, Israel*
+54,1343,*Faunas -- Quaternary -- Cave Faunas*,*Mediterranean fauna in North. Europe*
+54,1344,*Faunas -- Quaternary -- Cave Faunas*,*Germany*
+54,1345,*Faunas -- Quaternary -- Cave Faunas*,*Austria*
+54,1346,*Faunas -- Quaternary -- Cave Faunas*,**
+54,1347,*Faunas -- Quaternary -- Cave Faunas*,**
+54,1348,*Faunas -- Quaternary -- Cave Faunas*,*verts., Germany*
+54,1353,*Faunas -- Pliocene*,*fishes and flora, Nebr.*
+54,1357,*Faunas -- Oligocene*,*Turgai basin, Asia*
+54,1358,*Faunas -- Quaternary*,*owls, Asia*
+54,1361,*Faunas -- Pliocene*,*mammals, Asia*
+54,1362,*Faunas -- Pliocene*,*giraffe, U.S.S.R.*
+54,1363,*Faunas -- Quaternary*,**
+54,1364,*Faunas -- Quaternary*,*mammals, Azerbaijan, S.S.R.*
+54,1366,*Faunas -- Quaternary*,*mammoth, Hungary*
+54,1367,*Faunas -- Miocene*,*goose, Udabno*
+54,1367,*Faunas -- Pliocene*,*goose, U.S.S.R.*
+54,1368,*Faunas -- Quaternary*,*bovids, U.S.S.R.*
+54,1369,*Faunas -- Quaternary*,*verts., Azerbaijan, S.S.R.*
+54,1393,*Faunas -- Devonian*,*fishes, Greenland*
+54,1394,*Faunas -- Miocene*,*erinaceids, E. Afr.*
+54,1396,*Faunas -- Miocene*,*insectivores and bats, S. Afr.*
+54,1398,*Faunas -- Eocene*,*mammals, Yucatan*
+54,1400,*Faunas -- Miocene*,*Merychippus, Calif.*
+54,1406,*Faunas -- Permian*,*Dvinosaurus, Volga River*
+54,1410,*Faunas -- Permian*,*Gorgonops, Volga River*
+54,1412,*Faunas -- Devonian*,**
+54,1413,*Faunas -- Devonian*,*agnathid, Siberia*
+54,1422,*Faunas -- Triassic*,*dicynodonts and first cotylosaur, China*
+54,1430,*Faunas -- Quaternary*,*rhino, Italy*
+54,1432,*Faunas -- Cretaceous*,*fishes, Belgian Congo*
+54,1432,*Faunas -- Eocene*,*fishes, Belgian Congo*
+54,1432,*Faunas -- Jurassic*,*fishes, Belgian Congo*
+54,1432,*Faunas -- Miocene*,*fishes, Belgian Congo*
+54,1432,*Faunas -- Quaternary*,*fishes, reptiles and mammals, Belgian Congo*
+54,1437,*Faunas -- Pliocene*,*fishes, Fla.*
+54,1446,*Faunas -- Triassic*,**
+54,1449,*Faunas -- Triassic*,*ichthyosaurs, Nev.*
+54,1459,*Faunas -- Quaternary*,*Asinus, Italy*
+54,1464,*Faunas -- Quaternary*,*amphibians and reptiles in fissures, England*
+54,1487,*Faunas -- Quaternary*,*Lestodon, Brazil*
+54,1491,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Spain*
+54,1497,*Faunas -- Quaternary*,*fishes, Belgium*
+54,1498,*Faunas -- Mesozoic and Cenozoic*,*fishes, Angola, Afr.*
+54,1499,*Faunas -- Cenozoic*,*fishes, Antilles*
+54,1504,*Faunas -- Tertiary*,*Neothoracophorus, S. A.*
+54,1505,*Faunas -- Tertiary*,**
+54,1506,*Faunas -- Quaternary*,**
+54,1506,*Faunas -- Tertiary*,**
+54,1507,*Faunas -- Tertiary*,**
+54,1508,*Faunas -- Tertiary*,*glyptodonts, S. A., N. A.*
+54,1509,*Faunas -- Tertiary*,*mammals, Argentina*
+54,1510,*Faunas -- Quaternary*,*verts., Argentina*
+54,1513,*Faunas -- Quaternary*,**
+54,1514,*Faunas -- Quaternary*,*glyptodonts, S. A., N. A.*
+54,1515,*Faunas -- Pliocene*,*armadillo, Argentina*
+54,1521,*Faunas -- Quaternary*,*birds, Argentina*
+54,1522,*Faunas -- Quaternary*,*Tapirus, Argentina*
+54,1523,*Faunas -- Cretaceous*,*Podocnemus, Argentina*
+54,1534,*Faunas -- Oligocene*,*carnivore, Wyo.*
+54,1538,*Faunas -- Pliocene*,*machairodont, China*
+54,1539,*Faunas -- Pliocene*,*Metailurus, China*
+54,1555,*Faunas -- Triassic*,*fishes, Madagascar*
+54,1571,*Faunas -- Paleozoic*,*oldest continental vert., U.S.S.R.*
+54,1580,*Faunas -- Quaternary*,*mammals, Ukraine*
+54,1581,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,1603,*Faunas -- Quaternary*,*mammals, China*
+54,1603,*Faunas -- Quaternary*,*mammals, China*
+54,1619,*Faunas -- Triassic*,*fishes, China*
+54,1620,*Faunas -- Pliocene*,*elephant, Morocco*
+54,1622,*Faunas -- Cretaceous*,*dinosaurs, China*
+54,1624,*Faunas -- Quaternary*,**
+54,1626,*Faunas -- Quaternary*,*muntjac, China*
+54,1628,*Faunas -- Quaternary*,*elephants, China*
+54,1629,*Faunas -- Cenozoic*,*mammals, China*
+54,1630,*Faunas -- Quaternary*,*mammals, China*
+54,1634,*Faunas -- Tertiary*,**
+54,1636,*Faunas -- Eocene*,*coryphodont, China*
+54,1639,*Faunas -- Quaternary*,*chelonians, China*
+54,1640,*Faunas -- Eocene*,*entelodont, China*
+54,1641,*Faunas -- Pliocene*,*rhinos, China*
+54,1642,*Faunas -- Oligocene*,*mammals, China*
+54,1643,*Faunas -- Tertiary*,*mammals, China*
+54,1644,*Faunas -- Quaternary*,*mammals, China*
+54,1645,*Faunas -- Quaternary*,*bovid, China*
+54,1646,*Faunas -- Eocene*,*mammals, China*
+54,1647,*Faunas -- Miocene*,*equid, China*
+54,1648,*Faunas -- Tertiary*,*turtle, China*
+54,1649,*Faunas -- Eocene*,*turtle, China*
+54,1650,*Faunas -- Cenozoic*,*turtle, China*
+54,1654,*Faunas -- Paleozoic*,*amphibian, Germany*
+54,1655,*Faunas -- Permian*,**
+54,1656,*Faunas -- Permian*,*pelycosaurs, U.S.S.R.*
+54,1657,*Faunas -- Permian*,*cotylosaurs, U.S.S.R.*
+54,1658,*Faunas -- Permian*,*cotylosaurs, U.S.S.R.*
+54,1658,*Faunas -- Triassic*,*cotylosaurs, U.S.S.R.*
+54,1659,*Faunas -- Tertiary*,*hyracoids, S. Afr.*
+54,1661,*Faunas -- Pliocene*,*Pikermi fauna, Europe*
+54,1700,*Faunas -- Miocene*,*lemuroid, E. Afr.*
+54,1707,*Faunas -- Oligocene*,*verts., South. Calif.*
+54,1724,*Faunas -- Triassic*,*fishes, amphibians, reptiles, Ariz.*
+54,1742,*Faunas -- Triassic*,*tetrapods*
+54,1743,*Faunas -- Triassic*,*coelurosaurs, Conn.*
+54,1744,*Faunas -- Cretaceous*,*giant crocodile, Tex.*
+54,1747,*Faunas -- Triassic*,*metoposaurid amphibians*
+54,1758,*Faunas -- Jurassic*,*dinosaurs, Madagascar*
+54,1762,*Faunas -- Cenozoic*,*fossils, Sardinia*
+54,1763,*Faunas -- Quaternary*,**
+54,1764,*Faunas -- Quaternary*,*mammals, Sardinia*
+54,1765,*Faunas -- Quaternary*,*cervids, Sardinia*
+54,1766,*Faunas -- Miocene*,*sirenian, Sardinia*
+54,1780,*Faunas -- Oligocene*,*cerodont, Nebr.*
+54,1783,*Faunas -- Quaternary*,**
+54,1786,*Faunas -- Quaternary*,*mammals, S. Afr.*
+54,1791,*Faunas -- Quaternary*,**
+54,1802,*Faunas -- Quaternary*,*Siberian mammoth*
+54,1803,*Faunas -- Pliocene*,*mammals, southern Tunisia*
+54,1812,*Faunas -- Quaternary -- Cave Faunas*,*cave lion, Italy*
+54,1813,*Faunas -- Quaternary*,*mammals, Italy*
+54,1819,*Faunas -- Pliocene*,*elephants, France*
+54,1828,*Faunas -- Quaternary*,*wolf, Alberta*
+54,1840,*Faunas -- Permian*,*bauriamorphids, S. Afr.*
+54,1841,*Faunas -- Triassic*,*cynodonts, Tanganyika*
+54,1844,*Faunas -- Triassic*,*new ictidosaurs, S. Afr.*
+54,1845,*Faunas -- Triassic*,*cynodont, S. Afr.*
+54,1850,*Faunas -- Miocene*,*amphibians, reptiles, mammals, France*
+54,1851,*Faunas -- Miocene*,*proboscideans, France*
+54,1852,*Faunas -- Miocene*,*proboscidean, France*
+54,1855,*Faunas -- Miocene*,*giraffe, Spain*
+54,1857,*Faunas -- Tertiary*,*mammals, Spain*
+54,1858,*Faunas -- Miocene*,**
+54,1859,*Faunas -- Miocene*,*mammals, Europe*
+54,1861,*Faunas -- Permian*,**
+54,1862,*Faunas -- Eocene*,*phenacodont, Spain*
+54,1863,*Faunas -- Permian*,*reptiles, Tex.*
+54,1868,*Faunas -- Eocene*,*mammals, Spain*
+54,1869,*Faunas -- Miocene*,*mammals, Spain*
+54,1871,*Faunas -- Pliocene*,*giraffe, Turkey*
+54,1874,*Faunas -- Permian*,*verts., Tex.*
+54,1875,*Faunas -- Tertiary*,*endemism in mammalian faunas, Spain*
+54,1878,*Faunas -- Eocene*,*reptiles, mammals, Spain*
+54,1880,*Faunas -- Pliocene*,*suid, Spain*
+54,1886,*Faunas -- Miocene*,**
+54,1887,*Faunas -- Eocene*,*reptiles, mammals, Spain*
+54,1889,*Faunas -- Miocene*,*mammals, Spain*
+54,1891,*Faunas -- Miocene*,*mammals, Spain*
+54,1892,*Faunas -- Quaternary*,*mammals, Spain*
+54,1893,*Faunas -- Pliocene*,*mammals, Spain*
+54,1894,*Faunas -- Eocene*,*condylarth, Spain*
+54,1895,*Faunas -- Eocene*,*turtles, mammals, Spain*
+54,1896,*Faunas -- Miocene*,**
+54,1898,*Faunas -- Pliocene*,**
+54,1899,*Faunas -- Pliocene*,*mammals, Spain*
+54,1900,*Faunas -- Eocene*,*primate, Spain*
+54,1901,*Faunas -- Tertiary*,*mammals, spain*
+54,1902,*Faunas -- Pliocene*,*mammals, Spain*
+54,1904,*Faunas -- Miocene*,*mammals, Spain*
+54,1910,*Faunas -- Pliocene*,*tortoise, Poland*
+54,1912,*Faunas -- Tertiary*,*rhino, Poland*
+54,1915,*Faunas -- Quaternary -- Cave Faunas*,*verts., Urts Mts.*
+54,1918,*Faunas -- Quaternary*,*verts., Algeria*
+54,1921,*Faunas -- Quaternary*,*bison, Tex.*
+54,1938,*Faunas -- Miocene*,*cod, Crimea*
+54,1944,*Faunas -- Tertiary*,*fishes, Caucasus*
+54,1982,*Faunas -- Quaternary*,*mammals, West. N. A.*
+54,1984,*Faunas -- Tertiary*,*anacanthin fishes, West. U. S.*
+54,1988,*Faunas -- Quaternary -- Cave Faunas*,*mammals, France*
+54,1991,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Charente caves, France*
+54,2009,*Faunas -- Eocene*,*verts., England*
+54,2016,*Faunas -- Quaternary*,*rail, New Zealand*
+54,2017,*Faunas -- Tertiary*,*Leporidae, N. A.*
+54,2018,*Faunas -- Cretaceous*,**
+54,2019,*Faunas -- Cretaceous*,*crocodile, France*
+54,2021,*Faunas -- Cretaceous*,*crocodile, France*
+54,2026,*Faunas -- Jurassic*,*ichthyosaur, England*
+54,2027,*Faunas -- General*,*Lepospondyli*
+54,2031,*Faunas -- Miocene*,*typothere, S. A.*
+54,2058,*Faunas -- Tertiary*,*vertebrates, Tex.*
+54,2059,*Faunas -- Pliocene*,*mammals, Spain*
+54,2062,*Faunas -- Quaternary*,*golden mole, S. Afr.*
+54,2063,*Faunas -- Quaternary*,*antelopes, Balearics and Sardinia*
+54,2065,*Faunas -- Miocene*,*mammals, Europe*
+54,2067,*Faunas -- Triassic*,**
+54,2068,*Faunas -- Triassic*,*coelacanth, Germany*
+54,2070,*Faunas -- Eocene*,*mammals, Pakistan*
+54,2071,*Faunas -- Tertiary*,*comparison of faunas of Pakistan and Bavaria*
+54,2076,*Faunas -- Mesozoic*,*reptiles, England*
+54,2082,*Faunas -- Quaternary*,*carnivores, Italian Alps*
+54,2086,*Faunas -- Quaternary*,*mammals, France*
+54,2093,*Faunas -- Quaternary -- Cave Faunas*,**
+54,2094,*Faunas -- Quaternary -- Cave Faunas*,**
+54,2095,*Faunas -- Quaternary -- Cave Faunas*,*frogs, Hungary*
+54,2097,*Faunas -- Quaternary*,**
+54,2098,*Faunas -- Quaternary*,*birds, U.S.S.R.*
+54,2100,*Faunas -- Devonian*,*fishes, Nova Scotia*
+54,2101,*Faunas -- Paleozoic*,*fishes, world wide*
+54,2102,*Faunas -- Paleozoic*,*fishes, East. N. A.*
+54,2103,*Faunas -- Devonian*,*arthrodire fishes, Utah*
+54,2111,*Faunas -- Quaternary*,*mammals, Ceylon*
+54,2114,*Faunas -- Quaternary*,*hippo, Europe*
+54,2115,*Faunas -- Pliocene*,*mammals, Ceylon*
+54,2116,*Faunas -- Quaternary*,*elephants, India and Ceylon*
+54,2117,*Faunas -- Quaternary*,*elephants and hippos, India and Ceylon*
+54,2121,*Faunas -- Miocene*,*puffer fish, Ceylon*
+54,2125,*Faunas -- Quaternary*,*reptiles and mammals, Ceylon*
+54,2127,*Faunas -- Quaternary -- Cave Faunas*,*Calif. condor, Ariz.*
+54,2129,*Faunas -- Miocene*,*crocodile and fishes, Morocco*
+54,2130,*Faunas -- Quaternary*,*verts., Sahara*
+54,2141,*Faunas -- Pliocene*,*rhino, Germany*
+54,2142,*Faunas -- Quaternary*,*mammoth, Europe*
+54,2146,*Faunas -- Quaternary*,*elephant, Germany*
+54,2151,*Faunas -- Devonian*,*Corvaspis*
+54,2153,*Faunas -- Devonian*,*fishes, Spitzbergen*
+54,2170,*Faunas -- Mesozoic*,*crocodile, Argentina*
+54,2174,*Faunas -- Oligocene*,*rodent, Mont.*
+54,2177,*Faunas -- Miocene*,*mustelid, Mont.*
+54,2179,*Faunas -- Miocene*,**
+54,2182,*Faunas -- Cenozoic*,*fishes, reptiles, mammals, Wyo.*
+54,2183,*Faunas -- Eocene*,*uintathere, Wyo.*
+54,2184,*Faunas -- Miocene*,*mammals, Mont.*
+54,2190,*Faunas -- Quaternary*,*snakes, Ark.*
+54,2191,*Faunas -- Quaternary*,*amphibians, reptiles, Ark.*
+54,2192,*Faunas -- Miocene*,*eared seals, Pacific Coast*
+54,2193,*Faunas -- Quaternary*,*birds, Kans.*
+54,2195,*Faunas -- Miocene*,**
+54,2196,*Faunas -- Miocene*,*pinniped, Calif.*
+54,2197,*Faunas -- Quaternary*,**
+54,2198,*Faunas -- Miocene*,*sea lion, Calif.*
+54,2199,*Faunas -- Miocene*,*mammals, Oreg.*
+54,2202,*Faunas -- Quaternary*,*verts., Mex.*
+54,2212,*Faunas -- Cretaceous*,*herrings, China*
+54,2213,*Faunas -- Quaternary*,*mammals, Choukoutien*
+54,2214,*Faunas -- Jurassic*,*crocodile, France*
+54,2215,*Faunas -- Quaternary*,*reptiles, mammals, Fla.*
+54,2216,*Faunas -- Quaternary*,*mammals, France*
+54,2217,*Faunas -- Quaternary*,*mammoth, U.S.S.R.*
+54,2219,*Faunas -- Quaternary*,*elephant, rhino, U.S.S.R.*
+54,2221,*Faunas -- Quaternary*,*bovid, Siberia*
+54,2235,*Faunas -- Cretaceous*,*fishes, N. A.*
+54,2237,*Faunas -- Permian*,*fish, Tex.*
+54,2238,*Faunas -- Paleozoic*,*fish, Brazil*
+54,2241,*Faunas -- Miocene*,*mammals, Mex.*
+54,2247,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Moravia*
+54,2248,*Faunas -- Quaternary*,*rhino, Azerbaijan, S.S.R.*
+54,2249,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,2250,*Faunas -- Miocene*,*rhino, Caucasus*
+54,2274,*Faunas -- Tertiary*,*mammals, Mex.*
+54,2285,*Faunas -- Permian*,*tetrapods, U.S.S.R.*
+54,2286,*Faunas -- Permian*,*reptiles, Urals, U.S.S.R.*
+54,2291,*Faunas -- Paleozoic Mesozoic*,*land verts., U.S.S.R.*
+54,2292,*Faunas -- Mesozoic*,*dinosaurs, Mongolia*
+54,2293,*Faunas -- Permian*,*reptiles, N. A. and U.S.S.R.*
+54,2295,*Faunas -- Paleozoic*,*vert., India*
+54,2296,*Faunas -- Paleozoic Mesozoic*,*verts., Mongolia*
+54,2300,*Faunas -- Pliocene*,*Oreopithecus, new finds, Italy*
+54,2304,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Austria*
+54,2328,*Faunas -- Triassic*,*dinosaurs, S. Afr.*
+54,2331,*Faunas -- Jurassic*,*reptiles, Basutoland, S. Afr.*
+54,2345,*Faunas -- Pliocene*,*suid, Morocco*
+54,2346,*Faunas -- Quaternary*,*mammals and man, Morocco*
+54,2347,*Faunas -- Tertiary*,*sirenian, Morocco*
+54,2348,*Faunas -- Quaternary*,**
+54,2349,*Faunas -- Quaternary*,**
+54,2350,*Faunas -- Quaternary*,**
+54,2351,*Faunas -- Quaternary*,*mammals, Morocco*
+54,2352,*Faunas -- Eocene*,*crocodile, Morocco*
+54,2353,*Faunas -- Quaternary*,*bears, Morocco*
+54,2354,*Faunas -- Quaternary*,*elephant, Morocco*
+54,2356,*Faunas -- Pliocene*,*Hipparion, Morocco*
+54,2359,*Faunas -- Cenozoic*,*fishes, reptiles, mammals, England*
+54,2363,*Faunas -- Tertiary*,*rhino, Italy*
+54,2364,*Faunas -- Quaternary*,**
+54,2365,*Faunas -- Quaternary*,*elephant, Italy*
+54,2367,*Faunas -- Quaternary*,*elk, Holland*
+54,2368,*Faunas -- Eocene*,**
+54,2369,*Faunas -- Eocene*,*mammals, Oreg.*
+54,2373,*Faunas -- Quaternary*,*lizards, Kans.*
+54,2374,*Faunas -- Carboniferous*,*fish, Austria*
+54,2378,*Faunas -- Quaternary -- Cave Faunas*,**
+54,2379,*Faunas -- Quaternary -- Cave Faunas*,**
+54,2380,*Faunas -- Quaternary -- Cave Faunas*,*hyenas, Transvaal*
+54,2381,*Faunas -- Quaternary -- Cave Faunas*,*saber-toothed cats, Transvaal*
+54,2382,*Faunas -- Quaternary -- Cave Faunas*,*felids, Transvaal*
+54,2383,*Faunas -- Quaternary -- Cave Faunas*,*canids, Transvaal*
+54,2384,*Faunas -- Quaternary -- Cave Faunas*,*viverrids, Transvaal*
+54,2385,*Faunas -- Quaternary*,*mammals, S. Afr.*
+54,2385,*Faunas -- Quaternary -- Cave Faunas*,*suids, Transvaal*
+54,2387,*Faunas -- Quaternary*,*pigs, Florisbad, S. Afr.*
+54,2388,*Faunas -- Quaternary*,*carnivores, Makapansgat*
+54,2389,*Faunas -- Quaternary*,**
+54,2390,*Faunas -- Quaternary*,*wart hog, Transvaal*
+54,2391,*Faunas -- Quaternary*,*suids, Makapansgat*
+54,2393,*Faunas -- Quaternary*,*carnivores, Hopefield, S. Afr.*
+54,2397,*Faunas -- Quaternary*,*rhino, China*
+54,2411,*Faunas -- Quaternary*,*horses, France*
+54,2412,*Faunas -- Quaternary*,*saber-toothed tiger, Czechoslovakia*
+54,2413,*Faunas -- Quaternary*,*mammals, Czechoslovakia*
+54,2414,*Faunas -- Quaternary*,*field-mice, Bohemia*
+54,2415,*Faunas -- Quaternary -- Cave Faunas*,*Macaca, Czechoslovakia*
+54,2416,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Czechoslovakia*
+54,2418,*Faunas -- Quaternary*,*mammals, Czechoslovakia*
+54,2433,*Faunas -- Quaternary*,*horse, Argentina*
+54,2435,*Faunas -- Jurassic*,*bird, Spain*
+54,2438,*Faunas -- Quaternary*,*elephant, Italy*
+54,2439,*Faunas -- Quaternary*,*mammals, Argentina*
+54,2452,*Faunas -- Miocene*,*rodents, Colombia*
+54,2460,*Faunas -- Paleozoic*,*fishes, N. Y.*
+54,2470,*Faunas -- Cenozoic*,*mammals, N. Hemisphere*
+54,2471,*Faunas -- Cretaceous*,*reptiles, Mongolia*
+54,2471,*Faunas -- Permian*,*amphibians, Asia*
+54,2473,*Faunas -- Eocene*,*Dinocerata, Mongolia*
+54,2474,*Faunas -- Paleocene*,*coryphodont, Mongolia*
+54,2478,*Faunas -- Devonian*,*armored fishes, Australia*
+54,2486,*Faunas -- Quaternary*,*mammals, S. D.*
+54,2495,*Faunas -- Quaternary -- Cave Faunas*,*cave lion*
+54,2496,*Faunas -- Jurassic*,*pliosaur, France*
+54,2497,*Faunas -- Quaternary*,*verts., Granada, Spain*
+54,2520,*Faunas -- Quaternary*,*verts., Europe*
+54,2527,*Faunas -- Quaternary*,*cercopithecoids, S. Afr.*
+54,2530,*Faunas -- Devonian*,*ptyctodont, N. Afr.*
+54,2541,*Faunas -- Pliocene*,*mammals, Greece*
+54,2544,*Faunas -- Quaternary*,*elephants, West. Europe*
+54,2549,*Faunas -- Quaternary*,*birds, West. Europe*
+54,2550,*Faunas -- Quaternary*,*mammals and birds, Luxembourg*
+54,2551,*Faunas -- Quaternary*,*rodents, Brazil*
+54,2556,*Faunas -- Quaternary*,*irish elk*
+54,2557,*Faunas -- Quaternary*,*proboscideans, West. Europe*
+54,2558,*Faunas -- Quaternary*,*mammals, England*
+54,2561,*Faunas -- Quaternary -- Cave Faunas*,*cave lion*
+54,2564,*Faunas -- Cenozoic*,*lizard and mammals, Mex.*
+54,2567,*Faunas -- Oligocene*,*fishes, Switzerland*
+54,2568,*Faunas -- Pliocene*,*mammals, Kans.*
+54,2594,*Faunas -- Pliocene*,*mammals, Hungary*
+54,2595,*Faunas -- Miocene*,*antelopes, U.S.S.R.*
+54,2601,*Faunas -- Quaternary*,*dwarf mammoth, U.S.S.R.*
+54,2602,*Faunas -- Oligocene*,*mammals, Georgia, S.S.R.*
+54,2603,*Faunas -- Tertiary*,*deer, Georgia, S.S.R.*
+54,2604,*Faunas -- Tertiary*,*Hipparion, U.S.S.R.*
+54,2605,*Faunas -- Oligocene*,*indricothere, Georgia*
+54,2606,*Faunas -- Tertiary*,*mammals, Georgia*
+54,2607,*Faunas -- Miocene*,*bovid, Georgia, S.S.R.*
+54,2608,*Faunas -- Miocene*,*suid, North Caucasus*
+54,2609,*Faunas -- Miocene*,*aardvark, North. Caucasus*
+54,2613,*Faunas -- Eocene*,*chalicothere, South. Georgia*
+54,2614,*Faunas -- Quaternary -- Cave Faunas*,*rhino, western Georgia, S.S.R.*
+54,2615,*Faunas -- Miocene*,*suid, Caucasus*
+54,2616,*Faunas -- Tertiary*,*carnivores, northern Caucasus*
+54,2622,*Faunas -- Oligocene*,*eomyid rodent, Colo.*
+54,2623,*Faunas -- Miocene*,*mustelid, Colo.*
+54,2624,*Faunas -- Quaternary*,*birds, Kans.*
+54,2625,*Faunas -- Miocene*,*Cynarctoides, Colo.*
+54,2626,*Faunas -- Quaternary*,*sabertoothed cat, Kans.*
+54,2629,*Faunas -- Eocene*,**
+54,2630,*Faunas -- Eocene*,*mammals, Germany*
+54,2636,*Faunas -- Tertiary*,*mastodon, Spain*
+54,2638,*Faunas -- Triassic*,*pseudosuchian, U.S.S.R.*
+54,2652,*Faunas -- Pliocene*,*elephant, Ukraine*
+54,2653,*Faunas -- Quaternary*,*elephant, Caucasus*
+54,2654,*Faunas -- Pliocene*,*elephants, India, Burma, Europe*
+54,2662,*Faunas -- Eocene*,*artiodactyls, N. A.*
+54,2663,*Faunas -- Paleocene*,**
+54,2664,*Faunas -- Paleocene*,**
+54,2665,*Faunas -- Paleocene*,*mammals, Wyo.*
+54,2666,*Faunas -- Eocene*,*mammals, Wyo.*
+54,2667,*Faunas -- Quaternary*,*ground sloths, Panama*
+54,2668,*Faunas -- Eocene*,*creodont, Wyo.*
+54,2669,*Faunas -- Eocene*,*dichobunid artiodactyl, Utah*
+54,2670,*Faunas -- Eocene*,*primates, N. A.*
+54,2673,*Faunas -- Quaternary*,*mammals, Yukon*
+54,2691,*Faunas -- Tertiary*,*fish teeth, Italy*
+54,2706,*Faunas -- Pliocene*,*proboscideans, Morocco*
+54,2709,*Faunas -- Eocene*,*drawings of undetermined Clarno mammal bones*
+54,2715,*Faunas -- Tertiary*,*opossum, Tasmania*
+54,2717,*Faunas -- Quaternary*,*giant kangaroo, Australia*
+54,2724,*Faunas -- Tertiary*,*Australian marsupials*
+54,2730,*Faunas -- Miocene*,*canid, Hemicyon, Europe, N. A., Asia*
+54,2731,*Faunas -- Miocene*,*Sansanosmilus, Europe*
+54,2734,*Faunas -- Tertiary*,*pelagic fossils, S. Australia*
+54,2738,*Faunas -- Oligocene*,*verts., Belgium*
+54,2739,*Faunas -- Tertiary*,*verts., Europe*
+54,2740,*Faunas -- Tertiary*,*fishes and mammals, Belgium*
+54,2742,*Faunas -- Cretaceous*,*sharks, U.S.S.R.*
+54,2743,*Faunas -- Cretaceous*,**
+54,2744,*Faunas -- Cretaceous*,*fishes, U.S.S.R.*
+54,2756,*Faunas -- Permian*,*fishes, Germany*
+54,2757,*Faunas -- Pliocene*,*giraffe, Mongolia*
+54,2759,*Faunas -- Quaternary*,*herpetofauna, Fla.*
+54,2759,*Faunas -- Tertiary*,*herpetofauna, Fla.*
+54,2760,*Faunas -- Eocene*,*salamander, Wyo.*
+54,2761,*Faunas -- Cretaceous*,*salamanders, N. A.*
+54,2761,*Faunas -- Quaternary*,*salamanders, Fla.*
+54,2761,*Faunas -- Tertiary*,*salamanders, Fla.*
+54,2764,*Faunas -- Cretaceous*,*non-vert., Transcarpathia*
+54,2771,*Faunas -- Jurassic*,*dinosaurs, Utah*
+54,2782,*Faunas -- Oligocene*,**
+54,2783,*Faunas -- Oligocene*,*fishes, eastern Carpathians*
+54,2784,*Faunas -- Quaternary*,*rhino, China*
+54,2787,*Faunas -- Pliocene*,*beavers, U.S.S.R.*
+54,2788,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,2795,*Faunas -- Pliocene*,*Dinotherium, Europe*
+54,2804,*Faunas -- Oligocene*,*chelonians, Germany*
+54,2805,*Faunas -- Oligocene*,*crocodile, Germany*
+54,2813,*Faunas -- Quaternary*,*ground sloth, Rampart Cave, Ariz.*
+54,2836,*Faunas -- Pliocene*,*verts., S. D.*
+54,2837,*Faunas -- Tertiary*,*verts., Oreg.*
+54,2838,*Faunas -- Oligocene*,*cynarctine, S. D.*
+54,2839,*Faunas -- Pliocene*,*tortoise and mammals, S. D.*
+54,2840,*Faunas -- Cretaceous*,*fishes, S. D.*
+54,2841,*Faunas -- Miocene*,*rhinos., S. D.*
+54,2842,*Faunas -- Miocene*,*mastodont, S. D.*
+54,2844,*Faunas -- Quaternary*,**
+54,2845,*Faunas -- Quaternary*,*porcupines, Transvaal*
+54,2858,*Faunas -- Permian*,*microsaurs, N. A.*
+54,2861,*Faunas -- Cretaceous*,*fishes, reptiles, Afr.*
+54,2871,*Faunas -- Triassic*,*amphibian, Madagascar*
+54,2877,*Faunas -- Tertiary*,*mammals, U.S.S.R.*
+54,2878,*Faunas -- Quaternary*,*verts., Crimea*
+54,2879,*Faunas -- Quaternary -- Cave Faunas*,*bone accumulation in caves*
+54,2880,*Faunas -- Quaternary*,**
+54,2882,*Faunas -- Quaternary*,*rodents, Palestine*
+54,2883,*Faunas -- Quaternary*,**
+54,2885,*Faunas -- Quaternary*,*rodents, U.S.S.R.*
+54,2894,*Faunas -- Tertiary*,*mammals, U.S.S.R. and Mongolia*
+54,2896,*Faunas -- Miocene*,*giant rhinos., U.S.S.R. and Mongolia*
+54,2896,*Faunas -- Oligocene*,*giant rhinos, U.S.S.R. and Mongolia*
+54,2901,*Faunas -- Quaternary*,*mastodon, N. A.*
+54,2910,*Faunas -- Quaternary*,*mammals, Europe*
+54,2913,*Faunas -- Quaternary*,*moas, New Zealand*
+54,2921,*Faunas -- Devonian*,*fishes, Baltic*
+54,2923,*Faunas -- Paleozoic*,*placoderms*
+54,2925,*Faunas -- Devonian*,**
+54,2926,*Faunas -- Devonian*,*arthrodires, Europe*
+54,2927,*Faunas -- Silurian*,*anaspids, Europe*
+54,2931,*Faunas -- Quaternary*,*elk and bovid, Denmark*
+54,2938,*Faunas -- Quaternary*,*elk, Denmark*
+54,2939,*Faunas -- Quaternary*,*elephants, Cent. Europe*
+54,2940,*Faunas -- Quaternary*,**
+54,2941,*Faunas -- Quaternary*,*elephants, Denmark*
+54,2943,*Faunas -- Quaternary*,*mammals, Denmark*
+54,2947,*Faunas -- Quaternary*,*elephant, Barkum Is., Germany*
+54,2949,*Faunas -- Jurassic*,*fishes, France*
+54,2949,*Faunas -- Triassic*,*fishes, France*
+54,2952,*Faunas -- Paleozoic Mesozoic*,*fishes, Madagascar and S. Afr.*
+54,2972,*Faunas -- Quaternary*,*mammals, China*
+54,2975,*Faunas -- Cretaceous*,*plesiosaur, Israel*
+54,2986,*Faunas -- Quaternary*,*amphibians, birds, mammals, Calif.*
+54,2987,*Faunas -- Devonian*,*fishes in Buffalo Mus.*
+54,2994,*Faunas -- General*,*verts., western Penn.*
+54,3001,*Faunas -- Quaternary*,*bat, Mex.*
+54,3002,*Faunas -- Quaternary -- Cave Faunas*,*mammals, W. Va.*
+54,3034,*Faunas -- Quaternary*,*insectivore, Japan*
+54,3035,*Faunas -- Pliocene*,*otoliths, Japan*
+54,3044,*Faunas -- Quaternary*,*dromedary, Armenia*
+54,3045,*Faunas -- Tertiary*,*camels, Asia*
+54,3050,*Faunas -- Mesozoic and Cenozoic*,*new fossil mammals*
+54,3080,*Faunas -- Eocene*,*lizard, Wyo.*
+54,3089,*Faunas -- Quaternary*,**
+54,3090,*Faunas -- Quaternary*,**
+54,3091,*Faunas -- Quaternary*,*mammoth, Norway and Denmark*
+54,3092,*Faunas -- Quaternary*,**
+54,3094,*Faunas -- Quaternary*,*mammoth, Norway*
+54,3095,*Faunas -- Devonian*,*fish, Latvia*
+54,3097,*Faunas -- Silurian*,*anaspid, England*
+54,3100,*Faunas -- Miocene*,*fishes and mammals, Belgium*
+54,3106,*Faunas -- Quaternary*,*mammals, Bavaria*
+54,3107,*Faunas -- Triassic*,*ganoid, Germany*
+54,3108,*Faunas -- Quaternary -- Cave Faunas*,*cave lion, Germany*
+54,3110,*Faunas -- Triassic*,*phytosaur, Germany*
+54,3111,*Faunas -- Jurassic*,*fish, Germany*
+54,3112,*Faunas -- Quaternary*,*verts., Bavaria*
+54,3113,*Faunas -- Quaternary -- Cave Faunas*,*verts., Europe*
+54,3114,*Faunas -- Quaternary -- Cave Faunas*,*small bear, Germany*
+54,3115,*Faunas -- Quaternary*,*insectivore, Germany*
+54,3116,*Faunas -- Quaternary -- Cave Faunas*,*amphibians, birds, mammals, Bavaria*
+54,3117,*Faunas -- Jurassic*,*ichthyosaur, Bavaria*
+54,3122,*Faunas -- Quaternary*,*mammals, Germany*
+54,3154,*Faunas -- Miocene*,*amphibians, Austria*
+54,3157,*Faunas -- Oligocene*,*fishes, Switzerland*
+54,3162,*Faunas -- Carboniferous*,*Branchiosaurus, France*
+54,3165,*Faunas -- Pliocene*,*verts., Okla.*
+54,3166,*Faunas -- Pliocene*,*mammals, Kans.*
+54,3167,*Faunas -- Quaternary*,*mammals, Mex.*
+54,3167,*Faunas -- Quaternary*,*mammals, Mex.*
+54,3168,*Faunas -- Quaternary*,**
+54,3168,*Faunas -- Quaternary*,**
+54,3169,*Faunas -- Quaternary -- Cave Faunas*,*microtine rodents, Port Kennedy*
+54,3170,*Faunas -- Quaternary*,**
+54,3170,*Faunas -- Quaternary*,*rodents, Nebr.*
+54,3171,*Faunas -- Quaternary*,*mammals, Kans*
+54,3171,*Faunas -- Quaternary*,*mammals, Kans*
+54,3172,*Faunas -- Cenozoic*,*microtine rodents, Kans., Nebr.*
+54,3173,*Faunas -- Cenozoic*,*shrews, N. A.*
+54,3175,*Faunas -- Quaternary*,*weasel, Idaho*
+54,3176,*Faunas -- Quaternary*,*summary of mammalian local faunas, N. A.*
+54,3177,*Faunas -- Quaternary*,*bighorn sheep, Ariz.*
+54,3178,*Faunas -- Quaternary*,*moose, Mich.*
+54,3186,*Faunas -- Tertiary*,*tarsioids*
+54,3190,*Faunas -- Devonian*,*fishes, Australia*
+54,3191,*Faunas -- General*,*fossil verts., Australia*
+54,3197,*Faunas -- Permian*,*fish scales, Germany*
+54,3202,*Faunas -- Quaternary -- Cave Faunas*,*ground sloths, Brazil*
+54,3204,*Faunas -- Eocene*,*Heloderma, France*
+54,3206,*Faunas -- Cenozoic*,**
+54,3208,*Faunas -- Oligocene*,*edentates, Patagonia*
+54,3209,*Faunas -- Cenozoic*,*mammals, S. A.*
+54,3210,*Faunas -- Quaternary*,*megalonychids, West Indies*
+54,3214,*Faunas -- Eocene*,*marine snake, Europe*
+54,3219,*Faunas -- Cenozoic*,*xenarthran edentates, Patagonia*
+54,3220,*Faunas -- Jurassic*,*stegosaurians, Europe, N. A.*
+54,3221,*Faunas -- Tertiary*,*helodermatid, France*
+54,3222,*Faunas -- Eocene*,**
+54,3223,*Faunas -- Eocene*,*snake, Ecuador*
+54,3224,*Faunas -- Miocene*,*reptiles, France*
+54,3225,*Faunas -- Miocene*,*verts., France*
+54,3227,*Faunas -- Jurassic*,*stegosaur, France*
+54,3228,*Faunas -- Jurassic*,*review of stegosaurs of N. A., E. Afr., West. Europe*
+54,3229,*Faunas -- Jurassic*,*Holzmaden ichthyosaurs*
+54,3231,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Bohemia*
+54,3233,*Faunas -- Jurassic*,*Holzmaden crocodile*
+54,3239,*Faunas -- Quaternary*,*herpetofauna, Fla.*
+54,3246,*Faunas -- Quaternary*,*crocodile, Celebes*
+54,3247,*Faunas -- Quaternary*,*suid, Celebes*
+54,3248,*Faunas -- Quaternary*,*pygmy stegodont, Java*
+54,3249,*Faunas -- Quaternary*,*fishes, chelonians, Celebes*
+54,3250,*Faunas -- Quaternary*,*mammoth, Celebes*
+54,3251,*Faunas -- Pliocene*,*archidiskodonts, Asia, Afr., Europe*
+54,3252,*Faunas -- Cenozoic*,*proboscideans, Malay and Punjab*
+54,3254,*Faunas -- Quaternary*,*bovid, Java*
+54,3255,*Faunas -- Quaternary*,**
+54,3256,*Faunas -- Quaternary*,*mammals, Europe*
+54,3257,*Faunas -- Quaternary*,*mammals, Java*
+54,3258,*Faunas -- Quaternary*,*stegodont, Flores*
+54,3259,*Faunas -- Quaternary*,*verts., Celebes*
+54,3260,*Faunas -- Quaternary*,*mammals, Bethlehem*
+54,3262,*Faunas -- Quaternary*,*hippo, S. Afr.*
+54,3263,*Faunas -- Cenozoic*,*bovids, Malay and Punjab*
+54,3268,*Faunas -- Quaternary*,*camel, Idaho*
+54,3269,*Faunas -- General*,*mammalian faunas, Afr.*
+54,3276,*Faunas -- Eocene*,*mammals, Mont.*
+54,3277,*Faunas -- Oligocene*,*insectivore, Wyo.*
+54,3279,*Faunas -- Oligocene*,*mammals, Nebr.*
+54,3281,*Faunas -- Eocene*,*wading bird, Patagonia*
+54,3283,*Faunas -- Quaternary*,*diving geese, Calif.*
+54,3284,*Faunas -- Cenozoic*,*birds, Calif.*
+54,3284,*Faunas -- Quaternary*,*birds, Rancho La Brea*
+54,3285,*Faunas -- Quaternary*,*birds, Mojave Desert*
+54,3287,*Faunas -- Miocene*,*marine bird, Calif.*
+54,3288,*Faunas -- Miocene*,*passerine, Calif.*
+54,3289,*Faunas -- Quaternary*,*birds, Calif.*
+54,3290,*Faunas -- Quaternary*,*cormorant, Nev.*
+54,3291,*Faunas -- Miocene*,*sulids, South. Calif.*
+54,3303,*Faunas -- Quaternary*,*mammoth, Oreg.*
+54,3308,*Faunas -- Oligocene*,*rodent, Switzerland*
+54,3309,*Faunas -- Quaternary -- Cave Faunas*,*mammals, China*
+54,3312,*Faunas -- Quaternary*,*mammals, Choukoutien*
+54,3313,*Faunas -- Quaternary*,*mammals, Germany*
+54,3314,*Faunas -- Tertiary*,*mammals, China*
+54,3314,*Faunas -- Triassic*,*reptiles, China*
+54,3326,*Faunas -- Triassic*,*protosaurid, Europe*
+54,3335,*Faunas -- Permian*,*dicynodont, E. Afr.*
+54,3335,*Faunas -- Triassic*,*dicynodont, Brazil*
+54,3336,*Faunas -- Mesozoic*,*nothosaurid, Germany*
+54,3337,*Faunas -- Triassic*,*pseudosuchian, Germany*
+54,3338,*Faunas -- Triassic*,*reptiles, Germany*
+54,3339,*Faunas -- Triassic*,*nothosaurid, Europe*
+54,3340,*Faunas -- Jurassic*,*ichthyosaur, England*
+54,3341,*Faunas -- Triassic*,*parasuchian, Europe*
+54,3344,*Faunas -- Triassic*,*labyrinthodonts, China*
+54,3345,*Faunas -- Mesozoic*,*reptiles, Asia*
+54,3346,*Faunas -- Triassic*,*amphibian, Penn.*
+54,3347,*Faunas -- Mesozoic*,*reptiles, Europe*
+54,3348,*Faunas -- Triassic*,*amphibian, India*
+54,3357,*Faunas -- Oligocene*,*sirenian, Germany*
+54,3371,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Bavaria*
+54,3388,*Faunas -- Tertiary*,*fishes, Siberia*
+54,3389,*Faunas -- Pliocene*,*deer, Turkey*
+54,3390,*Faunas -- Paleocene*,*titanothere, Mongolia*
+54,3392,*Faunas -- Tertiary*,*brontotheres, U.S.S.R.*
+54,3395,*Faunas -- Pliocene*,*hyenas, U.S.S.R.*
+54,3401,*Faunas -- Triassic*,*verts., U.S.S.R.*
+54,3405,*Faunas -- Quaternary*,*elephant, Palermo*
+54,3411,*Faunas -- Mesozoic*,*dinosaurs, U.S.S.R.*
+54,3413,*Faunas -- Quaternary*,*horse, reindeer, U.S.S.R.*
+54,3414,*Faunas -- Quaternary*,*elephants*
+54,3416,*Faunas -- Quaternary*,*ostriches, Mongolia*
+54,3423,*Faunas -- Quaternary*,*muskox, Bavaria*
+54,3426,*Faunas -- Quaternary*,*mammals of tundra and subarctic steppes*
+54,3427,*Faunas -- Quaternary*,*lagomorphs and rodents, Mex.*
+54,3429,*Faunas -- Quaternary*,*edentate, Tex.*
+54,3432,*Faunas -- Quaternary*,*lemmings, Hungary*
+54,3433,*Faunas -- Quaternary*,*birds and mammals, Hungary*
+54,3434,*Faunas -- Pliocene*,*mastodon, Hungary*
+54,3443,*Faunas -- Devonian*,*ichthyostegalians, Greenland*
+54,3445,*Faunas -- Quaternary*,*Palaearctic fishes, India*
+54,3457,*Faunas -- Quaternary*,*mammals, birds, France*
+54,3457,*Faunas -- Triassic*,*fishes, Princeton, N. J.*
+54,3458,*Faunas -- Quaternary*,*mammals, China*
+54,3460,*Faunas -- Miocene*,*fish, Poland*
+54,3461,*Faunas -- Tertiary*,*fishes, Poland*
+54,3469,*Faunas -- Cenozoic*,*verts., Tex.*
+54,3478,*Faunas -- Quaternary*,*bats, Mex.*
+54,3481,*Faunas -- Oligocene*,**
+54,3482,*Faunas -- Oligocene*,*tropical fishes, France*
+54,3483,*Faunas -- Oligocene*,*fishes, Rumania*
+54,3497,*Faunas -- Pliocene*,*fishes and mammals, Cent. Europe*
+54,3498,*Faunas -- Pliocene*,*fishes, Cent. Europe*
+54,3504,*Faunas -- Quaternary*,*mammals, Hungary*
+54,3511,*Faunas -- Quaternary*,**
+54,3513,*Faunas -- Quaternary*,**
+54,3514,*Faunas -- Quaternary*,**
+54,3515,*Faunas -- Quaternary*,*mammals, Germany*
+54,3516,*Faunas -- Quaternary*,**
+54,3518,*Faunas -- Quaternary*,*deer, Germany*
+54,3524,*Faunas -- Oligocene*,*fishes, Rumania*
+54,3531,*Faunas -- Quaternary*,*fishes, Calif.*
+54,3534,*Faunas -- Quaternary*,*horse and cave bear, Ukraine*
+54,3536,*Faunas -- Cretaceous*,*dinosaurs and crocodiles, Algeria*
+54,3539,*Faunas -- Eocene*,*mammals, Utah*
+54,3543,*Faunas -- Tertiary*,*reptiles and mammals, Mont.*
+54,3544,*Faunas -- Jurassic*,*large dinosaur, Colo.*
+54,3545,*Faunas -- Quaternary*,*suids, Hopefield, S. Afr.*
+54,3547,*Faunas -- Eocene*,*mammals, Wyo.*
+54,3557,*Faunas -- Miocene*,**
+54,3561,*Faunas -- Miocene*,*porpoises, Md.*
+54,3569,*Faunas -- Triassic*,*triconodont, South Wales*
+54,3570,*Faunas -- Triassic*,*crocodile, South Wales*
+54,3575,*Faunas -- Mesozoic*,*mammals, South Wales*
+54,3580,*Faunas -- General*,*turtles, Ukraine*
+54,3581,*Faunas -- Pliocene*,*tortoise, U.S.S.R.*
+54,3584,*Faunas -- Devonian*,*fish, China*
+54,3592,*Faunas -- Quaternary*,*hippo, England*
+54,3594,*Faunas -- Pliocene*,*Semantor, Asia*
+54,3595,*Faunas -- Miocene*,*dolphins, U.S.S.R.*
+54,3597,*Faunas -- Triassic*,*labyrinthodont, S. Afr.*
+54,3600,*Faunas -- Pliocene*,*nimravid, Calif.*
+54,3601,*Faunas -- Quaternary*,*sabertoothed cat, Okla.*
+54,3602,*Faunas -- Pliocene*,*mammals, Okla.*
+54,3603,*Faunas -- Quaternary*,*rattlesnakes, U. S.*
+54,3605,*Faunas -- Quaternary*,*mammals, Germany*
+54,3635,*Faunas -- Quaternary -- Cave Faunas*,**
+54,3636,*Faunas -- Quaternary -- Cave Faunas*,*birds, La Vache Cave, Pyrenees*
+54,3638,*Faunas -- Quaternary*,*antelope, Europe*
+54,3639,*Faunas -- Quaternary*,*rabbits, France*
+54,3640,*Faunas -- Quaternary*,*goat, Pyrenees*
+54,3641,*Faunas -- Quaternary -- Cave Faunas*,*hamster, other mammals, and birds, Spain*
+54,3645,*Faunas -- Quaternary*,*primate, China*
+54,3651,*Faunas -- Quaternary*,*mammals, Java and Asia*
+54,3652,*Faunas -- Quaternary*,**
+54,3658,*Faunas -- Pliocene*,*primates, Germany*
+54,3674,*Faunas -- Quaternary*,*stegodont, Indonesia*
+54,3677,*Faunas -- Cenozoic*,*mammals, Formosa*
+54,3685,*Faunas -- Pliocene*,*mammals, Mont.*
+54,3686,*Faunas -- Miocene*,*rodent, Mont.*
+54,3688,*Faunas -- Cretaceous*,*crocodiles, Mongolia*
+54,3690,*Faunas -- Permian*,*archegosaurid, Urals*
+54,3691,*Faunas -- Permian*,*labyrinthodonts, Volga and Urals*
+54,3691,*Faunas -- Triassic*,*labyrinthodonts, Volga and Urals*
+54,3692,*Faunas -- Permian*,*amphibians and reptiles, N. Urals*
+54,3693,*Faunas -- Quaternary*,*vampire bat, Cuba*
+54,3700,*Faunas -- Quaternary -- Cave Faunas*,*Pleist., S. W. Afr.*
+54,3701,*Faunas -- Miocene*,**
+54,3702,*Faunas -- Miocene*,*rhino, Ukraine*
+54,3703,*Faunas -- Quaternary*,*elephant, Netherlands*
+54,3708,*Faunas -- Quaternary*,*mammals, Asia*
+54,3711,*Faunas -- Quaternary*,*insectivores, bats, rodents, Poland*
+54,3712,*Faunas -- Quaternary*,*lizard, small mammals, Poland*
+54,3713,*Faunas -- Quaternary*,*microtines, Poland*
+54,3714,*Faunas -- Quaternary*,*small mammals, Jogoslavia*
+54,3718,*Faunas -- Eocene*,*pyrothere, S. A.*
+54,3719,*Faunas -- Pliocene*,*procyonids, Argentina*
+54,3722,*Faunas -- Jurassic*,*crocodiles, Holzmaden*
+54,3726,*Faunas -- Pliocene*,*ostrich and camel, Danube Basin*
+54,3727,*Faunas -- Pliocene*,*mammals, Hungary*
+54,3728,*Faunas -- Cenozoic*,*marmot, Hungary*
+54,3729,*Faunas -- Quaternary*,*arvicolid, Hungary*
+54,3730,*Faunas -- Quaternary*,*Microtinae*
+54,3731,*Faunas -- Quaternary*,**
+54,3732,*Faunas -- Quaternary*,*verts., Hungary*
+54,3738,*Faunas -- Quaternary -- Cave Faunas*,*fauna, Czechoslvakia*
+54,3746,*Faunas -- Miocene*,*elasmobranchs, Lower Calif.*
+54,3747,*Faunas -- Miocene*,*fishes, Fla.*
+54,3750,*Faunas -- Quaternary*,*hyena, Netherlands*
+54,3751,*Faunas -- Quaternary*,*wolf and lion, Netherlands*
+54,3754,*Faunas -- Quaternary*,*mammoth, Germany*
+54,3755,*Faunas -- Miocene*,*shark teeth, U.S.S.R.*
+54,3778,*Faunas -- Mesozoic*,*ichthyosaurs and fishes, Germany*
+54,3784,*Faunas -- Jurassic*,*verts., Solnhofen*
+54,3785,*Faunas -- Jurassic*,*ganoids, Germany*
+54,3786,*Faunas -- Jurassic*,*lizard, Germany*
+54,3792,*Faunas -- Mesozoic*,*Oligokyphus*
+54,3794,*Faunas -- Jurassic*,*mamma-like reptiles*
+54,3800,*Faunas -- Triassic*,*fishes, amphibians, reptiles, Switzerland*
+54,3802,*Faunas -- Quaternary*,*mammoth, Poland*
+54,3804,*Faunas -- Devonian*,*fishes, Poland*
+54,3805,*Faunas -- Quaternary*,*mammoth, U.S.S.R.*
+54,3808,*Faunas -- Cenozoic*,*proboscideans, Danube*
+54,3809,*Faunas -- Quaternary*,*verts., Austria*
+54,3813,*Faunas -- Pliocene*,*Ictitherium, Bessarabia*
+54,3819,*Faunas -- Cenozoic*,*hyenas*
+54,3820,*Faunas -- Tertiary*,*hyenas*
+54,3823,*Faunas -- Quaternary*,*bears and hyenas*
+54,3824,*Faunas -- Quaternary*,*felid, Choukoutien*
+54,3828,*Faunas -- Quaternary*,*hyaenid, China*
+54,3835,*Faunas -- Pliocene*,**
+54,3842,*Faunas -- Pliocene*,*Oreopithecus*
+54,3843,*Faunas -- Quaternary*,*verts., Germany*
+54,3844,*Faunas -- Quaternary*,*hippo, Germany*
+54,3845,*Faunas -- Miocene*,*chelonians, Germany*
+54,3873,*Faunas -- Quaternary*,*capybara, Ariz.*
+54,3874,*Faunas -- Miocene*,*mammals, Ariz.*
+54,3882,*Faunas -- Cretaceous*,*chelonian, Alberta*
+54,3883,*Faunas -- Paleocene*,*giant champsosaur, Canada*
+54,3884,*Faunas -- Mesozoic*,*sauropod, Colombia*
+54,3885,*Faunas -- Mesozoic*,*hadrosaurs, Lower Calif.*
+54,3903,*Faunas -- Cretaceous*,**
+54,3905,*Faunas -- Cretaceous*,*fishes, reptiles, Sahara*
+54,3906,*Faunas -- Triassic*,*fishes, reptiles, Tunisia and Tripoli*
+54,3907,*Faunas -- Mesozoic*,*dinosaurs, France*
+54,3908,*Faunas -- Cretaceous*,*dinosaurs, Spain*
+54,3908,*Faunas -- Jurassic*,*fishes, dinosaurs, Morocco*
+54,3911,*Faunas -- Cretaceous*,*dinosaurs, Afr., India*
+54,3912,*Faunas -- Cretaceous*,*dinosaurs, Shara*
+54,3914,*Faunas -- Cretaceous*,**
+54,3915,*Faunas -- Cretaceous*,**
+54,3916,*Faunas -- Cretaceous*,*dinosaurs, Spain*
+54,3917,*Faunas -- Mesozoic*,*dinosaurs, Sahara*
+54,3918,*Faunas -- Mesozoic*,*Dinosauria*
+54,3919,*Faunas -- Jurassic*,*dinosaur, Algeria*
+54,3920,*Faunas -- Cretaceous*,*dinosaurs, Spain*
+54,3921,*Faunas -- Jurassic*,*stegosaur, Portugal*
+54,3922,*Faunas -- Mesozoic*,*dinosaurs, Portugal*
+54,3925,*Faunas -- Permian*,*Helicoprion, Nev.*
+54,3930,*Faunas -- Tertiary*,*mammals, Serbia*
+54,3931,*Faunas -- Pliocene*,*tapir, Serbia*
+54,3937,*Faunas -- Triassic*,*fishes, Madagascar*
+54,3941,*Faunas -- Cretaceous*,*sauropod, Morocco*
+54,3942,*Faunas -- Eocene*,*mammals, French Sudan*
+54,3943,*Faunas -- Cretaceous*,*fishes and reptiles, N. Afr.*
+54,3944,*Faunas -- Mesozoic*,*dinosaurs, N. Afr.*
+54,3948,*Faunas -- Oligocene*,*rodent, France*
+54,3949,*Faunas -- Cretaceous*,*theropod, Madagascar*
+54,3950,*Faunas -- Cretaceous*,*crocodile, Morocco*
+54,3951,*Faunas -- Tertiary*,*Hipparion*
+54,3953,*Faunas -- Mesozoic*,**
+54,3954,*Faunas -- Tertiary*,*dipnoan, French Sudan*
+54,3976,*Faunas -- Mesozoic*,**
+54,3978,*Faunas -- Miocene*,*sciurids, Morocco*
+54,3984,*Faunas -- Mesozoic*,*dinosaurs, Madagascar*
+54,3985,*Faunas -- Pliocene*,**
+54,3986,*Faunas -- Pliocene*,*rodents, S. Afr.*
+54,3999,*Faunas -- Oligocene*,*carnivore, France*
+54,4008,*Faunas -- Quaternary*,**
+54,4010,*Faunas -- Quaternary*,**
+54,4021,*Faunas -- Quaternary*,*suids, E. Afr.*
+54,4022,*Faunas -- Quaternary*,*giant animals, Tanganyika*
+54,4028,*Faunas -- Quaternary*,*primate, S. Afr.*
+54,4036,*Faunas -- Quaternary*,*silurid, Sahara*
+54,4037,*Faunas -- Eocene*,*amiids, Spitzbergen*
+54,4038,*Faunas -- Devonian*,**
+54,4039,*Faunas -- Paleozoic Mesozoic*,*stegocephalian and trematosaur, Madagascar*
+54,4041,*Faunas -- Devonian*,*dipnoans, Greenland*
+54,4042,*Faunas -- Triassic*,**
+54,4045,*Faunas -- Paleozoic*,*Rhachitomi*
+54,4048,*Faunas -- Devonian*,*arthrodires, Morocco*
+54,4050,*Faunas -- Triassic*,**
+54,4051,*Faunas -- Triassic*,**
+54,4054,*Faunas -- Triassic*,*stegocephalians and fishes, Madagascar*
+54,4055,*Faunas -- Triassic*,*stegocephalians, Sahara*
+54,4060,*Faunas -- Quaternary -- Cave Faunas*,**
+54,4061,*Faunas -- Cenozoic*,*mammals, Germany*
+54,4063,*Faunas -- Quaternary -- Cave Faunas*,*mammals, meals of early man, Germany*
+54,4065,*Faunas -- Quaternary*,*verts., Germany*
+54,4067,*Faunas -- Quaternary*,*mammals, E. Afr.*
+54,4067,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Germany*
+54,4068,*Faunas -- Devonian*,*lung-fish, Germany*
+54,4076,*Faunas -- Quaternary*,*dwarfed mammals, Mediterranean*
+54,4086,*Faunas -- Triassic*,*fishes, Italy*
+54,4087,*Faunas -- Jurassic*,*crocodile, Italy*
+54,4098,*Faunas -- Tertiary*,*marine fishes, India and Asia*
+54,4099,*Faunas -- Tertiary*,*fishes, Brittany*
+54,4126,*Faunas -- Triassic*,*tritylodonts, Ariz.*
+54,4141,*Faunas -- Eocene*,*mammals, China*
+54,4149,*Faunas -- Eocene*,*verts., Messel, Germany*
+54,4150,*Faunas -- Cenozoic*,*mastodonts, Bolivia*
+54,4160,*Faunas -- Pliocene*,*fishes, Sicily*
+54,4162,*Faunas -- Devonian*,*arthrodire, China*
+54,4163,*Faunas -- Jurassic*,*fish, China*
+54,4165,*Faunas -- Quaternary*,*fishes, China*
+54,4166,*Faunas -- Triassic*,*fishes, N. Angola*
+54,4167,*Faunas -- Jurassic*,*dipnoans, China*
+54,4167,*Faunas -- Miocene*,*cyprinid, China*
+54,4168,*Faunas -- Cretaceous*,*palaeoniscoid, China*
+54,4169,*Faunas -- Devonian*,*fishes, China*
+54,4174,*Faunas -- Pliocene*,*mammals, Spain*
+54,4175,*Faunas -- Quaternary -- Cave Faunas*,**
+54,4175,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Spain*
+54,4197,*Faunas -- Quaternary*,*mammals, Mex.*
+54,4216,*Faunas -- Miocene*,*mammals, Spain*
+54,4231,*Faunas -- Quaternary*,*mammals, Germany*
+54,4235,*Faunas -- Paleozoic Mesozoic*,*batrachians, Penn*
+54,4245,*Faunas -- Miocene*,*mammals, Rumania*
+54,4250,*Faunas -- Quaternary*,*verts., eastern Libya*
+54,4261,*Faunas -- Pliocene*,*verts., S. D.*
+54,4262,*Faunas -- Miocene*,*carnivore, Nebr.*
+54,4264,*Faunas -- Oligocene*,*leptochoerids, N. A.*
+54,4265,*Faunas -- Pliocene*,**
+54,4266,*Faunas -- Pliocene*,*mammals, Nev.*
+54,4267,*Faunas -- Tertiary*,*anthracotheres, N. A.*
+54,4268,*Faunas -- Tertiary*,*leptochoerid, S. D.*
+54,4270,*Faunas -- Pliocene*,*verts., S. D.*
+54,4271,*Faunas -- Pliocene*,*mammals, Nev.*
+54,4272,*Faunas -- Miocene*,*anthracothere, Nebr.*
+54,4281,*Faunas -- Cenozoic*,*tubulidentates, E. Afr.*
+54,4282,*Faunas -- Miocene*,*rodent, E. Afr.*
+54,4284,*Faunas -- Devonian*,*fishes, Grand Canyon*
+54,4284,*Faunas -- Quaternary*,*mammals, Ariz.*
+54,4287,*Faunas -- Quaternary*,*goosebeak whale, N. C.*
+54,4288,*Faunas -- Eocene*,**
+54,4289,*Faunas -- Eocene*,**
+54,4290,*Faunas -- Paleocene*,*mammals, Calif.*
+54,4291,*Faunas -- Miocene*,*mylagulid, Mont.*
+54,4292,*Faunas -- Eocene*,**
+54,4293,*Faunas -- Eocene*,*verts., Colo.*
+54,4294,*Faunas -- Miocene*,*notoungulates and condylarths, Colombia*
+54,4300,*Faunas -- Paleozoic*,*shark, Tenn.*
+54,4311,*Faunas -- Pliocene*,*elephant, Sardinia*
+54,4315,*Faunas -- Quaternary*,*mammals, Mex.*
+54,4316,*Faunas -- Oligocene*,*sirenian, Mex.*
+54,4317,*Faunas -- Quaternary*,*rhino, Mex.*
+54,4318,*Faunas -- Quaternary*,*antilocaprids, Mex.*
+54,4319,*Faunas -- Quaternary*,*canid, Mex.*
+54,4320,*Faunas -- Quaternary*,*elephant, Mex.*
+54,4321,*Faunas -- Cretaceous*,*fishes, Mex.*
+54,4329,*Faunas -- Cretaceous*,*cheloniform reptile, Mongolia*
+54,4330,*Faunas -- Cretaceous*,**
+54,4331,*Faunas -- Cretaceous*,**
+54,4332,*Faunas -- Cretaceous*,**
+54,4333,*Faunas -- Cretaceous*,*carnivorous dinosaurs, Mongolia*
+54,4334,*Faunas -- Cretaceous*,*armored dinosaurs, Mongolia*
+54,4335,*Faunas -- Quaternary*,*cave bear, Croatia*
+54,4340,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Croatia*
+54,4341,*Faunas -- Quaternary*,*cave hyena, Slovenia*
+54,4342,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Veternica Cave, Croatia*
+54,4343,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Balkan Peninsula*
+54,4345,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Spain*
+54,4357,*Faunas -- Cenozoic*,*mammals, China*
+54,4358,*Faunas -- Pliocene*,*mammals, northeastern Spain*
+54,4373,*Faunas -- Devonian*,*arthrodire, Estonia*
+54,4374,*Faunas -- Paleozoic*,*agnathid, Estonia*
+54,4377,*Faunas -- Tertiary*,*penguins, Seymour Island*
+54,4378,*Faunas -- Oligocene*,*cetotheres, New Zealand*
+54,4385,*Faunas -- Quaternary*,*rhino and equus, France*
+54,4386,*Faunas -- Mesozoic*,**
+54,4387,*Faunas -- Mesozoic*,*otoliths, Germany*
+54,4388,*Faunas -- Cretaceous*,*mosasaur, S. D.*
+54,4392,*Faunas -- Tertiary*,*mammals, Spain*
+54,4394,*Faunas -- Quaternary*,*carnivorous mammals, Morocco*
+54,4395,*Faunas -- Pliocene*,*elephant, rhino, Spain*
+54,4396,*Faunas -- Eocene*,*Trionyx and mammals, Spain*
+54,4409,*Faunas -- Pliocene*,*mammals, Japan*
+54,4412,*Faunas -- Eocene*,**
+54,4413,*Faunas -- Eocene*,*mammals, Geiseltal, Germany*
+54,4416,*Faunas -- Carboniferous*,**
+54,4417,*Faunas -- Carboniferous*,*paleoniscids, U.S.S.R.*
+54,4420,*Faunas -- Quaternary*,**
+54,4425,*Faunas -- Quaternary*,*mammals, N. W. Afr.*
+54,4429,*Faunas -- Quaternary -- Cave Faunas*,*verts., Italy*
+54,4430,*Faunas -- Quaternary*,*verts., Italy*
+54,4432,*Faunas -- Quaternary*,*cervid, Italy*
+54,4445,*Faunas -- Quaternary*,*shrews, S. Afr.*
+54,4448,*Faunas -- Miocene*,*mammals, France*
+54,4449,*Faunas -- Quaternary*,*mammoth, Va.*
+54,4460,*Faunas -- Quaternary*,*mammals, Spain*
+54,4464,*Faunas -- Permian*,*fishes and reptile, Brazil*
+54,4495,*Faunas -- Jurassic*,*pycondontid, Belgrade*
+54,4497,*Faunas -- Quaternary*,*magpie, Tex.*
+54,4502,*Faunas -- Eocene*,*reptiles, N. J.*
+54,4504,*Faunas -- Permian*,*bradyodont, Kan.*
+54,4505,*Faunas -- Cretaceous*,**
+54,4507,*Faunas -- Cretaceous*,*elopid, Kans.*
+54,4507,*Faunas -- Permian*,*bradyodont, Kan. and Okla.*
+54,4511,*Faunas -- Pliocene*,*birds, Calif.*
+54,4512,*Faunas -- Pliocene*,*birds, Calif.*
+54,4520,*Faunas -- Quaternary -- Cave Faunas*,*turtles, Tex.*
+54,4521,*Faunas -- Quaternary*,*mammoth, Japan*
+54,4522,*Faunas -- Quaternary*,*mammoth, Japan*
+54,4528,*Faunas -- Quaternary -- Cave Faunas*,**
+54,4529,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Italy*
+54,4530,*Faunas -- Oligocene*,*rodents and ungulates, Belgium*
+54,4531,*Faunas -- Cenozoic*,*birds and mammals, Belgium*
+54,4536,*Faunas -- Pliocene*,**
+54,4537,*Faunas -- Pliocene*,*lizards, Poland*
+54,4538,*Faunas -- Pliocene*,*tortoises, Poland*
+54,4543,*Faunas -- Miocene*,*cetacean, Italy*
+54,4544,*Faunas -- Quaternary*,*fishes, Italy*
+54,4545,*Faunas -- Miocene*,*mammals, Wyo., Colo.*
+54,4553,*Faunas -- Eocene*,*crocodiles, Italy*
+54,4555,*Faunas -- Cenozoic*,*shark teeth, Fla.*
+54,4567,*Faunas -- Quaternary*,*mammals, Mex.*
+54,4581,*Faunas -- Eocene*,*mammals, Wyo.*
+54,4593,*Faunas -- Cenozoic*,*reptiles and mammals, Belgian Congo*
+54,4599,*Faunas -- Quaternary*,*mammals, Europe*
+54,4600,*Faunas -- Pliocene*,*mammals, Austria*
+54,4601,*Faunas -- Pliocene*,*suid, Austria*
+54,4602,*Faunas -- Miocene*,*primate, Austria*
+54,4603,*Faunas -- Miocene*,**
+54,4604,*Faunas -- Miocene*,*mammals, Austria*
+54,4605,*Faunas -- Miocene*,*bovid, Austria*
+54,4606,*Faunas -- Miocene*,*proboscidean, Austria*
+54,4607,*Faunas -- Quaternary -- Cave Faunas*,*Repolustho%Fhle, Steiermark, Austria*
+54,4620,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Cent. Asia*
+54,4633,*Faunas -- Quaternary*,*mammals, La Colombie%Cre, France*
+54,4647,*Faunas -- Paleozoic Mesozoic*,*verts., U.S.S.R.*
+54,4652,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Burnet Cave, N. Mex.*
+54,4655,*Faunas -- Quaternary*,*mammoth, Poland*
+54,4656,*Faunas -- Quaternary*,*Megaceros, Jugoslavia*
+54,4657,*Faunas -- Quaternary*,**
+54,4659,*Faunas -- Quaternary*,**
+54,4660,*Faunas -- Quaternary*,**
+54,4661,*Faunas -- Quaternary*,**
+54,4663,*Faunas -- Quaternary*,**
+54,4664,*Faunas -- Miocene*,*Deinotherium, Czechoslovakia*
+54,4665,*Faunas -- Quaternary*,**
+54,4666,*Faunas -- Quaternary*,**
+54,4667,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Moravia*
+54,4669,*Faunas -- Quaternary*,*mammals, Moravia*
+54,4670,*Faunas -- Quaternary*,*mammals, Czechoslovakia*
+54,4672,*Faunas -- Quaternary*,*mammals, Czechoslovakia*
+54,4674,*Faunas -- Silurian*,*fishes, N. Afr.*
+54,4684,*Faunas -- Quaternary*,*mammals, Japan*
+54,4685,*Faunas -- Mesozoic*,*dinosaur, Mongolia*
+54,4686,*Faunas -- Quaternary -- Cave Faunas*,*ophidians, Japan*
+54,4687,*Faunas -- Quaternary*,*wolves, Japan*
+54,4700,*Faunas -- Tertiary*,*fishes, West Coast*
+54,4702,*Faunas -- Triassic*,*ganoids, Madagascar*
+54,4726,*Faunas -- Cretaceous*,*frogs, Israel*
+54,4730,*Faunas -- Quaternary*,*mastodon, Big Bone Lick*
+54,4731,*Faunas -- Quaternary*,*mammals, Big Bone Lick*
+54,4732,*Faunas -- Quaternary -- Cave Faunas*,*Cumberland Cave, Md.*
+54,4748,*Faunas -- Triassic*,*batrachomorph, Greenland*
+54,4749,*Faunas -- Triassic*,*fishes, Madagascar*
+54,4764,*Faunas -- Pliocene*,*mammals, Tex.*
+54,4785,*Faunas -- Cretaceous*,*reptiles, East. Urals*
+54,4786,*Faunas -- Eocene*,*mammals, Mongolia*
+54,4787,*Faunas -- Permian*,*tetrapods, U.S.S.R.*
+54,4823,*Faunas -- Paleozoic*,*verts., Urals*
+54,4828,*Faunas -- Devonian*,*cephalaspids, Asia*
+54,4830,*Faunas -- Permian*,*cotylosaurs and batrachosaurs, U.S.S.R.*
+54,4832,*Faunas -- Devonian*,**
+54,4833,*Faunas -- Devonian*,*coccosteans, U.S.S.R.*
+54,4834,*Faunas -- Devonian*,*fish, Kazakhstan*
+54,4835,*Faunas -- Devonian*,*arthrodire, U.S.S.R.*
+54,4836,*Faunas -- Triassic*,*reptiles, Urals*
+54,4837,*Faunas -- Triassic*,*pseudosuchians, U.S.S.R.*
+54,4842,*Faunas -- Quaternary*,*mammals, South. France*
+54,4847,*Faunas -- Pliocene*,*horned toad, Kans.*
+54,4849,*Faunas -- Pliocene*,*turtle, N. A.*
+54,4850,*Faunas -- Pliocene*,*tapir, Germany*
+54,4852,*Faunas -- Quaternary*,*mammoth, U.S.S.R.*
+54,4860,*Faunas -- Quaternary*,*rail, New Zealand*
+54,4862,*Faunas -- Miocene*,**
+54,4863,*Faunas -- Miocene*,**
+54,4865,*Faunas -- Miocene*,*mustelid, Fla.*
+54,4866,*Faunas -- Miocene*,**
+54,4867,*Faunas -- Tertiary*,*beak-jawed mastodont, Fla.*
+54,4868,*Faunas -- Miocene*,*canids, Fla.*
+54,4869,*Faunas -- Miocene*,*leptarctine, Fla.*
+54,4870,*Faunas -- Miocene*,*borophagine, Fla.*
+54,4870,*Faunas -- Quaternary*,*bog-lemming, Fla.*
+54,4871,*Faunas -- Miocene*,*carnivores, Fla.*
+54,4872,*Faunas -- Quaternary*,*mammals, Fla.*
+54,4874,*Faunas -- Permian*,*pelycosaurs, Tex.*
+54,4875,*Faunas -- Permian*,*Dimetrodon, Tex.*
+54,4876,*Faunas -- Permian*,*captorhinomorphs, Tex.*
+54,4879,*Faunas -- Permian*,*edopsoid, Tex.*
+54,4880,*Faunas -- Permian*,*parallelism in Old and New World Perm. reptiles*
+54,4881,*Faunas -- Miocene*,**
+54,4882,*Faunas -- Permian*,*amphibians, Tex.*
+54,4883,*Faunas -- Miocene*,**
+54,4887,*Faunas -- Miocene*,*pongid, Spain*
+54,4891,*Faunas -- Tertiary*,*mammals, Mongolia*
+54,4892,*Faunas -- Mesozoic*,*verts., Mongolia*
+54,4896,*Faunas -- Permian*,**
+54,4899,*Faunas -- Permian*,**
+54,4900,*Faunas -- Permian*,*dinocephalians, U.S.S.R.*
+54,4903,*Faunas -- Miocene*,*toothed whale, Calif.*
+54,4908,*Faunas -- Quaternary*,**
+54,4915,*Faunas -- Quaternary*,*proboscideans, Santa Rosa Is.*
+54,4920,*Faunas -- Devonian*,*fishes, Canada*
+54,4922,*Faunas -- Paleozoic*,*fishes, Spitzbergen and N. A.*
+54,4923,*Faunas -- Ordovician*,*ostracoderm, N. A.*
+54,4927,*Faunas -- Cenozoic*,*fishes and mammals, Japan*
+54,4928,*Faunas -- Tertiary*,*mammals, Europe, Asia, Turkey*
+54,4930,*Faunas -- Tertiary*,*mammals, Turkey*
+54,4942,*Faunas -- Quaternary*,*mammals, Spain*
+54,4944,*Faunas -- Quaternary*,*mammals, Iowa*
+54,4945,*Faunas -- Quaternary*,*goat, Iowa*
+54,4947,*Faunas -- Quaternary*,*mammals, Oreg.*
+54,4956,*Faunas -- Pliocene*,*vert. fauna, Austria*
+54,4959,*Faunas -- Quaternary*,*mammals, Greece*
+54,4972,*Faunas -- Permian*,*gorgonopsians, S. Afr.*
+54,4973,*Faunas -- Permian*,*problematic reptile*
+54,4975,*Faunas -- Paleozoic*,*anaspids, Scotland*
+54,4977,*Faunas -- Quaternary*,*insectivores, rodents, Broion Cave, Italy*
+54,4978,*Faunas -- Miocene*,**
+54,4979,*Faunas -- Miocene*,*toxodonts, S. A.*
+54,4980,*Faunas -- Pliocene*,*toxodont, Argentina*
+54,4981,*Faunas -- Quaternary*,*carnivore, Argentina*
+54,4986,*Faunas -- Cenozoic*,*deer, Europe*
+54,4990,*Faunas -- Quaternary*,*elephant, Vietnam*
+54,5004,*Faunas -- Cretaceous*,*symmetrodont, Tex.*
+54,5005,*Faunas -- Cretaceous*,*mammals, Tex.*
+54,5009,*Faunas -- Oligocene*,*erethizontid rodent, Argentina*
+54,5012,*Faunas -- Paleocene*,*pantodont, Colo.*
+54,5013,*Faunas -- Oligocene*,*fishes, Anatolia*
+54,5014,*Faunas -- Paleozoic Mesozoic*,*fishes, Rumania*
+54,5015,*Faunas -- Quaternary*,*megatheres, N. A., S. A.*
+54,5016,*Faunas -- Paleocene*,*notostylopid, Brazil*
+54,5017,*Faunas -- Paleocene*,*mammals, Brazil*
+54,5018,*Faunas -- Quaternary*,*glyptodont, Uruguay, and tatu, Brazil*
+54,5019,*Faunas -- Tertiary*,*toxodonts, Brazil and Peru*
+54,5020,*Faunas -- Quaternary*,*mammals, Argentina*
+54,5021,*Faunas -- Quaternary*,*saber-toothed tiger, Brazil*
+54,5022,*Faunas -- Quaternary*,*bat, Brazil*
+54,5023,*Faunas -- Cenozoic*,*mammals, Amazon*
+54,5024,*Faunas -- Tertiary*,*bear, Brazil*
+54,5025,*Faunas -- Quaternary*,*glyptodonts, Brazil*
+54,5026,*Faunas -- Cenozoic*,*verts., Brazil*
+54,5027,*Faunas -- General*,*origin and evol., Madagascar fauna*
+54,5031,*Faunas -- Carboniferous*,*reptiles, Kans.*
+54,5039,*Faunas -- Carboniferous*,*edaphosaurs, Kans.*
+54,5042,*Faunas -- Carboniferous*,*embolomerous amphibian, Kans.*
+54,5049,*Faunas -- Quaternary*,*mammals, Honan*
+54,5059,*Faunas -- Quaternary*,*mammals, China*
+54,5063,*Faunas -- Pliocene*,*mammals, China*
+54,5065,*Faunas -- Quaternary*,*mammals, Shansi*
+54,5069,*Faunas -- Quaternary*,*mammals, Chekiang*
+54,5070,*Faunas -- Quaternary*,*mammals, Hopei*
+54,5073,*Faunas -- Quaternary*,*mammals, Szechuan*
+54,5074,*Faunas -- Miocene*,*crocodilian, Jugoslavia*
+54,5095,*Faunas -- Cretaceous*,*elasmosaur, Scandinavia*
+54,5099,*Faunas -- Quaternary*,*mammals, Bohemia*
+54,5101,*Faunas -- Tertiary*,*verts., Libya*
+54,5102,*Faunas -- Tertiary*,*elephants, Libya*
+54,5103,*Faunas -- Miocene*,*bovids, Libya*
+54,5104,*Faunas -- Tertiary*,*Deinotherium, Serbia*
+54,5105,*Faunas -- Tertiary*,*mastodonts, Jugoslavia*
+54,5106,*Faunas -- Tertiary*,*indricotheres, Jugoslavia*
+54,5107,*Faunas -- Quaternary -- Cave Faunas*,*lagomorphs, Tex.*
+54,5110,*Faunas -- Jurassic*,*Lepidotus, Schaffhausen*
+54,5111,*Faunas -- Triassic*,*verts., Palestine*
+54,5112,*Faunas -- Triassic*,*placodont, Switzerland*
+54,5113,*Faunas -- Triassic*,*reptiles and mammals, Schaffhausen*
+54,5115,*Faunas -- Oligocene*,*Protornis, Switzerland*
+54,5128,*Faunas -- General*,*Ukraine*
+54,5129,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Odessa*
+54,5130,*Faunas -- Quaternary*,*verts., Ukraine*
+54,5132,*Faunas -- General*,*U.S.S.R.*
+54,5133,*Faunas -- Quaternary -- Cave Faunas*,*rodents, Ukraine*
+54,5136,*Faunas -- Quaternary*,*mammals, Ukraine*
+54,5137,*Faunas -- Miocene*,*fish and foraminifera, Calif.*
+54,5143,*Faunas -- Pliocene*,*verts., Fla.*
+54,5145,*Faunas -- Pliocene*,*Hipparion, Europe*
+54,5160,*Faunas -- Permian*,*procolophonid, Madagascar*
+54,5180,*Faunas -- Mesozoic*,*mammals*
+54,5189,*Faunas -- Paleozoic Mesozoic*,*reptiles, Madagascar*
+54,5203,*Faunas -- Miocene*,*fish otoliths, Persia*
+54,5204,*Faunas -- Eocene*,*eohippus, Wyo.*
+54,5207,*Faunas -- Carboniferous*,*marine verts., Mecca, Ind.*
+54,5208,*Faunas -- Quaternary*,*mammoth, northern Siberia*
+54,5209,*Faunas -- Quaternary*,**
+54,5210,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,5242,*Faunas -- Quaternary*,**
+54,5243,*Faunas -- Quaternary*,*ass, France*
+54,5248,*Faunas -- Cretaceous*,*pleurodire, Brazil*
+54,5249,*Faunas -- Cretaceous*,*crocodile, Brazil*
+54,5250,*Faunas -- Triassic*,*cotylosaur, Pa.*
+54,5251,*Faunas -- Cretaceous*,*mosasaurs and fishes, Brazil*
+54,5257,*Faunas -- Miocene*,*desmostylid, Kamchatka*
+54,5264,*Faunas -- Quaternary*,*hippo, Greece*
+54,5265,*Faunas -- Quaternary*,*cervids, Greece*
+54,5266,*Faunas -- Quaternary*,*mammoth, Greece*
+54,5271,*Faunas -- Quaternary*,*mammals, Great Lakes*
+54,5274,*Faunas -- Quaternary*,**
+54,5275,*Faunas -- Miocene*,*horses, Tex.*
+54,5278,*Faunas -- Quaternary*,*horses, Tex.*
+54,5279,*Faunas -- Quaternary*,*ass, Tex.*
+54,5284,*Faunas -- Permian*,*terrestrial verts., U.S.S.R.*
+54,5292,*Faunas -- Quaternary -- Cave Faunas*,**
+54,5293,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Italy*
+54,5304,*Faunas -- Quaternary*,**
+54,5305,*Faunas -- Pliocene*,*mastodon, Slovenia*
+54,5306,*Faunas -- Quaternary*,**
+54,5307,*Faunas -- Quaternary*,**
+54,5308,*Faunas -- Quaternary*,**
+54,5309,*Faunas -- Quaternary*,**
+54,5310,*Faunas -- Quaternary*,**
+54,5311,*Faunas -- Quaternary*,**
+54,5312,*Faunas -- Quaternary*,**
+54,5313,*Faunas -- Quaternary*,*mammals, Slovenia*
+54,5314,*Faunas -- Quaternary*,*mammals, Jugoslavia*
+54,5316,*Faunas -- Eocene*,*siluroid fish, India*
+54,5318,*Faunas -- Jurassic*,*pliosaur, England*
+54,5319,*Faunas -- General*,*fossil verts., Fla.*
+54,5321,*Faunas -- Quaternary*,*mammals, Fla.*
+54,5325,*Faunas -- Cretaceous*,*fishes, Brazil*
+54,5326,*Faunas -- Quaternary*,*mole, Gibralter*
+54,5327,*Faunas -- Tertiary*,*fossorial mammals, West. N. A.*
+54,5328,*Faunas -- Oligocene*,*fossorial mammal, Colo.*
+54,5329,*Faunas -- Miocene*,*fossorial mammal, Nev.*
+54,5338,*Faunas -- Permian*,*fishes and amphibians, Denmark*
+54,5340,*Faunas -- Pliocene*,*caenolestid, Argentina*
+54,5341,*Faunas -- Quaternary*,**
+54,5342,*Faunas -- Quaternary*,*mustelid, Argentina*
+54,5343,*Faunas -- Miocene*,*marsupial, Argentina*
+54,5345,*Faunas -- Pliocene*,*didelphid, Argentina*
+54,5346,*Faunas -- Pliocene*,*hydrochoerid rodent, Argentina*
+54,5357,*Faunas -- Pliocene*,*bird, turtles, mammals, Hungary*
+54,5358,*Faunas -- Pliocene*,*mammals, Spain*
+54,5373,*Faunas -- Quaternary*,*mammals, Germany*
+54,5374,*Faunas -- Quaternary*,*bovid, Germany*
+54,5375,*Faunas -- Oligocene*,*reptiles, Brandenburg, Germany*
+54,5380,*Faunas -- Ordovician*,*Archeognathus*
+54,5381,*Faunas -- Eocene*,*Halitherium, Spain*
+54,5382,*Faunas -- Quaternary -- Cave Faunas*,*rodent, Sicily*
+54,5384,*Faunas -- Quaternary*,*equids, Solutre%A, France*
+54,5388,*Faunas -- Carboniferous*,*sharks, Ind.*
+54,5397,*Faunas -- Miocene*,*mass death of herrings, Lompoc, Calif.*
+54,5400,*Faunas -- Quaternary -- Cave Faunas*,*phalangeroid marsupial, New South Wales*
+54,5401,*Faunas -- Quaternary -- Cave Faunas*,*murid, New South Wales*
+54,5406,*Faunas -- Cenozoic*,*didelphids, Argentina*
+54,5407,*Faunas -- Miocene*,*notoungulate, S. A.*
+54,5409,*Faunas -- Miocene*,*mammals, Germany*
+54,5422,*Faunas -- Cretaceous*,*reptiles, Surrey*
+54,5452,*Faunas -- Triassic*,**
+54,5453,*Faunas -- Triassic*,*reptiles, fissure deposits, England*
+54,5454,*Faunas -- Triassic*,*sauropsid, England*
+54,5455,*Faunas -- Triassic*,*reptiles, Bengal*
+54,5456,*Faunas -- Eocene*,*Notharctus, N. A.*
+54,5468,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,5502,*Faunas -- Carboniferous*,*embolomere, Nova Scotia*
+54,5505,*Faunas -- Permian*,*amphibians and reptiles, Tex.*
+54,5507,*Faunas -- Mesozoic*,*Oligokyphus, Europe*
+54,5508,*Faunas -- Permian*,*lung-fish, Tex.*
+54,5514,*Faunas -- Quaternary*,*elephant, Italy*
+54,5515,*Faunas -- Quaternary*,*cave bear, Italy*
+54,5517,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Lombardy caves, Italy*
+54,5519,*Faunas -- Oligocene*,*fishes, Du%Fsseldorf*
+54,5530,*Faunas -- Cretaceous*,*ornithodonts, Asia*
+54,5531,*Faunas -- Tertiary*,**
+54,5532,*Faunas -- Cretaceous*,*psittacosaur, U.S.S.R.*
+54,5534,*Faunas -- Cretaceous*,*duck-billed dinosaur, Mongolia*
+54,5535,*Faunas -- Cretaceous*,*reptiles, Mongolia*
+54,5535,*Faunas -- Tertiary*,*mammals, Mongolia*
+54,5536,*Faunas -- Cretaceous*,*dinosaurs, Amur River*
+54,5547,*Faunas -- Jurassic*,*plesiosaur, Argentina*
+54,5548,*Faunas -- Cenozoic*,**
+54,5548,*Faunas -- Paleozoic Mesozoic*,**
+54,5549,*Faunas -- Paleozoic*,*labyrinthodont, Mendoza*
+54,5550,*Faunas -- Cenozoic*,*verts., Mendoza*
+54,5550,*Faunas -- Paleozoic Mesozoic*,*verts., Mendoza*
+54,5557,*Faunas -- Cenozoic*,*macrauchenids, Argentina*
+54,5558,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Argentina*
+54,5559,*Faunas -- Pliocene*,*bird, Buenos Aires*
+54,5560,*Faunas -- Eocene*,*mammals, British Columbia*
+54,5563,*Faunas -- Devonian*,*cephalaspid, Canada*
+54,5565,*Faunas -- Quaternary*,*horses, West. Canada*
+54,5567,*Faunas -- Paleocene*,**
+54,5568,*Faunas -- Paleocene*,*mammals, Alberta*
+54,5569,*Faunas -- Pliocene*,*horse, Alberta*
+54,5578,*Faunas -- Quaternary*,*mammals, Germany*
+54,5580,*Faunas -- Tertiary*,*verts., Germany*
+54,5581,*Faunas -- Quaternary*,*mammals, Germany*
+54,5585,*Faunas -- Quaternary*,*mammals, Poland*
+54,5586,*Faunas -- Quaternary -- Cave Faunas*,*cave bear, Poland*
+54,5588,*Faunas -- Jurassic*,*dinosaur, China*
+54,5599,*Faunas -- Quaternary*,*bison, Italy*
+54,5600,*Faunas -- Triassic*,*reptiles, Italy*
+54,5601,*Faunas -- Quaternary*,*elephant, Italy*
+54,5615,*Faunas -- Jurassic*,**
+54,5616,*Faunas -- Jurassic*,*fishes, Belgian Congo*
+54,5635,*Faunas -- Miocene*,*shark teeth, Hindustan*
+54,5641,*Faunas -- Pliocene*,*mammals, Austria*
+54,5655,*Faunas -- Cenozoic*,*proboscideans, Tex.*
+54,5657,*Faunas -- Cenozoic*,*origin and affinities of West. Nearctic land mammal faunas*
+54,5658,*Faunas -- Cenozoic*,*mammals, southern Calif.*
+54,5658,*Faunas -- Cenozoic*,*stegomastodonts, N. A.*
+54,5660,*Faunas -- Quaternary*,*giant deer, Ireland*
+54,5661,*Faunas -- Mesozoic and Cenozoic*,*mammals, Afr.*
+54,5663,*Faunas -- Oligocene*,*otter, France*
+54,5664,*Faunas -- Mesozoic*,*pliosaur, England*
+54,5668,*Faunas -- Quaternary*,*rail, New Zealand*
+54,5674,*Faunas -- Triassic*,*coelacanth, N. A.*
+54,5675,*Faunas -- Triassic*,*subholostean fish, Argentina*
+54,5685,*Faunas -- Pliocene*,*cricetid, Poland*
+54,5713,*Faunas -- Tertiary*,*coral snakes, Mex.*
+54,5716,*Faunas -- Devonian*,*agnathid, Germany*
+54,5717,*Faunas -- Quaternary*,*elk, France*
+54,5718,*Faunas -- Quaternary*,*bison, Cent. Europe*
+54,5721,*Faunas -- Pliocene*,*mammals, Okla.*
+54,5723,*Faunas -- Quaternary*,*primate, Szechuan*
+54,5724,*Faunas -- Jurassic*,*otoliths, Bavaria*
+54,5733,*Faunas -- Tertiary*,**
+54,5734,*Faunas -- Tertiary*,*oreodonts, N. A.*
+54,5737,*Faunas -- Quaternary*,*verts., Nebr.*
+54,5738,*Faunas -- Quaternary*,**
+54,5754,*Faunas -- Miocene*,*cetacean, Australia*
+54,5773,*Faunas -- Pliocene*,**
+54,5774,*Faunas -- Pliocene*,**
+54,5777,*Faunas -- Pliocene*,**
+54,5779,*Faunas -- Pliocene*,*verts., Turkey*
+54,5805,*Faunas -- Miocene*,*fishes, Portugal*
+54,5812,*Faunas -- Cretaceous*,*mosasaur, S. D.*
+54,5822,*Faunas -- Permian*,**
+54,5823,*Faunas -- Permian*,**
+54,5824,*Faunas -- Permian*,**
+54,5825,*Faunas -- Permian*,*amphibian, Tex.*
+54,5828,*Faunas -- Cenozoic*,*mammals, Turkistan*
+54,5830,*Faunas -- Quaternary*,*small mammoths, U.S.S.R.*
+54,5832,*Faunas -- Quaternary*,**
+54,5833,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,5835,*Faunas -- Quaternary*,**
+54,5836,*Faunas -- Quaternary*,*elephants, U.S.S.R.*
+54,5837,*Faunas -- Eocene*,*fish, Dagestan, U.S.S.R.*
+54,5838,*Faunas -- Quaternary -- Cave Faunas*,*snakes, Japan*
+54,5840,*Faunas -- Quaternary*,*frog, Japan*
+54,5844,*Faunas -- Miocene*,*chelonians, Japan*
+54,5847,*Faunas -- Quaternary*,*shrew, Japan*
+54,5850,*Faunas -- Miocene*,*stegolophodont, Japan*
+54,5851,*Faunas -- Quaternary*,*mammals, Japan*
+54,5851,*Faunas -- Quaternary*,*mammals, Japan*
+54,5857,*Faunas -- Pliocene*,*beavers, Oreg.*
+54,5858,*Faunas -- Pliocene*,*mammals, Oreg.*
+54,5859,*Faunas -- Pliocene*,*mammal communities, Oreg.*
+54,5865,*Faunas -- General*,*fish teeth, Vovniz*
+54,5872,*Faunas -- Triassic*,*fishes, Austria*
+54,5873,*Faunas -- Quaternary*,**
+54,5874,*Faunas -- Quaternary*,*mammoths, Germany*
+54,5880,*Faunas -- Cretaceous*,*fish, Lebanon*
+54,5883,*Faunas -- Pliocene*,*bird, Brazil*
+54,5885,*Faunas -- Tertiary*,*fish, Brazil*
+54,5894,*Faunas -- Eocene*,*apatemyid, N. Mex.*
+54,5898,*Faunas -- Tertiary*,*amynodonts, Mongolia*
+54,5900,*Faunas -- Cenozoic*,*land mammals, West Indies*
+54,5900,*Faunas -- General*,*land mammals, West Indies*
+54,5903,*Faunas -- Tertiary*,*penguins, Australia*
+54,5904,*Faunas -- Eocene*,*astrapothere, Argentina*
+54,5909,*Faunas -- Cenozoic*,**
+54,5911,*Faunas -- Cenozoic*,*mastodonts, Brazil*
+54,5915,*Faunas -- Quaternary*,*mammoths, Nev.*
+54,5925,*Faunas -- Ordovician*,*fish, Canada*
+54,5930,*Faunas -- Quaternary*,*mammals, S. Afr.*
+54,5938,*Faunas -- Quaternary*,*stegolophodont, S. Afr.*
+54,5939,*Faunas -- Quaternary*,*suiformes, S. Afr.*
+54,5959,*Faunas -- Quaternary*,**
+54,5960,*Faunas -- Quaternary*,*fishes, Kans., Okla.*
+54,5962,*Faunas -- Quaternary*,*verts., Schuiling Cave, Calif.*
+54,5966,*Faunas -- Silurian*,*anaspid, Norway*
+54,5980,*Faunas -- Quaternary*,*mammoth, Siberia*
+54,5993,*Faunas -- Triassic*,*reptiles, Volga region*
+54,6012,*Faunas -- Quaternary -- Cave Faunas*,*cave bears, Austria*
+54,6015,*Faunas -- Miocene*,*cetaceans, Azerbaijan, U.S.S.R.*
+54,6018,*Faunas -- Quaternary*,*fishes, frogs, mammals, Suffolk*
+54,6020,*Faunas -- Quaternary*,*mammals, Peru*
+54,6021,*Faunas -- Permian*,*labyrinthodont, Cent. Europe*
+54,6023,*Faunas -- Tertiary*,*frog, Bohemia*
+54,6024,*Faunas -- Cretaceous*,*elopid fish, Tex.*
+54,6026,*Faunas -- Silurian*,*fishes, Wales*
+54,6027,*Faunas -- Pliocene*,*canid, Poland*
+54,6028,*Faunas -- Pliocene*,*ursid, Poland*
+54,6034,*Faunas -- Quaternary*,*mammals, Okla.*
+54,6056,*Faunas -- Cretaceous*,*juv. hadrosaur, Alberta*
+54,6057,*Faunas -- Cenozoic*,*harp seal. Canada*
+54,6058,*Faunas -- Cretaceous*,*plesiosaur, Kans.*
+54,6059,*Faunas -- Cretaceous*,*pterandon, Kans.*
+54,6062,*Faunas -- Miocene*,*pongid, Georgia, S.S.R.*
+54,6070,*Faunas -- Quaternary*,*birds, Kans.*
+54,6072,*Faunas -- Tertiary*,*verts. S. D.*
+54,6077,*Faunas -- Eocene*,*fish otoliths, Sussex*
+54,6078,*Faunas -- Tertiary*,*fish otoliths, New Zealand*
+54,6079,*Faunas -- Tertiary*,*fish otoliths, Australia*
+54,6080,*Faunas -- Jurassic*,**
+54,6081,*Faunas -- Jurassic*,*frog, Argentina*
+54,6087,*Faunas -- Miocene*,*mammals, Mex.*
+54,6088,*Faunas -- Tertiary*,**
+54,6089,*Faunas -- Tertiary*,**
+54,6093,*Faunas -- Pliocene*,*Colombian mammals*
+54,6094,*Faunas -- Pliocene*,*equids, Mex.*
+54,6095,*Faunas -- Tertiary*,**
+54,6096,*Faunas -- Tertiary*,*marsupials, S. Australia*
+54,6097,*Faunas -- Pliocene*,*koala, S. Australia*
+54,6099,*Faunas -- Tertiary*,*marsupials, S. Australia*
+54,6101,*Faunas -- Quaternary*,*horse, Mex.*
+54,6102,*Faunas -- Quaternary*,*verts., Rancho La Brea*
+54,6108,*Faunas -- Quaternary*,*bird, Mex.*
+54,6109,*Faunas -- Tertiary*,*loon, Europe*
+54,6137,*Faunas -- Oligocene*,*Protornis, Switzerland*
+54,6145,*Faunas -- Quaternary*,*mammals, Hungary*
+54,6152,*Faunas -- Cretaceous*,*herring, China*
+54,6153,*Faunas -- Cretaceous*,*crocodilian, China*
+54,6159,*Faunas -- Cretaceous*,*fishes, Mongolia*
+54,6160,*Faunas -- Miocene*,*mullet, Caucasus*
+54,6166,*Faunas -- Jurassic*,*carnivorous dinosaur, England*
+54,6189,*Faunas -- Quaternary*,*proboscideans, Japan*
+54,6191,*Faunas -- Miocene*,*mammals, Japan*
+54,6195,*Faunas -- Quaternary*,*muroid, Tex.*
+54,6198,*Faunas -- Devonian*,*ostracoderms, Poland*
+54,6203,*Faunas -- Quaternary*,*mammals, Ukraine*
+54,6204,*Faunas -- Quaternary -- Cave Faunas*,*hyenas, Ukraine*
+54,6211,*Faunas -- Quaternary*,*armadillo, Okla.*
+54,6216,*Faunas -- Quaternary*,*marsupials and rodents, New South Wales*
+54,6219,*Faunas -- Permian*,**
+54,6220,*Faunas -- Permian*,*ceradontid, W. Afr.*
+54,6221,*Faunas -- Permian*,*hybodontid, W. Afr.*
+54,6224,*Faunas -- Miocene*,*crocodile, Portugal*
+54,6237,*Faunas -- Quaternary*,*cricetid rodents, France*
+54,6238,*Faunas -- Pliocene*,*rodents, France*
+54,6240,*Faunas -- Miocene*,*chelonian, Austria*
+54,6241,*Faunas -- Quaternary*,**
+54,6244,*Faunas -- Tertiary*,*mammals, Spain*
+54,6245,*Faunas -- Quaternary*,*canids, Austria*
+54,6247,*Faunas -- Pliocene*,**
+54,6248,*Faunas -- Pliocene*,*giant salamander, Austria*
+54,6251,*Faunas -- Tertiary*,*suid, Greece*
+54,6252,*Faunas -- Tertiary*,*hippo, Greece*
+54,6253,*Faunas -- Pliocene*,*rhino, Persia*
+54,6255,*Faunas -- Triassic*,*mastodonsaurid, Austria*
+54,6259,*Faunas -- Cenozoic*,*verts., Austria*
+54,6262,*Faunas -- Eocene*,*fishes, Austria*
+54,6264,*Faunas -- Quaternary*,*mastodont, Austria*
+54,6265,*Faunas -- Pliocene*,*rhino, Austria*
+54,6269,*Faunas -- Tertiary*,*suids and tayassuids, Europe*
+54,6273,*Faunas -- Quaternary*,*bear, Austria*
+54,6274,*Faunas -- Mesozoic and Cenozoic*,*fishes, Austria*
+54,6275,*Faunas -- Cenozoic*,*S. A. mammals*
+54,6276,*Faunas -- Quaternary*,*felids, Cent. Europe*
+54,6277,*Faunas -- Quaternary*,*giant deer, Europe*
+54,6279,*Faunas -- Quaternary*,*bear, Slovenia*
+54,6283,*Faunas -- Quaternary*,*mammals, France*
+54,6284,*Faunas -- Permian*,*stegocephalians, Germany*
+54,6285,*Faunas -- Permian*,*fishes, Germany*
+54,6286,*Faunas -- Quaternary*,*elephant, France*
+54,6289,*Faunas -- Jurassic*,*shark teeth, Europe*
+54,6295,*Faunas -- Carboniferous*,*sharks, West. Australia*
+54,6303,*Faunas -- Quaternary*,*mammoth, Sweden*
+54,6305,*Faunas -- Quaternary*,*herpetofauna, Kans.*
+54,6306,*Faunas -- Pliocene*,*salamander, Kans.*
+54,6308,*Faunas -- Quaternary*,*mammoth, Siberia*
+54,6322,*Faunas -- Eocene*,*rodents, Germany*
+54,6324,*Faunas -- Tertiary*,*fishes, chelonians, mammals, Germany*
+54,6326,*Faunas -- Pliocene*,*carnivores, Germany*
+54,6328,*Faunas -- Miocene*,**
+54,6329,*Faunas -- Pliocene*,*Hipparion fauna, Germany*
+54,6330,*Faunas -- Oligocene*,*small mammals, Germany*
+54,6331,*Faunas -- Quaternary*,*carnivores, Germany*
+54,6333,*Faunas -- Pliocene*,*verts., Germany*
+54,6334,*Faunas -- Eocene*,*verts., Germany*
+54,6336,*Faunas -- Miocene*,*verts., Germany*
+54,6337,*Faunas -- Quaternary*,*man and mammoth, northwestern Germany*
+54,6338,*Faunas -- Quaternary*,**
+54,6339,*Faunas -- Quaternary*,*Saiga antelope, Germany*
+54,6340,*Faunas -- Quaternary*,**
+54,6341,*Faunas -- Quaternary*,*mammoth, Germany*
+54,6343,*Faunas -- Triassic*,*dicynodont, S. Afr.*
+54,6347,*Faunas -- Quaternary*,*saber-toothed cat, S. Afr.*
+54,6348,*Faunas -- Permian*,*anomodonts, S. Afr.*
+54,6352,*Faunas -- Quaternary*,*elephant, Japan*
+54,6353,*Faunas -- Cenozoic*,*mammals, U.S.S.R.*
+54,6354,*Faunas -- Pliocene*,*verts., U.S.S.R.*
+54,6355,*Faunas -- Oligocene*,*bird, S. D.*
+54,6357,*Faunas -- Eocene*,*mammals, Wyo.*
+54,6362,*Faunas -- Quaternary*,*fishes, Brazil*
+54,6363,*Faunas -- Quaternary*,*elephant, Italy*
+54,6370,*Faunas -- Tertiary*,*suid, Ukraine*
+54,6372,*Faunas -- Eocene*,*mammals, East. U.S.S.R.*
+54,6374,*Faunas -- Quaternary*,*mammals, Asia, N. A.*
+54,6375,*Faunas -- Oligocene*,**
+54,6377,*Faunas -- Oligocene*,*ruminants, Asia*
+54,6380,*Faunas -- Pliocene*,*mammals, Spain*
+54,6383,*Faunas -- Quaternary -- Cave Faunas*,*cave bears, U.S.S.R.*
+54,6384,*Faunas -- Quaternary*,*elephant, Japan*
+54,6387,*Faunas -- Eocene*,**
+54,6388,*Faunas -- Eocene*,*mammals, Wyo.*
+54,6389,*Faunas -- Quaternary*,*mastodon, Wisc.*
+54,6390,*Faunas -- Carboniferous*,*Phlegethontia type*
+54,6391,*Faunas -- Carboniferous*,*amphibian, Ill.*
+54,6397,*Faunas -- Quaternary*,*chelonian, Europe*
+54,6471,*Faunas -- Quaternary*,*bear, Netherlands*
+54,6474,*Faunas -- Quaternary*,*notoungulates, Venezuela*
+54,6475,*Faunas -- Cenozoic*,*horses, Netherlands*
+54,6485,*Faunas -- Oligocene*,*salamander, Oreg.*
+54,6487,*Faunas -- Quaternary*,*mammals, Siberia*
+54,6488,*Faunas -- Quaternary*,*mammals, Indonesia*
+54,6492,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Hungary*
+54,6493,*Faunas -- Quaternary*,*mammals, Cent. Asia*
+54,6503,*Faunas -- Quaternary*,**
+54,6511,*Faunas -- Quaternary*,*mammals, N. Afr.*
+54,6526,*Faunas -- Cretaceous*,*crocodile, Kans.*
+54,6527,*Faunas -- Permian*,*captorhinid, Okla.*
+54,6529,*Faunas -- Permian*,**
+54,6530,*Faunas -- Permian*,*pelycosaur, Okla.*
+54,6536,*Faunas -- Pliocene*,*mammals, U.S.S.R., Asia*
+54,6538,*Faunas -- Quaternary*,*verts., Lombardy*
+54,6539,*Faunas -- Quaternary*,*mammals, Italy*
+54,6543,*Faunas -- Quaternary*,*yak, East. Siberia*
+54,6544,*Faunas -- Quaternary*,*cave bear, Urals*
+54,6545,*Faunas -- Quaternary*,*mammals, U.S.S.R.*
+54,6553,*Faunas -- Devonian*,*fishes, Estonia*
+54,6571,*Faunas -- Quaternary*,*rhino and elephant, Italy*
+54,6573,*Faunas -- Quaternary*,*turtle and mammals, Italy*
+54,6574,*Faunas -- Miocene*,*verts., Carpathia*
+54,6597,*Faunas -- Quaternary*,*mammals, Spain*
+54,6598,*Faunas -- Miocene*,*mammals, Spain*
+54,6599,*Faunas -- Pliocene*,**
+54,6601,*Faunas -- Quaternary*,*elephants, Spain*
+54,6602,*Faunas -- Pliocene*,**
+54,6603,*Faunas -- Pliocene*,*mammals, Spain*
+54,6604,*Faunas -- Miocene*,*Hipparion, Sapin*
+54,6605,*Faunas -- Miocene*,*murids, Spain*
+54,6607,*Faunas -- Pliocene*,*mammals, France*
+54,6608,*Faunas -- Quaternary*,*mammals, Europe*
+54,6625,*Faunas -- Miocene*,*badger, Spain*
+54,6628,*Faunas -- Miocene*,*deinothere, Hungary*
+54,6629,*Faunas -- Jurassic*,*enigmatic animal, Bavaria*
+54,6630,*Faunas -- Permian*,**
+54,6631,*Faunas -- Permian*,*theriodonts, U.S.S.R.*
+54,6632,*Faunas -- Triassic*,*verts., U.S.S.R.*
+54,6635,*Faunas -- Permian*,*verts., U.S.S.R.*
+54,6637,*Faunas -- Permian*,*captorhinids, U.S.S.R.*
+54,6638,*Faunas -- Permian*,*N. A. elements in U.S.S.R. vert. fauna*
+54,6639,*Faunas -- Triassic*,*reptiles, U.S.S.R.*
+54,6640,*Faunas -- Permian*,*captorhinids, U.S.S.R.*
+54,6674,*Faunas -- Triassic*,*reptiles, Elgin, Scotland*
+54,6677,*Faunas -- Oligocene*,*allotriognath fish, Iran*
+54,6678,*Faunas -- Oligocene*,*anurans, Germany*
+54,6680,*Faunas -- Pliocene*,*mammals, China*
+54,6693,*Faunas -- Quaternary*,*mammals, Essex*
+54,6700,*Faunas -- Quaternary*,*rodent, Kan.*
+54,6711,*Faunas -- Paleozoic Mesozoic*,*faunas*
+54,6712,*Faunas -- Triassic*,*labyrinthodont, New South Wales*
+54,6716,*Faunas -- Oligocene*,*mammals, Germany*
+54,6718,*Faunas -- Quaternary*,*fish, mammals, Hamilton Cave, Ontario*
+54,6723,*Faunas -- Quaternary*,*mammals, Germany*
+54,6726,*Faunas -- Tertiary*,*otoliths, Rumania*
+54,6727,*Faunas -- Cenozoic*,*fishes, amphibians, mammals, Germany*
+54,6729,*Faunas -- Miocene*,*otoliths, Germany*
+54,6730,*Faunas -- Pliocene*,*silurid fish, Germany*
+54,6731,*Faunas -- Oligocene*,**
+54,6732,*Faunas -- Oligocene*,*fishes, Germany*
+54,6733,*Faunas -- Oligocene*,*otoliths, Germany*
+54,6754,*Faunas -- Jurassic*,*dinosaur, Ariz.*
+54,6755,*Faunas -- Jurassic*,*ancestral crocodile, Ariz.*
+54,6763,*Faunas -- Quaternary*,*mammals, Rhodesia*
+54,6763,*Faunas -- Quaternary -- Cave Faunas*,*mammals, Wombeyan Cave, New South Wales*
+54,6764,*Faunas -- Quaternary*,*bovids, Makapansgat, S. Afr.*
+54,6780,*Faunas -- Quaternary*,*hyenas, Germany*
+54,6783,*Faunas -- Quaternary*,*mammals, Alsace*
+54,6794,*Faunas -- General*,*European faunas*
+54,6796,*Faunas -- Tertiary*,*salamander, Eurasia*
+54,6797,*Faunas -- Quaternary*,*bird, Fla.*
+54,6798,*Faunas -- Miocene*,*record of cormorant from Mont. incorrect*
+54,6800,*Faunas -- Oligocene*,*guan, S. D.*
+54,6803,*Faunas -- Quaternary*,*Muscovy duck, Panama*
+54,6804,*Faunas -- Pliocene*,*rail, Ariz.*
+54,6806,*Faunas -- Miocene*,*anurans and reptiles, Germany*
+54,6811,*Faunas -- Eocene*,*dermatemidid turtle, Wash.*
+54,6825,*Faunas -- Oligocene*,*mammals, Mont.*
+54,6831,*Faunas -- Miocene*,*hyracoids, S. Afr.*
+54,6832,*Faunas -- Miocene*,*ruminants, E. Afr.*
+54,6839,*Faunas -- Cretaceous*,*strugeon, Mont.*
+54,6841,*Faunas -- Miocene*,*chelonian, Kenya*
+54,6842,*Faunas -- Tertiary*,*emydine turtle, Europe*
+54,6845,*Faunas -- Oligocene*,*chelonian, Egypt*
+54,6845,*Faunas -- Tertiary*,*pelomedusids, Afr., Asia*
+54,6846,*Faunas -- Miocene*,*podocnemid, Egypt*
+54,6847,*Faunas -- Tertiary*,*podocnemid, Peru*
+54,6848,*Faunas -- Quaternary*,*chelonian, Java*
+54,6851,*Faunas -- Quaternary*,*turtle, Tex.*
+54,6853,*Faunas -- Miocene*,*carnivores, Tex.*
+54,6855,*Faunas -- Miocene*,*entelodonts, Tex.*
+54,6860,*Faunas -- Paleocene*,*condylarth, N. Mex.*
+54,6861,*Faunas -- Paleocene*,*multituberculate, N. Mex.*
+54,6871,*Faunas -- Quaternary*,*mammals, Europe, Asia, Afr., Amer.*
+54,6877,*Faunas -- Pliocene*,**
+54,6879,*Faunas -- Pliocene*,**
+54,6880,*Faunas -- Quaternary*,*mammals, China*
+54,6882,*Faunas -- Pliocene*,*Dryopithecus, China*
+54,6887,*Faunas -- Eocene*,*primate, China*
+54,6889,*Faunas -- Oligocene*,*odents, Wyo.*
+54,6891,*Faunas -- Eocene*,*paramyid rodent, Utah and Calif.*
+54,6895,*Faunas -- Cretaceous*,*mammals, Wyo.*
+54,6903,*Faunas -- Quaternary*,*marsupial, Australia*
+54,6923,*Faunas -- Tertiary*,**
+54,6924,*Faunas -- Tertiary*,**
+54,6925,*Faunas -- Tertiary*,*verts., Turkey*
+54,6927,*Faunas -- Eocene*,*crocodile, China*
+54,6928,*Faunas -- Triassic*,*Lufeng fauna, fishes and reptiles, China*
+54,6929,*Faunas -- Jurassic*,*sauropod, Szechuan, China*
+54,6931,*Faunas -- Quaternary*,*castoroid, China*
+54,6935,*Faunas -- Triassic*,*reptiles, Shansi*
+54,6937,*Faunas -- Triassic*,*cotylosaur, Shansi*
+54,6939,*Faunas -- Cretaceous*,*dinosaurs, Shantung*
+54,6940,*Faunas -- Mesozoic*,*sauropods, China, Mongolia*
+54,6942,*Faunas -- Triassic*,*sauropterygian, S. W. China*
+54,6943,*Faunas -- Mesozoic*,*reptile, China*
+54,6945,*Faunas -- Cretaceous*,*dinosaurs, Shansi*
+54,6946,*Faunas -- Triassic*,*pseudosuchian, Shansi*
+54,6951,*Faunas -- Mesozoic*,*ornithischians, China*
+54,6951,*Faunas -- Oligocene*,*mammals, China*
+54,6951,*Faunas -- Oligocene*,*mammals, Kansu, China*
+54,6952,*Faunas -- Mesozoic*,*pycnodont fish, China*
+54,6953,*Faunas -- Pliocene*,*mammals, China*
+54,6954,*Faunas -- Cretaceous*,*carnosaurian, Sinkiang, China*
+54,6967,*Faunas -- Oligocene*,*chelonians, Switzerland*
+54,6970,*Faunas -- Miocene*,*sea turtle, N. J.*
+54,6972,*Faunas -- Quaternary -- Cave Faunas*,*cave animals*
+54,6975,*Faunas -- Miocene*,*proboscideans, Austria*
+54,6978,*Faunas -- Quaternary*,*giant deer, Vienna*
+54,6982,*Faunas -- Pliocene*,*mastodon, Austria*
+54,6983,*Faunas -- Triassic*,*flying fish, Austrian Alps*
+54,6984,*Faunas -- Devonian*,*crossopterygian, Scotland; Ichthyostega, Greenland*
+54,6986,*Faunas -- Tertiary*,*primates, Austria*
+54,6987,*Faunas -- Miocene*,*primate, Czechoslovakia*
+54,6988,*Faunas -- Miocene*,*primates, Austria*
+54,6989,*Faunas -- Quaternary*,*cave lion, Bohemia*
+54,6990,*Faunas -- Miocene*,*cetacean, Portugal*
+54,6991,*Faunas -- Miocene*,*proboscidean, Spain*
+54,6992,*Faunas -- Miocene*,*mammals, Portugal*
+54,6994,*Faunas -- Miocene*,*fish, reptiles, mammals, Portugal*
+54,7024,*Faunas -- Quaternary*,*mammals, Silesia*
+54,7051,*Faunas -- Pliocene*,*frog, Calif.*
+54,7052,*Faunas -- Tertiary*,*pelobatid frogs, N. A.*
+

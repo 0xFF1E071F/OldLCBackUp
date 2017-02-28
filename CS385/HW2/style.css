@@ -1,0 +1,119 @@
+﻿/*	Yu Fu
+	2014
+	cs385
+	This is CSS style file for Collect ur likes website
+*/
+
+body {
+	background-color: #FFFFFF;/*white*/
+}
+
+/*Area to show posted information*/
+.contentAreas	
+{
+	background-color: #CCE8CF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding:15px;
+	height:100%;
+	width:100%
+}
+
+div {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+/* Header*/
+div#header {
+	height: 150px;
+	background-image: url('Interesting-Things-crop.png');
+	background-color: black;
+	background-repeat: no-repeat;
+	color: white;
+}
+/* New define for h1 */
+div#header h1 {
+	width:100%;
+	HEIGHT:100%;
+	text-align:right;
+	margin: 0px;
+	font-size: xx-large;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*leadTable user and tags*/
+table#leadTable {
+	border="1"
+	float: left;
+	height:100px;
+	width:100%;
+	position:relative
+}
+	
+/*TagsTable to show all tags of information */
+th#TagsTable{
+	text-align:left;
+	width:80%;
+	height:20%
+}
+		
+/*userTable include all user managment */
+th#userTable{
+	width:20%;
+	border:thin blue solid;
+	text-align:left;
+}
+
+
+/* Middle part*/
+table#middlePart {
+	width: 100%;
+	float: left;
+	position: relative;
+	border="1"
+}
+/*left part of middle*/
+td#middleTable {
+	width: 80%;
+	position: relative;
+	border="1";
+	}
+	
+/*contentTable shows all information of a td class*/
+table#contentTable {
+	float: left;
+	width: 100%;
+	border="1"
+	}
+/*this is three parts to show information*/
+td#threeLine{
+	float: left;
+	width: 32%;
+	border:thin gray groove;
+	}
+}
+/* Right Sidebar*/
+td#right-sidebar {
+	float: right;
+	width: 19%;
+	position: relative;
+	background-color: #FFACAA;
+}
+	
+.content_block{
+	background-color:#E8E8E8;
+	width:100%;
+	overflow:hidden;
+	height:480px;
+	}
+
+/* Footer*/
+table#footer {
+	width: 100%;
+	position: static;
+}
+/*text in footer show as alway at center*/
+p#f1{
+	text-align:center;
+}
+

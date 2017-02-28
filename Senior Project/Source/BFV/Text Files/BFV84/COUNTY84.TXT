@@ -1,0 +1,210 @@
+84,340,*County:*,*Dawes*,*Nebraska*
+84,440,*County:*,*Polk*,*Florida*
+84,460,*County:*,*Alachua*,*Florida*
+84,460,*County:*,*Brevard*,*Florida*
+84,460,*County:*,*Citrus*,*Florida*
+84,460,*County:*,*Columbia*,*Florida*
+84,460,*County:*,*Gilchrist*,*Florida*
+84,460,*County:*,*Hardee*,*Florida*
+84,460,*County:*,*Indian River*,*Florida*
+84,460,*County:*,*Levy*,*Florida*
+84,460,*County:*,*Marion*,*Florida*
+84,460,*County:*,*Orange*,*Florida*
+84,460,*County:*,*Pinellas*,*Florida*
+84,460,*County:*,*Sumter*,*Florida*
+84,460,*County:*,*Wakulla*,*Florida*
+84,490,*County:*,*Andrew*,*Missouri*
+84,490,*County:*,*Buchanan*,*Missouri*
+84,490,*County:*,*Cass*,*Iowa*
+84,490,*County:*,*Douglas*,*Kansas*
+84,490,*County:*,*Leavenworth*,*Kansas*
+84,490,*County:*,*Madison*,*Iowa*
+84,490,*County:*,*Osage*,*Kansas*
+84,490,*County:*,*Shawnee*,*Kansas*
+84,520,*County:*,*Custer*,*Colorado*
+84,520,*County:*,*Sioux*,*Nebraska*
+84,530,*County:*,*Logan*,*Colorado*
+84,550,*County:*,*Hancock*,*Indiana*
+84,2570,*County:*,*Alachua*,*Florida*
+84,2570,*County:*,*Dade*,*Florida*
+84,2570,*County:*,*Gilchrist*,*Florida*
+84,2570,*County:*,*Indian River*,*Florida*
+84,2570,*County:*,*Levy*,*Florida*
+84,2570,*County:*,*Manatee*,*Florida*
+84,2570,*County:*,*Marion*,*Florida*
+84,2570,*County:*,*Pinellas*,*Florida*
+84,2570,*County:*,*Sarasota*,*Florida*
+84,2570,*County:*,*Sumter*,*Florida*
+84,3400,*County:*,*Yazoo*,*Mississippi*
+84,3420,*County:*,*Lee*,*Mississippi*
+84,3420,*County:*,*Lowndes*,*Mississippi*
+84,3420,*County:*,*Monroe*,*Mississippi*
+84,3440,*County:*,*Warren*,*Mississippi*
+84,3650,*County:*,*Kern*,*California*
+84,3660,*County:*,*San Bernardino*,*California*
+84,3940,*County:*,*Harding*,*South Dakota*
+84,3940,*County:*,*Meade*,*South Dakota*
+84,3980,*County:*,*Natrona*,*Wyoming*
+84,4610,*County:*,*Los Angeles*,*California*
+84,4610,*County:*,*Ventura*,*California*
+84,6310,*County:*,*Brewster*,*Texas*
+84,6310,*County:*,*Presidio*,*Texas*
+84,6330,*County:*,*Brewster*,*Texas*
+84,6330,*County:*,*Presidio*,*Texas*
+84,6540,*County:*,*Orange*,*California*
+84,6550,*County:*,*Orange*,*California*
+84,6560,*County:*,*Orange*,*California*
+84,6570,*County:*,*Orange*,*California*
+84,6580,*County:*,*Orange*,*California*
+84,6590,*County:*,*Orange*,*California*
+84,6600,*County:*,*Orange*,*California*
+84,6610,*County:*,*Orange*,*California*
+84,6620,*County:*,*Orange*,*California*
+84,6630,*County:*,*Orange*,*California*
+84,6740,*County:*,*San Diego*,*California*
+84,6770,*County:*,*Logan*,*Colorado*
+84,6830,*County:*,*Logan*,*Colorado*
+84,7630,*County:*,*Ventura*,*California*
+84,7640,*County:*,*Ventura*,*California*
+84,7650,*County:*,*Ventura*,*California*
+84,7660,*County:*,*Ventura*,*California*
+84,7670,*County:*,*Ventura*,*California*
+84,7680,*County:*,*Ventura*,*California*
+84,7690,*County:*,*Ventura*,*California*
+84,7780,*County:*,*Chattooga*,*Georgia*
+84,7810,*County:*,*Burke*,*Georgia*
+84,8290,*County:*,*Highland*,*Virginia*
+84,8300,*County:*,*Ellis*,*Kansas*
+84,8300,*County:*,*Rice*,*Kansas*
+84,8310,*County:*,*Allegany*,*Maryland*
+84,8320,*County:*,*Bartow*,*Georgia*
+84,8330,*County:*,*Polk*,*Florida*
+84,8360,*County:*,*Maury*,*Tennessee*
+84,8370,*County:*,*Pendleton*,*West Virginia*
+84,8410,*County:*,*Antelope*,*Nebraska*
+84,8410,*County:*,*Brown*,*Nebraska*
+84,8410,*County:*,*Hooker*,*Nebraska*
+84,8410,*County:*,*Kingman*,*Kansas*
+84,8410,*County:*,*Meade*,*Kansas*
+84,8410,*County:*,*Republic*,*Kansas*
+84,8440,*County:*,*Bingham*,*Idaho*
+84,8470,*County:*,*Berkeley*,*South Carolina*
+84,8500,*County:*,*Washington*,*Pennsylvania*
+84,8520,*County:*,*Jewell*,*Kansas*
+84,8530,*County:*,*Newton*,*Arkansas*
+84,8540,*County:*,*Culberson*,*Texas*
+84,8550,*County:*,*Val Verde*,*Texas*
+84,8890,*County:*,*Smyth*,*Virginia*
+84,8890,*County:*,*Washington*,*Virginia*
+84,9510,*County:*,*Cherry*,*Nebraska*
+84,9510,*County:*,*Keya Paha*,*Nebraska*
+84,10380,*County:*,*Ventura*,*California*
+84,10390,*County:*,*White Pine*,*Nevada*
+84,10400,*County:*,*Kern*,*California*
+84,10590,*County:*,*Burlington*,*New Jersey*
+84,10590,*County:*,*Camden*,*New Jersey*
+84,10590,*County:*,*Cape May*,*New Jersey*
+84,10590,*County:*,*Cumberland*,*New Jersey*
+84,10590,*County:*,*Gloucester*,*New Jersey*
+84,10590,*County:*,*Middlesex*,*New Jersey*
+84,10590,*County:*,*Monmouth*,*New Jersey*
+84,10610,*County:*,*Monmouth*,*New Jersey*
+84,10620,*County:*,*Monmouth*,*New Jersey*
+84,12140,*County:*,*Alachua*,*Florida*
+84,12140,*County:*,*Bee*,*Texas*
+84,12140,*County:*,*Bennett*,*South Dakota*
+84,12140,*County:*,*Brown*,*Nebraska*
+84,12140,*County:*,*Charlotte*,*Florida*
+84,12140,*County:*,*Cherry*,*Nebraska*
+84,12140,*County:*,*Cheyenne*,*Nebraska*
+84,12140,*County:*,*Cochise*,*Arizona*
+84,12140,*County:*,*Columbia*,*Florida*
+84,12140,*County:*,*Contra Costa*,*California*
+84,12140,*County:*,*Crosby*,*Texas*
+84,12140,*County:*,*Decatur*,*Kansas*
+84,12140,*County:*,*Donley*,*Texas*
+84,12140,*County:*,*Ellis*,*Oklahoma*
+84,12140,*County:*,*Frontier*,*Nebraska*
+84,12140,*County:*,*Goliad*,*Texas*
+84,12140,*County:*,*Graham*,*Arizona*
+84,12140,*County:*,*Hemphill*,*Texas*
+84,12140,*County:*,*Hillsborough*,*Florida*
+84,12140,*County:*,*Humboldt*,*Nevada*
+84,12140,*County:*,*Keith*,*Nebraska*
+84,12140,*County:*,*Kern*,*California*
+84,12140,*County:*,*Levy*,*Florida*
+84,12140,*County:*,*Lipscomb*,*Texas*
+84,12140,*County:*,*Logan*,*Colorado*
+84,12140,*County:*,*Lyon*,*Nevada*
+84,12140,*County:*,*Mineral*,*Nevada*
+84,12140,*County:*,*Morrill*,*Nebraska*
+84,12140,*County:*,*Norton*,*Kansas*
+84,12140,*County:*,*Polk*,*Florida*
+84,12140,*County:*,*Polk*,*Texas*
+84,12140,*County:*,*Randall*,*Texas*
+84,12140,*County:*,*Rio Arriba*,*New Mexico*
+84,12140,*County:*,*San Jacinto*,*Texas*
+84,12140,*County:*,*Sandoval*,*New Mexico*
+84,12140,*County:*,*Sarasota*,*Florida*
+84,12140,*County:*,*Scurry*,*Texas*
+84,12140,*County:*,*Sheridan*,*Nebraska*
+84,12140,*County:*,*Sherman*,*Kansas*
+84,12140,*County:*,*Sioux*,*Nebraska*
+84,12140,*County:*,*Sonoma*,*California*
+84,12140,*County:*,*Texas*,*Oklahoma*
+84,12140,*County:*,*Weld*,*Colorado*
+84,12630,*County:*,*Sioux*,*Nebraska*
+84,13040,*County:*,*Rooks*,*Kansas*
+84,13090,*County:*,*Apache*,*Arizona*
+84,13100,*County:*,*Cheyenne*,*Nebraska*
+84,13130,*County:*,*Searcy*,*Arkansas*
+84,13130,*County:*,*Washington*,*Arkansas*
+84,13190,*County:*,*Logan*,*Oklahoma*
+84,13210,*County:*,*Park*,*Wyoming*
+84,14490,*County:*,*Lake*,*Oregon*
+84,14770,*County:*,*Monmouth*,*New Jersey*
+84,15680,*County:*,*Fremont*,*Wyoming*
+84,16500,*County:*,*Catron*,*New Mexico*
+84,16540,*County:*,*Guadalupe*,*New Mexico*
+84,16580,*County:*,*Bernalillo*,*New Mexico*
+84,16650,*County:*,*Jefferson*,*Montana*
+84,17250,*County:*,*Santa Clara*,*California*
+84,17910,*County:*,*Cumberland*,*New Jersey*
+84,17910,*County:*,*Polk*,*Florida*
+84,17920,*County:*,*Gove*,*Kansas*
+84,17920,*County:*,*Wallace*,*Kansas*
+84,18010,*County:*,*Rio Arriba*,*New Mexico*
+84,18020,*County:*,*San Juan*,*New Mexico*
+84,18030,*County:*,*Sierra*,*New Mexico*
+84,18100,*County:*,*Fergus*,*Montana*
+84,18150,*County:*,*Fergus*,*Montana*
+84,18690,*County:*,*San Diego*,*California*
+84,18700,*County:*,*Pima*,*Arizona*
+84,20210,*County:*,*Hillsborough*,*Florida*
+84,20210,*County:*,*Manatee*,*Florida*
+84,21370,*County:*,*Natrona*,*Wyoming*
+84,21610,*County:*,*Moffat*,*Colorado*
+84,21630,*County:*,*Presidio*,*Texas*
+84,21640,*County:*,*Washington*,*Pennsylvania*
+84,21860,*County:*,*Manatee*,*Florida*
+84,22010,*County:*,*Polk*,*Florida*
+84,22280,*County:*,*Douglas*,*Kansas*
+84,22390,*County:*,*St. Francis*,*Arkansas*
+84,22400,*County:*,*Gilchrist*,*Florida*
+84,22440,*County:*,*Malheur*,*Oregon*
+84,22680,*County:*,*Hanover*,*Virginia*
+84,22680,*County:*,*Westmoreland*,*Virginia*
+84,22700,*County:*,*Caroline*,*Virginia*
+84,22700,*County:*,*Hanover*,*Virginia*
+84,22710,*County:*,*Hanover*,*Virginia*
+84,24030,*County:*,*Jackson*,*South Dakota*
+84,24580,*County:*,*Taos*,*New Mexico*
+84,24600,*County:*,*Alamosa*,*Colorado*
+84,24610,*County:*,*Jefferson*,*Colorado*
+84,24620,*County:*,*Bladen*,*North Carolina*
+84,26240,*County:*,*Graham*,*Kansas*
+84,26870,*County:*,*Somervell*,*Texas*
+84,26880,*County:*,*Somervell*,*Texas*
+84,26900,*County:*,*Stewart*,*Georgia*
+84,27010,*County:*,*Graham*,*Arizona*
+

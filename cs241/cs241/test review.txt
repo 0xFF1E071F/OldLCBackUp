@@ -1,0 +1,12 @@
+class Ballplayer{
+//name
+//error
+//bathers,avg
+}
+
+class BPErrorCmp{
+  public:
+	bool operator()(const BallPlayer& lhs,const BallPlayer& rhs)
+		return lhs.error<rhs.error;
+	
+}

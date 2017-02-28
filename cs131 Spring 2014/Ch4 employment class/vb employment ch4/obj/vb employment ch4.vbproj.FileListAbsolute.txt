@@ -1,0 +1,16 @@
+C:\Documents and Settings\William Norko\My Documents\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.exe
+C:\Documents and Settings\William Norko\My Documents\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.xml
+C:\Documents and Settings\William Norko\My Documents\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.pdb
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.exe
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.xml
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.pdb
+P:\cs131fall08\vb employment ch4\vb employment ch4\bin\Debug\vb employment ch4.exe
+P:\cs131fall08\vb employment ch4\vb employment ch4\bin\Debug\vb employment ch4.pdb
+P:\cs131fall08\vb employment ch4\vb employment ch4\bin\Debug\vb employment ch4.xml
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\ResolveAssemblyReference.cache
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb_employment_ch4.Form1.resources
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb_employment_ch4.Resources.resources
+P:\cs131fall08\vb employment ch4\vb employment ch4\obj\Debug\vb employment ch4.vbproj.GenerateResource.Cache
+P:\CS131SP09\Ch4 employment\vb employment ch4\obj\Debug\vb employment ch4.exe
+P:\CS131SP09\Ch4 employment\vb employment ch4\obj\Debug\vb employment ch4.xml
+P:\CS131SP09\Ch4 employment\vb employment ch4\obj\Debug\vb employment ch4.pdb

@@ -1,0 +1,67 @@
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.exe
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.pdb
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.xml
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Form1.resources
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Resources.resources
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResGen.read.1.tlog
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResGen.write.1.tlog
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+H:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.exe
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.pdb
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.xml
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResolveAssemblyReference.cache
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Form1.resources
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Resources.resources
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResGen.read.1.tlog
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Fall 2011\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\private\CS131 Fall 2011\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\private\CS131 Fall 2011\Ch4 Health Club Fee 2011 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee 2012 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee 2012 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee 2012 class class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.exe
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.pdb
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.xml
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Form1.resources
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Resources.resources
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\ResGen.read.1.tlog
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\CS131 Spring 2013\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\private\CS131 Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\private\CS131 Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\cs131Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\cs131Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\cs131Spring 2014\Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.exe
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.pdb
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.xml
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Form1.resources
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Resources.resources
+P:\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\bin\Debug\Health Club Fee 2011 class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Form1.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health_Club_Fee_2011.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 7 Ch4 Health Club Fee  class\Health Club Fee 2011 class\obj\Debug\Health Club Fee 2011 class.vbproj.GenerateResource.Cache

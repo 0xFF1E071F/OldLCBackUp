@@ -1,0 +1,1118 @@
+*#00093*,*Actas - Congreso Geologico Chileno*,**,**
+*#00244*,*Veroeffentlichungen aus dem Naturhistorischen Museum in Wien, Neue Folge*,**,**
+*#00253*,*Annual Meeting of the New York State Geological Association*,**,**
+*#00305*,*Recent Researches in Geology*,**,**
+*#00446*,*Deccan College Postgraduate and Research Institute, Publication.*,**,**
+*#00493*,*International Sedimentological Congress, [Proceedings].*,**,**
+*#00701*,*Proceedings of the Indian Colloquium on Micropaleontology and Stratigraphy*,**,**
+*#00708*,*QDR (Quaderni di Documentazione Regionale), Nuova Serie*,**,**
+*#00777*,*Memoria - Congreso Geologico Venezolano*,**,**
+*#00900*,*Proceedings of the Congress - Regional Committee on Mediterranean Neogene Stratigraphy, International Union of Geological Sciences.*,**,**
+*#00910*,*Voprosy Geologii Yuzhnogo Urala i Povolzh'ya. Saratovskiy Gosudarstvennyy Universitet*,**,**
+*#01073*,*Trudy Sessii - Vsesoyuznoye Paleontologicheskoye Obshchestvo*,**,**
+*#01191*,*International Congress on Sedimentology = Congres International de Sedimentologie*,**,**
+*#01227*,*Preliminary Report of African Studies, Nagoya University*,**,**
+*#01241*,*Anuarul Muzeului de Stiinte Naturale Piatra Neamt, Seria Geologie-Geografie*,**,**
+*#01282*,*Simposio de Geologia Regional Argentina*,**,**
+*#01340*,*Arquivos do Museu de Historia Natural*,**,**
+*#01616*,*Supplement a "Stalactite"*,**,**
+*#01623*,*Bulletin of the Institute of Geomechanics, Chinese Academy of Geological Sciences*,**,**
+*#01644*,*Archives de l'Institut de Paleontologie Humaine: Memoire*,**,**
+*#01715*,*Wissenschaftliche Beitraege, Reihe P*,**,*P 5*
+*#01719*,*Actas del Congreso Argentino de Paleontologia y Bioestratigrafia*,**,**
+*#01723*,*Congreso Geologico Chileno: Resumenes Presentados*,**,**
+*#03589*,*Notas. Serie B (Instituto de Fisiografia y Geologia "Dr. Alfredo Castellanos")*,**,**
+*#04101*,*Conference Proceedings ... Joint Conference on Environmental Pollutants*,**,**
+*#04386*,*Proceedings of the ... Regional Congress on Geology, Mineral and Energy Resources of Southeast Asia (GEOSEA)*,**,**
+*0001-3765*,*Anais da Academia Brasileira de Ciencias*,**,**
+*0001-3765*,*Anais da Academia Brasileira de Ciencias*,**,*Simp. int. sobre os Sist. Carbon. e Perm. na America do Sul*
+*0001-4087*,*Bulletin de l'Academie Polonaise des Sciences, Serie des Sciences Biologiques*,**,**
+*0001-4141*,*Bulletin de la Classe des Sciences, Academie Royale de Belgique*,**,**
+*0001-4435*,*Atti Accademia Nazionale dei Lincei, Classe di Scienze Fisiche Matematiche e Naturali, Rendiconti, 1892-?*,**,**
+*0001-4435*,*Atti Accademia Nazionale dei Lincei, Classe di Scienze Fisiche Matematiche e Naturali, Rendiconti, 1892-?*,**,*4*
+*0001-5210*,*Acta Archaeologica Academiae Scientiarum Hungaricae = Magyar Tudomanyos Akademia Regeszeti Kozlemenyei*,**,**
+*0001-5229*,*Acta Archaeologica Carpathica*,**,**
+*0001-5695*,*Acta Geologica Academiae Scientiarum Hungaricae = Magyar Tudomanyos Akademia Foeldtani Koezloenye*,**,**
+*0001-5709*,*Acta Geologica Polonica*,**,**
+*0001-5717*,*Dizhixue Bao = Acta Geologica Sinica*,**,**
+*0001-5733*,*Diqiu Wulixue Bao = Acta Geophysica Sinica*,**,**
+*0001-6616*,*Gushengwu Xuebao = Acta Palaeontologica Sinica*,**,**
+*0001-7132*,*Acta Universitatis Carolinae. Geologica*,**,**
+*0001-7272*,*Acta Zoologica (Stockholm)*,**,**
+*0001-7299*,*Acta Zoologica Fennica*,**,**
+*0002-3078*,*Doklady - Akademiya Nauk Azerbaydzhanskoy SSR = Me'ruzeler - Azerbaydzhan SSR Elmler Akademiyasy*,**,**
+*0002-3124*,*Izvestiya Akademii Nauk Azerbaydzhanskoy SSR. Seriya Nauk o Zemle*,**,**
+*0002-3175*,*Izvestiya Akademii Nauk Kazakhskoy SSR, Seriya Geologicheskaya = Khabarlary Kazakh SSR, Fylym Akademiyasynyn*,**,**
+*0002-3264*,*Doklady Akademii Nauk SSSR*,**,**
+*0002-3280*,*Trudy - Geologicheskiy Institut, Akademiya Nauk SSSR*,**,**
+*0002-3442*,*Vestnik Akademii Nauk SSSR*,**,**
+*0002-3469*,*Doklady Akademii Nauk Tadzhikskoy SSR*,**,**
+*0002-3523*,*Dopovidi Akademiyi Nauk Ukrayins'koyi RSR, Seriya B: Geologichni, Khimichni ta Biologichni Nauki*,**,**
+*0002-4112*,*The Journal of the Alabama Academy of Science*,**,**
+*0002-7014*,*Ameghiniana*,**,**
+*0002-7294*,*American Anthropologist*,**,**
+*0002-7316*,*American Antiquity*,**,**
+*0002-7464*,*The American Association of Petroleum Geologists Bulletin*,**,**
+*0002-9483*,*American Journal of Physical Anthropology*,**,**
+*0002-9599*,*American Journal of Science*,**,**
+*0003-0031*,*American Midland Naturalist*,**,**
+*0003-004X*,*American Mineralogist*,**,**
+*0003-0082*,*American Museum Novitates*,**,**
+*0003-0090*,*Bulletin of the American Museum of Natural History*,**,**
+*0003-0147*,*The American Naturalist*,**,**
+*0003-049X*,*Proceedings of the American Philosophical Society*,**,**
+*0003-0996*,*American Scientist*,**,**
+*0003-1569*,*American Zoologist*,**,**
+*0003-455X*,*Annales Zoologici Fennici*,**,**
+*0003-5335*,*Antarctic Journal of the United States*,**,**
+*0003-5475*,*Anthropological Journal of Canada*,**,**
+*0003-5521*,*L' Anthropologie*,**,**
+*0003-5572*,*Anthropos (Brno)*,**,**
+*0003-598X*,*Antiquity*,**,**
+*0003-8113*,*Archaeology*,**,**
+*0003-8121*,*Archaeology & Physical Anthropology in Oceania*,**,**
+*0003-9705*,*Archives des Sciences*,**,**
+*0004-0843*,*Arctic*,**,**
+*0004-0851*,*Arctic and Alpine Research*,**,**
+*0004-1378*,*Journal of the Arizona Academy of Science*,**,**
+*0004-4822*,*Revista de la Asociacion Geologica Argentina*,**,**
+*0004-5500*,*Bulletin de l'Association Francaise pour l'Etude du Quaternaire*,**,**
+*0004-7856*,*Der Aufschluss*,**,**
+*0004-8038*,*The Auk*,**,**
+*0004-9549*,*Search (Sydney)*,**,**
+*0004-959X*,*Australian Journal of Zoology*,**,**
+*0004-9840*,*Australian Natural History*,**,**
+*0005-6995*,*Abhandlungen - Bayerische Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Klasse*,**,**
+*0005-8017*,*Geologisches Jahrbuch, Beihefte*,**,**
+*0005-8122*,*Beitraege zur Naturkundlichen Forschung in Suedwestdeutschland*,**,**
+*0006-3231*,*Biological Reviews of the Cambridge Philosophical Society*,**,**
+*0006-324X*,*Proceedings of the Biological Society of Washington*,**,**
+*0006-3339*,*The Biologist*,**,**
+*0006-9698*,*Breviora*,**,**
+*0007-1471*,*Bulletin of the British Museum. Natural History. Geology Series*,**,**
+*0007-3938*,*Spisanie na Bulgarskogo Geologichesko Druzhestvo*,**,**
+*0007-5167*,*Bulletin of Zoological Nomenclature*,**,**
+*0007-5779*,*Bulletins of American Paleontology*,**,**
+*0007-6104*,*Bulletin du Bureau de Recherches Geologiques et Minieres. Section 1: Geologie de la France*,**,**
+*0008-0039*,*Cahiers des Naturalistes*,**,**
+*0008-0241*,*Cahiers Geologiques*,**,**
+*0008-3550*,*The Canadian Field Naturalist*,**,**
+*0008-4077*,*Canadian Journal of Earth Sciences = Journal Canadien des Sciences de la Terre*,**,**
+*0008-4301*,*Canadian Journal of Zoology = Journal Canadien de Zoologie*,**,**
+*0008-7351*,*Casopis Narodniho Muzea. Oddil Prirodovedny*,**,**
+*0008-7378*,*Casopis pro Mineralogii a Geologii*,**,**
+*0009-2541*,*Chemical Geology*,**,**
+*0009-4420*,*China Pictorial*,**,**
+*0009-4447*,*China Reconstructs*,**,**
+*0009-6709*,*Ciel et Terre*,**,**
+*0010-4213*,*Compass of Sigma Gamma Epsilon, 1915-84*,**,**
+*0010-5422*,*Condor*,**,**
+*0010-5422*,*Condor*,**,*Summer*
+*0010-650X*,*The Conservationist*,**,**
+*0010-7980*,*Contributions to Geology*,**,**
+*0010-7980*,*Contributions to Geology*,**,*Summer*
+*0011-3069*,*Curator*,**,**
+*0011-3204*,*Current Anthropology*,**,**
+*0011-3891*,*Current Science*,**,**
+*0011-6297*,*Bulletin of the Geological Society of Denmark = Meddelelser fra Dansk Geologisk Forening*,**,**
+*0011-9814*,*Monatsberichte der Deutschen Akademie der Wissenschaften zu Berlin*,**,**
+*0012-0189*,*Zeitschrift der Deutschen Geologischen Gesellschaft*,**,**
+*0012-3633*,*Discovery*,**,**
+*0012-3633*,*Discovery*,**,*Fall*
+*0012-3633*,*Discovery*,**,*Spring*
+*0012-494X*,*Transactions (Doklady) of the U.S.S.R. Academy of Sciences: Earth Science Sections*,**,**
+*0012-821X*,*Earth and Planetary Science Letters*,**,**
+*0012-8228*,*Earth Science*,**,**
+*0012-8236*,*Earth Science Bulletin*,**,**
+*0012-9402*,*Eclogae Geologicae Helvetiae*,**,**
+*0012-9402*,*Eclogae Geologicae Helvetiae*,**,*54. Jahresversamml., Schweiz. Palaeontol. Ges.*
+*0012-9615*,*Ecological Monographs*,**,**
+*0012-9658*,*Ecology*,**,**
+*0013-7162*,*Endeavour*,**,**
+*0014-3820*,*Evolution*,**,**
+*0014-5009*,*Explorer (Cleveland)*,**,**
+*0014-5025*,*Explorers Journal*,**,**
+*0014-6668*,*Revista da Faculdade de Ciencias, Universidade de Lisboa, Serie C: Ciencias Naturais*,**,**
+*0014-8903*,*Fauna och Flora*,**,**
+*0015-296X*,*Journal of the Fisheries Research Board of Canada*,**,**
+*0015-5411*,*Foldrajzi Kozlemenyek = Geographische Mitteilungen = Bulletin Geographique = Geographical Review = Bolletino Geographico = Geograficheskiye Soobshcheniya*,**,**
+*0015-542X*,*Foldtani Kozlony*,**,**
+*0015-5713*,*Folia Primatologica*,**,**
+*0015-573X*,*Folia Quaternaria*,**,**
+*0016-4127*,*Gallia Prehistoire*,**,**
+*0016-5840*,*Gegenbaurs Morphologisches Jahrbuch*,**,**
+*0016-6278*,*Gems and Minerals*,**,**
+*0016-6995*,*Geobios*,**,**
+*0016-7037*,*Geochimica et Cosmochimica Acta*,**,**
+*0016-7312*,*Geographica Helvetica*,**,**
+*0016-7398*,*Geographical Journal*,**,**
+*0016-741X*,*Geographical Magazine (London)*,**,**
+*0016-7525*,*Geokhimiya*,**,**
+*0016-755X*,*Geologica Bavarica*,**,**
+*0016-7568*,*Geological Magazine*,**,**
+*0016-7592*,*Abstracts with Programs - Geological Society of America*,**,**
+*0016-7606*,*Geological Society of America Bulletin*,**,**
+*0016-7622*,*Journal of the Geological Society of India*,**,**
+*0016-7630*,*Chishitsugaku Zasshi = Journal of the Geological Society of Japan*,**,**
+*0016-7649*,*Journal of the Geological Society of London*,**,**
+*0016-7738*,*Geologicky Sbornik*,**,**
+*0016-7746*,*Geologie en Mijnbouw*,**,**
+*0016-7762*,*Izvestiya Vysshikh Uchebnykh Zavedeniy. Geologiya i Razvedka*,**,**
+*0016-7797*,*Geologische Blaetter fuer Nordost-Bayern und Angrenzende Gebiete*,**,**
+*0016-7819*,*Verhandlungen der Geologischen Bundesanstalt (Wien)*,**,**
+*0016-7835*,*Geologische Rundschau*,**,**
+*0016-7851*,*Geologisches Jahrbuch*,**,**
+*0016-786X*,*Geologiska Foereningen i Stockholm Foerhandlingar*,**,**
+*0016-7878*,*Proceedings of the Geologists' Association*,**,**
+*0016-7886*,*Geologiya i Geofizika*,**,**
+*0016-7924*,*Geoloski Vjesnik*,**,**
+*0016-8556*,*Geotimes*,**,**
+*0016-8556*,*Geotimes*,**,*Special issue on earth science; the view from '76*
+*0016-8556*,*Geotimes*,**,*Special issue on earth science; the view from 1975*
+*0016-9544*,*Ghana Journal of Science*,**,**
+*0017-0291*,*Giornale di Geologia*,**,**
+*0017-3614*,*The Great Basin Naturalist*,**,**
+*0017-4505*,*Grondboor en Hamer*,**,**
+*0017-9973*,*Helictite*,**,**
+*0018-0637*,*Hercynia*,**,**
+*0018-0831*,*Herpetologica*,**,**
+*0018-3091*,*Die Hoehle*,**,**
+*0018-9634*,*Bulletin de l'Institut Fondamental d'Afrique Noire, Serie A: Sciences Naturelles*,**,**
+*0019-1019*,*The Ibis*,**,**
+*0019-5235*,*Indian Journal of History of Science*,**,**
+*0019-5936*,*Indian Minerals*,**,**
+*0020-3947*,*Anales de Antropologia (Universidad Nacional Autonoma de Mexico, Instituto de Investigaciones Antropologicas). Mexico City.*,**,**
+*0020-417X*,*Boletin del Instituto Oceanografico de la Universidad de Oriente*,**,**
+*0020-6814*,*International Geology Review*,**,**
+*0021-1753*,*Isis*,**,**
+*0021-2059*,*Israel Exploration Journal*,**,**
+*0021-2164*,*Israel Journal of Earth-Sciences*,**,**
+*0021-4280*,*Proceedings of the Japan Academy*,**,**
+*0021-8375*,*Journal fuer Ornithologie*,**,**
+*0021-8782*,*Journal of Anatomy*,**,**
+*0022-1201*,*Journal of Forestry*,**,**
+*0022-135X*,*Chigaku Zasshi = Journal of Geography*,**,**
+*0022-1368*,*Journal of Geological Education*,**,**
+*0022-1376*,*Journal of Geology*,**,**
+*0022-1511*,*Journal of Herpetology*,**,**
+*0022-2372*,*Journal of Mammalogy*,**,**
+*0022-2933*,*Journal of Natural History*,**,**
+*0022-3360*,*Journal of Paleontology*,**,**
+*0022-3360*,*Journal of Paleontology*,**,*50th Anniversary Volume*
+*0022-3360*,*Journal of Paleontology*,**,*50th anniversary volume*
+*0022-4472*,*Journal of Sedimentary Petrology*,**,**
+*0022-4693*,*The Journal of Spelean History*,**,**
+*0022-5010*,*Journal of the History of Biology*,**,**
+*0022-5460*,*Journal of Zoology*,**,**
+*0022-8443*,*Transactions of the Kansas Academy of Science*,**,**
+*0022-8850*,*The University of Kansas Science Bulletin*,**,**
+*0023-3366*,*Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen, Series B: Palaeontology, Geology, Physics and Chemistry*,**,**
+*0023-4230*,*Kosmos (Stuttgart)*,**,**
+*0023-5873*,*Kwartalnik Geologiczny*,**,**
+*0023-8457*,*Lapidary Journal*,**,**
+*0024-0834*,*Vestnik Leningradskogo Universiteta. Geologiya-Geografiya*,**,**
+*0024-1164*,*Lethaia*,**,**
+*0024-4066*,*Biological Journal of the Linnean Society*,**,**
+*0024-4074*,*Botanical Journal of the Linnean Society*,**,**
+*0024-4082*,*Zoological Journal of the Linnean Society*,**,**
+*0024-7634*,*Lutra*,**,**
+*0025-1461*,*Mammalia (Paris)*,**,**
+*0025-3456*,*Maritime Sediments*,**,*Special Publication No. 1, Part B*
+*0025-990X*,*The Mercian Geologist*,**,**
+*0026-2005*,*Michigan Academician*,**,**
+*0026-2803*,*Micropaleontology*,**,**
+*0026-3575*,*The Migrant*,**,**
+*0026-4539*,*Earth and Mineral Sciences*,**,**
+*0026-4555*,*California Geology*,**,**
+*0026-4563*,*Bulletin of the Mineral Research and Exploration Institute of Turkey*,**,**
+*0026-671X*,*Missouri Speleology*,**,**
+*0027-1284*,*Mosaic (Washington)*,**,**
+*0027-1284*,*Mosaic (Washington)*,**,*Brain research*
+*0027-1403*,*Byulleten' Moskovskogo Obshchestva Ispytateley Prirody, Novaya Seriya, Otdel Biologicheskiy*,**,**
+*0027-254X*,*The Mountain Geologist*,**,**
+*0027-3414*,*Munibe*,**,**
+*0027-3910*,*Boletin - Museo Nacional de Historia Natural*,**,**
+*0027-4070*,*Bulletin du Museum National d'Histoire Naturelle, Serie 3, Sciences de la Terre. Paris.*,**,**
+*0027-4100*,*Bulletin of the Museum of Comparative Zoology. Harvard University*,**,**
+*0027-9358*,*National Geographic*,**,**
+*0028-0712*,*Natural History*,**,**
+*0028-0798*,*Le Naturaliste Canadien*,**,**
+*0028-0836*,*Nature (London)*,**,**
+*0028-0887*,*Naturen*,**,**
+*0028-0917*,*Berichte der Naturforschenden Gesellschaft zu Freiburg im Breisgau*,**,**
+*0028-1042*,*Naturwissenschaften*,**,**
+*0028-1050*,*Naturwissenschaftliche Rundschau*,**,**
+*0028-1301*,*Natur und Museum*,**,**
+*0028-2960*,*Netherlands Journal of Zoology = Archives Neerlandaises de Zoologie*,**,**
+*0028-3630*,*Neues Jahrbuch fuer Geologie und Palaeontologie. Monatshefte*,**,**
+*0028-3649*,*Neues Jahrbuch fuer Mineralogie. Monatshefte*,**,**
+*0028-6664*,*New Scientist (1956-1971)*,**,**
+*0028-7113*,*Transactions of the New York Academy of Sciences*,**,**
+*0028-8306*,*New Zealand Journal of Geology and Geophysics*,**,**
+*0028-8330*,*New Zealand Journal of Marine and Freshwater Research*,**,**
+*0028-8365*,*New Zealand Journal of Science*,**,**
+*0029-182X*,*Norois*,**,**
+*0029-2362*,*North = Nord*,**,**
+*0029-344X*,*Northwest Science*,**,**
+*0029-4470*,*Notornis*,**,**
+*0029-554X*,*Nuclear Instruments and Methods*,**,**
+*0029-5671*,*La Recherche*,**,**
+*0029-7860*,*Obzornik (Ljubljana)*,**,**
+*0029-8158*,*Oceanology*,**,**
+*0029-8808*,*Sitzungsberichte - Oesterreichische Akademie der Wissenschaften, Mathematisch -Naturwissenschaftliche Klasse, Abteiling I*,**,**
+*0030-0950*,*The Ohio Journal of Science*,**,**
+*0030-1736*,*Oklahoma Geology Notes*,**,**
+*0030-6940*,*Our Public Lands*,**,**
+*0030-8641*,*Pacific Discovery*,**,**
+*0031-0182*,*Palaeogeography, Palaeoclimatology, Palaeoecology*,**,**
+*0031-0182*,*Palaeogeography, Palaeoclimatology, Palaeoecology*,**,*Trace fossils and their importance in paleoenvironmental analysis*
+*0031-0204*,*Transactions and Proceedings of the Palaeontological Society of Japan. New Series*,**,**
+*0031-0204*,*Transactions and Proceedings of the Palaeontological Society of Japan. New Series*,**,*Supplement*
+*0031-0220*,*Palaeontologische Zeitschrift*,**,**
+*0031-0239*,*Palaeontology*,**,**
+*0031-0247*,*Palaeovertebrata*,**,**
+*0031-0247*,*Palaeovertebrata*,**,*Memoire extraordinaire*
+*0031-0247*,*Palaeovertebrata*,**,*Rongeurs caviomorphes de l'Oligocene de Bolivie*
+*0031-0298*,*PaleoBios*,**,**
+*0031-0301*,*Paleontological Journal*,**,**
+*0031-031X*,*Paleontologicheskiy Zhurnal*,**,**
+*0031-6229*,*Petermanns Geographische Mitteilungen*,**,**
+*0032-1346*,*Plateau*,**,**
+*0032-2490*,*Polarforschung*,**,**
+*0032-3055*,*Politecnica*,**,**
+*0032-6267*,*Mineralogia Polonica*,**,**
+*0032-6275*,*Prace Museum Ziemi*,**,**
+*0032-6542*,*Der Praeparator*,**,**
+*0032-874X*,*Priroda*,**,**
+*0033-0124*,*The Professional Geographer*,**,**
+*0033-2151*,*Przeglad Geologiczny*,**,**
+*0033-247X*,*Przeglad Zoologiczny*,**,**
+*0033-4553*,*Pure and Applied Geophysics*,**,**
+*0033-5770*,*The Quarterly Review of Biology*,**,**
+*0033-5894*,*Quaternary Research (New York)*,**,**
+*0033-5894*,*Quaternary Research (New York)*,**,*Richard Foster Flint memorial volume*
+*0033-8222*,*Radiocarbon*,**,**
+*0033-9865*,*Rassegna Speleologica Italiana*,**,**
+*0034-5172*,*Research Council of Alberta, Bulletin*,**,**
+*0035-0176*,*Revista Minera, Geologia y Mineralogia*,**,**
+*0035-1814*,*Revue de Zoologie et de Botanique Africaines*,**,**
+*0035-2276*,*Revue des Travaux de l'Institut des Peches Maritimes*,**,**
+*0035-6883*,*Rivista Italiana di Paleontologia e Stratigrafia*,**,**
+*0035-7529*,*Rocks and Minerals*,**,**
+*0035-7529*,*Rocks and Minerals*,**,*Pennsylvania*
+*0035-8983*,*Proceedings of the Royal Irish Academy, Section B: Biological, Geological and Chemical Science*,**,**
+*0035-919X*,*Transactions of the Royal Society of South Africa*,**,**
+*0035-9211*,*Proceedings of the Royal Society of Victoria*,**,**
+*0035-922X*,*Journal of the Royal Society of Western Australia*,**,**
+*0036-2344*,*Saeugetierkundliche Mitteilungen = Mammalogical Informations*,**,**
+*0036-8075*,*Science*,**,**
+*0036-8423*,*Science News (Washington)*,**,**
+*0036-861X*,*The Sciences (New York)*,**,**
+*0036-8733*,*Scientific American*,**,**
+*0036-9276*,*Scottish Journal of Geology*,**,**
+*0037-0738*,*Sedimentary Geology*,**,**
+*0037-2110*,*Senckenbergiana Lethaea*,**,**
+*0037-2730*,*Comunicacoes dos Servicos Geologicos de Portugal*,**,**
+*0037-8518*,*Memoria - Sociedad de Ciencias Naturales La Salle*,**,**
+*0037-8585*,*Boletin de la Sociedad Geografica de Lima*,**,*Julio-Diciembre*
+*0037-8763*,*Bollettino della Societa Geologica Italiana*,**,**
+*0037-8844*,*Atti della Societa Italiana di Scienze Naturali e del Museo Civico di Storia Naturale de Milano*,**,**
+*0037-8984*,*Bulletins et Memoires de la Societe d'Anthropologie de Paris*,**,**
+*0037-8984*,*Bulletins et Memoires de la Societe d'Anthropologie de Paris*,**,*XII (super e) Serie*
+*0037-8984*,*Bulletins et Memoires de la Societe d'Anthropologie de Paris*,**,*XII (super e) serie*
+*0037-8984*,*Bulletins et Memoires de la Societe d'Anthropologie de Paris*,**,*XIII (super e) serie*
+*0037-9395*,*Annales de la Societe Geologique de Belgique*,**,**
+*0037-9409*,*Bulletin de la Societe Geologique de France*,**,**
+*0037-9409*,*Bulletin de la Societe Geologique de France*,**,*Dynam. pop., meth. quant., appl. syst. evol.*
+*0037-9417*,*Compte Rendu Sommaire des Seances de la Societe Geologique de France*,**,**
+*0037-9417*,*Compte Rendu Sommaire des Seances de la Societe Geologique de France*,**,*Supplement au Bulletin 1977, Tome XIX, No. 1*
+*0037-9417*,*Compte Rendu Sommaire des Seances de la Societe Geologique de France*,**,*Supplement au Bulletin 1977, Tome XIX, No. 4*
+*0037-9417*,*Compte Rendu Sommaire des Seances de la Societe Geologique de France*,**,*Supplement au Bulletin, Tome 22, No. 5, 1980*
+*0037-9417*,*Compte Rendu Sommaire des Seances de la Societe Geologique de France*,**,*Supplement au Bulletin, Tome 22, No. 6, 1980*
+*0037-9603*,*Bulletin de la Societe Vaudoise des Sciences Naturelles*,**,**
+*0037-962X*,*Bulletin de la Societeoologique de France*,**,**
+*0037-9778*,*Journal of the Society for the Bibliography of Natural History*,**,**
+*0038-1969*,*South African Archaeological Bulletin*,**,**
+*0038-2353*,*South African Journal of Science*,**,**
+*0038-3678*,*Southeastern Geology*,**,**
+*0038-3872*,*Bulletin - Southern California Academy of Sciences*,**,**
+*0038-4909*,*The Southwestern Naturalist*,**,**
+*0038-5069*,*Sovetskaya Geologiya*,**,**
+*0038-6804*,*Special Papers in Palaeontology*,**,**
+*0039-341X*,*Studia Universitatis Babes-Bolyai. Series Geologia-Geographia*,**,**
+*0039-7989*,*Systematic Zoology*,**,**
+*0040-0823*,*Tebiwa*,**,**
+*0040-1951*,*Tectonophysics*,**,**
+*0040-313X*,*Journal of the Tennessee Academy of Science*,**,**
+*0040-3733*,*Terra (Los Angeles)*,**,**
+*0040-4403*,*The Texas Journal of Science*,**,**
+*0041-1752*,*Annals of the Transvaal Museum*,**,**
+*0041-3860*,*Tuatara*,**,**
+*0041-4018*,*Tulane Studies in Geology and Paleontology*,**,**
+*0041-6347*,*Umschau in Wissenschaft und Technik*,**,**
+*0041-9079*,*Universitas (Stuttgart)*,**,**
+*0042-1693*,*Uzbekiston Geologiya Zhurnali = Uzbekskiy Geologicheskiy Zhurnal*,**,**
+*0042-4404*,*Vertebrata PalAsiatica = Ku Chi Ch'un Tung-wu Yu Ku Jen-lei*,**,**
+*0042-4730*,*Vestnik Ustredniho Ustavu Geologickeho = Bulletin of the Geological Survey, Prague*,**,**
+*0042-5184*,*Victorian Naturalist*,**,**
+*0042-658X*,*Virginia Journal of Science*,**,**
+*0043-0439*,*Journal of the Washington Academy of Sciences*,**,**
+*0044-0604*,*Proceedings of the Yorkshire Geological Society*,**,**
+*0044-2836*,*Zeitschrift fuer Gletscherkunde und Glazialgeologie*,**,**
+*0044-3468*,*Zeitschrift fuer Saeugetierkunde*,**,**
+*0044-4189*,*Zentralblatt fuer Geologie und Palaeontologie, Teil II: Palaeontologie*,**,**
+*0044-5193*,*Zoologische Jahrbuecher, Abteilung fuer Systematik, Oekologie und Geographie der Tiere*,**,**
+*0044-5207*,*Zoologische Mededelingen*,**,**
+*0044-5215*,*Zoologische Verhandelingen*,**,**
+*0044-9725*,*Bulletin de Liaison - Association Senegalaise pour l'Etude du Quaternaire de l'Ouest Africain*,**,**
+*0045-8511*,*Copeia*,**,**
+*0046-5747*,*Geologie*,**,**
+*0047-2484*,*Journal of Human Evolution*,**,**
+*0048-3214*,*Pennsylvania Geology*,**,**
+*0049-8769*,*Journal of the Zoological Society of India*,**,**
+*0065-1265*,*Acta Geologica Taiwanica*,**,**
+*0065-1710*,*Acta Zoologica Cracoviensia*,**,**
+*0065-535X*,*Anzeiger der Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse*,**,**
+*0065-731X*,*Memoir - American Association of Petroleum Geologists*,**,**
+*0065-9746*,*Transactions of the American Philosophical Society*,**,**
+*0066-0027*,*Bulletin - American School of Prehistoric Research*,**,**
+*0066-7781*,*Arnoldia (National Museums of Rhodesia, Series of Miscellaneous Publications)*,**,**
+*0067-0464*,*Records of the Auckland Institute and Museum*,**,**
+*0067-1967*,*Memoir - Australian Museum, Sydney*,**,**
+*0067-1975*,*Records of the Australian Museum*,**,**
+*0067-6160*,*Occasional Papers of Bernice P. Bishop Museum*,**,**
+*0067-9038*,*Biuletyn Peryglacjalny*,**,**
+*0067-9038*,*Biuletyn Peryglacjalny*,**,*Periglacial phenomena and paleogeography of the Pleistocene*
+*0067-9208*,*Navorsinge van die Nasionale Museum = Researches of the National Museum*,**,**
+*0067-964X*,*Boletim Paranaense de Geociencias*,**,**
+*0068-1016*,*Geology Studies*,**,**
+*0068-1040*,*Proceedings of the Bristol Naturalists' Society*,**,**
+*0068-1571*,*B. C. Geographical Series*,**,*Mt. geomorphology; geomorphol. processes in Can. Cordillera*
+*0068-3078*,*Travaux du Museum d'Histoire Naturelle "Grigore Antipa"*,**,**
+*0068-645X*,*University of California Publications in Geological Sciences*,**,**
+*0068-7626*,*Bulletin - Geological Survey of Canada*,**,**
+*0068-7650*,*Paper - Geological Survey of Canada*,**,**
+*0068-7650*,*Paper - Geological Survey of Canada*,**,*Report of activities*
+*0068-7650*,*Paper - Geological Survey of Canada*,**,*Report of activities, Part A*
+*0068-7650*,*Paper - Geological Survey of Canada*,**,*Report of activities, part B*
+*0069-066X*,*Year Book - Carnegie Institution of Washington*,**,**
+*0069-1305*,*Cave Research Group of Great Britain, Transactions. Ledbury (Herefordshire).*,**,**
+*0069-6579*,*Commentationes Biologicae. Societas Scientiarum Fennica*,**,**
+*0070-8372*,*Ecology and Conservation = Ecologie et Conservation*,**,**
+*0071-1160*,*Erlanger Geologische Abhandlungen*,**,**
+*0071-4739*,*Fieldiana. Anthropology*,**,**
+*0071-6154*,*Bulletin of the Florida State Museum. Biological Sciences*,**,**
+*0071-7754*,*Publication - Fort Burgwin Research Center*,**,**
+*0071-8246*,*Memoires du B.R.G.M.*,**,**
+*0071-8246*,*Memoires du B.R.G.M.*,**,*Commun., recomm., conclusions; Ve Cong. Neogene Mediterr.*
+*0071-9404*,*Freiberger Forschungshefte, Reihe C: Geowissenschaften, Mineralogie-Geochemie*,**,**
+*0072-0100*,*Gallia Prehistoire, Supplement*,**,**
+*0072-0992*,*Geologia Colombiana*,**,**
+*0072-1018*,*Geologica et Palaeontologica*,**,**
+*0072-1042*,*Special Paper - Geological Association of Canada*,**,**
+*0072-1042*,*Special Paper - Geological Association of Canada*,**,*Cretaceous System in the Western Interior of North America*
+*0072-1069*,*Memoir - Geological Society of America*,**,**
+*0072-1077*,*Special Paper - Geological Society of America*,**,**
+*0072-1115*,*Mitteilungen aus dem Geologisch-Palaeontologischen Institut der Universitaet Hamburg*,**,**
+*0072-1395*,*Geoscience and Man*,**,**
+*0072-1395*,*Geoscience and Man*,**,*Aspects of Trinity Division geology*
+*0073-4713*,*Iheringia. Serie Geologia*,**,**
+*0073-9359*,*Report - Natural Environment Research Council, Institute of Geological Sciences*,**,**
+*0073-9863*,*Boletin - Instituto Antartico Chileno*,**,**
+*0073-9871*,*Serie Cientifica. Instituto Antartico Chileno*,**,**
+*0075-0484*,*Report - Geological Survey of Iran*,**,**
+*0075-5036*,*University of Kansas Publications. Museum of Natural History*,**,**
+*0075-5052*,*University of Kansas Paleontological Contributions, Paper*,**,**
+*0075-5052*,*University of Kansas Paleontological Contributions, Paper*,**,*Fossil fish studies*
+*0075-6245*,*Kirtlandia*,**,**
+*0075-8639*,*Leidse Geologische Mededelingen*,**,**
+*0076-0579*,*The London Naturalist*,**,**
+*0076-0935*,*Science Bulletin (Los Angeles)*,**,**
+*0076-1672*,*Documents des Laboratoires de Geologie de la Faculte des Sciences de Lyon*,**,**
+*0076-3519*,*Mammalian Species*,**,**
+*0076-7689*,*Meyniana*,**,**
+*0076-9436*,*Journal of the Mississippi Academy of Sciences*,**,**
+*0077-1139*,*Special Publication - State of Montana Bureau of Mines and Geology*,**,**
+*0077-2070*,*Mitteilungen der Bayerischen Staatssammlung fuer Palaeontologie und Historische Geologie*,**,**
+*0077-2224*,*Boletim do Museu Paraense Emilio Goeldi. Serie Geologia*,**,**
+*0077-2933*,*Biographical Memoirs*,**,**
+*0077-4626*,*Research Reports - National Geographic Society*,**,**
+*0077-4626*,*Research Reports - National Geographic Society*,**,*1890-1954 projects*
+*0077-6122*,*Verhandlungen der Naturforschenden Gesellschaft in Basel*,**,**
+*0077-6130*,*Mitteilungen der Naturforschenden Gesellschaft in Bern*,**,**
+*0077-6165*,*Schriften des Naturwissenschaftlichen Vereins fuer Schleswig-Holstein*,**,**
+*0077-6343*,*Proceedings of the Nebraska Academy of Sciences and Affiliated Societies*,**,**
+*0077-6351*,*Transactions of the Nebraska Academy of Sciences*,**,**
+*0077-7749*,*Neues Jahrbuch fuer Geologie und Palaeontologie. Abhandlungen*,**,**
+*0077-8567*,*Guidebook - New Mexico Geological Society*,**,**
+*0077-8567*,*Guidebook - New Mexico Geological Society*,**,*Guidebook of San Juan Basin III, northwestern New Mexico*
+*0077-8567*,*Guidebook - New Mexico Geological Society*,**,*Guidebook of Vermejo Park, northeastern New Mexico*
+*0077-8923*,*Annals of the New York Academy of Sciences*,**,**
+*0077-9628*,*Bulletin - New Zealand Geological Survey*,**,**
+*0078-0421*,*Newsletters on Stratigraphy*,**,**
+*0078-2939*,*Oberrheinische Geologische Abhandlungen*,**,**
+*0078-2947*,*Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereines*,**,**
+*0078-5709*,*Bulletin - Oregon, Department of Geology and Mineral Industries*,**,**
+*0078-6047*,*Bulletin - Museum of Natural History, University of Oregon*,**,**
+*0078-6675*,*Bulletin of the Osaka Museum of Natural History*,**,**
+*0078-8538*,*Palaeoecology of Africa and of the Surrounding Islands and Antarctica*,**,**
+*0078-8538*,*Palaeoecology of Africa and of the Surrounding Islands and Antarctica*,**,*covering the years 1972-1974*
+*0078-8554*,*Palaeontologia Africana*,**,**
+*0078-8562*,*Palaeontologia Polonica*,**,**
+*0078-8570*,*Paleoecologia*,**,**
+*0078-9747*,*Memoires du Museum National d'Histoire Naturelle, Serie A, Zoologie*,**,*Biogeographie et liaisons intercontinentales; Mesozoique*
+*0078-9763*,*Memoires du Museum National d'Histoire Naturelle. Serie C., Sciences de la Terre*,**,**
+*0079-0303*,*Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University*,**,**
+*0079-032X*,*Bulletin - Peabody Museum of Natural History*,**,**
+*0079-0354*,*The Pearce-Sellards Series*,**,**
+*0079-3663*,*Rocznik Polskiego Towarzystwa Geologicznego = Annales de la Societe Geologique de Pologne*,**,**
+*0079-4295*,*Postilla*,**,**
+*0079-8835*,*Memoirs of the Queensland Museum*,**,**
+*0079-9483*,*Radiochemical and Radioanalytical Letters*,**,**
+*0080-0244*,*IG, Serie B, Estudos e Pesquisas*,**,**
+*0080-2662*,*Rhein-Mainische Forschungen*,**,**
+*0080-2662*,*Rhein-Mainische Forschungen*,**,*Die Wetterau und ihre Randgebiete*
+*0080-4568*,*Transactions - Royal Society of Edinburgh*,**,**
+*0080-4622*,*Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences*,**,**
+*0080-4649*,*Proceedings of the Royal Society of London, Series B: Biological Sciences*,**,**
+*0080-469X*,*Proceedings of the Royal Society of Queensland*,**,**
+*0080-4703*,*Papers and Proceedings of the Royal Society of Tasmania*,**,**
+*0080-7389*,*Schweizerische Palaeontologische Abhandlungen = Memoires Suisses de Paleontologie*,**,**
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,**
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,*Apra, Guam to Hakodate, Japan; June-August 1973*
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,*Durban, South Africa to Fremantle, Australia; Sept.-Oct. 1972*
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,*Hakodate, Japan to Honolulu, Hawaii, Aug.-Oct., 1973*
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,*Honolulu, Hawaii to Papeete, Tahiti; November-December 1973*
+*0080-8334*,*Initial Reports of the Deep Sea Drilling Project*,**,*Supplement*
+*0080-889X*,*Senckenbergiana Maritima*,**,*Estuaries of the Georgia coast, U.S.A.; sedimentol. and biol.*
+*0081-0266*,*Smithsonian Contributions to Paleobiology*,**,**
+*0081-0266*,*Smithsonian Contributions to Paleobiology*,**,*Coll. pap. avian paleontol. honoring 90th birthday A. Wetmore*
+*0081-0282*,*Smithsonian Contributions to Zoology*,**,**
+*0082-0016*,*Aarsbok. Sveriges Geologiska Undersoekning*,**,**
+*0082-0601*,*Syesis*,**,**
+*0082-2930*,*Bulletin of the Texas Archeological Society*,**,**
+*0082-3074*,*Bulletin of the Texas Memorial Museum*,**,**
+*0082-335X*,*Report of Investigations - Texas, University, Bureau of Economic Geology*,**,**
+*0082-464X*,*Science Reports of the Tohoku University. Series 2: Geology = Tohoku Daigaku Rika Hokoku. Dai 2: Shu Chishitsugaku*,**,**
+*0082-4755*,*Memoirs of the National Science Museum*,**,**
+*0082-5107*,*Life Sciences Occasional Papers - Royal Ontario Museum*,**,**
+*0082-5638*,*Trabajos de Prehistoria*,**,**
+*0082-6804*,*Tulsa Geological Society Digest*,**,**
+*0082-8114*,*Mineral Resources Development Series*,**,**
+*0083-5986*,*Memoirs of the National Museum of Victoria*,**,**
+*0083-6133*,*Annalen des Naturhistorischen Museums in Wien*,**,**
+*0083-8470*,*Newsletter - West Virginia Geological and Economic Survey*,**,**
+*0083-8535*,*Report of Archeological Investigations*,**,**
+*0083-8721*,*Annual Report - Western Australian Museum*,**,**
+*0083-873X*,*Special Publication - Western Australian Museum*,**,**
+*0084-4756*,*Occasional Paper - Geological Survey Department, Republic of Zambia*,**,**
+*0084-6090*,*Jahrbuch - Bayerische Akademie der Wissenschaften*,**,**
+*0084-6597*,*Annual Review of Earth and Planetary Sciences*,**,**
+*0084-7089*,*Bulletin - Australia, Bureau of Mineral Resources, Geology and Geophysics*,**,**
+*0084-7100*,*Report - Bureau of Mineral Resources, Geology and Geophysics*,**,**
+*0085-2236*,*The Proceedings of the Iowa Academy of Science*,**,**
+*0085-2457*,*University of Kansas Publications in Anthropology*,**,**
+*0085-4271*,*Arbok - Norsk Polarinstitutt*,**,**
+*0085-5235*,*Quaternaria*,**,**
+*0085-5278*,*Records of the Queen Victoria Museum of Launceston*,**,**
+*0091-374X*,*Journal of Research of the U. S. Geological Survey*,**,**
+*0091-5041*,*Memorials - Geological Society of America*,**,**
+*0091-7613*,*Geology (Boulder)*,**,**
+*0091-7958*,*Occasional Papers of the Museum of Natural History, University of Kansas*,**,**
+*0093-4755*,*Evolutionary Theory*,**,**
+*0093-6812*,*Bulletin of the University of Nebraska State Museum*,**,**
+*0093-6812*,*Bulletin of the University of Nebraska State Museum*,**,*Cenozoic mammals from the central Great Plains*
+*0094-0038*,*Annual Meeting Abstracts - American Association of Petroleum Geologists and Society of Economic Paleontologists and Mineralogists*,**,**
+*0094-680X*,*NOAA Technical Report NMFS Circular*,**,**
+*0094-8373*,*Paleobiology*,**,**
+*0096-0438*,*Fieldiana; Geology Memoirs*,**,**
+*0096-0446*,*U. S. Geological Survey Professional Paper*,**,**
+*0096-2279*,*The Journal of the Colorado-Wyoming Academy of Science*,**,**
+*0096-2651*,*Fieldiana: Geology (New Series)*,**,**
+*0096-378X*,*Proceedings of the South Dakota Academy of Science*,**,**
+*0096-3941*,*Eos, Transactions, American Geophysical Union*,**,**
+*0096-4166*,*Proceedings of the Rochester Academy of Science*,**,**
+*0096-4263*,*Proceedings of the West Virginia Academy of Science*,**,**
+*0096-4948*,*Circular - New Mexico Bureau of Mines and Mineral Resources*,**,**
+*0096-6053*,*Bulletin - Geological Survey of Wyoming*,**,**
+*0096-7769*,*Northwest Geology*,**,**
+*0096-7866*,*Bulletin - Tennessee, Division of Geology*,**,**
+*0096-8064*,*Brigham Young University Research Studies, Geology Series*,**,**
+*0096-9117*,*News Bulletin - Society of Vertebrate Paleontology*,**,**
+*0096-9214*,*Proceedings of the North Dakota Academy of Science*,**,**
+*0097-3157*,*Proceedings of the Academy of Natural Sciences of Philadelphia*,**,**
+*0097-3262*,*Bulletin - Geological Survey of Alabama*,**,**
+*0097-3270*,*Special Publication - Society of Economic Paleontologists and Mineralogists*,**,**
+*0097-3556*,*Contributions from the Museum of Paleontology. University of Michigan*,**,**
+*0097-4463*,*Annals of Carnegie Museum*,**,**
+*0098-4590*,*Florida Scientist*,**,**
+*0098-4590*,*Florida Scientist*,**,*Spring*
+*0098-4825*,*Bulletin - Utah Geological and Mineral Survey*,**,**
+*0099-4227*,*Report of Investigations - North Dakota Geological Survey*,**,**
+*0100-3879*,*Boletim IG - Instituto de Geociencias da Universidade de Sao Paulo*,**,**
+*0100-5375*,*Pesquisas - Instituto de Geociencias. Universidade Federal do Rio Grande do Sul*,**,**
+*0101-1944*,*Naturalia (Sao Jose do Rio Preto)*,**,**
+*0102-1249*,*Acta Geologica Leopoldensia*,**,**
+*0105-063X*,*Aarbog - Danmarks Geologiske Undersoegelse = Yearbook - Geological Survey of Denmark*,**,**
+*0125-4626*,*Warasan Samakhom Thoraniwitthaya Haeng Prathetthai = Journal of the Geological Society of Thailand*,**,**
+*0125-7757*,*Special Publication - Chiang Mai University, Department of Geological Sciences*,**,**
+*0125-9288*,*Publikasi Teknik - Direktorat Geologi, Seri Paleontologi*,**,**
+*0126-1517*,*Berita Geologi = Geosurvey Newsletter*,**,**
+*0126-3161*,*Bulletin of the Geological Research and Development Centre, [Republic of Indonesia]*,**,**
+*0126-5539*,*Warta Geologi = Newsletter of the Geological Society of Malaysia*,**,**
+*0126-6187*,*Buletin Persatuan Geologi Malaysia = Bulletin Geological Society of Malaysia*,**,**
+*0131-2634*,*Paleontologicheskiy Sbornik (L'vov)*,**,**
+*0132-1447*,*Soobshcheniya Akademii Nauk Gruzinskoy SSR*,**,**
+*0135-2164*,*Geologiya i Geokhimiya Goryuchikh Iskopayemykh*,**,**
+*0137-0839*,*Trudy - Naucno-Issledovatel'skij Institut Geologii Arktiki*,**,**
+*0137-5482*,*Kras i Speleologia*,**,**
+*0138-1423*,*Die Neue Brehm-Buecherei*,**,**
+*0138-3116*,*Quartaerpalaeontologie*,**,**
+*0139-7435*,*Zapadne Karpaty, Seria Paleontologia*,**,**
+*0140-1963*,*Journal of Arid Environments*,**,**
+*0141-3600*,*Special Publication of the International Association of Sedimentologists*,**,**
+*0141-3619*,*Open Earth*,**,**
+*0141-4275*,*Geological Journal of Queen Mary College*,**,**
+*0141-6421*,*Journal of Petroleum Geology*,**,**
+*0143-9286*,*Bulletin of the Geological Society of Norfolk*,**,**
+*0144-3607*,*Zoological Record (London)*,**,**
+*0144-3607*,*Zoological Record (Zoological Society of London).*,**,**
+*0145-9058*,*Bulletin of Carnegie Museum of Natural History*,**,**
+*0146-5058*,*Soviet Science*,**,**
+*0146-6291*,*Deep-Sea Research (1977)*,**,**
+*0146-9517*,*The NSS Bulletin*,**,**
+*0147-6238*,*Campus Museum Contributions*,**,**
+*0148-3838*,*Papers on Paleontology*,**,**
+*0148-3838*,*Papers on Paleontology*,**,*Claude W. Hibbard memorial volume 2*
+*0148-3838*,*Papers on Paleontology*,**,*Claude W. Hibbard memorial volume 3*
+*0148-3838*,*Papers on Paleontology*,**,*Claude W. Hibbard memorial volume 4*
+*0148-3838*,*Papers on Paleontology*,**,*Claude W. Hibbard memorial volume 5*
+*0148-3838*,*Papers on Paleontology*,**,*Strata and megafossils of the middle Devonian Silica Formation*
+*0149-1377*,*Studies in Geology (Tulsa)*,**,**
+*0149-1423*,*AAPG Bulletin*,**,**
+*0149-1423*,*AAPG Bulletin*,**,*AAPG-SEPM annual meeting*
+*0149-1423*,*AAPG Bulletin*,**,*AAPG-SEPM-SEG Pacific sections meeting*
+*0149-175X*,*Occasional Papers - Museum, Texas Tech University*,**,**
+*0149-1768*,*Special Publications - Museum, Texas Tech University*,**,**
+*0149-984X*,*Open File Report - Delaware Geological Survey*,**,**
+*0150-5505*,*Geostandards Newsletter*,**,**
+*0153-8446*,*Bulletin du Bureau de Recherches Geologiques et Minieres. Section 4: Geologie Generale*,**,**
+*0153-9167*,*Le Monde et les Mineraux*,**,**
+*0153-9183*,*Annales du Centre Universitaire de Savoie, Sciences Naturelles*,**,**
+*0153-9345*,*Paleorient*,**,**
+*0153-9345*,*Paleorient*,**,*2*
+*0160-0664*,*Collections (Buffalo)*,**,**
+*0160-2829*,*Guidebook - Wyoming Geological Association*,**,**
+*0160-3655*,*Public Information Circular - Geological Survey of Wyoming*,**,**
+*0160-4643*,*Virginia Division of Mineral Resources Publication*,**,**
+*0160-4937*,*Bulletin of the Southern California Paleontological Society*,**,**
+*0160-5313*,*Contributions in Biology and Geology*,**,**
+*0160-9327*,*Endeavour, New Series*,**,**
+*0161-4452*,*Scientific Publications of the Science Museum of Minnesota*,**,**
+*0161-6366*,*Linnean Society Symposium Series*,**,**
+*0163-0032*,*National Park Service Occasional Paper*,**,**
+*0163-9013*,*Transactions of the Nebraska Academy of Sciences*,**,**
+*0164-0429*,*AAAS Selected Symposia Series*,**,**
+*0164-2049*,*Geoscience Wisconsin*,**,**
+*0165-0009*,*Climatic Change*,**,**
+*0165-0807*,*The Moon and the Planets*,**,**
+*0165-1951*,*Mededelingen - Rijks Geologische Dienst. Nieuwe Serie*,**,**
+*0165-2753*,*Utrecht Micropaleontological Bulletins. Special Publication.*,**,**
+*0165-2753*,*Utrecht Micropaleontological Bulletins. Special Publication.*,**,*Special publication*
+*0168-6151*,*Modern Quaternary Research in Southeast Asia*,**,**
+*0172-8784*,*Berliner Geowissenschaftliche Abhandlungen, Reihe A: Geologie und Palaeontologie*,**,**
+*0173-7481*,*Abhandlungen des Naturwissenschaftlichen Vereins in Hamburg*,**,**
+*0181-0642*,*Bulletin du Museum National d'Histoire Naturelle. Section C: Sciences de la Terre: Paleontologie, Geologie, Mineralogie*,**,**
+*0181-0642*,*Bulletin du Museum National d'Histoire Naturelle. Section C: Sciences de la Terre: Paleontologie, Geologie, Mineralogie*,**,*4th Series*
+*0185-0962*,*Revista - Instituto de Geologia*,**,**
+*0190-5724*,*Carnivore*,**,**
+*0191-4030*,*Stereo World*,**,**
+*0191-6122*,*Palynology*,**,**
+*0193-4511*,*Science (Washington, 1979)*,**,**
+*0193-7634*,*Memoir - Miami Geological Society*,**,*Environments of south Florida; present and past*
+*0196-1497*,*Open-File Report - U. S. Geological Survey*,**,**
+*0196-1888*,*Geo (New York)*,**,**
+*0196-8319*,*Bulletin of the Archaeological Society of New Jersey*,**,**
+*0196-9110*,*Encyclia*,**,**
+*0196-948X*,*New Mexico Geology*,**,**
+*0197-8780*,*Syracuse University Geology Contribution*,**,**
+*0198-8565*,*Paleontological Series (East Lansing)*,**,**
+*0201-9280*,*Ezhegodnik Vsesoyuznogo Paleontologicheskogo Obshchestva*,**,**
+*0203-3070*,*Trudy - Sovmestnaya Sovetsko-Mongol'skaya Nauchno-Issledovatel'skaya Geologicheskaya Ekspeditsiya*,**,**
+*0204-5109*,*Neftena i Vuglishchna Geologiya*,**,**
+*0204-7217*,*Paleontologiya, Stratigrafiya i Litologiya*,**,**
+*0210-5055*,*Boletin Informativo - Instituto Provincial de Paleontologia de Sabadell*,**,**
+*0210-5217*,*Trabajos Neogenos-Cuaternario*,**,**
+*0210-7236*,*Col-Pa*,**,**
+*0211-0792*,*Butlleti Informatiu - Institut de Paleontologia de Sabadell*,**,**
+*0211-609X*,*Paleontologia y Evolucion*,**,**
+*0239-7277*,*Bulletin of the Polish Academy of Sciences, Earth Sciences*,**,**
+*0242-1771*,*Spelunca (4e Serie)*,**,**
+*0249-6410*,*Memoire Hors Serie - Societe Geologique de France*,**,**
+*0249-6860*,*Travaux du Laboratoire de Geologie Historique et de Paleontologie*,**,**
+*0250-2860*,*Tuerkiye Jeoloji Kurumu Buelteni = Bulletin of the Geological Society of Turkey*,**,**
+*0250-507X*,*Biovigyanam*,**,**
+*0250-6386*,*Arnoldia Zimbabwe*,**,**
+*0251-074X*,*Revue de Zoologie Africaine*,**,**
+*0251-7493*,*Mitteilungen der Oesterreichischen Geologischen Gesellschaft*,**,**
+*0252-1970*,*Geoscience Journal*,**,**
+*0253-245X*,*Haiyang Wenji = Collected Oceanic Works*,**,**
+*0253-4401*,*Jahrbuch des Naturhistorischen Museums Bern*,**,**
+*0253-4959*,*Dicengxue Zazhi = Journal of Stratigraphy*,**,**
+*0253-5203*,*Actes du Congres National de Speleologie*,**,**
+*0253-567X*,*Publicacion Especial - Academia de Ciencias de Cuba, Instituto de Geologia*,**,**
+*0253-5734*,*Serie Geologica*,**,**
+*0253-6846*,*Publication of the Centre of Advanced Study in Geology*,**,**
+*0254-055X*,*Ciencias da Terra*,**,**
+*0254-1351*,*Diceng Gushengwu Lunwen Ji = Professional Papers of Stratigraphy and Palaeontology*,**,**
+*0254-7295*,*Dari de Seama ale Sedintelor - Institutul de Geologie si Geofizica. 3. Paleontologie*,**,*Paleontologie*
+*0257-8727*,*PACT (Strasbourg)*,**,**
+*0270-1308*,*Publications in Archeology*,**,**
+*0270-5451*,*Geological Newsletter (Portland)*,**,**
+*0270-5478*,*Special Papers - Michigan Basin Geological Society*,**,**
+*0270-5486*,*Research Paper - Nevada Archeological Survey*,**,**
+*0270-6482*,*NUREG/CP (United States, Nuclear Regulatory Commission)*,**,**
+*0270-8655*,*U.S. Department of the Interior National Park Service Transactions and Proceedings Series*,**,**
+*0271-0420*,*Computers and Geology*,**,**
+*0271-1001*,*Desert Research Institute Publications in the Social Sciences*,**,**
+*0272-0809*,*Evolutionary Monographs*,**,**
+*0272-3646*,*Physical Geography*,**,**
+*0272-4197*,*NYPS Notes*,**,**
+*0272-4197*,*NYPS Notes*,**,*Spring*
+*0272-4758*,*CSCPRC Report*,**,**
+*0275-1666*,*Quarterly Review - Utah Geological and Mineralogical Surve*,**,**
+*0275-293X*,*Annual Field Conference - Society of Economic Paleontologists and Mineralogists. Great Lakes Section*,**,**
+*0275-5491*,*International Geography*,**,**
+*0275-8555*,*Mississippi Geology*,**,**
+*0277-9455*,*Arid Lands Newsletter*,**,**
+*0285-3175*,*Annual Report of the Institute of Geoscience, University of Tsukuba*,**,**
+*0286-715X*,*Recent Progress of Natural Sciences in Japan = Nihon Shizen Kagaku Shuho*,**,**
+*0287-1750*,*Original Report of the Okamura Fossil Laboratory*,**,**
+*0293-843X*,*Geobios, Memoire Special*,**,**
+*0300-3256*,*Zoologica Scripta*,**,**
+*0300-8010*,*Comptes Rendus du Congres National des Societes Savantes. Section des Sciences*,**,**
+*0300-8010*,*Comptes Rendus du Congres National des Societes Savantes. Section des Sciences*,**,*Geologie, mineralogie*
+*0300-8746*,*Nature; Physical Science (London)*,**,**
+*0300-9009*,*Acta Neurologica Belgica*,**,**
+*0300-9483*,*Boreas*,**,**
+*0301-0325*,*Ambio Special Report*,**,**
+*0301-4231*,*Contributions to Primatology*,**,**
+*0301-4231*,*Contributions to Primatology*,**,*Approaches to Primate paleobiology*
+*0301-6463*,*Museologia (Amsterdam)*,**,**
+*0301-9187*,*Travaux de l'Institut de Speologie "Emile Racovitza"*,**,**
+*0302-1033*,*Epeteris Mouseiou Goulandre = Annales Musei Goulandris*,**,**
+*0302-2684*,*Sciences Geologiques. Memoire*,**,**
+*0302-2692*,*Sciences Geologiques (Bulletin)*,**,**
+*0302-2749*,*Bulletin of the Geological Institutions of the University of Uppsala, New Series*,**,**
+*0302-5691*,*Antartida (Buenos Aires)*,**,**
+*0302-5756*,*Anales - LEMIT*,**,**
+*0303-2515*,*Annals of the South African Museum*,**,**
+*0303-4534*,*Zeitschrift fuer Geologische Wissenschaften*,**,**
+*0303-6758*,*Journal of the Royal Society of New Zealand*,**,**
+*0303-7495*,*Bulletin de l'Institut Francais d'Etudes Andines = Boletin del Instituto Frances de Estudios Andinos*,**,**
+*0304-0798*,*Annals of the Natal Museum, Pietermaritzburg = Annale van die Natalse Museum, Pietermaritzburg*,**,**
+*0304-3460*,*South African Archaeological Society, Goodwin Series*,**,**
+*0304-579X*,*Bulletin de l'Institut Royal des Sciences Naturelles de Belgique. Biologie*,**,**
+*0304-5854*,*Bulletin de Liaison - ASEQUA*,**,**
+*0305-0270*,*Journal of Biogeography*,**,**
+*0305-0491*,*Comparative Biochemistry and Physiology, B: Comparative Biochemistry*,**,**
+*0305-4403*,*Journal of Archaeological Science*,**,**
+*0305-4977*,*Palaeontology Leaflet, British Museum, Natural History*,**,**
+*0305-7488*,*Journal of Historical Geography*,**,**
+*0305-859X*,*Transactions of the British Cave Research Association*,**,**
+*0306-7343*,*Occasional Papers on Technology*,**,**
+*0308-0188*,*ISR, Interdisciplinary Science Reviews*,**,**
+*0308-7506*,*Tertiary Research Special Paper*,**,**
+*0308-9649*,*Tertiary Research*,**,**
+*0309-2593*,*Systematics Association Special Volume*,**,**
+*0310-0049*,*Australian Mammalogy*,**,**
+*0310-3773*,*Niugini Caver*,**,**
+*0311-5518*,*Alcheringa*,**,**
+*0312-9608*,*BMR Journal of Australian Geology and Geophysics*,**,**
+*0315-1824*,*Canadian Geographical Journal*,**,**
+*0320-2305*,*Trudy - Sovmestnaya Sovetsko-Mongol'skaya Paleontologicheskaya Ekspeditsiya*,**,**
+*0321-1703*,*Izvestiya Akademii Nauk SSSR. Seriya Geologicheskaya*,**,**
+*0322-824X*,*Scripta Facultatis Scientiarum Naturalium Universitatis Purkynianae Brunensis. Geologia*,**,**
+*0323-0570*,*Casopis Moravskeho Muzea, Vedy Spolecenske = Acta Musei Moraviae, Scientiae Sociales*,**,**
+*0323-4444*,*Leopoldina*,**,**
+*0323-8946*,*Schriftenreihe fuer Geologische Wissenschaften*,**,**
+*0324-0894*,*Geologica Balcanica*,**,**
+*0324-8321*,*Polski Przeglad Kartograficzny = Pol'skyy Kartograficheskyy Obzor = Polish Cartographical Review*,**,**
+*0325-2620*,*Actas del Congreso Geologico Argentino*,**,**
+*0332-5172*,*International Union of Geological Sciences. Series B*,**,**
+*0335-8178*,*Memoires et Travaux de l'Institut de Montpellier*,**,**
+*0338-2672*,*Guides Geologiques Regionaux*,**,**
+*0340-3718*,*Abhandlungen - Naturwissenschaftlicher Verein zu Bremen*,**,**
+*0340-4404*,*Mainzer Geowissenschaftliche Mitteilungen*,**,**
+*0340-4498*,*Oberhessische Naturwissenschaftliche Zeitschrift*,**,**
+*0340-7896*,*Glueckauf (Essen)*,**,**
+*0341-0153*,*Stuttgarter Beitraege zur Naturkunde. Serie B: Geologie und Palaeontologie*,**,**
+*0341-0161*,*Stuttgarter Beitraege zur Naturkunde. Serie C: Allgemeinverstaendliche Aufsaetze*,**,**
+*0341-4027*,*Geologisches Jahrbuch Hessen*,**,**
+*0341-4043*,*Geologische Abhandlungen Hessen*,**,**
+*0341-4116*,*CFS. Courier Forschungsinstitut Senckenberg*,**,**
+*0341-4167*,*Arbeiten aus dem Institut fuer Geologie und Palaeontologie an der Universitaet Stuttgart*,**,**
+*0341-6399*,*Geologisches Jahrbuch. Reihe A: Allgemeine und Regionale Geologie BR Deutschland und Nachbargebiete, Tektonik, Stratigraphie, Palaeontologie*,**,**
+*0341-6402*,*Geologisches Jahrbuch. Reihe B: Regionale Geologie Ausland*,**,**
+*0341-9665*,*Mitteilungen der Pollichia*,**,**
+*0342-7595*,*Die Schwaebische Heimat (Stuttgart)*,**,**
+*0343-2521*,*GeoJournal*,**,*Recent research in China*
+*0343-7620*,*Philippia*,**,**
+*0345-0058*,*Abstracts of Uppsala Dissertations from the Faculty of Science*,**,**
+*0345-8865*,*Ossa (Solna)*,**,**
+*0350-0608*,*Geoloshki Anali Balkanskoga Poluostrva*,**,**
+*0350-235X*,*Geoloshki Glasnik (Sarajevo) = Bulletin Geologique (Sarajevo)*,**,**
+*0360-0270*,*Reports of Investigations - Illinois State Museum*,**,**
+*0361-0128*,*Economic Geology and the Bulletin of the Society of Economic Geologists*,**,**
+*0361-7149*,*Soviet Geology and Geophysics*,**,**
+*0361-9656*,*Museum of Northern Arizona Bulletin*,**,**
+*0363-1192*,*Utah Geology*,**,**
+*0364-4456*,*Report of Investigations - Geological Survey of Wyoming*,**,**
+*0364-4510*,*U. S. Geological Survey Bulletin*,**,**
+*0364-6017*,*U. S. Geological Survey Circular*,**,**
+*0365-026X*,*Atti della Accademia Nazionale dei Lincei, Memorie, Classe di Scienze Fisiche, Matematiche e Naturali, Sezione IIa: Fisica, Chimica, Geologia, Paleontologia e Mineralogia*,**,*Ser. 8*
+*0365-026X*,*Atti della Accademia Nazionale dei Lincei, Memorie, Classe di Scienze Fisiche, Matematiche e Naturali, Sezione IIa: Fisica, Chimica, Geologia, Paleontologia e Mineralogia*,**,*Series 8*
+*0365-0936*,*Memoires de la Classe des Sciences. Academie Royale de Belgique. Collection in 8 degrees*,**,**
+*0365-1223*,*Anuarul Comitetului de Stat al Geologiei*,**,**
+*0365-2777*,*Annals of the Geological Survey of Egypt*,**,**
+*0365-2777*,*Annals of the Geological Survey of Egypt*,**,*Essays on African Paleontology*
+*0365-317X*,*Atti dell'Istituto Geologico della Universita di Pavia*,**,**
+*0365-6594*,*Iasi, Universitatea, Analele Stiintifice; Sectiunea 2, B, Geologie (Serie Noua) (continuation of Iasi, Universitatea, Analele Stiintifice, Sectiunea 2, Stiinte Naturale, B, Geologie-Geografie). Jassy.*,**,**
+*0365-6799*,*Annales - Societe Geologique du Nord*,**,**
+*0365-7000*,*Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft*,**,**
+*0365-7116*,*Archives des Sciences Physiques et Naturelles*,**,**
+*0365-7256*,*Iasi, Universitatea, Analele Stiintifice, Sectiunea 2, C, Geografie. Jassy.*,**,**
+*0365-7655*,*Atti della Societa Toscana di Scienze Naturali Residente in Pisa, Memorie, Serie A: Processi Verbali*,**,**
+*0365-8066*,*Acta Mineralogica-Petrographica (Szeged)*,**,**
+*0365-9844*,*Bericht der Naturhistorischen Gesellschaft zu Hannover*,**,**
+*0366-0176*,*Boletin Geologico y Minero*,**,**
+*0366-0710*,*Biuletyn - Instytutu Geologiczny*,**,*Z badan geologicznych regionu swietokrzyskiego; Tom 13*
+*0366-0818*,*Biologisch Jaarboek (Antwerpen)*,**,**
+*0366-0818*,*Biologisch Jaarboek. Gent.*,**,**
+*0366-0907*,*Byulleten' Komissiy po Izucheniyu Chetvertichnogo Perioda*,**,**
+*0366-1318*,*Byulleten' Moskovskogo Obshchestva Ispytateley Prirody, Otdel Geologicheskiy*,**,**
+*0366-1326*,*Bulletin Mensuel - Societe Linneenne de Lyon*,**,**
+*0366-2101*,*Boletim da Sociedade Geologica de Portugal*,**,**
+*0366-2241*,*Bollettino del Servizio Geologico d'Italia*,**,**
+*0366-3477*,*Bulletin de la Societe d'Histoire Naturelle de Toulouse*,**,**
+*0366-4198*,*Bulletin of the Geological Survey of Great Britain*,**,**
+*0366-4392*,*Bulletin du Museum d'Histoire Naturelle de Marseille*,**,**
+*0366-6611*,*Chikyu Kagaku = Earth Science*,**,**
+*0366-7634*,*Colloques Internationaux du Centre National de la Recherche Scientifique*,**,**
+*0366-872X*,*Decheniana*,**,**
+*0366-9130*,*Danmarks Geologiske Undersogelse, 2. Raekke = Geological Survey of Denmark, 2. Series*,**,**
+*0366-970X*,*Denkschriften der Schweizerischen Naturforschenden Gesellschaft = Memoires de la Societe Helvetiques des Sciences Naturelles*,**,**
+*0366-9726*,*Dari de Seama Ale Sedintelor, Comitetul de Stat el Geologiei*,**,**
+*0367-0430*,*Egyptian Journal of Geology*,**,**
+*0367-0449*,*Estudios Geologicos (Madrid)*,**,**
+*0367-2697*,*Fragmenta Mineralogica et Palaeontologica*,**,**
+*0367-4983*,*Glasnik Prirodnjackog Muzeja u Beogradu, Serija A: Mineralogija, Geologija, Paleontologija*,**,**
+*0367-5467*,*Godishnikh na Visshiya Minno-Geolozhki Institut - Sofia*,**,*1971-1972*
+*0368-0177*,*Bulletin de l'Institut Royal des Sciences Naturelles de Belgique*,**,**
+*0368-2307*,*Jahreshefte der Gesellschaft fuer Naturkunde in Wuerttemberg*,**,**
+*0368-489X*,*Annalen - Koninklijk Museum voor Midden-Afrika. Reeks in 8 (super 0) Geologische Wetenschappen = Annales - Musee Royal de l'Afrique Centrale. Serie in 8 (super 0) , Sciences Geologiques*,**,**
+*0368-8283*,*Memorias de la Real Academia de Ciencias y Artes de Barcelona*,**,**
+*0368-9654*,*Muenstersche Forschungen zur Geologie und Palaeontologie*,**,**
+*0368-9751*,*Magyar Allami Foldtani Intezet Evi Jelentese = Annual Report of the Hungarian Geological Institute*,**,**
+*0368-9840*,*Magyar Allami Foldtani Intezet Evkonyve = Annals of the Hungarian Geological Institute*,**,**
+*0368-993X*,*Memorie degli Istituti di Geologia e Mineralogia dell' Universita di Padova*,**,**
+*0369-0016*,*Mitteilungen aus dem Geologischen Staatsinstitut in Hamburg*,**,**
+*0369-1136*,*Mitteilungen des Naturwissenschaftlichen Vereines fuer Steiermark*,**,**
+*0369-1543*,*Mitteilungen der Pollichia des Pfalzischen Vereins fuer Naturkunde und Naturzchutz*,**,**
+*0369-2027*,*Memoires de la Societe Geologique de France*,**,**
+*0369-3368*,*Natuurwetenschappelijk Tijdschrift*,**,**
+*0369-5034*,*Nova Acta Leopoldina*,**,*Evolution*
+*0369-514X*,*Notizblatt des Hessischen Landesamtes fuer Bodenforschung zu Wiesbaden*,**,**
+*0369-5417*,*Skrifter - Norsk Polarinstitutt*,**,**
+*0369-6243*,*Natura (Milano)*,**,**
+*0369-8106*,*Praktika tes Akademias Athenon*,**,**
+*0370-0046*,*Proceedings of the Indian National Science Academy, Part A: Physical Sciences*,**,**
+*0370-0097*,*Proceedings of the Indian Academy of Sciences, Section B, Biological Sciences*,**,**
+*0370-047X*,*Proceedings of the Linnean Society of New South Wales*,**,**
+*0370-0623*,*Memorias dos Servicos Geologicos de Portugal*,**,**
+*0370-0623*,*Memorias dos Servicos Geologicos de Portugal*,**,*Fauna do Kimeridgiano da Mina de Lignito Guimarota*
+*0370-3401*,*Memoir - Republic of South Africa. Geological Survey*,**,**
+*0370-3878*,*Records of the Canterbury Museum*,**,**
+*0370-4467*,*REM. Revista Escola de Minas*,**,**
+*0370-5218*,*Bulletin - Rhodesia Geological Survey*,**,**
+*0370-5226*,*Records of the Geological Survey of India*,**,**
+*0370-7164*,*Revue Scientifique du Bourbonnais et du Centre de la France*,**,**
+*0370-9892*,*Memoires de la Societe Geologique et Mineralogique de Bretagne*,**,**
+*0370-9957*,*Studia Geologica, Universidad de Salamanca*,**,**
+*0371-2516*,*Search (Sydney)*,**,**
+*0371-3431*,*Sciences de la Terre*,**,**
+*0371-4047*,*Studia Universitatis Babes-Bolyai. Geologia-Mineralogia*,**,**
+*0371-5736*,*Dizhi Lunping = Geological Review*,**,**
+*0371-6023*,*Travaux et Documents de l'ORSTOM*,**,**
+*0371-7208*,*Verhandelinge van die Geologiese Vereniging van Suid Afrika = Transactions of the Geological Society of South Africa*,**,**
+*0371-7208*,*Verhandelinge van die Geologiese Vereniging van Suid Afrika = Transactions of the Geological Society of South Africa*,**,*Special Issue*
+*0372-1426*,*Transactions of the Royal Society of South Australia*,**,**
+*0372-3577*,*Trudy Zoologicheskogo Instituta*,**,**
+*0372-3739*,*Boletin - Universidad Nacional Autonoma de Mexico, Instituto de Geologia*,**,**
+*0372-8854*,*Zeitschrift fuer Geomorphologie*,**,**
+*0373-0786*,*Proceedings of the Indian Science Congress*,**,**
+*0373-0786*,*Proceedings of the Indian Science Congress*,**,*Abstracts*
+*0373-0972*,*Palaeontographia Italica*,**,**
+*0373-0972*,*Palaeontographia Italica*,**,*New Series Vol. 37*
+*0373-207X*,*Memoires - Institut Royal des Sciences Naturelles de Belgique = Verhandelingen - Koninklijk Belgisch Intituut voor Natuurwetenschappen*,**,**
+*0373-207X*,*Memoires - Institut Royal des Sciences Naturelles de Belgique = Verhandelingen - Koninklijk Belgisch Intituut voor Natuurwetenschappen*,**,*La faune du site paleolithique de Maisieres-Canal*
+*0373-2444*,*Izvestiya Akademii Nauk SSSR. Seriya Geograficheskaya*,**,**
+*0373-2851*,*Revue des Sciences Naturelles d'Auvergne*,**,**
+*0373-2940*,*Annales Odonto-Stomatologiques*,**,**
+*0373-3025*,*Bulletin de la Societe des Sciences Naturelles de l'Ouest de la France*,**,**
+*0373-3297*,*Bulletin - Societe Languedocienne de Geographie*,**,**
+*0373-4137*,*Bollettino di Zoologia*,**,**
+*0373-4668*,*Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afdeling Natuurkunde. Eerste Reeks*,**,**
+*0373-4927*,*Proceedings of the Cotteswold Naturalists' Field Club*,**,**
+*0373-5451*,*Bulletin de la Societe Prehistorique Francaise, Comptes Rendus des Seances Mensuelles*,**,**
+*0373-6474*,*Memorias e Noticias, Publicacoes do Museu e Laboratorio Mineralogico e Geologico de Universidade de Coimbra*,**,**
+*0373-6636*,*Nouvelles Archives du Museum d'Histoire Naturelle de Lyon*,**,**
+*0373-6954*,*Annals of the Geological Survey, Pretoria*,**,**
+*0373-7179*,*Ceskoslovensky Kras*,**,**
+*0373-7527*,*Proceedings - University of Bristol Spelaeological Society*,**,**
+*0373-9015*,*Bulletin de la Societe Geologique de Normandie et des Amis du Museum du Havre*,**,**
+*0373-9015*,*Bulletin de la Societe Geologique de Normandie et des Amis du Museum du Havre*,**,*Journees Lennier No. l*
+*0373-9627*,*Zitteliana*,**,**
+*0373-9902*,*Ljetopis Jugoslavenkse Akademije Znanosti i Umjetnosti*,**,**
+*0373-9929*,*Annales de la Societe des Sciences Naturelles de la Charente-Maritime*,**,**
+*0374-0706*,*Bulletin de la Societe d'Histoire Naturelle de Colmar*,**,**
+*0374-1346*,*Bulletin d'Information des Geologues du Bassin de Paris*,**,**
+*0374-3268*,*Geos (Ottawa)*,**,**
+*0374-518X*,*Annali della Universita di Ferrara, Sezione IX: Scienze Geologiche e Paleontologiche*,**,**
+*0374-5708*,*Aquila*,**,**
+*0374-6291*,*Bulletin de l'Institut Royal des Sciences Naturelles de Belgique. Sciences de la Terre*,**,**
+*0374-6771*,*Carinthia II*,**,**
+*0374-7123*,*Comunicaciones Paleontologicas del Museo de Historia Natural de Montevideo*,**,**
+*0374-7441*,*The Emu*,**,**
+*0374-7832*,*Memorie Geopaleontologiche dell'Universita de Ferrara*,**,**
+*0374-8480*,*International Union of Geological Sciences. Series A*,**,*The Silurian-Devonian boundary*
+*0374-9789*,*Notes et Memoires du Service Geologique (Rabat)*,**,**
+*0374-9843*,*Notes du Service Geologique du Maroc*,**,**
+*0374-9843*,*Notes du Service Geologique du Maroc*,**,*Notes Tome 39*
+*0375-0442*,*Palaeontographica. Abteilung A: Palaeozoologie-Stratigraphie*,**,**
+*0375-1821*,*Saito Ho-On Kai Museum Research Bulletin*,**,**
+*0375-233X*,*South African Museum Report*,**,**
+*0375-5568*,*Reprint Series - American Association of Petroleum Geologists. Tulsa.*,**,**
+*0375-5576*,*Abstracts of Papers Presented at the Annual Meeting - American Association of Stratigraphic Palynologists*,**,**
+*0375-572X*,*Annual Meeting - Association of Engineering Geologists*,**,**
+*0375-6238*,*Cuadernos de Espeleologia*,**,**
+*0375-6300*,*Environment Southwest*,**,**
+*0375-6440*,*Special Publication - Geological Society of London*,**,**
+*0375-6491*,*Geology and Palaeontology of Southeast Asia*,**,**
+*0375-6718*,*Johns Hopkins University, Studies in Geology*,**,**
+*0375-6858*,*Miscellaneous Publication - Louisiana State University, School of Geoscience*,**,**
+*0375-6882*,*Guidebook - Maryland Geological Survey*,**,**
+*0375-6912*,*Mineral Digest*,**,**
+*0375-7374*,*General Geology Report - Pennsylvania Geological Survey*,**,*Geology and biology of Pennsylvania caves*
+*0375-7447*,*Annual Research Memoirs - Poona, Central Water and Power Research Station*,**,**
+*0375-7471*,*Quartaer*,**,**
+*0375-7536*,*Revista Brasileira de Geociencias*,**,**
+*0375-7587*,*Scripta Geologica*,**,**
+*0375-7633*,*Bolletino della Societa Paleontologica Italiana*,**,**
+*0375-7773*,*Tektonika i Stratigrafiya (Kiev)*,**,**
+*0375-8095*,*Universum (Horn, Oesterreich)*,**,**
+*0375-9857*,*Memorie della Societa Geologica Italiana*,**,**
+*0376-0375*,*Los Angeles County Museum, Contributions in Science.*,**,**
+*0376-1444*,*Trudy Paleontologicheskogo Instituta*,**,**
+*0376-2556*,*Jahrbuch des Oberoesterreichischen Musealvereines Gesellschaft fuer Landeskunde, Abhandlungen*,**,**
+*0376-2734*,*Palaeontographical Society Monographs*,**,**
+*0376-4230*,*Contributions to Vertebrate Evolution*,**,**
+*0376-5156*,*Geophytology*,**,**
+*0377-2071*,*NATO ASI Series. Series C: Mathematical and Physical Sciences*,**,*The continental Permian in central, West, and South Europe*
+*0377-8398*,*Marine Micropaleontology*,**,**
+*0378-0589*,*Dari de Seama ale Sedintelor - Institutul de Geologie si Geofizica. 1. Mineralogie-Petrologie-Geochimie*,**,*5. Tectonica si geologie regionala*
+*0378-0589*,*Dari de Seama ale Sedintelor - Institutul de Geologie si Geofizica. 1. Mineralogie-Petrologie-Geochimie*,**,*Paleontologie*
+*0378-102X*,*Cuadernos de Geologia Iberica*,**,**
+*0378-4029*,*Geological Survey of India News*,**,**
+*0378-6617*,*Revista Geologica de Chile*,**,**
+*0378-6862*,*Jahresbericht - Landesmuseum Joanneum Graz*,**,**
+*0378-6862*,*Jahresbericht - Landesmuseum Joanneum Graz*,**,*Neue Folge 6*
+*0378-8482*,*Revista Geografica de Chile*,**,**
+*0378-8695*,*Berichte aus dem Haus der Natur in Salzburg, Abteilung B, Geologisch-Mineralogische Sammlungen*,**,**
+*0379-1432*,*Mitteilungen der Abteilung fuer Geologie, Palaeontologie und Bergbau am Landesmuseum Joanneum*,**,**
+*0379-1807*,*Bulletin de la Societe Belge de Geologie = Bulletin van de Belgische Vereniging voor Geologie*,**,**
+*0379-5098*,*Bulletin - Indian Geologists' Association*,**,**
+*0379-5101*,*Himalayan Geology*,**,**
+*0379-5128*,*Indian Journal of Earth Sciences*,**,**
+*0379-5160*,*Journal of the Indian Academy of Geoscience*,**,**
+*0379-5225*,*Palaeontologia Indica*,**,**
+*0379-5306*,*Die Karinthin*,**,**
+*0379-5454*,*INSA Bulletin*,**,**
+*0379-6825*,*Compte Rendu - Congres International de Stratigraphie et de Geologie du Carbonifere = International Congress on Carboniferous Stratigraphy and Geology.*,**,**
+*0379-7902*,*Analele Stiintifice ale Universitatii "Al. I. Cuza" din Iasi (Serie Noua), Sectiunea 2b: Geologie-Geografie*,**,**
+*0384-8159*,*Life Sciences Contributions - Royal Ontario Museum*,**,**
+*0385-0900*,*Mizunami-shi Kadeki Hakubutsukan Kenkyu Hokoku = Bulletin of the Mizunami Fossil Museum*,**,**
+*0385-244X*,*Bulletin of the National Science Museum. Series C: Geology and Paleontology*,**,**
+*0385-4019*,*Kagoshima Daigaku, Rigakubu Kiyo Chigaku, Seibutsugaku = Reports of the Faculty of Science, Kagoshima University: Earth Sciences and Biology*,**,**
+*0385-8545*,*Chishitsugaku Ronshu = Memoirs of the Geological Society of Japan*,**,**
+*0388-6182*,*Science Reports of the Institute of Geoscience, University of Tsukuba, Section B: Geological Sciences*,**,**
+*0390-2196*,*Geo-Archeologia*,**,**
+*0391-1764*,*Atti e Memorie della Commissione Grotte Eugenio Boegan*,**,**
+*0391-9838*,*Geografia Fisica e Dinamica Quaternaria*,**,**
+*0392-0062*,*Bollettino del Museo Civico di Storia Naturale di Verona*,**,**
+*0392-3037*,*Rendiconti della Societa Geologica Italiana*,**,**
+*0397-2844*,*Geologie Mediterraneenne*,**,**
+*0397-2844*,*Geologie Mediterraneenne*,**,*Stratigraphic et paleontol. des invertebres*
+*0399-1725*,*Nouvelles Archives du Museum d'Histoire Naturelle de Lyon. Supplement*,**,**
+*0400-9673*,*Materialy po Istoriy Fauny i Flory Kazakhstana*,**,**
+*0402-4664*,*Annales Geologiques des Pays Helleniques*,**,**
+*0408-9510*,*Memoire - Service Geologique de Belgique*,**,**
+*0418-2642*,*Daiyonki-Kenkyu = Quaternary Research*,**,**
+*0418-6559*,*Rapport - Groenlands Geologiske Undersoegelse = Report - Geological Survey of Greenland*,**,**
+*0424-7116*,*Eiszeitalter und Gegenwart*,**,**
+*0424-7116*,*Eiszeitalter und Gegenwart*,**,*State of research on the Quaternary of the Federal Republic of Germany*
+*0433-4795*,*Geologicke Prace, Zpravy*,**,**
+*0435-3927*,*Geologica Romana*,**,**
+*0435-3951*,*Geological Journal, Special Issue*,**,**
+*0435-4281*,*Geomorfologiya*,**,**
+*0435-5407*,*Guidebook - Georgia Geological Society*,**,**
+*0438-9557*,*Deltio tes Ellenikes Geologikes Etaireias = Bulletin of the Geological Society of Greece*,**,**
+*0439-3112*,*Wissenschaftliche Beihefte zur Zeitschrift "Die Hoehle"*,**,**
+*0440-7423*,*Abhandlungen des Hessischen Landesamtes fuer Bodenforschung*,**,**
+*0449-1653*,*Actas de las Jornadas Geologicas Argentinas*,**,**
+*0449-1947*,*Journal de Physique. Colloques*,**,**
+*0452-8220*,*Kumamoto Journal of Science, Series B, Section 1: Geology*,**,**
+*0453-2902*,*K'ao-Ku Hsueh-pao = Acta Archaeologia Sinica = Kaogu Xuebao*,**,**
+*0454-4072*,*Korea Today (Pyongyang)*,**,**
+*0454-5419*,*Special Publication - Kroeber Anthropological Society*,**,**
+*0454-7810*,*Memoirs of the Faculty of Science. Kyoto University. Series of Geology and Mineralogy*,**,**
+*0459-8113*,*Contributions in Science*,**,**
+*0464-9249*,*Publicaciones del Museo Municipal de Ciencias Naturales de Mar del Plata "Lorenzo Scaglia."*,**,**
+*0473-7334*,*Obshchiye Voprosy Evolyutsionnoy Paleobiologiy*,**,**
+*0490-4117*,*Speleon (Oviedo)*,**,**
+*0496-456X*,*Notes du Service Geologique, Republique Tunisienne*,**,**
+*0496-456X*,*Notes du Service Geologique, Republique Tunisienne*,**,*Travaux de geologie tunesienne No. 10*
+*0496-456X*,*Notes du Service Geologique, Republique Tunisienne*,**,*Travaux de geologie tunisienne No. 9*
+*0505-1169*,*Boletin de Geologia Publicacion Especial*,**,**
+*0505-9844*,*Voprosy Geografii Kazakhstana*,**,*Geografiya prirodnykh resursov Kazakhstana*
+*0506-7839*,*Vertebrata Hungarica*,**,**
+*0506-8061*,*Vestnik Zoologii (Akademiya Nauk Ukrainskoy SSR, Instituta Zoologii). Kiev.*,**,**
+*0513-2622*,*Science Report of the Yokosuka City Museum*,**,**
+*0513-5613*,*Science Reports of the Yokohama National University. Section 2: Biological and Geological Sciences*,**,**
+*0514-7468*,*Zhizn' Zemli*,**,**
+*0519-4334*,*Der Aufschluss, Sonderheft*,**,**
+*0520-9455*,*Breviora Geologica Asturica*,**,**
+*0521-2359*,*Casopis Moravskeho Musea, Vedy Prirodni = Acta Musei Moraviae, Scientiae Naturales*,**,**
+*0521-4726*,*Annales Historico-Naturales = Termeszettudomanyi Muzeum, Evkoenyve)*,**,**
+*0522-9863*,*Wissenschaftliche Zeitschrift der Humboldt-Universitaet zu Berlin: Mathematisch-Naturwissenschaftliche Reihe*,**,**
+*0522-9944*,*Abhandlungen des Zentralen Geologischen Instituts*,**,*Das Pleistozaen von Weimar-Ehringsdorf, Teil 1*
+*0522-9944*,*Abhandlungen des Zentralen Geologischen Instituts*,**,*Das Pleistozaen von Weimar-Ehringsdorf; Teil 2*
+*0522-9944*,*Abhandlungen des Zentralen Geologischen Instituts*,**,*Das Pleistozaen von Weimar-Ehringsdorf; Teil 2 Teil 2*
+*0522-9944*,*Abhandlungen des Zentralen Geologischen Instituts*,**,*III. Int. Palaeontologisches Kolloquium 1968*
+*0523-0160*,*Berliner Geographische Abhandlungen*,**,**
+*0523-056X*,*Annales Scientifiques de l'Universite de Besancon. Geologie*,**,**
+*0524-6474*,*Report on the British Museum (Natural History)*,**,**
+*0524-9511*,*Revista del Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" e Instituto Nacional de Investigacion de las Ciencias Naturales: Paleontologia*,**,**
+*0532-9493*,*Fossil Vertebrates of Africa*,**,**
+*0534-0403*,*Goettinger Arbeiten zur Geologie und Palaeontologie*,**,**
+*0540-4207*,*Educational Series - Missouri Geological Survey and Water Resources*,**,**
+*0540-8733*,*Mines et Geologie*,**,**
+*0541-8607*,*Revista de la Universidad de Madrid (1940)*,**,*Tesis doctorales; curso 1973-1974*
+*0544-7631*,*Bulletin du Musee d'Anthropologie Prehistorique de Monaco*,**,**
+*0548-9784*,*Report NZGS*,**,**
+*0551-2018*,*Travaux de l'Institut de Geologie et d'Anthropologie Prehistorique de la Faculte des Sciences de Poitiers*,**,**
+*0552-9352*,*Palaeontologia Jugoslavica*,**,**
+*0552-9360*,*Journal of the Palaeontological Society of India*,**,**
+*0554-288X*,*The Plaster Jacket*,**,**
+*0555-7623*,*Research Bulletin of the East Panjab University*,**,**
+*0556-655X*,*Revista Espanola de Micropaleontologia*,**,**
+*0556-8102*,*Revue Roumaine de Geologie, Geophysique et Geographie, Serie de Geologie*,**,**
+*0557-4609*,*Studii Tehnice si Economice - Institutul Geologic, Seria J, Stratigrafie*,**,**
+*0560-3137*,*Slovensky Kras*,**,**
+*0561-077X*,*Bulletin of the South Texas Geological Society*,**,**
+*0563-5020*,*Dizhi Kexue = Scientia Geologica Sinica*,**,**
+*0567-6096*,*Studii si Cercetari de Geologie, Geofizica, Geografie. Seria Geologie*,**,**
+*0567-655X*,*Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences, Serie D: Sciences Naturelles*,**,**
+*0567-6576*,*Bulletin de l'Academie et de la Societe Lorraine des Sciences*,**,**
+*0567-7475*,*Acta Geographica Debrecina*,**,**
+*0567-7505*,*Acta Geologica Hispanica*,**,**
+*0567-7513*,*Acta Geologica Lilloana*,**,**
+*0567-7920*,*Acta Palaeontologica Polonica*,**,**
+*0568-6156*,*Trudy - Institut Geologii*,**,**
+*0568-658X*,*Trudy Instituta Geologii i Geofiziki (Novosibirsk)*,**,**
+*0568-658X*,*Trudy Instituta Geologii i Geofiziki (Novosibirsk)*,**,*Tobol'skiy gorizont Sibirskogo pleystotsena*
+*0570-1627*,*Annales de Paleontologie. Vertebres*,**,**
+*0570-1880*,*Annals of the Cape Provincial Museums. Natural History*,**,**
+*0570-9652*,*Publication - Arizona State University. Center for Meteorite Studies*,**,**
+*0572-4295*,*Proceedings of the Association of American Geographers*,**,**
+*0576-758X*,*Transactions of the Caribbean Geological Conference = Memorias - Conferencia Geologica del Caribe*,**,**
+*0578-1655*,*Zhongguo Kexueyuan. Nanjing Dizhi Gushengwu Yunjiusuo Jikan = Memoirs of Nanjing Institute of Geology and Palaeontology*,**,**
+*0579-4706*,*Miscellaneous Publications, Geological Survey of India*,**,**
+*0579-9406*,*Vestnik Moskovskogo Universiteta, Seriya 4, Geologiya. Moscow.*,**,**
+*0581-3662*,*Saitama Daigaku Kiyo. Shizen Kagaku-hen = Journal of Saitama University. Natural Science*,**,**
+*0583-063X*,*Journal of the Faculty of Science. Shinshu University*,**,**
+*0583-7510*,*Boletin de la Real Sociedad Espanola de Historia Natural, Seccion Geologica*,**,**
+*0583-7731*,*Boletin de la Sociedad Venezolana de Espeleologia*,**,**
+*0583-8789*,*Bulletin de la Societe Prehistorique Francaise, Etudes et Travaux*,**,**
+*0584-3367*,*Geologic Notes - South Carolina Geological Survey*,**,**
+*0585-718X*,*Studies in Speleology*,**,**
+*0587-1247*,*Studia Geographica (Brno)*,**,**
+*0589-9036*,*Research Report - Council for British Archaeology*,**,**
+*0591-2776*,*Acta Universitatis Wratislaviensis. Studia Geograficzne*,**,*Acta Univ. Wratislaviensis No. 329*
+*0701-7464*,*Report - Nova Scotia Department of Mines*,**,**
+*0703-1130*,*Memoir - Canadian Society of Petroleum Geologists*,**,*The Permian and Triassic systems and their mutual boundary*
+*0704-576X*,*Syllogeus - National Museum of Natural Sciences*,**,**
+*0705-3797*,*Episodes*,**,**
+*0705-7199*,*Geographie Physique et Quaternaire*,**,**
+*0706-2168*,*Canadian Geographic*,**,**
+*0707-2996*,*Paper - Geological Survey of Canada*,**,**
+*0707-3887*,*Natural History Contributions*,**,**
+*0731-3101*,*Proceedings of the Annual Conference on the Quaternary History of the Southeastern United States*,**,**
+*0731-616X*,*Educational Series - Kansas Geological Survey*,**,**
+*0741-059X*,*Program and Abstracts - American Quaternary Association. Conference*,**,**
+*0750-6228*,*Travaux des Laboratoires des Sciences de la Terre, Serie B*,**,**
+*0750-7488*,*Paleobiologie Continentale*,**,**
+*0774-9538*,*Document - Conseil Geologique*,**,**
+*0801-4736*,*Norsk Geologisk Tidsskrift, Supplement*,**,**
+*0810-6193*,*Bulletin - Australian Mammal Society*,**,**
+*0870-0397*,*Memorias e Noticias, Publicacoes do Museu e Laboratorio Mineralogico e Geologico da Universidade de Coimbra*,**,**
+*0885-4629*,*Memoirs of the California Academy of Sciences*,**,**
+*0885-8373*,*Reports of Investigations - Southern Methodist University, Institute for the Study of Earth and Man*,**,**
+*0885-8373*,*Reports of Investigations - Southern Methodist University, Institute for the Study of Earth and Man*,**,*Prehistory and paleoenvironments in the central Negev, Israel*
+*0885-8683*,*Paper - Nebraska Geological Survey Paper*,**,**
+*1012-7917*,*Studii Tehnice si Economice - Institutul Geologic, Seria H, Geologia Cuaternarului*,**,**
+*1016-4960*,*Mitteilungen der Naturforschenden Gesellschaft Luzern*,**,**
+*1017-5563*,*Beitraege zur Palaeontologie von Oesterreich*,**,**
+*1023-3210*,*Report of the ... Session - International Geological Congress*,**,**
+*1044-9612*,*U. S. Geological Survey Professional Paper*,**,**
+*1148-8425*,*Bulletin du Museum National d'Histoire Naturelle*,**,**
+*26ZYAX*,*Congreso Hispano-Luso-Americano de Geologia Economica, [Trabajos]*,**,**
+*30ZXAZ*,*INQUA, The New Zealand Quaternary: An Introduction. Christchurch, N. Z.*,**,**
+*8755-531X*,*U. S. Geological Survey Bulletin*,**,**
+*AGSIDP*,*Acta Geol. Sin. (Engl. transl.)*,**,*1*
+*AIGLAJ*,*Academia de Ciencias de Cuba, Instituto de Geologia, Actas*,**,**
+*AJPFAJ*,*Atlas of Japanese Fossils*,**,**
+*AMOGA4*,*Association of Missouri Geologists, Annual Field Trip, Guidebook.*,**,**
+*AMOGA4*,*Association of Missouri Geologists, Annual Field Trip, Guidebook.*,**,*Pennsylvanian-Pleistocene channel fill, Warrensburg, Mo.*
+*ARKLAY*,*Arkheologiya*,**,**
+*BCGCBU*,*Association Geologique Carpatho-Balkanique, Congres, Bulletin.*,**,**
+*BGRSAO*,*Bulletin - Groupement International pour la Recherche Scientifique en Stomatologie*,**,**
+*BIMICJ*,*Biomineralisation, Forschungsberichte--Biomineralization, Research Reports*,**,**
+*BSBPAJ*,*Bulletin de la Societe Belge de Geologie, de Paleontologie et d'Hydrologie*,**,**
+*CGBGAL*,*Anais do Congresso*,**,**
+*CISAAY*,*Congres International de Speleologie, Actes--International Congress of Speleology, Proceedings.*,**,**
+*EGSVA3*,*Paper - Geological Survey of Egypt*,**,**
+*EQUPDY*,*Etudes Quaternaires; Geologie, Paleontologie, Prehistoire: Memoire*,**,**
+*EQUPDY*,*Etudes Quaternaires; Geologie, Paleontologie, Prehistoire: Memoire*,**,*La grotte de l'Hortus*
+*FCANDB*,*Fossilium Catalogus, I: Animalia*,**,**
+*FSYBAY*,*U. S. National Marine Fisheries Service, Fishery Bulletin*,**,**
+*GARMAJ*,*Guidebook - Geological Society of America, Rocky Mountain Section*,**,**
+*GKGSDL*,*Guidebook Series - Kansas Geological Survey*,**,**
+*GRIEB2*,*Royal Institution Library of Science, Earth Science*,**,**
+*GSMNBM*,*Geological Society of Malaysia--Kesatuan Kajibumi Malaysia, Newsletter*,**,**
+*GWSYAA*,*International Gondwana Symposium*,**,**
+*GWSYAA*,*International Gondwana Symposium*,**,*Gondwana geology*
+*IGCGBP*,*Guidebook - International Geological Congress*,**,**
+*IGPAA3*,*Bulgarska Akademiya na Naukite, Geologicheski Institut, Izvestiya, Seriya Paleontologiya*,**,**
+*IOGPAP*,*Special Paper - India, Oil and Natural Gas Commission, Directorate of Geology*,**,**
+*JHGEDP*,*Journal of Historical Geography. Academic Press, London.*,**,**
+*NTNCBA*,*Noveyshaya Tektonika, Noveyshiye Otlozheniya i Chelovek, Sbornik*,**,**
+*PASCDS*,*Panorami Scientifici*,**,**
+*RGEHAY*,*Institutul Geologic, Studii Tehnice si Economice, Seria E, Hidrogeologie*,**,**
+*SCMVDY*,*Museo Civico di Storia Naturale di Verona, Serie Cataloghi*,**,**
+*SMMMB7*,*Monograph - Science Museum of Minnesota*,**,**
+*SPPGAO*,*Field Trip Guidebook - Pacific Section, Society of Economic Paleontologists and Mineralogists*,**,*The Paleogene of the Panoche Creek-Cantua Creek area*
+*TERIDB*,*Teriologiya*,**,**
+*TMSGBU*,*Mezhdunarodnyy Simpozium po Granitse Silura i Devona i Stratigrafii Nizhnego i Srednego Devona, Trudy.*,**,**
+*ZOREAU*,*Zool. Rec.*,**,**
+

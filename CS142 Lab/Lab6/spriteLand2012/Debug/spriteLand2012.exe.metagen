@@ -1,0 +1,41 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spriteLand2012, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly spriteLib, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spriteLib.SpriteWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getSpriteWindow(): PrivateScope, Public, Static, HideBySig
+    reportCollision(cpShape*, cpShape*): PrivateScope, Public, HideBySig
+    getSpriteFromShape(cpShape*): PrivateScope, Public, HideBySig
+    setWindowSize(Int32, Int32): PrivateScope, Public, HideBySig
+    addSprite(Sprite* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    requestDrawing(DrawRequest): PrivateScope, Public, HideBySig
+    rotate(Single* IsImplicitlyDereferenced, Single* IsImplicitlyDereferenced, Single, Single, Single): PrivateScope, Public, HideBySig
+    distance(Sprite*, Sprite*): PrivateScope, Public, Static, HideBySig
+    distance(Single, Single, Single, Single): PrivateScope, Public, Static, HideBySig
+    isColliding(Sprite*, Sprite*): PrivateScope, Public, Static, HideBySig
+    keydownHandler(Object, KeyEventArgs): PrivateScope, Public, HideBySig
+    resizeHandler(Object, EventArgs): PrivateScope, Public, HideBySig
+    mouseClickHandler(Object, MouseEventArgs): PrivateScope, Public, HideBySig
+    getRefreshesPerSecond(): PrivateScope, Public, HideBySig
+    setRefreshesPerSecond(Int32): PrivateScope, Public, HideBySig
+    paintHandler(Object, PaintEventArgs): PrivateScope, Public, HideBySig
+Class spriteLib.PointerBox: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(spriteLib.Sprite*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    spriteLib.Sprite* pointer_ : Public

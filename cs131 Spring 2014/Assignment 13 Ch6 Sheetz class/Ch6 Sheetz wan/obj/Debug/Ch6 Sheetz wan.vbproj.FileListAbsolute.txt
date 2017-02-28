@@ -1,0 +1,118 @@
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.vbproj.GenerateResource.Cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SplashScreen1.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+h:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+h:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+h:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SplashScreen1.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SplashScreen1.resources
+P:\private\CS 131 SPRING 2011\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.vbproj.GenerateResource.Cache
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SplashScreen1.resources
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.read.1.tlog
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.write.1.tlog
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.read.1.tlog
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.write.1.tlog
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\CS131 Spring 2012\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+P:\private\CS131 Spring 2012\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+P:\private\CS131 Spring 2012\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.read.1.tlog
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\obj\Debug\ResGen.write.1.tlog
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+C:\Users\norko_w\Documents\Ch6 Sheetz wan\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\ResGen.read.1.tlog
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\ResGen.write.1.tlog
+E:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+E:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+E:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+F:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+F:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+F:\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+P:\cs131Spring 2014\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+P:\cs131Spring 2014\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+P:\cs131Spring 2014\Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+P:\cs131Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+P:\cs131Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+P:\cs131Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.exe
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.pdb
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\bin\Debug\Ch6 Sheetz wan.xml
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.drinksForm.resources
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.FinishForm.resources
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.SandwichForm.resources
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.Resources.resources
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6_Sheetz_wan.splash.resources
+P:\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 13 Ch6 Sheetz class\Ch6 Sheetz wan\obj\Debug\Ch6 Sheetz wan.pdb

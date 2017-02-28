@@ -1,0 +1,5 @@
+*Taeniolabididae*,*Catopsalis*,**,**,**,*utahensis*
+*Chauliodontidae*,*Chauliodus*,**,**,**,*barbatus frazeri*
+*Chauliodontidae*,*Chauliodus*,**,**,**,*eximus*
+*Seymouriamorpha*,*Kotlassiidae*,**,**,**,*Kotlassia (= Karpinskiosaurus)*
+

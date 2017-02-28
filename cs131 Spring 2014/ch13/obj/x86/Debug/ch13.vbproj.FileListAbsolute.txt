@@ -1,0 +1,9 @@
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.Form1.resources
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.Resources.resources
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\ch13\bin\Debug\ch13.exe
+P:\cs131 Spring 2014\ch13\bin\Debug\ch13.pdb
+P:\cs131 Spring 2014\ch13\bin\Debug\ch13.xml
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.exe
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.xml
+P:\cs131 Spring 2014\ch13\obj\x86\Debug\ch13.pdb

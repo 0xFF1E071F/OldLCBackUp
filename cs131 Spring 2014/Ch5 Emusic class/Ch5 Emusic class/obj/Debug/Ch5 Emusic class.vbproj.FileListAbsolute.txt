@@ -1,0 +1,80 @@
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.vbproj.GenerateResource.Cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+G:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+G:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+G:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+F:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+F:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+F:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+E:\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+E:\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+E:\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResolveAssemblyReference.cache
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.read.1.tlog
+E:\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.write.1.tlog
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResolveAssemblyReference.cache
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.read.1.tlog
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\public\CS131 Shared Folder\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Shared Folder fall2011\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\private\CS131 Shared Folder fall2011\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\private\CS131 Shared Folder fall2011\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.read.1.tlog
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\private\CS131 Spring 2012\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Spring_fall 2013\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\private\CS131 Spring_fall 2013\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\private\CS131 Spring_fall 2013\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\private\CS131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\private\CS131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\private\CS131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+P:\cs131Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.exe
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.xml
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.pdb
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.exe
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.pdb
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\bin\Debug\Ch5 Emusic class.xml
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Form1.resources
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5_Emusic_class.Resources.resources
+P:\cs131 Spring 2014\Ch5 Emusic class\Ch5 Emusic class\obj\Debug\Ch5 Emusic class.vbproj.GenerateResource.Cache

@@ -1,0 +1,3396 @@
+83,10,*Berta, Annalisa*,**,**
+83,20,*de Muizon, Christian*,**,**
+83,21,*Bond, Mariano*,**,**
+83,30,*Thomas, Herbert*,**,**
+83,31,*Morales, Jorge*,**,**
+83,31,*Heintz, Emile*,**,**
+83,40,*Topachevskiy, Vadim Aleksandrovich*,**,**
+83,41,*Pashkov, A. V.*,**,**
+83,50,*Korotkevich, Yelena Leonidovna*,**,**
+83,51,*Krakhmal'naya, T. V.*,*Krakhmalnaya, T. V.*,**
+83,60,*Belan, N. G.*,**,**
+83,70,*Nesin, V. A.*,**,**
+83,80,*Bibikova, V. I.*,**,**
+83,81,*Belan, N. G.*,**,**
+83,90,*Rage, Jean-Claude*,**,**
+83,91,*Rocek, Zbynek*,**,**
+83,100,*Vanura, Jaromir*,**,**
+83,110,*Caretto, Pier Giuseppe*,**,**
+83,111,*Giacobini, Giacomo*,**,**
+83,120,*Velichko, Andrey Alekseyevich*,**,**
+83,121,*Markova, Anastasiya Konstantinovna*,**,**
+83,121,*Pevzner, Mikhail Abramovich*,**,**
+83,121,*Udartsev, V. P.*,*Udartzev, V. P.*,**
+83,130,*Lozovskiy, V. R.*,**,**
+83,140,*Krasilov, Valentin Abramovich*,*Krassilov, V. A.*,**
+83,150,*Nesov, Lev A.*,**,**
+83,151,*Gureyev, Aleksey Aleksandrovich*,*Gurev, A. A.*,**
+83,160,*Kurochkin, Yevgeniy Nikolayevich*,**,**
+83,170,*Laukhin, Stanislav Alekseyevich*,**,**
+83,171,*Rybakova, N. O.*,**,**
+83,180,*Meltzer, David J.*,**,**
+83,181,*Mead, Jim I.*,**,**
+83,190,*MacFadden, Bruce J.*,**,**
+83,191,*Siles, Oscar*,**,**
+83,191,*Zeitler, Peter*,**,**
+83,191,*Johnson, Noye M.*,**,**
+83,191,*Campbell, Kenneth E., Jr.*,**,**
+83,200,*Madden, Cary Thomas*,**,**
+83,210,*Repenning, Charles A.*,**,**
+83,220,*Howell, Francis Clark*,**,*r*
+83,230,*Lutidze, B. I.*,**,**
+83,240,*Purdue, James R.*,**,**
+83,250,*Wood, Bernard A.*,**,**
+83,251,*Abbott, S. A.*,**,**
+83,260,*Moore, William James*,*Moore, W. J.*,*r*
+83,270,*Lewis, O. J.*,**,**
+83,280,*Wood, Bernard A.*,**,**
+83,281,*Abbott, S. A.*,**,**
+83,281,*Graham, S. H.*,**,**
+83,290,*Moore, William James*,**,*r*
+83,300,*Mayer, Anton*,**,**
+83,301,*Raschko, Herbert*,**,**
+83,301,*Wirth, Josef*,**,**
+83,310,*Agnew, Neville H.*,**,**
+83,311,*Oxnam, Warren B.*,**,**
+83,320,*Lehman, Jean-Pierre*,**,**
+83,330,*Stuenes, Solweig*,**,**
+83,340,*Scarlett, Ron J.*,**,**
+83,350,*Galton, Peter M.*,**,**
+83,360,*Steurbaut, Etienne*,**,**
+83,370,*Rachl, Renate*,**,**
+83,380,*Sandelowsky, Beatrice H.*,**,**
+83,390,*Mossman, David J.*,**,**
+83,391,*Sarjeant, William A. S.*,**,**
+83,400,*Wu Rukang*,**,**
+83,401,*Lin Shenglong*,**,**
+83,410,*Anderson, Wayne I.*,**,**
+83,411,*Furnish, William M.*,**,**
+83,420,*McDonald, H. Gregory*,**,**
+83,421,*Anderson, Duane C.*,**,**
+83,430,*Fahlbusch, Volker*,**,**
+83,431,*Qiu Zhuding*,**,**
+83,431,*Storch, Gerhard*,**,**
+83,440,*Chen Shixiang*,**,**
+83,450,*Fahlbusch, Volker*,*Fa'erbushi, V.*,**
+83,451,*Qiu Zhuding*,**,**
+83,451,*Storch, Gerhard*,*Shituoxi, G.*,**
+83,460,*Boeger, Horst*,**,**
+83,470,*Mader, Detlef*,**,**
+83,480,*Barsbold, Rinchengiyn*,**,**
+83,490,*Woodburne, Michael O.*,**,**
+83,500,*Schindel, David E.*,**,**
+83,510,*Damuth, John*,**,**
+83,520,*Klippel, Walter E.*,**,**
+83,521,*Parmalee, Paul W.*,**,**
+83,530,*Lavina, Ernesto Luiz*,**,**
+83,540,*Anonymous*,**,**
+83,550,*de Paula Couto, Carlos*,**,**
+83,560,*de Paula Couto, Carlos*,**,**
+83,570,*de Paula Couto, Carlos*,**,**
+83,580,*Richter, Martha*,**,**
+83,590,*Lockley, Martin G.*,**,**
+83,591,*Young, Bennett H.*,**,**
+83,591,*Carpenter, Kenneth*,**,**
+83,600,*Jain, Sohan Lall*,*Jain, Sohan L.*,**
+83,610,*Madden, Cary Thomas*,**,**
+83,620,*Tripathi, Chintamani*,**,**
+83,621,*Basu, Parimal Kumar*,**,**
+83,630,*Tripathi, Chintamani*,**,**
+83,631,*Dass, Seva*,**,**
+83,631,*Jamwal, J. S.*,**,**
+83,640,*Anonymous*,**,**
+83,650,*Madeira, Jose*,**,**
+83,651,*Dias, Rui*,**,**
+83,660,*de Carvalho, Delfim*,**,**
+83,670,*Zbyszewski, Georges*,**,**
+83,671,*Goncalves, F.*,**,**
+83,680,*Mustoe, G. F.*,**,**
+83,681,*Pevear, David R.*,*Pevear, D. R.*,**
+83,690,*Steurbaut, Etienne*,**,**
+83,700,*Gautier, Achilles*,**,*r*
+83,710,*Sartoni, Samuele*,**,**
+83,720,*Rieppel, Olivier*,**,**
+83,730,*Westergaard, Bjarne*,**,**
+83,740,*Rieppel, Olivier*,**,*r*
+83,750,*Andersen, Nils Moeller*,*Andersen, N. Moeller*,*r*
+83,760,*Herre, Wolf*,**,*r*
+83,770,*Rieppel, Olivier*,**,**
+83,780,*Herre, Wolf*,**,*r*
+83,790,*Groves, Colin P.*,**,**
+83,800,*Breton, Gerard*,**,**
+83,810,*Debris, Jean-Pierre*,**,**
+83,811,*Merigot, J.-M.*,**,**
+83,820,*Buffetaut, Eric*,**,**
+83,830,*Rioult, Michel*,**,**
+83,831,*Mourdon, Roger*,**,**
+83,840,*Buffetaut, Eric*,**,**
+83,850,*de Heinzelin, Jean*,*de Heinzelin de Braucourt, Jean*,**
+83,860,*Bone, Edouard*,**,**
+83,870,*Wouters, Georges*,**,**
+83,871,*Lepage, Jean-Claude*,*Lepage, J. Cl.*,**
+83,871,*Coupatez, Paul*,**,**
+83,880,*Groessens-van Dyck, Marie-Claire*,**,**
+83,890,*Nolf, Dirk*,**,**
+83,891,*Smith, Richard*,**,**
+83,900,*Germonpre, Mietje*,**,**
+83,910,*Beurlen, Karl*,**,**
+83,911,*Sena Sobrinho, Mariano*,**,**
+83,911,*Martins, Emmanoel A.*,**,**
+83,920,*Beurlen, Karl*,**,**
+83,921,*Martins, Emmanoel A.*,**,**
+83,930,*Cunha, Fausto Luiz de Souza*,**,**
+83,940,*Alvarenga, Herculano Marcos F.*,**,**
+83,950,*Madden, Cary Thomas*,**,**
+83,960,*Bachmayer, Friedrich*,**,**
+83,961,*Mlynarski, Marian*,**,**
+83,970,*Bachmayer, Friedrich*,**,**
+83,971,*Wilson, Robert W.*,**,**
+83,980,*Kemp, Anne*,**,**
+83,990,*Fordyce, R. Ewan*,**,**
+83,991,*Flannery, Timothy F.*,**,**
+83,1000,*Hoffstetter, Robert*,**,**
+83,1001,*Petter, Germaine*,**,**
+83,1010,*Huerzeler, Johannes*,**,**
+83,1020,*Condemi, Silvana*,**,**
+83,1030,*Lamy, Paul*,**,**
+83,1031,*Nossant, Patrick*,**,**
+83,1040,*de Muizon, Christian*,**,**
+83,1050,*de Muizon, Christian*,**,**
+83,1060,*Dutuit, Jean-Michel*,**,**
+83,1070,*Rage, Jean-Claude*,**,**
+83,1080,*Puech, Pierre-Francois*,**,**
+83,1081,*Albertini, Henri*,**,**
+83,1090,*Lefranc, Jean Philippe*,**,**
+83,1100,*Hoffstetter, Robert*,**,**
+83,1101,*Petter, Germaine*,**,**
+83,1110,*Huerzeler, Johannes*,**,**
+83,1120,*Condemi, Silvana*,**,**
+83,1130,*Biron, Pierre Eymard*,**,**
+83,1131,*Gall, Jean-Claude*,**,**
+83,1131,*Perriaux, Jacques*,**,**
+83,1140,*Dubar, Michel*,**,**
+83,1150,*Lamy, Paul*,**,**
+83,1151,*Nossant, Patrick*,**,**
+83,1160,*de Muizon, Christian*,**,**
+83,1170,*de Muizon, Christian*,**,**
+83,1180,*Dutuit, Jean-Michel*,**,**
+83,1190,*Rage, Jean-Claude*,**,**
+83,1200,*Puech, Pierre-Francois*,**,**
+83,1201,*Albertini, Henri*,**,**
+83,1210,*Cregut-Bonnoure, Evelyne*,**,**
+83,1211,*Gagnierre, Sylvain*,**,**
+83,1220,*Bouvier, Jean*,**,**
+83,1230,*Vernet, Jean-Louis*,**,*e*
+83,1240,*Crochet, Jean-Yves*,**,**
+83,1241,*Michaux, Jacques*,**,**
+83,1250,*Brugal, Jean-Philip*,**,**
+83,1260,*Bazile, Frederic*,**,**
+83,1270,*Meignen, Liliane*,**,**
+83,1280,*de Muizon, Christian*,**,**
+83,1290,*Buffetaut, Eric*,**,**
+83,1300,*Ginsburg, Leonard*,**,**
+83,1301,*Yongyuth, Ukkakimapan*,**,**
+83,1310,*Poplin, Francois*,**,**
+83,1311,*Mourer-Chauvire, Cecile*,**,**
+83,1311,*Evin, Jacques*,**,**
+83,1320,*Gambier, Dominique*,**,**
+83,1330,*Soria, Miguel Fernando*,*Soria, Miguel F.*,**
+83,1331,*Hoffstetter, Robert*,**,**
+83,1340,*Ellenberger, Paul*,**,**
+83,1350,*Ellenberger, Paul*,**,**
+83,1360,*Flynn, Lawrence John*,**,**
+83,1370,*Mahboubi, M'hamed*,**,**
+83,1371,*Ameur, Rabia*,**,**
+83,1371,*Crochet, Jean-Yves*,**,**
+83,1371,*Jaeger, Jean-Jacques*,**,**
+83,1380,*Gayet, Mireille*,*Gaudant, Mireille*,**
+83,1381,*Meunier, Francois J.*,**,**
+83,1390,*Krogness, Karl G.*,**,**
+83,1400,*Xirotiris, Nikolaos I.*,**,**
+83,1401,*Henke, Winfried*,**,**
+83,1401,*Symeonidis, Nikolaos K.*,**,**
+83,1410,*Burleigh, Richard*,**,**
+83,1411,*Zivanovic, Srboljub*,**,**
+83,1420,*Henke, Winfried*,**,**
+83,1430,*Braeuer, Guenter*,**,**
+83,1440,*Gingerich, Philip D.*,**,**
+83,1450,*Martin, Robert D.*,**,**
+83,1460,*Conroy, Glenn C.*,**,**
+83,1470,*Gingerich, Philip D.*,**,**
+83,1480,*Kay, Richard F.*,**,**
+83,1481,*Simons, Elwyn L.*,**,**
+83,1490,*Rosenberger, Alfred L.*,**,**
+83,1500,*Andrews, Peter*,**,**
+83,1510,*Prasad, K. N.*,**,**
+83,1520,*Jungers, William L.*,**,**
+83,1530,*Tillier, Anne-Marie*,**,**
+83,1531,*Genet-Varcin, Emilienne*,**,**
+83,1540,*Kattmann, Ulrich*,**,*r*
+83,1550,*Kattmann, Ulrich*,**,*r*
+83,1560,*Kattmann, Ulrich*,**,*r*
+83,1570,*Juergens, Hans W.*,**,*r*
+83,1580,*Kattmann, Ulrich*,**,*r*
+83,1590,*Maier, Wolfgang*,**,**
+83,1591,*Schneck, G.*,**,**
+83,1600,*Juergens, Hans W.*,**,*r*
+83,1610,*Herrmann, Bernd*,**,*r*
+83,1620,*Herrmann, Bernd*,**,*r*
+83,1630,*Pieper, U.*,**,*r*
+83,1640,*Juergens, Hans W.*,**,*r*
+83,1650,*Tillier, Anne-Marie*,**,**
+83,1660,*de Arsuaga, Juan Luis*,**,**
+83,1661,*Alonso, Julio*,**,**
+83,1670,*Casati, Pompeo*,**,**
+83,1680,*Argant, Alain*,**,**
+83,1681,*Argant, Jacqueline*,**,**
+83,1690,*Drouin, Philippe*,**,**
+83,1691,*Ballesio, Roland*,**,**
+83,1691,*Philippe, Michel*,**,**
+83,1700,*Mein, Pierre*,**,**
+83,1701,*Meon, Henriette*,**,**
+83,1701,*Romaggi, Jean-Paul*,**,**
+83,1701,*Samuel, Elisabeth*,**,**
+83,1710,*Paccard, Maurice*,**,**
+83,1720,*Cregut-Bonnoure, Evelyne*,**,**
+83,1721,*Guerin, Claude*,**,**
+83,1721,*Mourer-Chauvire, Cecile*,**,**
+83,1730,*Philippe, Michel*,**,**
+83,1740,*Vilette, Philippe*,**,**
+83,1741,*Mourer-Chauvire, Cecile*,**,**
+83,1741,*Meignen, Liliane*,**,**
+83,1750,*Bouvier, Jean*,**,**
+83,1751,*Mein, Pierre*,**,**
+83,1760,*Ballesio, Roland*,**,**
+83,1770,*Faure, Martine*,**,**
+83,1771,*Guerin, Claude*,**,**
+83,1780,*Guerin, Claude*,**,**
+83,1790,*Protsch, Reiner R. R.*,**,**
+83,1800,*Wolpoff, Milford H.*,**,**
+83,1810,*Corruccini, Robert S.*,**,**
+83,1820,*Maier, Wolfgang*,**,**
+83,1830,*Herrmann, Bernd*,**,**
+83,1840,*Musgrave, Jonathan H.*,**,**
+83,1850,*Henke, Winfried*,**,**
+83,1851,*Braeuer, Guenter*,**,**
+83,1860,*Maier, Wolfgang*,**,**
+83,1870,*Schmid, Peter*,**,**
+83,1880,*Zuckerkandl, Emile*,**,**
+83,1890,*Tobias, Phillip Valentine*,**,**
+83,1900,*Braeuer, Guenter*,**,**
+83,1910,*Plhak, Marianne*,**,**
+83,1920,*Zivanovic, Srboljub*,**,**
+83,1930,*Murrill, Rupert I.*,**,**
+83,1940,*Protsch, Reiner R. R.*,**,**
+83,1941,*Oberholzer, J. J.*,**,**
+83,1950,*Trinkaus, Erik*,**,**
+83,1960,*Juergens, Hans W.*,**,*r*
+83,1970,*Juergens, Hans W.*,**,*r*
+83,1980,*Smith, Fred H.*,**,**
+83,1990,*Trinkaus, Erik*,**,**
+83,2000,*Gould, Stephen Jay*,**,**
+83,2010,*Gould, Stephen Jay*,**,**
+83,2020,*Gould, Stephen Jay*,**,**
+83,2030,*Desmond, Adrian J.*,**,**
+83,2040,*Singer, Ronald*,**,*r*
+83,2050,*Tobias, Phillip Valentine*,**,**
+83,2060,*Brain, Charles Kimberlin*,**,**
+83,2070,*Gould, Stephen Jay*,**,**
+83,2080,*Martin, Paul S.*,**,**
+83,2090,*Gould, Stephen Jay*,**,**
+83,2100,*Zihlman, Adrienne L.*,**,**
+83,2101,*Cramer, Douglas L.*,**,**
+83,2110,*Perkins, Dexter, Jr.*,**,**
+83,2120,*Radinsky, Leonard B.*,**,**
+83,2130,*Keen, Angeline Myra*,**,**
+83,2140,*Mead, Jim I.*,**,**
+83,2150,*Preston, Douglas J.*,**,**
+83,2160,*Geist, Valerius*,**,**
+83,2170,*Swinton, William E.*,**,**
+83,2171,*Boltin, Lee*,**,**
+83,2180,*Cartmill, Matt*,**,*r*
+83,2190,*Washburn, Sherwood Larned*,**,**
+83,2191,*Dodson, Edward Ottway*,**,**
+83,2191,*von Koenigswald, Gustav Heinrich Ralph*,**,**
+83,2191,*Gould, Stephen Jay*,**,**
+83,2200,*Preston, Douglas J.*,**,**
+83,2210,*Preston, Douglas J.*,**,**
+83,2220,*Czerkas, Sylvia Massey*,**,**
+83,2221,*Glut, Donald F.*,**,**
+83,2230,*Radinsky, Leonard B.*,**,**
+83,2231,*Emerson, Sharon*,**,**
+83,2231,*Cramer, Douglas L.*,**,*i*
+83,2240,*Gould, Stephen Jay*,**,**
+83,2250,*Boaz, Noel Thomas*,**,**
+83,2251,*Cramer, Douglas L.*,**,**
+83,2260,*Domning, Daryl Paul*,**,**
+83,2270,*Freeman, Leslie Gordon, Jr.*,*Freeman, Leslie G.*,**
+83,2271,*Klein, Richard G.*,**,**
+83,2271,*Gonzalez-Echegaray, Joaquin*,**,**
+83,2280,*Kalabis, Vladimir*,**,**
+83,2281,*Schultz, Ortwin*,**,**
+83,2290,*Symeonidis, Nikolaos K.*,**,**
+83,2291,*Bachmayer, Friedrich*,**,**
+83,2291,*Zapfe, Helmuth*,**,**
+83,2300,*Jungwirth, Johann*,**,*r*
+83,2310,*Spindler, Paul*,**,*r*
+83,2320,*Spindler, Paul*,**,*r*
+83,2330,*Bauer, Kurt*,**,*r*
+83,2340,*de Muizon, Christian*,**,**
+83,2350,*Buffetaut, Eric*,**,**
+83,2360,*Ginsburg, Leonard*,**,**
+83,2361,*Yongyuth, Ukkakimapan*,**,**
+83,2370,*Poplin, Francois*,**,**
+83,2371,*Mourer-Chauvire, Cecile*,**,**
+83,2371,*Evin, Jacques*,**,**
+83,2380,*Gambier, Dominique*,**,**
+83,2390,*Soria, Miguel Fernando*,**,**
+83,2391,*Hoffstetter, Robert*,**,**
+83,2400,*Ellenberger, Paul*,**,**
+83,2410,*Ellenberger, Paul*,**,**
+83,2420,*Flynn, Lawrence John*,**,**
+83,2430,*Mahboubi, M'hamed*,**,**
+83,2431,*Ameur, Rabia*,**,**
+83,2431,*Crochet, Jean-Yves*,**,**
+83,2431,*Jaeger, Jean-Jacques*,**,**
+83,2440,*Gaudant, Mireille*,*Gayet, Mireille*,**
+83,2441,*Meunier, Francois J.*,**,**
+83,2450,*Johanson, Donald C.*,**,**
+83,2451,*Edey, Maitland A.*,**,**
+83,2460,*Leakey, Louis Seymour Bazett*,**,**
+83,2470,*Wells, Neil A.*,**,**
+83,2471,*Gingerich, Philip D.*,**,**
+83,2480,*Gingerich, Philip D.*,**,**
+83,2481,*Childress, Condruff G., Jr.*,**,**
+83,2490,*Krause, David W.*,**,**
+83,2491,*Gingerich, Philip D.*,**,**
+83,2500,*Gingerich, Philip D.*,**,**
+83,2510,*Gingerich, Philip D.*,**,**
+83,2520,*Agenbroad, Larry D.*,**,**
+83,2530,*Farrens, W. L.*,**,**
+83,2531,*Hoffman, D. S.*,**,**
+83,2531,*McDonald, D. L.*,**,**
+83,2540,*Hillerud, John M.*,**,**
+83,2550,*Hoffman, D. S.*,**,**
+83,2551,*Moss, T. E.*,**,**
+83,2560,*Martin, Larry D.*,**,**
+83,2570,*Schultz, Charles Bertrand*,**,**
+83,2580,*Tanner, Lloyd G.*,**,**
+83,2590,*Tanner, Lloyd G.*,**,**
+83,2600,*Agenbroad, Larry D.*,**,**
+83,2610,*Edwards, Paul D.*,**,**
+83,2620,*Edwards, Paul D.*,**,**
+83,2630,*Hillerud, John M.*,**,**
+83,2640,*Tanner, Lloyd G.*,**,**
+83,2650,*Richey, King A.*,**,**
+83,2660,*Wiegand, Velma L.*,**,**
+83,2670,*Pokorsky, Joe*,**,**
+83,2671,*Hartley, John A.*,**,**
+83,2680,*Russell, Kathleen D.*,**,**
+83,2690,*Uridil, Sandra Jo*,**,**
+83,2700,*Agenbroad, Larry D.*,**,**
+83,2710,*Corman, Peggy J.*,**,**
+83,2720,*Diffendal, Robert F., Jr.*,**,**
+83,2730,*Landrey, Cheri*,**,**
+83,2740,*Moody, David L.*,**,**
+83,2750,*Nixon, David A.*,**,**
+83,2760,*Russell, Kathleen D.*,**,**
+83,2770,*Schultz, Charles Bertrand*,**,**
+83,2771,*Tanner, Lloyd G.*,**,**
+83,2771,*Lueninghoener, Gilbert C.*,**,**
+83,2780,*Sullivan, Robert M.*,**,**
+83,2790,*Turner, Mary Ann*,**,**
+83,2800,*Hillerud, John M.*,**,**
+83,2810,*Luoma, Garry M.*,**,**
+83,2820,*Agenbroad, Larry D.*,**,**
+83,2821,*Jones, Charles A.*,**,**
+83,2830,*Corner, Richard George*,**,**
+83,2840,*Diffendal, Robert F., Jr.*,**,**
+83,2850,*Edwards, Paul D.*,**,**
+83,2860,*French, P. S.*,**,**
+83,2861,*Wu, S.-K.*,**,**
+83,2861,*Jones, Charles A.*,**,**
+83,2870,*Martin, Larry D.*,**,**
+83,2880,*Nixon, David A.*,**,**
+83,2890,*Schultz, Charles Bertrand*,**,**
+83,2900,*Stout, Thompson Mylan*,**,**
+83,2910,*Tanner, Lloyd G.*,**,**
+83,2920,*Turner, Mary Ann*,**,**
+83,2930,*Ludwickson, John*,**,**
+83,2940,*Corner, Richard George*,**,**
+83,2941,*Myers, Thomas P.*,**,**
+83,2950,*Diffendal, Robert F., Jr.*,**,**
+83,2960,*Dutrow, Barbara Lee*,*Dutrow, Barbara L.*,**
+83,2970,*Edwards, Paul D.*,**,**
+83,2980,*Messenger, Karen Kreycik*,**,**
+83,2981,*Messenger, Charles L.*,**,**
+83,2990,*Schultz, Charles Bertrand*,**,**
+83,3000,*Tanner, Lloyd G.*,**,**
+83,3010,*Voorhies, Michael R.*,**,**
+83,3020,*Cook, David L.*,**,**
+83,3030,*Boellstorff, John*,**,**
+83,3031,*Skinner, Morris F.*,**,**
+83,3040,*Corner, Richard George*,**,**
+83,3050,*Diffendal, Robert F., Jr.*,**,**
+83,3060,*Dutrow, Barbara Lee*,**,**
+83,3070,*Evander, Robert Lane*,**,**
+83,3080,*Schultz, Charles Bertrand*,**,**
+83,3090,*Skinner, Morris F.*,**,**
+83,3091,*Voorhies, Michael R.*,**,**
+83,3100,*Stout, Thompson Mylan*,**,**
+83,3110,*Stout, Thompson Mylan*,**,**
+83,3120,*Tanner, Lloyd G.*,**,**
+83,3130,*Wellstead, Carl F.*,**,**
+83,3140,*Brown, Gregory W.*,**,**
+83,3150,*Corner, Richard George*,**,**
+83,3160,*Hunt, Robert M., Jr.*,**,**
+83,3170,*Pabian, Roger K.*,**,**
+83,3180,*Swisher, Carl C., III.*,**,**
+83,3190,*Tanner, Lloyd G.*,**,**
+83,3200,*Voorhies, Michael R.*,**,**
+83,3210,*Brown, Gregory W.*,**,**
+83,3211,*Seevers, Kevin*,**,**
+83,3220,*Corner, Richard George*,**,**
+83,3230,*Gustafson, Eric Paul*,**,**
+83,3240,*Haack, Steven C.*,**,**
+83,3250,*Tanner, Lloyd G.*,**,**
+83,3260,*Bozell, John R.*,**,**
+83,3261,*Snyder, Lynn M.*,**,**
+83,3270,*Mick, Linda*,**,**
+83,3280,*Bailey, Bruce E.*,**,**
+83,3290,*Fiorillo, Anthony R.*,**,**
+83,3300,*Gustafson, Eric Paul*,**,**
+83,3310,*Messenger, Karen Kreycik*,**,**
+83,3311,*Messenger, Charles L.*,**,**
+83,3320,*Schultz, Charles Bertrand*,**,**
+83,3330,*Voorhies, Michael R.*,**,**
+83,3331,*Xue Xiangxu*,**,**
+83,3340,*Kowalczyk, Gotthard*,**,**
+83,3350,*McCullugh, John M.*,**,*r*
+83,3360,*Kortvelyessy, Tibor*,**,*r*
+83,3370,*MacPhee, Ross D. E.*,**,*r*
+83,3380,*Tyzzer, Robert N., III.*,**,*r*
+83,3390,*Ward, Steven C.*,**,**
+83,3391,*Kimbel, William H.*,**,**
+83,3400,*White, Tim D.*,**,**
+83,3401,*Suwa, Gen*,**,**
+83,3401,*Richards, Gary*,**,**
+83,3401,*Watters, John Paul*,**,**
+83,3401,*Barnes, Lawrence G.*,**,**
+83,3410,*Rightmire, George Philip*,**,**
+83,3420,*Laughlin, William S.*,**,*r*
+83,3430,*Frayer, David W.*,**,*r*
+83,3440,*Relethford, John H.*,**,*r*
+83,3450,*Cachel, Susan*,**,*r*
+83,3460,*Asfaw, Berhane*,**,**
+83,3470,*Feldesman, Marc R.*,**,*r*
+83,3480,*Clabeaux Geise, Marie S.*,**,*r*
+83,3490,*Kennedy, Gail E.*,**,**
+83,3500,*Szalay, Frederick S.*,**,*r*
+83,3510,*McHenry, Henry M.*,**,**
+83,3520,*Gavan, James A.*,**,*r*
+83,3530,*Gavan, James A.*,**,*r*
+83,3540,*Conroy, Glenn C.*,**,*r*
+83,3550,*Mallegni, Francesco*,**,**
+83,3551,*Mariani-Costantini, Renato*,**,**
+83,3551,*Fornaciari, Gino*,**,**
+83,3551,*Longo, Ernesto T.*,**,**
+83,3551,*Giacobini, Giacomo*,**,**
+83,3551,*Radmilli, Antonio M.*,**,**
+83,3560,*Walker, Alan C.*,*Walker, Alan*,*r*
+83,3570,*Kay, Richard F.*,**,**
+83,3571,*Simons, Elwyn L.*,**,**
+83,3580,*Beals, Kenneth L.*,**,**
+83,3581,*Smith, Courtland L.*,**,**
+83,3581,*Dodd, Stephen M.*,**,**
+83,3590,*Gibson, Kathleen R.*,**,*r*
+83,3600,*Swindler, Daris R.*,**,*r*
+83,3610,*Tattersall, Ian M.*,**,**
+83,3611,*Delson, Eric*,**,**
+83,3620,*Boaz, Noel Thomas*,**,**
+83,3621,*Ninkovich, Dragoslav*,**,**
+83,3621,*Rossignol-Strick, Martine*,**,**
+83,3630,*Kuhn-Schnyder, Emil*,**,*r*
+83,3640,*Mader, Detlef*,**,**
+83,3650,*Kuhn-Schnyder, Emil*,**,*r*
+83,3660,*Remmert, Hermann*,**,**
+83,3670,*Dose, Klaus*,**,*r*
+83,3680,*Giger, Walter*,**,*r*
+83,3690,*Autrum, Hansjochum*,*Autrum, H.*,*r*
+83,3700,*Westphal, Frank*,**,*r*
+83,3710,*Maisey, John G.*,**,**
+83,3720,*Quiroga, Juan Carlos*,*Quiroga, Juan C.*,**
+83,3730,*Quiroga, Juan Carlos*,**,**
+83,3740,*Thuillier, Pierre*,**,**
+83,3750,*Polo, Marc*,**,**
+83,3760,*Misslin, Rene*,**,**
+83,3770,*Ellul, Jacques*,**,**
+83,3771,*Thuillier, Pierre*,**,**
+83,3780,*de Ricqles, Armand*,**,**
+83,3790,*Devillers, Charles*,**,**
+83,3791,*Blanc, Marcel*,**,**
+83,3800,*Girard-Farizy, Catherine*,**,**
+83,3801,*Leclerc, Jean*,**,**
+83,3810,*Bonifay, Eugene*,**,**
+83,3820,*Thuillier, Pierre*,**,**
+83,3830,*Blanc, Marcel*,**,**
+83,3840,*Dreiman, Richard*,**,**
+83,3850,*Begouen, Robert*,**,**
+83,3851,*Clottes, Jean*,**,**
+83,3860,*Eldredge, Niles*,**,**
+83,3870,*Dastugue, Jean*,**,**
+83,3880,*Fladmark, Knut R.*,**,**
+83,3890,*Andrews, Peter*,**,**
+83,3900,*White, Tim D.*,**,**
+83,3910,*Poupeau, Gerard*,**,**
+83,3920,*Vialou, Denis*,**,**
+83,3930,*Gould, Stephen Jay*,**,**
+83,3931,*Lewontin, Richard C.*,**,**
+83,3940,*Blanc, Marcel*,**,**
+83,3950,*Dreiman, Richard*,**,**
+83,3960,*Vialou, Denis*,**,**
+83,3970,*Janvier, Philippe*,**,**
+83,3980,*Lowenstein, Jerold Marvin*,**,**
+83,3990,*Janvier, Philippe*,**,**
+83,4000,*Blumenberg, Bennett*,**,**
+83,4001,*Lloyd, Andrew T.*,**,**
+83,4010,*Schmid, Peter*,**,**
+83,4020,*Anapol, Fred*,**,**
+83,4030,*Schmid, Peter*,**,**
+83,4040,*Dagosto, Marian*,**,**
+83,4050,*Rose, Kenneth D.*,**,**
+83,4051,*Rensberger, John M.*,**,**
+83,4060,*Demetsopoullos, Ioannis C.*,**,**
+83,4061,*Burleigh, Richard*,**,**
+83,4061,*Oakley, Kenneth P.*,**,**
+83,4070,*Hill, Andrew*,**,**
+83,4080,*Helgren, David M.*,**,**
+83,4081,*Brooks, Alison S.*,**,**
+83,4090,*Glastra, Rob*,**,**
+83,4100,*Payne, Sebastian*,**,**
+83,4101,*Garrard, Andrew*,**,**
+83,4110,*Manchester, Keith*,**,*r*
+83,4120,*Grigson, Caroline*,**,*r*
+83,4130,*Coy, Jennie*,**,*r*
+83,4140,*Stringer, Christopher B.*,**,*r*
+83,4150,*Butzer, Karl W.*,**,*r*
+83,4160,*Volman, Thomas P.*,**,*r*
+83,4170,*Grigson, Caroline*,**,**
+83,4180,*Noe-Nygaard, Nanna*,**,**
+83,4190,*Shipman, Pat*,**,**
+83,4191,*Rose, Jennie*,**,**
+83,4200,*Blackwell, Bonnie*,**,**
+83,4201,*Schwarcz, Henry P.*,**,**
+83,4201,*Debenath, Andre*,**,**
+83,4210,*Wilkinson, M. Justin*,**,**
+83,4220,*Straw, Allan*,**,*r*
+83,4230,*Scott, Katharine*,**,*r*
+83,4240,*Levine, M. A.*,**,*r*
+83,4250,*Lumsden, Charles J.*,**,**
+83,4260,*Marzke, Mary W.*,**,**
+83,4270,*Wind, Jan*,**,*r*
+83,4280,*Borgognini Tarli, Silvana M.*,**,**
+83,4290,*Fasolo, Aldo*,**,*r*
+83,4300,*Tobias, Phillip Valentine*,**,**
+83,4310,*Wolpoff, Milford H.*,**,**
+83,4320,*Tattersall, Ian M.*,**,**
+83,4321,*Delson, Eric*,**,**
+83,4330,*Falk, Dean*,**,**
+83,4331,*Kasinga, Simon*,**,**
+83,4340,*Kennedy, Gail E.*,**,**
+83,4350,*Jungers, William L.*,**,**
+83,4351,*Stern, Jack T., Jr.*,**,**
+83,4360,*Borgognini Tarli, Silvana M.*,**,*e*
+83,4361,*Poulianos, Aris N.*,**,*e*
+83,4370,*Tellalian Kyrkostas, M. C.*,**,**
+83,4380,*Procureur, F.*,**,**
+83,4381,*Orban-Segebarth, Rosine*,*Segebarth-Orban, Rosine*,**
+83,4390,*Kalli, C.*,**,**
+83,4400,*Puech, Pierre-Francois*,**,**
+83,4401,*Albertini, Henri*,**,**
+83,4410,*Stringer, Christopher B.*,**,**
+83,4420,*Sperber, J.*,**,**
+83,4430,*Kurten, Bjorn*,**,**
+83,4440,*van Vark, Gerrit Nanning*,*van Vark, G. N.*,**
+83,4450,*Ullrich, Herbert*,**,**
+83,4460,*Hublin, Jean-Jacques*,**,**
+83,4470,*Tillier, Anne-Marie*,**,**
+83,4480,*Riscutia, C.*,**,**
+83,4490,*Ranov, Vadim Aleksandrovich*,*Ranov, B.*,**
+83,4500,*Vandermeersch, Bernard*,**,**
+83,4510,*Braeuer, Guenter*,**,**
+83,4520,*Orban-Segebarth, Rosine*,*Segebarth-Orban, Rosine*,**
+83,4521,*Procureur, F.*,**,**
+83,4530,*Puech, Pierre-Francois*,**,**
+83,4531,*Albertini, Henri*,**,**
+83,4531,*Serratrice, Claudia*,**,**
+83,4540,*Stringer, Christopher B.*,**,**
+83,4550,*Poulianos, Nikos A.*,**,**
+83,4560,*Magori, C. C.*,**,**
+83,4561,*Day, Michael Herbert*,**,**
+83,4570,*Monks, Gregory G.*,**,**
+83,4580,*Gifford, Diane P.*,**,**
+83,4590,*Lyman, R. Lee*,**,**
+83,4600,*Huss-Ashmore, Rebecca*,**,**
+83,4601,*Goodman, Alan H.*,**,**
+83,4601,*Armelagos, George J.*,**,**
+83,4610,*Meltzer, David J.*,**,**
+83,4620,*Yulish, Stephen M.*,**,**
+83,4630,*Corruccini, Robert S.*,**,**
+83,4631,*Ciochon, Russell L.*,**,**
+83,4631,*McHenry, Henry M.*,**,**
+83,4640,*Iwamoto, Mitsuo*,**,**
+83,4641,*Hasegawa, Yoshikazu*,**,**
+83,4650,*Suzuki, Akira*,**,*r*
+83,4660,*Greenfield, Leonard Owen*,**,**
+83,4670,*Riesenfeld, Alphonse*,**,**
+83,4680,*Iwamoto, Mitsuo*,**,**
+83,4690,*Iwamoto, Mitsuo*,**,*r*
+83,4700,*Cachel, Susan*,**,**
+83,4710,*Uehara, Shigeo*,**,*r*
+83,4720,*Schwartz, Jeffrey H.*,**,**
+83,4730,*Suzuki, Akira*,**,*r*
+83,4740,*Ferguson, Walter W.*,**,**
+83,4750,*Anonymous*,**,*e*
+83,4760,*Ogawa, Teizo*,**,**
+83,4770,*Frisch, John E.*,**,**
+83,4780,*Anonymous*,**,*e*
+83,4790,*Frisch, John E.*,**,**
+83,4800,*Frisch, John E.*,**,**
+83,4810,*Tappen, Neil C.*,**,**
+83,4820,*Montagna, William*,**,*e*
+83,4830,*Preuschoft, Holger*,**,**
+83,4831,*Weinmann, Wolfgang*,**,**
+83,4840,*Lovejoy, Claude Owen*,**,**
+83,4841,*Heiple, Kingsbury G.*,**,**
+83,4841,*Burstein, Albert H.*,**,**
+83,4850,*Parsons, Kenneth C.*,**,**
+83,4860,*Seaford, Henry W., Jr.*,**,*r*
+83,4870,*Trinkaus, Erik*,**,**
+83,4880,*Aigner, Jean S.*,**,**
+83,4881,*Laughlin, William S.*,**,**
+83,4890,*Noback, Charles*,**,*r*
+83,4900,*Keller, Charles M.*,**,*r*
+83,4910,*Tappen, Neil C.*,**,*r*
+83,4920,*Leakey, Richard E. F.*,**,**
+83,4921,*Walker, Alan C.*,**,**
+83,4930,*Radinsky, Leonard B.*,**,**
+83,4940,*Washburn, Sherwood Larned*,**,*r*
+83,4950,*Pollitzer, William S.*,**,**
+83,4951,*Buettner-Janusch, John*,**,**
+83,4960,*Day, Michael Herbert*,**,**
+83,4961,*Leakey, Richard E. F.*,**,**
+83,4970,*Leakey, Richard E. F.*,**,**
+83,4971,*Wood, Bernard A.*,**,**
+83,4980,*Wolpoff, Milford H.*,**,**
+83,4990,*Frayer, David W.*,**,**
+83,5000,*Tattersall, Ian M.*,**,*r*
+83,5010,*Maples, William R.*,**,*r*
+83,5020,*Northcutt, R. Glenn*,**,*r*
+83,5030,*McKenna, Malcolm C.*,**,*r*
+83,5040,*Elliott, David K.*,**,**
+83,5050,*Janvier, Philippe*,**,**
+83,5051,*Lund, Richard*,**,**
+83,5060,*Tway, Linda Elaine*,*Tway, Linda E.*,**
+83,5061,*Zidek, Jiri*,**,**
+83,5070,*Whetstone, Kenneth N.*,**,**
+83,5080,*McDonald, Jerry N.*,**,**
+83,5081,*Bartlett, Charles S., Jr.*,**,**
+83,5090,*Repenning, Charles A.*,**,**
+83,5100,*Reisz, Robert R.*,**,*r*
+83,5110,*Benton, Michael J.*,**,**
+83,5120,*Storrs, Glenn W.*,**,**
+83,5130,*Madden, Cary Thomas*,**,**
+83,5140,*Flynn, Lawrence John*,*Flynn, Lawrence J.*,**
+83,5150,*Tway, Linda Elaine*,**,**
+83,5160,*Wilkins, Kenneth T.*,**,**
+83,5170,*Lund, Richard*,**,**
+83,5180,*de Ricqles, Armand*,**,**
+83,5181,*Bolt, John R.*,**,**
+83,5190,*Gaffney, Eugene S.*,**,**
+83,5191,*Meeker, Lorraine J.*,**,**
+83,5200,*Horner, John R.*,**,**
+83,5210,*Turner, Susan*,**,**
+83,5220,*Sanz Garcia, Jose Luis*,**,**
+83,5221,*Santafe Llopis, Jose Vicente*,**,**
+83,5221,*Casanovas Cladellas, Maria Lourdes*,**,**
+83,5230,*Ballmann, Peter*,**,**
+83,5240,*Rawn-Schatzinger, Viola*,**,**
+83,5250,*Harrison, Jessica A.*,**,**
+83,5251,*Manning, Earl M.*,**,**
+83,5260,*Schoch, Robert Milton*,*Schoch, Robert M.*,*r*
+83,5270,*Tway, Linda Elaine*,**,**
+83,5271,*Zidek, Jiri*,**,**
+83,5280,*Denison, Robert H.*,**,**
+83,5290,*Brower, James C.*,**,**
+83,5300,*Fortelius, Mikael*,**,**
+83,5310,*Schoch, Robert Milton*,**,*r*
+83,5320,*Habetin, Vladimir*,**,**
+83,5321,*Knobloch, Ervin*,**,**
+83,5330,*Weberling, F.*,**,**
+83,5340,*Wang Jianke*,**,**
+83,5341,*Li Guofan*,**,**
+83,5341,*Wang Jinsan*,**,**
+83,5350,*Haynes, Gary*,**,**
+83,5360,*Workman, William B.*,**,*r*
+83,5370,*Tarsitano, Samuel F.*,**,**
+83,5380,*Schallreuter, Roger*,**,**
+83,5390,*Kamphausen, Donat*,**,**
+83,5400,*Galton, Peter M.*,**,**
+83,5410,*Friman, Lars*,**,**
+83,5420,*Mazin, Jean-Michel*,**,**
+83,5430,*Buffetaut, Eric*,**,**
+83,5440,*Hecht, Max K.*,**,**
+83,5441,*Tarsitano, Samuel F.*,**,**
+83,5450,*Obrhelova, Nadezda*,**,**
+83,5460,*Haubold, Hartmut*,**,**
+83,5470,*Nestler, Helmuth*,*Nestler, Helmut*,*r*
+83,5480,*Steiner, Walter*,**,**
+83,5490,*Heinrich, Wolf-Dieter*,**,**
+83,5491,*Janossy, Denes*,**,**
+83,5500,*Matthes, Horst Werner*,**,*r*
+83,5510,*Kahlert, Eberhard*,**,**
+83,5520,*Haubold, Hartmut*,**,**
+83,5521,*Sarjeant, William A. S.*,**,**
+83,5530,*Nestler, Helmuth*,**,*r*
+83,5540,*Nestler, Helmuth*,**,*r*
+83,5550,*Haubold, Hartmut*,**,*r*
+83,5560,*Haubold, Hartmut*,**,*r*
+83,5570,*Nestler, Helmuth*,**,*r*
+83,5580,*Steinmueller, Arno*,**,**
+83,5590,*Romer, Alfred Sherwood*,**,**
+83,5600,*Ostrom, John H.*,**,**
+83,5610,*Schaeffer, Bobb*,**,**
+83,5620,*Vaughn, Peter Paul*,**,**
+83,5630,*Fischer, Karlheinz*,**,*r*
+83,5640,*Fischer, Karlheinz*,**,**
+83,5641,*Stephan, Burkhard*,**,**
+83,5650,*Daber, Rudolf*,**,*r*
+83,5660,*Cepek, Alexander Georg*,**,**
+83,5661,*Heinrich, Wolf-Dieter*,**,**
+83,5670,*Kozur, Heinz*,**,*r*
+83,5680,*Romanova, Mariya Mikhaylovna*,*Romanova, Marija Michajlovna*,**
+83,5690,*Nestler, Helmuth*,**,*r*
+83,5700,*Barthel, Manfred*,**,*r*
+83,5710,*Fuhrmann, Roland*,**,**
+83,5720,*Herrig, Ekkehard*,**,*r*
+83,5730,*Heinrich, Wolf-Dieter*,**,**
+83,5740,*Steinmueller, Arno*,**,**
+83,5750,*Heinrich, Wolf-Dieter*,**,**
+83,5760,*Brunet, Michel*,**,**
+83,5761,*Heintz, Emile*,**,**
+83,5761,*Jehenne, Yves*,**,**
+83,5761,*Sen, Sevket*,**,**
+83,5770,*Cooke, Herbert Basil Sutton*,**,**
+83,5780,*Flerov, Konstantin Konstantinovich*,*Flerov, Constantin Constantinovic*,**
+83,5790,*Guth, Christian*,**,**
+83,5800,*Heinrich, Wolf-Dieter*,**,**
+83,5810,*Huenermann, Karl Alban*,**,**
+83,5820,*Kahlke, Hans Dietrich*,**,**
+83,5830,*von Koenigswald, Wighart*,**,**
+83,5840,*Kordos, Laszlo*,**,**
+83,5850,*Kretzoi, Miklos*,**,**
+83,5860,*Tobien, Heinz*,**,**
+83,5870,*Kubiak, Henryk*,**,**
+83,5880,*Kurten, Bjorn*,**,**
+83,5890,*Lozek, Vojen*,**,**
+83,5900,*Thenius, Erich*,**,**
+83,5910,*Storch, Diethard*,**,*r*
+83,5920,*Mlikovsky, Jiri*,**,**
+83,5930,*Haubold, Hartmut*,**,**
+83,5940,*Storch, Diethard*,**,*r*
+83,5950,*Fischer, Karlheinz*,**,**
+83,5960,*Krumbiegel, Guenter*,**,*r*
+83,5970,*Haubold, Hartmut*,**,*r*
+83,5980,*Aslanyan, A. T.*,*Aslanjan, A. T.*,**
+83,5981,*Sayadyan, Yu. V.*,*Sajadjan, Ju. V.*,**
+83,5990,*von Koenigswald, Wighart*,**,**
+83,6000,*Dathe, Falk*,**,**
+83,6010,*Obrhelova, Nadezda*,**,**
+83,6011,*Obrhel, Jiri*,**,**
+83,6020,*Schwartz, Jeffrey H.*,**,**
+83,6021,*Tattersall, Ian M.*,**,**
+83,6021,*Haubold, Hartmut*,**,**
+83,6030,*Barthel, Manfred*,**,*r*
+83,6040,*Storch, Diethard*,**,*r*
+83,6050,*Hendricks, Alfred*,**,**
+83,6060,*Lopushinskaya, T. V.*,**,**
+83,6061,*Yadrenkina, A. G.*,**,**
+83,6061,*Kanygin, A. V.*,**,**
+83,6061,*Pel'man, Yu. L.*,**,**
+83,6061,*Masterenko, S. V.*,**,**
+83,6061,*Doronina, S. I.*,**,**
+83,6061,*Dubatolova, Yu. A.*,**,**
+83,6061,*Zaslavskaya, N. M.*,**,**
+83,6061,*Moskalenko, Tamara Aleksandrovna*,*Moskalenko, T. A.*,**
+83,6061,*Obut, Aleksandr Mikhaylovich*,*Obut, A. M.*,**
+83,6061,*Sennikov, Nikolay Valerianovich*,*Sennikov, N. V.*,**
+83,6061,*Semenova, V. S.*,**,**
+83,6061,*Yaroshinskaya, A. M.*,**,**
+83,6070,*Riedel, Alfredo*,**,**
+83,6080,*Riedel, Alfredo*,**,**
+83,6090,*Leonardi, Piero*,**,**
+83,6100,*Riedel, Alfredo*,**,**
+83,6110,*Bartolomei, Giorgio*,**,**
+83,6120,*Leleshus, V. L.*,**,**
+83,6130,*Civet, Christian*,**,**
+83,6140,*Civet, Christian*,**,**
+83,6150,*Beecher, Robert M.*,**,**
+83,6160,*Sarmiento, Esteban Enrique*,**,**
+83,6170,*Eaglen, Robert H.*,**,**
+83,6180,*Simons, Elwyn L.*,**,**
+83,6181,*Meinel, Werner*,**,**
+83,6190,*Arensburg, Baruch*,**,**
+83,6191,*Tillier, Anne-Marie*,**,**
+83,6200,*Suzuki, Hisashi*,**,**
+83,6210,*Fenart, Raphael*,**,**
+83,6211,*Empereur-Buisson, R.*,**,**
+83,6211,*Vandermeersch, Bernard*,**,**
+83,6220,*Genet-Varcin, Emilienne*,**,*r*
+83,6230,*Saban, Roger*,**,*r*
+83,6240,*Fenart, Raphael*,**,**
+83,6250,*Dewez, Michel C.*,**,*e*
+83,6260,*Dewez, Michel C.*,**,**
+83,6270,*Brabant, Hyacinthe*,**,**
+83,6280,*Bouchud, Jean*,**,**
+83,6290,*Degerbol, Magnus*,**,**
+83,6300,*Dams, Marcel*,**,**
+83,6301,*Dams, Lya*,**,**
+83,6310,*Otte, Marcel*,**,**
+83,6320,*Cordy, Jean-Marie*,**,**
+83,6330,*Twiesselmann, Francois*,**,**
+83,6340,*Bastin, Bruno*,**,**
+83,6350,*Dams, Marcel*,**,**
+83,6351,*Dams, Lya*,**,**
+83,6360,*Cordy, Jean-Marie*,**,**
+83,6370,*Otte, Marcel*,**,**
+83,6380,*Cordy, Jean-Marie*,**,**
+83,6390,*Twiesselmann, Francois*,**,**
+83,6400,*Dams, Marcel*,**,**
+83,6401,*Dams, Lya*,**,**
+83,6410,*Orban-Segebarth, Rosine*,*Segebarth-Orban, Rosine*,**
+83,6420,*Heintz, Natascha*,**,*r*
+83,6430,*Stormer, Leif*,**,**
+83,6440,*Schjoldager, Nora*,**,**
+83,6450,*Bonde, Niels*,**,**
+83,6460,*Blystad, Per*,**,**
+83,6461,*Thomsen, Hanne*,**,**
+83,6461,*Simonsen, Asbjorn*,**,**
+83,6461,*Lie, Rolf W.*,**,**
+83,6470,*Walliser, Otto H.*,**,**
+83,6471,*Michels, Dietmar*,**,**
+83,6480,*Boeger, Horst*,**,**
+83,6490,*Applegate, Shelton P.*,**,**
+83,6500,*Savage, Robert Joseph Gay*,**,*r*
+83,6510,*Reid, Robert Edward Hay*,*Reid, R. E. H.*,**
+83,6520,*Savage, Robert Joseph Gay*,**,*r*
+83,6530,*Hughes, Christopher Paul*,**,*r*
+83,6540,*Rolfe, William David Ian*,**,*r*
+83,6550,*Bryant, I. D.*,**,**
+83,6551,*Gibbard, Philip L.*,**,**
+83,6551,*Holyoak, D. T.*,**,**
+83,6551,*Switsur, V. R.*,**,**
+83,6551,*Wintle, A. G.*,**,**
+83,6560,*Galton, Peter M.*,**,**
+83,6570,*Tonni, Eduardo Pedro*,**,**
+83,6580,*Tonni, Eduardo Pedro*,**,**
+83,6590,*Bond, Mariano*,**,**
+83,6591,*Pascual, Rosendo*,**,**
+83,6600,*Cifelli, Richard L.*,**,**
+83,6601,*Soria, Miguel Fernando*,**,**
+83,6610,*Cione, Alberto Luis*,**,**
+83,6620,*Pascual, Rosendo*,**,**
+83,6630,*Fidalgo, Francisco*,**,**
+83,6631,*Tonni, Eduardo Pedro*,**,**
+83,6640,*Soria, Miguel Fernando*,**,*r*
+83,6650,*Damborenea, Susana E.*,**,**
+83,6660,*Selsing, Lotte*,**,**
+83,6670,*Bendix-Almgreen, Svend Erik*,**,**
+83,6680,*Bryant, I. D.*,**,**
+83,6681,*Holyoak, D. T.*,**,**
+83,6681,*Moseley, K. A.*,**,**
+83,6690,*Spencer, P. S.*,**,**
+83,6691,*Isaac, Kevin P.*,**,**
+83,6700,*Sumbler, M. G.*,**,**
+83,6710,*Kurten, Bjorn*,**,**
+83,6720,*Behrensmeyer, Anna K.*,**,**
+83,6721,*Schindel, David E.*,**,**
+83,6730,*Klein, Richard G.*,**,**
+83,6731,*Cruz-Uribe, Kathryn*,**,**
+83,6740,*Meinke, Deborah K.*,**,**
+83,6741,*Thomson, Keith Stuart*,**,**
+83,6750,*Nichols, James D.*,**,**
+83,6751,*Pollock, Kenneth H.*,**,**
+83,6760,*Haynes, Gary*,**,**
+83,6770,*Weaver, Jan C.*,**,**
+83,6780,*Pilleri, Giorgio*,**,**
+83,6781,*Pilleri, Olaf*,**,**
+83,6790,*Forno, Gaetano*,**,**
+83,6800,*Franco, Franca*,**,**
+83,6810,*Piccoli, Giuliano*,**,**
+83,6811,*Franco, Franca*,**,**
+83,6811,*Bertolotti, Ornella*,**,**
+83,6811,*Bimbatti, Margherita*,**,**
+83,6811,*Buja, Paola*,**,**
+83,6811,*Cesca, Laura*,**,**
+83,6811,*Gradenigo, Margherita*,**,**
+83,6820,*Tripathi, Chintamani*,**,**
+83,6830,*Dassarma, D. C.*,*Das Sarma, D. C.*,**
+83,6831,*Biswas, S.*,**,**
+83,6831,*Nandi, A.*,**,**
+83,6840,*Yadagiri, P.*,**,**
+83,6841,*Satsangi, P. P.*,**,**
+83,6841,*Prasad, K. N.*,**,**
+83,6850,*Ahorner, Ludwig*,**,*e*
+83,6851,*Jux, Ulrich*,**,*e*
+83,6860,*Rothausen, Karlheinz*,**,**
+83,6870,*Winter, Klaus-Peter*,**,**
+83,6880,*Boenigk, Wolfgang*,**,**
+83,6890,*Kowalczyk, Gotthard*,**,**
+83,6900,*Zygojannis, Nikolaus*,**,**
+83,6910,*Dietmar, Rudolf G.*,**,**
+83,6920,*Jux, Ulrich*,**,**
+83,6930,*Strauch, Friedrich*,**,*e*
+83,6940,*Rothausen, Karlheinz*,**,**
+83,6941,*Schirmer, Wolfgang*,**,**
+83,6950,*Alberdi Alonso, Maria Teresa*,**,**
+83,6951,*Paihe, P.*,**,**
+83,6960,*Sanz Garcia, Jose Luis*,**,**
+83,6970,*Cuenca, G.*,**,**
+83,6980,*Cerdeno, E.*,**,**
+83,6981,*Alberdi Alonso, Maria Teresa*,**,**
+83,6990,*Bermudez de Castro, Jose Maria*,*Bermudez de Castro, J. M.*,**
+83,7000,*Herraez, E.*,**,**
+83,7001,*Alberdi Alonso, Maria Teresa*,**,**
+83,7010,*Agusti Ballester, Jorge*,**,**
+83,7020,*Maldonado, E.*,**,**
+83,7021,*Mazo Perez, Ana Victoria*,**,**
+83,7021,*Alferez Delgado, Francisco*,**,**
+83,7030,*Sanz Garcia, Jose Luis*,**,**
+83,7040,*Taverne, Louis*,**,**
+83,7050,*de Heinzelin, Jean*,**,*e*
+83,7060,*Howell, Francis Clark*,**,**
+83,7061,*Coppens, Yves*,**,**
+83,7070,*Brown, Francis H.*,**,**
+83,7071,*de Heinzelin, Jean*,**,**
+83,7080,*de Heinzelin, Jean*,**,**
+83,7081,*Haesaerts, Paul*,**,**
+83,7090,*de Heinzelin, Jean*,**,**
+83,7091,*Haesaerts, Paul*,**,**
+83,7100,*de Heinzelin, Jean*,**,**
+83,7101,*Haesaerts, Paul*,**,**
+83,7110,*Brown, Francis H.*,**,**
+83,7120,*Haesaerts, Paul*,**,**
+83,7121,*Stoops, Georges*,**,**
+83,7121,*van Vliet-Lanoe, Brigitte*,**,**
+83,7130,*de Heinzelin, Jean*,**,**
+83,7140,*de Heinzelin, Jean*,**,**
+83,7150,*de Heinzelin, Jean*,**,**
+83,7160,*Huenermann, Karl Alban*,*Huenermann, Karl A.*,**
+83,7170,*Mayo, Nestor A.*,**,**
+83,7180,*Heizmann, Elmar Peter Juergen*,**,**
+83,7190,*Engesser, Burkart*,**,**
+83,7200,*Buergisser, Heinz M.*,**,**
+83,7201,*Furrer, Heinz*,**,**
+83,7201,*Huenermann, Karl Alban*,**,**
+83,7210,*Berger, Jean-Pierre*,**,**
+83,7220,*Dehm, Richard*,**,**
+83,7221,*Gall, Horst*,**,**
+83,7221,*Hoefling, Richard*,**,**
+83,7221,*Jung, Walter*,**,**
+83,7221,*Malz, Heinz*,**,**
+83,7230,*Tillmanns, Wolfgang*,**,**
+83,7231,*Brunnacker, Karl*,**,**
+83,7231,*Loescher, Manfred*,**,**
+83,7240,*Gall, Horst*,**,**
+83,7241,*Huettner, Rudolf*,**,**
+83,7241,*Mueller, Dieter*,**,**
+83,7241,*Dehm, Richard*,**,**
+83,7241,*Graup, Guenther*,**,**
+83,7241,*Pohl, Jean*,**,**
+83,7241,*Vidal, Helmut*,**,**
+83,7250,*Pfeil, Friedrich Heinrich*,**,**
+83,7260,*Keller, Beat*,**,**
+83,7270,*Longinelli, Antonio*,**,**
+83,7271,*Peretti Padalino, Anna*,**,**
+83,7280,*Longinelli, Antonio*,**,**
+83,7281,*Triglia, Alessandro*,**,**
+83,7290,*Schoch, Robert Milton*,**,*r*
+83,7300,*Potts, Richard*,**,*r*
+83,7310,*McKinney, Michael L.*,**,**
+83,7311,*Schoch, Robert Milton*,**,**
+83,7320,*Schoch, Robert Milton*,**,*r*
+83,7330,*Rensberger, John M.*,**,**
+83,7340,*Allin, Edgar F.*,**,**
+83,7350,*Cracraft, Joel*,**,**
+83,7360,*Rose, Kenneth D.*,**,**
+83,7361,*Emry, Robert J.*,**,**
+83,7370,*Anonymous*,**,*e*
+83,7380,*Crouzel, Fernand*,**,**
+83,7381,*Ginsburg, Leonard*,**,**
+83,7390,*Buffetaut, Eric*,**,**
+83,7391,*Taquet, Philippe*,**,**
+83,7400,*Taieb, Maurice*,**,**
+83,7410,*Anonymous*,**,*e*
+83,7420,*Beden, Michel*,**,**
+83,7430,*Blieck, Alain*,**,**
+83,7431,*Goujet, Daniel*,**,**
+83,7431,*Janvier, Philippe*,**,**
+83,7440,*de Bonis, Louis*,**,**
+83,7441,*Bouvrain, Genevieve*,**,**
+83,7441,*Geraads, Denis*,**,**
+83,7441,*Melentis, Johann K.*,**,**
+83,7441,*Tassy, Pascal*,**,**
+83,7450,*Brunet, Michel*,**,**
+83,7460,*Hoffstetter, Robert*,**,**
+83,7470,*Tiercelin, Jean-Jacques*,*Tiercelin, J. J.*,**
+83,7471,*Michaux, Jacques*,**,**
+83,7480,*Vereshchagin, Nikolay Kuz'mich*,**,*e*
+83,7481,*Kuz'mina, I. Ye.*,**,*e*
+83,7490,*Vereshchagin, Nikolay Kuz'mich*,**,**
+83,7491,*Nikolayev, A. I.*,**,**
+83,7500,*Arslanov, Kh. A.*,**,**
+83,7501,*Lyadov, V. V.*,**,**
+83,7501,*Tertychnaya, T. V.*,**,**
+83,7501,*Filonov, B. A.*,**,**
+83,7510,*Kreps, Yevgeniy Mikhaylovich*,**,**
+83,7511,*Chirkovskaya, Ye. V.*,**,**
+83,7511,*Pomazanskaya, L. F.*,**,**
+83,7511,*Avrova, N. F.*,**,**
+83,7511,*Levitina, M. V.*,**,**
+83,7511,*Chebotareva, M. A.*,**,**
+83,7520,*Mikhel'son, V. M.*,**,**
+83,7521,*Kudryantsev, B. N.*,**,**
+83,7521,*Chernogryadskaya, N. A.*,**,**
+83,7521,*Sabinin, G. B.*,**,**
+83,7521,*Pleskach, N. M.*,**,**
+83,7530,*Provotorova, V. G.*,**,**
+83,7531,*Ryabikov, A. Ya.*,**,**
+83,7540,*Gorlova, R. N.*,**,**
+83,7550,*Yudichev, Yu. F.*,**,**
+83,7551,*Averikhin, A. I.*,**,**
+83,7560,*Vereshchagin, Nikolay Kuz'mich*,**,**
+83,7570,*Kuz'mina, I. Ye.*,**,**
+83,7580,*Serikov, Yu. B.*,**,**
+83,7590,*Foronova, I. V.*,**,**
+83,7600,*Tomirdiaro, Saveliy Vladimirovich*,*Tomirdiaro, S. V.*,**
+83,7610,*Sotnikova, M. V.*,**,**
+83,7620,*Baryshnikov, G. F.*,**,**
+83,7621,*Nikolayev, A. I.*,**,**
+83,7630,*Guilday, John E.*,**,**
+83,7640,*Burke, Emily G.*,**,**
+83,7650,*Johanson, Donald C.*,*Johanson, Don C.*,**
+83,7660,*Baldauf, Richard J.*,**,*r*
+83,7670,*Ciochon, Russell L.*,**,**
+83,7680,*Mallouf, Robert J.*,**,**
+83,7690,*Thomas, Herbert*,**,**
+83,7700,*Urlichs, Max*,**,**
+83,7710,*Scholz, Herbert*,**,**
+83,7711,*Zacher, Wolfgang*,**,**
+83,7720,*Jerz, Hermann*,**,**
+83,7721,*Ellwanger, Dietrich*,**,**
+83,7721,*Grottenthaler, Walter*,**,**
+83,7721,*Loescher, Manfred*,**,**
+83,7730,*Schwerd, Klaus*,**,**
+83,7731,*Scholz, Herbert*,**,**
+83,7740,*Rabeder, Gernot*,**,**
+83,7750,*Penner, Morris Michael*,**,**
+83,7760,*Korovina, V. M.*,**,*e*
+83,7770,*Dorofeyeva, Ye. A.*,*Dorofeeva, E. A.*,**
+83,7780,*Balushkin, A. V.*,**,**
+83,7781,*Chereshnev, I. A.*,**,**
+83,7790,*Polyakova, R. S.*,**,*e*
+83,7800,*Baryshnikov, G. F.*,**,**
+83,7801,*Baranova, G. I.*,**,**
+83,7810,*Loskot, V. M.*,**,*e*
+83,7820,*Dzerzhinskiy, F. Ya.*,**,**
+83,7830,*Nesov, Lev A.*,*Nessov, L. A.*,**
+83,7831,*Borkin, L. Ya.*,**,**
+83,7840,*Corner, Richard George*,**,**
+83,7841,*Diffendal, Robert F., Jr.*,**,**
+83,7850,*Lillegraven, Jason A.*,**,**
+83,7851,*Tabrum, Alan R.*,**,**
+83,7860,*Wang Junqing*,**,**
+83,7861,*Wang Nianzhong*,**,**
+83,7870,*Su Dezao*,**,**
+83,7871,*Li Zuocong*,**,**
+83,7880,*Ma Fengzhen*,**,**
+83,7890,*Zhang Fakui*,**,**
+83,7891,*Cui Guihai*,**,**
+83,7900,*Chen Gongxin*,**,**
+83,7910,*Ye Xiangkui*,*Yeh Hsiang-k'uei*,**
+83,7920,*Zhou Mingzhen*,*Chow Minchen*,**
+83,7921,*Zhang Yuping*,**,**
+83,7930,*Huang Xueshi*,**,**
+83,7931,*Cui Guihai*,**,**
+83,7940,*Zhang Yuping*,**,**
+83,7941,*Zong Guanfu*,**,**
+83,7941,*Liu Yulin*,**,**
+83,7950,*Huang Wanbo*,*Huang Wanpo*,**
+83,7951,*Guan Jian*,**,**
+83,7960,*Tang Yingjun*,**,**
+83,7961,*Zong Guanfu*,**,**
+83,7961,*Xu Qinqi*,**,**
+83,7970,*Wei Qi*,**,**
+83,7980,*Liu Shifan*,**,**
+83,7990,*Qi Tao*,**,**
+83,7991,*Meng Zhenya*,**,**
+83,8000,*Ye Jie*,**,**
+83,8010,*Wang Banyue*,**,**
+83,8011,*Zhang Yuping*,**,**
+83,8020,*Shi Ronglin*,**,**
+83,8030,*Yan Defa*,**,**
+83,8040,*Huang Wanbo*,*Huang Wanpo*,**
+83,8041,*Zhu Xuewen*,**,**
+83,8041,*Wang Xunyi*,**,**
+83,8060,*Fu Zhongping*,**,**
+83,8061,*Zhang Zhongwei*,**,**
+83,8070,*Dong Zhiming*,**,**
+83,8071,*Tang Zhilu*,*Tang Zilu*,**
+83,8080,*Yu Fuqing*,**,**
+83,8090,*Long*,**,**
+83,8100,*Xun*,**,**
+83,8110,*Zhou Mingzhen*,*Chow Minchen*,*r*
+83,8120,*Zhou Mingzhen*,**,*r*
+83,8130,*Zhou Mingzhen*,**,*r*
+83,8140,*Su Dezao*,**,**
+83,8150,*Ye Xiangkui*,*Yeh Hsiang-k'uei*,**
+83,8160,*Gao Keqin*,**,**
+83,8170,*Zhao Zikui*,**,**
+83,8171,*Yan Zheng*,**,**
+83,8171,*Ye Lianfeng*,**,**
+83,8180,*Yan Defa*,**,**
+83,8181,*Qiu Zhuding*,**,**
+83,8181,*Meng Zhenya*,**,**
+83,8190,*Huang Wanbo*,*Huang Wanpo*,**
+83,8191,*Yan Defa*,**,**
+83,8200,*Zheng Shaohua*,**,**
+83,8210,*Han Shuti*,**,**
+83,8211,*Qi Tao*,**,**
+83,8220,*Tang Yingjun*,**,**
+83,8221,*Ji Hongxiang*,**,**
+83,8230,*Jing Changzhu*,**,**
+83,8240,*Zhao Zhongru*,**,**
+83,8250,*Hu Shaojin*,**,**
+83,8260,*Ye Xiangkui*,**,**
+83,8270,*Liu Xiqing*,**,**
+83,8280,*Zhang Xing*,**,**
+83,8290,*Su Min*,**,**
+83,8300,*Antunes, Miguel Telles*,**,**
+83,8301,*Mein, Pierre*,**,**
+83,8310,*Chen Peiji*,**,**
+83,8320,*Lucas, Spencer G.*,**,*r*
+83,8330,*Su Dezao*,**,**
+83,8340,*Ye Xiangkui*,*Yeh Hsiang-k'uei*,**
+83,8350,*Liu Shifan*,**,**
+83,8360,*Zhang Yuping*,**,**
+83,8361,*Zong Guanfu*,**,**
+83,8370,*Li Chuankui*,*Li Chauankuei*,**
+83,8371,*Lin Yipu*,**,**
+83,8371,*Gu Yumin*,**,**
+83,8371,*Hou Lianhai*,**,**
+83,8371,*Wu Wenyu*,**,**
+83,8371,*Qiu Zhuding*,**,**
+83,8380,*Li Yuhe*,**,**
+83,8390,*Bai Yongjun*,**,**
+83,8400,*Lei Yizhen*,**,**
+83,8410,*Zhou Mingzhen*,*Chow Minchen*,**
+83,8420,*Xie Junyi*,**,**
+83,8430,*Nigedu Le*,**,**
+83,8440,*Yang Zhengchun*,**,**
+83,8441,*Xiao Yongfu*,**,**
+83,8450,*Zhao Zhongru*,**,**
+83,8460,*Valencio, Daniel A.*,**,**
+83,8461,*Orgeira, Maria J.*,**,**
+83,8470,*Bond, Mariano*,**,**
+83,8471,*Vucetich, Maria Guiomar*,**,**
+83,8480,*Soria, Miguel Fernando*,**,**
+83,8490,*Aaris-Sorensen, Kim*,**,**
+83,8500,*Silva Barcenas, Angel B.*,**,**
+83,8510,*Arredondo, Oscar*,**,**
+83,8511,*Varona, Luis S.*,**,**
+83,8520,*Woloszyn, Bronislaw W.*,**,**
+83,8521,*Silva Taboada, Gilberto*,**,**
+83,8530,*Arredondo, Oscar*,**,**
+83,8540,*Fox, Richard C.*,**,**
+83,8550,*Galton, Peter M.*,**,**
+83,8551,*Sues, Hans-Dieter*,**,**
+83,8560,*Fox, Richard C.*,**,**
+83,8570,*Storer, John E.*,**,**
+83,8580,*Fox, Richard C.*,**,**
+83,8590,*Wilson, Mark V. H.*,**,**
+83,8600,*Takahashi, Masashi*,**,**
+83,8610,*Nakajima, Keiji*,**,**
+83,8611,*Tanaka, Hiroyuki*,**,**
+83,8620,*Kimura, Masaichi*,**,**
+83,8621,*Tonosaki, Tokuji*,**,**
+83,8621,*Akamatsu, Morio*,**,**
+83,8621,*Kitagawa, Yoshio*,**,**
+83,8621,*Yoshida, Mitsuo*,**,**
+83,8621,*Kamei, Tadao*,**,**
+83,8630,*Huang Jiqing*,**,**
+83,8640,*Taverne, Louis*,**,**
+83,8650,*Janvier, Philippe*,**,**
+83,8660,*Sen, Sevket*,**,**
+83,8670,*Blieck, Alain*,**,**
+83,8680,*Breheret, Jean-G.*,**,**
+83,8690,*Rage, Jean-Claude*,**,**
+83,8700,*Mazin, Jean-Michel*,**,**
+83,8710,*Cheema, Iqbal U.*,**,**
+83,8711,*Sen, Sevket*,**,**
+83,8711,*Flynn, Lawrence John*,**,**
+83,8720,*Sudre, Jean*,**,**
+83,8721,*Russell, Donald E.*,**,**
+83,8721,*Louis, Pierre*,**,**
+83,8721,*Savage, Donald Elvin*,*Savage, Donald E.*,**
+83,8730,*Varona, Luis S.*,**,**
+83,8731,*Arredondo, Oscar*,**,**
+83,8740,*Arredondo, Oscar*,**,**
+83,8750,*Young, V. T.*,**,**
+83,8760,*Buffetaut, Eric*,**,**
+83,8770,*White, Errol Ivor*,**,**
+83,8771,*Toombs, Harry A.*,**,**
+83,8780,*Tobias, Phillip Valentine*,**,**
+83,8790,*Fahlbusch, Volker*,**,**
+83,8800,*Buffetaut, Eric*,**,**
+83,8810,*Wellnhofer, Peter*,**,**
+83,8811,*Buffetaut, Eric*,**,**
+83,8811,*Gigase, Paul*,**,**
+83,8820,*Chen Guanfang*,**,**
+83,8821,*Schmidt-Kittler, Norbert*,**,**
+83,8830,*Flannery, Timothy F.*,**,**
+83,8831,*Archer, Michael*,**,**
+83,8831,*Plane, Michael*,**,**
+83,8840,*Young, Gavin C.*,*Young, G. C.*,**
+83,8850,*Mead, Jim I.*,**,**
+83,8851,*Van Devender, Thomas R.*,**,**
+83,8851,*Cole, Kenneth L.*,**,**
+83,8860,*Schoch, Robert Milton*,**,**
+83,8870,*Lillegraven, Jason A.*,**,*r*
+83,8880,*Webb, S. David*,**,**
+83,8890,*Lyman, R. Lee*,**,**
+83,8900,*Ray, Clayton E.*,**,**
+83,8910,*Marshall, Larry G.*,**,*r*
+83,8920,*Campbell, Kenton Stewart Wall*,**,**
+83,8921,*Phuoc, Le Duy*,**,**
+83,8930,*Duffin, Christopher J.*,**,**
+83,8931,*Ward, David John*,**,**
+83,8940,*Tattersall, Ian M.*,**,**
+83,8941,*Schwartz, Jeffrey H.*,**,**
+83,8950,*Long, John A.*,**,**
+83,8960,*Cox, Christopher Barry*,**,**
+83,8961,*Li Jinling*,*Li, Jin-Ling*,**
+83,8970,*Li Jinling*,*Li Jin Ling*,**
+83,8980,*Borgen, Ulf J.*,**,**
+83,8990,*Jain, Sohan Lall*,*Jain, Sohan L.*,**
+83,9000,*MacPhee, Ross D. E.*,**,**
+83,9001,*Woods, Charles A.*,**,**
+83,9001,*Morgan, Gary S.*,**,**
+83,9010,*Duffin, Christopher J.*,**,**
+83,9011,*Ward, David John*,**,**
+83,9020,*Laib, Heinrich*,**,**
+83,9030,*Heinrich, Arno*,**,**
+83,9040,*Schatz, Rolf H.*,**,**
+83,9050,*Kuehne, Walter G.*,**,**
+83,9060,*Anonymous*,**,**
+83,9070,*Menzel, Herbert*,**,**
+83,9080,*Jungheim, Hans Joseph*,**,**
+83,9090,*Anonymous*,**,**
+83,9100,*Gaffney, Eugene S.*,**,**
+83,9110,*Blieck, Alain*,**,**
+83,9111,*Goujet, Daniel*,**,**
+83,9120,*Tassy, Pascal*,**,**
+83,9130,*Tillier, Anne-Marie*,**,**
+83,9140,*Russell, Donald E.*,**,*r*
+83,9150,*Petter, Germaine*,**,**
+83,9151,*Hoffstetter, Robert*,**,**
+83,9160,*Tassy, Pascal*,**,**
+83,9170,*Devillers, Charles*,**,**
+83,9171,*de Ricqles, Armand*,**,**
+83,9180,*Devillers, Charles*,**,*r*
+83,9190,*Tassy, Pascal*,**,**
+83,9200,*Flynn, Lawrence John*,**,**
+83,9201,*Jacobs, Louis L.*,**,**
+83,9201,*Sen, Sevket*,**,**
+83,9210,*Bayshashev, B. U.*,*Bayshashov, B. U.*,**
+83,9220,*Keupp, Helmut*,**,**
+83,9230,*Riess, Paul*,**,**
+83,9240,*Keupp, Helmut*,**,**
+83,9250,*Forstmeyer, Alfred*,**,**
+83,9260,*Keupp, Helmut*,**,**
+83,9270,*Forstmeyer, Alfred*,**,**
+83,9280,*Pietsch, Harald*,**,**
+83,9290,*Heissler, Ronald*,**,**
+83,9300,*Heissler, Ronald*,**,**
+83,9310,*Petit-Maire, Nicole*,**,*e*
+83,9311,*Riser, Jean*,*Riser, J.*,*e*
+83,9320,*Gayet, Mireille*,**,**
+83,9330,*de Broin, France*,**,**
+83,9340,*Buffetaut, Eric*,**,**
+83,9350,*Guerin, Claude*,**,**
+83,9351,*Faure, Martine*,**,**
+83,9360,*Petit-Maire, Nicole*,**,**
+83,9370,*Vandermeersch, Bernard*,**,**
+83,9380,*Bar-Yosef, Ofer*,**,**
+83,9381,*Tchernov, Eitan*,**,**
+83,9390,*Noy, Tamar*,**,**
+83,9391,*Issar, A.*,**,**
+83,9400,*Bar-Yosef, Ofer*,**,**
+83,9410,*Noy, Tamar*,**,**
+83,9411,*Higgs, E.*,**,**
+83,9420,*Marks, Anthony E.*,**,**
+83,9430,*Marks, Anthony E.*,**,**
+83,9440,*Bar-Yosef, Ofer*,**,**
+83,9441,*Tchernov, Eitan*,**,**
+83,9450,*Marks, Anthony E.*,**,**
+83,9460,*Marks, Anthony E.*,**,**
+83,9461,*Ferring, C. Reid*,**,**
+83,9461,*Munday, F.*,**,**
+83,9461,*Jeschofnig, P.*,**,**
+83,9461,*Singleton, N.*,**,**
+83,9470,*Wreschner, Ernst E.*,**,**
+83,9480,*Lechevallier, Monique*,**,**
+83,9490,*Valla, Francois Raymond*,*Valla, F. R.*,**
+83,9500,*Prausnitz, Moshe W.*,*Prausnitz, M. W.*,**
+83,9501,*Ronen, Avraham*,**,**
+83,9510,*Gilead, Itzhak*,**,**
+83,9511,*Bar-Yosef, Ofer*,**,**
+83,9520,*Goldberg, Paul*,**,*r*
+83,9530,*Ohel, Milla Y.*,**,*r*
+83,9540,*Euler, R. Thomas*,**,**
+83,9550,*Moe, Jeanne M.*,**,**
+83,9560,*Miller, Karen G.*,**,**
+83,9570,*Chronic, Lucy M.*,**,**
+83,9571,*Latady, William R., Jr.*,**,**
+83,9580,*Mehrotra, Deepak Kumar*,**,**
+83,9590,*Srikanta, S. V.*,**,*r*
+83,9600,*Srinivasan, M. S.*,**,*r*
+83,9610,*Campos, Diogenes de Almeida*,*de Almeida Campos, Diogenes*,**
+83,9620,*Cunha, Fausto Luiz de Souza*,*de Souza Cunha, Fausto Luiz*,**
+83,9621,*Netto, Coriolano M. Dias*,*Dias Netto, Coriolano M.*,**
+83,9621,*Andrade, Amaro Barcia*,*Barcia Andrade, Amaro*,**
+83,9630,*Anonymous*,**,*e*
+83,9640,*Bouchud, Jean*,**,**
+83,9650,*Coppens, Yves*,**,**
+83,9660,*Ellenberger, Paul*,**,**
+83,9670,*Gaudant, Mireille*,**,**
+83,9680,*Hartenberger, Jean-Louis*,**,**
+83,9690,*Hoffstetter, Robert*,**,**
+83,9700,*Jaeger, Jean-Jacques*,**,**
+83,9710,*Jammot, Dominique*,**,**
+83,9720,*Michaux, Jacques*,**,**
+83,9730,*Paicheler, Jean-Claude*,**,**
+83,9740,*Petit-Maire, Nicole*,**,**
+83,9750,*Ringeade, Michel*,**,**
+83,9760,*Sige, Bernard*,**,**
+83,9770,*Thaler, Louis*,**,**
+83,9780,*Vianey-Liaud, Monique*,**,**
+83,9790,*Anonymous*,**,*e*
+83,9800,*Crouzel, Fernand*,**,**
+83,9810,*Ellenberger, Paul*,**,**
+83,9820,*Gerber, Jean-Pierre*,**,**
+83,9821,*de Lumley, Henry*,**,**
+83,9821,*Miskovsky, Jean-Claude*,**,**
+83,9821,*Renault-Miskovsky, Josette*,**,**
+83,9830,*Sige, Bernard*,**,**
+83,9840,*Sudre, Jean*,**,**
+83,9850,*Anonymous*,**,*e*
+83,9860,*Battail, Bernard*,**,**
+83,9870,*Blieck, Alain*,**,**
+83,9871,*Goujet, Daniel*,**,**
+83,9871,*Janvier, Philippe*,**,**
+83,9871,*Lelievre, Herve*,**,**
+83,9880,*Bonifay, Marie-Francoise*,**,**
+83,9890,*Brugal, Jean-Philip*,**,**
+83,9900,*Buffetaut, Eric*,**,**
+83,9910,*Coiffait, Brigitte*,**,**
+83,9920,*Denys, S.*,**,**
+83,9930,*Faure, Martine*,**,**
+83,9931,*Guerin, Claude*,**,**
+83,9940,*Ginsburg, Leonard*,**,**
+83,9950,*Gromolard, Catherine*,**,**
+83,9960,*Guerin, Claude*,**,**
+83,9961,*Eisenmann, Vera*,**,**
+83,9970,*Heyler, Daniel*,**,**
+83,9980,*Lelievre, Herve*,**,**
+83,9990,*Martin, Michel*,**,**
+83,10000,*Mazin, Jean-Michel*,**,**
+83,10010,*Miskovsky, Jean-Claude*,**,**
+83,10020,*de Muizon, Christian*,**,**
+83,10030,*Plaziat, Jean-Claude*,**,**
+83,10031,*Ellenberger, Francois*,**,**
+83,10040,*Pomerol, Charles*,**,**
+83,10050,*Tassy, Pascal*,**,**
+83,10060,*Termier, Genevieve*,**,**
+83,10061,*Termier, Henri*,**,**
+83,10070,*Termier, Henri*,**,**
+83,10071,*Termier, Genevieve*,**,**
+83,10080,*Jakob, Teuku*,*Jacob, T.*,**
+83,10081,*Kadar, Darwin*,**,**
+83,10090,*Golden, Julia*,**,**
+83,10091,*Marcus, Leslie F.*,**,**
+83,10091,*Dename, Judith T.*,**,**
+83,10100,*Baker, Woolford B.*,**,**
+83,10110,*Burke, Ann C.*,**,**
+83,10111,*Anderson, Michael*,**,**
+83,10111,*Weld, Alison*,**,**
+83,10111,*Gaffney, Eugene S.*,**,**
+83,10120,*Rensberger, John M.*,**,**
+83,10130,*Waters, Barbara T.*,**,**
+83,10131,*Savage, Donald Elvin*,**,**
+83,10140,*Miller, George J.*,**,**
+83,10150,*Nicholson, Thomas D.*,**,**
+83,10160,*Rudner, Ione E.*,*Rudner, Ione*,**
+83,10170,*Nicholson, Thomas D.*,**,**
+83,10180,*Madsen, James H., Jr.*,**,**
+83,10190,*Schrimper, George D.*,**,**
+83,10200,*Majumdar, Pranab Kumar*,**,**
+83,10210,*Howie, Francis M. P.*,**,**
+83,10220,*Burns, Sheila*,**,**
+83,10230,*Maisey, John G.*,**,**
+83,10240,*Naylor, Bruce G.*,**,**
+83,10250,*Bryant, Laurie J.*,**,**
+83,10260,*Nullo, Francisco E.*,**,*e*
+83,10261,*Ploszkiewicz, Victor*,**,*e*
+83,10261,*Marin, Graciela*,**,*e*
+83,10270,*Fidalgo, Francisco*,**,**
+83,10271,*Tonni, Eduardo Pedro*,**,**
+83,10280,*Aguirre Urreta, Maria B.*,**,**
+83,10281,*Ramos, Victor A.*,**,**
+83,10290,*Gonzales, Miguel Angel*,**,**
+83,10300,*Salinas Z., Patricia*,**,**
+83,10310,*Uliana, Miguel A.*,**,**
+83,10311,*Dellape, D. A.*,**,**
+83,10320,*Moreno Espelta, Carlos*,**,**
+83,10321,*Arias, Julio Eduardo*,**,**
+83,10321,*Chavez, Angel*,**,**
+83,10330,*Pascual, Rosendo*,**,**
+83,10331,*Bond, Mariano*,**,**
+83,10331,*Vucetich, Maria Guiomar*,**,**
+83,10340,*Nullo, Francisco E.*,**,*e*
+83,10341,*Ploszkiewicz, Victor*,**,*e*
+83,10341,*Marin, Graciela*,**,*e*
+83,10350,*Fidalgo, Francisco*,**,**
+83,10351,*Figini, Anibal J.*,**,**
+83,10351,*Gomez, Gabriel J.*,**,**
+83,10351,*Carbonari, Jorge E.*,**,**
+83,10351,*Huarte, Roberto A.*,**,**
+83,10360,*Scillato Yane, Gustavo Juan*,**,**
+83,10370,*Contreras, Victor Hugo*,**,**
+83,10380,*Kulikov, Mikhail Vasil'yevich*,**,**
+83,10390,*Kulikov, Mikhail Vasil'yevich*,**,**
+83,10400,*Khozatskiy, Lev Isaakovich*,**,**
+83,10410,*Maksimova, Z. A.*,**,**
+83,10420,*Rozhdestvenskiy, Anatoliy Konstantinovich*,**,**
+83,10430,*Khozatskiy, Lev Isaakovich*,**,**
+83,10440,*Kulikov, Mikhail Vasil'yevich*,**,**
+83,10450,*Selezneva, Al'vina Aleksandrovna*,**,**
+83,10460,*Minikh, Alla Vasil'yevna*,*Minich, A.*,**
+83,10470,*Vyalov, Oleg Stepanovich*,**,**
+83,10480,*Donakova, L. M.*,**,**
+83,10481,*Titova, Ye. I.*,**,**
+83,10490,*Khozatskiy, Lev Isaakovich*,*Khosatzky, L. I.*,**
+83,10500,*Borovikov, L. I.*,**,**
+83,10510,*Nesov, Lev A.*,*Nessov, L. A.*,**
+83,10520,*Kovaleva, N. P.*,**,**
+83,10521,*Nesov, Lev A.*,**,**
+83,10521,*Favorskaya, T. A.*,**,**
+83,10530,*Nesov, Lev A.*,**,**
+83,10540,*Donakova, L. M.*,**,**
+83,10541,*Titova, Ye. I.*,**,**
+83,10550,*Nesov, Lev A.*,*Nessov, L. A.*,**
+83,10551,*Khozatskiy, Lev Isaakovich*,*Khosatzky, L. I.*,**
+83,10560,*Maksimova, Z. A.*,**,**
+83,10561,*Titova, Ye. I.*,**,**
+83,10570,*Verzilin, Nikita Nikolayevich*,**,**
+83,10571,*Galibin, V. A.*,**,**
+83,10571,*Mironenko, O. A.*,**,**
+83,10571,*Nesov, Lev A.*,**,**
+83,10571,*Khozatskiy, Lev Isaakovich*,**,**
+83,10580,*Duff, Patrick*,**,**
+83,10590,*Arnold, Edwin Nicholas*,**,**
+83,10600,*Barghoorn, Steven Frederick*,**,**
+83,10610,*Maisey, John G.*,**,**
+83,10620,*Cifelli, Richard L.*,**,**
+83,10630,*Tattersall, Ian M.*,**,**
+83,10631,*Schwartz, Jeffrey H.*,**,**
+83,10640,*Wahlert, John H.*,**,**
+83,10650,*Hook, Robert W.*,**,**
+83,10660,*Cifelli, Richard L.*,**,**
+83,10661,*Soria, Miguel Fernando*,**,**
+83,10670,*Cifelli, Richard L.*,**,**
+83,10680,*Mourer-Chauvire, Cecile*,**,**
+83,10690,*Gaffney, Eugene S.*,**,**
+83,10700,*Crouzel, Fernand*,**,**
+83,10701,*Manenc, A.*,**,**
+83,10701,*Revel, Jean-Claude*,*Revel, J.-C.*,**
+83,10710,*Clot, Andre*,**,**
+83,10720,*Bartels, William S.*,**,**
+83,10730,*Flannery, Timothy F.*,**,**
+83,10731,*Mountain, Mary-Jane*,**,**
+83,10731,*Aplin, K.*,**,**
+83,10740,*Dawson, Lyndall*,**,**
+83,10750,*Turner, Alan*,**,**
+83,10760,*Baughman, Bill*,**,*e*
+83,10770,*Learner, Robert J.*,**,**
+83,10780,*Baughman, Bill*,**,*e*
+83,10790,*Schiebout, Judith Ann*,**,**
+83,10800,*Baughman, Bill*,**,*e*
+83,10810,*Hannibal, Joe*,**,**
+83,10820,*Baughman, Bill*,**,*e*
+83,10830,*Parent, J.-P.*,**,**
+83,10840,*Cluver, Michael A.*,**,**
+83,10841,*King, Gillian M.*,**,**
+83,10850,*Belanger, Leonard F.*,**,**
+83,10860,*Venzo, Sergio*,**,**
+83,10861,*Petrucci, Franco*,**,**
+83,10861,*Carraro, Francesco*,**,**
+83,10870,*Bizzarini, Fabrizio*,**,**
+83,10871,*Bizzotto, Bruno*,**,**
+83,10871,*Braga, Giampietro*,**,**
+83,10880,*Wilkins, Kenneth T.*,**,**
+83,10890,*Krause, David W.*,**,**
+83,10891,*Jenkins, Farish A., Jr.*,**,**
+83,10900,*Pilleri, Giorgio*,**,**
+83,10901,*Gihr, Margarete*,**,**
+83,10910,*Pilleri, Giorgio*,**,**
+83,10920,*Grayson, Donald*,**,**
+83,10930,*Bahlo, Ekkehard*,**,**
+83,10940,*Burchak-Abramovich, Nikolay Iosifovich*,**,*r*
+83,10950,*Yurtsev, Boris Aleksandrovich*,*Yurtsev, B. A.*,*r*
+83,10960,*Nesmeyanov, Sergey Alekseyevich*,**,**
+83,10961,*Makarov, Vladimir Ivanovich*,**,**
+83,10970,*Markova, Anastasiya Konstantinovna*,**,**
+83,10980,*Aleksandrova, Lidiya Petrovna*,**,**
+83,10990,*Vislobokova, Innessa Anatol'yevna*,**,**
+83,11000,*Tseytlin, Semen Markovich*,*Zeitlin, S. M.*,**
+83,11010,*Vislobokova, Innessa Anatol'yevna*,**,**
+83,11020,*Zinova, R. A.*,**,**
+83,11030,*Nikiforova, Kseniya Vladimirovna*,**,**
+83,11040,*Kuz'mina, I. Ye.*,**,**
+83,11050,*Ivanova, Irina Konstantinovna*,**,**
+83,11060,*Adamenko, R. S.*,**,**
+83,11070,*Campbell, Colin R.*,**,**
+83,11080,*Rich, Patricia Vickers*,**,**
+83,11081,*van Tets, Gerard Frederick*,**,**
+83,11090,*Minkoff, Eli C.*,**,**
+83,11100,*Janzen, Daniel H.*,**,**
+83,11110,*Temerin, L. Alis*,**,**
+83,11111,*Cant, John G. H.*,**,**
+83,11120,*Kolosov, Yuriy Georgiyevich*,**,**
+83,11121,*Kharitonov, V. M.*,**,**
+83,11121,*Yakimov, Vsevolod Petrovich*,**,**
+83,11130,*Savich, Vsevolod Pavlovich*,**,**
+83,11140,*Ivanova, Irina Konstantinovna*,**,**
+83,11141,*Rengarten, N. V.*,*Renngarten, N. V.*,**
+83,11150,*Krasenkov, R. V.*,**,**
+83,11151,*Agadzhanyan, Aleksandr Karenovich*,*Agajanian, A. K.*,**
+83,11160,*Shamsutdinov, V. Kh.*,**,**
+83,11170,*Okladnikov, Aleksey Pavlovich*,**,**
+83,11171,*Ovodov, Nikolay Dmitriyevich*,**,**
+83,11171,*Rybakov, S. A.*,**,**
+83,11180,*Pakhomov, Mikhail Mikhaylovich*,**,**
+83,11181,*Shofman, I. L.*,**,**
+83,11181,*Prokopchuk, Bogdan Ivanovich*,**,**
+83,11190,*Burchuladze, A. A.*,**,**
+83,11191,*Gedevanishvili, L. D.*,**,**
+83,11191,*Pagava, S. V.*,**,**
+83,11191,*Oganezov, P. S.*,**,**
+83,11191,*Togonidze, G. I.*,**,**
+83,11191,*Eristavi, I. V.*,**,**
+83,11200,*Arslanov, Kh. A.*,**,**
+83,11201,*Kurenkova, Ye. I.*,**,**
+83,11210,*Solov'yeva, M. N.*,**,**
+83,11220,*Golubeva, Lidiya Vladimirovna*,**,**
+83,11221,*Roslikova, V. I.*,**,**
+83,11221,*Sokhina, E. N.*,**,**
+83,11230,*Petrin, V. T.*,**,**
+83,11231,*Tseytlin, Semen Markovich*,**,**
+83,11240,*Alekseyeva, Lyudmila Ivanovna*,**,**
+83,11241,*Baygusheva, Vera S.*,**,**
+83,11250,*Guslitser, Boris I.*,**,**
+83,11260,*Agadzhanyan, Aleksandr Karenovich*,*Agadjanjian, A. K.*,**
+83,11261,*Kalutskaya, S. A.*,**,**
+83,11270,*Nikonov, Andrey Alekseyevich*,**,**
+83,11271,*Pakhomov, Mikhail Mikhaylovich*,**,**
+83,11280,*Nikiforova, Kseniya Vladimirovna*,**,**
+83,11281,*Alekseyev, Mikhail Nikolayevich*,**,**
+83,11290,*Burchak-Abramovich, Nikolay Iosifovich*,**,*r*
+83,11300,*Gerasimov, Innokentiy Petrovich*,**,**
+83,11301,*Zavel'skiy, F. S.*,**,**
+83,11301,*Chichagova, O. A.*,**,**
+83,11301,*Doroshenko, V. V.*,**,**
+83,11301,*Cherkinskiy, A. Ye.*,**,**
+83,11301,*Kurenkova, Ye. I.*,**,**
+83,11301,*Lykhin, V. L.*,**,**
+83,11310,*Sickenberg, Otto*,*Zikenberg, Otto*,**
+83,11311,*Tobien, Heinz*,*Tobien, Geynts*,**
+83,11320,*Badam, Gyani Lal*,**,**
+83,11330,*Gabuniya, Leo Kallistratovich*,**,**
+83,11331,*Tushabramishvili, D. M.*,**,**
+83,11331,*Vekua, Abesalom Kapitonovich*,**,**
+83,11340,*Savich, Vsevolod Pavlovich*,*Savich, V. P.*,**
+83,11350,*Raskatov, G. I.*,**,**
+83,11351,*Kholmovoy, G. V.*,**,**
+83,11360,*Molyavko, Grigoriy Ivanovich*,**,**
+83,11361,*Shovkoplyas, Ivan Grigor'yevich*,**,**
+83,11370,*Vangengeym, Eleonora Alekseyevna*,**,**
+83,11371,*Sotnikova, M. V.*,**,**
+83,11380,*Kalmykov, N. P.*,**,**
+83,11390,*Delfaud, Jean*,*Delfaud, J.*,**
+83,11391,*Michaux, Jacques*,**,**
+83,11391,*Neurdin, J.*,**,**
+83,11391,*Revert, J.*,**,**
+83,11400,*Broekman, J. A.*,**,**
+83,11401,*Besems, R. E.*,**,**
+83,11401,*van Daalen, P.*,**,**
+83,11401,*Steensma, K.*,**,**
+83,11410,*Besems, R. E.*,**,**
+83,11411,*van de Weerd, Anne*,**,**
+83,11420,*Broekman, J. A.*,**,**
+83,11430,*Erdbrink, Dirk Pieter Bosscha*,**,**
+83,11440,*Flynn, Lawrence John*,**,**
+83,11441,*Heintz, Emile*,**,**
+83,11441,*Sen, Sevket*,**,**
+83,11441,*Brunet, Michel*,**,**
+83,11450,*Erdbrink, Dirk Pieter Bosscha*,**,**
+83,11460,*Thewissen, J. G. M.*,**,**
+83,11461,*Russell, Donald E.*,**,**
+83,11461,*Gingerich, Philip D.*,**,**
+83,11461,*Hussain, S. Taseer*,**,**
+83,11470,*Russell, Donald E.*,**,**
+83,11471,*Thewissen, J. G. M.*,**,**
+83,11471,*Sigogneau-Russell, Denise*,**,**
+83,11480,*Schmidt-Kittler, Norbert*,**,**
+83,11490,*Sigogneau-Russell, Denise*,**,**
+83,11491,*Russell, Donald E.*,**,**
+83,11500,*Redkozubov, O. I.*,**,**
+83,11510,*Kon'kova, Nadezhda Iradionovna*,**,**
+83,11520,*Negadayev-Nikonov, Konstantin Nikolayevich*,**,**
+83,11530,*Donoso-Barros, Roberto*,*Donoso-Barros, R.*,**
+83,11540,*Greenwood, Peter Humphry*,**,**
+83,11550,*Cruz, Alexander*,**,**
+83,11560,*Tanner, Lloyd G.*,**,**
+83,11570,*Turner, Mary Ann*,**,**
+83,11580,*Champetier, Yves*,**,**
+83,11590,*Demathieu, Georges*,**,**
+83,11591,*Saiz de Omenaca, Jesus*,**,**
+83,11600,*Brunet, Michel*,**,**
+83,11601,*Jehenne, Yves*,**,**
+83,11610,*Ziegler, Bernhard*,**,*e*
+83,11620,*Ziegler, Bernhard*,**,**
+83,11630,*Kuhn-Schnyder, Emil*,**,**
+83,11640,*Wild, Rupert*,**,**
+83,11650,*Ziegler, Bernhard*,**,**
+83,11660,*Kotsakis, Tassos*,**,**
+83,11661,*Petronio, Carmelo*,**,**
+83,11670,*Whetstone, Kenneth N.*,**,**
+83,11671,*Whybrow, Peter J.*,**,**
+83,11680,*Apostol, Leonid*,**,**
+83,11690,*Cacoveanu, Iona*,**,**
+83,11700,*Jaeger, Jean-Jacques*,**,**
+83,11701,*Lopez Martinez, Nieves*,**,**
+83,11701,*Michaux, Jacques*,**,**
+83,11701,*Thaler, Louis*,**,**
+83,11710,*Wagner, Hugh McKinlay*,**,**
+83,11720,*Corner, Richard George*,**,**
+83,11730,*Messenger, Karen Kreycik*,**,**
+83,11731,*Messenger, Charles L.*,**,**
+83,11740,*Schultz, Charles Bertrand*,**,**
+83,11741,*Hillerud, John M.*,**,**
+83,11750,*Stout, Thompson Mylan*,**,**
+83,11760,*Tanner, Lloyd G.*,**,**
+83,11770,*Voorhies, Michael R.*,**,**
+83,11780,*Dutrow, Barbara Lee*,**,**
+83,11790,*Schoch, Robert Milton*,**,**
+83,11800,*Padian, Kevin*,**,**
+83,11810,*Schoch, Robert Milton*,**,**
+83,11820,*Archibald, J. David*,**,**
+83,11821,*Schoch, Robert Milton*,**,**
+83,11821,*Rigby, J. Keith, Jr.*,**,**
+83,11830,*Gillette, David D.*,**,**
+83,11840,*Gillette, David D.*,**,**
+83,11841,*Colbert, Edwin Harris*,**,**
+83,11850,*Pledge, Neville S.*,**,**
+83,11860,*Pledge, Neville S.*,**,**
+83,11870,*Pledge, Neville S.*,**,**
+83,11871,*Rothausen, Karlheinz*,**,**
+83,11880,*Aoki, Riosuke*,**,**
+83,11890,*Hirsch, Karl F.*,**,**
+83,11900,*Allison, Ira S.*,**,**
+83,11901,*Bond, Carl E.*,**,**
+83,11910,*Storrs, Glenn W.*,**,**
+83,11911,*Lucas, Spencer G.*,**,**
+83,11911,*Schoch, Robert Milton*,**,**
+83,11920,*Evans, Susan E.*,**,**
+83,11930,*Chiriac, Mircea*,**,**
+83,11931,*Grigorescu, Dan*,**,**
+83,11940,*Tataram, Nita*,**,**
+83,11941,*Rado, Gertrude*,**,**
+83,11941,*Pana, Ioana*,**,**
+83,11941,*Hanganu, Elisabeta*,**,**
+83,11941,*Grigorescu, Dan*,**,**
+83,11950,*Suraru, Maria*,**,**
+83,11951,*Strusievici, R.*,**,**
+83,11951,*Laszlo, K.*,**,**
+83,11960,*Dalquest, Walter W.*,**,**
+83,11970,*Dennis-Bryan, Kim D.*,**,**
+83,11971,*Miles, Roger S.*,**,**
+83,11980,*Scott, Kathleen M.*,**,**
+83,11990,*Kemp, Thomas Stainforth*,*Kemp, Tom S.*,**
+83,12000,*Black, Craig C.*,**,**
+83,12001,*Stephens, John J., III*,**,**
+83,12010,*Sutton, John F.*,**,**
+83,12011,*Genoways, Hugh H.*,**,**
+83,12020,*Krishtalka, Leonard*,**,**
+83,12021,*Stucky, Richard K.*,**,**
+83,12030,*Krishtalka, Leonard*,**,**
+83,12031,*Stucky, Richard K.*,**,**
+83,12040,*West, Robert M.*,**,**
+83,12050,*Stucky, Richard K.*,**,**
+83,12051,*Krishtalka, Leonard*,**,**
+83,12060,*Reisz, Robert R.*,**,**
+83,12061,*Baird, Donald*,**,**
+83,12070,*Mol, D.*,**,**
+83,12080,*Benton, Michael J.*,**,**
+83,12090,*Forsten, Ann-Marie*,*Forsten, Ann*,**
+83,12100,*Berta, Annalisa*,**,**
+83,12101,*Galiano, Henry*,**,**
+83,12110,*Bolt, John R.*,**,**
+83,12111,*DeMar, Robert E.*,**,**
+83,12120,*Gingerich, Philip D.*,**,**
+83,12121,*Houde, Peter*,**,**
+83,12121,*Krause, David W.*,**,**
+83,12130,*Prothero, Donald R.*,**,**
+83,12140,*Schultze, Hans-Peter*,**,**
+83,12141,*Chorn, John Douglas*,**,**
+83,12150,*Schultze, Hans-Peter*,**,**
+83,12151,*Enciso, Gonzalo*,**,**
+83,12160,*Villaroel Arispe, Carlos*,*Villaroel, Carlos*,**
+83,12161,*Marshall, Larry G.*,**,**
+83,12170,*Lund, Wendy L.*,**,**
+83,12180,*Nikonov, Andrey Alekseyevich*,**,**
+83,12190,*Sayadyan, Yu. V.*,**,**
+83,12200,*Agadzhanyan, Aleksandr Karenovich*,**,**
+83,12210,*Vereshchagin, Nikolay Kuz'mich*,**,**
+83,12220,*Arslanov, Kh. A.*,**,**
+83,12221,*Voznyachuk, L. N.*,**,**
+83,12221,*Kalechits, Ye. G.*,**,**
+83,12221,*Kolesnikov, V. S.*,**,**
+83,12230,*Musil, Rudolf*,**,**
+83,12240,*Musil, Rudolf*,**,**
+83,12250,*Jelinek, Jan*,**,**
+83,12260,*Valoch, Karel*,**,**
+83,12270,*Brzobohaty, Rostislav*,**,**
+83,12271,*Kalabis, Vladimir*,**,**
+83,12280,*Musil, Rudolf*,**,**
+83,12290,*Musil, Rudolf*,**,**
+83,12300,*Kos, Oldrich*,**,**
+83,12310,*Bahlo, Ekkehard*,**,**
+83,12320,*Boy, Juergen A.*,**,**
+83,12330,*Fichter, Juergen*,**,**
+83,12340,*Malec, Franz*,**,**
+83,12341,*Tobien, Heinz*,**,**
+83,12350,*Tobien, Heinz*,**,**
+83,12360,*Demere, Thomas A.*,**,**
+83,12370,*Demere, Thomas A.*,**,**
+83,12380,*Chandler, Robert M.*,**,**
+83,12390,*MacCracken, Peter J.*,**,**
+83,12400,*Anonymous*,**,**
+83,12410,*Rich, Patricia Vickers*,**,**
+83,12411,*Walker, Cyril A.*,**,**
+83,12420,*Andelkovic, Jelena Sergej*,*Andjelkovich, J. S.*,**
+83,12430,*Andelkovic, Jelena Sergej*,*Andzhelkovich, Ye. S.*,**
+83,12440,*Pavlovic, Milorad Bozidar*,*Pavlovich, M. B.*,**
+83,12450,*Pavlovic, Milorad Bozidar*,**,**
+83,12451,*Milic, Radomir*,*Milich, R.*,**
+83,12451,*Eremija, Marko I.*,**,**
+83,12460,*Andelkovic, Jelena Sergej*,*Andjelkovich, E. S.*,**
+83,12470,*Pavlovic, Milorad Bozidar*,**,**
+83,12480,*Andelkovic, Jelena Sergej*,**,**
+83,12490,*Pavlovic, Milorad Bozidar*,**,**
+83,12500,*Andelkovic, Jelena Sergej*,**,**
+83,12510,*Andelkovic, Jelena Sergej*,**,**
+83,12520,*Pavlovic, Milorad Bozidar*,**,**
+83,12530,*Andelkovic, Jelena Sergej*,**,**
+83,12540,*Graham, Russell W.*,**,**
+83,12541,*Holman, J. Alan*,**,**
+83,12541,*Parmalee, Paul W.*,**,**
+83,12550,*Spotila, James R.*,**,**
+83,12551,*Lommen, Paul W.*,**,**
+83,12551,*Bakken, George S.*,**,**
+83,12551,*Gates, David M.*,**,**
+83,12560,*Hopson, James A.*,**,**
+83,12570,*Tracy, C. Richard*,**,**
+83,12580,*Pledge, Neville S.*,**,**
+83,12590,*Wiig, Oystein*,**,**
+83,12600,*Rogers, Karel L.*,**,**
+83,12610,*Crumly, Charles R.*,**,**
+83,12620,*Crumly, Charles R.*,**,**
+83,12630,*Wellstead, Carl F.*,**,**
+83,12640,*Franz, Richard*,**,**
+83,12641,*Woods, Charles A.*,**,**
+83,12650,*Wellstead, Carl F.*,**,**
+83,12660,*Holman, J. Alan*,**,**
+83,12670,*Pfannenstiel, Max*,**,**
+83,12680,*Adam, Karl Dietrich*,**,**
+83,12690,*Corvinus, Gudrun*,**,**
+83,12691,*Rajaguru, S. N.*,**,**
+83,12691,*Mujumdar, G. G.*,**,**
+83,12700,*Desbrosse, Rene*,**,**
+83,12701,*Mourer-Chauvire, Cecile*,**,**
+83,12710,*Heller, Florian*,**,**
+83,12720,*Gabori-Csank, Veronika*,*Gabori-Csank, Vera*,*r*
+83,12730,*Freund, Gisela*,**,*r*
+83,12740,*Zuechner, Christian*,**,*r*
+83,12750,*Ehrenberg, Kurt*,*Ehrenberg, K.*,*r*
+83,12760,*Roth-Lutra, Karl H.*,**,*r*
+83,12770,*Oden, Gisela*,**,*r*
+83,12780,*Vereshchagin, Nikolay Kuz'mich*,**,**
+83,12790,*Iordanskiy, Nikolay Nikolayevich*,**,**
+83,12800,*Shilov, I. A.*,**,**
+83,12801,*Stephan, Burkhard*,*Shtefan, B.*,**
+83,12810,*Vereshchagin, Nikolay Kuz'mich*,**,**
+83,12811,*Baryshnikov, G. F.*,**,**
+83,12820,*Bartstra, Gert-Jan*,**,**
+83,12830,*Aparicio Perez, Jose*,**,**
+83,12840,*Naber, Friedrich B.*,**,**
+83,12850,*Desbrosse, Rene*,**,**
+83,12851,*Prat, Francois*,**,**
+83,12860,*Freund, Gisela*,**,*r*
+83,12870,*Zuechner, Christian*,**,**
+83,12880,*Antunes, Miguel Telles*,**,**
+83,12881,*Viret, Jean*,**,**
+83,12881,*Zbyszewski, Georges*,**,**
+83,12890,*Antunes, Miguel Telles*,**,**
+83,12900,*von Koenigswald, Wighart*,**,**
+83,12910,*Senes, Jan*,**,**
+83,12920,*Vialli, Vittorio*,**,*r*
+83,12930,*Adrover, Rafael*,**,**
+83,12931,*Feist, Monique*,**,**
+83,12931,*Ginsburg, Leonard*,**,**
+83,12931,*Guerin, Claude*,**,**
+83,12931,*Hugueney, Marguerite*,**,**
+83,12931,*Moissenet, Etienne*,**,**
+83,12940,*Dutuit, Jean-Michel*,**,**
+83,12941,*Heyler, Daniel*,**,**
+83,12950,*Anadon, Pedro*,**,**
+83,12951,*Feist, Monique*,**,**
+83,12951,*Hartenberger, Jean-Louis*,**,**
+83,12951,*Mueller, Carla*,*Muller, Carla*,**
+83,12951,*de Villalta Comella, Jose F.*,**,**
+83,12960,*Mazin, Jean-Michel*,**,**
+83,12961,*Martin, Michel*,**,**
+83,12970,*Ginsburg, Leonard*,**,**
+83,12971,*Ingavat, Rucha*,**,**
+83,12971,*Tassy, Pascal*,**,**
+83,12980,*Sigogneau-Russell, Denise*,**,**
+83,12990,*Clack, Jennifer A.*,**,**
+83,13000,*Duffin, Christopher J.*,**,**
+83,13001,*Coupatez, Paul*,**,**
+83,13001,*Lepage, Jean-Claude*,**,**
+83,13001,*Wouters, Georges*,**,**
+83,13010,*Bartstra, Gert-Jan*,**,**
+83,13020,*Agadzhanyan, Aleksandr Karenovich*,*Agadjanian, Alexandr Karenovich*,**
+83,13030,*Bosinski, Hannelore*,**,**
+83,13040,*Guenther, Ekke W.*,**,*r*
+83,13050,*Reisch, Ludwig*,**,*r*
+83,13060,*Zuechner, Christian*,**,*r*
+83,13070,*Roth-Lutra, Karl H.*,**,*r*
+83,13080,*Roth-Lutra, Karl H.*,**,*r*
+83,13090,*Kiernan, Kevin*,**,**
+83,13091,*Jones, Rhys*,**,**
+83,13091,*Ranson, Don*,**,**
+83,13100,*Dennell, Robin*,**,**
+83,13110,*Schwarcz, Henry P.*,**,**
+83,13111,*Blackwell, Bonnie*,**,**
+83,13120,*Fleagle, John G.*,**,**
+83,13121,*Simons, Elwyn L.*,**,**
+83,13130,*MacPhee, Ross D. E.*,**,**
+83,13131,*Cartmill, Matt*,**,**
+83,13131,*Gingerich, Philip D.*,**,**
+83,13140,*Bahn, Paul G.*,**,**
+83,13150,*Rich, Vera*,**,**
+83,13160,*Ridley, Mark*,**,**
+83,13170,*Benton, Michael J.*,**,**
+83,13180,*Kurten, Bjorn*,**,*r*
+83,13190,*Wood, Bernard A.*,**,*r*
+83,13200,*Cox, Christopher Barry*,*Cox, C. Barry*,*r*
+83,13210,*Patterson, Colin*,**,*r*
+83,13220,*White, Tim D.*,**,*r*
+83,13230,*Thulborn, Richard A.*,**,**
+83,13240,*Munthe, Jens*,**,**
+83,13241,*Dongol, Bishnu*,**,**
+83,13241,*Hutchison, J. Howard*,**,**
+83,13241,*Kean, William F.*,**,**
+83,13241,*Munthe, Kathleen*,**,**
+83,13241,*West, Robert M.*,**,**
+83,13250,*Holloway, Ralph L.*,**,**
+83,13260,*Hill, Andrew*,**,**
+83,13261,*Walker, Alan C.*,**,**
+83,13270,*Hooijer, Dirk Albert*,**,**
+83,13280,*Hooijer, Dirk Albert*,**,**
+83,13290,*Syrnev, I. P.*,**,**
+83,13300,*Sarwar, Muhammad*,**,**
+83,13310,*Valente, A.*,**,**
+83,13320,*Nussbaum, Ronald A.*,**,**
+83,13330,*Nokariya, Hiroshi*,**,**
+83,13340,*Ueno, Teruya*,*Uyeno, Teruya*,**
+83,13341,*Minakawa, Tetsuo*,**,**
+83,13350,*Nokariya, Hiroshi*,**,**
+83,13360,*Tomida, Yukimitsu*,**,**
+83,13370,*Coombs, Margery Chalifoux*,**,**
+83,13380,*Bourdier, Franck*,**,*e*
+83,13381,*Lautridou, Jean-Pierre*,**,*e*
+83,13390,*Bourdier, Franck*,**,**
+83,13391,*Lautridou, Jean-Pierre*,**,**
+83,13400,*Bourdier, Franck*,**,**
+83,13401,*Chaline, Jean*,**,**
+83,13401,*Munaut, Andre V.*,**,**
+83,13401,*Puissegur, Jean-Jacques*,**,**
+83,13410,*Chaline, Jean*,**,**
+83,13420,*Bourdier, Franck*,**,**
+83,13430,*Bourdier, Franck*,**,**
+83,13440,*Bourdier, Franck*,**,**
+83,13441,*Chaline, Jean*,**,**
+83,13441,*Munaut, Andre V.*,**,**
+83,13441,*Puissegur, Jean-Jacques*,**,**
+83,13450,*Jammot, Dominique*,**,**
+83,13460,*Lechevalier, Claude*,**,**
+83,13470,*Bourdier, Franck*,**,**
+83,13471,*Munaut, Andre V.*,**,**
+83,13471,*Prat, Francois*,**,**
+83,13471,*Puissegur, Jean-Jacques*,**,**
+83,13480,*Clair, Andre*,**,**
+83,13490,*Chaline, Jean*,**,*r*
+83,13500,*van Voorthuysen, J. H.*,**,*r*
+83,13510,*de Jong, Jan D.*,**,*r*
+83,13520,*van Voorthuysen, J. H.*,**,*r*
+83,13530,*Wolpoff, Milford H.*,**,**
+83,13540,*Wintle, A. G.*,**,**
+83,13550,*Skinner, A. F.*,**,**
+83,13560,*Debenham, N. C.*,**,**
+83,13570,*Williams, Nigel*,**,**
+83,13580,*Opdyke, Neil D.*,**,**
+83,13581,*Lindsay, Everett H.*,**,**
+83,13581,*Kukla, George J.*,*Kukla, G.*,**
+83,13581,*Repenning, Charles A.*,**,**
+83,13590,*Diamond, Jared M.*,**,**
+83,13600,*Howgate, Michael Edmund*,**,**
+83,13610,*Savage, Robert Joseph Gay*,*Savage, Robert J. G.*,*r*
+83,13620,*Charig, Alan Jack*,*Charig, Alan J.*,*r*
+83,13630,*Simons, Elwyn L.*,**,**
+83,13631,*Kay, Richard F.*,**,**
+83,13640,*Hill, Andrew*,**,*r*
+83,13650,*Benton, Michael J.*,**,**
+83,13660,*Rhodes, Frank H. T.*,**,**
+83,13670,*Boag, Peter T.*,**,**
+83,13680,*Walker, Alan C.*,**,**
+83,13681,*Falk, Dean*,**,**
+83,13681,*Smith, Richard*,**,**
+83,13681,*Pickford, Martin*,**,**
+83,13690,*Saraf, Suraj*,**,**
+83,13700,*Raza, Syed Mahmood*,**,**
+83,13701,*Barry, John C.*,**,**
+83,13701,*Pilbeam, David R.*,**,**
+83,13701,*Rose, Michael D.*,**,**
+83,13701,*Shah, S. M. Ibrahim*,**,**
+83,13701,*Ward, Steven C.*,**,**
+83,13710,*Wood, Bernard A.*,**,*r*
+83,13720,*King, Gillian M.*,**,**
+83,13721,*Thulborn, Richard A.*,**,**
+83,13730,*Wu Rukang*,*Woo Ju-kang*,**
+83,13731,*Oxnard, Charles E.*,**,**
+83,13740,*Henderson, P.*,**,**
+83,13741,*Marlow, C. A.*,**,**
+83,13741,*Molleson, Theya Ivitsky*,**,**
+83,13741,*Williams, C. T.*,**,**
+83,13750,*Shipman, Pat*,**,**
+83,13751,*Potts, Richard*,**,**
+83,13751,*Pickford, Martin*,**,**
+83,13760,*Benton, Michael J.*,**,*r*
+83,13770,*Howgate, Michael Edmund*,*Howgate, Michael*,**
+83,13780,*Novacek, Michael J.*,**,**
+83,13781,*McKenna, Malcolm C.*,**,**
+83,13781,*Neff, Nancy A.*,**,**
+83,13781,*Cifelli, Richard L.*,**,**
+83,13790,*Falk, Dean*,**,**
+83,13791,*Conroy, Glenn C.*,**,**
+83,13800,*Pinna, Giovanni*,**,**
+83,13810,*Pinna, Giovanni*,**,**
+83,13820,*Pinna, Giovanni*,**,**
+83,13830,*Pinna, Giovanni*,**,**
+83,13840,*Pinna, Giovanni*,**,**
+83,13850,*Pinna, Giovanni*,**,**
+83,13860,*Pinna, Giovanni*,**,**
+83,13870,*Giordani Soika, Antonio*,**,**
+83,13880,*Zambelli, Rocco*,**,**
+83,13890,*Tobien, Heinz*,**,**
+83,13900,*Bahlo, Ekkehard*,**,**
+83,13901,*Tobien, Heinz*,**,**
+83,13910,*Fichter, Juergen*,**,**
+83,13920,*Fichter, Juergen*,**,**
+83,13930,*Fichter, Juergen*,**,**
+83,13931,*Kowalczyk, Gotthard*,**,**
+83,13940,*Martinsson, Anders*,**,*r*
+83,13950,*Martinsson, Anders*,**,*r*
+83,13960,*Martinsson, Anders*,**,*r*
+83,13970,*Brood, Krister*,**,*r*
+83,13980,*Martinsson, Anders*,**,*r*
+83,13990,*Martinsson, Anders*,**,**
+83,14000,*Rapp, Anders*,**,*r*
+83,14010,*Lisboa, Moacyr do Amaral*,**,**
+83,14020,*Accordi, Bruno*,**,**
+83,14030,*Cappetta, Henri*,**,**
+83,14031,*Nolf, Dirk*,**,**
+83,14040,*Gaemers, Pieter A. M.*,**,**
+83,14050,*van den Bosch, M.*,**,**
+83,14060,*Steurbaut, Etienne*,**,**
+83,14070,*Cappetta, Henri*,**,**
+83,14080,*Gaemers, Pieter A. M.*,**,**
+83,14090,*Nolf, Dirk*,**,**
+83,14091,*Steurbaut, Etienne*,**,**
+83,14100,*Janvier, Philippe*,**,**
+83,14110,*Crochet, Jean-Yves*,**,**
+83,14111,*Remy, Jean-Albert*,**,**
+83,14111,*Sudre, Jean*,**,**
+83,14120,*Tassy, Pascal*,**,**
+83,14121,*Pickford, Martin*,**,**
+83,14130,*Buffetaut, Eric*,**,**
+83,14131,*Ingavat, Rucha*,**,**
+83,14140,*Galton, Peter M.*,**,**
+83,14150,*Monod, Olivier*,**,**
+83,14151,*Meshur, Metin*,**,**
+83,14151,*Martin, Michel*,**,**
+83,14151,*Lys, Maurice*,**,**
+83,14160,*Cheneval, Jacques*,**,**
+83,14170,*Pickford, Martin*,**,**
+83,14180,*Galton, Peter M.*,**,**
+83,14181,*Powell, H. Philip*,**,**
+83,14190,*Leonardi, Giuseppe*,**,**
+83,14200,*Goujet, Daniel*,**,*r*
+83,14210,*Arambourg, Camille*,**,**
+83,14220,*Ginsburg, Leonard*,**,**
+83,14230,*Orth, Bernard*,**,**
+83,14240,*Brunet, Michel*,**,**
+83,14250,*Runnegar, Bruce*,**,**
+83,14260,*Fordyce, R. Ewan*,**,**
+83,14270,*Lundelius, Ernest L., Jr.*,**,**
+83,14280,*Burke, Ann C.*,**,**
+83,14281,*Gaffney, Eugene S.*,**,**
+83,14281,*Rich, Thomas H. V.*,**,**
+83,14290,*Flannery, Timothy F.*,**,**
+83,14291,*Archer, Michael*,**,**
+83,14300,*Mourer-Chauvire, Cecile*,**,**
+83,14301,*Cheneval, Jacques*,**,**
+83,14310,*Sen, Sevket*,**,**
+83,14311,*Makinsky, Michel*,**,**
+83,14320,*Hugueney, Marguerite*,**,*r*
+83,14330,*Sanz Garcia, Jose Luis*,*Sanz, Jose Luis*,**
+83,14340,*Eisenmann, Vera*,**,**
+83,14341,*Ballesio, Roland*,**,**
+83,14341,*Beden, Michel*,**,**
+83,14341,*Faure, Martine*,**,**
+83,14341,*Geraads, Denis*,**,**
+83,14341,*Guerin, Claude*,**,**
+83,14341,*Heintz, Emile*,**,**
+83,14350,*Guerin, Claude*,**,*r*
+83,14360,*Marshall, Larry G.*,**,**
+83,14361,*de Muizon, Christian*,**,**
+83,14361,*Sige, Bernard*,**,**
+83,14370,*de Muizon, Christian*,**,**
+83,14371,*Gayet, Mireille*,**,**
+83,14371,*Lavenu, Alain*,**,**
+83,14371,*Marshall, Larry G.*,**,**
+83,14371,*Sige, Bernard*,**,**
+83,14371,*Villaroel Arispe, Carlos*,*Villaroel, Carlos*,**
+83,14380,*Coiffait, Brigitte*,**,**
+83,14381,*Coiffait, Philippe-Emmanuel*,**,**
+83,14390,*Denys, Christiane*,**,**
+83,14400,*Bendix-Almgreen, Svend Erik*,**,**
+83,14410,*Nybelin, Orvar*,**,**
+83,14420,*Lewin, Roger*,**,**
+83,14430,*Hopson, James A.*,**,*r*
+83,14440,*Lewin, Roger*,**,**
+83,14450,*Officer, Charles B.*,**,**
+83,14451,*Drake, Charles L.*,**,**
+83,14460,*Lidicker, William Z., Jr.*,**,*r*
+83,14470,*Gingerich, Philip D.*,**,**
+83,14471,*Wells, Neil A.*,**,**
+83,14471,*Russell, Donald E.*,**,**
+83,14471,*Shah, S. M. Ibrahim*,**,**
+83,14480,*Lewin, Roger*,**,**
+83,14490,*Jenkins, Farish A., Jr.*,**,**
+83,14491,*Krause, David W.*,**,**
+83,14500,*Chatterjee, Sankar*,**,**
+83,14510,*Taylor, R. Ervin, Jr.*,**,**
+83,14511,*Payen, Louis A.*,**,**
+83,14511,*Gerow, Bert A.*,**,**
+83,14511,*Donahue, Douglas J.*,**,**
+83,14511,*Zabel, Theodore H.*,**,**
+83,14511,*Jull, A. J. T.*,**,**
+83,14511,*Damon, Paul E.*,**,**
+83,14520,*Lewin, Roger*,**,**
+83,14530,*Hunt, Robert M., Jr.*,**,**
+83,14531,*Xue Xiangxu*,*Xue Xiang-Xu*,**
+83,14531,*Kaufman, Joshua*,**,**
+83,14540,*Lewin, Roger*,**,**
+83,14550,*Falk, Dean*,**,**
+83,14560,*Hickey, Leo J.*,**,**
+83,14561,*West, Robert M.*,**,**
+83,14561,*Dawson, Mary R.*,**,**
+83,14561,*Choi, Duck K.*,**,**
+83,14570,*McKenna, Malcolm C.*,**,*r*
+83,14580,*Gingerich, Philip D.*,**,**
+83,14590,*Brace, Charles Loring*,*Brace, C. Loring*,*r*
+83,14600,*Lewin, Roger*,**,**
+83,14610,*Warren, Claude N.*,**,*r*
+83,14620,*Jenkins, Farish A., Jr.*,**,**
+83,14621,*Crompton, Alfred Walter*,*Crompton, A. W.*,**
+83,14621,*Downs, William R.*,**,**
+83,14630,*Delson, Eric*,**,*r*
+83,14640,*Bown, Thomas M.*,**,**
+83,14650,*Heinrich, Wolf-Dieter*,**,*e*
+83,14660,*Heinrich, Wolf-Dieter*,**,**
+83,14670,*Agadzhanyan, Aleksandr Karenovich*,*Agadjanian, Aleksandr Karenovic*,**
+83,14680,*Boehme, Gottfried*,**,**
+83,14690,*Yerbayeva, Margarita Aleksandrovna*,*Erbaeva, Margarita A.*,**
+83,14691,*Angermann, Renate*,**,**
+83,14700,*Fejfar, Oldrich*,**,**
+83,14701,*Heinrich, Wolf-Dieter*,**,**
+83,14710,*Fejfar, Oldrich*,**,**
+83,14711,*Horacek, Ivan*,**,**
+83,14720,*Fischer, Karlheinz*,**,**
+83,14730,*Hahn, Gerhard*,**,**
+83,14740,*Janossy, Denes*,**,**
+83,14750,*Khozatskiy, Lev Isaakovich*,*Khosatzky, Lew J.*,**
+83,14751,*Christov, L.*,**,**
+83,14751,*Nankinov, D.*,**,**
+83,14760,*Mania, Dietrich*,**,**
+83,14770,*Musil, Rudolf*,**,**
+83,14780,*Repenning, Charles A.*,**,**
+83,14790,*Schott, Lothar*,**,**
+83,14800,*Wiegank, Friedrich*,**,**
+83,14810,*Wood, Albert E.*,**,**
+83,14820,*Janossy, Denes*,**,**
+83,14830,*Janossy, Denes*,**,**
+83,14831,*Krolopp, Endre*,**,**
+83,14840,*Topal, Gyorgy*,**,**
+83,14850,*Topal, Gyorgy*,**,**
+83,14860,*Mlikovsky, Jiri*,**,**
+83,14870,*Kordos, Laszlo*,**,**
+83,14880,*Janossy, Denes*,**,**
+83,14881,*Voros, Istvan*,**,**
+83,14890,*Voros, Istvan*,**,**
+83,14900,*Kordos, Laszlo*,**,**
+83,14910,*Topal, Gyorgy*,**,**
+83,14920,*Janossy, Denes*,**,**
+83,14930,*Voros, Istvan*,**,**
+83,14940,*Janossy, Denes*,**,**
+83,14950,*Li Chuankui*,*Li Chuan-Kuei*,**
+83,14951,*Ding Suyin*,*Ting Su-Yin*,**
+83,14960,*McIntosh, John S.*,**,**
+83,14970,*Cox, Janet*,**,**
+83,14980,*Marshack, Alexander*,**,**
+83,14990,*Whitehead, Paul Frederick*,**,**
+83,15000,*Holman, J. Alan*,**,**
+83,15010,*Ettensohn, Frank R.*,**,**
+83,15020,*Hansen, Michael C.*,**,**
+83,15030,*Taggart, Ralph E.*,**,**
+83,15031,*Cross, Aureal T.*,**,**
+83,15040,*Wang Yongyan*,**,**
+83,15041,*Teng Zhihong*,**,**
+83,15050,*Yang Zigeng*,**,**
+83,15051,*Xie Youyu*,*Xi Youyu*,**
+83,15051,*Mou Yunzhi*,*Mu Yunzhi*,**
+83,15051,*Kong Zhaochen*,**,**
+83,15060,*Sun Jianzhong*,**,**
+83,15070,*Wang Naiwen*,**,**
+83,15071,*Wang Si'en*,*Wang Sien*,**
+83,15071,*Liu Guifang*,**,**
+83,15071,*Bassoullet, Jean-Paul*,*Basulei, J.*,**
+83,15071,*Colchen, Michel*,*Ko'ershen, M.*,**
+83,15071,*Mascle, L.*,*Masike, L.*,**
+83,15071,*Jaeger, Jean-Jacques*,*Rangge, J.*,**
+83,15080,*Cao Zhaoyuan*,**,**
+83,15081,*Yu Qinghe*,**,**
+83,15081,*Liu Lansuo*,*Liu Lansou*,**
+83,15081,*He Peiyuan*,**,**
+83,15090,*Gabuniya, Leo Kallistratovich*,*Gabunia, L. K.*,**
+83,15100,*Lungu, Aleksandr Nikolayevich*,**,**
+83,15101,*Zerova, G. A.*,**,**
+83,15101,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+83,15110,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+83,15111,*Zerova, G. A.*,**,**
+83,15120,*Pan Jiang*,**,**
+83,15121,*Wang Shitao*,*Wang Shi-tao*,**
+83,15130,*Baratov, Rauf Baratovich*,**,**
+83,15140,*Kielan-Jaworowska, Zofia*,**,**
+83,15150,*Mazin, Jean-Michel*,**,**
+83,15151,*Janvier, Philippe*,**,**
+83,15160,*Heyler, Daniel*,**,**
+83,15161,*Poplin, Cecile M.*,**,**
+83,15170,*Crochet, Jean-Yves*,**,**
+83,15171,*Sige, Bernard*,**,**
+83,15180,*Qiu Zhanxiang*,**,**
+83,15181,*Schmidt-Kittler, Norbert*,**,**
+83,15190,*Thomas, Herbert*,**,**
+83,15200,*Mourer-Chauvire, Cecile*,**,**
+83,15210,*Marshall, Larry G.*,**,**
+83,15211,*de Muizon, Christian*,**,**
+83,15211,*Sige, Bernard*,**,**
+83,15220,*Marshall, Larry G.*,**,**
+83,15221,*Hoffstetter, Robert*,**,**
+83,15221,*Pascual, Rosendo*,**,**
+83,15230,*Kuhn-Schnyder, Emil*,**,**
+83,15240,*Kuhn-Schnyder, Emil*,**,**
+83,15250,*Kuhn-Schnyder, Emil*,**,**
+83,15260,*Kuhn-Schnyder, Emil*,**,**
+83,15270,*Rieber, Hans P.*,**,**
+83,15280,*Thomas, Eugen A.*,**,*r*
+83,15290,*Rieber, Hans P.*,**,**
+83,15300,*Schanz, Ferdinand*,**,*r*
+83,15310,*Ikeya, Motoji*,**,**
+83,15320,*Vrba, Elisabeth S.*,**,*r*
+83,15330,*Campbell, Bernard Grant*,**,*r*
+83,15340,*Szabo, Barney J.*,**,**
+83,15350,*Raath, Michael A.*,**,*r*
+83,15360,*Raath, Michael A.*,**,**
+83,15370,*Turner, Alan*,**,**
+83,15380,*Johnson, M. R.*,**,**
+83,15390,*Tobias, Phillip Valentine*,**,**
+83,15400,*Paterson, H. E. H.*,**,**
+83,15410,*Vrba, Elisabeth S.*,**,**
+83,15420,*Partridge, Timothy C.*,**,**
+83,15430,*White, Tim D.*,**,**
+83,15431,*Johanson, Donald C.*,**,**
+83,15431,*Kimbel, William H.*,**,**
+83,15440,*de Villiers, Hertha*,**,**
+83,15450,*Skinner, John D.*,**,*r*
+83,15460,*Gow, Christopher C.*,**,*r*
+83,15470,*Rudner, Ione E.*,*Rudner, Ione*,**
+83,15480,*Turner, Alan*,**,*r*
+83,15490,*Turner, Alan*,**,*r*
+83,15500,*Laporte, Leo F.*,**,**
+83,15501,*Zihlman, Adrienne L.*,**,**
+83,15510,*Skinner, John D.*,**,*r*
+83,15520,*Partridge, Timothy C.*,**,**
+83,15530,*Turner, Alan*,**,*r*
+83,15540,*Deacon, Hilary J.*,**,**
+83,15550,*Olson, Storrs L.*,**,**
+83,15560,*Turner, Alan*,**,*r*
+83,15570,*Cable, J. H. C.*,**,**
+83,15571,*Scott, K.*,**,**
+83,15571,*Carter, P. L.*,**,**
+83,15580,*Gerasimov, Innokentiy Petrovich*,**,**
+83,15590,*Murzayev, E. M.*,**,**
+83,15600,*Gerasimov, Innokentiy Petrovich*,**,**
+83,15610,*Markov, Konstantin Konstantinovich*,**,**
+83,15611,*Agadzhanyan, Aleksandr Karenovich*,**,**
+83,15611,*Faustov, S. S.*,**,**
+83,15620,*Velichko, Andrey Alekseyevich*,**,**
+83,15621,*Udartsev, V. P.*,**,**
+83,15621,*Markova, Anastasiya Konstantinovna*,**,**
+83,15621,*Morozova, Tat'yana Dmitriyevna*,**,**
+83,15621,*Pevzner, M. Ya.*,**,**
+83,15621,*Gribchenko, Yu. N.*,**,**
+83,15621,*Sycheva, S. A.*,**,**
+83,15630,*Adamenko, R. S.*,**,**
+83,15631,*Adamenko, Oleg Maksimovich*,**,**
+83,15640,*Velichko, Andrey Alekseyevich*,**,**
+83,15641,*Antonova, G. V.*,**,**
+83,15641,*Zelikson, E. M.*,**,**
+83,15641,*Markova, Anastasiya Konstantinovna*,**,**
+83,15641,*Monoszon, M. Kh.*,**,**
+83,15641,*Morozova, Tat'yana Dmitriyevna*,**,**
+83,15641,*Pevzner, Mikhail Abramovich*,**,**
+83,15641,*Suleymanov, M. B.*,**,**
+83,15641,*Khalcheva, T. A.*,**,**
+83,15650,*Satimbekov, R. S.*,**,**
+83,15660,*Schuett, Gerda*,**,**
+83,15670,*Simpson, George Gaylord*,**,**
+83,15680,*Stewart, Thomas Dale*,**,**
+83,15690,*Paddayya, K.*,**,**
+83,15700,*Rose, Kenneth D.*,**,**
+83,15701,*Krause, David W.*,**,**
+83,15710,*Watkins, C. Peter*,**,**
+83,15720,*Sizer, C. A.*,**,**
+83,15730,*Sizer, C. A.*,**,**
+83,15740,*Riley, T. H.*,**,**
+83,15750,*Bishop, Walter William*,**,**
+83,15760,*Jones, Michael D.*,**,**
+83,15770,*Zhang Miman*,*Chang Mee-mann*,**
+83,15780,*Janvier, Philippe*,**,**
+83,15790,*Martin, Michel*,**,**
+83,15800,*Saban, Roger*,**,**
+83,15810,*Naylor, Bruce G.*,**,**
+83,15820,*Archibald, J. David*,**,**
+83,15821,*Rigby, J. Keith, Jr.*,**,**
+83,15821,*Robison, Steven F.*,**,**
+83,15830,*Ostrander, Gregg E.*,**,**
+83,15840,*Ostrander, Gregg E.*,**,**
+83,15850,*Barry, John C.*,**,**
+83,15860,*Wall, William P.*,**,**
+83,15870,*Welles, Samuel P.*,**,**
+83,15880,*Breyer, John A.*,**,**
+83,15890,*Welles, Samuel P.*,**,**
+83,15900,*Elliott, David K.*,**,**
+83,15901,*Dineley, David L.*,**,**
+83,15910,*Currie, Philip J.*,**,**
+83,15911,*Padian, Kevin*,**,**
+83,15920,*Huddleston, Richard W.*,**,**
+83,15930,*Lehtola, Kathleen A.*,**,**
+83,15940,*Godinot, Marc*,**,**
+83,15941,*Dagosto, Marian*,**,**
+83,15950,*Taverne, Louis*,**,**
+83,15960,*McLaren, Digby J.*,**,**
+83,15970,*Howard, Hildegarde*,**,**
+83,15980,*Jefferson, George T.*,**,**
+83,15990,*Jefferson, George T.*,**,**
+83,16000,*Wagner, Hugh McKinlay*,**,**
+83,16001,*Reynolds, Robert E.*,**,**
+83,16010,*Anonymous*,**,*e*
+83,16020,*Aguilar, Jean-Pierre*,**,**
+83,16030,*Badre, Brigitte*,*Lange-Badre, Brigitte*,**
+83,16031,*Pajaud, Daniel*,**,**
+83,16040,*Bazile, Frederic*,**,**
+83,16050,*Bonnefille, Raymonde*,**,**
+83,16060,*Cappetta, Henri*,**,**
+83,16070,*Crouzel, Fernand*,**,**
+83,16080,*Ellenberger, Paul*,**,**
+83,16090,*Godfriaux, Ivan*,**,**
+83,16091,*Aguilar, Jean-Pierre*,**,**
+83,16091,*Thaler, Louis*,**,**
+83,16100,*Hartenberger, Jean-Louis*,**,**
+83,16101,*Sudre, Jean*,**,**
+83,16101,*Vianey-Liaud, Monique*,**,**
+83,16110,*Hoffstetter, Robert*,**,**
+83,16120,*Jaeger, Jean-Jacques*,**,**
+83,16121,*Hartenberger, Jean-Louis*,**,**
+83,16130,*Lavocat, Rene*,**,**
+83,16140,*Michaux, Jacques*,**,**
+83,16150,*Sudre, Jean*,**,**
+83,16160,*Vernet, Jean-Louis*,**,**
+83,16161,*Michaux, Jacques*,**,**
+83,16161,*Suc, Jean-Pierre*,**,**
+83,16170,*Ridley, Michael*,**,**
+83,16180,*Harrington, Lyn*,**,**
+83,16190,*Anonymous*,**,**
+83,16200,*Brado, Edward B.*,**,**
+83,16210,*Dawson, Mary R.*,**,**
+83,16211,*West, Robert M.*,**,**
+83,16220,*Anonymous*,**,**
+83,16230,*Dubois, Georges*,*Dubois, G.*,**
+83,16240,*Germain, C.*,**,**
+83,16250,*Guidotto, Enzo*,**,**
+83,16260,*Anonymous*,**,**
+83,16270,*Peyrus, J.-Ch.*,**,**
+83,16280,*Dedieu, Bernard*,**,**
+83,16290,*Louat, Odile*,**,**
+83,16300,*Lointier, Marc*,**,**
+83,16310,*Dubois, Georges*,**,**
+83,16311,*Roy, B.*,**,**
+83,16311,*Raveau, M.*,**,**
+83,16320,*Fourmont, P.*,**,**
+83,16330,*Guidotto, Enzo*,**,**
+83,16340,*Fourmont, F.*,**,**
+83,16341,*Dubois, Georges*,**,**
+83,16350,*Germain, C.*,**,**
+83,16360,*Mercey, Jean-Luc*,**,**
+83,16361,*Blanc, Robert*,**,**
+83,16370,*M., Ph.*,**,**
+83,16380,*Germain, C.*,**,**
+83,16390,*Lointier, Marc*,*Lointier, M.*,**
+83,16400,*Anonymous*,**,**
+83,16410,*Delhomme, J.-C.*,**,**
+83,16420,*Delhomme, J.-C.*,**,**
+83,16430,*Bardin, J.-P.*,**,**
+83,16440,*Anonymous*,**,**
+83,16450,*Fourmont, P.*,**,**
+83,16460,*Guidotto, Enzo*,**,**
+83,16470,*Germain, C.*,**,**
+83,16480,*Weill, Jacques*,**,**
+83,16490,*Germain, C.*,**,**
+83,16491,*Le Boloch, Y.*,**,**
+83,16500,*Kerourio, Philippe*,**,**
+83,16510,*Guidotto, Enzo*,**,**
+83,16520,*Kerourio, Philippe*,**,**
+83,16530,*Lamaud, P.*,**,**
+83,16540,*Harington, C. R.*,**,**
+83,16550,*Russell, Dale A.*,**,**
+83,16551,*Seguin, R.*,**,**
+83,16560,*Russell, Dale A.*,**,*e*
+83,16561,*Rice, G.*,**,*e*
+83,16570,*Gabuniya, M. K.*,*Gabunia, M.*,**
+83,16571,*Vekua, Abesalom Kapitonovich*,**,**
+83,16580,*Allaby, Michael*,**,**
+83,16581,*Lovelock, James*,**,**
+83,16590,*Fenninger, A.*,**,**
+83,16591,*Nievoll, Josef*,*Nievoll, J.*,**
+83,16600,*Mihaly, Sandor*,**,**
+83,16601,*Solt, Peter*,**,**
+83,16610,*Kordos, Laszlo*,**,**
+83,16620,*Kordos, Laszlo*,**,**
+83,16630,*Kretzoi, Miklos*,**,**
+83,16640,*Chapin, Charles E.*,**,*e*
+83,16641,*Callender, Jonathan F.*,**,*e*
+83,16650,*Lucas, Spencer G.*,**,**
+83,16660,*Wiffen, Joan*,**,**
+83,16670,*Buckeridge, John S.*,**,**
+83,16680,*Fordyce, R. Ewan*,**,**
+83,16690,*Keyes, Ian W.*,*Keyes, I. W.*,**
+83,16700,*Wiffen, Joan*,**,**
+83,16710,*Anonymous*,**,**
+83,16720,*Hawkes, Jacques*,**,*r*
+83,16730,*Smith, John Maynard*,**,*r*
+83,16740,*Bourne, Arthur*,**,*r*
+83,16750,*Hillaby, John*,**,**
+83,16760,*Weiner, Joseph Sidney*,**,**
+83,16770,*Wallace, Peigi*,**,*r*
+83,16780,*Anonymous*,**,**
+83,16790,*Molleson, Theya Ivitsky*,**,*r*
+83,16800,*Molleson, Theya Ivitsky*,**,*r*
+83,16810,*Wallace, Peigi*,**,*r*
+83,16820,*Napier, John*,**,*r*
+83,16830,*Napier, John*,**,*r*
+83,16840,*Hill, Andrew*,**,**
+83,16850,*Lewin, Roger*,**,**
+83,16860,*Lewis, Richard*,**,**
+83,16870,*Power, Dennis*,**,**
+83,16871,*Johnson, Donald*,**,**
+83,16880,*Wrangham, Richard*,**,**
+83,16890,*Brooke, John Hedley*,**,*r*
+83,16900,*Hamilton, William Roger*,**,*r*
+83,16910,*Savage, Robert Joseph Gay*,**,*r*
+83,16920,*Appleby, Robert*,**,**
+83,16930,*Anonymous*,**,**
+83,16940,*Leakey, Richard E. F.*,**,**
+83,16941,*Lewin, Roger*,**,**
+83,16950,*Campbell, Bernard Grant*,**,*r*
+83,16960,*Willemsen, G. F.*,**,**
+83,16970,*Tintori, Andrea*,**,**
+83,16971,*Renesto, S.*,**,**
+83,16980,*Tintori, Andrea*,**,**
+83,16990,*Pageau, Yvon*,**,**
+83,16991,*Prichonnet, Gilbert*,**,**
+83,17000,*Pageau, Yvon*,**,**
+83,17010,*Ashton, E. H.*,**,*e*
+83,17011,*Holmes, R. L.*,**,*e*
+83,17020,*Ashton, E. H.*,**,**
+83,17030,*Lewis, O. J.*,**,**
+83,17040,*Berry, Robert James*,*Berry, R. J.*,*e*
+83,17050,*Brothwell, Don R.*,**,**
+83,17060,*Day, Michael Herbert*,**,*e*
+83,17070,*Rayner, J. M. V.*,**,**
+83,17080,*Rewcastle, Stephen C.*,**,**
+83,17090,*Jenkins, Farish A., Jr.*,**,**
+83,17100,*Kochansky-Devide, Vanda*,**,*r*
+83,17110,*Gao Jianwei*,*Gau Jiann-Wey*,**
+83,17120,*Zakharov, Viktor Aleksandrovich*,**,*e*
+83,17130,*Zakharov, Viktor Aleksandrovich*,**,**
+83,17131,*Saks, Vladimir Nikolayevich*,**,**
+83,17140,*Kamenov, Blagoy*,*Kamenov, Blagoi*,**
+83,17141,*Koyumdzhieva, Emiliya*,*Kojumdgieva, Emilia*,**
+83,17150,*Anonymous*,**,**
+83,17160,*Cooper, Michael R.*,**,**
+83,17170,*Borgognini Tarli, Silvana M.*,**,**
+83,17180,*de Giuli, Claudio*,**,**
+83,17190,*Andreani, Maria Cristina*,**,**
+83,17200,*Eberth, David A.*,**,**
+83,17201,*Brinkman, Donald*,**,**
+83,17210,*Brinkman, Donald*,**,**
+83,17211,*Eberth, David A.*,**,**
+83,17220,*Kielan-Jaworowska, Zofia*,**,*e*
+83,17221,*Osmolska, Halszka*,**,*e*
+83,17230,*Archibald, J. David*,**,**
+83,17240,*Battail, Bernard*,**,**
+83,17250,*Borsuk-Bialynicka, Magdalena*,**,**
+83,17260,*Buffetaut, Eric*,**,**
+83,17270,*Clemens, William A.*,**,**
+83,17280,*Currie, Philip J.*,**,**
+83,17290,*Elzanowski, Andrzej*,**,**
+83,17300,*Griffiths, Mervyn*,**,**
+83,17310,*Grigorescu, Dan*,**,**
+83,17320,*Haubold, Hartmut*,**,**
+83,17330,*Hecht, Max K.*,**,**
+83,17331,*Tarsitano, Samuel F.*,**,**
+83,17340,*Kermack, Kenneth Alexander*,**,**
+83,17341,*Mussett, Frances*,**,**
+83,17350,*Lees, Patricia M.*,**,**
+83,17351,*Mills, J. Richard E.*,**,**
+83,17360,*Liu Xianting*,*Liu Hsien-t'ing*,**
+83,17361,*Su Dezao*,*Su Te-tsao*,**
+83,17370,*Lucas, Spencer G.*,**,**
+83,17371,*Mateer, Niall J.*,**,**
+83,17380,*Maryanska, Teresa*,**,**
+83,17381,*Osmolska, Halszka*,**,**
+83,17390,*Mellett, James S.*,**,**
+83,17400,*Pond, Caroline M.*,**,**
+83,17410,*de Ricqles, Armand*,**,**
+83,17420,*Sigogneau-Russell, Denise*,**,**
+83,17430,*Tarsitano, Samuel F.*,**,**
+83,17440,*Weishampel, David B.*,**,**
+83,17450,*Wible, John R.*,**,**
+83,17460,*Zhao Xijin*,*Chao Shichin*,**
+83,17470,*Schoonraad, Murray*,**,**
+83,17471,*Beaumont, Peter*,**,**
+83,17480,*Tobias, Phillip Valentine*,**,*r*
+83,17490,*Tobias, Phillip Valentine*,**,*r*
+83,17500,*Savage, Donald Elvin*,**,**
+83,17501,*Russell, Donald E.*,**,**
+83,17510,*Aleyev, Yuriy Glebovich*,*Aleev, Iu. G.*,**
+83,17511,*Novitskaya, Larisa Illarionovna*,**,**
+83,17520,*Godina, Anna Yakovlevna*,**,**
+83,17530,*Bayshashov, B. U.*,**,**
+83,17540,*Kulikov, Mikhail Vasil'yevich*,**,*r*
+83,17550,*Kurzanov, S. M.*,**,**
+83,17551,*Bannikov, Aleksandr Fedorovich*,**,**
+83,17560,*Ivakhnenko, Mikhail Feodos'yevich*,*Ivachnenko, M. F.*,**
+83,17570,*Novitskaya, Larisa Illarionovna*,**,**
+83,17571,*German, A. B.*,*Herman, A. B.*,**
+83,17580,*Selezneva, Al'vina Aleksandrovna*,*Kazantseva-Selezneva, A. A.*,**
+83,17590,*Lebedev, O. A.*,**,**
+83,17600,*Gubin, Yu. M.*,**,**
+83,17610,*Kurzanov, S. M.*,**,**
+83,17620,*Gekker, Roman Fedorovich*,*Hecker, R. Th.*,**
+83,17621,*Dmitriyeva, Yekaterina Leonidovna*,*Dmitrieva, E. L.*,**
+83,17621,*Reshetov, Valeriy Yur'yevich*,**,**
+83,17621,*Trofimov, Boris Aleksandrovich*,**,**
+83,17630,*Turner, Mortimer D.*,*Turner, Mort D.*,*e*
+83,17631,*Splettstoesser, John E.*,**,*e*
+83,17640,*Colbert, Edwin Harris*,*Colbert, Edwin H.*,**
+83,17650,*Murry, Phillip A.*,**,**
+83,17651,*Lezak, Jennifer*,**,**
+83,17660,*Erickson, Bruce R.*,**,**
+83,17670,*Heaton, Malcolm J.*,**,**
+83,17680,*Slettebak, Arn*,**,**
+83,17690,*Gardner, George S.*,**,**
+83,17700,*Reser, Peter K.*,**,**
+83,17710,*Orr, William N.*,**,**
+83,17711,*Miller, Paul R.*,**,**
+83,17720,*Anonymous*,**,**
+83,17730,*Anonymous*,**,**
+83,17740,*Anonymous*,**,**
+83,17750,*Anonymous*,**,**
+83,17760,*Anonymous*,**,**
+83,17770,*Crusafont Pairo, Miguel*,**,**
+83,17780,*Anonymous*,**,**
+83,17790,*Crusafont Pairo, Miguel*,*MCP*,**
+83,17800,*Crusafont Pairo, Miguel*,**,**
+83,17810,*Antia, David D. J.*,**,**
+83,17820,*Kimsey, R. Warren*,*Kimsey, Warren*,**
+83,17821,*Green, Jim*,**,**
+83,17821,*Eldredge, Michael*,**,**
+83,17830,*Casanova, Richard L.*,**,**
+83,17840,*Gittins, Gayle O.*,**,**
+83,17850,*Laub, Richard S.*,**,**
+83,17860,*Speirs, Betty*,**,**
+83,17870,*Casanova, Richard L.*,**,**
+83,17880,*Kimsey, R. Warren*,**,**
+83,17890,*Griesemer, Allan D.*,**,**
+83,17891,*Monke, Rebecca*,**,**
+83,17900,*Eberth, David A.*,**,**
+83,17901,*Berman, David S.*,**,**
+83,17910,*Payne, Michael A.*,**,**
+83,17911,*Wolberg, Donald L.*,**,**
+83,17911,*Hunt, Adrian*,**,**
+83,17920,*Kues, Barry S.*,**,**
+83,17930,*Lucas, Spencer G.*,**,**
+83,17931,*Sullivan, Robert M.*,**,**
+83,17931,*Logan, Thomas R.*,**,**
+83,17940,*Bown, Thomas M.*,**,**
+83,17941,*Kraus, Mary J.*,**,**
+83,17950,*Winkler, Dale A.*,**,**
+83,17960,*Gaur, Rajan*,**,**
+83,17961,*Chopra, S. R. K.*,**,**
+83,17970,*Nitecki, Matthew H.*,**,*r*
+83,17980,*Azzaroli, Augusto*,**,**
+83,17990,*Johnson, Gary D.*,**,**
+83,17991,*Opdyke, Neil D.*,**,**
+83,17991,*Tandon, S. K.*,**,**
+83,17991,*Nanda, Avinash C.*,*Nanda, A. C.*,**
+83,18000,*Brunet, Michel*,**,**
+83,18001,*Heintz, Emile*,**,**
+83,18010,*Margules, C. R.*,**,*r*
+83,18020,*Wasson, R. J.*,**,*r*
+83,18030,*Demathieu, Georges*,**,**
+83,18031,*Oosterink, Henk W.*,**,**
+83,18040,*Roberts, John*,*Roberts, J.*,*e*
+83,18041,*Jell, Peter A.*,*Jell, P. A.*,*e*
+83,18050,*Campbell, Kenton Stewart Wall*,*Campbell, K. S. W.*,**
+83,18051,*Barwick, Richard E.*,*Barwick, R. E.*,**
+83,18060,*Long, John A.*,*Long, J. A.*,**
+83,18070,*Estes, Richard Dean*,**,**
+83,18080,*Oosterink, Henk W.*,*Oosterink, H. W.*,**
+83,18090,*van Kolfschoten, T.*,**,**
+83,18100,*Anonymous*,**,**
+83,18110,*Kortenbout van der Sluijs, G.*,**,**
+83,18120,*Hidding, H.*,**,**
+83,18130,*de Boer, L. E. M.*,**,**
+83,18131,*Sondaar, Paul Y.*,**,**
+83,18140,*Hooijer, Dirk Albert*,**,**
+83,18150,*van Essen, J. A.*,**,**
+83,18160,*Barskov, Igor' Sergeyevich*,**,**
+83,18161,*Moskalenko, Tamara Aleksandrovna*,**,**
+83,18161,*Starostina, L. P.*,**,**
+83,18170,*Dashzeveg, Dembereliyn*,**,**
+83,18180,*Shilin, P. V.*,**,**
+83,18181,*Suslov, Yu. V.*,**,**
+83,18190,*Ochev, Vitaliy Georgiyevich*,*Otschev, V. G.*,**
+83,18200,*Getmanov, S. N.*,**,**
+83,18210,*Selezneva, Al'vina Aleksandrovna*,**,**
+83,18220,*Bannikov, Aleksandr Fedorovich*,*Vannikov, A. F.*,**
+83,18230,*Yefimov, M. B.*,*Efimov, M. B.*,**
+83,18240,*Kurzanov, S. M.*,**,**
+83,18250,*Mertinene, R. A.*,**,**
+83,18260,*Yefimov, M. B.*,*Efimov, M. B.*,**
+83,18270,*Bakhurina, N. N.*,**,**
+83,18280,*Aleyev, Yuriy Glebovich*,*Aleev, Iu. G.*,**
+83,18281,*Novitskaya, Larisa Illarionovna*,**,**
+83,18290,*Godina, Anna Yakovlevna*,**,**
+83,18300,*Bayshashov, B. U.*,*Bayshashev, B. U.*,**
+83,18310,*Kurzanov, S. M.*,**,**
+83,18311,*Bannikov, Aleksandr Fedorovich*,**,**
+83,18320,*Ivakhnenko, Mikhail Feodos'yevich*,**,**
+83,18330,*Anonymous*,**,*e*
+83,18340,*Blieck, Alain*,**,**
+83,18341,*Goujet, Daniel*,**,**
+83,18350,*Buffetaut, Eric*,**,**
+83,18360,*Crouzel, Fernand*,**,**
+83,18370,*Heintz, Emile*,**,**
+83,18371,*Brunet, Michel*,**,**
+83,18371,*Ginsburg, Leonard*,**,**
+83,18371,*Hartenberger, Jean-Louis*,**,**
+83,18380,*Janvier, Philippe*,**,**
+83,18390,*Pajaud, Daniel*,**,**
+83,18391,*Roulet, Marie-Jose*,**,**
+83,18391,*Bouille, Francois*,**,**
+83,18400,*Poplin, Cecile M.*,**,**
+83,18410,*Roulet, Marie-Jose*,**,**
+83,18411,*Pajaud, Daniel*,**,**
+83,18411,*Bouille, Francois*,**,**
+83,18420,*Sen, Sevket*,**,**
+83,18421,*Heintz, Emile*,**,**
+83,18430,*Anonymous*,**,*e*
+83,18440,*Ameur, Rabia*,**,**
+83,18441,*Bizon, Germaine*,**,**
+83,18441,*Jaeger, Jean-Jacques*,**,**
+83,18441,*Michaux, Jacques*,**,**
+83,18441,*Mueller, Carla*,*Muller, Carla*,**
+83,18450,*Ballesio, Roland*,**,**
+83,18451,*Guerin, Claude*,**,**
+83,18451,*Mein, Pierre*,**,**
+83,18451,*Meon, Henriette*,**,**
+83,18460,*Battail, Bernard*,**,**
+83,18470,*Blieck, Alain*,**,**
+83,18471,*Mistiaen, Bruno*,**,**
+83,18480,*Bonifay, Marie-Francoise*,**,**
+83,18490,*Brandy, Louis Dominique*,**,**
+83,18500,*Chaline, Jean*,**,**
+83,18510,*Crochet, Jean-Yves*,**,**
+83,18520,*Crouzel, Fernand*,**,**
+83,18530,*Eisenmann, Vera*,**,**
+83,18531,*Bonnefille, Raymonde*,**,**
+83,18540,*Faure, Martine*,**,**
+83,18541,*Guerin, Claude*,**,**
+83,18550,*Gaudant, Mireille*,**,**
+83,18560,*Gaudant, Jean*,**,**
+83,18570,*Geraads, Denis*,**,**
+83,18580,*Gingerich, Philip D.*,**,**
+83,18581,*Buffetaut, Eric*,**,**
+83,18581,*Hartenberger, Jean-Louis*,**,**
+83,18581,*Russell, Donald E.*,**,**
+83,18581,*Sigogneau-Russell, Denise*,**,**
+83,18590,*Godinot, Marc*,**,**
+83,18600,*Guerin, Claude*,**,**
+83,18610,*Guth, Christian*,**,**
+83,18611,*Boeuf, Odile*,**,**
+83,18611,*Latreille, Gabrielle*,**,**
+83,18611,*Meon, Henriette*,**,**
+83,18620,*Hartenberger, Jean-Louis*,**,**
+83,18630,*Heintz, Emile*,**,**
+83,18631,*Brunet, Michel*,**,**
+83,18631,*Battail, Bernard*,**,**
+83,18631,*Blieck, Alain*,**,**
+83,18631,*Brandy, Louis Dominique*,*Brandy, D.*,**
+83,18631,*Jehenne, Yves*,**,**
+83,18631,*Sen, Sevket*,**,**
+83,18640,*Hoffstetter, Robert*,**,**
+83,18650,*Martin, Michel*,**,**
+83,18660,*Mergoil, Jean*,**,**
+83,18661,*Boivin, Pierre*,**,**
+83,18661,*Camus, Guy*,**,**
+83,18661,*de Goer de Hevre, Alain*,**,**
+83,18661,*Gourgaud, Alain*,**,**
+83,18661,*Kiefer, Guy*,**,**
+83,18661,*Vincent, Pierre*,**,**
+83,18661,*Barrier, Daniel*,**,**
+83,18670,*Rage, Jean-Claude*,**,**
+83,18680,*Renault-Miskovsky, Josette*,**,**
+83,18690,*Sigogneau-Russell, Denise*,**,**
+83,18691,*Cappetta, Henri*,**,**
+83,18691,*Taquet, Philippe*,**,**
+83,18700,*Tassy, Pascal*,**,**
+83,18710,*Thomas, Herbert*,**,**
+83,18711,*Sen, Sevket*,**,**
+83,18720,*Wenz, Sylvie*,**,**
+83,18730,*Anonymous*,**,*e*
+83,18740,*Battail, Bernard*,**,**
+83,18750,*Beden, Michel*,**,**
+83,18760,*de Broin, France*,**,**
+83,18761,*Buffetaut, Eric*,**,**
+83,18761,*Cappetta, Henri*,**,**
+83,18761,*Kerourio, Philippe*,**,**
+83,18761,*Koeniguer, Jean-Claude*,**,**
+83,18761,*Russell, Donald E.*,**,**
+83,18761,*Secretan, Sylvie*,**,**
+83,18761,*Sigogneau-Russell, Denise*,**,**
+83,18761,*Taquet, Philippe*,**,**
+83,18761,*Wenz, Sylvie*,**,**
+83,18770,*Brunet, Michel*,**,**
+83,18771,*Sen, Sevket*,**,**
+83,18771,*Heintz, Emile*,**,**
+83,18780,*Buffetaut, Eric*,**,**
+83,18790,*Crouzel, Fernand*,**,**
+83,18800,*Durand, Jean-Pierre*,**,**
+83,18810,*Ellenberger, Paul*,**,**
+83,18820,*Gaudant, Jean*,**,**
+83,18830,*Gayet, Mireille*,**,**
+83,18840,*Ginsburg, Leonard*,**,**
+83,18841,*Mein, Pierre*,**,**
+83,18850,*Grimaud, Dominique*,**,**
+83,18860,*Heintz, Emile*,**,**
+83,18861,*Brunet, Michel*,**,**
+83,18861,*Jehenne, Yves*,**,**
+83,18861,*Sen, Sevket*,**,**
+83,18870,*Janvier, Philippe*,**,**
+83,18880,*Lamy, Paul*,**,**
+83,18890,*Lizon Sureau, Benedicte*,**,**
+83,18891,*Clocchiatti, Robert*,**,**
+83,18891,*Le Ribault, Loic*,**,**
+83,18900,*de Lumley, Henry*,**,**
+83,18901,*Miskovsky, Jean-Claude*,**,**
+83,18901,*Renault-Miskovsky, Josette*,**,**
+83,18901,*Cregut-Bonnoure, Evelyne*,*Cregut, Evelyne*,**
+83,18910,*de Lumley, Marie-Antoinette*,**,**
+83,18920,*Poplin, Cecile M.*,*Poplin, Cecile*,**
+83,18930,*Sen, Sevket*,**,**
+83,18940,*Spitery, Eliane*,**,**
+83,18950,*Spitery, Jacques*,**,**
+83,18960,*Tassy, Pascal*,**,**
+83,18961,*Janvier, Philippe*,**,**
+83,18970,*Thomas, Herbert*,**,**
+83,18971,*Jaeger, Jean-Jacques*,**,**
+83,18971,*Sastry, M. V. A.*,**,**
+83,18980,*Daber, Rudolf*,**,**
+83,18981,*Helms, Jochen*,**,**
+83,18990,*Mutti, Emiliano*,**,**
+83,18991,*Orombelli, Giuseppe*,**,**
+83,18991,*Pozzi, Renato*,**,**
+83,19000,*Bachmayer, Friedrich*,**,**
+83,19001,*Symeonidis, Nikolaos K.*,*Symeonidis, Nicolaus*,**
+83,19010,*Mercier, Jacques*,**,**
+83,19020,*Symeonidis, Nikolaos K.*,**,**
+83,19030,*Heye, Dietrich*,**,**
+83,19031,*Schneider, Horst E.*,**,**
+83,19031,*Symeonidis, Nikolaos K.*,*Symeonidis, N.*,**
+83,19040,*Symeonidis, Nikolaos K.*,**,**
+83,19050,*Symeonidis, Nikolaos K.*,**,**
+83,19060,*Faugeres, Lucien*,**,**
+83,19061,*Gillet, S.*,**,**
+83,19070,*Symeonidis, Nikolaos K.*,*Symeonides, N.*,**
+83,19071,*Sondaar, Paul Y.*,**,**
+83,19080,*Sickenberg, Otto*,**,**
+83,19090,*Marinos, Yeoryios P.*,*Marinos, Georgios P.*,**
+83,19100,*Bachmayer, Friedrich*,**,**
+83,19101,*Brinkerink, Johann P.*,**,**
+83,19101,*Symeonidis, Nikolaos K.*,**,**
+83,19110,*Marinos, Yeoryios P.*,*Marinos, Georges P.*,**
+83,19111,*Symeonidis, Nikolaos K.*,*Simeonidis, Nikolaos K.*,**
+83,19120,*Besenecker, Horst*,**,**
+83,19121,*Symeonidis, Nikolaos K.*,**,**
+83,19130,*Symeonidis, Nikolaos K.*,**,**
+83,19140,*Symeonidis, Nikolaos K.*,**,**
+83,19150,*Bachmayer, Friedrich*,**,**
+83,19151,*Symeonidis, Nikolaos K.*,**,**
+83,19160,*Bachmayer, Friedrich*,**,**
+83,19161,*Symeonidis, Nikolaos K.*,**,**
+83,19170,*Symeonidis, Nikolaos K.*,**,**
+83,19171,*Schultz, Ortwin*,**,**
+83,19180,*Benda, Leopold*,**,**
+83,19181,*Hiltermann, Heinrich*,**,**
+83,19181,*Kuss, Siegfried E.*,**,**
+83,19181,*Symeonidis, Nikolaos K.*,**,**
+83,19190,*Melentis, Johann K.*,*Melentis, Ioannis K.*,**
+83,19200,*Symeonidis, Nikolaos K.*,**,**
+83,19210,*Symeonidis, Nikolaos K.*,**,**
+83,19220,*Koumantakis, Ioannis E.*,*Koumantakis, J. E.*,**
+83,19230,*Sickenberg, Otto*,**,**
+83,19240,*Thom, Bruce G.*,**,*r*
+83,19250,*Hope, Geoffrey S.*,**,*r*
+83,19260,*Hope, Jeannette H.*,**,*e*
+83,19270,*Jennings, Joseph Newell*,**,**
+83,19280,*Hope, Jeannette H.*,**,**
+83,19290,*Thorne, Alan G.*,**,**
+83,19300,*Murray, Peter*,**,**
+83,19310,*Williams, Martin A. J.*,**,**
+83,19311,*Williams, Frances*,**,**
+83,19311,*Gasse, Francoise*,**,**
+83,19311,*Assefa, Getaneh*,**,**
+83,19311,*Bonnefille, Raymonde*,**,**
+83,19311,*Adamson, Don*,**,**
+83,19320,*Colhoun, Eric A.*,**,**
+83,19330,*Hope, Geoffrey S.*,**,**
+83,19331,*Chappell, John*,**,**
+83,19340,*Urumovic, Kosta*,**,**
+83,19341,*Hernitz, Zvonimir*,**,**
+83,19341,*Simon, Jozef*,**,**
+83,19350,*Sokac, Ana*,**,**
+83,19360,*Mitrovic, Jovanka*,**,**
+83,19361,*Pavlovic, Milorad Bozidar*,**,**
+83,19370,*Williams, John A.*,**,**
+83,19371,*Sciulli, Paul W.*,**,**
+83,19371,*Poirier, Frank E.*,**,**
+83,19380,*Hesse, Brian C.*,*Hesse, Brian*,**
+83,19390,*Malez, Mirko*,**,**
+83,19391,*Smith, Fred H.*,**,**
+83,19391,*Radovcic, Jakov*,**,**
+83,19391,*Rukavina, Darko*,**,**
+83,19400,*Boaz, Dorothy Dechant*,**,**
+83,19410,*Conkey, Margaret W.*,**,**
+83,19420,*Wreschner, Ernst E.*,**,**
+83,19430,*Stanley, Vincent*,**,**
+83,19440,*Krantz, Grover S.*,**,**
+83,19450,*Cuenca Paya, Artemio*,**,**
+83,19451,*Walker, Michael J.*,**,**
+83,19460,*Simpson, George Gaylord*,**,**
+83,19470,*Demathieu, Georges*,**,**
+83,19480,*Miller, Halsey W.*,**,**
+83,19490,*Nelson, Michael E.*,**,**
+83,19500,*Halder, Ulrich*,**,**
+83,19510,*Mundlos, Rudolf*,**,**
+83,19520,*Franzen, Jens Lorenz*,**,**
+83,19530,*Bader, R.*,**,**
+83,19540,*Vogt, Hans-Heinrich*,**,**
+83,19550,*Vogt, Hans-Heinrich*,**,**
+83,19560,*Probst, Ernst*,**,**
+83,19570,*Legido Arce, Berta*,**,**
+83,19580,*Mazo Perez, Ana Victoria*,**,**
+83,19590,*Alferez Delgado, Francisco*,**,**
+83,19600,*Anonymous*,**,**
+83,19610,*Oelschlaeger, Helmut A.*,**,**
+83,19620,*Arratia Fuentes, Gloria*,*Arratia F., Gloria*,**
+83,19630,*von Koenigswald, Wighart*,**,**
+83,19640,*Crouzel, Fernand*,**,**
+83,19650,*Gutmann, Wolfgang Friedrich*,**,*r*
+83,19660,*von Koenigswald, Gustav Heinrich Ralph*,**,*r*
+83,19670,*Ziegler, Willi*,**,*r*
+83,19680,*Tobien, Heinz*,**,**
+83,19690,*von Koenigswald, Gustav Heinrich Ralph*,**,**
+83,19700,*Franzen, Jens Lorenz*,**,**
+83,19710,*von Koenigswald, Gustav Heinrich Ralph*,**,**
+83,19720,*von Koenigswald, Wighart*,**,**
+83,19730,*von Koenigswald, Gustav Heinrich Ralph*,**,**
+83,19740,*Klausewitz, Wolfgang*,**,**
+83,19750,*Martin, Guenther*,**,**
+83,19760,*Gutmann, Wolfgang Friedrich*,**,**
+83,19770,*Klausewitz, Wolfgang*,**,*r*
+83,19780,*Storch, Gerhard*,**,*r*
+83,19790,*Wellnhofer, Peter*,**,**
+83,19800,*Honegger, Rene F.*,**,**
+83,19810,*Senckenbergische Naturforschende Gesellschaft*,**,**
+83,19820,*Senckenbergische Naturforschende Gesellschaft*,**,**
+83,19830,*Behrmann, Guenter*,**,**
+83,19840,*von Koenigswald, Wighart*,**,**
+83,19841,*Schaarschmidt, Friedemann*,**,**
+83,19850,*Franzen, Jens Lorenz*,**,**
+83,19860,*Micklich, Norbert*,**,**
+83,19870,*Schaarschmidt, Friedemann*,**,*r*
+83,19880,*Ziegler, Willi*,**,**
+83,19890,*Lange, Erich*,**,**
+83,19900,*Klausewitz, Wolfgang*,**,**
+83,19910,*Ziegler, Willi*,**,*r*
+83,19920,*Hewes, Gordon W.*,**,**
+83,19930,*Livingstone, Frank B.*,**,**
+83,19940,*Mourant, A. E.*,**,**
+83,19950,*Kiszely, Istvan*,**,**
+83,19960,*Holtzman, Stephen F.*,**,**
+83,19970,*Count, Earl Wendel*,*Count, Earl W.*,**
+83,19980,*Clark, Geoffrey A.*,**,**
+83,19981,*Straus, Lawrence Guy*,**,**
+83,19981,*Fuentes M., C.*,**,**
+83,19990,*Marker, Margaret E.*,**,**
+83,20000,*Luckett, Winter Patrick*,**,**
+83,20001,*Szalay, Frederick S.*,**,**
+83,20010,*Read-Martin, Catherine E.*,**,**
+83,20011,*Read, Dwight W.*,**,**
+83,20020,*Wallace, John A.*,**,**
+83,20030,*Jerison, Harry J.*,**,**
+83,20040,*Salzano, Francisco M.*,**,**
+83,20050,*Rosinski, Franciszek M.*,**,**
+83,20060,*Rosinski, Franciszek M.*,**,**
+83,20070,*Strasenburgh, Gordon*,**,**
+83,20080,*Robbins, Lawrence Harry*,**,**
+83,20090,*Bonnichsen, Robson*,**,**
+83,20100,*Kleindienst, Maxine R.*,**,**
+83,20101,*Burton, Frances D.*,**,**
+83,20110,*Fasolo, Aldo*,**,**
+83,20120,*Reed, Robert C.*,**,**
+83,20130,*Jonas, Doris F.*,**,**
+83,20140,*Smith, Patricia*,**,**
+83,20150,*Smith, Fred H.*,**,**
+83,20160,*Shipman, Pat*,**,**
+83,20161,*Phillips, Jane E.*,**,**
+83,20170,*Marshack, Alexander*,**,**
+83,20180,*Bayanov, Dmitriy*,*Bayanov, Dmitri*,**
+83,20181,*Burtsev, Igor'*,*Bourtsev, Igor*,**
+83,20190,*Hill, Andrew*,**,**
+83,20200,*Fejfar, Oldrich*,**,**
+83,20210,*Read-Martin, Catherine E.*,**,**
+83,20211,*Read, Dwight W.*,**,**
+83,20220,*Eckhardt, Robert B.*,**,**
+83,20230,*Saban, Roger*,**,**
+83,20240,*Lieberman, Philip*,**,**
+83,20250,*Sheets, John W.*,**,**
+83,20251,*Gavan, James A.*,**,**
+83,20260,*Wolpoff, Milford H.*,**,**
+83,20270,*Wreschner, Ernst E.*,**,**
+83,20280,*Burr, David B.*,**,**
+83,20290,*Tresguerres, Juan*,**,**
+83,20300,*Cowan, H. K. J.*,**,**
+83,20310,*Greenwell, J. Richard*,**,**
+83,20311,*King, James E.*,**,**
+83,20320,*Delson, Eric*,**,**
+83,20330,*Rightmire, George Philip*,**,**
+83,20340,*Shipman, Pat*,**,**
+83,20341,*Bosler, Wendy*,**,**
+83,20341,*Davis, Karen Lee*,**,**
+83,20350,*Kennedy, Kenneth Adrian Raine*,**,**
+83,20351,*Misra, V. N.*,**,**
+83,20351,*Burrow, C. B.*,**,**
+83,20360,*Poulianos, Aris N.*,**,**
+83,20370,*Johnson, Steven Carl*,**,**
+83,20380,*Williams, John A.*,**,**
+83,20390,*Puech, Pierre-Francois*,**,**
+83,20400,*Camps-Fabrer, Henriette*,**,**
+83,20410,*Rogers, Thomas*,**,**
+83,20420,*Straus, Lawrence Guy*,**,**
+83,20421,*Altuna, Jesus*,**,**
+83,20421,*Clark, Geoffrey A.*,**,**
+83,20421,*Gonzalez Morales, M.*,**,**
+83,20421,*Laville, Henri*,**,**
+83,20421,*Leroi-Gourhan, Arlette*,**,**
+83,20421,*Menendez de la Hoz, M.*,**,**
+83,20421,*Ortea, J. A.*,**,**
+83,20430,*Bender, Marvin Lionel*,*Bender, M. Lionel*,**
+83,20440,*Ivanhoe, Francis*,**,**
+83,20450,*Harrold, Francis B.*,**,**
+83,20460,*Moure Romanillo, Jose A.*,**,**
+83,20461,*Garcia Soto, E.*,**,**
+83,20470,*Gabori-Csank, Veronika*,**,**
+83,20471,*Svoboda, Jiri*,**,**
+83,20480,*Freeman, Leslie Gordon, Jr.*,**,**
+83,20490,*Puech, Pierre-Francois*,**,**
+83,20500,*Mahaney, Michael C.*,**,**
+83,20501,*Sciulli, Paul W.*,**,**
+83,20510,*Straus, Lawrence Guy*,**,**
+83,20520,*Whyte, R. O.*,**,**
+83,20530,*Blumenberg, Bennett*,**,**
+83,20540,*Smith, Patricia*,**,**
+83,20541,*Bloom, Ronald A.*,**,**
+83,20541,*Berkowitz, Judith*,**,**
+83,20550,*Dalquest, Walter W.*,**,**
+83,20560,*Alferez Delgado, Francisco*,**,**
+83,20561,*de Villalta Comella, Jose F.*,**,**
+83,20561,*Moya Sola, Salvador*,**,**
+83,20570,*Alferez Delgado, Francisco*,**,**
+83,20571,*Molero Gutierrez, Guillermo*,**,**
+83,20571,*Bustos Pretel, Victoriano*,**,**
+83,20580,*Fernandez Marron, Maria Teresa*,**,**
+83,20590,*Alferez Delgado, Francisco*,*Alferez, F.*,**
+83,20591,*Molero Gutierrez, Guillermo*,*Molero, G.*,**
+83,20591,*Maldonado, E.*,**,**
+83,20591,*Bustos Pretel, Victoriano*,*Bustos, V.*,**
+83,20591,*Brea Lopez, Pedro*,*Brea, P.*,**
+83,20591,*Buitrago, A. M.*,**,**
+83,20600,*Crusafont Pairo, Miguel*,**,**
+83,20601,*Golpe Posse, Juana Maria*,**,**
+83,20610,*Perez Perez, Pilar Julia*,**,**
+83,20620,*Alferez Delgado, Francisco*,**,**
+83,20630,*Lopez Martinez, Nieves*,**,**
+83,20640,*Alferez Delgado, Francisco*,**,**
+83,20650,*Moodie, G. Eric E.*,**,**
+83,20651,*Reimchen, Thomas E.*,**,**
+83,20660,*Warren, Edward M.*,**,**
+83,20670,*Wilson, Feather*,**,**
+83,20680,*Clayton, Lee*,**,**
+83,20690,*Dalquest, Walter W.*,**,**
+83,20700,*Sarjeant, William A. S.*,**,**
+83,20710,*Dorsey, Sara L.*,**,**
+83,20720,*Dalquest, Walter W.*,**,**
+83,20730,*Osten, Lawrence W.*,**,**
+83,20740,*Schleich, Hans-Hermann*,**,**
+83,20750,*Franzen, Jens Lorenz*,**,**
+83,20751,*Weber, Jan*,**,**
+83,20751,*Wuttke, Michael*,**,**
+83,20760,*Falk, Fritz*,**,**
+83,20761,*Ellenberg, Juergen*,**,**
+83,20761,*Grumbt, Eberhard*,**,**
+83,20761,*Luetzner, Harald*,**,**
+83,20761,*Ludwig, Alfred O.*,**,**
+83,20770,*Haubold, Hartmut*,**,**
+83,20780,*Fischer, Karlheinz*,**,**
+83,20781,*Krumbiegel, Guenter*,**,**
+83,20790,*Demathieu, Georges*,**,**
+83,20791,*Haubold, Hartmut*,**,**
+83,20800,*Blieck, Alain*,**,**
+83,20810,*Blieck, Alain*,**,**
+83,20820,*Madeyska, Teresa*,**,**
+83,20830,*Arambourg, Camille*,**,**
+83,20831,*Arnould, Michel*,**,**
+83,20840,*Black, Craig C.*,**,**
+83,20850,*Black, Craig C.*,**,**
+83,20860,*Greenwood, Peter Humphry*,*Greenwood, P. H.*,**
+83,20870,*Robinson, Peter*,**,**
+83,20880,*Cracraft, Joel*,**,**
+83,20890,*Lillegraven, Jason A.*,**,**
+83,20900,*Grene, Marjorie*,**,*e*
+83,20910,*Rensch, Bernhard*,**,**
+83,20920,*Gould, Stephen Jay*,**,**
+83,20930,*Reif, Wolf-Ernst*,**,**
+83,20940,*Hoffman, Antoni*,**,**
+83,20950,*Moore, Walter L.*,**,**
+83,20960,*Cvancara, Alan M.*,*Cvancara, A. M.*,**
+83,20970,*Mayr, Ernst*,**,*e*
+83,20971,*Provine, William B.*,**,*e*
+83,20980,*Mayr, Ernst*,**,**
+83,20990,*Gould, Stephen Jay*,**,**
+83,21000,*Mayr, Ernst*,**,**
+83,21010,*Armstrong, William G.*,*Armstrong, W. G.*,**
+83,21011,*Halstead, L. Beverly*,**,**
+83,21011,*Reed, F. B.*,**,**
+83,21011,*Wood, Liliana*,**,**
+83,21020,*Benton, Michael J.*,**,**
+83,21030,*Warren, Anne A.*,**,**
+83,21031,*Hutchinson, M. N.*,**,**
+83,21040,*Schleich, Hans-Hermann*,**,**
+83,21050,*Heizmann, Elmar Peter Juergen*,*Heizmann, Elmar P. J.*,**
+83,21051,*Fahlbusch, Volker*,**,**
+83,21060,*Zoebelein, Hans Karl*,**,**
+83,21070,*Gregory, Joseph T.*,**,*e*
+83,21071,*Bacskai, Judith Ann*,**,*e*
+83,21071,*Shkurkin, George Vladimirovich*,**,*e*
+83,21071,*Bryant, Laurie J.*,**,*e*
+83,21080,*Bacskai, Judith Ann*,**,*e*
+83,21081,*Bryant, Laurie J.*,**,*e*
+83,21081,*Gregory, Joseph T.*,**,*e*
+83,21081,*Shkurkin, George Vladimirovich*,**,*e*
+83,21081,*Winans, Melissa C.*,**,*e*
+83,21090,*Melville, Richard V.*,**,**
+83,21100,*Baird, Donald*,**,**
+83,21110,*Melville, Richard V.*,**,**
+83,21120,*Colbert, Edwin Harris*,**,**
+83,21130,*Hennig, Willi*,**,**
+83,21131,*Schlee, Dieter*,**,**
+83,21140,*Schlee, Dieter*,**,**
+83,21150,*Pecsi, Marton*,**,*e*
+83,21160,*Kretzoi, Miklos*,**,**
+83,21161,*Pecsi, Marton*,**,**
+83,21170,*Kretzoi, Miklos*,**,**
+83,21171,*Marton, Peter*,**,**
+83,21171,*Pecsi, Marton*,**,**
+83,21171,*Schweitzer, Ferenc*,**,**
+83,21171,*Voros, Istvan*,**,**
+83,21180,*Szoor, Gy.*,**,**
+83,21181,*Kordos, Laszlo*,**,**
+83,21190,*Goin, Coleman J.*,**,**
+83,21191,*Goin, Olive B.*,**,**
+83,21200,*Cloudsley-Thompson, John L.*,*Cloudsley-Thompson, J. L.*,**
+83,21201,*Butt, D. K.*,**,**
+83,21210,*Farlow, James O.*,**,**
+83,21220,*Colbert, Edwin Harris*,**,**
+83,21230,*Jimenez Fuentes, Emiliano*,**,**
+83,21231,*Carbajosa Tamargo, E.*,**,**
+83,21240,*Mazo Perez, Ana Victoria*,*Mazo, Ana Victoria*,**
+83,21241,*Jimenez Fuentes, Emiliano*,*Jimenez, Emiliano*,**
+83,21250,*Jimenez Fuentes, Emiliano*,**,**
+83,21260,*Cuesta, M. A.*,**,**
+83,21261,*Morales, Jorge*,**,**
+83,21261,*Jimenez Fuentes, Emiliano*,**,**
+83,21270,*Brunnacker, Karl*,**,**
+83,21280,*Simon-Coincon, R.*,**,**
+83,21281,*de Goer de Herve, Alain*,**,**
+83,21281,*Ginsburg, Leonard*,**,**
+83,21290,*Patrulius, Dan*,**,**
+83,21291,*Marinescu, Florian*,**,**
+83,21291,*Baltres, Albert*,**,**
+83,21300,*Andreescu, Ion*,**,**
+83,21310,*Ulpiu Feru, Mircea*,**,**
+83,21311,*Radulescu, Constantin*,*Radulescu, Costin*,**
+83,21311,*Samson, Petre*,**,**
+83,21320,*Jerzmanska, Anna*,**,**
+83,21321,*Kotlarczyk, Janusz*,**,**
+83,21330,*Macarovici, N.*,**,**
+83,21340,*Bendall, D. S.*,**,*e*
+83,21350,*Gould, Stephen Jay*,**,**
+83,21360,*Hallam, Anthony*,**,**
+83,21370,*Isaac, Glynn Llywelyn*,*Isaac, Glynn Ll.*,**
+83,21380,*Duellman, William E.*,**,*e*
+83,21390,*Baez, Ana Maria*,**,**
+83,21391,*de Gasparini, Zulma Brandoni*,**,**
+83,21400,*Laurent, Raymond F.*,**,**
+83,21410,*Tyler, Michael J.*,**,**
+83,21420,*Baez, Ana Maria*,**,**
+83,21421,*Scillato Yane, Gustavo Juan*,**,**
+83,21430,*Cei, Jose Miguel*,**,**
+83,21440,*Formas, J. Ramon*,**,**
+83,21450,*Remy, Jean-Albert*,**,**
+83,21460,*Brush, Alan H.*,**,*e*
+83,21461,*Clark, George A., Jr.*,**,*e*
+83,21470,*Martin, Larry D.*,**,**
+83,21480,*Steadman, David W.*,**,**
+83,21490,*Rich, Patricia Vickers*,*Rich, Pat V.*,**
+83,21500,*Campy, Michel*,**,**
+83,21501,*Chaix, Louis*,**,**
+83,21501,*Eicher, Ueli*,**,**
+83,21501,*Mouthon, Jacques*,**,**
+83,21501,*Richard, Herve*,**,**
+83,21501,*Urlacher, Jean-Pierre*,**,**
+83,21510,*Miller, Scott E.*,**,**
+83,21520,*Spaulding, W. Geoffrey*,**,**
+83,21530,*Dixon, E. James*,**,**
+83,21540,*Petersen, Kenneth L.*,**,**
+83,21541,*Mehringer, Peter J., Jr.*,**,**
+83,21541,*Gustafson, Carl E.*,**,**
+83,21550,*Lyman, R. Lee*,**,**
+83,21551,*Livingston, Stephanie D.*,**,**
+83,21560,*Zuckerman, Lord Solly*,**,*e*
+83,21570,*Zuckerman, Lord Solly*,*Zuckerman, S.*,**
+83,21580,*Weiner, Joseph Sidney*,*Weiner, J. S.*,**
+83,21590,*Day, Michael Herbert*,*Day, Michael H.*,**
+83,21600,*Leakey, Richard E. F.*,**,**
+83,21610,*Zuckerman, Lord Solly*,**,**
+83,21611,*Ashton, E. H.*,**,**
+83,21611,*Flinn, R. M.*,**,**
+83,21611,*Oxnard, Charles E.*,**,**
+83,21611,*Spence, T. F.*,**,**
+83,21620,*Oxnard, Charles E.*,**,**
+83,21630,*Martin, Robert D.*,*Martin, R. D.*,**
+83,21640,*Rowlands, I. W.*,**,*e*
+83,21641,*Weir, Barbara J.*,**,*e*
+83,21650,*Simpson, George Gaylord*,**,**
+83,21660,*Lavocat, Rene*,**,**
+83,21670,*Wood, Albert E.*,**,**
+83,21680,*Chabeuf, Maurice*,**,**
+83,21681,*Philibert, Jean*,**,**
+83,21690,*Chaline, Jean*,**,**
+83,21691,*Michaux, Jacques*,**,**
+83,21700,*Chaline, Jean*,**,**
+83,21710,*Chaline, Jean*,**,**
+83,21720,*Demathieu, Georges*,*Demathieu, Georges-R.*,**
+83,21730,*Guth, Christian*,**,**
+83,21740,*Sims, R. W.*,**,*e*
+83,21741,*Price, James Henry*,*Price, J. H.*,*e*
+83,21741,*Whalley, Paul Ernest Sutton*,*Whalley, P. E. S.*,*e*
+83,21750,*Patterson, Colin*,**,**
+83,21760,*Milner, Andrew R.*,**,**
+83,21770,*Nelson, Gareth*,**,**
+83,21780,*Abusch-Siewert, Susanne*,**,**
+83,21790,*Thies, Detlev*,**,**
+83,21800,*Cook, Della Collins*,**,**
+83,21801,*Buikstra, Jane E.*,**,**
+83,21801,*DeRousseau, C. Jean*,**,**
+83,21801,*Johanson, Donald C.*,*Johanson, D. Carl*,**
+83,21810,*Stern, Jack T., Jr.*,**,**
+83,21811,*Susman, Randall L.*,**,**
+83,21820,*Pickford, Martin*,**,**
+83,21821,*Johanson, Donald C.*,**,**
+83,21821,*Lovejoy, Claude Owen*,**,**
+83,21821,*White, Tim D.*,**,**
+83,21821,*Aronson, James L.*,**,**
+83,21830,*Anderson, Wayne I.*,**,*r*
+83,21840,*Falk, Dean*,**,**
+83,21850,*Holloway, Ralph L.*,**,**
+83,21860,*Cappetta, Henri*,**,**
+83,21870,*Gamble, Henry J.*,**,*r*
+83,21880,*Salmon, M. J.*,**,**
+83,21890,*Hewitt, Roger A.*,**,**
+83,21900,*Hovestadt, Maria*,**,**
+83,21901,*Hovestadt, Dirk*,**,**
+83,21901,*Smith, Richard*,**,**
+83,21910,*Harrison, Colin J. O.*,**,**
+83,21920,*Ward, David John*,**,**
+83,21930,*Prance, Ghillean T.*,**,*e*
+83,21940,*Campbell, Kenneth E., Jr.*,**,**
+83,21950,*Milne, David H.*,**,**
+83,21951,*Schafersman, Steven D.*,**,**
+83,21960,*Gingerich, Philip D.*,**,**
+83,21970,*Padian, Kevin*,**,**
+83,21980,*Whitten, Phillip*,**,**
+83,21981,*Nickels, Martin K.*,**,**
+83,21990,*Walker, Alan C.*,**,**
+83,22000,*Pilbeam, David R.*,**,**
+83,22010,*Kay, Richard F.*,**,**
+83,22020,*Bock, Walter*,**,**
+83,22030,*Zinsmeister, William J.*,**,**
+83,22040,*Rapp, Stephen D.*,**,**
+83,22041,*MacFadden, Bruce J.*,**,**
+83,22041,*Schiebout, Judith Ann*,**,**
+83,22050,*Babin, Claude*,**,*e*
+83,22051,*Roux, Michel*,**,*e*
+83,22060,*Janvier, Philippe*,**,**
+83,22070,*Hartenberger, Jean-Louis*,**,**
+83,22080,*Sahni, Ashok*,**,**
+83,22081,*Kumar, Kishor*,**,**
+83,22081,*Hartenberger, Jean-Louis*,**,**
+83,22081,*Jaeger, Jean-Jacques*,**,**
+83,22081,*Rage, Jean-Claude*,**,**
+83,22081,*Sudre, Jean*,**,**
+83,22081,*Vianey-Liaud, Monique*,**,**
+83,22090,*Buffetaut, Eric*,**,**
+83,22100,*Taquet, Philippe*,**,**
+83,22110,*Buffetaut, Eric*,**,**
+83,22111,*Wellnhofer, Peter*,**,**
+83,22120,*Chudinov, Petr Konstantinovich*,*Tchudinov, P. K.*,**
+83,22130,*Nevesskaya, Lidiya Aleksandrovna*,**,*e*
+83,22140,*Kaljo, Dimitri L.*,*Kal'o, Dmitriy Leonhardovich*,**
+83,22141,*Viira, Viive J.*,*Viyra, Viyve Yanovna*,**
+83,22141,*Klaamann, Einar R.*,*Klaamann, Eynar Rikhardovich*,**
+83,22141,*Mannil, Reet P.*,*Myannil', Reet P.*,**
+83,22141,*Marss, Tiiu I.*,*Myarss, Tiyu I.*,**
+83,22141,*Nestor, Viiu V.*,*Nestor, Viyu V.*,**
+83,22141,*Nestor, Heldur E.*,*Nestor, Kheldur Eduardovich*,**
+83,22141,*Rubel, M. P.*,*Rubel', M. P.*,**
+83,22141,*Sarv, Lembit I.*,**,**
+83,22141,*Einasto, Rein E.*,*Eynasto, Reyn El'marovich*,**
+83,22150,*Sorokin, Vitaliy Semenovich*,**,**
+83,22160,*Novitskaya, Larisa Illarionovna*,**,**
+83,22161,*Talimaa, Valentina Nikolayevna*,*Karatajute-Talimaa, Valentina Nikolayevna*,**
+83,22161,*Lebedev, O. A.*,**,**
+83,22170,*Shul'ga, Vitaliy Fedorovich*,**,**
+83,22171,*Taboyakova, V. Ya.*,**,**
+83,22180,*Zakharov, Viktor Aleksandrovich*,**,**
+83,22190,*Vislobokova, Innessa Anatol'yevna*,**,**
+83,22200,*Duffin, Christopher J.*,**,**
+83,22210,*Duffin, Christopher J.*,**,**
+83,22220,*Kaplina, Tat'yana Nikolayevna*,**,**
+83,22221,*Giterman, Roza Yevseyevna*,*Gitterman, R. E.*,**
+83,22230,*Adamenko, Oleg Maksimovich*,**,**
+83,22231,*Adamenko, R. S.*,**,**
+83,22231,*Belova, Vara Alekseyevna*,**,**
+83,22231,*Grachev, A. F.*,**,**
+83,22231,*Lopatin, D. V.*,**,**
+83,22240,*Valiukevicius, J. J.*,*Valyukyavichyus, Yu. Yu.*,**
+83,22241,*Gladkovskiy, V. T.*,*Gladkovskii, V. T.*,**
+83,22241,*Karatajute-Talimaa, Valentina Nikolayevna*,*Talimaa, Valentina Nikolayevna*,**
+83,22241,*Kurss, Visvaldis Mikelevich*,*Kurshs, V. M.*,**
+83,22241,*Mel'nikov, Sergey Vladimirovich*,**,**
+83,22241,*Menner, Vladimir Vladimirovich*,**,**
+83,22250,*Churcher, Charles S.*,**,*e*
+83,22260,*Swinton, William E.*,**,**
+83,22270,*Russell, Loris Shano*,**,**
+83,22280,*Dineley, David L.*,**,**
+83,22290,*Olson, Everett C.*,**,**
+83,22291,*Lammers, George E.*,**,**
+83,22300,*Carroll, Robert L.*,**,**
+83,22310,*Holman, J. Alan*,**,**
+83,22320,*Morris, William J.*,**,**
+83,22330,*Langston, Wann, Jr.*,**,**
+83,22340,*Sloan, Robert E.*,**,**
+83,22350,*Green, Morton*,**,**
+83,22351,*Martin, James E.*,**,**
+83,22360,*Turnbull, William D.*,**,**
+83,22370,*Storer, John E.*,**,**
+83,22380,*Tanner, Lloyd G.*,**,**
+83,22381,*Martin, Larry D.*,**,**
+83,22390,*Hooijer, Dirk Albert*,*Hooijer, Dirk A.*,**
+83,22400,*Lundelius, Ernest L., Jr.*,**,**
+83,22401,*Slaughter, Bob H.*,**,**
+83,22410,*Wood, Albert E.*,**,**
+83,22420,*Hibbard, Claude W.*,**,**
+83,22430,*Vandermeersch, Bernard*,**,**
+83,22440,*Kurten, Bjorn*,**,*e*
+83,22450,*Gantt, David G.*,**,**
+83,22460,*von Koenigswald, Wighart*,**,**
+83,22470,*Schwartz, Jeffrey H.*,**,**
+83,22480,*Fortelius, Mikael*,**,**
+83,22490,*Sakai, Takuro*,**,**
+83,22500,*Rensberger, John M.*,**,**
+83,22510,*Korenhof, Cornelis A. W.*,**,**
+83,22520,*Smith, Patricia*,**,**
+83,22530,*Horton, D. R.*,**,**
+83,22531,*Murray, Peter*,*Murray, P.*,**
+83,22540,*Storch, Gerhard*,**,**
+83,22541,*Qiu Zhuding*,**,**
+83,22550,*Vieth-Schreiner, Jutta*,**,**
+83,22560,*Gutmann, Wolfgang Friedrich*,**,**
+83,22561,*Bonik, Klaus*,**,**
+83,22570,*Franzen, Jens Lorenz*,**,**
+83,22580,*Pantak, Elke*,**,**
+83,22590,*Franzen, Jens Lorenz*,**,**
+83,22600,*von Koenigswald, Wighart*,**,**
+83,22610,*Stritzke, Ruediger*,**,**
+83,22620,*Wuttke, Michael*,**,**
+83,22630,*Wuttke, Michael*,**,**
+83,22640,*Martini, Erlend*,**,**
+83,22650,*Barsbold, Rinchengiyn*,**,**
+83,22660,*Wu Rukang*,*Woo Ju-kang*,**
+83,22661,*Xu Qinghua*,**,**
+83,22661,*Lu Qingwu*,**,**
+83,22670,*Qi Guoqin*,**,**
+83,22680,*Han Defen*,**,**
+83,22690,*Wang Linghong*,**,**
+83,22700,*Liu Dongsheng*,*Liu Tungsheng*,**
+83,22701,*Ding Menglin*,**,**
+83,22710,*Gai Pei*,**,**
+83,22711,*Wang Guodao*,*Wang Kuodao*,**
+83,22720,*Yuan Sixun*,**,**
+83,22721,*Chen Tiemei*,**,**
+83,22721,*Gao Shijun*,**,**
+83,22730,*Wu Rukang*,**,**
+83,22740,*Lin Yipu*,**,**
+83,22741,*Gu Yumin*,**,**
+83,22741,*Ge Zhigong*,**,**
+83,22750,*Wang Linghong*,**,**
+83,22760,*Qin Ming*,**,**
+83,22770,*Harrison, Jessica A.*,**,**
+83,22780,*Ray, Clayton E.*,**,*e*
+83,22790,*Ray, Clayton E.*,**,**
+83,22800,*Whitmore, Frank C.*,**,**
+83,22810,*Fitch, John E.*,**,**
+83,22811,*Lavenberg, Robert J.*,**,**
+83,22820,*Boucot, Arthur J.*,**,**
+83,22821,*Janis, Christine*,**,**
+83,22830,*Boucot, Arthur J.*,**,*r*
+83,22840,*Prothero, Donald R.*,**,**
+83,22841,*Denham, Charles R.*,**,**
+83,22841,*Farmer, Harlow G.*,**,**
+83,22850,*Demarcq, Gerard*,**,**
+83,22851,*Ballesio, Roland*,**,**
+83,22851,*Rage, Jean-Claude*,**,**
+83,22851,*Guerin, Claude*,**,**
+83,22851,*Mein, Pierre*,**,**
+83,22851,*Meon, Henriette*,**,**
+83,22860,*Fraser, Nicholas C.*,*Fraser, N. C.*,**
+83,22861,*Walkden, G. M.*,**,**
+83,22870,*Bons, Jacques*,*Bons, J.*,*e*
+83,22880,*Ellenberger, Paul*,**,**
+83,22890,*Scott, Thomas M.*,**,*e*
+83,22891,*Upchurch, Sam B.*,**,*e*
+83,22900,*MacFadden, Bruce J.*,**,**
+83,22901,*Webb, S. David*,**,**
+83,22910,*Franzen, Jens Lorenz*,*Franzen, Jens*,**
+83,22920,*McCrady, Allen D.*,**,**
+83,22930,*Schoch, Robert Milton*,**,**
+83,22940,*Echols, Joan*,**,**
+83,22950,*Kitching, James W.*,**,**
+83,22960,*Blackstone, Donald LeRoy, Jr.*,**,**
+83,22970,*Skinner, Morris F.*,**,**
+83,22971,*Skinner, Marie*,**,**
+83,22980,*Trofimov, Boris Aleksandrovich*,**,**
+83,22981,*Reshetov, Valeriy Yur'yevich*,*Reshetov, V. J.*,**
+83,22990,*Badam, Gyani Lal*,*Badam, G. L.*,**
+83,23000,*Archibald, J. David*,**,**
+83,23001,*Clemens, William A.*,**,**
+83,23010,*Padian, Kevin*,**,*r*
+

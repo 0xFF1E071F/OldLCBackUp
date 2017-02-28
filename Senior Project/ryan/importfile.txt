@@ -1,0 +1,23 @@
+fields terminated by '' enclosed by '' lines terminated by '\r\n';
+LOAD DATA LOCAL INFILE 'U:\\ryan\\auths.txt' into table auths;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\authsbak.txt' into table authsbak;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\jnfull.txt' into table jnfull;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\ref.txt' into table ref;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\refbak.txt' into table refbak;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\subj.txt' into table subj;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\subjbak.txt' into table subjbak;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\tauth.txt' into table tauth;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\taxbak.txt' into table taxbak;
+LOAD DATA LOCAL INFILE 'U:\\ryan\\ttax.txt' into table ttax;
+
+
+SELECT * FROM auths INTO OUTFILE 'U:\\ryan\\output\\auths-op-mysql.txt';
+SELECT * FROM authsbak INTO OUTFILE 'U:\\ryan\\output\\authsbak-op-mysql.txt';
+SELECT * FROM jnfull INTO OUTFILE 'U:\\ryan\\output\\jnfull-op-mysql.txt';
+SELECT * FROM ref INTO OUTFILE 'U:\\ryan\\output\\ref-op-mysql.txt';
+SELECT * FROM refbak INTO OUTFILE 'U:\\ryan\\output\\refbak-op-mysql.txt';
+SELECT * FROM subj INTO OUTFILE 'U:\\ryan\\output\\subj-op-mysql.txt';
+SELECT * FROM subjbak INTO OUTFILE 'U:\\ryan\\output\\subjbak-op-mysql.txt';
+SELECT * FROM tauth INTO OUTFILE 'U:\\ryan\\output\\tauth-op-mysql.txt';
+SELECT * FROM taxbak INTO OUTFILE 'U:\\ryan\\output\\taxbak-op-mysql.txt';
+SELECT * FROM ttax INTO OUTFILE 'U:\\ryan\\output\\ttax-op-mysql.txt';

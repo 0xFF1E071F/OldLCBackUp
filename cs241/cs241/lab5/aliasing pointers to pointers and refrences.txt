@@ -1,0 +1,28 @@
+aliasing acessing data with different variable names ** *&
+	pointers 
+	refrences
+	store the address of variable within the pointers and refs
+	type of thing it is pointing to is also in there 
+	
+	derefrence a pointer
+	not derefrence a refrence
+	
+	int a = 7
+	int& b = a
+	int*c = &a
+
+	b++ then a++
+	int d = 9
+
+	b = d	//the value that b pointed to now becomes 9
+
+	
+	c = &d //c points to now
+	
+
+	int **f = &c //f points to the pointer that c points to
+	int*& g = &c //refrences the pointer c 
+	*f = &a	     //now c points to a
+	g = &d	     //c points to d
+		
+	

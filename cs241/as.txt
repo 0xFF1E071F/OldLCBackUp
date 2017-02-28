@@ -1,0 +1,15 @@
+T LCQueue::dequeue()
+{
+	int index=first_;
+	
+	if (size_!=0)
+	{
+		first_++;
+		if (first_==capicity_)
+		{
+			first_=0;
+		}	
+		size_--;
+	}
+	return item_[index];
+}

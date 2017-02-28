@@ -1,0 +1,120 @@
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Ch3 Music WAN\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+H:\Ch3 Music WAN\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+H:\Ch3 Music WAN\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+H:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+E:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+E:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+E:\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Fall 2011\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Fall 2011\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Fall 2011\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\cs131 fall2012\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\cs131 fall2012\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\cs131 fall2012\Ch3 Music WAN\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+C:\Users\Norko_W\Documents\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+C:\Users\Norko_W\Documents\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+C:\Users\Norko_W\Documents\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+E:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+E:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+E:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+H:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+H:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+H:\Ch4 Music WAN continued\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Ch4 Music WAN continued\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\private\cs131 fall2012\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\private\CS131 Spring 2013\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2013\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2013\Ch4 Music WAN 2012\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\private\CS131 Spring 2013\Ch4 Music WAN nested\Ch3 Music WAN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\norko_w\Documents\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+C:\Users\norko_w\Documents\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+C:\Users\norko_w\Documents\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring_fall 2013\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2014\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2014\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2014\Ch4 Music  class2013\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2014\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2014\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2014\Ch4 Music  class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\private\CS131 Spring 2014\Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\private\CS131 Spring 2014\Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\private\CS131 Spring 2014\Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+P:\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\bin\Debug\Ch3 Music WAN.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Form1.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3_Music_WAN.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 10Ch4 Music nested Class\Ch3 Music WAN\obj\x86\Debug\Ch3 Music WAN.vbproj.GenerateResource.Cache

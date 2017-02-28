@@ -1,0 +1,172 @@
+Yu Fu
+//#1
+bool arrayOfString (string* newString, int size)
+{
+	bool result = false;
+	char startChar;
+	for (int i=0;i<size;i++)
+	{
+		startChar = newString[i][0];
+		if (startChar = 'C')
+			result = true;
+	}
+	return result;
+}
+//#2
+string arrayOfString (string * newString, int size)
+{
+	string result ="";
+	int i =0;
+	char startChar='z';
+	while (startChar != 'C' && size>i )
+	{
+		startChar = newString[i][0];		
+		i++;
+	}
+	if (startChar=='C')
+		result = newString[i-1];
+	return result;
+}
+
+//#3
+int** make2Darray (int numOfRows,int numOfColumns)
+{
+
+	int** newArray;
+	newArray = new int*[numOfColumns];
+	for (int columns = 0; columns < numOfColumns; columns++)
+	{
+		newArray[columns] = new int[numOfRows];
+
+		for (int rows = 0; rows < numOfRows; rows++)
+		{
+			newArray[columns][rows] = rows;
+		}
+	}
+	return newArray;
+}
+
+//#4
+int destory2Darray (int** newArray,int numOfRows,int numOfColumns)
+{
+	int size=numOfRows*numOfColumns;
+	for (int columns = numOfColumns-1; columns>=0; columns--)
+	{
+		for (int rows = numOfRows-1; rows >=0 ; rows--)
+		{
+			delete [rows] newArray[columns];
+			size--;
+		}
+	}
+	return size;
+}
+
+//#5
+class TestScores
+{
+public:
+	TestScores()
+	{
+		sizeOfArray_=0;
+		maxScore_=0;
+		avgScore_=0.0;
+		totalPoints_=0;
+	}
+//#8
+	TestScores(int* scores,int maxScore)
+	{
+		maxScore_=maxScore;
+		int size =0;
+		while(scores[size] >= 0)
+		{
+			size++;
+		}
+		delete [] scores_;
+		sizeOfArray_=size;
+		scores_ = new int [sizeOfArray_];
+		for(int i =0;i<sizeOfArray_;i++)
+		{
+			scores_[i]=scores[i];
+		}
+	}
+//#9
+	TestScores(const TestScores & original)
+	{
+		sizeOfArray_=original.sizeOfArray_;
+		maxScore_=original.maxScore_;
+		delete [] scores_;
+		scores_ = new int [sizeOfArray_];
+		for(int i =0;i<sizeOfArray_;i++)
+		{
+			scores_[i]=original.scores_[i];
+		}
+		totalPoints_=original.totalPoints_;
+		avgScore_=original.avgScore_;
+	}
+//#11
+	~TestScores()
+	{
+		delete [] scores_;
+		sizeOfArray_=0;
+		maxScore_=0;
+		avgScore_=0.0;
+	}
+//#6
+	float getAvgScore()
+	{
+		int Total=0;
+		for (int i =0;i<sizeOfArray_-1;i++)
+		{
+			Total+=scores_[i];
+		}
+		avgScore_ = Total/sizeOfArray_;
+		return avgScore_;
+	}
+	
+//#7
+	void getAvgScore()
+	{
+		int Total=0;
+		for (int i =0;i<sizeOfArray_-1;i++)
+		{
+			Total+=scores_[i];
+		}
+		avgScore_ = Total/sizeOfArray_;
+	}
+
+//#10
+	const TestScores operator=(const TestScores& rhs)
+	{
+		if (this != &rhs)
+		{
+			delete [] scores_;
+			sizeOfArray_=rhs.sizeOfArray_;
+			maxScore_=rhs.maxScore_;
+			totalPoints_=rhs.totalPoints_;
+			avgScore_=rhs.avgScore_;
+			for(int i =0;i<sizeOfArray_;i++)
+			{
+				scores_[i]=rhs.scores_[i];
+			}
+		}
+		return *this;
+	}
+
+private:
+	int sizeOfArray_;
+	int maxScore_;
+	int * scores_;
+	float avgScore_;
+	int totalPoints_;
+
+//#12
+	class Person
+	{
+		string Name ()
+		{
+			return name_;
+		}
+	private:
+		string name_;
+	};
+};

@@ -1,0 +1,287 @@
+84,120,*Rock Unit:*,*Dows Silt*,*Iowa*
+84,260,*Rock Unit:*,*Bena Gravel*,*California*
+84,260,*Rock Unit:*,*Chanac*,*California*
+84,260,*Rock Unit:*,*Round Mountain Silt*,*California*
+84,260,*Rock Unit:*,*Santa Margarita*,*California*
+84,340,*Rock Unit:*,*Brule*,*Nebraska*
+84,340,*Rock Unit:*,*Chadron*,*Nebraska*
+84,440,*Rock Unit:*,*Bone Valley*,*Florida*
+84,490,*Rock Unit:*,*Doniphan*,*Kansas*
+84,490,*Rock Unit:*,*Ervine Creek*,*Kansas*
+84,490,*Rock Unit:*,*Iowa Point*,*Kansas*
+84,490,*Rock Unit:*,*Jones Point*,*Kansas*
+84,490,*Rock Unit:*,*Plattsmouth*,*Iowa*
+84,490,*Rock Unit:*,*Plattsmouth*,*Kansas*
+84,490,*Rock Unit:*,*Plattsmouth*,*Missouri*
+84,490,*Rock Unit:*,*Stoner*,*Iowa*
+84,520,*Rock Unit:*,*Huerfano*,*Colorado*
+84,530,*Rock Unit:*,*White River*,*Colorado*
+84,2460,*Rock Unit:*,*Bearpaw*,*Montana*
+84,2460,*Rock Unit:*,*Claggett*,*Montana*
+84,2460,*Rock Unit:*,*Eagle Sandstone*,*Montana*
+84,2460,*Rock Unit:*,*Judith River*,*Montana*
+84,2460,*Rock Unit:*,*Virgelle Sandstone*,*Montana*
+84,2570,*Rock Unit:*,*Alachua*,*Florida*
+84,2570,*Rock Unit:*,*Love Bone Bed*,*Florida*
+84,3400,*Rock Unit:*,*Jackson*,*Mississippi*
+84,3400,*Rock Unit:*,*Moody's Branch*,*Mississippi*
+84,3400,*Rock Unit:*,*Yazoo*,*Mississippi*
+84,3420,*Rock Unit:*,*Eutaw*,*Mississippi*
+84,3420,*Rock Unit:*,*McShan*,*Mississippi*
+84,3420,*Rock Unit:*,*Selma*,*Mississippi*
+84,3420,*Rock Unit:*,*Smoky Hill*,*Kansas*
+84,3420,*Rock Unit:*,*Tombigbee Sand*,*Mississippi*
+84,3430,*Rock Unit:*,*Ripley*,*Mississippi*
+84,3450,*Rock Unit:*,*Arikaree*,*South Dakota*
+84,3450,*Rock Unit:*,*Brule*,*South Dakota*
+84,3450,*Rock Unit:*,*Chadron*,*South Dakota*
+84,3450,*Rock Unit:*,*Sharps*,*South Dakota*
+84,3450,*Rock Unit:*,*White River*,*South Dakota*
+84,3650,*Rock Unit:*,*Round Mountain Silt*,*California*
+84,3660,*Rock Unit:*,*Kramer*,*California*
+84,3660,*Rock Unit:*,*Tropico*,*California*
+84,3890,*Rock Unit:*,*Morrison*,*Colorado*
+84,3890,*Rock Unit:*,*Morrison*,*Oklahoma*
+84,3890,*Rock Unit:*,*Morrison*,*Utah*
+84,3890,*Rock Unit:*,*Morrison*,*Wyoming*
+84,3910,*Rock Unit:*,*Cloverly*,*Montana*
+84,3940,*Rock Unit:*,*Fox Hills*,*South Dakota*
+84,3940,*Rock Unit:*,*Hell Creek*,*South Dakota*
+84,4610,*Rock Unit:*,*Llajas*,*California*
+84,5890,*Rock Unit:*,*Bickett Shale*,*West Virginia*
+84,5890,*Rock Unit:*,*Bluefield*,*West Virginia*
+84,6330,*Rock Unit:*,*Devil's Graveyard*,*Texas*
+84,6370,*Rock Unit:*,*Arikaree*,*South Dakota*
+84,6370,*Rock Unit:*,*White River*,*South Dakota*
+84,6370,*Rock Unit:*,*Willwood*,*Wyoming*
+84,6550,*Rock Unit:*,*Capistrano*,*California*
+84,6560,*Rock Unit:*,*Coyote Hills*,*California*
+84,6560,*Rock Unit:*,*La Habra*,*California*
+84,6560,*Rock Unit:*,*San Pedro Sands*,*California*
+84,6590,*Rock Unit:*,*Monterey*,*California*
+84,6590,*Rock Unit:*,*Puente*,*California*
+84,6590,*Rock Unit:*,*Sespe*,*California*
+84,6590,*Rock Unit:*,*Topanga*,*California*
+84,6590,*Rock Unit:*,*Vaqueros*,*California*
+84,6600,*Rock Unit:*,*Capistrano*,*California*
+84,6600,*Rock Unit:*,*Monterey*,*California*
+84,6610,*Rock Unit:*,*Niguel*,*California*
+84,6620,*Rock Unit:*,*Capistrano*,*California*
+84,6620,*Rock Unit:*,*Monterey*,*California*
+84,6630,*Rock Unit:*,*Palos Verdes Sand*,*California*
+84,6710,*Rock Unit:*,*Milk River*,*Alberta*
+84,6720,*Rock Unit:*,*Willwood*,*Wyoming*
+84,6720,*Rock Unit:*,*Wind River*,*Wyoming*
+84,6730,*Rock Unit:*,*Rosebud*,*South Dakota*
+84,6740,*Rock Unit:*,*Palm Spring*,*California*
+84,6780,*Rock Unit:*,*Dalles*,*Oregon*
+84,6820,*Rock Unit:*,*Sharps*,*South Dakota*
+84,6840,*Rock Unit:*,*Towle Shale*,*Nebraska*
+84,7630,*Rock Unit:*,*Llajas*,*California*
+84,7640,*Rock Unit:*,*Sespe*,*California*
+84,7650,*Rock Unit:*,*Alegria*,*California*
+84,7650,*Rock Unit:*,*Calvary Conglomerate*,*California*
+84,7650,*Rock Unit:*,*Jewett Sand*,*California*
+84,7650,*Rock Unit:*,*Pyramid Hill*,*California*
+84,7650,*Rock Unit:*,*Sespe*,*California*
+84,7650,*Rock Unit:*,*Tecuya*,*California*
+84,7650,*Rock Unit:*,*Vaqueros*,*California*
+84,7660,*Rock Unit:*,*Calabasas*,*California*
+84,7670,*Rock Unit:*,*Saugus*,*California*
+84,7680,*Rock Unit:*,*Vaqueros*,*California*
+84,7690,*Rock Unit:*,*Calabasas*,*California*
+84,7770,*Rock Unit:*,*Pierre Shale*,*South Dakota*
+84,7780,*Rock Unit:*,*Pottsville*,*Georgia*
+84,7800,*Rock Unit:*,*Blufftown*,*Georgia*
+84,7800,*Rock Unit:*,*Eutaw*,*Georgia*
+84,7810,*Rock Unit:*,*McBean*,*Georgia*
+84,8410,*Rock Unit:*,*Belleville*,*Kansas*
+84,8410,*Rock Unit:*,*Keim*,*Nebraska*
+84,8410,*Rock Unit:*,*Long Pine*,*Nebraska*
+84,8410,*Rock Unit:*,*Rexroad*,*Kansas*
+84,8650,*Rock Unit:*,*Quiburis*,*Arizona*
+84,8650,*Rock Unit:*,*St. David*,*Arizona*
+84,9490,*Rock Unit:*,*Morrison*,*Utah*
+84,9510,*Rock Unit:*,*Ash Hollow*,*Nebraska*
+84,9510,*Rock Unit:*,*Cap Rock*,*Nebraska*
+84,9510,*Rock Unit:*,*Cornell Dam*,*Nebraska*
+84,9510,*Rock Unit:*,*Crookston Bridge*,*Nebraska*
+84,9510,*Rock Unit:*,*Merritt Dam*,*Nebraska*
+84,9510,*Rock Unit:*,*Ogallala*,*Nebraska*
+84,9510,*Rock Unit:*,*Rosebud*,*Nebraska*
+84,9510,*Rock Unit:*,*Valentine*,*Nebraska*
+84,9890,*Rock Unit:*,*Green River*,*Colorado*
+84,9890,*Rock Unit:*,*Green River*,*Utah*
+84,9890,*Rock Unit:*,*Green River*,*Wyoming*
+84,10590,*Rock Unit:*,*Alloway Clay*,*New Jersey*
+84,10590,*Rock Unit:*,*Cape May*,*New Jersey*
+84,10590,*Rock Unit:*,*Hornerstown*,*New Jersey*
+84,10590,*Rock Unit:*,*Kirkwood*,*New Jersey*
+84,10590,*Rock Unit:*,*Magothy*,*New Jersey*
+84,10590,*Rock Unit:*,*Manasquan*,*New Jersey*
+84,10590,*Rock Unit:*,*Marshalltown*,*New Jersey*
+84,10590,*Rock Unit:*,*Matawan*,*New Jersey*
+84,10590,*Rock Unit:*,*Merchantville*,*New Jersey*
+84,10590,*Rock Unit:*,*Monmouth*,*New Jersey*
+84,10590,*Rock Unit:*,*Navesink*,*New Jersey*
+84,10590,*Rock Unit:*,*New Egypt*,*New Jersey*
+84,10590,*Rock Unit:*,*Raritan*,*New Jersey*
+84,10590,*Rock Unit:*,*Red Bank*,*New Jersey*
+84,10590,*Rock Unit:*,*Shark River*,*New Jersey*
+84,10590,*Rock Unit:*,*Tinton*,*New Jersey*
+84,10590,*Rock Unit:*,*Vincentown*,*New Jersey*
+84,10590,*Rock Unit:*,*Wenonah*,*New Jersey*
+84,10590,*Rock Unit:*,*Woodbury*,*New Jersey*
+84,10610,*Rock Unit:*,*Bearpaw*,*Saskatchewan*
+84,10610,*Rock Unit:*,*New Egypt*,*New Jersey*
+84,10620,*Rock Unit:*,*Mount Laurel*,*New Jersey*
+84,10630,*Rock Unit:*,*Marshalltown*,*Delaware*
+84,10640,*Rock Unit:*,*Cloverly*,*Montana*
+84,10640,*Rock Unit:*,*Cloverly*,*Wyoming*
+84,11390,*Rock Unit:*,*San Jose%A*,*New Mexico*
+84,11400,*Rock Unit:*,*Tesuque*,*New Mexico*
+84,11470,*Rock Unit:*,*Lewis Shale*,*New Mexico*
+84,11480,*Rock Unit:*,*Nacimiento*,*New Mexico*
+84,12110,*Rock Unit:*,*Kayenta*,*Arizona*
+84,12120,*Rock Unit:*,*Ravenscrag*,*Saskatchewan*
+84,12140,*Rock Unit:*,*Alachua*,*Florida*
+84,12140,*Rock Unit:*,*Aldrich Station*,*Nevada*
+84,12140,*Rock Unit:*,*Ash Hollow*,*Nebraska*
+84,12140,*Rock Unit:*,*Blanco*,*Texas*
+84,12140,*Rock Unit:*,*Bone Valley*,*Florida*
+84,12140,*Rock Unit:*,*Burge*,*Nebraska*
+84,12140,*Rock Unit:*,*Chamita*,*New Mexico*
+84,12140,*Rock Unit:*,*Chanac*,*California*
+84,12140,*Rock Unit:*,*Clarendon*,*Texas*
+84,12140,*Rock Unit:*,*Coal Valley*,*Nevada*
+84,12140,*Rock Unit:*,*Fleming*,*Texas*
+84,12140,*Rock Unit:*,*Goliad*,*Texas*
+84,12140,*Rock Unit:*,*Green Valley*,*California*
+84,12140,*Rock Unit:*,*Long Pine*,*Nebraska*
+84,12140,*Rock Unit:*,*Ogallala*,*Kansas*
+84,12140,*Rock Unit:*,*Ogallala*,*Colorado*
+84,12140,*Rock Unit:*,*Ogallala*,*Oklahoma*
+84,12140,*Rock Unit:*,*Ojo Caliente Sandstone*,*New Mexico*
+84,12140,*Rock Unit:*,*Olcott*,*Nebraska*
+84,12140,*Rock Unit:*,*Orinda*,*California*
+84,12140,*Rock Unit:*,*Pawnee Creek*,*Colorado*
+84,12140,*Rock Unit:*,*Petaluma*,*California*
+84,12140,*Rock Unit:*,*Ricardo*,*California*
+84,12140,*Rock Unit:*,*San Pablo*,*California*
+84,12140,*Rock Unit:*,*Santa Fe*,*New Mexico*
+84,12140,*Rock Unit:*,*Santa Margarita*,*California*
+84,12140,*Rock Unit:*,*St. David*,*Arizona*
+84,12140,*Rock Unit:*,*Tesuque*,*New Mexico*
+84,12140,*Rock Unit:*,*Thousand Creek*,*Nevada*
+84,12140,*Rock Unit:*,*Valentine*,*Nebraska*
+84,12180,*Rock Unit:*,*Ricardo*,*California*
+84,12630,*Rock Unit:*,*Brule*,*Nebraska*
+84,13090,*Rock Unit:*,*Morrison*,*Arizona*
+84,13130,*Rock Unit:*,*Fayetteville*,*Arkansas*
+84,13140,*Rock Unit:*,*Paskapoo*,*Alberta*
+84,13190,*Rock Unit:*,*Wellington*,*Oklahoma*
+84,13220,*Rock Unit:*,*Willwood*,*Wyoming*
+84,14770,*Rock Unit:*,*Navesink*,*New Jersey*
+84,15680,*Rock Unit:*,*Wind River*,*Wyoming*
+84,15880,*Rock Unit:*,*Green River*,*Utah*
+84,16340,*Rock Unit:*,*Corwin*,*Alaska*
+84,16460,*Rock Unit:*,*Lewis Shale*,*New Mexico*
+84,16470,*Rock Unit:*,*Baca*,*New Mexico*
+84,16490,*Rock Unit:*,*Pojoaque*,*New Mexico*
+84,16490,*Rock Unit:*,*Tesuque*,*New Mexico*
+84,16500,*Rock Unit:*,*Baca*,*New Mexico*
+84,16530,*Rock Unit:*,*Baca*,*New Mexico*
+84,16540,*Rock Unit:*,*Chinle*,*New Mexico*
+84,16580,*Rock Unit:*,*Edith*,*New Mexico*
+84,16600,*Rock Unit:*,*Baca*,*New Mexico*
+84,16650,*Rock Unit:*,*Renova*,*Montana*
+84,17910,*Rock Unit:*,*Bone Valley*,*Florida*
+84,17910,*Rock Unit:*,*Calvert*,*Maryland*
+84,17910,*Rock Unit:*,*Kirkwood*,*New Jersey*
+84,17910,*Rock Unit:*,*Marsland*,*Nebraska*
+84,17920,*Rock Unit:*,*Niobrara*,*Kansas*
+84,17930,*Rock Unit:*,*Bridger*,*Wyoming*
+84,17940,*Rock Unit:*,*Bridger*,*Wyoming*
+84,17940,*Rock Unit:*,*Teepee Trail*,*Wyoming*
+84,17940,*Rock Unit:*,*White River*,*Montana*
+84,17940,*Rock Unit:*,*White River*,*Nebraska*
+84,17940,*Rock Unit:*,*White River*,*Wyoming*
+84,17940,*Rock Unit:*,*Wind River*,*Wyoming*
+84,18010,*Rock Unit:*,*Cutler*,*New Mexico*
+84,18020,*Rock Unit:*,*Nacimiento*,*New Mexico*
+84,18030,*Rock Unit:*,*Hall Lake*,*New Mexico*
+84,18030,*Rock Unit:*,*Jose Creek*,*New Mexico*
+84,18030,*Rock Unit:*,*McRae*,*New Mexico*
+84,18100,*Rock Unit:*,*Bear Gulch Limestone*,*Montana*
+84,18100,*Rock Unit:*,*Big Snowy*,*Montana*
+84,18100,*Rock Unit:*,*Heath*,*Montana*
+84,18150,*Rock Unit:*,*Bear Gulch Limestone*,*Montana*
+84,18690,*Rock Unit:*,*San Diego*,*California*
+84,18690,*Rock Unit:*,*San Mateo*,*California*
+84,19760,*Rock Unit:*,*Willwood*,*Wyoming*
+84,20120,*Rock Unit:*,*Willwood*,*Wyoming*
+84,20210,*Rock Unit:*,*Bone Valley*,*Florida*
+84,20220,*Rock Unit:*,*Green River*,*Wyoming*
+84,21290,*Rock Unit:*,*Bridger*,*Wyoming*
+84,21370,*Rock Unit:*,*Lost Cabin*,*Wyoming*
+84,21370,*Rock Unit:*,*Wind River*,*Wyoming*
+84,21380,*Rock Unit:*,*Wind River*,*Wyoming*
+84,21650,*Rock Unit:*,*Green River*,*Wyoming*
+84,21950,*Rock Unit:*,*Belle Plains*,*Texas*
+84,22010,*Rock Unit:*,*Bone Valley*,*Florida*
+84,22250,*Rock Unit:*,*Bear Gulch Limestone*,*Montana*
+84,22250,*Rock Unit:*,*Mecca Shale*,*Indiana*
+84,22250,*Rock Unit:*,*Sunbury Shale*,*Ohio*
+84,22280,*Rock Unit:*,*Haskell Limestone*,*Kansas*
+84,22280,*Rock Unit:*,*Lawrence*,*Kansas*
+84,22290,*Rock Unit:*,*Boonton*,*New Jersey*
+84,22290,*Rock Unit:*,*Feltville*,*New Jersey*
+84,22290,*Rock Unit:*,*Newark*,*New Jersey*
+84,22350,*Rock Unit:*,*Manlius*,*New York*
+84,22370,*Rock Unit:*,*Two Medicine*,*Montana*
+84,22390,*Rock Unit:*,*Jackson*,*Arkansas*
+84,22450,*Rock Unit:*,*Kirtland Shale*,*New Mexico*
+84,22450,*Rock Unit:*,*Naashoibito*,*New Mexico*
+84,22660,*Rock Unit:*,*Aquia*,*Virginia*
+84,22660,*Rock Unit:*,*Brightseat*,*Virginia*
+84,22660,*Rock Unit:*,*Marlboro Clay*,*Virginia*
+84,22660,*Rock Unit:*,*Nanjemoy*,*Virginia*
+84,22660,*Rock Unit:*,*Pamunkey*,*Virginia*
+84,22670,*Rock Unit:*,*Calvert*,*Virginia*
+84,22670,*Rock Unit:*,*Eastover*,*Virginia*
+84,22680,*Rock Unit:*,*Calvert*,*Virginia*
+84,22680,*Rock Unit:*,*Choptank*,*Virginia*
+84,22680,*Rock Unit:*,*St. Marys*,*Virginia*
+84,22680,*Rock Unit:*,*Yorktown*,*Virginia*
+84,22690,*Rock Unit:*,*Calvert*,*Virginia*
+84,22690,*Rock Unit:*,*Piney Point*,*Virginia*
+84,22700,*Rock Unit:*,*Calvert*,*Virginia*
+84,22700,*Rock Unit:*,*Eastover*,*Virginia*
+84,22710,*Rock Unit:*,*Calvert*,*Virginia*
+84,22720,*Rock Unit:*,*Calvert*,*Virginia*
+84,24020,*Rock Unit:*,*Monroe Creek*,*South Dakota*
+84,24580,*Rock Unit:*,*Flechado*,*New Mexico*
+84,24580,*Rock Unit:*,*La Pasada*,*New Mexico*
+84,24590,*Rock Unit:*,*Baca*,*New Mexico*
+84,24590,*Rock Unit:*,*Blanco Basin*,*New Mexico*
+84,24590,*Rock Unit:*,*El Rito*,*New Mexico*
+84,24590,*Rock Unit:*,*Galisteo*,*New Mexico*
+84,24590,*Rock Unit:*,*San Jose%A*,*New Mexico*
+84,24600,*Rock Unit:*,*Alamosa*,*Colorado*
+84,24610,*Rock Unit:*,*Kassler Sandstone*,*Colorado*
+84,24610,*Rock Unit:*,*South Platte*,*Colorado*
+84,24620,*Rock Unit:*,*Black Creek*,*North Carolina*
+84,24620,*Rock Unit:*,*Peedee*,*North Carolina*
+84,24620,*Rock Unit:*,*Snow Hill*,*North Carolina*
+84,24620,*Rock Unit:*,*Waccamaw*,*North Carolina*
+84,25850,*Rock Unit:*,*Cloverly*,*Wyoming*
+84,25850,*Rock Unit:*,*Morrison*,*Wyoming*
+84,26240,*Rock Unit:*,*Niobrara*,*Kansas*
+84,26240,*Rock Unit:*,*Smoky Hill*,*Kansas*
+84,26870,*Rock Unit:*,*Glen Rose*,*Texas*
+84,26880,*Rock Unit:*,*Glen Rose*,*Texas*
+84,26900,*Rock Unit:*,*Blufftown*,*Georgia*
+84,27000,*Rock Unit:*,*Brule*,*South Dakota*
+84,27000,*Rock Unit:*,*Chadron*,*South Dakota*
+84,27000,*Rock Unit:*,*Sharps*,*South Dakota*
+

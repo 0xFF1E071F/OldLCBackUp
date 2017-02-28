@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ch6Sheetzwan
+</name>
+</assembly>
+<members>
+<member name="P:Ch6_Sheetz_wan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources._6088paper_coffee_cup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.bacon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.banana">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.breakfast_sandwich_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.burrito">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.egg_sandwich">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.egg_sandwich_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.IMG_3113">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.orange_juice_potassium_lg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.SAUSAGE_PATTIES">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ch6_Sheetz_wan.My.Resources.Resources.sheetz_fresh_food">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Ch6_Sheetz_wan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

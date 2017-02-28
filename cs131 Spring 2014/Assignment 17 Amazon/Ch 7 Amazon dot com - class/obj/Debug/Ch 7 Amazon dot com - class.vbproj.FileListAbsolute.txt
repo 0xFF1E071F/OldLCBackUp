@@ -1,0 +1,74 @@
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.pdb
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Form1.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Resources.resources
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.vbproj.GenerateResource.Cache
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+C:\Documents and Settings\William Norko\Local Settings\Application Data\Temporary Projects\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+G:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+G:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+G:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.exe
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.pdb
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.xml
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\ResolveAssemblyReference.cache
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Shopping.resources
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.MarketBasket.resources
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Resources.resources
+P:\CS131fall09\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.vbproj.GenerateResource.Cache
+P:\private\cs131fall09shared\Shared folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+P:\private\cs131fall09shared\Shared folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+P:\private\cs131fall09shared\Shared folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+P:\Shared Folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+P:\Shared Folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+P:\Shared Folder\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+G:\Shared Folder fall2010\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+G:\Shared Folder fall2010\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+G:\Shared Folder fall2010\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+H:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+H:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+H:\Ch 7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.exe
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.pdb
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.xml
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\ResolveAssemblyReference.cache
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Shopping.resources
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.MarketBasket1.resources
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Resources.resources
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\ResGen.read.1.tlog
+H:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\ResGen.write.1.tlog
+E:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+E:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+E:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+F:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+F:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+F:\Ch7 Amazon dot com - class\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.exe
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.pdb
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.xml
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Shopping.resources
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.MarketBasket1.resources
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Resources.resources
+P:\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.exe
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.pdb
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\bin\Debug\Ch 7 Amazon dot com - class.xml
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Shopping.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.MarketBasket1.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch_7_Amazon_dot_com___class.Resources.resources
+W:\FU_Y\cs131 Spring 2014\Assignment 17 Amazon\Ch 7 Amazon dot com - class\obj\Debug\Ch 7 Amazon dot com - class.vbproj.GenerateResource.Cache

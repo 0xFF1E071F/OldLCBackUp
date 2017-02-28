@@ -1,0 +1,189 @@
+﻿/* 
+--------------------------------------------
+			  style.css
+				Yu Fu
+			  2015-10-3
+--------------------------------------------
+This is the style css file for 
+Charlottesville Warriors Circle web
+*/
+@font-face 
+{
+    font-family: "Skranji";
+    src: url(fonts/Skranji-Regular.ttf) format("truetype");
+}
+@font-face 
+{
+    font-family: "SkranjiBold";
+    src: url(fonts/Skranji-Bold.ttf) format("truetype");
+}
+
+
+/* this is calender table title
+*/
+table tr td.datetitle{
+	border-left:1px solid black;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:28%;
+}
+table tr td.contitle{
+	border-left:1px solid black;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:12%;
+}
+table tr td.buttitle{
+	border-left:1px solid black;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:10%;
+}
+table tr td.nametitle{
+	border:1px solid black;
+	text-align:center;
+	width:40%;
+}
+/* this is calender table
+    infomation sowed
+*/
+table tr td.date{
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:28%;
+}
+table tr td.con{
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:12%;
+}
+table tr td.but{
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	text-align:center;
+	width:10%;
+}
+table tr td.name{
+	border-left:1px solid black;
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+	text-align:left;
+	width:40%;
+	word-wrap:break-word;
+	word-break:keep-all;
+}
+
+/* I am unsure about this next bit:  I wanted alternating colors, but they look obnoxious.
+   Maybe I just leave it.  WSB  */
+/*
+.calender tr:nth-child(2n+3)
+{ 
+	background: yellow;
+}
+
+.calender tr:nth-child(even){
+	background: white;
+}*/
+
+body
+{
+	text-align:center;
+	color:#000000;
+	background:#aaa111;
+    font-family: "Skranji", Verdana, Tahoma;
+    min-width: 500px;
+}
+
+div.reg{
+	text-align:left;
+	color:#000000;
+	background:#aaa111;
+}
+div.header
+{
+	/*height: 100px; */width: 100%;
+	text-align: center;
+	background: #BBBBBB; /*#B00100;*/ 
+	font-family: "SkranjiBold", Verdana, Tahoma;
+	outline: 4px solid #B00100; /* RED */
+}
+
+div.footer
+{
+	/*height: 100px; */width: 100%;
+	text-align: center;
+	background: #BBBBBB; /*#B00100;*/ /* RED */
+	font-family: "Skranji", Verdana, Tahoma;
+	outline: 4px solid #B00100; /* RED */
+}
+
+body,input,textarea{
+	font-size:16px;
+	/*font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+}
+
+.title{
+text-align:center;
+font-size:40px;
+/*font-family:Berlin San FB;*/
+     /*text-shadow: 2px 2px 0px #FFFFFF;*/ /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+/*    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  */     
+    color: black;
+    text-shadow:
+    -1px -1px 0 #FFF,
+    1px -1px 0 #FFF,
+    -1px 1px 0 #FFF,
+    1px 1px 0 #FFF;       
+
+
+}
+
+.footer{
+	font-size:14px;
+/*font-family:Verdana, Geneva, Tahoma, sans-serif;*/
+}
+
+.line{
+    padding: 0 0 0;
+    margin: 0px 0;
+    line-height: 2px;
+
+    border-left: 100% solid #ddd;
+    border-right:100% solid #ddd;
+    text-align: center;
+}
+
+/*
+This is used to resize the outside of login table
+bcz the elements in the login zone is located by the table
+_Table______
+|            |
+| login      |
+|            |
+|            |
+_________
+*/
+.login 
+{
+   width :250px; /*WSB: I am not sure I need this for width, but if I take it out, the blanks don't
+   					 line up.  I don't think this is the way to line up blanks, but I'll leave it for now.*/
+ }
+  
+.messageFromURLArgument
+{
+	color: #B00100;  /* RED */
+	text-align: center;
+	font-size:x-large;
+	padding:10px;
+}
+	

@@ -1,0 +1,123 @@
+﻿<!-- 
+--------------------------------------------
+			  reg.html
+				Yu Fu
+			  2015-10-3
+--------------------------------------------
+This is the registration page
+-->
+
+<script language=JavaScript>
+function InputCheck(RegForm)
+{
+  if (RegForm.username.value == "" )
+  {
+    alert("Username can not be empty!");
+    RegForm.username.focus();
+    return (false);
+  }
+  if (RegForm.password.value == "")
+  {
+    alert("Must have password!");
+    RegForm.password.focus();
+    return (false);
+  }
+  if (RegForm.repass.value != RegForm.password.value)
+  {
+    alert("Input the same password twice!");
+    RegForm.repass.focus();
+    return (false);
+  }
+}
+</script>
+<div class="reg">
+<fieldset>
+	<legend>User Registration</legend>
+	<form name="RegForm" method="post" action="reg.php" onSubmit="return InputCheck(this)">
+	<table>  
+    <tr>  
+		<td style="width:20%">
+			<label for="username" class="label">Username:  </label>
+		</td>
+		<td style="width:30%">
+			<input id="username" name="username" type="text" class="input"/>
+		</td>
+		<td style="width:40%">
+			<span>(* length:3-15 ,a-z,0-9,_)</span>
+		</td>
+	</tr> 
+	
+	<tr>  
+		<td>
+			<label for="password" class="label">Password:  </label>
+		</td>
+		<td>
+			<input id="password" name="password" type="password" class="input">
+		</td>
+		<td>
+			<span>(* length: more than 6)</span>
+		</td>
+	</tr> 
+	
+	<tr>  
+		<td>
+	<label for="repw" class="label">Re-Password:</label>
+		</td>
+		<td>
+			<input id="repw" name="repw" type="password" class="input">
+		</td>
+		<td>
+			<span>(* Type in the same password again)</span>
+		</td>
+	</tr> 
+	
+	<tr>  
+		<td>
+			<label for="fname" class="label">First Name</label>
+		</td>
+		<td>
+			<input id="fname" name="fname" type="fname" class="input">
+		</td>
+		<td>
+			<span>(cannot be empty)</span>
+		</td>
+	</tr> 
+	
+	<tr>  
+		<td>
+			<label for="lname" class="label">Last Name</label>
+		</td>
+		<td>
+			<input id="lname" name="lname" type="lname" class="input">
+		</td>
+		<td>
+			&nbsp;
+		</td>
+	</tr> 
+
+	<tr>  
+		<td>
+			<label for="email" class="label">E-mail</label>
+		</td>
+		<td>
+			<input id="email" name="email" type="email" class="input">
+		</td>
+		<td>
+			<span>(can be empty)</span>
+		</td>
+	</tr> 
+		
+	<tr>  
+		<td>
+			<input type="submit" name="submit" value="Submit" class="left">
+		</td>
+		<td>
+			<input type="button" onclick="window.location.href='index.php';" value="Cancel" class="left" >
+		</td>
+
+	</tr> 
+
+	</table>
+	</form>
+</fieldset>
+</div>

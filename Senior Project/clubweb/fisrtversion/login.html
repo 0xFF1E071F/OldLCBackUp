@@ -1,0 +1,56 @@
+<!-- 
+--------------------------------------------
+			 login.html
+				Yu Fu
+			  2015-10-3
+--------------------------------------------
+-->
+
+<script language=JavaScript>
+<!--
+function InputCheck(LoginForm)
+{
+  if (LoginForm.username.value == "" )
+  {
+    alert("Username can not be empty!");
+    LoginForm.username.focus();
+    return (false);
+  }
+  if (LoginForm.password.value == "")
+  {
+    alert("Must have password!");
+    LoginForm.password.focus();
+    return (false);
+  }
+
+}
+
+//-->
+</script>
+<body>
+<table class="login" >
+	<tr>
+		<td >
+			<fieldset>
+			<legend>Login</legend>
+				<form name="LoginForm" method="post" onSubmit="return InputCheck(this)" action="login.php" >
+				
+					<p>
+						<label for="username" class="label">Username:</label>
+						<input id="username" name="username" type="text" class="input" />
+					</p>
+					<p>
+						<label for="password" class="label">Passoword:</label>
+						<input id="password" name="password" type="password" class="input" />
+					</p>
+					<p>
+						<input type="button" name="reg" id= "reg" onclick="window.location.href='registration.php';" value="Register" />
+						<input type="submit" name="submit" id= "submit" value=" LogIn "/>
+					</p>
+					
+				</form>
+			</fieldset>
+		</td>
+	</tr>
+</table>
+</body>

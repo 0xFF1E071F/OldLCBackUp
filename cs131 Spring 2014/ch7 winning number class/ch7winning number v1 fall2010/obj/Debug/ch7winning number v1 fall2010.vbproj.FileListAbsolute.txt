@@ -1,0 +1,67 @@
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.exe
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.pdb
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.xml
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ResolveAssemblyReference.cache
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Entry.resources
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Resources.resources
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.WinningNumbersForm.resources
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ResGen.read.1.tlog
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ResGen.write.1.tlog
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+H:\ch 7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+H:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+H:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+H:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+F:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+F:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+F:\ch7 winning number v1 fall2011 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.exe
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.pdb
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.xml
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ResolveAssemblyReference.cache
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Entry.resources
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Resources.resources
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.WinningNumbersForm.resources
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ResGen.read.1.tlog
+H:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ResGen.write.1.tlog
+F:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+F:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+F:\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\private\cs131 fall2012 class\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+P:\private\cs131 fall2012 class\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+P:\private\cs131 fall2012 class\ch7 winning number fall 12 class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.exe
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.pdb
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.xml
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ResolveAssemblyReference.cache
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Entry.resources
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Resources.resources
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.WinningNumbersForm.resources
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ResGen.read.1.tlog
+P:\private\CS131 Spring 2013\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ResGen.write.1.tlog
+P:\private\CS131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+P:\private\CS131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+P:\private\CS131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\cs131Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+P:\cs131Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+P:\cs131Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.exe
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.pdb
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\bin\Debug\ch7winning number v1 fall2010.xml
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Entry.resources
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.Resources.resources
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning_number_v1_fall2010.WinningNumbersForm.resources
+P:\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.vbproj.GenerateResource.Cache
+W:\FU_Y\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.exe
+W:\FU_Y\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.xml
+W:\FU_Y\cs131 Spring 2014\ch7 winning number class\ch7winning number v1 fall2010\obj\Debug\ch7winning number v1 fall2010.pdb

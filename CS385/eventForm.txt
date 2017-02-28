@@ -1,0 +1,157 @@
+<?php
+//eventForm.php
+//This page accepts form input for the LC Calendar project
+
+//Will Briggs
+//CS 385
+//Spring 2013
+
+		//includes
+require_once 'dateUtilities.php';
+
+		//how many years ahead can we set dates?
+define ("MAX_YEARS_TO_SCHEDULE", 2);
+
+//Here are our arrays (until we start using the database)
+$organizations = array(
+	'College Democrats (defunct)',
+	'College Republicans (defunct)',
+	'Intervarsity Christian Fellowship',
+	'LC Anime Society',
+	'LC Sangha',
+	'Lynchburg College Tea Party (defunct)',
+	'Theoria'
+	);
+	
+$categories=array(
+	'Campus Events (open to all)',				
+	'Departmental',				
+	'Greek',				
+	'Honor Societies',
+	'Lost and Found',			
+	'Music/Performing Arts',				
+	'Publications',				
+	'Religious/Spiritual',				
+	'Service',				
+	'Special Interest',				
+	'Sport Clubs',				
+	'Student Government');
+
+$venues = array(
+	'Hopwood Auditorium',
+	'Hall Campus Center Ballroom',
+	'Dr. Garren\'s House');		
+
+function collectEventInfoFromPosting ($organizations, $categories, $venues)
+{
+	//Here, notice if data has been posted.  (We'll display it later if it is)
+	if (isset($_POST['name']))		$eventName 	= $_POST['name']; 		else $eventName = '';
+	if (isset($_POST['organization']))	$organization 	= $_POST['organization']; 	else $organization='';
+	if (isset($_POST['category']))		$category 	= $_POST['category']; 		else $category='';
+	if (isset($_POST['venue'])) 		$venue 		= $_POST['venue']; 		else $venue='';
+	if (isset($_POST['startYear'])) 	$startDate 	= getPostedDate ('startDay','startMonth','startYear'); 	else $startDate ='';
+	if (isset($_POST['endYear'])) 		$endDate 	= getPostedDate ('endDay',  'endMonth',  'endYear'); 	else $endDate = '';
+	if (isset($_POST['startHour'])) 	$startTime 	= getPostedTime ('startHour','startMinute','startAMPM');else $startTime='';
+	if (isset($_POST['endHour'])) 		$endTime 	= getPostedTime ('endHour', 'endMinute', 'endAMPM');	else $endTime='';
+	if (isset($_POST['text'])) 		$description 	= $_POST['text']; 		else $description = '';
+	
+	if ($eventName != '') //if any event was entered, collect info in a string to return
+	{
+		return  $organizations[$organization].' scheduled '.$eventName.' at '.
+				$venues[$venue].' '.$startTime.' '.$startDate.' - '.$endTime.' '.$endDate.' -- '.$categories[$category].
+				'<br>Description:  '.$description.'<br>';
+	}
+	else return '';
+}
+
+//If an event's posted, get a text description of it
+$eventPosted = collectEventInfoFromPosting ($organizations, $categories, $venues);
+	
+	//Head of HTML document
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>CS 385 Homework 6 -- my solution</title>
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="contentAreas" >
+
+		<div id="header">
+			<h1>CS 385<br />Homework 6:  my solution</h1>
+			<p class="tagline">Motivation: forms</p>
+		</div>
+
+		<?php include_once "rightColumn.php"; ?>
+		<div id="mainContentArea">
+			<h3>Entry form for events</h3>		
+				
+			<!-- We're in the form now -->
+			<form method = "post" action="eventForm.php"><fieldset>
+			<legend>Enter an event:</legend>
+			<table>
+			<tr><td>
+			 <label class="field" for="name">Name of event</label><input name="name" type="text" size="30"></td></tr><tr><td>
+			 <label class="field" for="name">Sponsoring org</label> <select name="organization" size="1">
+<?php
+		//Form begins!  We just got the even name; now we'll get organizations...
+			$result = $organizations;
+			foreach ($result as $index => $name)
+					echo "<option value=\"$index\">$name</option>";
+					
+		// ...categories...
+?>
+
+			</select></td></tr><tr><td>
+			<label class="field" for="name">Category</label>        <select name="category" size="1"> 
+<?php
+			$result = $categories;
+			foreach ($result as $index => $name)
+					echo "<option value=\"$index\">$name</option>";
+		// ...venues ...
+?>
+			  </select></td></tr><tr><td>
+			 <label class="field" for="name">Venue</label>          <select name="venue" size="1"> 
+<?php
+			$result = $venues;
+			foreach ($result as $index => $name)
+					echo "<option value=\"$index\">$name</option>";
+
+			//then dates, times, and event description
+?>
+			  </select><br>
+<!--			 <label class="field" for="startDate">start date</label><input name = "startDate" type="text"></td></tr><tr><td> 
+			 <label class="field" for="endDate">end date</label><input name =   "endDate" type="text"></td></tr><tr><td>
+-->
+<?php
+			$currentYear = date ("Y", time ());
+			getDateInForm("start date", "startYear", "startMonth", "startDay", $currentYear, MAX_YEARS_TO_SCHEDULE);
+			echo '</td></tr><tr><td>';
+			getDateInForm("end date",   "endYear",   "endMonth",   "endDay",   $currentYear, MAX_YEARS_TO_SCHEDULE);
+			echo '</td></tr><tr><td>';	
+			getTimeInForm("start time", "startHour", "startMinute", "startAMPM");
+			echo '</td></tr><tr><td>';	
+			getTimeInForm("end time",   "endHour"  , "endMinute"  , "endAMPM"  );		
+			echo '</td></tr><tr><td>';	
+?>
+ 			 <label class="field" for="text">description</label><textarea name="text" cols="40" rows="8" wrap="soft"></textarea><br><br>
+			  </td></tr><tr><td class="auto-style1">
+			  <input type="submit" class="submit-button">
+			  </td></tr>
+			  </table>
+			</fieldset></form>
+<?php
+		  if ($eventPosted != '')
+		  	echo "<p class=\"alert\">Event:  $eventPosted</p>";
+		  else
+		    echo 'Nothing posted yet...';
+?>
+		</div>
+		<?php include_once "../footer.php"; ?>
+ </div>
+</body>
+</html>

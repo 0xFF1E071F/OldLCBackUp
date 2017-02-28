@@ -1,0 +1,10 @@
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\bin\Debug\Ch4 Health Club Fee.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\bin\Debug\Ch4 Health Club Fee.pdb
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\bin\Debug\Ch4 Health Club Fee.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4_Health_Club_Fee.Form1.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4_Health_Club_Fee.Resources.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4 Health Club Fee.vbproj.GenerateResource.Cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4 Health Club Fee.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4 Health Club Fee.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 Health Club Fee\obj\Debug\Ch4 Health Club Fee.pdb

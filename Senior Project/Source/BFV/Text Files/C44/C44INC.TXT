@@ -1,0 +1,6 @@
+*Aulacosteidae*,*Aulacosteus*,**,**,**,*Wells*
+*Didolodontidae*,*Didolodus*,**,**,**,*= Cephanodus, = Didalodus, = Lonchoconus, = Nephacodus*
+*Characinoidei*,*Erythrinolepididae*,**,**,**,*Erythrinolepis*
+*Suidae*,*Metridiochoerus*,**,**,**,*Andrewsi Arambourg 1947A (= Kolpochoerus sinuosus, = Pronotochoerus jacksoni, = Tapinochoerus modestus)*
+*Cervidae*,*Muntiacus*,**,**,**,*bohlini*
+

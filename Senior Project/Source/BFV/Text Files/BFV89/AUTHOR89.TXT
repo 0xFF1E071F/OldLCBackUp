@@ -1,0 +1,3470 @@
+89,10,*Montellano, Marisol*,**,**
+89,20,*Rasmussen, D. Tab*,**,**
+89,21,*Tilden, Christopher D.*,**,**
+89,21,*Simons, Elwyn L.*,**,**
+89,40,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,41,*Biosca, J.*,**,**
+89,41,*Via i Boada, Lluis*,*Via, L.*,**
+89,50,*Brzobohaty%A, Rostislav*,**,**
+89,60,*Mein, Pierre*,**,**
+89,70,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+89,80,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+89,90,*Farlow, James O.*,**,*e*
+89,100,*Dunham, Arthur E.*,**,**
+89,101,*Overall, Karen L.*,**,**
+89,101,*Porter, Warren P.*,**,**
+89,101,*Forster, Catherine A.*,**,**
+89,110,*Coombs, Walter P., Jr.*,**,**
+89,120,*Winkler, Dale A.*,**,**
+89,121,*Murry, Phillip A.*,**,**
+89,130,*Paladino, Frank V.*,**,**
+89,131,*Dodson, Peter*,**,**
+89,131,*Hammond, Joel K.*,**,**
+89,131,*Spotila, James R.*,**,**
+89,140,*Gallup, Marc R.*,**,**
+89,150,*Lucas, Spencer G.*,**,**
+89,151,*Hunt, Adrian P.*,**,**
+89,160,*Weishampel, David B.*,**,**
+89,161,*Norman, David B.*,**,**
+89,170,*Lee, K. Y.*,**,**
+89,171,*Froelich, Albert J.*,*Froelich, A. J.*,**
+89,180,*Pilleri, Giorgio*,*Pilleri, G.*,*e*
+89,190,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,191,*Pilleri, Olaf*,*Pilleri, O.*,**
+89,200,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,210,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,220,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,230,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,231,*Siber, H. J.*,**,**
+89,240,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,241,*Siber, H. J.*,**,**
+89,250,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,260,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,270,*Dalquest, Walter W.*,**,**
+89,271,*Stangl, Frederick B.*,**,**
+89,280,*Goetze, Jim R.*,**,**
+89,290,*Parmley, Dennis*,**,**
+89,300,*Flynn, John J.*,**,**
+89,301,*Cipolletti, Robert M.*,**,**
+89,301,*Novacek, Michael J.*,**,**
+89,310,*Barnosky, Anthony D.*,**,**
+89,311,*Labar, Wayne J.*,**,**
+89,320,*Bachhuber, Frederick W.*,**,**
+89,330,*Jaeger, Jean-Jacques*,**,**
+89,331,*Courtillot, Vincent E.*,**,**
+89,331,*Tapponier, Paul*,**,**
+89,340,*Magaritz, Mordeckai*,**,**
+89,350,*Padian, Kevin*,**,**
+89,360,*Long, John A.*,**,**
+89,361,*Barren, Clive*,**,**
+89,370,*Agenbroad, Larry D.*,**,**
+89,371,*Mead, Jim I.*,**,**
+89,380,*Cifelli, Richard L.*,**,**
+89,381,*Schaff, Charles R.*,**,**
+89,381,*McKenna, Malcolm C.*,**,**
+89,390,*Nosotti, Stefania*,**,**
+89,391,*Pinna, Giovanni*,**,**
+89,400,*Ge%Aczy, Barnaba%As*,**,**
+89,410,*Benes%J, Josef*,*Benes%J, J.*,**
+89,411,*Burian, Zdene%Jk*,*Burian, Z.*,**
+89,420,*Jarvik, Erik*,**,**
+89,430,*Vangengeym, Eleonora Alekseyevna*,*Vangengeym, E. A.*,**
+89,431,*Sotnikova, Marina Vladimirovna*,**,**
+89,440,*Vangengeym, Eleonora Alekseyevna*,**,**
+89,441,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+89,441,*Pevzner, Mikhail Abramovich*,**,**
+89,441,*Tsiskarishvili, Georgiy Vasil'yevich*,**,**
+89,450,*Anonymous*,**,**
+89,460,*Kozlovskiy, Ye. A.*,**,**
+89,461,*Pel'mene%Fv, M. D.*,**,**
+89,461,*Salmanov, Farman Kurbanovich*,*Salmanov, F. K.*,**
+89,461,*Volkov, V. M.*,**,**
+89,461,*Gavrilenko, Nikolay Mefod'yevich*,**,**
+89,461,*Rogov, Viktor Filippovich*,**,**
+89,461,*Selifonov, Ye. M.*,**,**
+89,461,*Sumbatov, R. A.*,**,**
+89,461,*Bedenkov, N. Z.*,**,**
+89,461,*Zaychenko, Vladislav Yur'yevich*,**,**
+89,461,*Zolotov, Aleksey Nikolayevich*,*Zolotov, A. N.*,**
+89,461,*Krivtsov, Anatoliy Ivanovich*,**,**
+89,461,*Maksimov, Valeriy Aleksandrovich*,*Maksimov, V. A.*,**
+89,461,*Chernov, V. A.*,**,**
+89,470,*Zarrina, Yelena Pavlovna*,**,**
+89,480,*Guenther, Ekke Wolfgang*,**,**
+89,490,*Prange, Werner*,**,**
+89,500,*Abusch-Siewert, Susanne*,**,**
+89,510,*Novitskaya, Larisa Illarionovna*,**,**
+89,511,*Karataju%Nte%M-Talimaa, Valentina*,*Karatayute-Talimaa, Valentina Nikolayevna*,**
+89,520,*Valiukevic%Jius, Jouzas Jurgio*,*Valiukevic%Jius, Yu. Yu.*,**
+89,530,*Tatarinov, Leonid Petrovich*,**,**
+89,540,*Ivanov, Aleksandr Olegovich*,**,**
+89,550,*Sennikov, Andrey Gerasimovich*,**,**
+89,560,*Shishkin, Mikhail Aleksandrovich*,*Sishkin, M. A.*,**
+89,570,*Karkhu, Aleksandr Adol'fovich*,**,**
+89,580,*Selezne%Fva, Al'vina Aleksandrovna*,**,**
+89,590,*Gubin, Yuriy Mikhaylovich*,**,**
+89,600,*Ratnikov, Vyacheslav Yur'yevich*,**,**
+89,610,*Sennikov, Andrey Gerasimovich*,**,**
+89,620,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+89,630,*Adamenko, Oleg Maksimovich*,**,**
+89,631,*Adamenko, Rimma Serafimovna*,**,**
+89,631,*Gladilin, Vladislav Nikolayevich*,**,**
+89,631,*Grodetskaya, G. D.*,**,**
+89,631,*Levkovskaya, G. M.*,**,**
+89,631,*Pashkevich, G. A.*,**,**
+89,631,*Pospelova, G. A.*,**,**
+89,631,*Soldatenko, L. V.*,**,**
+89,631,*Shelkoplyas, Vladimir Nikolayevich*,*Shelkoplyas, V. N.*,**
+89,640,*Dodonov, Andrey Yevgen'yevich*,*Dodonov, A. E.*,**
+89,641,*Ranov, Vadim Aleksandrovich*,**,**
+89,641,*Sharapov, Sharif Sh.*,**,**
+89,650,*Nikiforova, Kseniya Vladimirovna*,**,**
+89,660,*Ivanova, Irina Konstantinovna*,**,**
+89,661,*Lyubin, Valeriy Petrovich*,**,**
+89,661,*Praslov, Nikolay Dmitriyevich*,**,**
+89,670,*Makeyev, Viktoriy M.*,*Makeev, V. M.*,**
+89,671,*Arslanov, Khikmatulla Adiyevich*,*Arslanov, H. A.*,**
+89,671,*Baranovskaya, Ol'ga Fe%Fdorovna*,**,**
+89,671,*Kosmodamianskiy, A. V.*,**,**
+89,671,*Ponomare%Fva, D. P.*,**,**
+89,671,*Tertychnaya, Tat'yana Vasil'yevna*,**,**
+89,680,*Aleksandrova, Lidiya Petrovna*,**,**
+89,690,*Kalmykov, Nikolay Pavlovich*,**,**
+89,700,*Dubrovo, Irina Aleksandrovna*,**,**
+89,701,*Jakubowski, Gwidon*,*Yakubovskiy, G.*,**
+89,710,*Gunnell, Gregg F.*,**,**
+89,720,*Gingerich, Philip D.*,**,**
+89,730,*Pe%Acsi, Ma%Arton*,**,**
+89,740,*Turk, Ivan*,**,**
+89,741,*Dirjec, Janez*,**,**
+89,741,*Culiberg, Metka*,**,**
+89,750,*Turk, Ivan*,**,**
+89,751,*Dirjec, Janez*,**,**
+89,760,*Petrescu, Iustinian*,**,*e*
+89,770,*Petrescu, Iustinian*,**,**
+89,771,*Me%Asza%Aros, Nicolae*,**,**
+89,771,*S%Buraru, Nicolae*,**,**
+89,771,*Ghiurca%R, Virgil*,**,**
+89,771,*Moga, Vladimir*,**,**
+89,780,*S%Buraru, Nicolae*,**,**
+89,790,*Clichici, T. Octavian*,**,**
+89,791,*Dragos%B, I.*,**,**
+89,791,*Ducur, I.*,**,**
+89,791,*Clichici, R.*,**,**
+89,800,*Brustur, Titus*,**,**
+89,801,*Alexandrescu, Grigore*,**,**
+89,810,*Ra%Rdulescu, Costin*,**,**
+89,811,*Samson, Petre*,**,**
+89,820,*Codrea, Vlad*,**,**
+89,830,*Codrea, Vlad*,**,**
+89,831,*S%Buraru, Nicolae*,**,**
+89,840,*Chira, Carmen*,**,**
+89,850,*Tuc, I.*,**,**
+89,860,*Del Tredici, Peter*,**,**
+89,870,*Agadzhanyan, Aleksandr Karenovich*,**,**
+89,871,*Biryukov, I. P.*,**,**
+89,871,*Shik, Sergey Mikhaylovich*,**,**
+89,880,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+89,881,*S%Jvec, Petr*,**,**
+89,890,*S%Jtamberg, Stanislav*,**,**
+89,900,*Cuenca Besco%As, Gloria*,*Cuenca, G.*,**
+89,901,*Azanza Asensio, Beatriz*,*Azanza, B.*,**
+89,901,*Canudo Sanagusti%An, Jose%A Ignacio*,*Canudo, J. I.*,**
+89,901,*Fuertes, V.*,**,**
+89,910,*Alberdi, Mari%Aa Teresa*,*Alberdi, Ma. T.*,**
+89,920,*Marti%An de Jesu%As, Santiago*,*Marti%An de Jesu%As, S.*,**
+89,921,*Jime%Anez Fuentes, Emiliano*,*Jime%Anez Fuentes, E.*,**
+89,921,*Mulas Alonso, Eugenia*,*Mulas Alonso, E.*,**
+89,930,*Sotnikova, Marina Vladimirovna*,**,**
+89,940,*Krasheninnikov, Valeriy Arkad'yevich*,**,*e*
+89,941,*Petrov, Oleg Mikhaylovich*,**,*e*
+89,941,*Yerofeyeva, I. M.*,*Eerofeeva, I. M.*,*e*
+89,950,*Vangengeym, Eleonora Alekseyevna*,*Wangenheim, E. A.*,**
+89,951,*Pevzner, Mikhail Abramovich*,*Pevzner, M. L.*,**
+89,951,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+89,960,*Nikiforova, Kseniya Vladimirovna*,**,**
+89,961,*Alekseyev, Mikhail Nikolayevich*,**,**
+89,970,*Vasil'yev, Yuriy Maksimovich*,*Vasiliev, Yu. M.*,**
+89,971,*Dodonov, Andrey Yevgen'yevich*,*Dodonov, A. E.*,**
+89,980,*Freudenthal, Matthijs*,*Freudenthal, M.*,**
+89,981,*Mein, Pierre*,*Mein, P.*,**
+89,990,*Daams, Remmert*,**,**
+89,1000,*Daams, Remmert*,**,**
+89,1001,*Freudenthal, Matthijs*,**,**
+89,1001,*Lacomba, J. I.*,**,**
+89,1001,*A%Alvarez Sierra, Mari%Aa A%Angeles*,**,**
+89,1010,*Daams, Remmert*,**,**
+89,1020,*Freudenthal, Matthijs*,**,**
+89,1021,*Kordos, La%Aszlo%A*,**,**
+89,1030,*Obata, Ikuo*,*Obata, Ikuwo*,**
+89,1031,*Kawashita, Yoshitaro%N*,**,**
+89,1031,*Maiya, Seijuro%N*,**,**
+89,1031,*Taketani, Yo%Njiro%N*,**,**
+89,1031,*Futakami, Masao*,*Futagami, Masao*,**
+89,1031,*Suzuki, Tadashi*,**,**
+89,1040,*Ono, Keiichi*,**,**
+89,1050,*Sakamoto, Kazuo*,**,**
+89,1051,*Ueno, Teruya*,**,**
+89,1060,*Tomida, Yukimitsu*,*Tomita, Yukimitsu*,**
+89,1070,*Lockley, Martin G.*,**,**
+89,1071,*Matsukawa, Masaki*,**,**
+89,1071,*Obata, Ikuo*,*Obata, Ikuwo*,**
+89,1080,*Sakamoto, Kazuo*,**,**
+89,1081,*Ueno, Teruya*,*Uyeno, Teruya*,**
+89,1090,*Hampe, Oliver*,**,**
+89,1100,*Thies, Detlev*,**,**
+89,1110,*Schaumberg, Gu%Fnther*,**,**
+89,1120,*Boy, Ju%Frgen A.*,**,**
+89,1130,*Hu%Ftterbrink, Karl-Bernd*,**,**
+89,1131,*Oekentorp, Klemens*,**,**
+89,1140,*Gasparini, Zulma*,**,**
+89,1150,*Bondesio, Pedro*,**,**
+89,1151,*Bocquentin Villanueva, Jean*,**,**
+89,1160,*Cuzzuol, Mario Alberto*,**,**
+89,1170,*Soria, Miguel Fernando*,**,**
+89,1180,*Cione, Alberto L.*,**,**
+89,1181,*Dozo, Mari%Aa Teresa*,**,**
+89,1181,*Laza, Jose%A H.*,**,**
+89,1181,*Tonni, Eduardo Pedro*,**,**
+89,1190,*Quiroga, Juan Carlos*,**,**
+89,1200,*Tonni, Eduardo Pedro*,**,**
+89,1201,*Bargo, Mari%Aa S.*,**,**
+89,1201,*Prado, Jose%A Luis*,**,**
+89,1210,*Montalvo, Claudia I.*,**,**
+89,1211,*Casadio, Silvio*,**,**
+89,1220,*Esteban, Graciela I.*,**,**
+89,1230,*Ferna%Andez, Mari%Aa S.*,**,**
+89,1231,*de la Fuente, Marcelo*,**,**
+89,1240,*Gon%Ei, Ricardo*,**,**
+89,1241,*Goin, Francisco J.*,**,**
+89,1250,*Tonni, Eduardo Pedro*,**,**
+89,1251,*Tambussi, Claudia P.*,**,**
+89,1260,*Goin, Francisco J.*,**,**
+89,1261,*Montalvo, Claudia I.*,**,**
+89,1270,*Nasif, Norma Lidia*,**,**
+89,1280,*Kay, Richard F.*,**,**
+89,1281,*Madden, Richard H.*,**,**
+89,1281,*Guerrero Di%Aaz, Javier*,**,**
+89,1290,*Alberdi, Mari%Aa Teresa*,**,**
+89,1291,*Menegaz, Adriana N.*,**,**
+89,1291,*Prado, Jose%A Luis*,**,**
+89,1291,*Tonni, Eduardo Pedro*,**,**
+89,1300,*Gon%Ei, Ricardo*,**,**
+89,1301,*Abdala, Fernando*,**,**
+89,1310,*Soria, Miguel Fernando*,**,**
+89,1320,*Soria, Miguel Fernando*,**,**
+89,1330,*Albino, Adriana M.*,**,**
+89,1340,*Perea, Daniel*,**,**
+89,1350,*Steur, Hans*,**,**
+89,1360,*van Diggelen, J.*,**,**
+89,1370,*Bol, J.*,**,**
+89,1380,*van den Hoek Ostende, Lars W.*,**,**
+89,1381,*Ru%Fmke, Coja G.*,**,**
+89,1381,*Hogeweg, P.*,**,**
+89,1390,*Arif, Mohammed*,**,**
+89,1391,*de Vos, John*,**,**
+89,1400,*de Bruijn, Hans*,**,**
+89,1401,*Boon, Ellen*,**,**
+89,1401,*Hussain, S. Taseer*,**,**
+89,1410,*van der Made, Jan*,*van der Made, J.*,**
+89,1420,*Erdbrink, Dirk Pieter Bosscha*,**,**
+89,1430,*Erdbrink, Dirk Pieter Bosscha*,**,**
+89,1431,*Meiklejohn, Christopher*,**,**
+89,1431,*Tacoma, Jouke*,**,**
+89,1440,*Flannery, Timothy F.*,**,**
+89,1450,*Gutteridge, Peter*,**,**
+89,1460,*Martill, David M.*,**,**
+89,1470,*Nesin, Valentin Antonovich*,**,**
+89,1471,*Skorik, Aleksandra Fe%Fdorovna*,*Scoric, A. F.*,**
+89,1480,*Zerova, Galina Aleksandrovna*,**,**
+89,1490,*Borsuk-Bial%Synicka, Magdalena*,**,**
+89,1500,*S%Awidnicki, Jacek*,**,**
+89,1510,*Janvier, Philippe*,**,**
+89,1520,*McAllister, James A.*,**,**
+89,1530,*Hoffman, Antoni*,**,**
+89,1540,*Gayet, Mireille*,**,**
+89,1550,*Dutuit, Jean-Michel*,**,**
+89,1560,*Lelie%Cvre, Herve%A*,**,**
+89,1570,*Bulot, Christian*,**,**
+89,1580,*Michard, Jean-Guy*,**,**
+89,1590,*Norell, Mark A.*,**,**
+89,1591,*Storrs, Glenn W.*,**,**
+89,1600,*Schlee, Dieter*,**,**
+89,1610,*Tyler, Michael J.*,**,**
+89,1620,*Pledge, Neville S.*,**,**
+89,1630,*U%Fnay, Engin*,*U%Fnay-Bayraktar, Engin*,**
+89,1640,*Anonymous*,**,**
+89,1660,*Anonymous*,**,**
+89,1670,*Lucas, Spencer G.*,**,**
+89,1671,*Hunt, Adrian P.*,**,**
+89,1680,*Conroy, Glenn C.*,**,**
+89,1681,*Vannier, Michael W.*,**,**
+89,1700,*Reimold, Wolf Uwe*,**,**
+89,1701,*Tredoux, Marian*,**,**
+89,1710,*Partridge, Timothy C.*,*Partridge, T. C.*,**
+89,1711,*Maud, R. R.*,**,**
+89,1720,*Grine, Frederick E.*,**,**
+89,1721,*Colflesh, D. E.*,**,**
+89,1721,*Daegling, David J.*,**,**
+89,1721,*Krause, David W.*,**,**
+89,1721,*Dewey, M. M.*,**,**
+89,1721,*Cameron, R. H.*,**,**
+89,1721,*Brain, Charles K.*,**,**
+89,1730,*Hunt, Robert M., Jr.*,**,**
+89,1740,*Maisey, John G.*,**,**
+89,1750,*Leguebe, Andre%A*,**,**
+89,1751,*Albert, A.*,**,**
+89,1760,*Albert, A.*,**,**
+89,1761,*Leguebe, Andre%A*,**,**
+89,1770,*Bachmayer, Friedrich*,*Bachmayer, F.*,**
+89,1771,*Malez, Vesna*,*Malez, V.*,**
+89,1771,*Symeonidis, Nikolaos K.*,*Symeonidis, N.*,**
+89,1771,*Theodorou, Yeoryios E.*,*Theodorou, G.*,**
+89,1771,*Zapfe, Helmuth*,*Zapfe, H.*,**
+89,1780,*Malez, Vesna*,*Malez-Bac%Jic%A, Vesna*,**
+89,1790,*Buffetaut, Eric*,*Buffetaut, E.*,**
+89,1800,*Zapfe, Helmuth*,**,**
+89,1810,*Nesov, Lev Aleksandrovich*,**,**
+89,1811,*Fe%Fdorov, Pavel Vasil'yevich*,**,**
+89,1820,*Wu Zhiqing*,**,**
+89,1821,*Sun Bingliang*,*Shun Bingliang*,**
+89,1830,*Dong Zhu'an*,*Dong Zhuan*,**
+89,1840,*You Yuzhu*,**,**
+89,1841,*Xu Xiaofeng*,**,**
+89,1841,*Yuan Xiaofeng*,**,**
+89,1841,*Xu Shubin*,**,**
+89,1841,*Yang Shenfu*,**,**
+89,1841,*Hu Ying*,**,**
+89,1850,*Zhang Senshui*,**,**
+89,1860,*Huang Wanpo*,**,**
+89,1870,*Song Fangyi*,**,**
+89,1871,*Zhang Zhenhong*,**,**
+89,1871,*Guo Xingfu*,**,**
+89,1871,*Chen Dayuan*,**,**
+89,1880,*Wang Jiangke*,**,**
+89,1881,*Chen Shuixia*,**,**
+89,1881,*Luo Honghong*,**,**
+89,1881,*Zhong Yueming*,**,**
+89,1890,*Zhou Yihua*,**,**
+89,1900,*You Yuzhu*,**,**
+89,1901,*Dong Xingren*,**,**
+89,1901,*Chen Cunxi*,**,**
+89,1901,*Fan Xuechun*,**,**
+89,1910,*Lin Shenglong*,**,**
+89,1920,*Chin Tiemei*,**,**
+89,1921,*Hedges, R. E. M.*,**,**
+89,1921,*Yuan Zhenxin*,**,**
+89,1930,*Wu Rukang*,**,**
+89,1940,*Lu%F Zun'e*,**,**
+89,1941,*Huang Yunping*,**,**
+89,1941,*Li Pingsheng*,**,**
+89,1941,*Meng Zhenya*,**,**
+89,1950,*Zhang Yinyun*,**,**
+89,1960,*Gu Yumin*,**,**
+89,1961,*Jablonski, Nina G.*,*Jiang Nino*,**
+89,1970,*Huang Xianghong*,**,**
+89,1980,*Pilleri, Giorgio*,*Pilleri, G.*,*e*
+89,1990,*Pilleri, Giorgio*,**,**
+89,2000,*Pilleri, Giorgio*,**,**
+89,2010,*Pilleri, Giorgio*,**,**
+89,2011,*Cigala-Fulgosi, Franco*,*Cigala Fulgosi, F.*,**
+89,2020,*Pilleri, Giorgio*,**,**
+89,2021,*Cigala-Fulgosi, Franco*,**,**
+89,2030,*Pilleri, Giorgio*,**,**
+89,2040,*Pilleri, Giorgio*,**,**
+89,2050,*Gregorova%A, Ru%Hz%Jena*,**,**
+89,2060,*Mariezkurrena, Koro*,**,**
+89,2070,*Peman, Eduardo*,**,**
+89,2080,*Elorza, Miguel*,**,**
+89,2090,*Altuna, Jesu%As*,**,**
+89,2100,*Ashwill, Melvin S.*,**,**
+89,2110,*Anonymous*,**,**
+89,2120,*Reese, David S.*,**,**
+89,2130,*Mayr, Helmut*,**,**
+89,2140,*Scho%Ftz, Manfred*,**,**
+89,2150,*Fahlbusch, Volker*,**,**
+89,2160,*Roth, Claudia H.*,**,**
+89,2170,*Bernor, Raymond L.*,**,**
+89,2171,*Tobien, Heinz*,**,**
+89,2180,*Fortelius, Mikael*,**,**
+89,2181,*Heissig, Kurt*,**,**
+89,2190,*Heissig, Kurt*,**,**
+89,2200,*Nadachowski, Adam*,**,**
+89,2201,*Madeyska, Teresa*,**,**
+89,2201,*Rook, Ewa*,**,**
+89,2201,*Rzebik-Kowalska, Barbara*,**,**
+89,2201,*Stworzewicz, Ewa*,**,**
+89,2201,*Szyndlar, Zbigniew*,**,**
+89,2201,*Tomek, Teresa*,**,**
+89,2201,*Wolsan, Mieczysl%Saw*,**,**
+89,2201,*Wol%Soszyn, Bronisl%Saw W.*,**,**
+89,2210,*Rzebik-Kowalska, Barbara*,**,**
+89,2220,*Pradel, Andrzej*,**,**
+89,2230,*Popov, Vasil V.*,*Popov, Vassil V.*,**
+89,2240,*Wiszniowska, Teresa*,**,**
+89,2250,*Topa%Al, Gyo%Frgy*,*Topa%Al, Gy.*,**
+89,2260,*Stohl, Ga%Abor*,*Stohl, G.*,**
+89,2270,*Silyn-Roberts, Heather*,**,**
+89,2271,*Sharp, R. M.*,**,**
+89,2280,*Dayan, Ergu%Fn*,**,**
+89,2290,*Kamphausen, Donat*,**,**
+89,2300,*Gaudant, Jean*,**,**
+89,2310,*van den Hoek Ostende, Lars W.*,**,**
+89,2320,*Heizmann, Elmar P. J.*,**,**
+89,2321,*Bloos, Gert*,**,**
+89,2321,*Bo%Fttcher, Ronald*,**,**
+89,2321,*Werner, Jochen*,**,**
+89,2321,*Ziegler, Reinhard*,**,**
+89,2330,*Ziegler, Reinhard*,**,**
+89,2340,*Bo%Fttcher, Ronald*,**,**
+89,2350,*Franke, Werner R.*,**,**
+89,2360,*Wuttke, Michael*,**,**
+89,2370,*Tobien, Heinz*,**,**
+89,2380,*Tobien, Heinz*,**,**
+89,2390,*Micklich, Norbert*,**,**
+89,2391,*Wuttke, Michael*,**,**
+89,2400,*Micklich, Norbert*,**,**
+89,2401,*Wuttke, Michael*,**,**
+89,2410,*Malez, Mirko*,**,**
+89,2420,*Malez, Mirko*,**,**
+89,2421,*Rukavina, Darko*,**,**
+89,2430,*Malez, Mirko*,**,**
+89,2431,*Sliepc%Jevic%A, Adica*,**,**
+89,2431,*Srdoc%J, Dus%Jan*,**,**
+89,2440,*Malez, Mirko*,**,**
+89,2450,*Malez, Vesna*,**,**
+89,2460,*Paunovic%A, Maja*,**,**
+89,2470,*Malez, Mirko*,**,**
+89,2471,*Percac%J, Helena*,**,**
+89,2480,*Modrijan, Walter*,**,**
+89,2490,*S%Jus%Jnjara, Ante*,**,**
+89,2491,*Sakac%J, Kres%Jimir*,**,**
+89,2500,*Bersis, Demetrius S.*,*Virsis, Dimitrios S.*,**
+89,2510,*Lowdon, J. A.*,**,**
+89,2511,*Blake, W., Jr.*,**,**
+89,2520,*Clague, John J.*,*Clague, J. J.*,**
+89,2530,*Mazza, Paul*,**,**
+89,2540,*Vanossi, Mario*,**,**
+89,2550,*Cantaluppi, Gianmario*,**,**
+89,2560,*Cassinis, Giuseppe*,**,**
+89,2570,*Casnedi, Raffaele*,**,**
+89,2571,*Braga, Giovanni*,**,**
+89,2580,*Vanossi, Mario*,**,**
+89,2590,*Anfossi, Giacomo*,*Anfossi, G.*,*C*
+89,2591,*Cantaluppi, Gianmario*,*Cantaluppi, G.*,**
+89,2600,*Capasso Barbato, Lucia*,*Capasso Barbato, L.*,**
+89,2601,*Cuggiani, M. C.*,**,**
+89,2601,*Petronio, Carmelo*,*Petronio, C.*,**
+89,2610,*Angelelli, Francesco*,*Angelelli, F.*,**
+89,2620,*Angelelli, Francesco*,**,**
+89,2630,*Angelelli, Francesco*,*Angelelli, F.*,**
+89,2631,*Gliozzi, Elsa*,*Gliozzi, E.*,**
+89,2631,*Malatesta, Alberto*,*Malatesta, A.*,**
+89,2640,*Angelelli, Francesco*,*Angelelli, F.*,**
+89,2650,*Caloi, Lucia*,*Caloi, L.*,**
+89,2651,*Palombo, Maria Rita*,*Palombo, M. R.*,**
+89,2660,*Capasso Barbato, Lucia*,*Capasso Barbato, L.*,**
+89,2661,*Petronio, Carmelo*,*Petronio, C.*,**
+89,2670,*Caloi, Lucia*,**,**
+89,2671,*Palombo, Maria Rita*,**,**
+89,2680,*Gall, Jean-Claude*,**,**
+89,2690,*Viohl, Gu%Fnter*,**,**
+89,2700,*Haubitz, Bernd*,**,**
+89,2701,*Prokop, Mathias*,**,**
+89,2701,*Do%Fhring, Wilfred*,**,**
+89,2701,*Ostrom, John H.*,**,**
+89,2701,*Wellnhofer, Peter*,**,**
+89,2710,*Selmeier, Alfred*,**,**
+89,2720,*Viohl, Gu%Fnter*,**,**
+89,2730,*Mapes, Gene*,**,*e*
+89,2731,*Mapes, Royal H.*,**,*e*
+89,2740,*Bridge, Thomas E.*,**,**
+89,2741,*Mapes, Royal H.*,**,**
+89,2750,*Foreman, Brian C.*,**,**
+89,2751,*Martin, Larry D.*,**,**
+89,2760,*Schultze, Hans-Peter*,**,**
+89,2761,*Chorn, John*,**,**
+89,2770,*Zidek, Jiri*,**,**
+89,2780,*Gottfried, Michael D.*,**,**
+89,2790,*Zidek, Jiri*,**,**
+89,2800,*Chorn, John*,**,**
+89,2801,*Schultze, Hans-Peter*,**,**
+89,2810,*Maisey, John G.*,**,**
+89,2820,*Schultze, Hans-Peter*,**,**
+89,2830,*Daly, Eleanor*,**,**
+89,2840,*Reisz, Robert R.*,**,**
+89,2850,*McAllister, James A.*,**,**
+89,2860,*Maples, Christopher G.*,**,**
+89,2861,*Schultze, Hans-Peter*,**,**
+89,2870,*Gibert, Jose%A*,*Gibert, J.*,**
+89,2871,*Marti%Anez, Bienvenido*,*Marti%Anez, B.*,**
+89,2871,*Caporicci, R.*,**,**
+89,2871,*Jiminez, C.*,**,**
+89,2871,*Ferra%Andez, C.*,**,**
+89,2871,*Ribot i Trafi, Francesc*,*Ribot, F.*,**
+89,2871,*Soria, F.*,**,**
+89,2871,*Pe%Arez-Cuadrado, J. L.*,**,**
+89,2871,*Arribas, A.*,**,**
+89,2871,*Canals, J.*,**,**
+89,2871,*Garci%Aa-Targa, J. M.*,**,**
+89,2871,*Iglesias Pela%Aez, Alberto*,*Iglesias, A.*,**
+89,2871,*Romero, R.*,**,**
+89,2880,*Dallan, L.*,**,**
+89,2890,*Radmilli, Antonio M.*,*Radmilli, A. M.*,**
+89,2900,*Gonc%Balves, Francisco*,**,**
+89,2910,*Da Mata, Carlos R.*,**,**
+89,2920,*Colom, Guillermo*,**,**
+89,2921,*Rocha, A. Tavares*,**,**
+89,2930,*Backshall, L. C.*,**,**
+89,2940,*Backshall, L. C.*,**,**
+89,2950,*Moody, Richard T. J.*,*Moody, R. T. J.*,**
+89,2960,*Bottonley, J.*,**,**
+89,2961,*Whyatt, M.*,**,**
+89,2970,*Ebner, Fritz*,**,**
+89,2971,*Gra%Ff, Walter*,**,**
+89,2980,*Ebner, Fritz*,**,**
+89,2981,*Gra%Ff, Walter*,**,**
+89,2990,*Zapfe, Helmuth*,**,**
+89,3000,*Ebner, Fritz*,**,**
+89,3010,*Mayer, Gaston*,**,**
+89,3020,*Rieppel, Olivier*,**,**
+89,3030,*von Koenigswald, Wighart*,**,**
+89,3040,*Mader, Detlef*,**,**
+89,3050,*Rietschel, Siegfried*,**,**
+89,3060,*Tobien, Heinz*,**,**
+89,3070,*de Beaumont, Ge%Arard*,**,**
+89,3080,*Schleich, Hans Hermann*,**,**
+89,3090,*von Koenigswald, Wighart*,**,**
+89,3100,*von Koenigswald, Wighart*,**,**
+89,3110,*D'Erasmo, Geremia*,**,**
+89,3120,*De Lorenzo, Giuseppe*,**,**
+89,3121,*D'Erasmo, Geremia*,**,**
+89,3130,*Bo%Fhme, Wolfgang*,**,**
+89,3140,*Kuss, Siegfried E.*,**,**
+89,3150,*Langille, Robert M.*,**,**
+89,3151,*Hall, Brian K.*,**,**
+89,3160,*Gans, Carl*,**,**
+89,3170,*Forste%An, Ann*,**,**
+89,3180,*Holman, J. Alan*,**,**
+89,3181,*Clayden, John D.*,**,**
+89,3181,*Stuart, Anthony J.*,**,**
+89,3190,*Schleich, Hans Hermann*,*Schleich, H. Hermann*,**
+89,3191,*Ka%Fstle, Werner*,**,**
+89,3200,*Carls, Nicola*,**,**
+89,3201,*Rabeder, Gernot*,**,**
+89,3210,*Hattin, Donald E.*,**,**
+89,3211,*Siemers, Charles T.*,**,**
+89,3211,*Stewart, Gary F.*,**,**
+89,3220,*Morlan, Richard E.*,**,**
+89,3230,*Laurin, Michel*,**,**
+89,3231,*Reisz, Robert R.*,**,**
+89,3240,*Mossman, David J.*,**,**
+89,3241,*Place, Craig H.*,**,**
+89,3250,*Skwara, Theresa*,**,**
+89,3251,*Walker, E. G.*,**,**
+89,3260,*Godfrey, Stephen J.*,**,**
+89,3261,*Holmes, Robert B.*,**,**
+89,3270,*Gao Keqin*,**,**
+89,3280,*Currie, Philip J.*,**,**
+89,3290,*Sumida, Stuart S.*,**,**
+89,3300,*Goodwin, Mark B.*,**,**
+89,3301,*Deino, Alan L.*,**,**
+89,3310,*Callaway, Jack M.*,**,**
+89,3311,*Brinkman, Donald B.*,**,**
+89,3320,*Leckie, Dale A.*,*Leckie, D. A.*,**
+89,3321,*Cheel, Richard James*,*Cheel, R. J.*,**
+89,3330,*Belles-Isles, Michel*,**,**
+89,3340,*Wilson, Mark V. H.*,**,**
+89,3341,*Chalifa, Yael*,**,**
+89,3350,*Tokaryk, Tim T.*,**,**
+89,3351,*James, Paul C.*,**,**
+89,3360,*Long, John A.*,**,**
+89,3370,*Thies, Detlev*,**,**
+89,3380,*Mader, Bryn J.*,**,**
+89,3381,*Bradley, Robert L.*,**,**
+89,3390,*Weishampel, David B.*,**,**
+89,3391,*Bjork, Philip R.*,**,**
+89,3400,*Giffin, Emily B.*,**,**
+89,3410,*Dalquest, Walter W.*,**,**
+89,3411,*Patrick, Daniel B.*,**,**
+89,3420,*Pratt, Ann E.*,**,**
+89,3421,*Morgan, Gary S.*,**,**
+89,3430,*Martin, Robert A.*,**,**
+89,3440,*Baskin, Jon Alan*,**,**
+89,3450,*Blum, Stanley D.*,**,**
+89,3451,*Maisey, John G.*,**,**
+89,3451,*Rutzky, Ivy S.*,**,**
+89,3460,*Rowe, Timothy*,**,**
+89,3470,*Lehman, Thomas M.*,**,**
+89,3480,*Sander, P. Martin*,**,**
+89,3490,*Maisey, John G.*,**,**
+89,3500,*Carroll, Robert L.*,**,**
+89,3510,*Hayward, James L.*,**,**
+89,3511,*Amlaner, Charles J.*,**,**
+89,3511,*Young, Karen A.*,**,**
+89,3520,*Hopson, James A.*,**,**
+89,3521,*Kielan-Jaworowska, Zofia*,**,**
+89,3521,*Allin, Edgar F.*,**,**
+89,3530,*Springer, Mark S.*,**,**
+89,3531,*Woodburne, Michael O.*,**,**
+89,3540,*Cifelli, Richard L.*,**,**
+89,3541,*Guerrero Di%Aaz, Javier*,**,**
+89,3550,*Mones, A%Alvaro*,**,**
+89,3560,*Ishigaki, Shinobu*,**,**
+89,3570,*Fuentes Vidarte, Carolina*,**,**
+89,3571,*Meijide, Manuel*,**,**
+89,3580,*Fuentes Vidarte, Carolina*,**,**
+89,3590,*de Torres Pe%Arezhidalgo, Trinidad J.*,**,**
+89,3600,*Prikryl, L'ubomi%Ar Viliam*,**,**
+89,3610,*Hres%Jko, Juraj*,**,**
+89,3620,*Gaa%Al, L'udovi%At*,**,**
+89,3621,*Holec, Peter*,**,**
+89,3630,*Loz%Jek, Vojen*,**,**
+89,3631,*Gaa%Al, L'udovi%At*,**,**
+89,3631,*Holec, Peter*,**,**
+89,3631,*Hora%Ac%Jek, Ivan*,**,**
+89,3640,*Pinto, A%Aurea Duarte Pereira*,**,**
+89,3650,*Pinto, A%Aurea Duarte Pereira*,**,**
+89,3660,*Memmi, Lucia*,**,**
+89,3670,*Gaudant, Jean*,**,**
+89,3671,*Rakus%J, Milos%J*,**,**
+89,3671,*Stranik, Zdene%Jk*,**,**
+89,3680,*Colleuil, Bernard*,**,**
+89,3690,*Crusafont-Pairo%A, Miguel*,**,**
+89,3700,*Golpe Posse, Juana Mari%Aa*,**,**
+89,3710,*Kusch, Heinrich*,**,**
+89,3720,*Qiu Zhanxiang*,**,**
+89,3721,*Huang Weilong*,**,**
+89,3721,*Guo Zhihui*,**,**
+89,3730,*Murchison, Stuart B.*,**,**
+89,3740,*Mead, Emilee M.*,**,**
+89,3741,*Mead, Jim I.*,**,**
+89,3750,*Whistler, David P.*,**,**
+89,3751,*Wright, John W.*,**,**
+89,3760,*Mead, Jim I.*,**,**
+89,3761,*Heaton, Timothy H.*,**,**
+89,3761,*Mead, Emilee M.*,**,**
+89,3770,*Livezey, Bradley C.*,**,**
+89,3790,*Elo%Asegui, Jesu%As*,*Elo%Asegui Irazusta, Jesu%As*,**
+89,3800,*Vin%Eas i Vallverdu, Ramo%An*,*Vin%Eas, Ramo%An*,**
+89,3810,*Rovira Port, Jorge*,**,**
+89,3820,*de Villalta, Jose%A F.*,*Ferna%Andez de Villalta Comella, Jose%A*,**
+89,3830,*Pons, Juan*,*Pons Moya%C, Joan*,**
+89,3840,*Vin%Eas i Vallverdu, Ramo%An*,*Vin%Eas Vallverdu, Ramo%An*,**
+89,3841,*de Villalta, Jose%A F.*,**,**
+89,3850,*de Torres Pe%Arezhidalgo, Trinidad J.*,*de Torres Pe%Arez Hidalgo, Trinidad J.*,**
+89,3860,*Monzonis, Francisco*,**,**
+89,3870,*Alcover, Josep Antoni*,*Alcover Toma%As, Jose%A Antonio*,**
+89,3871,*Roca, Llui%As*,*Roca Ramos, Luis*,**
+89,3880,*Rinco%An Vila, Regino*,**,**
+89,3890,*Stuenes, Solweig*,**,**
+89,3900,*McGowan, Christopher*,*McGowan, Chris*,**
+89,3910,*Westgate, James W.*,**,**
+89,3920,*Sumida, Stuart S.*,**,**
+89,3930,*Chalifa, Yael*,**,**
+89,3940,*MacPhee, Ross D. E.*,*MacPhee, R. D. E.*,**
+89,3941,*Cartmill, Matt*,*Cartmill, M.*,**
+89,3941,*Rose, Kenneth D.*,**,**
+89,3950,*Lund, Richard*,**,**
+89,3960,*Rieppel, Olivier*,**,**
+89,3970,*Beard, K. Christopher*,**,**
+89,3971,*Houde, Peter*,**,**
+89,3980,*Korth, William W.*,**,**
+89,3990,*Domning, Daryl P.*,**,**
+89,4000,*Domning, Daryl P.*,**,**
+89,4010,*Martin, Robert A.*,**,**
+89,4020,*Sumida, Stuart S.*,**,**
+89,4030,*Thewissen, J. G. M.*,**,**
+89,4031,*Gingerich, Philip D.*,*Gingerich, P. D.*,**
+89,4040,*Chaney, Dan S.*,**,**
+89,4041,*Goodwin, Mark B.*,**,**
+89,4050,*Hall, Jean P.*,**,**
+89,4051,*Wolberg, Donald L.*,**,**
+89,4060,*Wright, Kenneth R.*,**,**
+89,4070,*Lane, N. Gary*,**,**
+89,4080,*Chalifa, Yael*,**,**
+89,4090,*Jensen, James A.*,**,**
+89,4091,*Padian, Kevin*,**,**
+89,4100,*Giffin, Emily B.*,**,**
+89,4110,*Lehman, Thomas M.*,**,**
+89,4120,*Bennett, S. Christopher*,**,**
+89,4130,*Novas, Fernando E.*,**,**
+89,4140,*Dalquest, Walter W.*,**,**
+89,4141,*Kocurko, M. John*,**,**
+89,4141,*Grimes, John V.*,**,**
+89,4150,*Callaway, Jack M.*,**,**
+89,4151,*Massare, Judy A.*,**,**
+89,4160,*Goedert, James L.*,**,**
+89,4170,*Peczkis, Jan*,**,**
+89,4180,*Miller, Randall F.*,**,**
+89,4190,*Gaudant, Jean*,**,**
+89,4191,*Quayle, W. J.*,**,**
+89,4200,*Korth, William W.*,**,**
+89,4210,*Savage, Robert J. G.*,*Savage, R. J. G.*,**
+89,4220,*Hooker, Jeremy J.*,*Hooker, J. J.*,**
+89,4230,*Currant, Andrew*,**,**
+89,4240,*Graybeal, Anna*,**,**
+89,4241,*Rosowski, John J.*,**,**
+89,4241,*Ketten, Darlene R.*,**,**
+89,4241,*Crompton, Alfred W.*,*Crompton, A. W.*,**
+89,4250,*Ahlberg, Per Erik*,**,**
+89,4260,*King, Gillian M.*,**,**
+89,4261,*Oelofsen, Burger W.*,*Oelofsen, B. W.*,**
+89,4261,*Rubidge, Bruce S.*,**,**
+89,4270,*Fraser, Nicholas C.*,*Fraser, N. C.*,**
+89,4271,*Benton, Michael J.*,*Benton, M. J.*,**
+89,4280,*Gardiner, Brian G.*,*Gardiner, B. G.*,**
+89,4281,*Schaeffer, Bobb*,**,**
+89,4290,*Schultze, Hans-Peter*,**,**
+89,4291,*Arratia, Gloria*,**,**
+89,4300,*Sze%Akely, Kinga*,**,**
+89,4310,*Hi%Ar, Ja%Anos*,**,**
+89,4320,*Topa%Al, Gyo%Frgy*,**,**
+89,4330,*Hi%Ar, Ja%Anos*,**,**
+89,4331,*Ja%Anossy, De%Anes*,**,**
+89,4340,*Topa%Al, Gyo%Frgy*,**,**
+89,4350,*Joshi, Ramchandra V.*,*Joshi, R. V.*,**
+89,4360,*Ganjoo, R. K.*,**,**
+89,4370,*Capasso Barbato, Lucia*,**,**
+89,4371,*Petronio, Carmelo*,**,**
+89,4371,*Scarano, M.*,**,**
+89,4380,*Yefimov, Mikhail Borisovich*,*Efimov, M. B.*,**
+89,4390,*Sychevskaya, Yevgeniya Konstantinovna*,**,**
+89,4400,*Kurochkin, Yevgeniy Nikolayevich*,*Kurochkin, E. N.*,*e*
+89,4410,*Tatarinov, Leonid Petrovich*,**,**
+89,4420,*Kurochkin, Yevgeniy Nikolayevich*,**,**
+89,4430,*Mikhaylov, Konstantin Yevgen'yevich*,*Mikhailov, K. E.*,**
+89,4431,*Kurochkin, Yevgeniy Nikolayevich*,**,**
+89,4440,*Mikhaylov, Konstantin Yevgen'yevich*,**,**
+89,4450,*Kurzanov, Sergey Mikhaylovich*,**,**
+89,4451,*Mikhaylov, Konstantin Yevgen'yevich*,**,**
+89,4460,*Barsbold, Rinchin*,**,**
+89,4470,*Yefimov, Mikhail Borisovich*,*Efimov, M. B.*,**
+89,4480,*Alifanov, Vladimir R.*,**,**
+89,4490,*Ivakhnenko, Mikhail Feodos'yevich*,**,**
+89,4491,*Kurzanov, Sergey Mikhaylovich*,**,**
+89,4500,*Patterson, Colin*,**,**
+89,4501,*Longbottom, Alison E.*,**,**
+89,4510,*Thomas, Herbert*,**,**
+89,4511,*Roger, Jack*,**,**
+89,4511,*S%Ben, S%Bevket*,*Sen, Sevket*,**
+89,4511,*Bourdillon-de-Grissac, Chantal*,**,**
+89,4511,*Al-Sulaimani, Zaher*,**,**
+89,4520,*Cripps, Anthony P.*,**,**
+89,4530,*Agusti%A, Jordi*,*Agusti, Jorge*,**
+89,4531,*Arbiol, Segundo*,**,**
+89,4540,*Gand, Georges*,**,**
+89,4550,*Duvernois, Marie-Pascale*,**,**
+89,4551,*Gue%Arin, Claude*,**,**
+89,4560,*Molnar, Ralph E.*,**,**
+89,4561,*Carpenter, Kenneth*,**,**
+89,4570,*Wenz, Sylvie*,**,**
+89,4580,*Masse, Pierre Jean-Louis*,**,**
+89,4590,*Wiffen, Joan*,*Wiffen, J.*,**
+89,4591,*Molnar, Ralph E.*,*Molnar, R. E.*,**
+89,4600,*Chaline, Jean*,**,**
+89,4601,*Brunet-Lecomte, Patrick*,**,**
+89,4601,*Brochet, Germain*,**,**
+89,4601,*Martin, Franc%Bois*,**,**
+89,4610,*Janvier, Philippe*,**,**
+89,4611,*Thanh, Tong Dzuy*,**,**
+89,4611,*Gerrienne, Philippe*,**,**
+89,4620,*Pickford, Martin*,**,**
+89,4630,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+89,4640,*Malez, Mirko*,**,**
+89,4641,*Forste%An, Ann*,**,**
+89,4650,*Mazin, Jean-Michel*,**,**
+89,4660,*Geraads, Denis*,**,**
+89,4670,*Gayet, Mireille*,**,**
+89,4671,*Brito, Paulo Marques*,**,**
+89,4690,*DeNiro, Michael J.*,**,**
+89,4691,*Epstein, Samuel*,**,**
+89,4700,*Tuross, Noreen*,**,**
+89,4701,*Fogel, Marilyn L.*,**,**
+89,4701,*Hare, Peter E.*,*Hare, P. E.*,**
+89,4710,*DeNiro, Michael J.*,**,**
+89,4711,*Weiner, Stephen*,**,**
+89,4720,*Stafford, Thomas W., Jr.*,**,**
+89,4721,*Brendel, Klaus*,**,**
+89,4721,*Duhamel, Raymond C.*,**,**
+89,4730,*Renault-Miskovsky, Josette*,**,**
+89,4740,*Rognon, Pierre*,**,**
+89,4741,*Coude%A-Gaussen, Genevie%Cve*,**,**
+89,4741,*Le Coustumer, Miche%Cle-Noelle*,**,**
+89,4741,*Balouet, Jean-Christophe*,**,**
+89,4741,*Occhietti, Serge*,**,**
+89,4750,*Guadelli, Jean-Luc*,**,**
+89,4760,*Mohabey, D. M.*,**,**
+89,4761,*Mathur, U. B.*,**,**
+89,4770,*Ranga Rao, A.*,**,**
+89,4780,*Mohabey, D. M.*,**,**
+89,4790,*Prasad, G. V. R.*,**,**
+89,4800,*Rao, B. R. Jagannatha*,*Rao, B. R. J.*,**
+89,4810,*Bernsen, J. J. A.*,**,**
+89,4820,*Van der Vlerk, J. M.*,*Van der Vlerk, I. M.*,**
+89,4821,*Florschutz, F.*,**,**
+89,4821,*Van den Broek, A. J. P.*,**,**
+89,4821,*Bursch, F. C.*,**,**
+89,4830,*Reynolds, Sidney Hugh*,*Reynolds, S. H.*,**
+89,4840,*Gardiner, C. I.*,**,**
+89,4850,*Sandford, Kenneth Stuart*,*Sandford, K. S.*,**
+89,4860,*Gardiner, C. I.*,**,**
+89,4870,*Bell, Michael A.*,**,**
+89,4871,*Wells, Christina E.*,**,**
+89,4871,*Marshall, James A.*,**,**
+89,4880,*Emry, Robert J.*,**,**
+89,4890,*Tobias, Phillip V.*,**,**
+89,4900,*Hedges, R. E. M.*,**,**
+89,4910,*Patterson, Bruce D.*,*Patterson, B. D.*,**
+89,4920,*Benton, Michael J.*,**,**
+89,4930,*Ahlberg, Per Erik*,*Ahlberg, Per*,**
+89,4940,*Bahn, Paul G.*,**,**
+89,4950,*Milner, Andrew R.*,**,**
+89,4960,*Taylor, Michael A.*,**,**
+89,4970,*Lewin, Roger*,**,**
+89,4980,*Cosgrove, Richard*,**,**
+89,4990,*Hirsch, Karl F.*,**,**
+89,4991,*Stadtman, Kenneth L.*,**,**
+89,4991,*Miller, Wade E.*,**,**
+89,4991,*Madsen, James H., Jr.*,**,**
+89,5000,*Berta, Annalisa*,**,**
+89,5001,*Ray, Clayton E.*,**,**
+89,5001,*Wyss, Andre%A R.*,**,**
+89,5010,*Lewin, Roger*,**,**
+89,5020,*Clark, James M.*,**,**
+89,5021,*Jacobs, Louis L.*,**,**
+89,5021,*Downs, William R.*,**,**
+89,5030,*Simons, Elwyn L.*,**,**
+89,5040,*Kuhn-Schnyder, Emil*,**,**
+89,5050,*Bone, David A.*,**,**
+89,5060,*Jarzembowski, Edmund A.*,*Jarzembowski, Ed. A.*,**
+89,5070,*Taylor, Michael A.*,**,**
+89,5080,*Gee, Henry*,**,**
+89,5090,*Stringer, Christopher B.*,**,**
+89,5091,*Gru%Fn, Rainer*,**,**
+89,5091,*Schwarcz, Henry P.*,**,**
+89,5091,*Goldberg, Paul D.*,**,**
+89,5100,*Arensburg, Baruch*,**,**
+89,5101,*Tillier, Anne-Marie*,**,**
+89,5101,*Vandermeersch, Bernard*,**,**
+89,5101,*Duday, H.*,**,**
+89,5101,*Schepartz, L. A.*,**,**
+89,5101,*Rak, Yoel*,**,**
+89,5110,*Harrison, Colin J. O.*,*Harrison, Colin*,**
+89,5120,*Moore, Peter D.*,**,**
+89,5130,*Gee, Henry*,**,**
+89,5140,*Diamond, Jared M.*,**,**
+89,5150,*Gee, Henry*,**,**
+89,5160,*Taylor, Michael A.*,**,**
+89,5170,*Kermack, Kenneth A.*,**,**
+89,5180,*Panchen, Alec L.*,**,**
+89,5190,*Clack, Jennifer A.*,*Clack, J. A.*,**
+89,5200,*Lister, Adrian M.*,*Lister, A. M.*,**
+89,5210,*Smithson, Timothy R.*,*Smithson, T. R.*,**
+89,5220,*Gee, Henry*,**,**
+89,5230,*Ahlberg, Per Erik*,**,**
+89,5240,*Munthe, Kathleen*,**,**
+89,5250,*Bryant, Laurie J.*,**,**
+89,5260,*Whitelaw, Michael J.*,**,**
+89,5270,*Storer, Robert W.*,**,**
+89,5280,*Gingerich, Philip D.*,**,**
+89,5281,*Deutsch, Harvey A.*,**,**
+89,5290,*Shoshani, Jeheskel*,*Shoshani, J.*,**
+89,5291,*Fisher, Daniel C.*,*Fisher, D. C.*,**
+89,5291,*Zawiskie, John M.*,*Zawiskie, J. M.*,**
+89,5291,*Thurlow, S. J.*,**,**
+89,5291,*Shoshani, S. L.*,**,**
+89,5291,*Benninghoff, William S.*,*Benninghoff, W. S.*,**
+89,5291,*Zoch, F. H.*,**,**
+89,5300,*Brito, Paulo Marques*,**,**
+89,5301,*Ferreira, Pedro Luis Novaes*,**,**
+89,5310,*Soria, Miguel Fernando*,**,**
+89,5311,*de Alvarenga, Herculano Marcos Ferraz*,**,**
+89,5320,*Arau%Ajo-Barberena, Dina Celeste*,*Arau%Ajo, D. C.*,**
+89,5330,*Arau%Ajo-Barberena, Dina Celeste*,**,**
+89,5340,*Mattar, Luiz Claudio Borges*,**,**
+89,5350,*Kellner, Alexander Wilhelm Armin*,**,**
+89,5360,*Ba%Aez, Ana Mari%Aa*,**,**
+89,5361,*Peri%A, Silvia*,**,**
+89,5370,*Voigt, Ehrhard*,**,**
+89,5380,*Bachofen-Echt, Adolf*,**,**
+89,5390,*Brauer, Rudolf*,*Brauer, R.*,**
+89,5400,*No%Fth, Lothar*,**,**
+89,5410,*Kuhn, Oskar*,**,**
+89,5420,*Yefremov, Ivan Antonovich*,*Efremov, J. A.*,**
+89,5430,*Hinsche, Georg*,**,**
+89,5440,*Kuhn, Oskar*,**,**
+89,5450,*von Kripp, Dominik*,**,**
+89,5460,*Zaunick, Rudolph*,**,**
+89,5470,*Shmal'gausen, Ivan Ivanovich*,*Schmalhausen, Ivan Ivanovic%J*,**
+89,5480,*Simpson, George Gaylord*,**,**
+89,5490,*Helwin, Hellmut*,**,**
+89,5500,*Watznauer, Adolf*,**,*e*
+89,5510,*Kozur, Heinz*,**,**
+89,5520,*von Kripp, Dominik*,**,**
+89,5530,*Weigelt, Johannes*,**,**
+89,5540,*Brenner, Hildegard*,**,**
+89,5550,*Kuhn, Oskar*,**,**
+89,5560,*Kuhn, Oskar*,**,**
+89,5570,*Weigelt, Johannes*,**,**
+89,5580,*Borgen, Ulf J.*,**,**
+89,5590,*Bondarchuk, Volodymyr Havrilovych*,*Bondartschuk, W. G.*,**
+89,5600,*Adzinba, Z. I.*,**,**
+89,5601,*Voronov, Yu. N.*,**,**
+89,5601,*Yushin, V. A.*,**,**
+89,5610,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+89,5611,*Gumilevskiy, N. I.*,**,**
+89,5620,*Burchak-Abramovich, Nikolay Iosifovich*,*Burchak-Abramovitch, N. I.*,**
+89,5621,*Bendukidze, Oleg Grigor'yevich*,**,**
+89,5630,*Bendukidze, Oleg Grigor'yevich*,**,**
+89,5640,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+89,5641,*Bendukidze, Oleg Grigor'yevich*,**,**
+89,5650,*Solov'yev, L. N.*,**,**
+89,5660,*Rakviashvili, K. Sh.*,**,**
+89,5670,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+89,5680,*Vekua, Abesalom Kapitonovich*,**,**
+89,5681,*Gabelaia, Tsiala Davidovna*,*Gabelaya, Ts. D.*,**
+89,5681,*Kvavadze, Yeliso Valekoyevna*,*Kvavadze, E. V.*,**
+89,5681,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+89,5690,*Vekua, Abesalom Kapitonovich*,**,**
+89,5691,*Gabelaia, Tsiala Davidovna*,*Gabelaya, Ts. D.*,**
+89,5700,*Evans, Susan E.*,*Evans, S. E.*,**
+89,5701,*Milner, Andrew R.*,*Milner, A. R.*,**
+89,5710,*Leu, Michael R.*,**,**
+89,5720,*Bandyopadhyay, S.*,**,**
+89,5730,*Benton, Michael J.*,**,**
+89,5731,*Kirkpatrick, Ruth*,**,**
+89,5740,*McGowan, Christopher*,*McGowan, C.*,**
+89,5750,*Cade%Ae, Gerhard C.*,**,**
+89,5760,*Mourer-Chauvire%A, Ce%Acile*,**,**
+89,5770,*Janis, Christine M.*,**,**
+89,5780,*Turek, Vojte%Jch*,**,**
+89,5790,*Elliott, David K.*,*Elliott, D. K.*,**
+89,5791,*Loeffler, Elizabeth J.*,*Loeffler, E. J.*,**
+89,5800,*Kuhn-Schnyder, Emil*,**,**
+89,5810,*Buffetaut, Eric*,**,**
+89,5820,*Fraser, Nicholas C.*,**,**
+89,5830,*Lewy, Zeev*,**,**
+89,5831,*Cappetta, Henri*,**,**
+89,5840,*Denys, Christiane*,**,**
+89,5850,*Rage, Jean-Claude*,**,**
+89,5851,*Albino, Adriana M.*,**,**
+89,5860,*Evans, Susan E.*,**,**
+89,5870,*Thies, Detlev*,**,**
+89,5880,*Denys, Christiane*,**,**
+89,5890,*Novitskaya, Larisa Illarionovna*,**,**
+89,5891,*Karataju%Nte%M-Talimaa, Valentina*,*Karatayute-Talimaa, V. N.*,**
+89,5900,*Dubrovo, Irina Aleksandrovna*,**,**
+89,5910,*Minikh, Maksim Georgiyevich*,**,**
+89,5920,*Alifanov, Vladimir R.*,**,**
+89,5930,*Barskov, Igor' Sergeyevich*,**,**
+89,5931,*Kul'chitskiy, Ya. O.*,**,**
+89,5931,*Menner, Vladimir Vasil'yevich*,**,**
+89,5931,*Pasternak, Severin Ivanovich*,**,**
+89,5931,*Ponomare%Fva, Lyudmila Davydovna*,**,**
+89,5931,*Ragozina, Alla Leonidovna*,**,**
+89,5931,*Rozanov, Aleksey Yur'yevich*,**,**
+89,5931,*Sokolov, Boris Sergeyevich*,**,**
+89,5931,*Tatarinov, Leonid Petrovich*,**,**
+89,5931,*Trofimov, Boris Aleksandrovich*,**,**
+89,5931,*Fedonkin, Mikhail Aleksandrovich*,**,**
+89,5931,*Yanin, Boris Timofeyevich*,**,**
+89,5940,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+89,5950,*Sennikov, Andrey Gerasimovich*,**,**
+89,5960,*Tatarinov, Leonid Petrovich*,**,**
+89,5970,*Tyut'kova, Lyubov' Anatol'yevna*,**,**
+89,5980,*Bayshashov, Bolat Uapovich*,**,**
+89,5990,*Tatarinov, Leonid Petrovich*,**,**
+89,6000,*Afanas'yeva, Ol'ga Borisovna*,*Afanassieva, O. B.*,**
+89,6010,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+89,6020,*Sharapov, Sharif Sh.*,**,**
+89,6030,*Novitskaya, Larisa Illarionovna*,**,**
+89,6031,*Karataju%Nte%M-Talimaa, Valentina*,**,**
+89,6040,*Gubin, Yuriy Mikhaylovich*,**,**
+89,6050,*Vyalov, Oleg Stepanovich*,*Vialov, O. S.*,**
+89,6060,*Afanas'yeva, Galina Aleksandrovna*,**,**
+89,6061,*Akhmet'yev, Mikhail Alekseyevich*,**,**
+89,6061,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+89,6061,*Barskov, Igor' Sergeyevich*,**,**
+89,6061,*Budantsev, Lev Yustinianovich*,**,**
+89,6061,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+89,6061,*Gladenkov, Yuriy Borisovich*,**,**
+89,6061,*Gorbachik, Tat'yana Nikolayevna*,**,**
+89,6061,*Ivakhnenko, Mikhail Feodos'yevich*,**,**
+89,6061,*Kaljo, Dimitri L.*,*Kal'o, Dmitriy Leonkhardovich*,**
+89,6061,*Krylov, Igor' Nikolayevich*,**,**
+89,6061,*Mikhaylova, Irina Aleksandrovna*,**,**
+89,6061,*Nevesskaya, Lidiya Aleksandrovna*,**,**
+89,6061,*Novitskaya, Larisa Illarionovna*,**,**
+89,6061,*Obrucheva, Ol'ga Pavlovna*,**,**
+89,6061,*Ponomarenko, Aleksandr Georgiyevich*,**,**
+89,6061,*Reshetov, Valeriy Yur'yevich*,**,**
+89,6061,*Rozanov, Aleksey Yur'yevich*,**,**
+89,6061,*Semikhatov, Mikhail Aleksandrovich*,**,**
+89,6061,*Smirnova, Tat'yana Nikolayevna*,**,**
+89,6061,*Sokolov, Boris Sergeyevich*,**,**
+89,6061,*Tatarinov, Leonid Petrovich*,**,**
+89,6061,*Fedonkin, Mikhail Aleksandrovich*,**,**
+89,6061,*Fedotov, Victor Fe%Fdorovich*,**,**
+89,6061,*Chumakov, Nikolay Mikhaylovich*,**,**
+89,6061,*Shimanskiy, Viktor Nikolayevich*,**,**
+89,6061,*Shishkin, Mikhail Aleksandrovich*,**,**
+89,6061,*Yurina, Alevtina L'vovna*,**,**
+89,6061,*Yanin, Boris Timofeyevich*,**,**
+89,6070,*Kurzanov, Sergey Mikhaylovich*,**,**
+89,6080,*Shishkin, Mikhail Aleksandrovich*,**,**
+89,6090,*Sennikov, Andrey Gerasimovich*,**,**
+89,6100,*Alifanov, Vladimir R.*,**,**
+89,6110,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+89,6120,*Vakhrushev, G. V.*,**,**
+89,6130,*Belyak, V. I.*,**,**
+89,6131,*Khoroshikh, P. P.*,**,**
+89,6140,*Tatarinov, Konstantin Adrianovich*,**,**
+89,6150,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+89,6151,*Lakerbay, L. B.*,**,**
+89,6160,*Ovodov, Nikolay Dmitriyevich*,**,**
+89,6170,*Ovodov, Nikolay Dmitriyevich*,**,**
+89,6180,*Bendukidze, Oleg Grigor'yevich*,**,**
+89,6190,*Novitskaya, Larisa Illarionovna*,**,**
+89,6191,*Karataju%Nte%M-Talimaa, Valentina*,**,**
+89,6200,*Dubrovo, Irina Aleksandrovna*,**,**
+89,6210,*Minikh, Maksim Georgiyevich*,**,**
+89,6220,*Alifanov, Vladimir R.*,**,**
+89,6230,*Barskov, Igor' Sergeyevich*,**,**
+89,6231,*Kul'chitskiy, Ya. O.*,**,**
+89,6231,*Menner, Vladimir Vasil'yevich*,**,**
+89,6231,*Pasternak, Severin Ivanovich*,**,**
+89,6231,*Ponomare%Fva, Lyudmila Davydovna*,**,**
+89,6231,*Ragozina, Alla Leonidovna*,**,**
+89,6231,*Rozanov, Aleksey Yur'yevich*,**,**
+89,6231,*Sokolov, Boris Sergeyevich*,**,**
+89,6231,*Tatarinov, Leonid Petrovich*,**,**
+89,6231,*Trofimov, Boris Aleksandrovich*,**,**
+89,6231,*Fedonkin, Mikhail Aleksandrovich*,**,**
+89,6231,*Yanin, Boris Timofeyevich*,**,**
+89,6240,*Vorob'yeva, Emiliya Ivanovna*,**,**
+89,6250,*Tikhonov, A. N.*,**,**
+89,6251,*Khrabryy, Vladimir Mikhaylovich*,**,**
+89,6260,*Kurzanov, Sergey Mikhaylovich*,**,**
+89,6270,*Reshetov, Valeriy Yur'yevich*,**,**
+89,6280,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+89,6281,*Mildenhall, D. C.*,**,**
+89,6290,*Worthy, Trevor H.*,*Worthy, T. H.*,**
+89,6300,*Fordyce, R. Ewan*,**,**
+89,6310,*Sander, P. Martin*,**,**
+89,6320,*Baird, Robert F.*,**,**
+89,6330,*Zarate, Marcelo A.*,**,**
+89,6331,*Fasano, Jorge L.*,**,**
+89,6340,*Parrish, J. Michael*,**,**
+89,6350,*Ward, David J.*,**,**
+89,6360,*Fierstine, Harry L.*,**,**
+89,6361,*Welton, Bruce J.*,**,**
+89,6370,*Cappetta, Henri*,**,**
+89,6380,*Cigala-Fulgosi, Franco*,**,**
+89,6390,*Cigala-Fulgosi, Franco*,**,**
+89,6400,*Herman, Jacques*,*Herman, J.*,**
+89,6401,*Hovestadt-Euller, Maria*,*Hovestadt-Euller, M.*,**
+89,6401,*Hovestadt, Dirk C.*,*Hovestadt, D. C.*,**
+89,6410,*Halter, Marc Christoph*,**,**
+89,6420,*Kalinovskiy, Pe%Ftr Fe%Fdorovich*,**,**
+89,6421,*Kovalyukh, N. I.*,**,**
+89,6421,*Kuz'mina, Irina Yevgen'yevna*,**,**
+89,6430,*Sharbatyan, Tat'yana Anatol'yevna*,*Sharbatian, T. A.*,**
+89,6431,*Lyalikova, N. N.*,**,**
+89,6440,*Rezvoy, D. P.*,**,**
+89,6441,*Laz'ko, Yevgeniy Mikhaylovich*,*Laz'ko, Ye. M.*,**
+89,6441,*Glushko, Vasiliy Vasil'yevich*,*Glushko, V. V.*,**
+89,6441,*Naydin, Dmitriy Pavlovich*,**,**
+89,6450,*Bannikov, Aleksandr Fe%Fdorovich*,**,**
+89,6451,*Fedotov, Viktor Fe%Fdorovich*,**,**
+89,6460,*Yesin, Dmitriy Nikolayevich*,*Esin, D. N.*,**
+89,6470,*Selezne%Fva, Al'vina Aleksandrovna*,**,**
+89,6471,*Sychevskaya, Yevgeniya Konstantinovna*,**,**
+89,6480,*Vorob'yeva, Emiliya Ivanovna*,**,**
+89,6490,*Novikov, Igor' Vital'yevich*,**,**
+89,6500,*Garutt, Vadim Yevgen'yevich*,**,**
+89,6510,*Gensel, Peter*,**,**
+89,6520,*Micklich, Norbert*,**,**
+89,6521,*Gaudant, Jean*,**,**
+89,6530,*Padial Ojeda, Jose%A*,*Padial Ojeda, J.*,**
+89,6531,*Ruiz Bustos, Antonio*,*Ruiz Bustos, A.*,**
+89,6540,*Ludwig, K.*,**,**
+89,6541,*Haude, H.*,**,**
+89,6541,*Fuchs, K.*,**,**
+89,6541,*Azanza Asensio, Beatriz*,*Azanza, B.*,**
+89,6541,*Blanco Toma%As, Mari%Aa Jose%A*,*Blanco, M. J.*,**
+89,6541,*Cuenca Besco%As, Gloria*,*Cuenca, G.*,**
+89,6550,*Boy, Ju%Frgen A.*,**,**
+89,6560,*Heidtke, Ulrich*,**,**
+89,6570,*Fuchs, Gu%Fnter*,**,**
+89,6580,*Venglinskiy, Ivan Vladimirovich*,**,**
+89,6590,*Ponomare%Fva, Lyudmila Davydovna*,**,**
+89,6600,*Zykin, Vladimir Sergeyevich*,**,**
+89,6601,*Zazhigin, Vladimir Seme%Fnovich*,**,**
+89,6601,*Prisyazhnyuk, Valentin Arsen'yevich*,**,**
+89,6610,*Ben'yamovskiy, Vladimir Naumovich*,*Benyamovsky, V. N.*,**
+89,6611,*Levina, Alla Pavlovna*,**,**
+89,6611,*Naydin, Dmitriy Pavlovich*,*Naidin, D. P.*,**
+89,6611,*Pronin, V. G.*,**,**
+89,6611,*Zhelezko, Viktor Ivanovich*,**,**
+89,6611,*Kozlova, Genriyetta Eduardovna*,**,**
+89,6611,*Oleynik, Ella Sergeyevna*,**,**
+89,6611,*Pas'kar, Zoya Savel'yevna*,**,**
+89,6611,*Tabachnikova, Irina Petrovna*,**,**
+89,6620,*Gutak, Ya. M.*,**,**
+89,6630,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+89,6640,*Nioradze, M. G.*,**,**
+89,6641,*Vekua, Abesalom Kapitonovich*,**,**
+89,6650,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+89,6660,*Bataller Calatayud, Jose%A Ramo%An*,*Bataller, J. R.*,**
+89,6670,*Blanc, Alberto Carlo, il Barone*,**,**
+89,6680,*Zbyszewski, Georges*,**,**
+89,6690,*Teixeira, Carlos*,*Teixeira, C.*,**
+89,6700,*Zbyszewski, Georges*,**,**
+89,6710,*Vianna, Anto%Anio*,**,**
+89,6711,*Moraes, A.*,**,**
+89,6720,*Inuzuka, Norihisa*,**,**
+89,6730,*Getmanov, Sergey Nikolayevich*,**,**
+89,6740,*Mones, A%Alvaro*,**,**
+89,6741,*Mann de Toledo, Peter*,**,**
+89,6750,*Lingham-Soliar, Theagarten*,*Soliar, Theagarten*,**
+89,6751,*Nolf, Dirk*,**,**
+89,6760,*Leguebe, Andre%A*,**,**
+89,6761,*Orban, Rosine*,**,**
+89,6761,*Simonet, Pierre*,**,**
+89,6770,*Popp, H.*,**,**
+89,6790,*Schu%Frmann, Alfred*,**,**
+89,6800,*Vogt, Hans-Heinrich*,**,**
+89,6810,*Hahn, Gerhard*,**,**
+89,6811,*Sigogneau-Russell, Denise*,**,**
+89,6811,*Wouters, Georges*,**,**
+89,6820,*Galton, Peter M.*,**,**
+89,6830,*Clauzon, Georges*,**,**
+89,6831,*Aguilar, Jean-Pierre*,**,**
+89,6831,*Michaux, Jacques*,**,**
+89,6840,*Demarcq, Ge%Arard*,**,**
+89,6841,*Mein, Pierre*,**,**
+89,6841,*Ballesio, Roland*,**,**
+89,6841,*Romaggi, Jean-Paul*,**,**
+89,6850,*Buffetaut, Eric*,**,**
+89,6851,*Pouit, Daniel*,**,**
+89,6851,*Rigollet, Laurent*,**,**
+89,6851,*Archambeau, Jean-Pierre*,**,**
+89,6860,*Gaudant, Jean*,**,**
+89,6870,*Lucas, Spencer G.*,**,**
+89,6871,*Cather, Steven M.*,**,**
+89,6871,*Sealey, Paul*,**,**
+89,6871,*Hutchison, J. Howard*,**,**
+89,6880,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+89,6881,*Gagnie%Cre, Sylvain*,**,**
+89,6890,*Herrera, Pedro Luis*,**,**
+89,6900,*Desse, Jean*,**,**
+89,6901,*Desse-Berset, Nathalie*,**,**
+89,6901,*Rocheteau, Michel*,**,**
+89,6910,*Serre, Fre%Ade%Aric*,**,**
+89,6911,*Hadjouis, Djillali*,**,**
+89,6920,*Dauphin, Yannicke*,**,**
+89,6930,*Karataju%Nte%M-Talimaa, Valentina*,*Karatayute-Talimaa, Valentina Nikolayevna*,**
+89,6940,*Cannell, Peter F.*,**,**
+89,6950,*MacFadden, Bruce J.*,**,**
+89,6951,*Shaak, Craig D.*,**,**
+89,6951,*Webb, S. David*,**,**
+89,6951,*Brown, Ed*,**,**
+89,6960,*West, Robert M.*,**,**
+89,6970,*Gregory, Joseph T.*,**,*e*
+89,6971,*Bacskai, Judith Ann*,*Bacskai, Judith A.*,*e*
+89,6971,*Shkurkin, George Vladimirovich*,*Shkurkin, George V.*,*e*
+89,6971,*Winans, Melissa C.*,**,*e*
+89,6971,*Rauscher, Bonnie H.*,**,*e*
+89,6980,*Venczel, Ma%Arton*,**,**
+89,6990,*Codrea, Vlad*,**,**
+89,7000,*Buffetaut, Eric*,**,**
+89,7001,*Le Loeuff, Jean*,**,**
+89,7010,*Legendre, Serge*,**,**
+89,7020,*Gayet, Mireille*,**,**
+89,7030,*Defleur, Alban*,**,**
+89,7031,*Cre%Agut-Bonnoure, E%Avelyne*,**,**
+89,7031,*Ra%Rdulescu, Costin*,*Radulesco, Constantin*,**
+89,7040,*Senut, Brigitte*,**,**
+89,7041,*Tobias, Phillip V.*,**,**
+89,7050,*Bandet, Yves*,**,**
+89,7051,*Semah, Franc%Bois*,**,**
+89,7051,*Sartono, Sastrohamidjojo*,*Sartono, S.*,**
+89,7051,*Djubiantono, Tony*,**,**
+89,7060,*Michel, Patrick*,**,**
+89,7070,*Wenz, Sylvie*,**,**
+89,7080,*Petter, Germaine*,**,**
+89,7081,*Howell, Francis Clark*,*Howell, F. Clark*,**
+89,7090,*Heim, Jean-Louis*,**,**
+89,7100,*Bonifay, Euge%Cne*,**,**
+89,7101,*Consigny, Alain*,**,**
+89,7101,*Liabeuf, Rene%A*,**,**
+89,7110,*Belles-Isles, Michel*,**,**
+89,7120,*Brugal, Jean-Philippe*,**,**
+89,7121,*Denys, Christiane*,**,**
+89,7130,*Bonifay, Euge%Cne*,**,**
+89,7140,*Moggi Cecchi, Jacopo*,**,**
+89,7141,*Pickford, Martin*,**,**
+89,7150,*Pickford, Martin*,**,**
+89,7160,*Dutuit, Jean-Michel*,**,**
+89,7170,*Buffetaut, Eric*,**,**
+89,7180,*Madre-Dupovy, Martine*,**,**
+89,7190,*Hugueney, Marguerite*,**,**
+89,7191,*Gue%Arin, Claude*,**,**
+89,7191,*Poidevin, Jean-Louis*,**,**
+89,7200,*Duvernois, Marie-Pascale*,**,**
+89,7210,*Mourer-Chauvire%A, Ce%Acile*,**,**
+89,7211,*Hugueney, Marguerite*,**,**
+89,7211,*Jonet, Philippe*,**,**
+89,7220,*Le Loeuff, Jean*,**,**
+89,7221,*Buffetaut, Eric*,**,**
+89,7221,*Mechin, Patrick*,**,**
+89,7221,*Mechin-Salessy, Annie*,**,**
+89,7230,*Sigogneau-Russell, Denise*,**,**
+89,7240,*Dauphin, Yannicke*,**,**
+89,7250,*Denys, Christiane*,**,**
+89,7260,*Dutuit, Jean-Michel*,**,**
+89,7270,*de Bayle des Hermens, Roger*,**,**
+89,7271,*Heim, Jean-Louis*,**,**
+89,7280,*Buffetaut, Eric*,**,**
+89,7281,*Clottes, Pierre*,**,**
+89,7281,*Cuny, Gilles*,**,**
+89,7281,*Ducrocq, Ste%Aphane*,**,**
+89,7281,*Le Loeuff, Jean*,**,**
+89,7281,*Marin, Michel*,**,**
+89,7281,*Powell, Jaime Eduardo*,**,**
+89,7281,*Raynaud, Christian*,**,**
+89,7281,*Tong Haiyan*,**,**
+89,7290,*S%Ben, S%Bevket*,**,**
+89,7291,*Jaeger, Jean-Jacques*,**,**
+89,7291,*Dalfes, Nu%Fzhet*,**,**
+89,7291,*Mazin, Jean-Michel*,**,**
+89,7291,*Bocherens, Herve%A*,**,**
+89,7300,*Couthures, Jean*,**,**
+89,7301,*Ablin, Danie%Cle*,**,**
+89,7301,*Blanc, Alexandre*,**,**
+89,7310,*Le Floch-Prigent, Patrice*,**,**
+89,7320,*Le Floch-Prigent, Patrice*,**,**
+89,7330,*Tassy, Pascal*,**,**
+89,7331,*S%Ben, S%Bevket*,**,**
+89,7331,*Jaeger, Jean-Jacques*,**,**
+89,7331,*Mazin, Jean-Michel*,**,**
+89,7331,*Dalfes, Nu%Fzhet*,**,**
+89,7340,*Horn, Manfred*,**,**
+89,7341,*Poschwitz, Hartmut*,**,**
+89,7350,*Wenz, Sylvie*,**,**
+89,7360,*Gutak, Ya. M.*,**,**
+89,7370,*Zykin, Vladimir Sergeyevich*,**,**
+89,7371,*Zazhigin, Vladimir Seme%Fnovich*,**,**
+89,7371,*Prisyazhnyuk, Valentin Arsen'yevich*,**,**
+89,7380,*Ben'yamovskiy, Vladimir Naumovich*,*Ben'yamovskii, V. N.*,**
+89,7381,*Levina, Alla Pavlovna*,**,**
+89,7381,*Naydin, Dmitriy Pavlovich*,*Naidin, D. P.*,**
+89,7381,*Pronin, V. G.*,**,**
+89,7381,*Zhelezko, Viktor Ivanovich*,**,**
+89,7381,*Kozlova, Genriyetta Eduardovna*,**,**
+89,7381,*Oleynik, Ella Sergeyevna*,*Oleinik, E. S.*,**
+89,7381,*Paskar', Zoya Savel'yevna*,*Paskar, Z. S.*,**
+89,7381,*Tabachnikova, Irina Petrovna*,**,**
+89,7390,*Gromov, Igor' Mikhaylovich*,**,*e*
+89,7391,*Vorontsov, Nikolay Nikolayevich*,**,*e*
+89,7391,*Galantsev, Vadim Petrovich*,**,*e*
+89,7391,*Gladkina, T. S.*,**,*e*
+89,7391,*Kucheruk, Valent Viktorovich*,**,*e*
+89,7391,*Mironov, A. D.*,**,*e*
+89,7391,*Pegel'man, S. G.*,**,*e*
+89,7391,*Polyakov, Il'ya Yakovlevich*,**,*e*
+89,7391,*Polyakova, Rozita Seme%Fnovna*,**,*e*
+89,7391,*Rusakov, Otto Sergeyevich*,**,*e*
+89,7391,*Svimonishvili, V. N.*,**,*e*
+89,7391,*Fokin, Igor' Mikhaylovich*,**,*e*
+89,7391,*Shilov, Igor' Aleksandrovich*,**,*e*
+89,7400,*Agadzhanyan, Aleksandr Karenovich*,**,**
+89,7410,*Baryshnikov, Gennadiy Fe%Fdorovich*,**,**
+89,7411,*Baranova, G. I.*,**,**
+89,7420,*Borodin, Aleksandr Vasil'yevich*,**,**
+89,7421,*Smirnov, Nikolay Georgiyevich*,**,**
+89,7430,*Dmitriyev, A. I.*,**,**
+89,7431,*Ushakov, V. A.*,**,**
+89,7440,*Kosintsev, P. A.*,**,**
+89,7450,*Maleyeva, A. G.*,**,**
+89,7451,*Zhestkov, A. V.*,**,**
+89,7460,*Rekovets, Leonid Ivanovich*,**,**
+89,7470,*Skorik, Aleksandra Fe%Fdorovna*,**,**
+89,7480,*Smirnov, Nikolay Georgiyevich*,**,**
+89,7481,*Borodin, Aleksandr Vasil'yevich*,**,**
+89,7481,*Kourova, T. P.*,**,**
+89,7490,*Sukhov, Vladimir Pavlovich*,**,**
+89,7500,*Shevyre%Fva, Nina Seme%Fnovna*,**,**
+89,7510,*Maleyeva, A. G.*,**,**
+89,7511,*Yel'kin, Yu. A.*,**,**
+89,7520,*Tembotov, Aslangi Kaziyevich*,**,**
+89,7530,*Jacobs, Louis L.*,**,**
+89,7531,*Winkler, Dale A.*,**,**
+89,7531,*Murry, Phillip A.*,**,**
+89,7540,*Simons, Elwyn L.*,**,**
+89,7550,*Gilkeson, C. F.*,**,**
+89,7551,*Lester, Keith S.*,**,**
+89,7560,*Lester, Keith S.*,**,**
+89,7561,*von Koenigswald, Wighart*,**,**
+89,7570,*Lester, Keith S.*,**,**
+89,7580,*Frank, Robert M.*,*Frank, R. M.*,**
+89,7581,*Sigogneau-Russell, Denise*,*Sigogneau-Russell, D.*,**
+89,7581,*Voegel, J. C.*,**,**
+89,7590,*Thackray, John C.*,**,**
+89,7600,*Nesov, Lev Aleksandrovich*,*Nessov, Lev A.*,**
+89,7610,*Chkhikvadze, Vyacheslav Mikhaylovich*,*C%Jkhikvadze%A, V. M.*,**
+89,7620,*Nesov, Lev Aleksandrovich*,**,**
+89,7630,*de Broin, France*,**,**
+89,7640,*Gavrilov, Eduard Ivanovich*,**,*e*
+89,7641,*Kozhamkulova, Baldyrgan Seraliyevna*,**,*e*
+89,7641,*Tleuberdina, Pirusa Ablayevna*,*Aubekerova, P. A.*,*e*
+89,7641,*Savinov, Pavel Fe%Fdorovich*,**,*e*
+89,7641,*Kochenov, Vladimir Georgiyevich*,**,*e*
+89,7641,*Rayushkina, Galina Sergeyevna*,*Rajushkina, G. S.*,*e*
+89,7650,*Prizemlin, B. V.*,*Pryzemlin, B. V.*,**
+89,7660,*Nesov, Lev Aleksandrovich*,**,**
+89,7661,*Khisarova, Gizzat Dzhantimirovna*,**,**
+89,7670,*Savinov, Pavel Fe%Fdorovich*,**,**
+89,7680,*Tleuberdina, Pirusa Ablayevna*,*Tleuberdina, Piruza Ablayevna*,**
+89,7690,*Bayshashov, Bolat Uapovich*,**,**
+89,7700,*Tyut'kova, Lyubov' Anatol'yevna*,*Tutkova, L. A.*,**
+89,7710,*Tyut'kova, Lyubov' Anatol'yevna*,**,**
+89,7720,*Kochenov, Vladimir Georgiyevich*,**,**
+89,7721,*Kozhamkulova, Baldyrgan Seraliyevna*,**,**
+89,7730,*Kozhamkulova, Baldyrgan Seraliyevna*,*Kojamkulova, B. S.*,**
+89,7731,*Pak, T. K.*,**,**
+89,7740,*Jolly, Asit*,**,**
+89,7741,*Bajpai, Sunil*,**,**
+89,7750,*Gibert, G.*,**,**
+89,7751,*Ribot i Trafi, Francesc*,**,**
+89,7751,*Ferra%Andez, C.*,**,**
+89,7751,*Marti%Anez, Bienvenido*,**,**
+89,7751,*Caporicci, R.*,**,**
+89,7760,*Pickford, Martin*,*Pickford, M.*,**
+89,7761,*Morales, Jorge*,*Morales, J.*,**
+89,7770,*van der Made, Jan*,**,**
+89,7771,*Hussain, S. Taseer*,**,**
+89,7780,*Lacasa Ruiz, A.*,**,**
+89,7790,*Yoshida, Ken-ichi*,**,**
+89,7791,*Miyazaki, Shigeo*,**,**
+89,7791,*Mishima, Hiroyuki*,**,**
+89,7791,*Kakinuma, Tomoko*,**,**
+89,7791,*Nakamura, Kazuko*,**,**
+89,7800,*Kashiwazaki Naumann's Elephant Research Gp.*,**,**
+89,7810,*Kimura, Masaichi*,**,**
+89,7811,*Ishida, Minoru*,**,**
+89,7811,*Amaoka, Kunio*,**,**
+89,7820,*Kashiwazaki Naumann's Elephant Research Gp.*,**,**
+89,7830,*Takahashi, Keiichi*,**,**
+89,7831,*Nomura, Masahiro*,**,**
+89,7831,*Kobayashi, Iwao*,**,**
+89,7840,*Brinkmann, Winand*,**,**
+89,7850,*Vasil'yev, Igor' Viktorovich*,**,**
+89,7851,*Selin, Yu. I.*,**,**
+89,7860,*Lomayev, Aleksandr Aleksandrovich*,*Lomaev, O. O.*,**
+89,7861,*Svistun, Vladimir Il'ich*,*Svystun, V. I.*,**
+89,7870,*Polishchuk, V. V.*,**,**
+89,7880,*Adamenko, Oleg Maksimovich*,**,**
+89,7881,*Adamenko, Rimma Serafimovna*,**,**
+89,7881,*Afanas'yev, G. M.*,*Afanasjev, G. M.*,**
+89,7890,*Lomayev, Aleksandr Aleksandrovich*,*Lomayev, O. O.*,**
+89,7891,*Svistun, Vladimir Il'ich*,**,**
+89,7900,*Korotkevich, Yelena Leonidovna*,*Korotkevych, O. L.*,**
+89,7910,*Skorik, Aleksandra Fe%Fdorovna*,*Skoryk, O. F.*,**
+89,7920,*Bannikov, Aleksandr Fe%Fdorovich*,*Bannikov, O. F.*,**
+89,7921,*Fedotov, Viktor Fe%Fdorovich*,**,**
+89,7921,*Kisele%Fv, I. V.*,*Kisel'ov, Y. V.*,**
+89,7930,*Prisyazhnyuk, Valentin Arsen'yevich*,*Prysyazhnyuk, V. A.*,**
+89,7931,*Shevchenko, Antonina Ivanovna*,**,**
+89,7940,*Topachevskiy, Vadim Aleksandrovich*,*Topachevs'kyy, V. O.*,**
+89,7941,*Chepalyga, Andrey Leonidovich*,**,**
+89,7941,*Nesin, Valentin Antonovich*,**,**
+89,7941,*Rekovets, Leonid Ivanovich*,*Rekovets', L. I.*,**
+89,7941,*Topachevskiy, Igor' Vadimovich*,*Topachevs'kyy, I. V.*,**
+89,7950,*Topachevskiy, Vadim Aleksandrovich*,**,**
+89,7951,*Nesin, Valentin Antonovich*,**,**
+89,7951,*Rekovets, Leonid Ivanovich*,**,**
+89,7951,*Topachevskiy, Igor' Vadimovich*,**,**
+89,7951,*Pashkov, A. V.*,**,**
+89,7960,*Goodwin, H. Thomas*,**,**
+89,7961,*Reynolds, Robert E.*,**,**
+89,7970,*Martin, Robert A.*,**,**
+89,7971,*Prince, Robert H.*,**,**
+89,7980,*Swift, Camm C.*,**,**
+89,7990,*Whistler, David P.*,**,**
+89,8000,*Kennedy, Gail E.*,*Kennedy, G. E.*,**
+89,8010,*Siegel-Causey, Douglas*,**,**
+89,8011,*Lefevre, Christine*,**,**
+89,8020,*Thenius, Erich*,**,**
+89,8030,*Zapfe, Helmuth*,**,**
+89,8040,*Thenius, Erich*,**,**
+89,8050,*Zapfe, Helmuth*,**,**
+89,8060,*Currie, Philip J.*,**,**
+89,8070,*Horner, John R.*,**,**
+89,8071,*Weishampel, David B.*,**,**
+89,8080,*Dungworth, G.*,**,**
+89,8081,*Vincken, N. J.*,**,**
+89,8081,*Schwartz, Alan W.*,*Schwartz, A. W.*,**
+89,8090,*Pawlicki, Roman*,*Pawlicki, R.*,**
+89,8100,*Pawlicki, Roman*,**,**
+89,8110,*Pawlicki, Roman*,**,**
+89,8120,*Pawlicki, Roman*,**,**
+89,8130,*Pawlicki, Roman*,**,**
+89,8140,*Pawlicki, Roman*,**,**
+89,8141,*Bolechal%Sa, P.*,**,**
+89,8150,*Villaroel Arispe, Carlos*,**,**
+89,8151,*Guerrero Di%Aaz, Javier*,**,**
+89,8160,*Villaroel Arispe, Carlos*,*Villaroel A., Carlos*,**
+89,8170,*de la Fuente, Marcelo*,**,**
+89,8171,*Gon%Ei, Ricardo*,**,**
+89,8180,*Gon%Ei, Ricardo*,**,**
+89,8181,*Gasparini, Zulma*,**,**
+89,8190,*Bayshashov, Bolat Uapovich*,**,**
+89,8200,*Maisey, John G.*,**,**
+89,8210,*Rieppel, Olivier*,**,**
+89,8220,*MacFadden, Bruce J.*,**,**
+89,8230,*Rieppel, Olivier*,**,**
+89,8240,*Godfrey, Stephen J.*,*Godfrey, S. J.*,**
+89,8250,*Godfrey, Stephen J.*,**,**
+89,8260,*Chaloner, William G.*,*Chaloner, W. G.*,*e*
+89,8261,*Hallam, Anthony*,*Hallam, A.*,*e*
+89,8270,*Smith, John Maynard*,*Smith, J. Maynard*,**
+89,8280,*Hoffman, Antoni*,*Hoffman, A.*,**
+89,8290,*Benton, Michael J.*,*Benton, M. J.*,**
+89,8300,*Charig, Alan J.*,*Charig, A. J.*,**
+89,8310,*Jaeger, Jean-Jacques*,*Jaeger, J.-J.*,**
+89,8311,*Hartenberger, Jean-Louis*,*Hartenberger, J.-L.*,**
+89,8320,*Williamson, M. H.*,**,**
+89,8330,*Diamond, Jared M.*,*Diamond, J. M.*,**
+89,8340,*Tudge, C.*,**,**
+89,8350,*Pettigrew, John Douglas*,*Pettigrew, J. D.*,**
+89,8351,*Jamieson, B. G. M.*,**,**
+89,8351,*Robson, S. K.*,**,**
+89,8351,*Hall, L. S.*,**,**
+89,8351,*McAnally, K. I.*,**,**
+89,8351,*Cooper, H. M.*,**,**
+89,8360,*Sander, P. Martin*,*Sander, P. M.*,**
+89,8370,*Van Valen, Leigh M.*,**,**
+89,8380,*Ibragimov, R. N.*,**,**
+89,8381,*Sakina, Nellya Isaakovna*,**,**
+89,8381,*Morozov, Stanislav Dmitriyevich*,*Morozov, S. D.*,**
+89,8390,*Caldwell, Warren W.*,**,*e*
+89,8391,*Schultz, C. Bertrand*,**,*e*
+89,8391,*Stout, T. Mylan*,**,*e*
+89,8400,*Dort, Wakefield, Jr.*,**,**
+89,8410,*Wendland, Wayne M.*,**,**
+89,8420,*Wells, Philip V.*,**,**
+89,8430,*Wedel, Waldo R.*,**,**
+89,8440,*Frison, George*,**,**
+89,8450,*Schultz, C. Bertrand*,**,**
+89,8460,*Gayet, Mireille*,**,**
+89,8470,*Mathis, Christian*,**,**
+89,8480,*Antunes, Miguel Telles*,**,**
+89,8481,*Ginsburg, Le%Aonard*,**,**
+89,8490,*Ginsburg, Le%Aonard*,**,**
+89,8500,*Lelie%Cvre, Herve%A*,**,**
+89,8510,*Darevskiy, Il'ya Sergeyevich*,**,*e*
+89,8511,*Anan'yeva, Nataliya B.*,**,*e*
+89,8511,*Andrushko, A. M.*,**,*e*
+89,8511,*Barkagan, Z. S.*,**,*e*
+89,8511,*Borkin, Lev Ya.*,**,*e*
+89,8511,*Nesov, Lev Aleksandrovich*,**,*e*
+89,8511,*Khozatskiy, Lev Isaakovich*,**,*e*
+89,8520,*Bazhanov, Valerian Seme%Fnovich*,**,**
+89,8521,*Yere%Fmin, A. V.*,**,**
+89,8530,*Kuznetsov, Valentin Vasil'yevich*,**,**
+89,8540,*Nesov, Lev Aleksandrovich*,*Nessov, L. V.*,**
+89,8550,*Nesov, Lev Aleksandrovich*,**,**
+89,8551,*Khozatskiy, Lev Isaakovich*,**,**
+89,8560,*Tatarinov, Leonid Petrovich*,**,**
+89,8570,*Khozatskiy, Lev Isaakovich*,**,**
+89,8580,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+89,8590,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+89,8591,*Sukhov, Vladimir Pavlovich*,**,**
+89,8600,*Darevskiy, Il'ya Sergeyevich*,**,*e*
+89,8601,*Anan'yeva, Nataliya B.*,*Ananjeva, N. B.*,*e*
+89,8601,*Barkagan, Z. S.*,**,*e*
+89,8601,*Borkin, Lev Ya.*,*Borkin, L. J.*,*e*
+89,8601,*Sokolova, Tat'yana Mikhaylovna*,**,*e*
+89,8601,*Shcherbak, Nikolay Nikolayevich*,**,*e*
+89,8610,*Anan'yeva, Nataliya B.*,**,**
+89,8611,*Gorelov, Yu. K.*,**,**
+89,8620,*Ivakhnenko, Mikhail Feodos'yevich*,**,**
+89,8630,*Kuznetsov, Valentin Vasil'yevich*,**,**
+89,8640,*Nesov, Lev Aleksandrovich*,*Nesov, Leonid Aleksandrovich*,**
+89,8650,*Ochev, Vitaliy Georgiyevich*,**,**
+89,8660,*Suslov, Yuriy Vasil'yevich*,**,**
+89,8670,*Tatarinov, Konstantin Adrianovich*,**,**
+89,8680,*Tatarinov, Leonid Petrovich*,**,**
+89,8690,*Fokin, Igor' Mikhaylovich*,**,**
+89,8700,*Cherepanov, G. O.*,**,**
+89,8710,*Chkhikvadze, Vyacheslav Mikhaylovich*,**,**
+89,8720,*Spamer, Earle E.*,**,**
+89,8721,*Bogan, Arthur E.*,**,**
+89,8721,*Torrens, Hugh S.*,**,**
+89,8730,*Walliser, Otto H.*,**,*e*
+89,8731,*Ziegler, Willi*,**,*e*
+89,8740,*Gagnier, Pierre-Yves*,**,**
+89,8741,*Jahnke, Hans*,**,**
+89,8741,*Shi Yan*,**,**
+89,8750,*Kovanda, Jir%Ji%A*,**,**
+89,8770,*Drake, Charles L.*,**,**
+89,8771,*Herman, Yvonne*,**,**
+89,8780,*Hooper, Peter R.*,**,**
+89,8800,*Carson, Robert J.*,**,**
+89,8810,*Spencer, Patrick K.*,**,**
+89,8820,*White, Tim D.*,**,**
+89,8821,*Toth, Nicholas*,**,**
+89,8830,*Latimer, Bruce M.*,**,**
+89,8831,*Lovejoy, C. Owen*,**,**
+89,8840,*Feibel, Craig S.*,**,**
+89,8841,*Brown, Francis H.*,**,**
+89,8841,*McDougall, Ian*,**,**
+89,8850,*Simons, Elwyn L.*,**,**
+89,8851,*Rasmussen, D. Tab*,**,**
+89,8860,*Ogilvie, Marsha D.*,**,**
+89,8861,*Curran, Bryan K.*,**,**
+89,8861,*Trinkaus, Erik*,**,**
+89,8870,*Pan Yuerong*,**,**
+89,8871,*Waddle, Diane M.*,**,**
+89,8871,*Fleagle, John G.*,**,**
+89,8880,*Persson, Christer*,**,**
+89,8890,*Alekseyev, Mikhail Nikolayevich*,*Alekseev, M. N.*,*e*
+89,8891,*Nikiforova, Kseniya Vladimirovna*,**,*e*
+89,8900,*Nikiforova, Kseniya Vladimirovna*,**,**
+89,8901,*Aleksandrova, Lidiya Petrovna*,*Alexandrova, L. P.*,**
+89,8910,*Yakhimovich, Varvara L'vovna*,*Yakhemovich, V. L.*,**
+89,8911,*Nemkova, Veronika Konstantinovna*,**,**
+89,8911,*Suleymanova, F. I.*,*Suleimanova, F. I.*,**
+89,8911,*Popova-L'vova, Marina Georgiyevna*,**,**
+89,8911,*Sidnev, Aleksandr Valentinovich*,**,**
+89,8911,*Chepalyga, Andrey Leonidovich*,*Tchepalyga, A. L.*,**
+89,8911,*Sukhov, Vladimir Pavlovich*,**,**
+89,8911,*Alimbekova, L. I.*,**,**
+89,8911,*Petrenko, A. G.*,**,**
+89,8911,*Akhlestina, Ye. F.*,**,**
+89,8911,*Zigangirov, Z. S.*,**,**
+89,8911,*Molotkova, G. L.*,**,**
+89,8920,*Krasnenkov, R. V.*,**,**
+89,8921,*Iosifova, Yu. I.*,*Iosifova, Ju. I.*,**
+89,8921,*Kholmovoy, G. V.*,*Kholmovoj, G. V.*,**
+89,8930,*Sayadyan, Yu. V.*,*Sajadian, Ju. V.*,**
+89,8940,*Ali-Zade, Ali-Ashraf Abdul ogly*,*Alisade, A.-A.*,**
+89,8941,*Pashaly, N. V.*,**,**
+89,8941,*Mamedov, Alashraf Vesel ogly*,**,**
+89,8941,*Fe%Fdorov, Pavel Vasil'yevich*,**,**
+89,8941,*Saradzhalinskaya, T. M.*,**,**
+89,8941,*Ibadov, Tofik Rustam ogly*,**,**
+89,8950,*Dodonov, Andrey Yevgen'yevich*,*Dodonov, A. E.*,**
+89,8960,*Zubakov, Vsevolod Alekseyevich*,**,**
+89,8970,*Kostenko, Nikolay Nikolayevich*,**,**
+89,8980,*Marynov, Vladimir Aleksandrovich*,**,**
+89,8981,*Volkova, Valentina Sergeyevna*,**,**
+89,8981,*Gnibidenko, Z. N.*,**,**
+89,8981,*Kaz'mina, Tat'yana Alekseyevna*,**,**
+89,8981,*Nikitin, Vadim Petrovich*,**,**
+89,8981,*Petrova, V. P.*,**,**
+89,8981,*Pospelova, G. A.*,**,**
+89,8981,*Serdyuk, Z. Ya.*,*Serdiuk, Z. Ja.*,**
+89,8990,*Zaji%Ac, Jaroslav*,**,**
+89,9000,*Zaji%Ac, Jaroslav*,**,**
+89,9010,*Hodrova%A, Marcela*,**,**
+89,9020,*C%Jtyroky%A, Pavel*,**,**
+89,9030,*Roehler, Henry W.*,**,**
+89,9031,*Hanley, John H.*,*Hanley, J. H.*,**
+89,9031,*Honey, James G.*,*Honey, J. G.*,**
+89,9040,*Honey, James G.*,**,**
+89,9050,*Repenning, Charles Albert*,**,**
+89,9051,*Brouwers, Elisabeth M.*,**,**
+89,9051,*Carter, L. David*,**,**
+89,9051,*Marincovich, Louie, Jr.*,**,**
+89,9051,*Ager, Thomas A.*,**,**
+89,9060,*Dubiel, Russell F.*,**,**
+89,9070,*Hinrichs, E. Neal*,**,**
+89,9080,*Repenning, Charles Albert*,*Repenning, Charles A.*,**
+89,9081,*Grady, Frederick*,**,**
+89,9090,*Rusu, Teodor*,**,**
+89,9100,*Drugescu, C.*,**,**
+89,9110,*David, Anatoliy Ivanovich*,**,**
+89,9111,*Negadayev-Nikonov, Konstantin Nikolayevich*,**,**
+89,9120,*Redkozubov, Oleg I.*,**,**
+89,9130,*David, Anatoliy Ivanovich*,**,**
+89,9131,*Bilinkis, Grigoriy Markovich*,*Bilinkis, G. M.*,**
+89,9131,*Shushpanov, Kas'yan Ivanovich*,**,**
+89,9131,*Redkozubov, Oleg I.*,**,**
+89,9140,*Redkozubov, Oleg I.*,**,**
+89,9150,*Shushpanov, Kas'yan Ivanovich*,**,**
+89,9160,*Zaji%Ac, Jaroslav*,**,**
+89,9170,*Mu%Fller, Arnold*,**,**
+89,9171,*Scho%Fllmann, Lothar*,**,**
+89,9180,*Callaway, Jack M.*,**,**
+89,9181,*Massare, Judy A.*,**,**
+89,9190,*Dejax, Jean*,**,**
+89,9191,*Michard, Jean-Guy*,**,**
+89,9191,*Brunet, Michel*,**,**
+89,9191,*Hell, Joseph Victor*,*Hell, Joseph*,**
+89,9200,*Vianey-Liaud, Monique*,**,**
+89,9210,*Denys, Christiane*,**,**
+89,9220,*Heyler, Daniel*,**,**
+89,9221,*Poplin, Ce%Acile M.*,**,**
+89,9230,*Lovejoy, C. Owen*,**,**
+89,9240,*Bu%Frgin, Toni*,**,**
+89,9241,*Rieppel, Olivier*,**,**
+89,9241,*Sander, P. Martin*,**,**
+89,9241,*Tschanz, Karl*,**,**
+89,9250,*Anisyutkin, Nikolay Kuz'mich*,**,**
+89,9251,*Borziyak, Il'ya Aleksandrovich*,**,**
+89,9251,*Ketraru, Nikolay Antonovich*,**,**
+89,9260,*Gingerich, Philip D.*,**,**
+89,9270,*Geist, Valerius*,**,**
+89,9280,*Churcher, Charles S.*,*Churcher, C. S.*,**
+89,9281,*Parmalee, Paul W.*,*Parmalee, P. W.*,**
+89,9281,*Bell, Gorden L., Jr.*,*Bell, G. L.*,**
+89,9281,*Lamb, James P.*,*Lamb, J. P.*,**
+89,9290,*Burns, James A.*,**,**
+89,9291,*McGillivray, W. Bruce*,**,**
+89,9300,*Burchak-Abramovich, Nikolay Iosifovich*,**,**
+89,9301,*Lobkov, Ye. G.*,*Lobkov, E. G.*,**
+89,9301,*Ponomarenko, A. K.*,**,**
+89,9310,*Khudayberdiyev, T. N.*,**,**
+89,9320,*Batyrov, B. Kh.*,**,**
+89,9330,*Volozheninov, N. N.*,**,**
+89,9331,*Krakhmal', K. A.*,*Krahmal, K. A.*,**
+89,9340,*Weems, Robert E.*,**,**
+89,9341,*Horman, Stephan R.*,**,**
+89,9350,*Crumly, Charles R.*,**,**
+89,9360,*Huddleston, Richard W.*,**,**
+89,9361,*Savoie, Kurt M.*,**,**
+89,9370,*Olson, Storrs L.*,**,**
+89,9380,*Olson, Storrs L.*,**,**
+89,9390,*Pregill, Gregory*,**,**
+89,9400,*Becker, Jonathan J.*,**,**
+89,9410,*Weems, Robert E.*,**,**
+89,9420,*Olson, Storrs L.*,**,**
+89,9430,*Steadman, David W.*,**,**
+89,9431,*Morgan, Gary S.*,**,**
+89,9440,*Wilkins, Kenneth T.*,**,**
+89,9450,*Olson, Storrs L.*,**,**
+89,9460,*Becker, Jonathan J.*,**,**
+89,9470,*Weems, Robert E.*,**,**
+89,9471,*Windolph, John F., Jr.*,**,**
+89,9480,*Olson, Storrs L.*,**,**
+89,9481,*Kurochkin, Yevgeniy Nikolayevich*,*Kurochkin, Evgeny N.*,**
+89,9490,*Becker, Jonathan J.*,**,**
+89,9500,*Feduccia, Alan*,**,**
+89,9510,*Steadman, David W.*,**,**
+89,9511,*Zarriello, Marie C.*,**,**
+89,9520,*Balouet, Jean-Christophe*,**,**
+89,9521,*Olson, Storrs L.*,**,**
+89,9530,*Steadman, David W.*,**,**
+89,9540,*Weems, Robert E.*,**,**
+89,9550,*Steadman, David W.*,**,**
+89,9551,*Schubel, Susan E.*,**,**
+89,9551,*Pahlavan, Dominique*,**,**
+89,9560,*Morgan, Gary S.*,**,**
+89,9561,*Linares, Omar J.*,**,**
+89,9561,*Ray, Clayton E.*,**,**
+89,9570,*Miller, Scott E.*,**,**
+89,9580,*Steadman, David W.*,**,**
+89,9740,*Grine, Frederick E.*,**,**
+89,9750,*Susman, Randall L.*,**,**
+89,9760,*Mallegni, Francesco*,*Mallegni, F.*,**
+89,9761,*Ronchitelli, Annamaria T.*,*Ronchitelli, A. T.*,**
+89,9770,*Wendorf, Michael*,**,**
+89,9780,*McKee, Jeffrey K.*,**,**
+89,9790,*Daegling, David J.*,**,**
+89,9800,*Puech, Pierre-Franc%Bois*,**,**
+89,9801,*Cianfarani, Franc%Bois*,**,**
+89,9801,*Ribot i Trafi, Francesc*,**,**
+89,9810,*Falk, Dean*,**,**
+89,9820,*Trinkaus, Erik*,**,**
+89,9830,*Frayer, David W.*,*Frayer, D. W.*,**
+89,9840,*Hofman, Michel A.*,*Hofman, M. A.*,**
+89,9850,*Ho Chuan Kun*,**,**
+89,9860,*Pickford, Martin*,**,**
+89,9870,*Pickford, Martin*,**,**
+89,9880,*Binford, Lewis R.*,**,**
+89,9890,*Bunn, Henry T.*,**,**
+89,9891,*Kroll, Ellen M.*,**,**
+89,9900,*Thackeray, John Francis*,**,**
+89,9910,*Zeleznik, Scott*,**,**
+89,9911,*Grele, Aviva Weiss*,**,**
+89,9911,*Pollack, Jonathan*,**,**
+89,9911,*Aloni, Irith*,**,**
+89,9920,*Potts, Richard*,**,**
+89,9930,*Mellars, Paul*,**,**
+89,9940,*Topachevskiy, Vadim Aleksandrovich*,**,**
+89,9941,*Nesin, Valentin Antonovich*,**,**
+89,9950,*Meladze, Guram Karlovich*,**,**
+89,9960,*Schlatter, Rudolf*,**,**
+89,9970,*Schlatter, Rudolf*,**,**
+89,9980,*Gygi, Reinhart A.*,**,**
+89,9981,*Rieber, Hans*,**,**
+89,9990,*Simon, Theo*,**,**
+89,9991,*Hagdorn, Hans*,**,**
+89,10000,*Blumenschine, Robert J.*,**,**
+89,10010,*Eckhardt, Robert B.*,**,**
+89,10011,*Piermarini, Andrea L.*,**,**
+89,10020,*Rosenberg, Karen R.*,**,**
+89,10030,*Formicola, Vincenzo*,**,**
+89,10040,*Turner, Christy G., II*,**,**
+89,10050,*Puech, Pierre-Franc%Bois*,**,**
+89,10051,*Cianfarani, Franc%Bois*,**,**
+89,10060,*Eckhardt, Robert B.*,**,**
+89,10061,*Piermarini, Andrea L.*,**,**
+89,10070,*Taylor, Timothy*,**,**
+89,10080,*Meltzer, David J.*,**,**
+89,10090,*Cruz-Uribe, Kathryn*,**,**
+89,10091,*Klein, Richard G.*,**,**
+89,10100,*Lister, Adrian M.*,**,**
+89,10110,*Piepenbrink, Hermann*,**,**
+89,10120,*Legge, A. J.*,**,**
+89,10121,*Rowley-Conwy, P. A.*,**,**
+89,10130,*Haynes, Gary*,**,**
+89,10140,*Cruz-Uribe, Kathryn*,**,**
+89,10150,*Haynes, Gary*,**,**
+89,10160,*Todd, Lawrence C.*,**,**
+89,10161,*Rapson, David J.*,**,**
+89,10170,*Turner, Alan*,**,**
+89,10180,*Horwitz, Liora Kolska*,**,**
+89,10181,*Smith, Patricia*,**,**
+89,10190,*Blumenschine, Robert J.*,**,**
+89,10200,*Olsen, Sandra L.*,**,**
+89,10201,*Shipman, Pat*,**,**
+89,10210,*Turner, Alan*,**,**
+89,10220,*Binford, Lewis R.*,**,**
+89,10230,*Horwitz, Liora Kolska*,**,**
+89,10231,*Goldberg, Paul D.*,**,**
+89,10240,*Hillson, S. W.*,**,**
+89,10241,*Jones, B. K.*,**,**
+89,10250,*Olsen, Sandra L.*,**,**
+89,10260,*Anderson, Atholl*,**,**
+89,10270,*Grayson, Donald K.*,**,**
+89,10280,*Diamond, Jared M.*,**,**
+89,10290,*Steadman, David W.*,**,**
+89,10300,*Dodson, J. R.*,**,**
+89,10310,*Lyman, R. Lee*,**,**
+89,10311,*Fox, Gregory L.*,**,**
+89,10320,*Klein, Richard G.*,**,**
+89,10330,*Lundelius, Ernest L., Jr.*,**,**
+89,10340,*Livingston, Stephanie D.*,**,**
+89,10350,*Rogers, Juliet*,**,**
+89,10351,*Waldron, Tony*,**,**
+89,10360,*Grayson, Donald K.*,**,**
+89,10370,*Schwarcz, Henry P.*,*Schwarcz, H. P.*,**
+89,10371,*Buhay, William M.*,*Buhay, W. M.*,**
+89,10371,*Gru%Fn, Rainer*,*Gru%Fn, R.*,**
+89,10371,*Valladas, He%Ale%Cne*,*Valladas, H.*,**
+89,10371,*Tchernov, Eitan*,*Tchernov, E.*,**
+89,10371,*Bar-Yosef, Ofer*,*Bar-Yosef, O.*,**
+89,10371,*Vandermeersch, Bernard*,*Vandermeersch, B.*,**
+89,10380,*Harrison, Terry*,**,**
+89,10390,*Arsuaga, Juan Luis*,*Arsuaga, J. L.*,**
+89,10391,*Gracia, Ana*,*Gracia, A.*,**
+89,10391,*Marti%Anez, Ignacio*,*Marti%Anez, I.*,**
+89,10391,*Bermu%Adez de Castro, Jose%A Mari%Aa*,*Bermu%Adez de Castro, J. M.*,**
+89,10391,*Rosas, Antonio*,*Rosas, A.*,**
+89,10391,*Villaverde, V.*,**,**
+89,10391,*Fumanal, M. P.*,**,**
+89,10400,*Cadman, Ann*,**,**
+89,10401,*Rayner, Richard J.*,**,**
+89,10410,*Turner, Alan*,**,**
+89,10411,*Chamberlain, Andrew*,**,**
+89,10420,*Rose, Michael D.*,*Rose, M. D.*,**
+89,10430,*Andrews, Peter*,**,**
+89,10431,*Stringer, Christopher B.*,*Stringer, Chris*,**
+89,10440,*Sun Ailing*,**,**
+89,10441,*Cui Guihai*,**,**
+89,10450,*Zhu Yanlong*,**,**
+89,10460,*Wang Banyue*,**,**
+89,10461,*Qi Tao*,**,**
+89,10470,*Ye Jie*,**,**
+89,10480,*Huang Wanpo*,**,**
+89,10481,*Li Yi*,**,**
+89,10481,*Nie Zongsheng*,**,**
+89,10490,*Hou Lianhai*,**,**
+89,10500,*Li Shuluan*,**,**
+89,10510,*Ding Suyin*,*Ting Suyin*,**
+89,10511,*Zheng Jiajian*,**,**
+89,10520,*Shi Ronglin*,**,**
+89,10530,*Tong Yongsheng*,**,**
+89,10540,*Xu Qinqi*,**,**
+89,10550,*Vislobokova, Inesa Anatol'yevna*,*Weisiluobokewa, Yi*,**
+89,10551,*Hu Changkang*,**,**
+89,10551,*Sun Bo*,**,**
+89,10560,*Qi Tao*,**,**
+89,10570,*Dong Zhiming*,**,**
+89,10580,*Ming*,**,**
+89,10590,*Zheng Zhong*,**,**
+89,10600,*Qiu Zhanxiang*,**,**
+89,10601,*Qi Guoqin*,**,**
+89,10610,*Cai Baoquan*,**,**
+89,10620,*Tong Yongsheng*,**,**
+89,10630,*Huang Wanpo*,*Huang Wanbo*,**
+89,10640,*Qi Tao*,**,**
+89,10641,*Zhou Mingzhen*,*Zhou Minzhen*,**
+89,10650,*Zhang Fakui*,**,**
+89,10660,*Dong Zhiming*,**,**
+89,10661,*Peng Guangzhao*,**,**
+89,10661,*Huang Daxi*,**,**
+89,10670,*Dong Zhiming*,**,**
+89,10671,*Currie, Philip J.*,**,**
+89,10671,*Russell, Dale A.*,**,**
+89,10680,*Cheng Xinmin*,**,**
+89,10690,*Shen Mei*,**,**
+89,10700,*Li Jinling*,**,**
+89,10710,*Qiu Zhuding*,**,**
+89,10720,*Ye Jie*,**,**
+89,10721,*Qiu Zhanxiang*,**,**
+89,10721,*Chen Jingzhi*,**,**
+89,10730,*Qi Tao*,**,**
+89,10740,*Meng Jin*,**,**
+89,10741,*Wang Xiaoming*,**,**
+89,10750,*Dalla Vecchia, Fabio Marco*,**,**
+89,10751,*Muscio, Giuseppe*,**,**
+89,10751,*Wild, Rupert*,**,**
+89,10760,*Selezne%Fva, Al'vina Aleksandrovna*,**,**
+89,10770,*Sua%Arez Riglos, Mario*,**,**
+89,10780,*Wind, Jan*,*Wind, J.*,**
+89,10781,*Zonneveld, Frans W.*,*Zonneveld, F. W.*,**
+89,10790,*Lee-Thorp, Julia A.*,**,**
+89,10791,*van der Merwe, Nikolaas J.*,**,**
+89,10800,*Gebo, Daniel L.*,**,**
+89,10810,*Ryan, Alan S.*,**,**
+89,10811,*Johanson, Donald C.*,**,**
+89,10820,*Plummer, Thomas W.*,**,**
+89,10821,*Potts, Richard*,**,**
+89,10830,*Olsen, Sandra L.*,**,**
+89,10840,*Blumenschine, Robert J.*,**,**
+89,10850,*Shipman, Pat*,**,**
+89,10851,*Walker, Alan*,**,**
+89,10860,*Potts, Richard*,**,**
+89,10870,*Falk, Dean*,**,**
+89,10871,*Hildebolt, Charles*,**,**
+89,10871,*Vannier, Michael W.*,**,**
+89,10880,*Benefit, Brenda R.*,**,**
+89,10881,*McCrossin, Monte L.*,**,**
+89,10890,*Ruff, Christopher B.*,**,**
+89,10891,*Walker, Alan*,**,**
+89,10891,*Teaford, Mark F.*,**,**
+89,10900,*Harrison, Terry*,**,**
+89,10910,*Marean, Curtis W.*,**,**
+89,10920,*Rosenberger, Alfred L.*,**,**
+89,10921,*Strier, Karen B.*,**,**
+89,10930,*Bromage, Timothy G.*,**,**
+89,10940,*Suwa, Gen*,**,**
+89,10950,*Gebo, Daniel L.*,**,**
+89,10960,*Harrison, Terry*,**,**
+89,10970,*Tappen, Neil C.*,*Tappen, N. C.*,**
+89,10980,*MacPhee, Ross D. E.*,*MacPhee, R. D. E.*,**
+89,10981,*Raholimavo, Ernestine M.*,**,**
+89,10990,*Fleagle, John G.*,**,**
+89,10991,*Powers, Dennis W.*,**,**
+89,10991,*Conroy, Glenn C.*,**,**
+89,10991,*Watters, John Paul*,**,**
+89,11000,*Wilson, Jane M.*,**,**
+89,11001,*Stewart, Paul D.*,**,**
+89,11001,*Ramangason, Guy-Suzon*,**,**
+89,11001,*Denning, A. M.*,**,**
+89,11001,*Hutchings, M. S.*,**,**
+89,11010,*Begun, David R.*,**,**
+89,11040,*Mottl, Maria*,**,**
+89,11050,*Mottl, Maria*,**,**
+89,11060,*Mottl, Maria*,**,**
+89,11070,*Lundelius, Ernest L., Jr.*,**,**
+89,11071,*Turnbull, William D.*,**,**
+89,11080,*Patterson, Bryan*,**,**
+89,11081,*Segall, Walter*,**,**
+89,11081,*Turnbull, William D.*,**,**
+89,11090,*Sanz Garci%Aa, Jose%A Luis*,*Sanz, J. L.*,*e*
+89,11100,*Di%Aaz Molina, Margarita*,*Di%Aaz Molina, M.*,**
+89,11101,*Ye%Abenes, Alfonso*,*Ye%Abenes, A.*,**
+89,11110,*Buscalioni, A%Angela D.*,*Buscalioni, A. D.*,**
+89,11111,*Sanz Garci%Aa, Jose%A Luis*,**,**
+89,11120,*Sanz Garci%Aa, Jose%A Luis*,**,**
+89,11121,*Buscalioni, A%Angela D.*,**,**
+89,11121,*Casanovas Cladellas, Mari%Aa Lourdes*,*Casanovas, M.-L.*,**
+89,11121,*Santafe%A Llopis, Jose%A Vicente*,*Santafe%A, J.-V.*,**
+89,11130,*Buscalioni, A%Angela D.*,**,**
+89,11131,*Sanz Garci%Aa, Jose%A Luis*,**,**
+89,11140,*Casanovas Cladellas, Mari%Aa Lourdes*,*Casanovas, Ma. L.*,**
+89,11141,*Santafe%A Llopis, Jose%A Vicente*,*Santafe%A, J. V.*,**
+89,11141,*Sanz Garci%Aa, Jose%A Luis*,**,**
+89,11141,*Buscalioni, A%Angela D.*,**,**
+89,11150,*Kawamura, Yoshinari*,**,**
+89,11160,*Franco, Franca*,**,**
+89,11161,*Scotton, Sandra*,**,**
+89,11170,*Brunet, Michel*,**,**
+89,11171,*Jehenne, Yves*,**,**
+89,11180,*Dauphin, Yannicke*,**,**
+89,11181,*Jaeger, Jean-Jacques*,**,**
+89,11181,*Osmo%Alska, Halszka*,**,**
+89,11190,*Blieck, Alain*,**,**
+89,11191,*Janvier, Philippe*,**,**
+89,11200,*Poplin, Ce%Acile M.*,*Poplin, C.*,**
+89,11201,*Heyler, Daniel*,*Heyler, D.*,**
+89,11210,*Webb, S. David*,**,**
+89,11211,*Barnosky, Anthony D.*,**,**
+89,11220,*Yakhimovich, Varvara L'vovna*,**,*e*
+89,11230,*Sukhov, Vladimir Pavlovich*,*Suchov, V. P.*,**
+89,11240,*Generalov, P. P.*,**,**
+89,11250,*Brown, Robin C.*,**,**
+89,11260,*Raven, Th.*,**,**
+89,11270,*Sieveking, Ann*,**,**
+89,11280,*Delporte, Henri*,**,**
+89,11290,*Mons, Lucette*,**,**
+89,11300,*Moure-Romanillo, Jose%A Alfonso*,*Moure-Romanillo, J. Alfonso*,**
+89,11310,*Sacchi, Dominique*,**,**
+89,11311,*Abelanet, Jean*,**,**
+89,11311,*Brule, Jean-Luc*,**,**
+89,11311,*Massiac, Yvan*,**,**
+89,11311,*Rubiella, Claudine*,**,**
+89,11311,*Vilette, Philippe*,**,**
+89,11320,*Fullola i Pericot, Josep Mari%Aa*,**,**
+89,11321,*Vin%Eas i Vallverdu, Ramo%An*,**,**
+89,11330,*Leonardi, Piero*,**,**
+89,11340,*Jeli%Anek, Jan*,**,**
+89,11350,*Ca%Drciumaru, Marin*,**,**
+89,11360,*Lorblanchet, Michel*,**,**
+89,11370,*Lhote, Henri*,**,**
+89,11380,*de Lumley-Woodyear, Henry*,**,**
+89,11390,*de Lumley-Woodyear, Henry*,**,**
+89,11400,*Granier, Jacky*,**,**
+89,11410,*de Lumley-Woodyear, Henry*,**,**
+89,11411,*Kahlke, Hans-Dietrich*,**,**
+89,11411,*Moigne, Anne-Marie*,**,**
+89,11411,*Moulle, Pierre-Elie*,**,**
+89,11420,*Chaline, Jean*,**,**
+89,11430,*de Lumley-Woodyear, Henry*,**,**
+89,11431,*Fournier, Alain*,**,**
+89,11431,*Krzepkowska, Jadwiga*,**,**
+89,11431,*Echassoux, Annie*,**,**
+89,11440,*Tchernov, Eitan*,**,**
+89,11450,*Akazawa, Takeru*,**,**
+89,11460,*Wei Qi*,**,**
+89,11470,*Jiang Nengren*,*Jiang Neng-Ren*,**
+89,11471,*Sun Rong*,**,**
+89,11471,*Liang Qizhong*,*Liang Qi-Zhong*,**
+89,11480,*Rodriguez-Loubet, Franc%Bois*,**,**
+89,11490,*Yakhimovich, Varvara L'vovna*,**,**
+89,11491,*Nemkova, Veronika Konstantinovna*,**,**
+89,11491,*Sidnev, Aleksandr Valentinovich*,**,**
+89,11491,*Suleymanova, F. I.*,**,**
+89,11491,*Khabibullina, G. A.*,**,**
+89,11491,*Shcherbakova, T. I.*,**,**
+89,11491,*Yakovlev, A. G.*,**,**
+89,11500,*Campos, Diogenes de Almeida*,**,*e*
+89,11501,*Ferreira, Ca%Dndido Simo%Ees*,**,*e*
+89,11501,*Brito, Igna%Acio Machado*,**,*e*
+89,11501,*Viana, Cleantho Fialho*,**,*e*
+89,11510,*Ramos, Jose%A Raymundo de Andrade*,*Ramos, J. R de Andrade*,**
+89,11520,*de Alvarenga, Herculano Marcos Ferraz*,*Alvarenga, Herculano M. F.*,**
+89,11530,*Barberena, Ma%Ario Costa*,**,**
+89,11531,*Arau%Ajo-Barberena, Dina Celeste*,*Arau%Ajo, Dina Fernandes*,**
+89,11531,*Lavina, Ernesto Luiz*,**,**
+89,11531,*Azevedo, Se%Argio Kugland*,**,**
+89,11540,*Cunha, Fausto Luiz de Souza*,**,**
+89,11541,*Andrade, Amaro Ba%Arcia*,**,**
+89,11541,*Zucon, Maria Helena*,**,**
+89,11541,*dos Santos, Maria Margarida*,**,**
+89,11550,*Ferigolo, Jorge*,**,**
+89,11560,*Ferigolo, Jorge*,**,**
+89,11570,*Gasparini, Zulma*,**,**
+89,11580,*Gasparini, Zulma*,**,**
+89,11581,*Gon%Ei, Ricardo*,**,**
+89,11590,*Godoy, Luiz Carlos*,**,**
+89,11591,*Leonardi, Giuseppe*,**,**
+89,11600,*Leonardi, Giuseppe*,**,**
+89,11601,*Borgomanero, Guido*,**,**
+89,11610,*Locks, Martha*,**,**
+89,11611,*Montenegro, Elizabeth*,**,**
+89,11620,*Magalha%Ees, Rosa Maria Mendonc%Ba*,*Magalha%Ees, Rosa M. M.*,**
+89,11621,*Locks, Martha*,**,**
+89,11630,*de Oliveira, Leon Diniz Dantas*,**,**
+89,11631,*Cunha, Fausto Luiz de Souza*,**,**
+89,11631,*Locks, Martha*,**,**
+89,11640,*Rancy, Alceu*,**,**
+89,11650,*Richter, Martha*,**,**
+89,11660,*Richter, Martha*,**,**
+89,11661,*Piccoli, Ana Emi%Alia Mendes*,**,**
+89,11661,*Lima, Maria Claudia F. Souza*,**,**
+89,11670,*Ro%Fsler, Oscar*,**,**
+89,11671,*Christophe-da-Silva, J. C.*,**,**
+89,11671,*Diniz, Miriam N.*,**,**
+89,11671,*Tabach, Ricardo*,**,**
+89,11680,*Ro%Fsler, Oscar*,**,**
+89,11681,*Tatizana, Celso*,**,**
+89,11690,*da Silva Santos, Rubens*,**,**
+89,11700,*da Silva Santos, Rubens*,**,**
+89,11710,*da Silva Santos, Rubens*,**,**
+89,11720,*da Silva Santos, Rubens*,**,**
+89,11730,*da Silva Santos, Rubens*,**,**
+89,11740,*da Silva Santos, Rubens*,**,**
+89,11750,*da Silva Santos, Rubens*,**,**
+89,11751,*da Silva Corre%Da, Vero%Dnica Lima*,**,**
+89,11760,*da Silveira, Estanislau Kostka Pinto*,**,**
+89,11770,*da Silveira, Estanislau Kostka Pinto*,**,**
+89,11780,*Vogel, Maria Amelia Curvelo*,**,**
+89,11790,*Pokhialaynen, Vladimir Petrovich*,*Pohialainen, V. P.*,*e*
+89,11800,*Svitoch, Aleksandr Adamovich*,**,**
+89,11801,*Boyarskaya, Tat'yana D.*,**,**
+89,11801,*Gunova, V. S.*,**,**
+89,11810,*Bashlavin, D. K.*,**,**
+89,11811,*Zhigulevtseva, S. N.*,**,**
+89,11811,*Ovander, M. G.*,**,**
+89,11820,*Darlu, Pierre*,**,**
+89,11821,*Tassy, Pascal*,**,**
+89,11830,*Jefferies, Richard P. S.*,**,**
+89,11840,*Sauclie%Cres, Gilles*,**,**
+89,11850,*Gaudant, Jean*,**,**
+89,11851,*Schaal, Stephan*,**,**
+89,11860,*Valladas, He%Ale%Cne*,**,**
+89,11861,*Vandermeersch, Bernard*,**,**
+89,11861,*Bar-Yosef, Ofer*,**,**
+89,11870,*Saunders, Jeffrey J.*,**,**
+89,11871,*Tassy, Pascal*,**,**
+89,11880,*Raynal, Jean-Paul*,**,**
+89,11881,*Daugas, Jean-Pierre*,**,**
+89,11890,*Kamaletdinov, Murat Abdulkhakovich*,**,*e*
+89,11891,*Yakhimovich, Varvara L'vovna*,**,**
+89,11900,*Guslitser, Boris Isaakovich*,**,**
+89,11910,*Kamaletdinov, Murat Abdulkhakovich*,**,*e*
+89,11911,*Yakhimovich, Varvara L'vovna*,**,*e*
+89,11920,*Yakhimovich, Varvara L'vovna*,**,**
+89,11930,*Garutt, Vadim Yevgen'yevich*,**,**
+89,11940,*Yakhimovich, Varvara L'vovna*,**,**
+89,11950,*Urbanas, Ye V.*,**,**
+89,11960,*Yakhimovich, Varvara L'vovna*,**,**
+89,11970,*Arslanov, Khikmatulla Adiyevich*,**,**
+89,11971,*Latypova, E. K.*,**,**
+89,11971,*Tertychnaya, Tat'yana Vasil'yevna*,*Tertichnaya, T. V.*,**
+89,11980,*Nemkova, Veronika Konstantinovna*,**,**
+89,11990,*Yakhimovich, Varvara L'vovna*,**,**
+89,11991,*Nemkova, Veronika Konstantinovna*,**,**
+89,11991,*Yakovlev, A. G.*,**,**
+89,12000,*Yakhimovich, Varvara L'vovna*,**,*e*
+89,12010,*Sukhov, Vladimir Pavlovich*,**,**
+89,12020,*Sukhov, Vladimir Pavlovich*,**,**
+89,12030,*Garutt, Vadim Yevgen'yevich*,**,**
+89,12031,*Shokurov, A. P.*,**,**
+89,12031,*Yakhimovich, Varvara L'vovna*,**,**
+89,12040,*Shokurov, A. P.*,**,**
+89,12050,*Kurvits, J. A.*,*Kurvits, Yu. A.*,*e*
+89,12051,*Ilves, Evald O.*,*Il'ves, E. O.*,*e*
+89,12051,*Liiva, Arvi A.*,*Liyva, A. A.*,*e*
+89,12051,*Simm, Helle A.*,*Simm, Kh. A.*,*e*
+89,12060,*Arslanov, Khikmatulla Adiyevich*,**,**
+89,12061,*Svezhentsev, Yuriy Stepanovich*,**,**
+89,12061,*Markov, Yu. N.*,**,**
+89,12070,*Motuzko, Aleksandr Nikolayevich*,**,**
+89,12080,*James, Steven R.*,**,**
+89,12090,*Jia Lanpo*,**,**
+89,12100,*Wood, Bernard*,**,**
+89,12110,*Bartstra, Gert-Jan*,*Bartstra, G.-J.*,**
+89,12111,*Basoeki*,**,**
+89,12120,*Gargett, Robert H.*,**,**
+89,12130,*Louwe Kooijmans, L. P.*,**,**
+89,12140,*Smirnov, Yuriy Aleksandrovich*,*Smirnov, Yuri*,**
+89,12150,*Solecki, Ralph S.*,**,**
+89,12160,*Villa, Paola*,**,**
+89,12170,*Weber, Thomas*,**,**
+89,12180,*Gargett, Robert H.*,**,**
+89,12190,*Mellars, Paul*,**,**
+89,12200,*Kennedy, Kenneth A. R.*,**,**
+89,12201,*Deraniyagala, Siran U.*,**,**
+89,12210,*White, Randall*,**,**
+89,12220,*Straus, Lawrence Guy*,**,**
+89,12230,*Dubar, Michel*,*Dubar, M.*,**
+89,12231,*Michaux, Jacques*,*Michaux, J.*,**
+89,12231,*Pichard, S.*,**,**
+89,12240,*Chaix, Louis*,*Chaix, L.*,**
+89,12241,*Desse, Jean*,*Desse, J.*,**
+89,12250,*Barral, L.*,**,**
+89,12251,*Simone, S.*,**,**
+89,12260,*Desse, Jean*,*Desse, J.*,**
+89,12261,*Chaix, Louis*,*Chaix, L.*,**
+89,12270,*Brugal, Jean-Philippe*,*Brugal, J. P.*,**
+89,12280,*Bai%Fssas, Pierre*,*Bai%Fssas, P.*,**
+89,12281,*Barral, L.*,**,**
+89,12281,*Simon, P.*,**,**
+89,12281,*Simone, S.*,**,**
+89,12290,*Mahieu, E.*,**,**
+89,12300,*Landwerlin, J.*,**,**
+89,12310,*Aune, J.-P.*,**,**
+89,12311,*Lafont, Raymont*,*Lafont, R.*,**
+89,12311,*Pe%Arinet, Guy*,*Pe%Arinet, G.*,**
+89,12320,*Cre%Agut-Bonnoure, E%Avelyne*,*Cre%Agut-Bonnoure, E.*,**
+89,12330,*Alberdi, Mari%Aa Teresa*,*Alberdi, M.-T.*,**
+89,12331,*Caloi, Lucia*,*Caloi, L.*,**
+89,12331,*Palombo, Maria Rita*,**,**
+89,12340,*Formicola, Vincenzo*,*Formicola, V.*,**
+89,12350,*Bonifay, Marie-Franc%Boise*,*Bonifay, M.-F.*,**
+89,12360,*Bonifay, Marie-Franc%Boise*,*Bonifay, M.-F.*,**
+89,12361,*Bussie%Cre, J.-F.*,**,**
+89,12370,*Formicola, Vincenzo*,**,**
+89,12371,*Repetto, E.*,**,**
+89,12380,*Kli%Ama, Bohuslav*,**,**
+89,12390,*Ferguson, Walter W.*,**,**
+89,12400,*Ferguson, Walter W.*,**,**
+89,12410,*Ferguson, Walter W.*,**,**
+89,12420,*Ferguson, Walter W.*,**,**
+89,12430,*Ferguson, Walter W.*,**,**
+89,12440,*Gebo, Daniel L.*,**,**
+89,12450,*Ferguson, Walter W.*,**,**
+89,12460,*Ferguson, Walter W.*,**,**
+89,12470,*Hi%Ar, Ja%Anos*,**,**
+89,12480,*Brasso%Ai Fuchs, Herman*,**,**
+89,12490,*Chkhikvadze, Vyacheslav Mikhaylovich*,*C%Jkhikvadze, V. M.*,**
+89,12500,*Arkhipov, Stanislav Anatol'yevich*,**,*e*
+89,12501,*Volkova, Valentina Sergeyevna*,**,*e*
+89,12501,*Bakhareva, Valentina A.*,**,*e*
+89,12501,*Leutkin, S. A.*,**,*e*
+89,12510,*Zazhigin, Vladimir Seme%Fnovich*,**,**
+89,12511,*Zykin, Vladimir Sergeyevich*,**,**
+89,12520,*Bazarov, Dashi-Dondok Bazarovich*,**,**
+89,12530,*Aziz, Fachroel*,**,**
+89,12531,*de Vos, John*,**,**
+89,12540,*Ogata, Tamotsu*,**,**
+89,12541,*Kato, Katsumoto*,**,**
+89,12541,*Rokutanda, Atsushi*,**,**
+89,12550,*de Vos, John*,**,**
+89,12551,*Aziz, Fachroel*,**,**
+89,12560,*Mashchenko, Ye. N.*,*Mashchenko, E. N.*,**
+89,12570,*Kharitonov, Vitaliy Mikhaylovich*,**,**
+89,12580,*Kravchenko, G. S.*,**,**
+89,12590,*Cockrum, Frances E.*,**,**
+89,12600,*Leite, Michael B.*,**,**
+89,12610,*Cvancara, Alan M.*,**,**
+89,12620,*Hoganson, John W.*,**,**
+89,12621,*Lammers, George E.*,**,**
+89,12630,*Martin, James E.*,**,**
+89,12640,*Kihm, Allen J.*,**,**
+89,12650,*Cvancara, Alan M.*,**,**
+89,12651,*Hoganson, John W.*,**,**
+89,12660,*Martin, James E.*,**,**
+89,12661,*Rich, Fredrick J.*,**,**
+89,12670,*Martin, James E.*,**,**
+89,12671,*Kihm, Allen J.*,**,**
+89,12680,*Martin, James E.*,**,**
+89,12681,*Kennedy, Lois E.*,**,**
+89,12690,*Lammers, George E.*,**,**
+89,12691,*Hoganson, John W.*,**,**
+89,12700,*Martin, James E.*,**,**
+89,12701,*Tedrow, Allen R.*,**,**
+89,12710,*Leite, Michael B.*,**,**
+89,12711,*Richardson, Don J.*,**,**
+89,12711,*Richardson, Jolene E.*,**,**
+89,12720,*Baryshnikov, Gennadiy Fe%Fdorovich*,**,**
+89,12721,*Potapova, O. R.*,**,**
+89,12730,*Nesov, Lev Aleksandrovich*,**,**
+89,12740,*Hora%Ac%Jek, Ivan*,**,**
+89,12741,*Loz%Jek, Vojen*,**,**
+89,12750,*Loz%Jek, Vojen*,**,**
+89,12760,*Johanson, Donald C.*,**,**
+89,12761,*Shreeve, James*,**,**
+89,12770,*Korth, William W.*,**,**
+89,12771,*Evander, Robert L.*,**,**
+89,12780,*Buffetaut, Eric*,**,**
+89,12781,*Suteethorn, Varavudh*,**,**
+89,12790,*Poulianos, Nikos A.*,*Poulianos, Nickos A.*,**
+89,12800,*Cheneval, Jacques*,**,**
+89,12810,*Gheerbrant, Emmanuel*,**,**
+89,12811,*Russell, Donald E.*,**,**
+89,12820,*Harrison, Terri S.*,**,**
+89,12821,*Harrison, Terry*,**,**
+89,12830,*Pratt, Ann E.*,**,**
+89,12840,*Rich, Thomas H. V.*,**,**
+89,12841,*Rich, Patricia Vickers*,**,**
+89,12850,*Wagstaff, Barbara E.*,**,**
+89,12851,*McEwen Mason, Jennifer*,**,**
+89,12860,*Archibald, J. David*,**,**
+89,12870,*Harris, Arthur H.*,**,**
+89,12880,*Gagnier, Pierre-Yves*,**,**
+89,12890,*Marshall, Larry G.*,**,**
+89,12900,*Roth, V. Louise*,**,**
+89,12910,*Rich, Thomas H. V.*,*Rich, T. H. V.*,**
+89,12911,*Flannery, Timothy F.*,*Flannery, T. F.*,**
+89,12911,*Archer, Michael*,*Archer, M.*,**
+89,12920,*Flannery, Timothy F.*,**,**
+89,12921,*Hoch, Ella*,*Hoch, E.*,**
+89,12921,*Aplin, Ken*,*Aplin, K.*,**
+89,12930,*Cheng, H.*,**,**
+89,12940,*Case, Gerard R.*,**,**
+89,12950,*Bailon, Salvador*,**,**
+89,12960,*Estravi%As, C.*,**,**
+89,12961,*Russell, Donald E.*,*Russell, D. E.*,**
+89,12970,*Cardoso, J. L.*,**,**
+89,12971,*Eisenmann, Ve%Ara*,*Eisenmann, V.*,**
+89,12980,*Lavocat, Rene%A*,**,**
+89,12990,*Haubold, Hartmut*,**,**
+89,13000,*Storch, Gerhard*,**,**
+89,13001,*Haubold, Hartmut*,**,**
+89,13010,*Thalmann, Urs*,**,**
+89,13011,*Haubold, Hartmut*,**,**
+89,13011,*Martin, Robert Denis*,**,**
+89,13020,*Erfurt, Jo%Frg*,**,**
+89,13021,*Haubold, Hartmut*,**,**
+89,13030,*Marandat, Bernard*,**,**
+89,13040,*McDonald, Jerry N.*,**,**
+89,13041,*Ray, Clayton E.*,**,**
+89,13050,*Emry, Robert J.*,**,**
+89,13051,*Korth, William W.*,**,**
+89,13060,*MacPhee, Ross D. E.*,**,**
+89,13061,*Ford, Derek C.*,**,**
+89,13061,*McFarlane, Donald A.*,**,**
+89,13070,*Jefferson, George T.*,**,**
+89,13071,*Goldin, Judith L.*,**,**
+89,13080,*Ambrose, Stanley H.*,**,**
+89,13081,*DeNiro, Michael J.*,**,**
+89,13090,*Klein, Richard G.*,**,**
+89,13091,*Scott, Katharine*,**,**
+89,13100,*Webb, S. David*,*Webb, S. D.*,**
+89,13101,*Morgan, Gary S.*,*Morgan, G. S.*,**
+89,13101,*Hulbert, Richard C., Jr.*,*Hulbert, R. C., Jr.*,**
+89,13101,*Jones, D. S.*,**,**
+89,13101,*MacFadden, Bruce J.*,*MacFadden, B. J.*,**
+8,13101,*Mueller, Paul A.*,*Mueller, P. A.*,**
+89,13110,*An Zhisheng*,**,**
+89,13111,*Ho Chuan Kun*,**,**
+89,13120,*Kowalski, Kazimierz*,**,**
+89,13121,*Van Neer, Wim*,**,**
+89,13121,*Bochen%Aski, Zygmunt*,**,**
+89,13121,*Ml%Synarski, Marian*,**,**
+89,13121,*Rzebik-Kowalska, Barbara*,**,**
+89,13121,*Szyndlar, Zbigniew*,**,**
+89,13121,*Gautier, Achilles*,**,**
+89,13121,*Schild, Romuald*,**,**
+89,13121,*Close, Angela E.*,**,**
+89,13121,*Wendorf, Fred*,**,**
+89,13130,*Bourdier, Franck*,**,**
+89,13131,*Orliac, Michel*,**,**
+89,13131,*Orliac, Eliane*,**,**
+89,13140,*Alekseyev, Valeriy Pavlovich*,*Alekseev, V. P.*,**
+89,13141,*Gokhman, Il'ya Iosifovich*,**,**
+89,13141,*Lebedinskaya, G. V.*,*Lebedyinskaya, G. V.*,**
+89,13150,*Jeli%Anek, Jan*,**,*e*
+89,13160,*Jeli%Anek, Jan*,**,**
+89,13170,*Tobias, Phillip V.*,**,**
+89,13180,*Sartono, Sastrohamidjojo*,*Sartono, S.*,**
+89,13190,*Saban, Roger*,**,**
+89,13200,*Chavaillon, Jean*,**,**
+89,13201,*Chavaillon, Nicole*,**,**
+89,13210,*Clark, J. Desmond*,**,**
+89,13211,*Kurashina, Hiro*,**,**
+89,13220,*Jeli%Anek, Jan*,**,**
+89,13230,*Jeli%Anek, Jan*,**,*e*
+89,13240,*Stringer, Christopher B.*,**,**
+89,13250,*Rightmire, G. Philip*,**,**
+89,13270,*Vanc%Jata, Va%Aclav*,**,**
+89,13271,*Hellerova%A, Dana*,**,**
+89,13280,*Pr%Ji%Avratsky%A, Vladimi%Ar*,**,**
+89,13290,*Vanc%Jata, Va%Aclav*,**,**
+89,13330,*Jeli%Anek, Jan*,**,**
+89,13350,*Jeli%Anek, Jan*,**,**
+89,13360,*Nova%Ak, Vladimi%Ar J. A.*,**,**
+89,13370,*Herrmann, Joachim*,**,**
+89,13390,*Foerster, Ingeborg*,**,**
+89,13410,*Mli%Akovsky%A, Jir%Ji%A*,**,**
+89,13450,*Vanc%Jata, Va%Aclav*,**,**
+89,13451,*Pr%Ji%Avratsky%A, Vladimi%Ar*,**,**
+89,13460,*Jeli%Anek, Jan*,**,**
+89,13470,*Novotny%A, Vladimi%Ar*,**,**
+89,13480,*Dutta, Pratap C.*,**,**
+89,13490,*Smith, Patricia*,**,**
+89,13500,*Douaud, Patrick C.*,**,**
+89,13510,*Valoch, Karel*,**,**
+89,13520,*Vanc%Jata, Va%Aclav*,**,**
+89,13530,*Stloukal, Milan*,**,**
+89,13540,*Mania, Dietrich*,**,**
+89,13541,*Thomae, Matthias*,**,**
+89,13550,*Prokopec, M.*,**,**
+89,13560,*Oliva, Martin*,**,**
+89,13570,*Crowther, Peter R.*,**,*e*
+89,13571,*Wimbledon, William A.*,**,*e*
+89,13580,*Benton, Michael J.*,**,**
+89,13590,*Kermack, Kenneth A.*,**,**
+89,13600,*Taylor, Michael A.*,**,**
+89,13610,*Wood, Stanley P.*,**,**
+89,13620,*Rolfe, W. D. Ian*,**,**
+89,13621,*Milner, Angela C.*,**,**
+89,13621,*Hay, F. G.*,**,**
+89,13630,*Clemens, William A.*,**,**
+89,13640,*Wild, Rupert*,**,**
+89,13650,*Ferguson, Laing*,**,**
+89,13660,*Florensov, Nikolay Aleksandrovich*,**,*e*
+89,13670,*Mats, Viktor Davydovich*,**,**
+89,13671,*Pokatilov, Anatoliy Grigor'yevich*,**,**
+89,13671,*Popova, Svetlana Mikhaylovna*,**,**
+89,13671,*Kravchinskiy, Anatoliy Yakovlevich*,**,**
+89,13671,*Kulagina, Natal'ya Valentinovna*,**,**
+89,13680,*Pokatilov, Anatoliy Grigor'yevich*,**,**
+89,13690,*Pokatilov, Anatoliy Grigor'yevich*,**,**
+89,13700,*Vislobokova, Inesa Anatol'yevna*,**,**
+89,13710,*Sotnikova, Marina Vladimirovna*,**,**
+89,13720,*Olsen, Paul E.*,**,**
+89,13721,*Flynn, John J.*,**,**
+89,13730,*Spamer, Earle E.*,**,**
+89,13740,*Baird, Donald*,**,**
+89,13750,*Case, Gerard R.*,**,**
+89,13760,*Bukowski, Frank*,**,**
+89,13761,*Bond, Paul*,**,**
+89,13770,*Robb, Albert J., III.*,**,**
+89,13780,*Gallagher, William B.*,**,**
+89,13781,*Parris, David C.*,**,**
+89,13781,*Grandstaff, Barbara Smith*,**,**
+89,13781,*DeTample, Craig*,**,**
+89,13790,*Bogan, Arthur E.*,**,**
+89,13791,*Spamer, Earle E.*,**,**
+89,13791,*Manville, G. Christine*,**,**
+89,13791,*Gallagher, William B.*,**,**
+89,13791,*Cain, Arthur J.*,**,**
+89,13800,*Fiorillo, Anthony R.*,**,**
+89,13810,*Daeschler, Edward*,**,**
+89,13811,*Fiorillo, Anthony R.*,**,**
+89,13820,*Spamer, Earle E.*,**,**
+89,13821,*Forster, Catherine A.*,**,**
+89,13830,*Lauginiger, Edward M.*,**,**
+89,13840,*Smith, Jenny A.*,**,**
+89,13841,*Latimer, Bruce M.*,**,**
+89,13850,*Weigelt, Johannes*,**,**
+89,13860,*Kent, Bretton W.*,**,**
+89,13870,*Sun Ailing*,**,**
+89,13880,*Fe%Fdorov, Pavel Vasil'yevich*,**,*e*
+89,13890,*Nikiforova, Kseniya Vladimirovna*,**,**
+89,13891,*Aleksandrova, Lidiya Petrovna*,**,**
+89,13891,*Trubikhin, Valeriy Mikhaylovich*,**,**
+89,13891,*Chepalyga, Andrey Leonidovich*,**,**
+89,13900,*Bilinkis, Grigoriy Markovich*,**,**
+89,13910,*Bukatchuk, P. D.*,**,**
+89,13920,*Shushpanov, Kas'yan Ivanovich*,**,**
+89,13921,*David, Anatoliy Ivanovich*,**,**
+89,13930,*Sadchikova, T. A.*,**,**
+89,13931,*Aleksandrova, Lidiya Petrovna*,**,**
+89,13931,*Trubikhin, Valeriy Mikhaylovich*,**,**
+89,13931,*Chepalyga, Andrey Leonidovich*,**,**
+89,13940,*Alekseyeva, Lyudmila Ivanovna*,**,**
+89,13950,*Gabunia, Leonid Kalistratovich*,*Gabuniya, L. K.*,**
+89,13951,*Vekua, Abesalom Kapitonovich*,**,**
+89,13951,*Alekseyeva, Lyudmila Ivanovna*,**,**
+89,13960,*Aleksandrova, Lidiya Petrovna*,**,**
+89,13970,*Lukina, Nina Vladimirovna*,**,**
+89,13980,*Alekseyeva, Lyudmila Ivanovna*,**,**
+89,13981,*Shvyre%Fva, A. K.*,**,**
+89,13990,*Kotlia, Bahadur S.*,*Kotlia, B. S.*,**
+89,14000,*Sahni, Ashok*,**,**
+89,14001,*Kumar, Giriraj*,**,**
+89,14001,*Bajpai, Sunil*,**,**
+89,14001,*Srinivasan, S.*,**,**
+89,14010,*Anado%An Monzo%An, Pedro*,*Anado%An, P.*,*e*
+89,14011,*Cabrera Pe%Arez, Lluis*,*Cabrera, Ll.*,*e*
+89,14020,*Pe%Arez Garci%Aa, Antonio*,*Pe%Arez, A.*,**
+89,14021,*Mun%Eoz Jime%Anez, Arsenio*,*Mun%Eoz, A.*,**
+89,14021,*Pardo Tirapu, Gonzala*,*Pardo, G.*,**
+89,14021,*Villena Morales, Joaqui%An*,*Villena, J.*,**
+89,14030,*Corrochano Sa%Anchez, A%Angel*,*Corrochano, A.*,**
+89,14031,*Armenteros Armenteros, Ildefonso*,*Armenteros, I.*,**
+89,14040,*Calvo Sorando, Jose%A Pedro*,*Calvo, J. P.*,**
+89,14041,*Ordo%An%Eez Delgado, Salvador*,*Ordo%An%Eez, S.*,**
+89,14041,*Garci%Aa del Cura, M. A.*,**,**
+89,14041,*Hoyos Go%Amez, Manuel*,*Hoyos, M.*,**
+89,14041,*Alonso Zarza, Ana Mari%Aa*,*Alonzo-Zarza, A. M.*,**
+89,14041,*Sanz Montero, Esther*,*Sanz, E.*,**
+89,14041,*Rodri%Aguez Aranda, Juan Pablo*,*Rodri%Aguez Aranda, J. P.*,**
+89,14050,*Soria Mingorance, Jesu%As Miguel*,*Soria, J. M.*,**
+89,14051,*Ferna%Andez Marti%Anez, Juan*,*Ferna%Andez, J.*,**
+89,14060,*Santafe%A Llopis, Jose%A Vicente*,*Santafe%A Llopis, J. Vte.*,**
+89,14061,*Belincho%An Garci%Aa, M.*,**,**
+89,14070,*Kielan-Jaworowska, Zofia*,**,**
+89,14071,*Dashzeveg, Dembereliyn*,*Dashzeveg, Demberlyin*,**
+89,14071,*Trofimov, Boris Aleksandrovich*,**,**
+89,14080,*Barsbold, Rinchin*,*Barsbold, Rinchen*,**
+89,14081,*Osmo%Alska, Halszka*,**,**
+89,14081,*Kurzanov, Sergey Mikhaylovich*,*Kurzanov, Sergei M.*,**
+89,14090,*Osmo%Alska, Halszka*,**,**
+89,14100,*Borsuk-Bial%Synicka, Magdalena*,**,**
+89,14110,*Wol%Soszyn, Bronisl%Saw W.*,**,**
+89,14120,*Kielan-Jaworowska, Zofia*,**,**
+89,14130,*Lange-Badre%A, Brigitte*,**,**
+89,14131,*Dashzeveg, Dembereliyn*,**,**
+89,14140,*Ochev, Vitaliy Georgiyevich*,**,**
+89,14141,*Shishkin, Mikhail Aleksandrovich*,**,**
+89,14150,*Torre, Danilo*,**,*e*
+89,14160,*Aguilar, Jean-Pierre*,**,**
+89,14161,*Clauzon, Georges*,**,**
+89,14161,*Michaux, Jacques*,**,**
+89,14170,*Agusti%A, Jordi*,**,**
+89,14180,*Agusti%A, Jordi*,**,**
+89,14181,*Moya%C-Sola%C, Salvador*,**,**
+89,14181,*Marti%An-Sua%Arez, Lurdes*,**,**
+89,14190,*Antunes, Miguel Telles*,**,**
+89,14191,*Mein, Pierre*,**,**
+89,14200,*Azanza Asensio, Beatriz*,**,**
+89,14201,*Mene%Andez, Enrique*,**,**
+89,14201,*Alcala%A Marti%Anez, Luis*,**,**
+89,14210,*de Bruijn, Hans*,**,**
+89,14220,*De Giuli, Claudio*,**,**
+89,14230,*Doukas, Constantin S.*,*Doukas, Konstantinos S.*,**
+89,14240,*Eisenmann, Ve%Ara*,**,**
+89,14241,*Sondaar, Paul Y.*,**,**
+89,14250,*Engesser, Burkart*,**,**
+89,14260,*Kotsakis, Tassos*,**,**
+89,14270,*Kotsakis, Tassos*,**,**
+89,14280,*Kotsakis, Tassos*,**,**
+89,14281,*Masini, Federico*,**,**
+89,14290,*Landini, Walter*,**,**
+89,14291,*Sorbini, Lorenzo*,**,**
+89,14300,*Masini, Federico*,**,**
+89,14310,*Masini, Federico*,**,**
+89,14311,*Thomas, Herbert*,**,**
+89,14320,*Pickford, Martin*,**,**
+89,14330,*Torre, Danilo*,**,**
+89,14340,*van der Made, Jan*,**,**
+89,14341,*Moya%C-Sola%C, Salvador*,**,**
+89,14350,*Vai, Gian Battista*,**,**
+89,14360,*Marabini, Stefano*,**,**
+89,14361,*Vai, Gian Battista*,**,**
+89,14370,*Rage, Jean-Claude*,**,**
+89,14371,*Roc%Jek, Zbyne%Jk*,**,**
+89,14380,*Jessen, Hans L.*,**,**
+89,14390,*Sigogneau-Russell, Denise*,**,**
+89,14400,*Taverne, Louis*,**,**
+89,14410,*Dauphin, Yannicke*,**,**
+89,14420,*Holmes, Robert B.*,*Holmes, Robert*,**
+89,14430,*Buffetaut, Eric*,**,**
+89,14440,*Fox, Richard C.*,**,**
+89,14450,*Rieppel, Olivier*,**,**
+89,14460,*Tschanz, Karl*,**,**
+89,14470,*Thies, Detlev*,**,**
+89,14480,*Comte, Bernard*,**,**
+89,14481,*Vianey-Liaud, Monique*,**,**
+89,14490,*Livezey, Bradley C.*,**,**
+89,14500,*Demathieu, Georges R.*,*Demathieu, G.*,**
+89,14501,*Gand, Georges*,*Gand, G.*,**
+89,14510,*Van Devender, Thomas R.*,**,**
+89,14511,*Bradley, George L.*,**,**
+89,14511,*Harris, Arthur H.*,**,**
+89,14520,*Voorhies, Michael R.*,*Voorhies, M. R.*,**
+89,14530,*Wang Xiaoming*,**,**
+89,14531,*Neas, John F.*,**,**
+89,14540,*Dalquest, Walter W.*,**,**
+89,14541,*Kocurko, M. John*,**,**
+89,14550,*Parmley, Dennis*,**,**
+89,14560,*Winkler, Alisa J.*,**,**
+89,14561,*Tomida, Yukimitsu*,**,**
+89,14570,*Goodwin, H. Thomas*,**,**
+89,14571,*Reynolds, Robert E.*,**,**
+89,14580,*Pinna, Giovanni*,**,**
+89,14590,*Vilain, Robert*,**,**
+89,14591,*Mein, Pierre*,**,**
+89,14591,*Truc, Georges*,**,**
+89,14600,*Eaton, Jeffrey G.*,**,**
+89,14601,*Kirkland, James I.*,**,**
+89,14601,*Doi, Kentaro*,**,**
+89,14610,*Paul, Gregory S.*,**,**
+89,14620,*Parrish, Judith Totman*,*Parrish, J. T.*,**
+89,14621,*Parrish, J. Michael*,*Parrish, J. M.*,**
+89,14621,*Hutchison, J. Howard*,*Hutchison, J. H.*,**
+89,14621,*Spicer, Robert A.*,*Spicer, R. A.*,**
+89,14630,*Buffetaut, Eric*,*Buffetaut, E.*,*e*
+89,14631,*Flessa, Karl W.*,*Flessa, K.*,*e*
+89,14631,*Hallam, Anthony*,**,*e*
+89,14640,*Olson, Everett C.*,**,**
+89,14650,*Holmes, Robert B.*,**,**
+89,14660,*Cousin, Re%Ami*,**,**
+89,14661,*Breton, Ge%Arard*,**,**
+89,14661,*Fournier, Roger*,**,**
+89,14661,*Watte, Jean-Pierre*,**,**
+89,14670,*Vianey-Liaud, Monique*,**,**
+89,14680,*de Buffre%Anil, Vivian*,**,**
+89,14681,*Mazin, Jean-Michel*,**,**
+89,14690,*Carroll, Robert L.*,**,**
+89,14700,*Hirsch, Karl F.*,**,**
+89,14701,*Harris, Judith*,**,**
+89,14710,*Gottfried, Michael D.*,**,**
+89,14720,*Arcucci, Andrea B.*,**,**
+89,14730,*Smith, Moya Meredith*,**,**
+89,14740,*Lindsay, Everett H.*,**,*e*
+89,14741,*Fahlbusch, Volker*,**,*e*
+89,14741,*Mein, Pierre*,**,*e*
+89,14750,*Lindsay, Everett H.*,**,**
+89,14760,*Steininger, Fritz F.*,**,**
+89,14761,*Bernor, Raymond L.*,**,**
+89,14761,*Fahlbusch, Volker*,**,**
+89,14770,*Schmidt-Kittler, Norbert*,**,**
+89,14780,*Daams, Remmert*,**,**
+89,14781,*Freudenthal, Matthijs*,**,**
+89,14790,*Su%Fmengen, Muhsin*,**,**
+89,14791,*U%Fnay, Engin*,**,**
+89,14791,*Sarac, Gercek*,**,**
+89,14791,*de Bruijn, Hans*,**,**
+89,14791,*Terlemez, Ismail*,**,**
+89,14791,*Gu%Frbu%Fz, Mustafa*,**,**
+89,14800,*Mein, Pierre*,*Mein, P.*,**
+89,14810,*Fejfar, Oldr%Jich*,**,**
+89,14811,*Heinrich, Wolf-Dieter*,**,**
+89,14820,*Gue%Arin, Claude*,**,**
+89,14830,*Masini, Federico*,**,**
+89,14831,*Torre, Danilo*,**,**
+89,14840,*Hugueney, Marguerite*,**,**
+89,14841,*Ringeade, Michel*,**,**
+89,14850,*Ginsburg, Le%Aonard*,**,**
+89,14860,*Engesser, Burkart*,**,**
+89,14870,*Heissig, Kurt*,**,**
+89,14880,*Kowalski, Kazimierz*,**,**
+89,14890,*Fejfar, Oldr%Jich*,**,**
+89,14900,*Tassy, Pascal*,**,**
+89,14910,*Antunes, Miguel Telles*,*Antunes, M. T.*,**
+89,14920,*Bernor, Raymond L.*,*Bernor, R. L.*,**
+89,14921,*Tobien, Heinz*,*Tobien, H.*,**
+89,14921,*Woodburne, Michael O.*,*Woodburne, M. O.*,**
+89,14930,*Koufos, George D.*,**,**
+89,14940,*Azzaroli, Augusto*,*Azzaroli, A.*,**
+89,14950,*Moya%C-Sola%C, Salvador*,*Moya%C-Sola%C, S.*,**
+89,14951,*Agusti%A, Jordi*,**,**
+89,14960,*Agusti%A, Jordi*,*Agusti%A, J.*,**
+89,14970,*Storch, Gerhard*,*Storch, G.*,**
+89,14971,*Fejfar, Oldr%Jich*,*Fejfar, O.*,**
+89,14980,*Pickford, Martin*,**,**
+89,14990,*Alpagut, Berna*,**,**
+89,14991,*Andrews, Peter*,**,**
+89,14991,*Martin, Lawrence*,**,**
+89,15000,*A%Alvarez Sierra, Mari%Aa A%Angeles*,*A%Alvarez-Sierra, M. A.*,**
+89,15001,*Di%Aaz Molina, Margarita*,**,**
+89,15001,*Lacomba, J. I.*,**,**
+89,15001,*Lo%Apez Marti%Anez, Nieves*,*Lo%Apez-Marti%Anez, N.*,**
+89,15010,*Bonifay, Marie-Franc%Boise*,**,**
+89,15020,*Andrews, Peter*,**,**
+89,15030,*S%Ben, S%Bevket*,**,**
+89,15040,*Opdyke, Neil D.*,*Opdyke, N.*,**
+89,15041,*Mein, Pierre*,*Mein, P.*,**
+89,15041,*Moissenet, E%Atienne*,*Moissenet, E%A.*,**
+89,15041,*Pe%Arez-Gonza%Alez, Alfredo*,*Pe%Arez-Gonza%Alez, A.*,**
+89,15041,*Lindsay, Everett H.*,*Lindsay, E.*,**
+89,15041,*Petko, M.*,**,**
+89,15050,*Langereis, Cornelius Ge%Arard*,*Langereis, C. G.*,**
+89,15051,*S%Ben, S%Bevket*,*Sen, S.*,**
+89,15051,*Su%Fmengen, Muhsin*,*Su%Fmengen, M.*,**
+89,15051,*U%Fnay, Engin*,*U%Fnay, E.*,**
+89,15060,*Qiu Zhanxiang*,**,**
+89,15070,*Barry, John C.*,**,**
+89,15071,*Flynn, Lawrence J.*,**,**
+89,15080,*Jacobs, Louis L.*,**,**
+89,15081,*Flynn, Lawrence J.*,**,**
+89,15081,*Downs, William R.*,**,**
+89,15081,*Barry, John C.*,**,**
+89,15090,*Savage, Robert J. G.*,*Savage, R. J. G.*,**
+89,15100,*Lindsay, Everett H.*,**,**
+89,15101,*Tedford, Richard H.*,**,**
+89,15110,*Fahlbusch, Volker*,**,**
+89,15111,*Mein, Pierre*,**,**
+89,15120,*Werner, Christa*,**,**
+89,15130,*Sato%N, Atsushi*,*Satoh, Atsushi*,**
+89,15131,*Hashimoto, Kazuo*,**,**
+89,15131,*Hasegawa, Yoshikazu*,**,**
+89,15140,*Itoigawa, Junji*,**,**
+89,15150,*Dayan, Tamar*,**,**
+89,15151,*Tchernov, Eitan*,**,**
+89,15160,*Denys, Christiane*,**,**
+89,15170,*Otsuka, Hiroyuki*,**,**
+89,15180,*Nakaya, Hideo*,**,**
+89,15190,*Kawamura, Yoshinari*,**,**
+89,15191,*Iida, Kazuaki*,**,**
+89,15200,*Vo%Fro%Fs, Istva%An*,**,**
+89,15210,*Kretzoi, Miklo%As*,**,**
+89,15211,*Vo%Fro%Fs, Istva%An*,**,**
+89,15220,*Ja%Anossy, De%Anes*,**,**
+89,15230,*Ja%Anossy, De%Anes*,**,**
+89,15240,*Rae, Angela M.*,**,**
+89,15241,*Ivanovich, Miro*,**,**
+89,15241,*Schwarcz, Henry P.*,**,**
+89,15250,*Melik-Adamyan, G. U.*,**,**
+89,15260,*Garibdzhanyan, S. G.*,*Gharibdjanian, S. G.*,**
+89,15261,*Melik-Adamyan, G. U.*,*Melik-Adamian, H. H.*,**
+89,15270,*Mchedlidze, Guram Andreyevich*,**,**
+89,15280,*Gelmini, Rodolfo*,**,**
+89,15290,*Delsate, Dominique*,**,**
+89,15291,*Herman, Jacques*,**,**
+89,15291,*Lepage, Jean-Claude*,**,**
+89,15300,*Groessens-Van Dyck, Marie-Claire*,**,**
+89,15310,*Olson, Everett C.*,**,**
+89,15320,*Guenther, Ekke Wolfgang*,*Guenther, Ekke W.*,**
+89,15330,*Kahlke, Ralf-Dietrich*,**,**
+89,15340,*Ga%Abori, Miklo%As*,**,**
+89,15350,*Paddayya, K.*,**,**
+89,15360,*Adam, Karl Dietrich*,**,**
+89,15370,*Czarnetzki, Alfred*,**,**
+89,15380,*Lo%Fscher, Manfred*,**,**
+89,15390,*Rinkel-Steger, Ursula*,**,**
+89,15400,*Scheule, Rita*,**,**
+89,15410,*Donovan, Stephen K.*,**,*e*
+89,15420,*Hoffman, Antoni*,**,**
+89,15430,*Maxwell, W. Desmond*,**,**
+89,15440,*Upchurch, Garland R., Jr.*,**,**
+89,15450,*Prothero, Donald R.*,**,**
+89,15460,*Barnosky, Anthony D.*,**,**
+89,15470,*Alekseyev, Mikhail Nikolayevich*,*Alekseev, M. N.*,*e*
+89,15471,*Nikiforova, Kseniya Vladimirovna*,**,*e*
+89,15471,*Yanshin, Aleksandr Leonidovich*,**,*e*
+89,15471,*Murzayeva, V. E.*,*Murzaeva, V. E.*,*e*
+89,15480,*Nikiforova, Kseniya Vladimirovna*,**,**
+89,15481,*Alekseyev, Mikhail Nikolayevich*,**,**
+89,15481,*Ivanova, Irina Konstantinovna*,**,**
+89,15481,*Kind, Nataliya Vladimirovna*,**,**
+89,15490,*Shelkoplyas, Vladimir Nikolayevich*,**,**
+89,15491,*Khristoforova, T. F.*,**,**
+89,15500,*Matsuy, Viktor Mikhaylovich*,**,**
+89,15501,*Mos'kina, Ol'ga Dmitriyevna*,**,**
+89,15510,*Mihailescu, Konstantin Dmitriyevich*,*Mikhaylesku, K. D.*,**
+89,15520,*Pokatilov, V. P.*,**,**
+89,15521,*Bukatchuk, P. D.*,**,**
+89,15530,*Agadzhanyan, Aleksandr Karenovich*,**,**
+89,15531,*Glushankova, N. I.*,**,**
+89,15540,*Chepalyga, Andrey Leonidovich*,**,**
+89,15541,*Mihailescu, Konstantin Dmitriyevich*,**,**
+89,15541,*Izmaylov, Ya. A.*,**,**
+89,15541,*Markova, Anastasiya Konstantinovna*,**,**
+89,15541,*Kats, Yuriy Isaakovich*,**,**
+89,15541,*Yanko, Valentina Venidoktovna*,**,**
+89,15550,*Aubekerov, Bolat Zhagfarovich*,*Aubekerov, B. Zh.*,**
+89,15560,*Surette, Ralph*,**,**
+89,15570,*Pinna, Giovanni*,**,**
+89,15571,*Nosotti, Stefania*,**,**
+89,15580,*Bollinger, Thomas*,**,**
+89,15581,*Eberhard, Mark*,**,**
+89,15590,*Dzhafarova, Zhanna Dzhalil'yevna*,**,**
+89,15600,*Dzhafarova, Zhanna Dzhalil'yevna*,*Djafarova, J. D.*,**
+89,15610,*Mamedova, Leyla Dzhalil kyzy*,**,**
+89,15620,*Haarhoff, Pippa J.*,*Haarhoff, P. J.*,**
+89,15630,*Zykina, Valentina Seme%Fnovna*,**,*e*
+89,15640,*Zykin, Vladimir Sergeyevich*,**,**
+89,15641,*Zazhygin, Vladimir Seme%Fnovich*,**,**
+89,15641,*Prisyazhnyuk, Valentin Arsen'yevich*,**,**
+89,15650,*Tleuberdina, Pirusa Ablayevna*,*Tleuberdina, Firusa Ablayevna*,**
+89,15660,*Nikolov, Todor G.*,**,**
+89,15670,*Kekhayova, M. S.*,**,**
+89,15680,*Yakhimovich, Varvara L'vovna*,**,**
+89,15681,*Nemkova, Veronika Konstantinovna*,**,**
+89,15681,*Seme%Fnov, Igor' Nikolayevich*,**,**
+89,15690,*Tavera Jerez, Juan*,**,**
+89,15700,*Tamayo H., Manuel*,**,**
+89,15701,*Frassinetti C., Daniel*,**,**
+89,15710,*Rodde, Jeanne*,**,**
+89,15711,*Mein, Pierre*,*Mein, P.*,**
+89,15720,*Pilleri, Giorgio*,*Pilleri, G.*,**
+89,15721,*Gihr, Margarete*,*Gihr, M.*,**
+89,15721,*Kraus, C.*,**,**
+89,15730,*Pilleri, Giorgio*,**,**
+89,15731,*Gihr, Margarete*,**,**
+89,15731,*Kraus, C.*,**,**
+89,15740,*Pilleri, Giorgio*,**,**
+89,15750,*Rainger, Ronald*,**,**
+89,15760,*Bornbusch, Alan H.*,**,**
+89,15770,*Cao Boxun*,**,**
+89,15771,*Tian Mingzhong*,**,**
+89,15771,*Li Chang'an*,**,**
+89,15780,*Yuan Baoyin*,**,**
+89,15781,*Zhao Huimin*,**,**
+89,15781,*Zhang Jiayun*,**,**
+89,15790,*Varona, Luis S.*,**,**
+89,15800,*Arredondo, Oscar*,**,**
+89,15810,*Gine%As, Hermano*,*Gine%As, Hno.*,**
+89,15820,*Arredondo, Oscar*,**,**
+89,15830,*Hoffman, Antoni*,**,**
+89,15840,*Goin, Francisco J.*,**,**
+89,15841,*Pascual, Rosendo*,**,**
+89,15850,*Quiroga, Juan Carlos*,**,**
+89,15860,*Budinger, Fred E., Jr.*,**,**
+89,15870,*Jones, Arthur C.*,**,**
+89,15880,*Barr, Don*,**,**
+89,15890,*Gamer, Robert L.*,**,**
+89,15900,*Gamer, Robert L.*,**,**
+89,15910,*Gamer, Robert L.*,**,**
+89,15920,*Gamer, Robert L.*,**,**
+89,15930,*Orr, William N.*,**,**
+89,15940,*Gamer, Robert L.*,**,**
+89,15950,*Gamer, Robert L.*,**,**
+89,15960,*Whitmer, John H.*,**,**
+89,15970,*Leroi-Gourhan, Andre%A*,**,**
+89,15971,*Bre%Azillon, Michel*,**,**
+89,15980,*Guillien, Yves*,**,**
+89,15981,*Perpe%Cre, Marie*,**,**
+89,15990,*Bouchud, Jean*,**,**
+89,16000,*Leroi-Gourhan, Andre%A*,**,**
+89,16010,*Delluc, Brigitte*,**,**
+89,16011,*Delluc, Gilles*,**,**
+89,16020,*Leroi-Gourhan, Andre%A*,**,**
+89,16030,*Clottes, Jean*,**,**
+89,16031,*Ce%Arou, Elise%Ae*,**,**
+89,16040,*Lorblanchet, Michel*,**,**
+89,16041,*Delpech, Franc%Boise*,**,**
+89,16041,*Renault, Philippe*,**,**
+89,16041,*Andrieux, Claude*,**,**
+89,16050,*Delluc, Brigitte*,**,**
+89,16051,*Delluc, Gilles*,**,**
+89,16060,*Lorblanchet, Michel*,**,**
+89,16061,*Delpech, Franc%Boise*,**,**
+89,16061,*Renault, Philippe*,**,**
+89,16061,*Andrieux, Claude*,**,**
+89,16070,*Delluc, Brigitte*,**,**
+89,16071,*Delluc, Gilles*,**,**
+89,16080,*Clot, Andre%A*,**,**
+89,16081,*Cantet, Marcel*,**,**
+89,16090,*Chollet, Andre%A*,**,**
+89,16091,*Reigner, Henri*,**,**
+89,16091,*Boutin, Pierre*,**,**
+89,16100,*Deffarge, Rene%A*,**,**
+89,16101,*Laurent, Pierre*,**,**
+89,16101,*de Sonneville-Bordes, Denise*,**,**
+89,16110,*Petrequin, Pierre*,**,**
+89,16111,*Piningre, Jean-Franc%Bois*,**,**
+89,16111,*Urlacher, Jean-Pierre*,**,**
+89,16120,*Prat, Franc%Bois*,**,**
+89,16130,*Vialou, Denis*,**,**
+89,16140,*Pales, Le%Aon*,**,**
+89,16141,*Tassin de Saint-Pe%Areuse, Marie*,**,**
+89,16150,*Aujard-Catot, Roland*,**,**
+89,16151,*Gagnie%Cre, Sylvain*,**,**
+89,16160,*Bonifay, Marie-Franc%Boise*,**,**
+89,16170,*Delluc, Brigitte*,**,**
+89,16171,*Delluc, Gilles*,**,**
+89,16180,*Poulain, The%Are%Cse*,**,**
+89,16190,*Chaline, Jean*,**,**
+89,16200,*Mourer-Chauvire%A, Ce%Acile*,**,**
+89,16210,*Audouze, Franc%Boise*,**,**
+89,16211,*Cahen, Daniel*,**,**
+89,16211,*Keeley, Lawrence H.*,**,**
+89,16211,*Schmider, Be%Aatrice*,**,**
+89,16220,*Leroi-Gourhan, Andre%A*,**,**
+89,16230,*Delluc, Brigitte*,**,**
+89,16231,*Delluc, Gilles*,**,**
+89,16240,*Schmider, Be%Aatrice*,**,**
+89,16241,*Sene%Ae, Alain*,**,**
+89,16250,*David, Francine*,**,**
+89,16260,*Allain, Jacques*,**,**
+89,16261,*Desbrosse, Rene%A*,**,**
+89,16261,*Kozl%Sowski, Janusz K.*,**,**
+89,16261,*Rigaud, Andre%A*,**,**
+89,16270,*Jeannet, Marcel*,**,**
+89,16280,*Geneste, Jean-Michel*,**,**
+89,16281,*Plisson, Hugues*,**,**
+89,16290,*Clot, Andre%A*,**,**
+89,16291,*Marsan, Genevie%Cve*,**,**
+89,16300,*Belevtsev, Yakov Nikolayevich*,**,**
+89,16301,*Didkovskiy, Valentin Yakovlevich*,**,**
+89,16301,*Porfir'yev, Vladimir Borisovich*,**,**
+89,16301,*Semenenko, Nikolay Panteleymonovich*,**,**
+89,16301,*Subbotin, Serafim Ivanovich*,**,**
+89,16301,*Tkachuk, Luk'yan Grigor'yevich*,**,**
+89,16310,*Vyalov, Oleg Stepanovich*,*Vialov, O. S.*,**
+89,16320,*Anonymous*,**,**
+89,16330,*Anonymous*,**,**
+89,16340,*French, Larry B.*,**,**
+89,16350,*Alexander-Marrack, P. D.*,**,**
+89,16351,*Friend, Peter F.*,*Friend, P. F.*,**
+89,16360,*Ethridge, Frank G.*,**,*e*
+89,16361,*Flores, Romeo M.*,**,*e*
+89,16361,*Harvey, Michael D.*,**,*e*
+89,16361,*Weaver, Jean N.*,**,*e*
+89,16370,*Koster, Emlyn H.*,**,**
+89,16380,*Behrensmeyer, Anna K.*,**,**
+89,16390,*Bennike, Ole*,**,**
+89,16400,*Knyazev, A. V.*,**,**
+89,16401,*Savinetskiy, A. B.*,*Savinetsky, A. B.*,**
+89,16410,*Vereshchagin, Nikolay Kuz'mich*,**,**
+89,16411,*Tikhonov, A. N.*,**,**
+89,16420,*Gorbache%Fv, A. L.*,**,**
+89,16421,*Zadal'skiy, S. V.*,*Zadalksy, S. V.*,**
+89,16430,*Iordanskiy, Nikolay Nikolayevich*,**,**
+89,16440,*S%Awiecimski, Jerzy*,**,**
+89,16450,*Daoud, Ahmed*,**,**
+89,16460,*S%Awiecimski, Jerzy*,**,**
+89,16470,*Tomek, Teresa*,**,**
+89,16480,*C%Jejka, Jir%Ji%A*,**,**
+89,16481,*C%Jejkova, Ivana*,**,**
+89,16481,*Urbanec, Zdene%Jk*,**,**
+89,16481,*Strouhal, Eugen*,**,**
+89,16490,*Hannibal, Joseph T.*,*Hannibal, Joe*,**
+89,16500,*Sullivan, Robert M.*,**,**
+89,16510,*Keupp, Helmut*,**,*e*
+89,16511,*Kott, Ralf*,**,*e*
+89,16520,*Krebs, Bernard*,**,**
+89,16530,*Drescher, Ellen K.*,**,**
+89,16540,*Kohring, Rolf*,**,**
+89,16550,*Krusat, Georg*,**,**
+89,16560,*Mohr, Barbara A. R.*,**,**
+89,16570,*Schudack, Michael E.*,**,**
+89,16580,*Schudack, Michael E.*,*Schudack, Michael*,**
+89,16581,*Schudack, Ulla*,**,**
+89,16590,*Gruber, Gabriele*,**,**
+89,16600,*Molin, Vladimir Afanas'yevich*,**,*e*
+89,16601,*Kanev, G. P.*,**,*e*
+89,16610,*Kochev, Valeriy Aleksandrovich*,**,**
+89,16620,*Chermnykh, Vladimir Alekseyevich*,**,*e*
+89,16621,*Loseva, Emma Ivanovna*,**,*e*
+89,16630,*Kochev, Valeriy Aleksandrovich*,**,**
+89,16640,*Guslitser, Boris Isaakovich*,**,**
+89,16641,*Pavlov, P. Yu.*,**,**
+89,16641,*Panyukova, N. N.*,**,**
+89,16650,*Chermnykh, Vladimir Alekseyevich*,**,**
+89,16660,*Koch, Lutz*,**,**
+89,16670,*Biswas, Sukumar*,*Biswas, S.*,**
+89,16680,*And%Selkovic%A, Milodrag*,**,**
+89,16681,*And%Selkovic%A, Jelena S.*,**,**
+89,16690,*Pavlovic%A, Milorad Boz%Jidar*,**,**
+89,16700,*And%Selkovic%A, Jelena S.*,**,**
+89,16710,*Gebhardt, Ute*,**,**
+89,16720,*Kahlke, Ralf-Dietrich*,**,**
+89,16730,*Schneider, Jo%Frg*,**,**
+89,16740,*Walter, Harald*,**,**
+89,16741,*Werneburg, Ralf*,**,**
+89,16750,*Ga%Fngler, Peter*,**,**
+89,16751,*Metzler, Enrico*,**,**
+89,16760,*Barnes, Lawrence G.*,**,**
+89,16770,*Kidwell, Susan M.*,**,**
+89,16771,*Behrensmeyer, Anna K.*,**,**
+89,16780,*Turnbull, William D.*,**,**
+89,16781,*Martill, David M.*,**,**
+89,16790,*Badgley, Catherine*,**,**
+89,16791,*Gingerich, Philip D.*,**,**
+89,16800,*Hook, Robert W.*,**,**
+89,16801,*Ferm, John C.*,**,**
+89,16810,*Behrensmeyer, Anna K.*,**,**
+89,16820,*Fordyce, R. Ewan*,**,**
+89,16830,*Ruiz Bustos, Antonio*,**,**
+89,16840,*Graham, Russell W.*,**,**
+89,16841,*Hook, Robert W.*,**,**
+89,16841,*Prothero, Donald R.*,**,**
+89,16841,*Gauthier, Jacques A.*,**,**
+89,16850,*Hassan, Fekri A.*,**,**
+89,16860,*Hannibal, Joseph T.*,**,**
+89,16870,*Ferring, C. Reid*,**,**
+89,16880,*Graham, Russell W.*,**,**
+89,16881,*Gauthier, Jacques A.*,**,**
+89,16881,*Prothero, Donald R.*,**,**
+89,16881,*Schultze, Hans-Peter*,**,**
+89,16890,*Ginsburg, Robert N.*,**,**
+89,16891,*Burke, Kevin*,**,**
+89,16891,*Sharpton, Virgil*,**,**
+89,16900,*MacFadden, Bruce J.*,**,**
+89,16910,*Fisher, Louise J.*,**,**
+89,16920,*Bowlds, Larry S.*,**,**
+89,16930,*Bowlds, Larry S.*,**,**
+89,16940,*Hart, Earl W.*,**,**
+89,16950,*Kennedy, Michael P.*,**,**
+89,16951,*Peterson, Gary L.*,**,**
+89,16960,*Kennedy, Michael P.*,**,**
+89,16970,*Galloway, Alan J.*,**,**
+89,16980,*Paterson, Ian B.*,*Paterson, I. B.*,**
+89,16981,*Hall, Ian H. S.*,*Hall, I. H. S.*,**
+89,16990,*Werneburg, Ralf*,**,**
+89,17000,*Walter, Harald*,**,**
+89,17001,*Gaitzsch, Birgit*,**,**
+89,17010,*Ga%Fngler, Peter*,**,**
+89,17011,*Metzler, Enrico*,**,**
+89,17020,*Werneburg, Ralf*,**,**
+89,17030,*Schneider, Jo%Frg*,**,**
+89,17031,*Reichel, Wolfgang*,**,**
+89,17040,*Ga%Fngler, Peter*,**,**
+89,17041,*Metzler, Enrico*,**,**
+89,17050,*Karl, Haas-Volker*,**,**
+89,17060,*Lucas, Spencer G.*,**,*e*
+89,17061,*Hunt, Adrian P.*,**,*e*
+89,17070,*Hunt, Adrian P.*,**,**
+89,17071,*Lucas, Spencer G.*,**,**
+89,17080,*Kirby, Randy E.*,**,**
+89,17090,*Murry, Phillip A.*,**,**
+89,17091,*Long, Robert A.*,**,**
+89,17100,*Long, Robert A.*,**,**
+89,17101,*Lucas, Spencer G.*,**,**
+89,17101,*Hunt, Adrian P.*,**,**
+89,17101,*McCrea, Roderick T.*,**,**
+89,17110,*Hunt, Adrian P.*,**,**
+89,17111,*Lucas, Spencer G.*,**,**
+89,17120,*Murry, Phillip A.*,**,**
+89,17130,*Small, Bryan J.*,**,**
+89,17140,*Lucas, Spencer G.*,**,**
+89,17141,*Hunt, Adrian P.*,**,**
+89,17150,*Dubiel, Russell F.*,**,**
+89,17160,*Murry, Phillip A.*,**,**
+89,17170,*Davidow-Henry, Beth*,**,**
+89,17180,*Hunt, Adrian P.*,**,**
+89,17190,*Small, Bryan J.*,**,**
+89,17200,*Ballew, Karen L.*,**,**
+89,17210,*Hunt, Adrian P.*,**,**
+89,17211,*Lucas, Spencer G.*,**,**
+89,17220,*Hunt, Adrian P.*,**,**
+89,17230,*Hunt, Adrian P.*,**,**
+89,17240,*Parrish, J. Michael*,**,**
+89,17250,*Murry, Phillip A.*,**,**
+89,17260,*Padian, Kevin*,**,**
+89,17270,*Elder, Ruth L.*,*Elder, R. L.*,**
+89,17271,*Smith, Gerald R.*,*Smith, G. R.*,**
+89,17280,*Gore, Pamela J. W.*,**,**
+89,17290,*Wilson, Mark V. H.*,**,**
+89,17300,*Gray, Jane*,**,**
+89,17310,*Forste%An, Ann*,**,**
+89,17311,*Fortelius, Mikael*,**,**
+89,17311,*Werdelin, Lars*,**,**
+89,17320,*Anonymous*,**,**
+89,17330,*Wilson, Robert W.*,*Wilson, R. W.*,**
+89,17340,*Brunet, Michel*,**,**
+89,17341,*Jehenne, Yves*,**,**
+89,17341,*Behrensmeyer, Anna K.*,*Behrensmeyer, Kay*,**
+89,17341,*Martin, Lawrence*,**,**
+89,17341,*Congleton, John*,**,**
+89,17341,*Martin, Wendy*,**,**
+89,17341,*Coppens, Yves*,**,**
+89,17341,*Michard, Jean-Guy*,**,**
+89,17341,*Dejax, Jean*,**,**
+89,17341,*Mosser, Christine*,**,**
+89,17341,*Downs, William R.*,*Downs, Will*,**
+89,17341,*Mouchelin, Guy*,**,**
+89,17341,*Duperon-Laudoueneix, Monique*,**,**
+89,17341,*Ndjeng, Emmanuel*,**,**
+89,17341,*Eisenmann, Ve%Ara*,**,**
+89,17341,*Pilbeam, David*,**,**
+89,17341,*Ekodek, Georges*,**,**
+89,17341,*Salard-Cheboldaeff, Marguerite*,**,**
+89,17341,*Flanagan, Kathryn M.*,**,**
+89,17341,*S%Ben, S%Bevket*,**,**
+89,17341,*Flynn, Lawrence J.*,**,**
+89,17341,*Djallo, Soba*,**,**
+89,17341,*Heintz, Emile*,**,**
+89,17341,*Sudre, Jean*,**,**
+89,17341,*Hell, Joseph Victor*,**,**
+89,17341,*Wenz, Sylvie*,**,**
+89,17341,*Jacobs, Louis L.*,**,**
+89,17341,*Wing, Scott*,**,**
+89,17350,*Parris, David C.*,**,**
+89,17360,*Lannoo, Michael J.*,**,**
+89,17370,*Bjerring, Hans C.*,**,**
+89,17380,*Logache%Fv, Nikolay Alekseyevich*,**,*e*
+89,17381,*Zaytsev, Nikolay Sergeyevich*,**,*e*
+89,17381,*Luvsandanzan, Butochi*,**,*e*
+89,17381,*Krasheninnikov, Valeriy Arkad'yevich*,**,*e*
+89,17381,*Gerbova, Valentina Grigor'yevna*,**,*e*
+89,17381,*Timofeyev, Pe%Ftr Petrovich*,**,*e*
+89,17381,*Tomurtogoo, O.*,**,*e*
+89,17381,*Yanshin, Aleksandr Leonidovich*,**,*e*
+89,17390,*Devyatkin, Yevgeniy Viktorovich*,*Deviatkin, E. V.*,**
+89,17400,*Zazhigin, Vladimir Seme%Fnovich*,**,**
+89,17410,*Alekseyeva, Lyudmila Ivanovna*,**,**
+89,17420,*Kurs%Js, Visvaldis*,*Kurshs, Visvaldis Mikelevich*,**
+89,17430,*Nicorici, Eugen*,**,**
+89,17431,*Popovici, Nicolae*,**,**
+89,17440,*Ma%Rrunteanu, Mariana*,**,**
+89,17441,*Stancu, Josefina*,**,**
+89,17450,*Basu, Parimal Kumar*,*Basu, P. K.*,**
+89,17451,*Verma, B. C.*,**,**
+89,17451,*Gupta, S. S.*,**,**
+89,17460,*Biswas, Sukumar*,**,**
+89,17461,*Basu, Parimal Kumar*,**,**
+89,17461,*Sarkar, G. P.*,**,**
+89,17470,*Datta, P. M.*,**,**
+89,17471,*Ghosh, S. C.*,**,**
+89,17471,*Pal, A. K.*,**,**
+89,17480,*Patil, R. S.*,**,**
+89,17490,*Udhoji, S. G.*,**,**
+89,17500,*Sonakia, Arun*,**,**
+89,17501,*Sitaramaiah, V.*,**,**
+89,17510,*Mehra, S.*,**,**
+89,17511,*Arora, R. K.*,**,**
+89,17511,*Misra, V. P.*,**,**
+89,17520,*Verma, B. C.*,**,**
+89,17530,*Klassen, Michael*,**,**
+89,17531,*Ryan, Michael*,**,**
+89,17540,*Fox, Richard C.*,*Fox, R. C.*,**
+89,17550,*Eberth, David A.*,**,**
+89,17551,*Currie, Philip J.*,**,**
+89,17551,*Koster, Emlyn H.*,**,**
+89,17551,*Brinkman, Donald B.*,**,**
+89,17551,*Johnston, Paul A.*,**,**
+89,17551,*Braman, Dennis*,**,**
+89,17560,*Braman, Dennis*,**,**
+89,17561,*Eberth, David A.*,*Eberth, D.*,**
+89,17570,*Burns, James A.*,**,**
+89,17571,*Young, Robert R.*,**,**
+89,17580,*Dick, John R. F.*,**,**
+89,17590,*Lowney, Karen A.*,**,**
+89,17600,*Wood, Stanley P.*,*Wood, S. P.*,**
+89,17601,*Rolfe, W. D. Ian*,**,**
+89,17610,*Pollard, John E.*,**,**
+89,17620,*Forey, Peter L.*,*Forey, P. L.*,**
+89,17621,*Young, V. T.*,**,**
+89,17630,*Gardiner, Brian G.*,**,**
+89,17640,*Andrews, S. Mahala*,*Andrews, S. M.*,**
+89,17650,*Clarkson, Evan N. K.*,*Clarkson, E. N. K.*,**
+89,17660,*Trewin, Nigel H.*,**,**
+89,17670,*Rayner, Jeremy M. V.*,**,**
+89,17680,*Grady, Frederick*,**,**
+89,17690,*Richards, Ronald L.*,**,**
+89,17691,*Munson, Patrick J.*,**,**
+89,17700,*Holman, J. Alan*,**,**
+89,17701,*Grady, Frederick*,**,**
+89,17710,*Munson, Patrick J.*,**,**
+89,17720,*Wilson, Ronald C.*,**,**
+89,17721,*Guilday, John E.*,**,**
+89,17721,*Branstetter, John A.*,**,**
+89,17730,*Beck, Barry F.*,**,**
+89,17731,*Fram, Mitchell*,**,**
+89,17731,*Carvajal, Juan R.*,**,**
+89,17740,*Kopper, John S.*,**,**
+89,17741,*Young, Christopher*,**,**
+89,17750,*Rutherford, John M.*,**,**
+89,17751,*Handley, Robert H.*,**,**
+89,17760,*Hedges, James*,**,**
+89,17761,*Coufalik, Emil*,**,**
+89,17770,*Teaford, Mark F.*,**,**
+89,17780,*Kennedy, Kenneth A. R.*,**,**
+89,17790,*Weems, Robert E.*,*Weems, R. E.*,**
+89,17791,*Higgins, Brenda B.*,*Higgins, B. B.*,**
+89,17800,*Logan, Lloyd E.*,**,**
+89,17810,*de Lumley-Woodyear, Henry*,*de Lumley, Henry*,**
+89,17820,*Leroi-Gourhan, Andre%A*,**,**
+89,17821,*Bre%Azillon, Michel*,**,**
+89,17830,*David, Francine*,**,**
+89,17840,*Allain, Jacques*,**,*e*
+89,17850,*Poulain, The%Are%Cse*,**,**
+89,17860,*Sacchi, Dominique*,**,**
+89,17870,*Vialou, Denis*,**,**
+89,17880,*Vigne, Jean-Denis*,**,**
+89,17890,*Malez, Mirko*,**,**
+89,17900,*Anonymous*,**,**
+89,17910,*Anonymous*,**,**
+89,17920,*Malez, Mirko*,**,**
+89,17930,*Malez, Mirko*,**,**
+89,17940,*Malez, Mirko*,**,**
+89,17950,*Malez, Mirko*,**,**
+89,17960,*Kochansky-Devide%A, Vanda*,**,**
+89,17970,*Malez, Mirko*,**,**
+89,17980,*Malez, Mirko*,**,**
+89,17990,*Anonymous*,**,**
+89,18000,*Anonymous*,**,**
+89,18010,*Anonymous*,**,**
+89,18020,*C%Jec%Juk, Boz%Jidar*,**,**
+89,18030,*Kochansky-Devide%A, Vanda*,**,**
+89,18040,*Perea, Daniel*,**,**
+89,18041,*Ubilla, Marti%An*,**,**
+89,18041,*Marti%Anez, Sergio*,**,**
+89,18050,*Arcucci, Andrea B.*,**,**
+89,18060,*Mones, A%Alvaro*,**,**
+89,18070,*Barrio, Claudio*,**,**
+89,18071,*Carlini, Alfredo A.*,**,**
+89,18071,*Goin, Francisco J.*,**,**
+89,18080,*Soria, Miguel Fernando*,**,**
+89,18090,*Melementis, Vi%Actor A.*,**,**
+89,18100,*Beden, Michel*,**,**
+89,18110,*Chopra, Shiv Raj Kumar*,*Chopra, S. R. K.*,**
+89,18120,*Ghosh, Asok K.*,**,**
+89,18130,*Olson, Everett C.*,**,**
+89,18140,*Ripley, S. Dillon*,**,**
+89,18141,*Steed, James A.*,**,**
+89,18150,*Mazel, Aron D.*,**,**
+89,18160,*Mazel, Aron D.*,**,**
+89,18170,*Ziegler, Bernhard*,**,**
+89,18180,*Mukha, Boris Borisovich*,**,**
+89,18190,*Lucas, Spencer G.*,**,**
+89,18200,*Sastry, M. V. A.*,**,*e*
+89,18201,*Sastri, V. V.*,**,*e*
+89,18201,*Ramanujam, C. G. K.*,**,*e*
+89,18201,*Kapoor, Hari Mohan*,*Kapoor, H. M.*,*e*
+89,18201,*Rao, B. R. Jagannatha*,**,*e*
+89,18201,*Satsangi, P. P.*,**,*e*
+89,18201,*Mathur, U. B.*,**,*e*
+89,18210,*Gupta, Vishwa Jit*,*Gupta, V. J.*,**
+89,18220,*Datta, P. M.*,**,**
+89,18230,*Mitra, N. D.*,**,**
+89,18231,*Raja Rao, C. S.*,**,**
+89,18240,*Satsangi, P. P.*,**,**
+89,18250,*Chatterjee, Sankar*,*Chatterjee, S.*,**
+89,18251,*Jain, Sohan Lal*,*Jain, S. L.*,**
+89,18251,*Kutty, T. S.*,**,**
+89,18251,*Roychowdhury, T.*,**,**
+89,18260,*Yadagiri, P.*,**,**
+89,18261,*Ayyasami, K.*,**,**
+89,18270,*Sastry, M. V. A.*,**,*e*
+89,18271,*Sastri, V. V.*,**,*e*
+89,18271,*Ramanujam, C. G. K.*,**,*e*
+89,18271,*Kapoor, Hari Mohan*,**,*e*
+89,18271,*Rao, B. R. Jagannatha*,**,*e*
+89,18271,*Satsangi, P. P.*,**,*e*
+89,18271,*Mathur, U. B.*,**,*e*
+89,18280,*Sahni, Ashok*,*Sahni, A.*,**
+89,18290,*Prasad, K. Narayan*,*Prasad, K. N.*,**
+89,18300,*Tobien, Heinz*,**,**
+89,18310,*Mehrotra, Deepak Kumar*,*Mehrotra, D. K.*,**
+89,18320,*Garg, Ram Lal*,**,**
+89,18330,*Ranga Rao, A.*,**,**
+89,18340,*Srivastava, J. P.*,**,**
+89,18341,*Verma, S. N.*,**,**
+89,18341,*Joshi, V. K.*,**,**
+89,18341,*Verma, B. C.*,**,**
+89,18341,*Arora, R. K.*,**,**
+89,18350,*Tripathi, C.*,**,**
+89,18360,*Badam, Gyani Lal*,*Badam, G. L.*,**
+89,18370,*Suneja, I. J.*,**,**
+89,18371,*Chopra, Shiv Raj Kumar*,**,**
+89,18380,*Nanda, Avinash C.*,*Nanda, A. C.*,**
+89,18390,*Sastry, M. V. A.*,**,**
+89,18400,*Ostrom, John H.*,**,**
+89,18410,*Hickey, Leo J.*,**,**
+89,18420,*Ostrom, John H.*,**,**
+89,18430,*Anonymous*,**,**
+89,18440,*Wilson, John A.*,**,*e*
+89,18441,*Busbey, Arthur B., III*,**,*e*
+89,18441,*Lehman, Thomas M.*,**,*e*
+89,18441,*Langston, Wann, Jr.*,**,**
+89,18441,*Runkel, Anthony C.*,**,**
+89,18441,*Schiebout, Judith A.*,**,**
+89,18441,*Standhardt, Barbara R.*,**,**
+89,18441,*Stevens, Margaret S.*,**,**
+89,18441,*Stevens, James B.*,**,**
+89,18450,*Boucot, Arthur J.*,**,**
+89,18451,*McClure, Harold A.*,**,**
+89,18451,*A%Alvarez, Fernando*,**,**
+89,18451,*Ross, June R. P.*,**,**
+89,18451,*Taylor, Dwight W.*,**,**
+89,18451,*Struve, Wolfgang*,**,**
+89,18451,*Savage, Norman N.*,**,**
+89,18451,*Turner, Susan*,**,**
+89,18460,*Hulbert, Richard C., Jr.*,**,**
+89,18461,*Morgan, Gary S.*,**,**
+89,18470,*Colbert, Edwin H.*,**,**
+89,18480,*Hand, Suzanne J.*,*Hand, Suzanne*,*e*
+89,18481,*Archer, Michael*,**,*e*
+89,18490,*Archer, Michael*,**,**
+89,18491,*Hand, Suzanne J.*,**,**
+89,18500,*Willis, Paul*,**,**
+89,18501,*Muirhead, Jeanette*,**,**
+89,18510,*Ritchie, Alex*,**,**
+89,18520,*Ritchie, Alex*,**,**
+89,18530,*Ritchie, Alex*,**,**
+89,18540,*Kemp, Noel R.*,**,**
+89,18550,*Warren, Anne A.*,**,**
+89,18560,*Warren, Anne A.*,**,**
+89,18570,*Ritchie, Alex*,**,**
+89,18580,*Molnar, Ralph E.*,**,**
+89,18590,*Willis, Paul*,**,**
+89,18600,*Molnar, Ralph E.*,**,**
+89,18610,*Rich, Thomas H. V.*,*Rich, Tom*,**
+89,18620,*Ritchie, Alex*,**,**
+89,18630,*Thulborn, Richard A.*,*Thulborn, Tony*,**
+89,18640,*Rich, Patricia Vickers*,*Rich, Pat*,**
+89,18650,*Rich, Patricia Vickers*,*Rich, Pat*,**
+89,18660,*Thulborn, Richard A.*,**,**
+89,18670,*Flannery, Timothy F.*,*Flannery, Tim*,**
+89,18680,*Fordyce, R. Ewan*,**,**
+89,18690,*Archer, Michael*,**,**
+89,18700,*Hand, Suzanne J.*,**,**
+89,18710,*Hand, Suzanne J.*,**,**
+89,18720,*Hand, Suzanne J.*,**,**
+89,18730,*Flannery, Timothy F.*,**,**
+89,18740,*Archer, Michael*,**,**
+89,18750,*Archer, Michael*,**,**
+89,18760,*Flannery, Timothy F.*,**,**
+89,18770,*Archer, Michael*,**,**
+89,18780,*Archer, Michael*,**,**
+89,18790,*Archer, Michael*,**,**
+89,18791,*Hand, Suzanne J.*,**,**
+89,18800,*Godthelp, Henk*,*Godthelp, H.*,**
+89,18810,*Bhatt, D. K.*,**,**
+89,18820,*Gupta, B. D.*,**,*e*
+89,18821,*Mukherjee, A. N.*,**,*e*
+89,18830,*Nanda, Avinash C.*,*Nanda, A. C.*,**
+89,18840,*Tripathi, C.*,**,**
+89,18850,*Tripathi, C.*,**,**
+89,18851,*Chandra, P. R.*,**,**
+89,18860,*Sarma, T. S.*,**,*e*
+89,18861,*Rizvi, S. R. A.*,**,*e*
+89,18861,*Singh, B. K.*,**,*e*
+89,18870,*Roy, D. K.*,**,**
+89,18880,*Anonymous*,**,*e*
+89,18890,*Verma, K. K.*,**,**
+89,18900,*Tripathi, C.*,**,**
+89,18901,*Chandra, P. R.*,**,**
+89,18910,*Fermor, Lewis Leigh, Sir*,**,**
+89,18920,*Singh, Pushkar*,**,*e*
+89,18930,*Banerjee, Dilip Kumar*,**,*e*
+89,18931,*Ghosh, Ibha*,**,*e*
+89,18940,*Singh, Gurdev*,**,**
+89,18950,*Jaswal, I. J. S.*,**,**
+89,18960,*Gupta, Vishwa Jit*,**,*e*
+89,18970,*Suneja, I. J.*,**,**
+89,18971,*Kumar, Rohtash*,*Kumar, R.*,**
+89,18971,*Chopra, Shiv Raj Kumar*,*Chopra, S. R. K.*,**
+89,18980,*Martin, Larry D.*,**,**
+89,18981,*Rothschild, Bruce M.*,**,**
+89,18990,*Lindsay, Everett H.*,**,**
+89,18991,*Jacobs, Louis L.*,**,**
+89,19000,*Kobayashi, Teiichi*,**,**
+89,19010,*Ueno, Teruya*,*Uyeno, Teruya*,**
+89,19020,*Hashimoto, Wataru*,**,**
+89,19030,*Ueno, Teruya*,*Uyeno, Teruya*,**
+89,19040,*Minato, Masao*,**,**
+89,19050,*Nagao, Takumi*,**,**
+89,19060,*Petronijevic%A, Z%Jivadin M.*,*Petronijevic%A, Z%J.*,**
+89,19061,*Matejic%A, Boz%Jidar*,*Matejic%A, B.*,**
+89,19070,*Matejic%A, Boz%Jidar*,**,**
+89,19080,*Matejic%A, Boz%Jidar*,**,**
+89,19090,*Stevanovic%A, Petar M.*,*Stevanovic%A, P. M.*,**
+89,19100,*Matejic%A, Boz%Jidar*,*Matejic%A, B.*,**
+89,19101,*Pavlovic%A, Milorad Boz%Jidar*,*Pavlovic%A, M.*,**
+89,19110,*Pavlovic%A, Milorad Boz%Jidar*,**,**
+89,19111,*C%Aipovic%A, Vladimir*,**,**
+89,19120,*Stevanovic%A, Petar M.*,**,**
+89,19121,*Rakic%A, Milos%J O.*,**,**
+89,19130,*Krstic%A, Nadez%Jda*,**,**
+89,19131,*Novovic%A, Mileta*,**,**
+89,19131,*Koprivica, Dragan*,**,**
+89,19131,*Jovanovic%A, Radmilo*,**,**
+89,19140,*Pavlovic%A, Milorad Boz%Jidar*,**,**
+89,19150,*Prothero, Donald R.*,**,*e*
+89,19151,*Schoch, Robert M.*,**,*e*
+89,19160,*Hopson, James A.*,**,**
+89,19170,*Schoch, Robert M.*,**,**
+89,19180,*McKenna, Malcolm C.*,**,**
+89,19181,*Zhou Mingzhen*,*Chow Minchen*,**
+89,19181,*Ding Suyin*,*Ting Suyin*,**
+89,19181,*Luo Zhexi*,**,**
+89,19190,*Fischer, Martin S.*,**,**
+89,19200,*Rasmussen, D. Tab*,**,**
+89,19210,*Hooker, Jeremy J.*,**,**
+89,19220,*Franzen, Jens Lorenz*,**,**
+89,19230,*Evander, Robert L.*,**,**
+89,19240,*MacFadden, Bruce J.*,**,**
+89,19250,*Prothero, Donald R.*,**,**
+89,19251,*Shubin, Neil*,**,**
+89,19260,*Hulbert, Richard C., Jr.*,**,**
+89,19270,*Woodburne, Michael O.*,**,**
+89,19280,*Alberdi, Mari%Aa Teresa*,**,**
+89,19290,*Winans, Melissa C.*,**,**
+89,19300,*Schoch, Robert M.*,**,**
+89,19310,*Prothero, Donald R.*,**,**
+89,19311,*Gue%Arin, Claude*,**,**
+89,19311,*Manning, Earl*,**,**
+89,19320,*Wall, William P.*,**,**
+89,19330,*Heissig, Kurt*,**,**
+89,19340,*Lucas, Spencer G.*,**,**
+89,19341,*Sobus, Jay C.*,**,**
+89,19350,*Hanson, C. Bruce*,**,**
+89,19360,*Heissig, Kurt*,**,**
+89,19370,*Ginsburg, Le%Aonard*,**,**
+89,19371,*Heissig, Kurt*,**,**
+89,19380,*Lucas, Spencer G.*,**,**
+89,19381,*Schoch, Robert M.*,**,**
+89,19390,*Coombs, Margery C.*,**,**
+89,19400,*Mader, Bryn J.*,**,**
+89,19410,*Lucas, Spencer G.*,**,**
+89,19411,*Schoch, Robert M.*,**,**
+89,19420,*Lucas, Spencer G.*,**,**
+89,19421,*Schoch, Robert M.*,**,**
+89,19430,*Prothero, Donald R.*,**,**
+89,19431,*Schoch, Robert M.*,**,**
+89,19440,*Prothero, Donald R.*,**,**
+89,19441,*Schoch, Robert M.*,**,**
+89,19450,*Hoffman, Antoni*,**,*e*
+89,19451,*Nitecki, Matthew H.*,**,*e*
+89,19460,*Dzik, Jerzy*,**,**
+89,19470,*Gaudant, Jean*,**,**
+89,19480,*Kordos, La%Aszlo%A*,**,**
+89,19490,*Gillette, David D.*,**,*e*
+89,19491,*Lockley, Martin G.*,**,*e*
+89,19500,*Lockley, Martin G.*,**,**
+89,19501,*Gillette, David D.*,**,**
+89,19510,*Batory, R. Dana*,**,**
+89,19511,*Sarjeant, William A. S.*,**,**
+89,19520,*Delair, Justin B.*,**,**
+89,19530,*Steinbock, R. Ted*,**,**
+89,19540,*Farlow, James O.*,**,**
+89,19541,*Lockley, Martin G.*,**,**
+89,19550,*Thulborn, Richard A.*,**,**
+89,19560,*Thulborn, Richard A.*,**,**
+89,19561,*Wade, Mary*,**,**
+89,19570,*Kuban, Glen Jay*,**,**
+89,19580,*Wade, Mary*,**,**
+89,19590,*Ishigaki, Shinobu*,**,**
+89,19600,*Hirsch, Karl F.*,**,**
+89,19610,*Jain, Sohan Lal*,**,**
+89,19620,*Kurzanov, Sergey Mikhaylovich*,*Kurzanov, Sergei M.*,**
+89,19621,*Mikhaylov, Konstantin Yevgen'yevich*,**,**
+89,19630,*Mateer, Niall J.*,**,**
+89,19640,*Lockley, Martin G.*,**,**
+89,19641,*Conrad, Kelly*,**,**
+89,19650,*Pittman, Jeffrey G.*,**,**
+89,19660,*Prince, Nancy K.*,**,**
+89,19661,*Lockley, Martin G.*,**,**
+89,19670,*Leonardi, Giuseppe*,**,**
+89,19680,*Sahni, Ashok*,**,**
+89,19690,*Zhen Shounan*,**,**
+89,19691,*Li Jianjun*,**,**
+89,19691,*Rao Chenggang*,**,**
+89,19691,*Mateer, Niall J.*,**,**
+89,19691,*Lockley, Martin G.*,**,**
+89,19700,*Demathieu, Georges R.*,**,**
+89,19710,*Miller, Wade E.*,**,**
+89,19711,*Britt, Brooks B.*,**,**
+89,19711,*Stadtman, Kenneth L.*,**,**
+89,19720,*Lucas, Spencer G.*,**,**
+89,19721,*Hunt, Adrian P.*,**,**
+89,19721,*Kietzke, Kenneth K.*,**,**
+89,19730,*Alonso, Ricardo N.*,**,**
+89,19740,*Padian, Kevin*,**,**
+89,19741,*Olsen, Paul E.*,**,**
+89,19750,*Farlow, James O.*,**,**
+89,19760,*Parrish, J. Michael*,**,**
+89,19770,*Unwin, David M.*,**,**
+89,19780,*Hunt, Adrian P.*,**,*L*
+89,19781,*Lucas, Spencer G.*,**,**
+89,19781,*Kietzke, Kenneth K.*,**,**
+89,19790,*Grantham, Robert G.*,**,**
+89,19800,*Reynolds, Robert E.*,**,**
+89,19810,*Currie, Philip J.*,**,**
+89,19820,*Woodhams, Ken E.*,**,**
+89,19821,*Hines, John S.*,**,**
+89,19830,*Manabe, Makoto*,**,**
+89,19831,*Hasegawa, Yoshikazu*,**,**
+89,19831,*Azuma, Youichi*,**,**
+89,19840,*Pittman, Jeffrey G.*,**,**
+89,19841,*Gillette, David D.*,**,**
+89,19850,*Lim, Seong-Kyu*,**,**
+89,19851,*Yang, Seong-Young*,**,**
+89,19851,*Lockley, Martin G.*,**,**
+89,19860,*Gillette, David D.*,**,**
+89,19861,*Thomas, David A.*,**,**
+89,19870,*McAllister, James A.*,**,**
+89,19880,*Jacobs, Louis L.*,**,**
+89,19881,*Flanagan, Kathryn M.*,**,**
+89,19881,*Brunet, Michel*,**,**
+89,19881,*Flynn, Lawrence J.*,**,**
+89,19881,*Dejax, Jean*,**,**
+89,19881,*Hell, Joseph Victor*,**,**
+89,19890,*Parker, Lee R.*,**,**
+89,19891,*Balsley, John K.*,**,**
+89,19900,*Parker, Lee R.*,**,**
+89,19901,*Rowley, Robert L., Jr.*,**,**
+89,19910,*Sarjeant, William A. S.*,**,**
+89,19920,*Farlow, James O.*,**,**
+89,19921,*Pittman, Jeffrey G.*,**,**
+89,19921,*Hawthorne, J. Michael*,**,**
+89,19930,*Agnew, Neville*,**,**
+89,19931,*Griffin, Heather*,**,**
+89,19931,*Wade, Mary*,**,**
+89,19931,*Tebble, Terence*,**,**
+89,19931,*Oxnam, Warren*,**,**
+89,19940,*Matsukawa, Masaki*,**,**
+89,19941,*Obata, Ikuo*,**,**
+89,19950,*Obata, Ikuo*,**,**
+89,19951,*Maruo, Hiromi*,**,**
+89,19951,*Terakado, Hiroyuki*,**,**
+89,19951,*Murakami, Tsukumo*,**,**
+89,19951,*Tanaka, Toshinori*,**,**
+89,19951,*Matsukawa, Masaki*,**,**
+89,19960,*Conrad, Kelly*,**,**
+89,19970,*Maceo, Peggy J.*,**,**
+89,19971,*Riskind, David H.*,**,**
+89,19980,*Ishigaki, Shinobu*,**,**
+89,19981,*Fujisaki, Toshihide*,**,**
+89,19990,*Kuban, Glen Jay*,**,**
+89,20000,*Lockley, Martin G.*,**,**
+89,20010,*Stevanovic%A, Petar M.*,**,**
+89,20020,*Paul, Gregory S.*,**,**
+89,20030,*Feldmann, Rodney M.*,**,*e*
+89,20031,*Chapman, Ralph E.*,**,*e*
+89,20031,*Hannibal, Joseph T.*,**,**
+89,20040,*Yochelson, Ellis L.*,**,**
+89,20050,*Dutro, J. Thomas, Jr.*,**,**
+89,20060,*Feldmann, Rodney M.*,**,**
+89,20070,*Hannibal, Joseph T.*,**,**
+89,20080,*Wells, Neil A.*,**,**
+89,20090,*Sandy, Michael R.*,**,**
+89,20100,*Chapman, Ralph E.*,**,**
+89,20110,*Zangerl, Rainer*,**,**
+89,20111,*Schultze, Hans-Peter*,**,**
+89,20120,*Chaney, Dan S.*,**,**
+89,20130,*Sohl, Norman F.*,**,**
+89,20140,*Palmer, Allison R.*,**,**
+89,20150,*Pojeta, John, Jr.*,**,**
+89,20151,*Balanc, Marija*,**,**
+89,20160,*Pojeta, John, Jr.*,**,**
+89,20161,*Balanc, Marija*,**,**
+89,20170,*Hannibal, Joseph T.*,**,**
+89,20180,*Grant, Richard E.*,**,**
+89,20190,*Wolberg, Donald L.*,**,**
+89,20200,*Wolberg, Donald L.*,**,**
+89,20210,*Miller, Barry B.*,**,**
+89,20220,*Greenwald, Michael T.*,**,**
+89,20230,*Wilson, Mark A.*,**,**
+89,20240,*Chaney, Dan S.*,**,**
+89,20250,*Smith, Jenny A.*,*Smith, J.*,**
+89,20251,*Latimer, Bruce M.*,*Latimer, B.*,**
+89,20260,*Babcock, Loren E.*,**,**
+89,20270,*Smith, Jenny A.*,**,**
+89,20271,*Latimer, Bruce M.*,**,**
+89,20280,*Smith, Jenny A.*,**,**
+89,20281,*Latimer, Bruce M.*,**,**
+89,20290,*Feldmann, Rodney M.*,**,**
+89,20300,*Feldmann, Rodney M.*,**,**
+89,20310,*Feldmann, Rodney M.*,**,**
+89,20320,*Sweet, Walter C.*,**,**
+89,20330,*Feldmann, Rodney M.*,**,**
+89,20340,*Laskarev, Vladimir Dmitriyevich*,*Laskarev, V.*,**
+89,20350,*Pejovic%A, Desanka*,**,**
+89,20360,*Veselinovic%A-C%Juc%Julic%A, Milinka*,**,*u*
+89,20370,*Veselinovic%A-C%Juc%Julic%A, Milinka*,**,**
+89,20380,*Veljkovic%A-Zajec, Katarina*,**,**
+89,20390,*Tomic%A-Dz%Jodz%Jo, Radojka*,**,**
+89,20391,*Veljkovic%A-Zajec, Katarina*,**,**
+89,20400,*Tomic%A-Dz%Jodz%Jo, Radojka*,**,**
+89,20410,*Tomic%A-Dz%Jodz%Jo, Radojka*,**,**
+89,20420,*Obradovic%A, Sultana N.*,**,**
+89,20430,*Petronijevic%A, Z%Jivadin M.*,**,**
+89,20440,*Petronijevic%A, Z%Jivadin M.*,**,**
+89,20450,*Vujisic%A, Tugomir*,**,**
+89,20460,*Zimina, Rimma P.*,*Zimina, R. P.*,**
+89,20461,*Gerasimov, Innokentiy Petrovich*,**,**
+89,20470,*Markova, Anastasiya Konstantinovna*,**,**
+89,20480,*Velichko, Andrey Alekseyevich*,**,**
+89,20481,*Markova, Anastasiya Konstantinovna*,**,**
+89,20481,*Morozova, Tat'yana Dmitriyevna*,**,**
+89,20481,*Udartsev, V. P.*,**,**
+89,20490,*Markova, Anastasiya Konstantinovna*,**,**
+89,20500,*Spasov, Nikolay B.*,*Spassov, N. B.*,**
+89,20510,*Jain, K. C.*,**,*e*
+89,20511,*Banerjee, R. N.*,**,*e*
+89,20520,*Geological Survey of India, North E. Region*,**,**
+89,20530,*Tchernov, Eitan*,**,*e*
+89,20540,*Bar-Yosef, Ofer*,**,**
+89,20541,*Tchernov, Eitan*,**,**
+89,20550,*Tchernov, Eitan*,**,**
+89,20551,*Volokita, Michal*,**,**
+89,20560,*Ballesio, Roland*,**,**
+89,20570,*Geraads, Denis*,**,**
+89,20571,*Gue%Arin, Claude*,**,**
+89,20571,*Faure, Martine*,**,**
+89,20580,*Faure, Martine*,**,**
+89,20590,*Geraads, Denis*,**,**
+89,20600,*Gue%Arin, Claude*,**,**
+89,20610,*Eisenmann, Ve%Ara*,**,**
+89,20620,*Beden, Michel*,**,**
+89,20630,*Tchernov, Eitan*,**,**
+89,20640,*Tchernov, Eitan*,**,**
+89,20641,*Gue%Arin, Claude*,**,**
+89,20641,*Ballesio, Roland*,**,**
+89,20641,*Bar-Yosef, Ofer*,**,**
+89,20641,*Beden, Michel*,**,**
+89,20641,*Eisenmann, Ve%Ara*,**,**
+89,20641,*Faure, Martine*,**,**
+89,20641,*Geraads, Denis*,**,**
+89,20641,*Volokita, Michal*,**,**
+89,20650,*Tasna%Adi-Kubacska, Andra%As*,**,**
+89,20660,*Russell, Dale A.*,**,**
+89,20670,*Alexander, R. McNeill*,**,**
+89,20680,*Veevers, J. J.*,**,*e*
+89,20690,*Talent, John A.*,*Talent, J. A.*,**
+89,20700,*Holman, J. Alan*,**,**
+89,20701,*Abraczinskas, Laura M.*,**,**
+89,20701,*Westjohn, David B.*,**,**
+89,20710,*Wilson, Mark A.*,**,**
+89,20711,*Palmer, Timothy J.*,**,**
+

@@ -1,0 +1,47 @@
+<!--
+==========================================================
+					bfv_queries.html
+					  Nov 18.2015
+					     Yu Fu
+==========================================================
+bfv_queries.html is page includes the writing rules of our query
+-->
+<html>
+<body>
+<h1>BFV Queries</h1>
+
+<h2>Writing queries</h2>
+<p>Queries are simple text strings specifying values for one or more data fields. For example, the phrase taxon = 'Equidae' asks for all references containing information about the family Equidae --- that is, where there is a match between the taxon field and the value 'Equidae'. You must enclose the value in single quotes, but spacing doesn't much matter. You may string together several criteria using and and or, and you may use partial matching (described below). For example, the query taxon='Australopithecus' and taxon='boisei' and au != 'Wood' and date < '1988' retrieves all references for Australopithecus boisei where Wood was not an author and that were published before 1988.</p>
+<h3>Available search fields:</h3>
+<ul>
+	<li>au -- author (last name)</li>
+	<li>fn -- author (first name(s))</li>
+	<li>su -- subject</li>
+	<li>taxon</li>
+	<li>date</li>
+	<li>ti -- title</li>
+	<li>jn -- journal (abbreviated form)</li>
+	<li>trans -- (title translated into English, where available)</li>
+	<li>lang -- (text language, where specified other than English)</li>
+	<li>edvol -- (title of edited volume [monograph] in which articles are found)</li>
+	<li>ed -- editor of an edited volume</li>
+	<li>pub -- publisher</li>
+</ul>
+<h3>Relational operators:</h3>
+<p>= (equals), != (not equal to), > (greater than), < (less than), like (partial match). The like operator is best used in conjuction with the % symbol, which stands for one or more arbitrary characters. This is particularly useful in looking for terms embedded in titles, e.g., ti like '%plate tectonic%'. This would retrieve all articles with "plate tectonic" or "plate tectonics" anywhere in the title. To find all titles beginning with "Plate tectonics", you would use ti like 'Plate tectonic%'.</p>
+<I>Note:</I>
+<p>
+The server is case-sensitive with regard to taxa. Taxa other than species begin with upper-case letters, the rest of the words always in lower-case (i.e., use Tyrannosaurus, not tyrannosaurus or TYRANNOSAURUS). Subjects begin with an upper-case letter, but are lowercase thereafter (except for proper nouns). The available subjects are the headings in the published BFV's cross-reference indices, and include geographic regions, countries, time periods, and miscellaneous other descriptive information.
+</p>
+
+<I>Note also:</I>
+<p>
+Treatment of subjects is not consistent throughout all of the original BFV volumes, and the Romer volume was never indexed in any way. Thus the following points need to be kept in mind:
+<ul>
+
+<li><strong>North America, pre-1928 (Hay vols.)</strong>: Subject information was not tied to references in these volumes, but rather to fossil species (and sometimes genera or other higher taxa). It has proven impossible to recover meaningful subject headings for references from the Hay indexes, so no subject entries are available.</li>
+<li><strong>Outside North America, pre-1928 (Romer vol.)</strong>: There was originally no taxonomic index, but in the BFV Online genera and species mentioned in the titles of the roughly 40,000 references have been added to the general taxonomic index. Thus, searching on taxon will retrieve at least some of the relevant older literature outside of North America. There are also no subject entries for any of these references. In order to search these references for higher taxa or other content, the best that can be done is a series of title searches (using the like operator, see above).</li>
+<ul>
+</p>
+</body>
+</html>

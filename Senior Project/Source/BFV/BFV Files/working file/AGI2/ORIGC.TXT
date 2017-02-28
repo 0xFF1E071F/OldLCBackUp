@@ -1,0 +1,33 @@
+76,7024,*Studi e ricerche sui giacimenti terziari di Bolca*
+76,7798,*Chronostratigraphie und Neostratotypen*
+76,8456,*Katalog zbiorow geologicznych Instytutu Geologicznego; dzial paleontologiczno-stratygraficzny*
+76,11578,*Chronostratigraphie und Neostratotypen; Miozaen der Zentralen Paratethys*
+76,19264,*Geokhronologiya SSSR*
+76,19265,*Geokhronologiya SSSR*
+76,19278,*Geokhronologiya SSSR*
+76,19280,*Geokhronologiya SSSR*
+76,19282,*Geokhronologiya SSSR*
+76,19283,*Geokhronologiya SSSR*
+76,19298,*Geokhronologiya SSSR*
+77,10381,*Magdalenien-Fundplatz Goennersdorf*
+77,10385,*Handbuch der Palaeoherpetologie*
+77,28057,*Die Neue Brehm-Buecherei*
+78,1701,*Sovmestnaya Sovetsko-Mongol'skaya paleontologicheskaya ekspeditsiya, Trudy*
+78,7533,*Cahiers de paleontologie*
+78,35174,*Handbuch der Palaeoherpetologie--Encyclopedia of paleoherpetology*
+79,968,*Stratigrafiya SSSR*
+79,1794,*Stratigrafiya SSSR*
+79,27630,*Multiguide nature*
+79,27635,*Guide Marabout*
+80,6028,*Paleontologio*
+80,30564,*Izucheniye peshcher Kolkhidy*
+80,38662,*Chronostratigraphie und Neostratotypen; Miozaen der Zentralen Paratethys*
+80,42329,*Les stratotypes Francais*
+82,10424,*Chetvertichnyye oledeneniya severnogo polushariya*
+82,10430,*Chetvertichnyye oledeneniya severnogo polushariya*
+82,11695,*The history of paleontology*
+82,11700,*The history of paleontology*
+82,11703,*The history of paleontology*
+82,11708,*The history of paleontology*
+82,36034,*Etudes microstratigraphiques sur le Neogene de la Mediterranee nord-occidentale*
+

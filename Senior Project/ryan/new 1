@@ -1,0 +1,6 @@
+update ref set ti = replace (ref, 'o%E', 'õ') where ti like '%o%%E%';
+UPDATE ref set ti = REPLACE(ti,'o%E','õ') where ti LIKE '%o%E%';
+
+alter table ref modify ti longtes character set latin1;
+
+http://dev.w3.org/html5/html-author/charref

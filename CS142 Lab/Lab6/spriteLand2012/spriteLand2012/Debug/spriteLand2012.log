@@ -1,0 +1,24 @@
+﻿Build started 11/21/2013 4:15:44 PM.
+     1>Project "C:\Users\fu_y\Desktop\spriteLand2012\spriteLand2012\spriteLand2012.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\spriteland\include /I"C:\spriteland\Chipmunk-6.2.1\include\chipmunk" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FUC:\spriteland\spriteLib\Debug\spriteLib.dll /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib startup.cpp
+         startup.cpp
+     1>startup.cpp(145): warning C4101: 'b' : unreferenced local variable
+     1>startup.cpp(145): warning C4101: 'g' : unreferenced local variable
+     1>startup.cpp(145): warning C4101: 'r' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fu_y\Desktop\spriteLand2012\Debug\spriteLand2012.exe" /INCREMENTAL /NOLOGO C:\spriteland\nativeSprite\Debug\nativeSprite.lib "C:\spriteland\Chipmunk-6.2.1\msvc\vc12\chipmunk\Win32\Debug\chipmunk.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\fu_y\Desktop\spriteLand2012\Debug\spriteLand2012.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\SpriteLand.obj
+         Debug\SpriteWindow.obj
+         Debug\AssemblyInfo.obj
+         Debug\spriteLand2012.obj
+         Debug\startup.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>nativeSprite.lib(Sprite.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         spriteLand2012.vcxproj -> C:\Users\fu_y\Desktop\spriteLand2012\Debug\spriteLand2012.exe
+     1>Done Building Project "C:\Users\fu_y\Desktop\spriteLand2012\spriteLand2012\spriteLand2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.94

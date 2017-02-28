@@ -1,0 +1,5590 @@
+34,5,*Faunas--General*
+34,5,*Kansas*
+34,6,*Faunas--Quaternary*
+34,6,*mythical mammals, Europe*
+34,8,*Faunas--Jurassic*
+34,8,*supposed pterosaur trackway, Solnhofen*
+34,15,*Faunas--Tertiary*
+34,15,*mystacocetes, Belgium*
+34,19,*Faunas--Quaternary*
+34,19,*Paleolithic, Moravia*
+34,21,*Diluvial mammals, Moravia*
+34,21,*Faunas--Quaternary*
+34,26,*Faunas--Quaternary*
+34,26,*domestic mammals of Alpine man*
+34,28,*Faunas--Quaternary*
+34,28,*Neolithic Ovis, Europe*
+34,36,*Aceratherium, Europe*
+34,36,*Faunas--Oligocene*
+34,37,*Faunas--Quaternary*
+34,37,*pig ancestry*
+34,48,*Faunas--Quaternary*
+34,51,*Faunas -- Quaternary -- Cave Faunas*
+34,51,*Sinanthropus, occurrence*
+34,52,*Faunas -- Quaternary -- Cave Faunas*
+34,52,*mammals, Italy*
+34,53,*Faunas--Triassic*
+34,53,*reptiles, India*
+34,54,*Faunas--Quaternary*
+34,54,*man, Asia*
+34,55,*Faunas--Miocene*
+34,55,*ray, France*
+34,58,*Faunas--Quaternary*
+34,58,*mammals, Texas*
+34,60,*Faunas--Devonian*
+34,60,*fishes, Canada*
+34,61,*Faunas--Paleozoic*
+34,61,*fishes, Greenland*
+34,63,*Faunas--Permian*
+34,63,*fishes, Greenland*
+34,64,*Faunas--Pliocene*
+34,64,*Faunas--Tertiary*
+34,66,*Faunas--Oligocene*
+34,69,*Faunas--Quaternary*
+34,69,*bovid, France*
+34,70,*Faunas--Miocene*
+34,72,*Faunas--Quaternary*
+34,72,*Geocapromys, Bahamas*
+34,78,*Faunas--Tertiary*
+34,95,*Faunas--Quaternary*
+34,95,*manhunting*
+34,101,*Faunas--Mesozoic*
+34,101,*ichthyosaurs, general*
+34,104,*Australia*
+34,104,*Faunas--Triassic*
+34,107,*Faunas--Quaternary*
+34,107,*marsupials, New Guinea*
+34,108,*Faunas--Quaternary*
+34,108,*marsupials, New Guinea; crocodile and ratite, Australia*
+34,109,*Cuddie Springs, New South Wales*
+34,109,*Faunas--Quaternary*
+34,111,*Faunas--Quaternary*
+34,111,*mastodon, Illinois*
+34,115,*Faunas--Cretaceous*
+34,115,*fishes, Germany*
+34,117,*Faunas--Quaternary*
+34,118,*Faunas--Quaternary*
+34,118,*musk oxen, diluvial, Germany*
+34,126,*Faunas--Miocene*
+34,126,*mammals, Russia*
+34,126,*Faunas--Miocene*
+34,127,*Faunas--Quaternary*
+34,129,*Faunas--Quaternary*
+34,129,*man*
+34,130,*Faunas -- Quaternary -- Cave Faunas*
+34,131,*Faunas--Quaternary*
+34,132,*Faunas--Quaternary*
+34,133,*Faunas--Quaternary*
+34,133,*Jervois skull*
+34,134,*Faunas--Tertiary*
+34,134,*whale, N. Russia*
+34,135,*Faunas -- Quaternary -- Cave Faunas*
+34,138,*Faunas--Quaternary*
+34,138,*Rhinoceros, Carpathians*
+34,139,*Faunas -- Quaternary -- Cave Faunas*
+34,140,*Faunas--Quaternary*
+34,140,*man, Algeria*
+34,140,*Faunas--Quaternary*
+34,141,*Faunas--Quaternary*
+34,141,*Faunas -- Quaternary -- Cave Faunas*
+34,142,*? man*
+34,142,*Faunas--Tertiary*
+34,143,*Faunas--Quaternary*
+34,143,*man, new find*
+34,144,*Asselar man*
+34,144,*Faunas--Quaternary*
+34,145,*Faunas--Quaternary*
+34,145,*man, S. Africa*
+34,146,*Faunas -- Quaternary -- Cave Faunas*
+34,147,*Faunas -- Quaternary -- Cave Faunas*
+34,149,*Faunas -- Quaternary -- Cave Faunas*
+34,150,*Faunas--Quaternary*
+34,150,*man, Java*
+34,151,*Faunas--Quaternary*
+34,151,*man, Nevada*
+34,152,*Faunas--Cretaceous*
+34,152,*plesiosaur*
+34,153,*Diplodocus*
+34,153,*Faunas--Cretaceous*
+34,157,*Faunas--Quaternary*
+34,158,*Faunas--Quaternary*
+34,160,*Faunas--Quaternary*
+34,161,*Faunas--Quaternary*
+34,167,*Faunas--Cretaceous*
+34,167,*Purbeck and Wealden, England, popular*
+34,170,*Faunas--Quaternary*
+34,170,*Struthiolithus, N. China*
+34,174,*Faunas--Quaternary*
+34,174,*man, antiquity in N. America*
+34,175,*Faunas--Mesozoic and Cenozoic*
+34,175,*S. Dakota, popular*
+34,177,*Faunas--Cenozoic*
+34,177,*mastodon, elephant, New Mexico*
+34,185,*Faunas--Tertiary*
+34,185,*amblypod, Colorado*
+34,188,*Faunas--Quaternary*
+34,188,*man, associated mammals, Ukraine*
+34,191,*Elephas, Illinois*
+34,191,*Faunas--Quaternary*
+34,200,*Faunas--Cretaceous*
+34,200,*mosasaurs, Manitoba*
+34,203,*Faunas -- Quaternary -- Cave Faunas*
+34,203,*mammals, man, Kent's cavern*
+34,210,*Faunas--Devonian*
+34,210,*Old Red, Orkneys*
+34,213,*Faunas--Quaternary*
+34,213,*horse, mammoth, California*
+34,214,*Faunas--Quaternary*
+34,214,*fishes, Black Sea*
+34,221,*Faunas--Triassic*
+34,221,*dinosaur tracks, Pennsylvania*
+34,227,*Faunas--Cretaceous*
+34,227,*plesiosaur, South Dakota*
+34,228,*Faunas--Permian*
+34,228,*reptile eggs, Texas*
+34,232,*Faunas--Triassic*
+34,232,*Rhaetic mammals*
+34,233,*Faunas--Quaternary*
+34,236,*Faunas--Permian*
+34,236,*reptiles, Ruhuhu*
+34,237,*Faunas--Quaternary*
+34,237,*man, Palestine*
+34,240,*Faunas--Jurassic*
+34,240,*sauropods, Montana*
+34,246,*Faunas--Quaternary*
+34,246,*mammoth, England, popular*
+34,251,*Faunas--Quaternary*
+34,251,*man, California*
+34,254,*Faunas--Quaternary*
+34,254,*mammals, Illinois*
+34,264,*Faunas--Pliocene*
+34,264,*giant tortoises, popular*
+34,270,*Faunas -- Quaternary -- Cave Faunas*
+34,270,*research, Gt. Britain*
+34,280,*Faunas--Quaternary*
+34,280,*mastodon graveyard*
+34,281,*Cecilie mine, Germany*
+34,281,*Faunas--Eocene*
+34,282,*Faunas--Miocene*
+34,282,*whale, California*
+34,284,*Faunas--Quaternary*
+34,284,*peccary, Missouri*
+34,286,*Desmostylus, Sakhalin, popular*
+34,286,*Faunas--Tertiary*
+34,287,*Faunas--Quaternary*
+34,287,*mammals, chiefly elephants, Oklahoma*
+34,299,*Faunas--Pliocene*
+34,299,*discovery in Africa*
+34,304,*Faunas--Quaternary*
+34,304,*elephant with dart point, Texas*
+34,319,*Faunas--Cenozoic*
+34,319,*elephant, Big Bend National Park, Texas*
+34,321,*Faunas--Cretaceous*
+34,321,*Montana, popular*
+34,322,*Faunas--Cenozoic*
+34,322,*Washington, popular*
+34,338,*Faunas--Quaternary*
+34,338,*man, associated mammals, Moravia*
+34,340,*Faunas -- Quaternary -- Cave Faunas*
+34,340,*anthropoid, S. Africa*
+34,345,*Faunas--Quaternary*
+34,345,*Malta*
+34,346,*Faunas -- Quaternary -- Cave Faunas*
+34,347,*Faunas -- Quaternary -- Cave Faunas*
+34,351,*Faunas--Tertiary*
+34,351,*chalicothere, Mongolia*
+34,354,*Faunas--Quaternary*
+34,354,*man, England*
+34,355,*Faunas--Cretaceous*
+34,355,*deepwater fish, Texas*
+34,357,*Faunas--Oligocene*
+34,357,*rhinoceroses, U. S., popular*
+34,364,*Faunas--Permian*
+34,368,*Faunas--Permian*
+34,368,*tetrapods, Russia*
+34,374,*Faunas--Eocene*
+34,374,*fishes, reptiles, England*
+34,377,*Faunas--Quaternary*
+34,377,*man, associated musk ox, Illinois*
+34,378,*Faunas--Quaternary*
+34,378,*Pithecanthropus, new find*
+34,385,*Faunas--Cretaceous*
+34,385,*eastern U. S.*
+34,389,*Faunas--Cenozoic*
+34,389,*mastodon, Oregon*
+34,398,*Faunas--Quaternary*
+34,398,*man, associated bone artifacts, Japan*
+34,411,*Faunas--Cretaceous*
+34,411,*iguanodont trackway, Wyoming*
+34,415,*Faunas--Quaternary*
+34,415,*mammals, S. Carolina*
+34,416,*Faunas--Cretaceous*
+34,416,*dinosaur tracks, Pennsylvania*
+34,417,*Aral Sea region, tetrapods*
+34,417,*Faunas--Mesozoic*
+34,431,*Elephas, France*
+34,431,*Faunas--Cenozoic*
+34,432,*Faunas -- Quaternary -- Cave Faunas*
+34,432,*man and associated fauna, Oregon*
+34,435,*Faunas -- Quaternary -- Cave Faunas*
+34,437,*Faunas--General*
+34,437,*Java, especially Pleistocene mammals*
+34,471,*Faunas--Carboniferous*
+34,471,*foot prints, Kentucky*
+34,474,*Faunas--Quaternary*
+34,474,*mammoth, popular*
+34,478,*Faunas--Eocene*
+34,478,*red blood corpuscles, Geiseltal Braunkohle, Germany*
+34,479,*Faunas -- Quaternary -- Cave Faunas*
+34,479,*Sinanthropus*
+34,481,*Faunas -- Quaternary -- Cave Faunas*
+34,481,*Maryland*
+34,484,*Faunas--Quaternary*
+34,485,*Faunas--Quaternary*
+34,485,*artifacts with mammals, New Mexico*
+34,486,*Faunas--Quaternary*
+34,487,*Faunas--Quaternary*
+34,489,*Faunas--Quaternary*
+34,490,*Faunas--Quaternary*
+34,491,*Faunas--Quaternary*
+34,492,*Faunas--Quaternary*
+34,492,*man, N. America*
+34,509,*Faunas--Quaternary*
+34,509,*mammals and associated artifacts, Morocco*
+34,513,*Faunas--Quaternary*
+34,513,*rock pictures, S. Africa*
+34,517,*Faunas--Miocene*
+34,518,*Faunas--Miocene*
+34,518,*mammals, E. Africa*
+34,519,*Faunas--Miocene*
+34,519,*fishes, mammals, Abyssinia*
+34,520,*Faunas--Cenozoic*
+34,521,*Crocodilus, Morocco*
+34,521,*Faunas--Eocene*
+34,522,*Faunas--Quaternary*
+34,522,*fishes, reptiles, Africa*
+34,523,*Dinotherium, Abyssinia*
+34,523,*Faunas--Cenozoic*
+34,524,*Faunas--Jurassic*
+34,525,*Faunas -- Quaternary -- Cave Faunas*
+34,525,*mammals, Algeria*
+34,527,*Central Africa, stratigraphic*
+34,527,*Faunas--Cenozoic*
+34,528,*Faunas--Jurassic*
+34,528,*fishes, France*
+34,529,*Faunas--Mesozoic and Tertiary*
+34,529,*fishes, reptiles, Morocco*
+34,531,*Faunas--Mesozoic and Tertiary*
+34,531,*fishes, Morocco, stratigraphic*
+34,534,*Faunas -- Quaternary -- Cave Faunas*
+34,536,*Faunas -- Quaternary -- Cave Faunas*
+34,536,*mammals, N. Africa*
+34,537,*Faunas--Cretaceous*
+34,537,*fishes, N. Africa*
+34,537,*Faunas--Cretaceous*
+34,538,*Faunas -- Quaternary -- Cave Faunas*
+34,538,*mammals, Spain*
+34,541,*Faunas--Cretaceous*
+34,542,*Cricetidae, Russia*
+34,542,*Faunas--Tertiary*
+34,547,*Derbyshire caves, England*
+34,547,*Faunas -- Quaternary -- Cave Faunas*
+34,548,*Faunas--Quaternary*
+34,548,*Paleolithic man, England*
+34,549,*Faunas -- Quaternary -- Cave Faunas*
+34,549,*mammals, England*
+34,550,*Faunas--Devonian*
+34,550,*fishes, Russia*
+34,562,*Faunas--Devonian*
+34,562,*fishes, Belgium*
+34,563,*Faunas--Devonian*
+34,563,*fishes, Belgium*
+34,564,*Faunas--Eocene*
+34,564,*suid, France*
+34,565,*Bunobrachyodus, France*
+34,565,*Faunas--Oligocene*
+34,566,*Faunas--Quaternary*
+34,567,*Faunas--Tertiary*
+34,567,*crocodiles, France*
+34,568,*Faunas--Quaternary*
+34,568,*Lepus variabilis, Pyrenees*
+34,569,*Faunas--Quaternary*
+34,569,*mammals, France*
+34,570,*Faunas -- Quaternary -- Cave Faunas*
+34,570,*mammals, France*
+34,571,*Faunas--Miocene*
+34,571,*mammals, crocodile, France*
+34,572,*Faunas--Miocene*
+34,572,*mammals, Mesopotamia*
+34,573,*Elephas France*
+34,573,*Faunas--Cenozoic*
+34,574,*Faunas--Quaternary*
+34,574,*bovids, Pyrenees*
+34,575,*Faunas--Quaternary*
+34,575,*bovids, France*
+34,576,*Faunas -- Quaternary -- Cave Faunas*
+34,576,*spermophile fauna, Pyrenees*
+34,577,*Faunas--Quaternary*
+34,577,*musk ox, Germany*
+34,578,*Faunas--Quaternary*
+34,579,*Cervus, France*
+34,579,*Faunas--Quaternary*
+34,583,*Faunas--Paleozoic and Mesozoic*
+34,583,*reptiles, S. Africa*
+34,585,*Faunas--Permian*
+34,586,*Faunas--Permian*
+34,587,*Discosaurus, Moravia*
+34,587,*Faunas--Permian*
+34,588,*Faunas--Permian*
+34,588,*stegocephalian coprolite, Moravia*
+34,589,*Faunas--Permian*
+34,590,*Faunas--Permian*
+34,591,*Faunas--Permian*
+34,592,*Faunas--Permian*
+34,593,*Faunas--Permian*
+34,594,*Faunas--Permian*
+34,595,*Faunas--Permian*
+34,595,*stegocephalians, coprolites, Moravia*
+34,596,*Dinotherium, Bohemia*
+34,596,*Faunas--Miocene*
+34,597,*Faunas--Permian*
+34,597,*stegocephalians, Bohemia*
+34,598,*Branchiosaurus, Bohemia*
+34,598,*Faunas--Permian*
+34,601,*Faunas--Cretaceous*
+34,601,*fish, Bohemia*
+34,603,*Faunas--Quaternary*
+34,603,*origin*
+34,613,*Faunas -- Quaternary -- Cave Faunas*
+34,613,*mammals, Texas*
+34,616,*Faunas--Quaternary*
+34,616,*man, Finland*
+34,617,*Bos, Germany*
+34,617,*Faunas--Quaternary*
+34,618,*Canis, Germany*
+34,618,*Faunas--Quaternary*
+34,619,*Faunas--Quaternary*
+34,619,*mammals, Germany*
+34,621,*Faunas--Eocene*
+34,621,*feathers, Geiseltal Braunkohle*
+34,623,*Faunas--Quaternary*
+34,623,*mammals, England*
+34,624,*Faunas--Quaternary*
+34,624,*fishes, birds, mammals, Outer Hebrides*
+34,632,*Faunas--Quaternary*
+34,632,*mammals, California*
+34,635,*Faunas--Tertiary*
+34,635,*Kasakstan*
+34,636,*Faunas--Miocene*
+34,637,*Faunas--Miocene*
+34,638,*Faunas--Miocene*
+34,638,*Hipparion fauna, Bulgaria*
+34,639,*Faunas--Pliocene*
+34,640,*Faunas--Pliocene*
+34,640,*Mastodon, Bulgaria*
+34,641,*Faunas--Jurassic*
+34,641,*Faunas--Permian*
+34,641,*reptiles, Utah, stratigraphic*
+34,641,*southwestern U. S.*
+34,644,*Faunas--Tertiary*
+34,644,*mammals, Texas*
+34,646,*Elephas, Illinois*
+34,646,*Faunas--Quaternary*
+34,649,*Faunas--Jurassic*
+34,650,*Faunas--Jurassic*
+34,650,*dinosaur footprints, Queensland*
+34,651,*Faunas--Quaternary*
+34,651,*mammals, France*
+34,652,*Faunas -- Quaternary -- Cave Faunas*
+34,652,*cave bear, Rumania*
+34,653,*Faunas--Tertiary*
+34,653,*archaeocete, British Columbia*
+34,657,*Faunas--Cenozoic*
+34,657,*mammals, California*
+34,663,*Faunas--Quaternary*
+34,663,*Faunas--Tertiary*
+34,663,*Mastodon, Nebraska*
+34,663,*artiodactyls, Nebraska*
+34,664,*Faunas--Quaternary*
+34,664,*Faunas--Quaternary*
+34,664,*Symbos, Nebraska*
+34,664,*Titanotylopus, Nebraska*
+34,667,*Faunas--Cenozoic*
+34,667,*mammals, Nebraska*
+34,670,*Faunas--Miocene*
+34,670,*Faunas--Pliocene*
+34,670,*Gnathabelodon, Kansas*
+34,670,*Mesocyon, Nebraska*
+34,671,*Faunas--Quaternary*
+34,671,*chiefly mammals, Nebraska*
+34,672,*Faunas--Quaternary*
+34,672,*man, mammals, Nebraska*
+34,673,*Faunas--Quaternary*
+34,673,*early Pleistocene, Nebraska*
+34,674,*Faunas--Quaternary*
+34,674,*mammals, Nebraska*
+34,686,*Faunas--Miocene*
+34,686,*turtle, Spain*
+34,687,*Faunas--Miocene*
+34,687,*Palaeotherium, Spain*
+34,691,*Faunas--Quaternary*
+34,695,*Faunas--Tertiary*
+34,695,*shark teeth, Hungary*
+34,697,*Faunas--Quaternary*
+34,697,*man, Hungary*
+34,698,*Faunas--Pliocene*
+34,699,*Faunas--Miocene*
+34,699,*Siphonocetus, Maryland*
+34,711,*Faunas--Quaternary*
+34,711,*Pleistocene, Ardennes, France*
+34,712,*Elephas, France*
+34,712,*Faunas--Quaternary*
+34,714,*Faunas -- Quaternary -- Cave Faunas*
+34,714,*wart hogs, Palestine, Africa*
+34,715,*Faunas -- Quaternary -- Cave Faunas*
+34,715,*reptiles, Palestine*
+34,716,*Faunas--Quaternary*
+34,716,*mustelid, Sardinia*
+34,717,*Faunas -- Quaternary -- Cave Faunas*
+34,717,*mammals, Malta*
+34,718,*Faunas--Quaternary*
+34,718,*mammals, England*
+34,719,*Faunas -- Quaternary -- Cave Faunas*
+34,719,*mammals, Palestine*
+34,720,*Crocidura, Palestine*
+34,720,*Faunas -- Quaternary -- Cave Faunas*
+34,721,*Faunas--Quaternary*
+34,722,*Faunas--Quaternary*
+34,722,*rock engraving, two-headed ovid, Africa*
+34,723,*Bos, France*
+34,723,*Faunas--Quaternary*
+34,725,*Faunas--Quaternary*
+34,725,*man, France*
+34,730,*Faunas--Paleozoic*
+34,730,*coprolites, Acrolepis, Bohemia*
+34,731,*Faunas--Carboniferous*
+34,731,*Palaeoxyris, Bohemia*
+34,738,*Faunas--Cenozoic*
+34,738,*fishes, Central Celebes*
+34,741,*Faunas--Cenozoic*
+34,742,*Faunas--Cenozoic*
+34,746,*Faunas--Cenozoic*
+34,748,*Faunas--Cenozoic*
+34,748,*Washington*
+34,750,*Faunas--Quaternary*
+34,752,*Bermuda cahow*
+34,752,*Faunas--Quaternary*
+34,761,*Faunas--Eocene*
+34,761,*fishes, Angola*
+34,763,*Faunas--Quaternary*
+34,764,*Faunas--Quaternary*
+34,764,*mammals, Russia*
+34,766,*Faunas--Quaternary*
+34,767,*Faunas--Quaternary*
+34,767,*mammals, N. Caucasus*
+34,768,*Faunas--Quaternary*
+34,768,*mammals, B. Gergiz river basin*
+34,769,*Faunas--Quaternary*
+34,769,*mammals, W. Siberia*
+34,770,*Elephas, Russia*
+34,770,*Faunas--Quaternary*
+34,771,*Faunas--Tertiary*
+34,771,*NW. Mongolia*
+34,775,*Faunas--Quaternary*
+34,775,*antiquity of man, N. America*
+34,781,*Emeus, New Zealand*
+34,781,*Faunas--Quaternary*
+34,782,*"reptile," New Zealand*
+34,782,*Faunas--Tertiary*
+34,783,*Faunas--Oligocene*
+34,783,*Microcetus, New Zealand*
+34,784,*Faunas--Oligocene*
+34,784,*zeuglodont, New Zealand*
+34,785,*Faunas--Oligocene*
+34,786,*Faunas--Oligocene*
+34,786,*cetacean, New Zealand*
+34,788,*Cervus, Germany*
+34,788,*Faunas--Quaternary*
+34,790,*Faunas--Cenozoic*
+34,790,*mammals, Spain*
+34,797,*Faunas -- Quaternary -- Cave Faunas*
+34,797,*mammals, Germany*
+34,799,*Faunas--Quaternary*
+34,800,*Faunas -- Quaternary -- Cave Faunas*
+34,800,*birds, mammals, Germany*
+34,801,*Faunas--Quaternary*
+34,802,*Faunas--Quaternary*
+34,803,*Faunas--Quaternary*
+34,803,*Steinheim man, associated mammals*
+34,804,*Faunas--Quaternary*
+34,804,*Steinheim man and the "Cannstatt race"*
+34,806,*Faunas--Quaternary*
+34,806,*mammals, Untertu%Frkheim*
+34,808,*Faunas--Quaternary*
+34,811,*Faunas--Quaternary*
+34,811,*Steinheim man*
+34,814,*Faunas -- Quaternary -- Cave Faunas*
+34,814,*Irpfel cave, Germany*
+34,816,*Faunas--Miocene*
+34,816,*fish, Balkans*
+34,817,*Faunas--Oligocene*
+34,817,*fish, Bulgaria*
+34,818,*Faunas--Pliocene*
+34,818,*fish, Bulgaria*
+34,821,*Faunas--Triassic*
+34,822,*"acanthopterygian," Illinois*
+34,822,*Faunas--Carboniferous*
+34,823,*Faunas--Jurassic*
+34,823,*Palaeoniscinotus, Siberia*
+34,832,*Faunas--Quaternary*
+34,835,*Archidiskodon tusk*
+34,835,*Faunas--Quaternary*
+34,844,*Faunas--General*
+34,845,*Faunas--General*
+34,845,*pleurodires*
+34,846,*Faunas--General*
+34,846,*turtles, Italy*
+34,847,*Faunas--General*
+34,847,*turtles, Europe*
+34,848,*Faunas--Mesozoic and Tertiary*
+34,848,*turtles, France*
+34,849,*Faunas--Tertiary*
+34,850,*Faunas--Tertiary*
+34,850,*turtles, chiefly France*
+34,852,*Faunas--Oligocene*
+34,852,*turtle, France*
+34,853,*Faunas--Cretaceous*
+34,853,*Thalassochelys, France*
+34,854,*Faunas--Jurassic*
+34,854,*turtles, France*
+34,855,*Faunas--Tertiary*
+34,855,*turtles, France and Spain*
+34,856,*Faunas--Permian*
+34,857,*Archaeochelys, France*
+34,857,*Faunas--Permian*
+34,858,*Faunas--Tertiary*
+34,858,*turtles, Spain*
+34,860,*Cervus, Scandinavia*
+34,860,*Faunas--Quaternary*
+34,863,*Faunas--Permian*
+34,863,*recent finds in Holland*
+34,864,*Faunas -- Quaternary -- Cave Faunas*
+34,864,*man, S. Africa*
+34,866,*Faunas--Miocene*
+34,866,*turtle, Virginia*
+34,867,*Faunas--Miocene*
+34,867,*Tomarctos, Maryland*
+34,868,*Faunas--Miocene*
+34,868,*turtle, Virginia*
+34,870,*Faunas--Miocene*
+34,870,*Patagonia*
+34,871,*Faunas--Quaternary*
+34,871,*man, S. Africa*
+34,872,*Faunas--Cenozoic*
+34,872,*Switzerland, stratigraphic*
+34,874,*Faunas--Quaternary*
+34,874,*mammals, N. Africa*
+34,876,*Diatryma, France*
+34,876,*Faunas--Tertiary*
+34,877,*Faunas--Quaternary*
+34,877,*elephant, N. Africa*
+34,878,*Faunas--Triassic*
+34,878,*fishes, S. Africa, stratigraphic*
+34,880,*Faunas--Eocene*
+34,880,*Geiseltal Braunkohle, summary of research*
+34,895,*Faunas--Devonian*
+34,895,*fishes, Latvia*
+34,896,*Faunas--Quaternary*
+34,896,*fish, amphibia, reptiles, Choukoutien*
+34,897,*Faunas--Cenozoic*
+34,897,*fishes and mammals, China, stratigraphic*
+34,898,*Faunas--Quaternary*
+34,898,*turtles, China*
+34,900,*Faunas -- Quaternary -- Cave Faunas*
+34,900,*Gulo, Bavaria*
+34,901,*Faunas -- Quaternary -- Cave Faunas*
+34,901,*mammals, S. England, stratigraphic*
+34,903,*Faunas--Quaternary*
+34,904,*Faunas--Quaternary*
+34,904,*mammals, Isles of Jersey, Aurigny*
+34,905,*Faunas--Miocene*
+34,905,*mammals, France*
+34,906,*Faunas -- Quaternary -- Cave Faunas*
+34,906,*chiefly mammals, Mousterian, Isle of Jersey*
+34,907,*Faunas--Jurassic*
+34,907,*plesiosaurs, France*
+34,908,*Faunas--Miocene*
+34,908,*mammals, Pontian of Iraq*
+34,909,*Faunas -- Quaternary -- Cave Faunas*
+34,909,*horse, sloth, associated artifacts, Patagonia*
+34,910,*Faunas--Quaternary*
+34,910,*mammals, man, Patagonia*
+34,911,*Faunas -- Quaternary -- Cave Faunas*
+34,911,*horse, sloth, associated artifacts, Patagonia*
+34,912,*Faunas--Quaternary*
+34,912,*man, Europe*
+34,913,*Faunas--Quaternary*
+34,913,*man, Palestine*
+34,914,*Faunas--Quaternary*
+34,914,*Switzerland*
+34,917,*Faunas -- Quaternary -- Cave Faunas*
+34,917,*man, Choukoutien*
+34,918,*Faunas -- Quaternary -- Cave Faunas*
+34,918,*Sinanthropus, geologic age*
+34,919,*Faunas -- Quaternary -- Cave Faunas*
+34,919,*Primates, other mammals, Choukoutien*
+34,920,*Faunas -- Quaternary -- Cave Faunas*
+34,920,*Sinanthropus, associated mammals, Choukoutien*
+34,921,*Faunas -- Quaternary -- Cave Faunas*
+34,921,*Sinanthropus*
+34,922,*Choukoutien excavations, historical*
+34,922,*Faunas -- Quaternary -- Cave Faunas*
+34,925,*Faunas--Quaternary*
+34,926,*Faunas--Quaternary*
+34,927,*Faunas -- Quaternary -- Cave Faunas*
+34,927,*Faunas--Quaternary*
+34,927,*mammals, Catena cave, Italy*
+34,927,*mammals, Italy*
+34,929,*Faunas--Quaternary*
+34,929,*Saccopastore locality*
+34,930,*Faunas -- Quaternary -- Cave Faunas*
+34,930,*man, Italy*
+34,931,*Faunas--Quaternary*
+34,931,*mammals, Italy, stratigraphic*
+34,932,*Faunas -- Quaternary -- Cave Faunas*
+34,932,*artifacts with mammals, Italy*
+34,933,*Faunas -- Quaternary -- Cave Faunas*
+34,933,*mammals, Caviglione cave, Italy*
+34,935,*Faunas--Quaternary*
+34,935,*significance for glacial geology*
+34,936,*Faunas -- Quaternary -- Cave Faunas*
+34,936,*mammals, Italy*
+34,938,*Equus, Sambuco cave, Italy*
+34,938,*Faunas -- Quaternary -- Cave Faunas*
+34,939,*Equus, Saccopastore cave*
+34,939,*Faunas -- Quaternary -- Cave Faunas*
+34,940,*Faunas--Quaternary*
+34,940,*man, Sauveterrian of France*
+34,951,*Faunas--Miocene*
+34,952,*Faunas--Miocene*
+34,952,*Merychippus, California*
+34,953,*Faunas--Miocene*
+34,954,*Faunas--Miocene*
+34,954,*mammals, Merychippus zone, California*
+34,955,*Faunas--General*
+34,955,*Palestine*
+34,956,*Faunas--Quaternary*
+34,956,*relict elements, Palestine*
+34,957,*Arctic Russia, stratigraphic*
+34,957,*Faunas--Mesozoic*
+34,960,*Clupeidae*
+34,960,*Faunas--Quaternary*
+34,963,*Faunas--Quaternary*
+34,963,*glacial finds, Volga*
+34,965,*Faunas--Quaternary*
+34,965,*origin of domestic animals*
+34,969,*Cavicornia, China*
+34,969,*Faunas--Miocene*
+34,973,*Criotherium, Eurasia*
+34,973,*Faunas--Miocene*
+34,974,*Faunas--Miocene*
+34,974,*giraffe, Pontian, China*
+34,975,*Faunas--Tertiary*
+34,975,*ovibovine, Mongolia*
+34,976,*Faunas--Pliocene*
+34,976,*mammals, E. Asia*
+34,977,*Faunas--Miocene*
+34,977,*antelopes, Pontian, Eurasia*
+34,978,*Faunas--Oligocene*
+34,978,*mammals, northwest China*
+34,979,*Faunas--Tertiary*
+34,979,*mammals, Tibet*
+34,980,*Faunas--Cenozoic*
+34,980,*mammals, N. China*
+34,983,*Faunas--Oligocene*
+34,983,*Faunas--Tertiary*
+34,984,*Faunas--Eocene*
+34,984,*fishes, Austria*
+34,987,*Faunas--Tertiary*
+34,987,*mammals, Spain*
+34,988,*Faunas -- Quaternary -- Cave Faunas*
+34,988,*mammals, France*
+34,991,*Elephas, Spain*
+34,991,*Faunas--Quaternary*
+34,998,*Crimea*
+34,998,*Faunas--Quaternary*
+34,999,*Elephas, Russia*
+34,999,*Faunas--Quaternary*
+34,1001,*Faunas--Quaternary*
+34,1001,*man and mammals, Paleolithic, Crimea*
+34,1002,*Faunas--Quaternary*
+34,1002,*man and mammals, Paleolithic, Russia*
+34,1003,*Faunas -- Quaternary -- Cave Faunas*
+34,1003,*birds, West Indies*
+34,1004,*Faunas--Mesozoic*
+34,1004,*chiefly fishes, Italian museums*
+34,1005,*Faunas--Oligocene*
+34,1005,*fish, Italy*
+34,1006,*Faunas--Eocene*
+34,1006,*Lambdotherium, Wyoming*
+34,1008,*Faunas--Quaternary*
+34,1008,*man, upper Paleolithic of Europe*
+34,1009,*Faunas--Quaternary*
+34,1009,*man, Magdalenian of France*
+34,1012,*Faunas--Jurassic*
+34,1012,*pleurodire, France*
+34,1015,*Faunas--Permian*
+34,1015,*pareiasaurs, S. Africa and Russia*
+34,1018,*Faunas--Permian*
+34,1019,*Faunas--Permian*
+34,1020,*Faunas--Permian*
+34,1021,*Faunas--Permian*
+34,1022,*Faunas--Permian*
+34,1022,*pareiasaurs, S. Africa*
+34,1023,*Faunas--Permian*
+34,1023,*Therocephalia, S. Africa*
+34,1024,*Faunas--Permian*
+34,1024,*Gorgonopsia, S. Africa*
+34,1025,*Faunas--Triassic*
+34,1025,*cynodont, S. Africa*
+34,1026,*Faunas--Permian*
+34,1026,*deinocephalians, S. Africa*
+34,1028,*Faunas--Permian*
+34,1028,*Tapinocephalia, S. Africa*
+34,1029,*Faunas--Permian*
+34,1029,*titanosuchids, S. Africa*
+34,1030,*Bauria*
+34,1030,*Faunas--Triassic*
+34,1031,*Faunas--Permian*
+34,1031,*reptiles, N. Rhodesia*
+34,1033,*Faunas--Pliocene*
+34,1033,*mammals, Argentina*
+34,1034,*Faunas--General*
+34,1034,*mammal localities, S. America, stratigraphic*
+34,1035,*Faunas--Pliocene*
+34,1035,*megatheriids, S. America*
+34,1036,*Faunas--Tertiary*
+34,1036,*Xenarthra, Patagonia*
+34,1037,*Faunas--Tertiary*
+34,1037,*litoptern, Argentina*
+34,1038,*Faunas--Tertiary*
+34,1038,*edentate, Patagonia*
+34,1039,*Faunas--Mesozoic*
+34,1039,*reptiles, Central Asia*
+34,1041,*Faunas--Tertiary*
+34,1041,*bear, Ukraine*
+34,1043,*Faunas--Miocene*
+34,1045,*Faunas--Miocene*
+34,1045,*Mastodon, N. Asia*
+34,1051,*Faunas--Miocene*
+34,1051,*Paranchitherium, N. Caucasus*
+34,1053,*Faunas--Miocene*
+34,1053,*rhinoceros, N. Caucasus*
+34,1054,*Faunas--Tertiary*
+34,1054,*rhinoceros, central Asia*
+34,1055,*Anchitherium, Caucasus*
+34,1055,*Faunas--Miocene*
+34,1060,*Faunas--Cenozoic*
+34,1060,*mammals, England*
+34,1061,*Faunas--Quaternary*
+34,1061,*man, E. Africa*
+34,1062,*European man, stratigraphic*
+34,1062,*Faunas--Quaternary*
+34,1064,*Faunas--Quaternary*
+34,1067,*Faunas--Quaternary*
+34,1067,*man, France*
+34,1069,*Faunas -- Quaternary -- Cave Faunas*
+34,1069,*Sinanthropus*
+34,1071,*Faunas--Eocene*
+34,1072,*Faunas--General*
+34,1072,*paleontology, text*
+34,1079,*Faunas--Tertiary*
+34,1079,*Hipparion, Morocco*
+34,1080,*Faunas--Quaternary*
+34,1080,*Morocco, stratigraphic*
+34,1084,*Faunas--Tertiary*
+34,1084,*mammals, chiefly Astian, France*
+34,1085,*Faunas--Quaternary*
+34,1086,*Faunas--Quaternary*
+34,1086,*man, mammoth, California*
+34,1087,*Faunas--Quaternary*
+34,1087,*paleolithic chronology, Europe and Africa*
+34,1090,*Faunas--Triassic*
+34,1090,*dinosaur tracks, Pennsylvania*
+34,1094,*Faunas--Jurassic*
+34,1096,*Faunas--Triassic*
+34,1097,*Faunas--Jurassic*
+34,1097,*dinosaur, Navajo ss., Arizona*
+34,1098,*Faunas--Triassic*
+34,1098,*ichnites, Arizona*
+34,1101,*Faunas--General*
+34,1101,*Faunas--Quaternary*
+34,1101,*horses, geologic occurrence*
+34,1101,*mammals, Ecuador*
+34,1105,*Faunas--Permian*
+34,1105,*sharks, Wyoming and Greenland*
+34,1106,*Faunas--Permian*
+34,1106,*India*
+34,1107,*Faunas--Permian*
+34,1107,*fish and amphibian, India*
+34,1108,*Faunas--Carboniferous*
+34,1108,*shark, Wyoming, stratigraphic*
+34,1109,*Faunas--Carboniferous*
+34,1109,*Faunas--General*
+34,1109,*Kinderhookian of Missouri*
+34,1110,*Faunas--Carboniferous*
+34,1110,*Faunas--Carboniferous*
+34,1110,*Faunas--General*
+34,1110,*Faunas--General*
+34,1110,*conodonts*
+34,1110,*conodonts*
+34,1110,*fishes and conodonts, Mississippian of Missouri*
+34,1110,*fishes, conodonts, Mississippian of Missouri*
+34,1113,*Faunas--General*
+34,1114,*Faunas--General*
+34,1115,*Faunas--General*
+34,1120,*Faunas--Quaternary*
+34,1120,*origin of domestic animals*
+34,1122,*Bison, paleolithic, Italy*
+34,1122,*Faunas--Quaternary*
+34,1124,*Faunas--Quaternary*
+34,1124,*equids, Lombardy*
+34,1126,*Faunas--Quaternary*
+34,1126,*deer, Austria*
+34,1128,*Faunas--Quaternary*
+34,1128,*Pleistocene, Europe, stratigraphic*
+34,1132,*Faunas--Cenozoic*
+34,1132,*mammals, Pliocene and Pleistocene of France*
+34,1134,*Faunas--Quaternary*
+34,1134,*mammals, France, stratigraphic*
+34,1136,*Faunas -- Quaternary -- Cave Faunas*
+34,1137,*Faunas -- Quaternary -- Cave Faunas*
+34,1138,*Faunas -- Quaternary -- Cave Faunas*
+34,1139,*Faunas -- Quaternary -- Cave Faunas*
+34,1139,*Saccopastore man*
+34,1140,*Faunas--Quaternary*
+34,1140,*paleolithic of Europe, stratigraphic*
+34,1145,*Faunas -- Quaternary -- Cave Faunas*
+34,1145,*mammals, cultural remains, Potocka cave, Alps*
+34,1146,*Faunas--Quaternary*
+34,1146,*man, paleolithic, Norway*
+34,1150,*Faunas--Jurassic*
+34,1151,*Faunas--Jurassic*
+34,1152,*Faunas--Triassic*
+34,1153,*Ardeosaurus, Germany*
+34,1153,*Faunas--Jurassic*
+34,1154,*Faunas--Jurassic*
+34,1154,*Pterodactylus, Germany*
+34,1155,*Cynognathus, S. Africa*
+34,1155,*Faunas--Triassic*
+34,1156,*Faunas--Triassic*
+34,1157,*Faunas--Permian*
+34,1158,*Faunas--Permian*
+34,1159,*Faunas--Triassic*
+34,1159,*thecodont, S. Africa*
+34,1160,*Cistecephalus, S. Africa*
+34,1160,*Faunas--Permian*
+34,1161,*Faunas--Triassic*
+34,1161,*bauriamorph, S. Africa*
+34,1162,*Faunas--Permian*
+34,1162,*titanosuchid, S. Africa*
+34,1163,*Faunas--Triassic*
+34,1165,*Faunas--Triassic*
+34,1165,*cynognathid, S. Africa*
+34,1166,*Faunas--Permian*
+34,1167,*Faunas--Permian*
+34,1167,*Scymnognathus, S. Africa*
+34,1168,*Faunas--Permian*
+34,1168,*gorgonopsians, S. Africa*
+34,1169,*Faunas--General*
+34,1169,*Karroo formation*
+34,1170,*Faunas--Permian*
+34,1171,*Faunas--Permian*
+34,1171,*endothiodont, S. Africa*
+34,1172,*Faunas--Permian*
+34,1172,*anomodonts, S. Africa*
+34,1173,*Faunas--Triassic*
+34,1174,*Faunas--Triassic*
+34,1174,*Faunas--Triassic*
+34,1174,*Tritylodon, S. Africa*
+34,1175,*Faunas--Triassic*
+34,1176,*Faunas--Triassic*
+34,1176,*Procolophon, S. Africa*
+34,1177,*Faunas--Triassic*
+34,1177,*cynodonts, S. Africa*
+34,1178,*Faunas--Permian*
+34,1178,*therocephalian, S. Africa*
+34,1179,*Faunas--Paleozoic and Mesozoic*
+34,1179,*gorgonopsids, cynodonts, S. Africa*
+34,1180,*Faunas--Triassic*
+34,1180,*stegocephalian, S. Africa*
+34,1181,*Faunas--Triassic*
+34,1181,*Stegocephalia, S. Africa*
+34,1182,*Capitosaurus, S. Africa*
+34,1182,*Faunas--Triassic*
+34,1183,*Dicynodon, S. Africa*
+34,1183,*Faunas--Permian*
+34,1185,*Faunas--Cenozoic*
+34,1185,*Felidae, Java*
+34,1187,*Faunas--Quaternary*
+34,1187,*Felidae, Java and Sumatra*
+34,1188,*Faunas--Cenozoic*
+34,1188,*Faunas--Quaternary*
+34,1188,*Hyaena, Java*
+34,1188,*hyaenids, Eurasia*
+34,1190,*Faunas -- Quaternary -- Cave Faunas*
+34,1190,*mammals associated with Australopithecus*
+34,1193,*Faunas--Permian*
+34,1193,*Therapsida, S. Africa*
+34,1197,*Faunas--Permian*
+34,1197,*pareiasaurs, S. Africa*
+34,1199,*Faunas--Permian*
+34,1199,*reptiles, S. Africa*
+34,1200,*Faunas--Permian*
+34,1200,*anomodont, S. Africa*
+34,1203,*Faunas--Permian*
+34,1203,*therocephalians, S. Africa*
+34,1204,*Faunas--Permian*
+34,1204,*dinocephalian, S. Africa*
+34,1205,*Faunas--Paleozoic and Mesozoic*
+34,1206,*Faunas--Triassic*
+34,1206,*Procolophonia, S. Africa*
+34,1207,*Faunas--Quaternary*
+34,1207,*baboon, S. Africa*
+34,1208,*Faunas--Paleozoic and Mesozoic*
+34,1208,*critique of literature on reptiles of S. Africa*
+34,1209,*Faunas -- Quaternary -- Cave Faunas*
+34,1210,*Faunas -- Quaternary -- Cave Faunas*
+34,1211,*Faunas -- Quaternary -- Cave Faunas*
+34,1212,*Bauria, S. Africa*
+34,1212,*Faunas--Triassic*
+34,1213,*Faunas--Paleozoic and Mesozoic*
+34,1213,*reptiles, S. Africa*
+34,1214,*Faunas -- Quaternary -- Cave Faunas*
+34,1215,*Faunas--Paleozoic and Mesozoic*
+34,1215,*therapsids, S. Africa*
+34,1216,*Faunas -- Quaternary -- Cave Faunas*
+34,1216,*mammals, S. Africa*
+34,1216,*Faunas -- Quaternary -- Cave Faunas*
+34,1217,*Faunas -- Quaternary -- Cave Faunas*
+34,1218,*Faunas -- Quaternary -- Cave Faunas*
+34,1219,*Faunas -- Quaternary -- Cave Faunas*
+34,1220,*Faunas -- Quaternary -- Cave Faunas*
+34,1221,*Faunas -- Quaternary -- Cave Faunas*
+34,1222,*Faunas--Permian*
+34,1224,*Faunas--Permian*
+34,1224,*reptile, S. Africa*
+34,1225,*Faunas--Paleozoic and Mesozoic*
+34,1225,*anomodonts, S. Africa*
+34,1226,*Faunas -- Quaternary -- Cave Faunas*
+34,1226,*elephant shrews, S. Africa*
+34,1227,*Faunas--Triassic*
+34,1227,*reptile, S. Africa*
+34,1228,*Faunas--Permian*
+34,1228,*therocephalian, S. Africa*
+34,1229,*Faunas--Permian*
+34,1230,*Faunas--Permian*
+34,1230,*cynodonts, S. Africa*
+34,1231,*Faunas -- Quaternary -- Cave Faunas*
+34,1232,*Australopithecus*
+34,1232,*Faunas -- Quaternary -- Cave Faunas*
+34,1233,*Faunas -- Quaternary -- Cave Faunas*
+34,1234,*Faunas -- Quaternary -- Cave Faunas*
+34,1234,*Pleistocene apes, S. Africa*
+34,1236,*Dicynodon, S. Africa*
+34,1236,*Faunas--Permian*
+34,1238,*Faunas--Paleozoic*
+34,1238,*fishes, Galicia*
+34,1240,*Faunas--Devonian*
+34,1240,*fishes, Baltic region*
+34,1241,*Faunas--Paleozoic*
+34,1241,*fishes, Galicia, Silurian and Devonian*
+34,1242,*Faunas--Triassic*
+34,1242,*fishes, S. Africa and N. America*
+34,1243,*Faunas--Permian*
+34,1243,*fish, Great Britain*
+34,1244,*Faunas--Paleozoic and Mesozoic*
+34,1244,*sharks, Europe and S. Africa*
+34,1247,*Faunas--Quaternary*
+34,1248,*Faunas--Quaternary*
+34,1248,*man, N. America*
+34,1257,*Faunas--Cretaceous*
+34,1257,*ceratopsian, Alberta*
+34,1258,*Faunas--Cretaceous*
+34,1258,*iguanodont trackway, Colorado*
+34,1263,*Cretaceous-Eocene boundary, U. S.*
+34,1263,*Faunas--Mesozoic and Cenozoic*
+34,1263,*Faunas--Quaternary*
+34,1263,*Minnesota man*
+34,1265,*Faunas--Quaternary*
+34,1265,*mammals, Azov*
+34,1268,*Buttner cave, Germany*
+34,1268,*Faunas -- Quaternary -- Cave Faunas*
+34,1269,*Faunas -- Quaternary -- Cave Faunas*
+34,1269,*Oberklausen, Germany*
+34,1270,*Faunas -- Quaternary -- Cave Faunas*
+34,1270,*mammals, Oster cave, Germany*
+34,1271,*Enzendorf cave, Germany*
+34,1271,*Faunas -- Quaternary -- Cave Faunas*
+34,1272,*Faunas -- Quaternary -- Cave Faunas*
+34,1272,*Magdalenian, Germany*
+34,1274,*Faunas--Quaternary*
+34,1274,*Minnesota man, stratigraphic*
+34,1276,*Faunas--Quaternary*
+34,1276,*man, N. America*
+34,1277,*Faunas -- Quaternary -- Cave Faunas*
+34,1277,*Faunas--Quaternary*
+34,1277,*Faunas--Quaternary*
+34,1277,*Faunas--Quaternary*
+34,1277,*Minnestoa man, stratigraphic*
+34,1277,*Sauk Valley skeleton*
+34,1277,*mammals, New Mexico*
+34,1277,*mammoth, Texas*
+34,1284,*Faunas--Devonian*
+34,1285,*Faunas--Triassic*
+34,1285,*fishes, Pennsylvania*
+34,1286,*Faunas--Devonian*
+34,1286,*fishes, Wyoming*
+34,1287,*Faunas--Devonian*
+34,1287,*fishes, New York*
+34,1288,*Faunas--Ordovician*
+34,1289,*Faunas--Devonian*
+34,1289,*fishes, Colorado*
+34,1294,*Faunas--General*
+34,1294,*Western Europe*
+34,1295,*Faunas--Quaternary*
+34,1295,*North Europe*
+34,1297,*Faunas--Paleozoic and Mesozoic*
+34,1297,*reptiles, Germany*
+34,1298,*Faunas--Quaternary*
+34,1298,*mammals, birds, Moscow*
+34,1303,*Faunas--Quaternary*
+34,1303,*mammals, Gt. Britain, stratigraphic*
+34,1307,*Faunas--Quaternary*
+34,1307,*mammoth, Ukraine*
+34,1308,*Faunas--Quaternary*
+34,1308,*mastodon, Ukraine*
+34,1309,*Faunas--Quaternary*
+34,1309,*Ursus, Ukraine*
+34,1310,*Faunas--Quaternary*
+34,1310,*marmot, Ukraine*
+34,1311,*Faunas--Quaternary*
+34,1311,*man and Ice Age*
+34,1313,*Faunas--Quaternary*
+34,1313,*man and mammals, Italy*
+34,1315,*Faunas--Oligocene*
+34,1315,*rodents, U. S.*
+34,1316,*Faunas--Eocene*
+34,1317,*Faunas--Oligocene*
+34,1318,*Faunas--Eocene*
+34,1319,*Faunas--Eocene*
+34,1319,*mammals, Utah*
+34,1320,*Faunas--Oligocene*
+34,1320,*rodents, western U. S.*
+34,1321,*Faunas--Eocene*
+34,1321,*rodents, Utah*
+34,1322,*Faunas--Eocene*
+34,1322,*Faunas--Oligocene*
+34,1322,*rodent, Montana*
+34,1322,*rodent, Montana*
+34,1332,*Faunas -- Quaternary -- Cave Faunas*
+34,1332,*associated fauna, New Mexico*
+34,1333,*Faunas--Quaternary*
+34,1333,*early man, New Mexico*
+34,1336,*Faunas--Quaternary*
+34,1336,*mammals, Great Britain, stratigraphic*
+34,1340,*Faunas--Quaternary*
+34,1340,*mammals, Holland*
+34,1341,*Faunas -- Quaternary -- Cave Faunas*
+34,1341,*mammals, eastern U. S.*
+34,1349,*Faunas--Permian*
+34,1349,*dinocephalian, S. Africa*
+34,1353,*Amphibia*
+34,1353,*Faunas--Permian*
+34,1355,*Faunas--Quaternary*
+34,1355,*mastodon, Iowa*
+34,1359,*Faunas--Quaternary*
+34,1359,*jaguars, S. America*
+34,1364,*Cretaceo-Tertiary boundary, S. America*
+34,1364,*Faunas--Mesozoic and Tertiary*
+34,1366,*Faunas--Pliocene*
+34,1366,*procyonid, Argentina*
+34,1368,*Faunas--Quaternary*
+34,1368,*horse, first domestication*
+34,1369,*Faunas -- Quaternary -- Cave Faunas*
+34,1369,*man with mammals, S. Africa*
+34,1370,*Faunas--Quaternary*
+34,1371,*Castoroides localities, U. S.*
+34,1371,*Faunas--Quaternary*
+34,1378,*Faunas--Quaternary*
+34,1378,*man, with mammals, Java*
+34,1381,*Faunas--Quaternary*
+34,1381,*neolithic man, England*
+34,1383,*Faunas--General*
+34,1383,*mammals, Italy*
+34,1384,*Faunas--Triassic*
+34,1384,*reptiles, Chinle of Arizona*
+34,1385,*Faunas--Cretaceous*
+34,1386,*Faunas--Cretaceous*
+34,1386,*dinosaur, central China*
+34,1387,*Faunas--Permian*
+34,1387,*reptiles, Abo of N. Mexico*
+34,1388,*Faunas--Jurassic*
+34,1393,*Faunas--Jurassic*
+34,1393,*dinosaur, Navajo of Arizona*
+34,1394,*Faunas--Triassic*
+34,1394,*Placerias, N. America*
+34,1395,*Faunas--Cretaceous*
+34,1395,*mosasaur, Nebraska*
+34,1398,*California, archeological*
+34,1398,*Faunas--Quaternary*
+34,1399,*Faunas--Quaternary*
+34,1400,*Faunas--Quaternary*
+34,1400,*mammals, Pinto Basin, Texas*
+34,1402,*Creede fm., Colorado*
+34,1402,*Faunas--Miocene*
+34,1404,*Faunas--Quaternary*
+34,1405,*Faunas--Quaternary*
+34,1406,*Faunas--Quaternary*
+34,1406,*lemurs, Madagascar*
+34,1409,*Faunas--Carboniferous*
+34,1409,*fishes, France, stratigraphic*
+34,1411,*Faunas--Paleozoic*
+34,1411,*fishes, New York*
+34,1415,*Faunas--Miocene*
+34,1415,*dolphin, Florida*
+34,1416,*Faunas--Triassic*
+34,1416,*Kannemeyeria, S. Africa*
+34,1417,*Faunas--Permian*
+34,1417,*stegocephalian, Texas*
+34,1418,*Faunas--Paleozoic*
+34,1418,*palaeoniscid, Texas*
+34,1419,*Faunas--Triassic*
+34,1419,*nothosaur, Wyoming*
+34,1420,*Faunas--Oligocene*
+34,1420,*turtle, Nebraska*
+34,1421,*Faunas--Carboniferous*
+34,1421,*paleoniscid, Missouri*
+34,1422,*Faunas--Quaternary*
+34,1423,*Faunas--Triassic*
+34,1423,*phytosaurs, Texas*
+34,1427,*Araucanian of S. America*
+34,1427,*Faunas--Pliocene*
+34,1428,*Faunas--Tertiary*
+34,1428,*edentates, S. America*
+34,1429,*Faunas--Quaternary*
+34,1430,*Faunas--Quaternary*
+34,1430,*man, S. America*
+34,1431,*Faunas--Devonian*
+34,1431,*Faunas--Paleozoic*
+34,1431,*Thinopus footprints, age*
+34,1431,*fishes, Bradfordian of eastern U. S.*
+34,1432,*Faunas--Devonian*
+34,1433,*"amphibian" tracks, Pennsylvania*
+34,1433,*Faunas--Devonian*
+34,1434,*Faunas -- Quaternary -- Cave Faunas*
+34,1435,*Faunas -- Quaternary -- Cave Faunas*
+34,1436,*Faunas -- Quaternary -- Cave Faunas*
+34,1447,*Faunas--Tertiary*
+34,1447,*coprolites, phosphates of Morocco*
+34,1450,*Faunas--Oligocene*
+34,1450,*teleosts, French museums*
+34,1454,*Faunas--Eocene*
+34,1454,*teleosts, Egypt*
+34,1455,*Faunas--General*
+34,1455,*asymmetrical teleosts*
+34,1458,*Faunas--Devonian*
+34,1458,*fishes, eastern U. S., stratigraphic*
+34,1459,*Faunas--Paleozoic*
+34,1459,*fishes, eastern U. S., stratigraphic*
+34,1460,*Faunas--Pliocene*
+34,1460,*rodent, Nevada*
+34,1461,*Faunas--Tertiary*
+34,1461,*otoliths, general*
+34,1462,*Faunas--Cretaceous*
+34,1463,*Faunas--Cretaceous*
+34,1463,*stegosaur, India*
+34,1464,*Faunas--Quaternary*
+34,1465,*Faunas--Tertiary*
+34,1465,*proboscidean, India*
+34,1466,*Faunas--Cenozoic*
+34,1467,*Faunas--Quaternary*
+34,1468,*Faunas--Cretaceous*
+34,1468,*dinosaur, India*
+34,1469,*Faunas--Cenozoic*
+34,1469,*Stegodon, India*
+34,1470,*Faunas--Quaternary*
+34,1471,*Faunas--Quaternary*
+34,1471,*proboscidean, India*
+34,1472,*Equus, India*
+34,1472,*Faunas--Quaternary*
+34,1484,*Faunas--Quaternary*
+34,1484,*mammals, S. China*
+34,1485,*China, stratigraphic*
+34,1485,*Faunas--Mesozoic*
+34,1486,*Faunas -- Quaternary -- Cave Faunas*
+34,1486,*teleosts, Choukoutien*
+34,1488,*Faunas--Quaternary*
+34,1488,*koala, phalangers, Australia*
+34,1489,*Faunas--Mesozoic and Tertiary*
+34,1489,*teleosts, New Zealand*
+34,1490,*Faunas--Miocene*
+34,1490,*Istanbul, age of Pontian*
+34,1491,*Choukoutien*
+34,1491,*Faunas -- Quaternary -- Cave Faunas*
+34,1493,*Faunas--Cenozoic*
+34,1493,*mammals, China, stratigraphic*
+34,1494,*Faunas--Quaternary*
+34,1494,*man in N. America associated faunas*
+34,1496,*Faunas -- Quaternary -- Cave Faunas*
+34,1500,*Faunas--Cenozoic*
+34,1501,*Faunas--Quaternary*
+34,1501,*man, and mammals, India*
+34,1502,*Faunas -- Quaternary -- Cave Faunas*
+34,1502,*Sinanthropus, general*
+34,1503,*Faunas--Quaternary*
+34,1503,*Pleistocene of China, stratigraphic*
+34,1504,*Faunas--Pliocene*
+34,1504,*chiefly mammals, Choukoutien*
+34,1506,*Faunas--Pliocene*
+34,1506,*Villafranchian of China, stratigraphic*
+34,1507,*Faunas--Quaternary*
+34,1507,*man in Southeastern Asia, stratigraphic*
+34,1508,*Faunas--Cenozoic*
+34,1509,*Faunas--Pliocene*
+34,1509,*chalicothere, China*
+34,1510,*Faunas--Cenozoic*
+34,1510,*chiefly mammals, Choukoutien*
+34,1511,*China and N. America, correlation*
+34,1511,*Faunas--Cenozoic*
+34,1512,*Faunas--Cenozoic*
+34,1512,*proboscideans, China*
+34,1513,*Faunas--Pliocene*
+34,1513,*artiodactyls, China*
+34,1514,*Faunas--Pliocene*
+34,1514,*cavicorns, China*
+34,1515,*China, correlation*
+34,1515,*Faunas--Cenozoic*
+34,1516,*Faunas -- Quaternary -- Cave Faunas*
+34,1516,*Faunas--Cenozoic*
+34,1516,*mammals, China*
+34,1516,*mammals, chiefly Quaternary, China*
+34,1517,*Faunas--Eocene*
+34,1517,*amblypod, China*
+34,1518,*Faunas--Cenozoic*
+34,1520,*Faunas--Quaternary*
+34,1520,*mammals, Ukraine*
+34,1521,*Faunas--Quaternary*
+34,1521,*rock thrush, a Tertiary relic, Ukraine*
+34,1523,*Faunas--Mesozoic and Cenozoic*
+34,1523,*Hampshire basin, Great Britain, stratigraphic*
+34,1524,*East, Anglia, Great Britain, stratigraphic*
+34,1524,*Faunas--Mesozoic and Cenozoic*
+34,1527,*Faunas--Cenozoic*
+34,1527,*chiefly mammals, Burma, stratigraphic*
+34,1528,*Faunas--Quaternary*
+34,1528,*mammals, Russia*
+34,1532,*Faunas--Quaternary*
+34,1532,*frog, India*
+34,1534,*Faunas -- Quaternary -- Cave Faunas*
+34,1534,*mammals, Virginia*
+34,1535,*Faunas--Oligocene*
+34,1535,*reptiles, birds and mammals, Chadron fm., S. Dakota*
+34,1543,*Faunas--Eocene*
+34,1543,*lemur, France*
+34,1549,*Faunas--Quaternary*
+34,1550,*Faunas--Quaternary*
+34,1551,*Faunas--Quaternary*
+34,1551,*Swanscombe man*
+34,1555,*Faunas--General*
+34,1556,*Faunas--Quaternary*
+34,1557,*Faunas--Quaternary*
+34,1557,*man with proboscidean, Califronia*
+34,1559,*Faunas--Miocene*
+34,1559,*camel, Nevada*
+34,1560,*Faunas--Tertiary*
+34,1560,*cyprinodont, Argentina*
+34,1561,*Faunas--Quaternary*
+34,1561,*man, Colorado*
+34,1563,*Faunas--Miocene*
+34,1563,*suid, Mongolia*
+34,1564,*Faunas--Miocene*
+34,1564,*rhinoceros, India*
+34,1565,*Faunas--Tertiary*
+34,1565,*chalicotheres, Eastern Asia*
+34,1566,*Faunas--Tertiary*
+34,1566,*mammals, Siwaliks of India*
+34,1567,*Amer. Mus. localities, India*
+34,1567,*Faunas--Cenozoic*
+34,1568,*Faunas--Cenozoic*
+34,1568,*Siwaliks of India, correlation*
+34,1573,*Faunas--Tertiary*
+34,1573,*peccary, Nebraska*
+34,1574,*Faunas--Miocene*
+34,1574,*Nebraska, popular*
+34,1575,*Faunas--Miocene*
+34,1575,*deer, Mongolia*
+34,1576,*Faunas--Miocene*
+34,1576,*Tung Gur of Mongolia*
+34,1577,*Faunas--Cenozoic*
+34,1577,*Sivatherium in post-Pleistocene time?*
+34,1578,*Faunas--Eocene*
+34,1578,*primate, Burma*
+34,1579,*Faunas--Quaternary*
+34,1579,*N. American mammals, relation to Eurasian forms*
+34,1580,*Faunas--Eocene*
+34,1581,*Faunas--Pliocene*
+34,1581,*peccaries, Western N. America*
+34,1582,*Faunas--Cenozoic*
+34,1582,*mammals, Burma*
+34,1583,*Faunas--Eocene*
+34,1583,*artiodactyl, Wyoming*
+34,1593,*Faunas--Tertiary*
+34,1593,*mammals, supposed Chirotherium tracks, Venezuela*
+34,1594,*Faunas--Miocene*
+34,1594,*turtles, Maryland*
+34,1599,*Faunas--Tertiary*
+34,1599,*collecting localities, Melbourne area, Australia*
+34,1600,*Faunas -- Quaternary -- Cave Faunas*
+34,1600,*Victoria*
+34,1604,*Faunas--Cenozoic*
+34,1604,*birds, Texas*
+34,1605,*Faunas--Cenozoic*
+34,1605,*birds, California*
+34,1606,*Faunas--Quaternary*
+34,1606,*birds, Rancho La Brea*
+34,1607,*Faunas--Pliocene*
+34,1607,*bird, Nebraska*
+34,1608,*Faunas--Pliocene*
+34,1608,*birds, S. Dakota*
+34,1609,*Faunas--Miocene*
+34,1609,*gannet, California*
+34,1610,*Faunas--Quaternary*
+34,1610,*shrews, Rancho La Brea*
+34,1620,*Faunas--Tertiary*
+34,1620,*artiodactyls, Nebraska*
+34,1621,*Faunas--Devonian*
+34,1621,*fishes, Victoria, stratigraphic*
+34,1623,*Faunas--Carboniferous*
+34,1623,*actinopterygians, central U. S.*
+34,1624,*Bison, Wisconsin*
+34,1624,*Faunas--Devonian*
+34,1624,*Faunas--Quaternary*
+34,1624,*fishes, Scotland*
+34,1626,*Faunas--Miocene*
+34,1626,*rhinoceroses, Baluchistan*
+34,1627,*Faunas--Devonian*
+34,1634,*Faunas--Triassic*
+34,1634,*fishes, reptiles, France*
+34,1635,*Faunas--Cretaceous*
+34,1635,*fishes, France*
+34,1636,*Faunas--Jurassic*
+34,1636,*fishes, France*
+34,1637,*Faunas--General*
+34,1637,*errors in dating due to transposition and migration*
+34,1639,*Burma, stratigraphic*
+34,1639,*Faunas--Tertiary*
+34,1640,*Faunas--Mesozoic and Cenozoic*
+34,1640,*India, stratigraphic*
+34,1646,*Faunas--Quaternary*
+34,1646,*mammals, Magdalenian of France*
+34,1647,*Faunas--Tertiary*
+34,1647,*giant tortoise, France*
+34,1648,*Faunas--Quaternary*
+34,1648,*antiquity of man, N. America*
+34,1656,*Deccan trap, correlation*
+34,1656,*Faunas--Tertiary*
+34,1667,*Faunas--Ordovician*
+34,1667,*conodonts, Missouri*
+34,1668,*Faunas--Cenozoic*
+34,1668,*Washington, stratigraphic*
+34,1669,*Faunas--Quaternary*
+34,1669,*Pleistocene man, Arizona*
+34,1672,*Faunas--Carboniferous*
+34,1672,*Faunas--Devonian*
+34,1672,*fish, Cleveland shale*
+34,1672,*fishes, Orangeville shale*
+34,1674,*Faunas--Eocene*
+34,1674,*fishes, Egypt*
+34,1675,*Faunas -- Quaternary -- Cave Faunas*
+34,1675,*chiefly mammals, Poland*
+34,1684,*Faunas--Devonian*
+34,1684,*coprolite, Germany*
+34,1685,*Faunas--Quaternary*
+34,1685,*Felis, neolithic, Sweden*
+34,1686,*Faunas--Quaternary*
+34,1686,*domestic dogs, miolithic, Sweden*
+34,1687,*Faunas--Cretaceous*
+34,1687,*selachians, Lithuania*
+34,1688,*Faunas--Quaternary*
+34,1688,*man, Tibesti, N. Africa*
+34,1689,*Faunas--Permian*
+34,1690,*Faunas -- Quaternary -- Cave Faunas*
+34,1691,*Faunas--Oligocene*
+34,1692,*Faunas--Oligocene*
+34,1693,*Faunas--Oligocene*
+34,1696,*Faunas -- Quaternary -- Cave Faunas*
+34,1696,*mammals, Java*
+34,1697,*Faunas--Quaternary*
+34,1697,*mammoth, Russia*
+34,1698,*Faunas--Quaternary*
+34,1710,*Faunas--Carboniferous*
+34,1710,*fish, amphibian, eastern U. S., stratigraphic*
+34,1712,*Faunas--Quaternary*
+34,1712,*man and mammals, S. Africa*
+34,1715,*Faunas--Cenozoic*
+34,1715,*human remains and mammals, S. Africa*
+34,1716,*Faunas--Cretaceous*
+34,1716,*fishes, Congo, stratigraphic*
+34,1717,*Faunas--Eocene*
+34,1718,*Faunas--Eocene*
+34,1718,*fishes, Congo, stratigraphic*
+34,1719,*Faunas--Miocene*
+34,1719,*mammals, fish, Congo*
+34,1720,*Faunas--Miocene*
+34,1720,*chiefly mammals, Congo*
+34,1728,*Faunas--General*
+34,1728,*elephants, general*
+34,1735,*Australia*
+34,1735,*Faunas--Quaternary*
+34,1736,*Faunas--Tertiary*
+34,1737,*Faunas--Tertiary*
+34,1737,*general*
+34,1739,*Faunas--Carboniferous*
+34,1739,*chiefly fishes, Scotland*
+34,1740,*Faunas--Eocene*
+34,1741,*Faunas--Eocene*
+34,1742,*Faunas--Eocene*
+34,1742,*London clay*
+34,1747,*Faunas--Quaternary*
+34,1747,*gopher, Oregon*
+34,1755,*Faunas--Quaternary*
+34,1755,*mammals, N. Africa*
+34,1756,*Faunas--Jurassic*
+34,1757,*Faunas--Jurassic*
+34,1759,*Faunas -- Quaternary -- Cave Faunas*
+34,1759,*chiefly mammals, Madagascar*
+34,1760,*Faunas--Jurassic*
+34,1760,*Lepidotus, Madagascar*
+34,1761,*Faunas--Cenozoic*
+34,1762,*Faunas--Cretaceous*
+34,1762,*fish, Syria*
+34,1765,*Faunas--Quaternary*
+34,1766,*Faunas--Miocene*
+34,1766,*suid, Germany*
+34,1767,*Faunas--Tertiary*
+34,1768,*Faunas--Triassic*
+34,1768,*plateosaur, Germany*
+34,1769,*Faunas--Oligocene*
+34,1769,*rodents, Germany*
+34,1770,*Faunas--Tertiary*
+34,1770,*chiefly mammals, fissure deposits, Germany*
+34,1771,*Elephas, Bavaria*
+34,1771,*Faunas--Quaternary*
+34,1772,*Faunas--Miocene*
+34,1776,*Faunas--Quaternary*
+34,1776,*proboscideans, France*
+34,1778,*Faunas--Quaternary*
+34,1778,*mammals, France*
+34,1782,*Faunas--Carboniferous*
+34,1782,*fishes, Belgium*
+34,1785,*Faunas--Eocene*
+34,1785,*mammals, Wyoming*
+34,1786,*Faunas--Tertiary*
+34,1786,*Pseudocreodi, western U. S.*
+34,1787,*Faunas--Cenozoic*
+34,1787,*mammals, France, stratigraphic*
+34,1791,*Faunas--Cenozoic*
+34,1791,*mammals, Ceylon*
+34,1792,*Faunas--Cenozoic*
+34,1792,*chiefly mammals, Ceylon*
+34,1793,*Faunas--Miocene*
+34,1793,*fishes, Ceylon*
+34,1795,*Faunas--Cretaceous*
+34,1795,*dinosaur eggs, France*
+34,1797,*Faunas--Miocene*
+34,1797,*N. Africa*
+34,1807,*Faunas--General*
+34,1807,*southwest England*
+34,1808,*Faunas--Oligocene*
+34,1808,*hare, Nebraska*
+34,1809,*Faunas -- Quaternary -- Cave Faunas*
+34,1810,*Faunas -- Quaternary -- Cave Faunas*
+34,1810,*Ursus, France*
+34,1816,*Faunas--Triassic*
+34,1816,*fishes, Austria*
+34,1818,*Faunas--Cenozoic*
+34,1818,*Rhinoceros antiquitatis, Europe*
+34,1820,*Faunas--Eocene*
+34,1821,*Faunas--Eocene*
+34,1821,*ungulates, Germany*
+34,1822,*Faunas--Triassic*
+34,1822,*mammal, Germany*
+34,1823,*Faunas--Quaternary*
+34,1823,*suids, E. Africa*
+34,1824,*Faunas--Quaternary*
+34,1824,*giraffids and bovids, E. Africa*
+34,1826,*Faunas--Pliocene*
+34,1827,*Brandenburg, popular*
+34,1827,*Faunas--Quaternary*
+34,1829,*Faunas--Quaternary*
+34,1829,*Swanscombe man, stratigraphic*
+34,1832,*Faunas -- Quaternary -- Cave Faunas*
+34,1833,*Faunas--Paleozoic and Mesozoic*
+34,1834,*Faunas--Paleozoic and Mesozoic*
+34,1834,*Karroo, correlation*
+34,1838,*Faunas--General*
+34,1840,*Faunas--Devonian*
+34,1840,*fishes, Wyoming, stratigraphic*
+34,1841,*Faunas--Jurassic*
+34,1841,*sauropod dinosaur, France*
+34,1844,*Faunas--Quaternary*
+34,1844,*mammals, France*
+34,1845,*Faunas -- Quaternary -- Cave Faunas*
+34,1845,*mammals, Bavaria*
+34,1847,*Faunas--Permian*
+34,1847,*reptile footprints, Italy*
+34,1849,*Faunas--Quaternary*
+34,1849,*man, S. Africa*
+34,1854,*Faunas--Quaternary*
+34,1854,*Florisbad man*
+34,1857,*Faunas--Quaternary*
+34,1858,*Faunas--Quaternary*
+34,1858,*man, S. Africa*
+34,1860,*Faunas--Quaternary*
+34,1863,*Faunas--Quaternary*
+34,1863,*Florisbad man*
+34,1865,*Faunas--Quaternary*
+34,1873,*Faunas--Quaternary*
+34,1874,*Faunas--Quaternary*
+34,1875,*Faunas--Quaternary*
+34,1876,*Faunas--Quaternary*
+34,1877,*Faunas--Quaternary*
+34,1877,*Pithecanthropus*
+34,1878,*Faunas--Quaternary*
+34,1878,*man, E. Asia*
+34,1880,*Faunas--Quaternary*
+34,1881,*Faunas--Quaternary*
+34,1882,*Faunas--Quaternary*
+34,1883,*Faunas--Quaternary*
+34,1883,*man, Java*
+34,1885,*Faunas--Quaternary*
+34,1885,*man, Java and E. Africa*
+34,1886,*Faunas--Cenozoic*
+34,1886,*badger, France*
+34,1887,*Faunas--Cenozoic*
+34,1887,*mammals, Alsace, stratigraphic*
+34,1892,*Faunas--Pliocene*
+34,1892,*mustelid, Kansas*
+34,1895,*Faunas--Quaternary*
+34,1895,*mammoth, France*
+34,1901,*Faunas--General*
+34,1901,*northern England, stratigraphic*
+34,1911,*Faunas--Quaternary*
+34,1911,*musk oxen, Germany*
+34,1914,*Faunas--Triassic*
+34,1914,*ichthyosaur, Germany*
+34,1916,*Faunas--Triassic*
+34,1916,*capitosaur, Germany*
+34,1921,*Faunas--Pliocene*
+34,1921,*ape, Egypt*
+34,1922,*Faunas--Mesozoic and Cenozoic*
+34,1922,*Wealden district, England, stratigraphic*
+34,1923,*Faunas--Paleozoic and Mesozoic*
+34,1923,*central England, stratigraphic*
+34,1924,*Faunas--Quaternary*
+34,1924,*man, Saskatchewan*
+34,1929,*England, stratigraphic*
+34,1929,*Faunas--Quaternary*
+34,1931,*Faunas--Quaternary*
+34,1931,*paleolithic station, East European plain*
+34,1933,*Faunas--Quaternary*
+34,1933,*paleolithic, Russia*
+34,1936,*Faunas--Permian*
+34,1936,*tetrapods, Russia*
+34,1938,*Faunas--Paleozoic and Mesozoic*
+34,1938,*Russia, reptiles and amphibians*
+34,1939,*Faunas--Carboniferous*
+34,1939,*Faunas--Permian*
+34,1939,*labyrinthodonts, Russia*
+34,1939,*labyrinthodonts, Russia*
+34,1940,*Faunas--Permian*
+34,1940,*Russia*
+34,1941,*Faunas--Permian*
+34,1941,*Russia, stratigraphic*
+34,1942,*Faunas--Paleozoic and Mesozoic*
+34,1942,*Permo-Triassic zones, Russia*
+34,1943,*Faunas--Permian*
+34,1943,*reptiles, Russia*
+34,1944,*Faunas--Triassic*
+34,1944,*anomodont, Russia*
+34,1949,*Elephas, Russia*
+34,1949,*Faunas--Quaternary*
+34,1951,*Faunas -- Quaternary -- Cave Faunas*
+34,1951,*hyaena, Austria*
+34,1952,*Faunas -- Quaternary -- Cave Faunas*
+34,1952,*mammals, Belgium*
+34,1953,*Faunas -- Quaternary -- Cave Faunas*
+34,1953,*cave bear, Slovakia*
+34,1954,*Faunas--Quaternary*
+34,1954,*pre-glacial, Germany*
+34,1955,*Faunas -- Quaternary -- Cave Faunas*
+34,1956,*Faunas -- Quaternary -- Cave Faunas*
+34,1956,*cave bear, Belgium*
+34,1962,*Austria*
+34,1962,*Faunas--Quaternary*
+34,1963,*Faunas -- Quaternary -- Cave Faunas*
+34,1963,*cave bear, Bavaria*
+34,1965,*Faunas--Miocene*
+34,1965,*pathological rhinoceros jaw, Austria*
+34,1966,*Faunas--Miocene*
+34,1967,*Faunas--Miocene*
+34,1970,*Faunas--Miocene*
+34,1970,*primates, Austria*
+34,1971,*Drachen cave, Germany*
+34,1971,*Faunas -- Quaternary -- Cave Faunas*
+34,1972,*Faunas -- Quaternary -- Cave Faunas*
+34,1972,*Torren cave, Austria*
+34,1973,*Faunas -- Quaternary -- Cave Faunas*
+34,1973,*Teufelslucken, Germany*
+34,1974,*Faunas--Quaternary*
+34,1975,*Faunas--Quaternary*
+34,1975,*man, Europe*
+34,1991,*Faunas--Cretaceous*
+34,1991,*fishes, Patagonia*
+34,1992,*Faunas--Tertiary*
+34,1992,*reptiles, mammals, Sirtica*
+34,1993,*Faunas--Cretaceous*
+34,1993,*otoliths, Brasil*
+34,1996,*Faunas--General*
+34,1996,*Germany, general*
+34,1997,*Faunas -- Quaternary -- Cave Faunas*
+34,1997,*mammals, Crimea*
+34,1998,*Faunas--Quaternary*
+34,1998,*mammals, Ecuador*
+34,2001,*Faunas -- Quaternary -- Cave Faunas*
+34,2001,*cave exploration*
+34,2003,*Faunas -- Quaternary -- Cave Faunas*
+34,2003,*tooth changes in domestication*
+34,2004,*Faunas--Quaternary*
+34,2004,*mammals and associated artifacts, Moravia*
+34,2005,*Faunas--Quaternary*
+34,2005,*France, stratigraphic*
+34,2006,*Faunas--Cretaceous*
+34,2006,*fishes, France*
+34,2010,*Faunas--Cenozoic*
+34,2010,*early man, E. Africa*
+34,2011,*Faunas--Quaternary*
+34,2011,*early man, associated mammals, U. S.*
+34,2013,*Faunas--Quaternary*
+34,2013,*reptile, mammals*
+34,2014,*Faunas--Quaternary*
+34,2015,*Faunas--Quaternary*
+34,2016,*Faunas--Quaternary*
+34,2017,*Faunas--Quaternary*
+34,2018,*Faunas--Quaternary*
+34,2021,*Faunas--Eocene*
+34,2021,*Paris basin, stratigraphic*
+34,2023,*Chicago*
+34,2023,*Faunas--Quaternary*
+34,2026,*Faunas--Quaternary*
+34,2026,*man, Germany*
+34,2027,*Faunas--Tertiary*
+34,2027,*mammals, Switzerland, stratigraphic*
+34,2031,*Faunas--Cenozoic*
+34,2031,*varanid, Java*
+34,2044,*Faunas--Quaternary*
+34,2045,*Faunas--Quaternary*
+34,2046,*Faunas--Quaternary*
+34,2046,*mammals, Luxembourg*
+34,2048,*Faunas--Oligocene*
+34,2048,*mammals, Argentina, stratigraphic*
+34,2050,*Faunas--General*
+34,2050,*Patagonia, stratigraphic*
+34,2051,*Faunas--Quaternary*
+34,2051,*Rho%Dne valley, stratigraphic*
+34,2060,*Faunas--Oligocene*
+34,2060,*rhinoceroses, Colorado*
+34,2062,*Faunas--Quaternary*
+34,2062,*man, New Mexico*
+34,2065,*Faunas--Quaternary*
+34,2065,*man and mammals, paleolithic, Siberia*
+34,2066,*Faunas--Miocene*
+34,2066,*penguin, Australia*
+34,2067,*Faunas -- Quaternary -- Cave Faunas*
+34,2067,*marsupial, Australia*
+34,2068,*Faunas--Triassic*
+34,2068,*fish, France*
+34,2069,*Alsace*
+34,2069,*Faunas--Triassic*
+34,2070,*Faunas--Quaternary*
+34,2070,*man, Europe*
+34,2071,*Faunas--Quaternary*
+34,2071,*man, general*
+34,2077,*Faunas--Quaternary*
+34,2077,*early man in Hungary*
+34,2081,*Faunas--Quaternary*
+34,2083,*Faunas--Quaternary*
+34,2083,*reindeer, Siberia*
+34,2084,*Faunas--Tertiary*
+34,2084,*Gazella, Russia*
+34,2085,*Faunas--Miocene*
+34,2085,*ungulates, Central Asia*
+34,2092,*Faunas--Quaternary*
+34,2092,*man, Java*
+34,2095,*Brazil, stratigraphic*
+34,2095,*Faunas--Quaternary*
+34,2096,*Faunas--Quaternary*
+34,2096,*Hengelo man, associated mammals, Netherlands*
+34,2097,*Faunas--Quaternary*
+34,2097,*mammal localities, Holland*
+34,2099,*Faunas--General*
+34,2099,*Russia stratigraphic*
+34,2103,*Faunas -- Quaternary -- Cave Faunas*
+34,2103,*mammals, France, stratigraphic*
+34,2104,*Belgium, stratigraphic*
+34,2104,*Faunas--General*
+34,2111,*Faunas -- Quaternary -- Cave Faunas*
+34,2111,*Neanderthal man, France*
+34,2112,*Faunas -- Quaternary -- Cave Faunas*
+34,2112,*man and associated fauna, France*
+34,2114,*Faunas -- Quaternary -- Cave Faunas*
+34,2114,*mammals, France*
+34,2118,*Faunas--Quaternary*
+34,2118,*thermophiles, Europe*
+34,2119,*Faunas--Quaternary*
+34,2119,*mammals, Czechoslovakia*
+34,2122,*Faunas--Mesozoic and Tertiary*
+34,2122,*S. Saskatchewan, stratigraphic*
+34,2131,*Faunas--Permian*
+34,2131,*Russia, stratigraphic*
+34,2132,*Faunas--Permian*
+34,2132,*Russia, Greenland, Spitzbergen, stratigraphic*
+34,2133,*Faunas--Quaternary*
+34,2135,*Faunas--Quaternary*
+34,2136,*Faunas--Tertiary*
+34,2136,*Patagonia, stratigraphic*
+34,2141,*Faunas -- Quaternary -- Cave Faunas*
+34,2141,*mammals, Germany*
+34,2143,*Faunas--Jurassic*
+34,2143,*monotreme, Germany*
+34,2144,*Faunas--Quaternary*
+34,2144,*Ovibos, Germany*
+34,2163,*Faunas--Pliocene*
+34,2170,*Faunas--Pliocene*
+34,2170,*rodent, Pontian of Mongolia*
+34,2175,*Faunas--Cenozoic*
+34,2175,*horned ruminants, N. America*
+34,2176,*Faunas--Quaternary*
+34,2176,*Neanderthal man*
+34,2177,*Faunas--Quaternary*
+34,2177,*mannals, Germany*
+34,2178,*Faunas -- Quaternary -- Cave Faunas*
+34,2179,*Faunas -- Quaternary -- Cave Faunas*
+34,2181,*Faunas--Jurassic*
+34,2181,*bird, Solnhofen*
+34,2187,*Faunas--Quaternary*
+34,2188,*Faunas -- Quaternary -- Cave Faunas*
+34,2188,*mammals and man, Indo-China*
+34,2189,*Faunas--Eocene*
+34,2190,*Faunas--Eocene*
+34,2191,*Faunas--Eocene*
+34,2192,*Faunas--Eocene*
+34,2192,*otoliths, S. England*
+34,2193,*Faunas--Tertiary*
+34,2193,*turtles, Germany*
+34,2198,*Faunas--Quaternary*
+34,2198,*mammals, E. Africa, stratigraphic*
+34,2199,*Faunas--Cenozoic*
+34,2199,*Stegodon, Japan*
+34,2201,*Faunas--Miocene*
+34,2201,*antilocaprids, Nevada*
+34,2202,*Faunas--Pliocene*
+34,2202,*antilocaprids, Nebraska*
+34,2203,*Faunas--Ordovician*
+34,2203,*fishes, S. Dakota, stratigraphic*
+34,2204,*Faunas--Cretaceous*
+34,2205,*Faunas--Cretaceous*
+34,2205,*Nigeria, stratigraphic*
+34,2207,*Africa, S. America, correlation*
+34,2207,*Faunas--Paleozoic and Mesozoic*
+34,2208,*Faunas--Cretaceous*
+34,2208,*Sahara, stratigraphic*
+34,2209,*Faunas--Pliocene*
+34,2209,*mammals, Iran, stratigraphic*
+34,2212,*Faunas--General*
+34,2212,*Sahara, stratigraphic*
+34,2215,*Faunas -- Quaternary -- Cave Faunas*
+34,2220,*Faunas--Quaternary*
+34,2220,*mammoth, Switzerland*
+34,2221,*Faunas--Quaternary*
+34,2221,*rhinoceros, Switzerland*
+34,2222,*Faunas -- Quaternary -- Cave Faunas*
+34,2224,*Egypt, paleolithic and neolithic*
+34,2224,*Faunas--Quaternary*
+34,2225,*Faunas--Eocene*
+34,2225,*Faunas--Eocene*
+34,2226,*Faunas--Quaternary*
+34,2226,*mammals, Illinois*
+34,2228,*Faunas--Quaternary*
+34,2228,*man, Africa*
+34,2231,*Boskop race*
+34,2231,*Faunas--Quaternary*
+34,2232,*Faunas--Quaternary*
+34,2232,*man, S. Africa*
+34,2233,*Faunas--Pliocene*
+34,2233,*Saxony, stratigraphic*
+34,2234,*Elephas, Saxony*
+34,2234,*Faunas--Quaternary*
+34,2235,*Faunas--Quaternary*
+34,2235,*Poland, correlation*
+34,2236,*Eurasia, stratigraphic*
+34,2236,*Faunas--Cenozoic*
+34,2237,*Faunas--Quaternary*
+34,2237,*Pleistocene, stratigraphic*
+34,2242,*Faunas--Quaternary*
+34,2242,*mammals, France, stratigraphic*
+34,2243,*Faunas--General*
+34,2243,*Gt. Brit., stratigraphic*
+34,2244,*Faunas--Quaternary*
+34,2244,*Palestine*
+34,2246,*Faunas -- Quaternary -- Cave Faunas*
+34,2247,*Faunas -- Quaternary -- Cave Faunas*
+34,2248,*Faunas -- Quaternary -- Cave Faunas*
+34,2249,*Faunas -- Quaternary -- Cave Faunas*
+34,2249,*man, mammals, Palestine*
+34,2250,*Faunas -- Quaternary -- Cave Faunas*
+34,2251,*Faunas--Quaternary*
+34,2252,*Faunas -- Quaternary -- Cave Faunas*
+34,2255,*Faunas--Quaternary*
+34,2255,*upper paleolithic, general*
+34,2256,*Faunas -- Quaternary -- Cave Faunas*
+34,2256,*Palestine*
+34,2257,*Faunas -- Quaternary -- Cave Faunas*
+34,2257,*chiefly mammals, Palestine*
+34,2261,*Faunas--Quaternary*
+34,2261,*primate, Morocco*
+34,2265,*Faunas--Quaternary*
+34,2265,*mammoth, Sweden*
+34,2266,*Faunas--Tertiary*
+34,2266,*mammals, France*
+34,2267,*Faunas--Pliocene*
+34,2267,*hares, Idaho*
+34,2269,*Faunas--Pliocene*
+34,2269,*mustelids, Idaho*
+34,2270,*Faunas--Cenozoic*
+34,2270,*sloths, Idaho*
+34,2271,*Faunas--Miocene*
+34,2271,*Florissant fauna*
+34,2272,*Faunas--Pliocene*
+34,2272,*antilocaprid, Idaho*
+34,2273,*Faunas--Quaternary*
+34,2273,*mammals, Idaho*
+34,2275,*Faunas--Pliocene*
+34,2275,*Hagerman fauna, Idaho*
+34,2276,*Faunas--Tertiary*
+34,2276,*mustelid, Nebraska*
+34,2277,*Faunas--Eocene*
+34,2277,*taeniodont, Wyoming*
+34,2278,*Faunas--Pliocene*
+34,2278,*mustelids, Idaho, Texas*
+34,2280,*Faunas--Pliocene*
+34,2280,*peccary, Idaho*
+34,2281,*Faunas--Paleocene*
+34,2281,*mammals, Utah*
+34,2282,*Faunas--Quaternary*
+34,2282,*moose, Indiana*
+34,2283,*Faunas--Oligocene*
+34,2283,*anthracotheres, France*
+34,2285,*Faunas--Quaternary*
+34,2285,*Neanderthal man, Italy*
+34,2288,*Faunas--Tertiary*
+34,2288,*man*
+34,2289,*Faunas--Triassic*
+34,2289,*fishes, Gt. Britain, stratigraphic*
+34,2290,*Faunas--Jurassic*
+34,2292,*Faunas--Quaternary*
+34,2292,*marmots, Switzerland*
+34,2294,*Faunas--Tertiary*
+34,2294,*rhinocerotid, Switzerland*
+34,2295,*Faunas--Oligocene*
+34,2295,*fishes, France*
+34,2296,*Faunas--Jurassic*
+34,2296,*marine reptiles, France*
+34,2300,*Faunas--Mesozoic*
+34,2300,*S. America, stratigraphic*
+34,2302,*Faunas--Paleozoic and Mesozoic*
+34,2302,*S. Africa, stratigraphic*
+34,2303,*Faunas--Quaternary*
+34,2303,*fish, Saxony*
+34,2304,*Faunas--Tertiary*
+34,2304,*chiefly mammals, France*
+34,2306,*Faunas--Tertiary*
+34,2307,*Faunas -- Quaternary -- Cave Faunas*
+34,2307,*chiefly mammals, Cumberland cave, Maryland*
+34,2309,*Faunas--Quaternary*
+34,2310,*Faunas--Miocene*
+34,2310,*reptiles, amphibians, Greece*
+34,2311,*Faunas--Quaternary*
+34,2311,*mammals, Alsace-Lorraine, stratigraphic*
+34,2312,*Faunas--Oligocene*
+34,2312,*marine, Alsace-Lorraine*
+34,2318,*Faunas--Tertiary*
+34,2318,*turtles, Mongolia*
+34,2319,*Faunas--Cretaceous*
+34,2319,*dinosaurs, turtles, New Mexico*
+34,2320,*Faunas--Cretaceous*
+34,2320,*Pteranodon, Texas*
+34,2321,*Faunas--Jurassic*
+34,2321,*reptiles, Utah*
+34,2322,*Faunas--Cretaceous*
+34,2322,*ankylosaur, Wyoming*
+34,2324,*Faunas--Miocene*
+34,2324,*turtle, California*
+34,2325,*Faunas--Cretaceous*
+34,2325,*hadrosaurian dinosaur, Montana*
+34,2327,*Faunas--Mesozoic and Cenozoic*
+34,2327,*snakes, N. America*
+34,2328,*Faunas--Tertiary*
+34,2328,*lizards, western U. S.*
+34,2329,*Faunas--Cretaceous*
+34,2329,*sauropod dinosaur, Utah*
+34,2331,*Anthropozoic, USSR*
+34,2331,*Faunas--Quaternary*
+34,2332,*Europe, stratigraphic*
+34,2332,*Faunas--Quaternary*
+34,2335,*Faunas--Tertiary*
+34,2335,*turtles, Hungary*
+34,2336,*Faunas--Quaternary*
+34,2336,*whales, France*
+34,2337,*Anthracotherium, France*
+34,2337,*Faunas--Oligocene*
+34,2339,*Faunas--Quaternary*
+34,2339,*man, N. America*
+34,2342,*Faunas--Quaternary*
+34,2342,*paleolithic, Russia*
+34,2344,*Faunas--Quaternary*
+34,2344,*Russia, popular*
+34,2345,*Brazil*
+34,2345,*Faunas--General*
+34,2349,*Faunas--Quaternary*
+34,2349,*man, general*
+34,2352,*Faunas--Devonian*
+34,2352,*ptyctodont fishes, Poland*
+34,2353,*Faunas--Devonian*
+34,2353,*dipnoans, Poland*
+34,2357,*Faunas--Quaternary*
+34,2359,*Faunas--Quaternary*
+34,2359,*paleolithic, Austria*
+34,2361,*Faunas--Miocene*
+34,2361,*fishes, California, stratigraphic*
+34,2368,*Faunas--Devonian*
+34,2368,*chordate, Canada*
+34,2370,*Faunas--Devonian*
+34,2370,*dipnoan, Canada*
+34,2371,*Faunas--Quaternary*
+34,2371,*fishes, Saxony*
+34,2372,*Faunas--Quaternary*
+34,2372,*Saxony*
+34,2377,*Faunas--Eocene*
+34,2377,*creodont, Mongolia*
+34,2378,*Faunas -- Quaternary -- Cave Faunas*
+34,2378,*Szechwan*
+34,2379,*Faunas--Eocene*
+34,2379,*amblypods, Mongolia*
+34,2381,*Faunas--Oligocene*
+34,2381,*rhinoceros, Mongolia*
+34,2382,*Faunas--Tertiary*
+34,2382,*titanotheres, Mongolia*
+34,2383,*Faunas--Eocene*
+34,2383,*titanothere, Mongolia*
+34,2387,*Faunas -- Quaternary -- Cave Faunas*
+34,2393,*Faunas--Pliocene*
+34,2393,*camel, S. Dakota*
+34,2394,*Faunas--Pliocene*
+34,2394,*Merychippus western U. S.*
+34,2395,*Faunas--Tertiary*
+34,2395,*mammals, S. Dakota*
+34,2441,*Faunas--Tertiary*
+34,2441,*anthropoids, India*
+34,2444,*Faunas--Tertiary*
+34,2458,*Faunas--Quaternary*
+34,2458,*Podkumak man*
+34,2464,*Faunas--Quaternary*
+34,2464,*stragraphic, Germany*
+34,2466,*Faunas -- Quaternary -- Cave Faunas*
+34,2466,*paleolithic, Ukraine*
+34,2468,*Faunas -- Quaternary -- Cave Faunas*
+34,2469,*Faunas -- Quaternary -- Cave Faunas*
+34,2469,*Russia*
+34,2470,*Faunas--Quaternary*
+34,2470,*mammals, USSR*
+34,2471,*Faunas--Quaternary*
+34,2471,*paleolithic, Eurasia*
+34,2472,*Faunas--Quaternary*
+34,2472,*Volga region, stratigraphic*
+34,2473,*Faunas--Quaternary*
+34,2473,*Russia*
+34,2474,*Faunas--Quaternary*
+34,2474,*Russia, stratigraphic*
+34,2474,*Faunas -- Quaternary -- Cave Faunas*
+34,2475,*Faunas--Quaternary*
+34,2476,*Faunas--Cenozoic*
+34,2476,*mammals, N. Caucasus*
+34,2477,*Faunas--Quaternary*
+34,2477,*mammals, Russia*
+34,2478,*Faunas--Quaternary*
+34,2478,*chiefly mammals, Siberia*
+34,2479,*Elephas, Russia*
+34,2479,*Faunas--Quaternary*
+34,2480,*Faunas -- Quaternary -- Cave Faunas*
+34,2480,*mammals, Kostroma*
+34,2481,*Faunas--Quaternary*
+34,2481,*prehistoric lion, Europe*
+34,2483,*Faunas--Quaternary*
+34,2483,*Russia*
+34,2484,*Europe and Asia*
+34,2484,*Faunas--Tertiary*
+34,2486,*Faunas--Quaternary*
+34,2486,*origin of domestic animals*
+34,2487,*Faunas--Quaternary*
+34,2487,*rhinoceros, Volga region*
+34,2488,*Faunas--Quaternary*
+34,2489,*Bison, Russia*
+34,2489,*Faunas--Quaternary*
+34,2491,*Faunas--Quaternary*
+34,2491,*mammals, man, Russia*
+34,2492,*Faunas--Quaternary*
+34,2492,*bovids, Crimea*
+34,2493,*Faunas--Quaternary*
+34,2494,*Faunas--Quaternary*
+34,2494,*mammals, Crimea, stratigraphic*
+34,2500,*Faunas--Devonian*
+34,2500,*dipnoan, Baltic region*
+34,2501,*Baltic region, stratigraphic*
+34,2501,*Faunas--Devonian*
+34,2506,*Faunas--Devonian*
+34,2506,*crossopterygians, Baltic region*
+34,2507,*Faunas--Devonian*
+34,2507,*crossopterygians, Germany*
+34,2508,*Faunas--Devonian*
+34,2508,*ostracoderms, fishes, Germany*
+34,2511,*Faunas--Jurassic*
+34,2511,*pterodactyl, Solnhofen*
+34,2515,*Faunas--Devonian*
+34,2515,*arthrodire, Germany*
+34,2518,*Faunas--Quaternary*
+34,2518,*man, associated fauna, White Russia*
+34,2521,*Faunas--Pliocene*
+34,2521,*mammals, Germany, stratigraphic*
+34,2523,*Faunas--Quaternary*
+34,2523,*general*
+34,2534,*Caspian region, stratigraphic*
+34,2534,*Faunas--Quaternary*
+34,2535,*Faunas--Quaternary*
+34,2535,*man, Bavaria*
+34,2539,*Faunas--Permian*
+34,2539,*amphibians, Germany*
+34,2540,*Faunas--Mesozoic*
+34,2540,*ganoids, Switzerland*
+34,2541,*Faunas--Devonian*
+34,2541,*crossopterygians, Germany*
+34,2542,*Faunas--Quaternary*
+34,2542,*Solo man, associated fauna*
+34,2543,*Faunas--Triassic*
+34,2543,*reptile tracks, Germany*
+34,2545,*Faunas--General*
+34,2545,*Hyracoidea*
+34,2557,*Faunas--Quaternary*
+34,2557,*mammals, Belgium, stratigraphic*
+34,2558,*Faunas--Quaternary*
+34,2558,*rhinoceros, France*
+34,2559,*Faunas--Tertiary*
+34,2559,*fishes, Belgium, Holland, stratigraphic*
+34,2560,*Faunas--Pliocene*
+34,2560,*sharks, Belgium, stratigraphic*
+34,2561,*Faunas--Quaternary*
+34,2561,*Poland*
+34,2564,*Faunas--Pliocene*
+34,2564,*mustelid, California*
+34,2565,*Faunas--Quaternary*
+34,2565,*mustelids, N. America*
+34,2574,*Faunas--Tertiary*
+34,2574,*whale, California*
+34,2575,*Faunas--Quaternary*
+34,2575,*man, Utah*
+34,2576,*Faunas--General*
+34,2576,*fish "tracks"*
+34,2577,*Faunas--Permian*
+34,2577,*footprints, West Virginia*
+34,2579,*Faunas--Carboniferous*
+34,2579,*fishes, Oklahoma*
+34,2585,*Faunas--Quaternary*
+34,2585,*mammals, Kansas*
+34,2586,*Faunas--Devonian*
+34,2586,*fish, Ireland*
+34,2593,*Faunas -- Quaternary -- Cave Faunas*
+34,2593,*Gypsum cave, Nevada*
+34,2596,*Faunas -- Quaternary -- Cave Faunas*
+34,2597,*Faunas -- Quaternary -- Cave Faunas*
+34,2597,*southwestern U. S.*
+34,2612,*Faunas--Permian*
+34,2612,*general*
+34,2614,*Faunas--Permian*
+34,2614,*pareiasaurs, Russia*
+34,2615,*Faunas--Permian*
+34,2615,*gorgonopsians, Russia*
+34,2616,*Faunas--Triassic*
+34,2617,*Faunas--Triassic*
+34,2617,*stegocephalians, Russia*
+34,2622,*Faunas--Quaternary*
+34,2622,*Saiga, Belgium*
+34,2632,*Faunas--Jurassic*
+34,2632,*new finds at Holzmaden*
+34,2634,*Faunas--Jurassic*
+34,2634,*chondrosteid fish, Germany*
+34,2635,*Faunas--Mesozoic*
+34,2636,*Faunas--Mesozoic*
+34,2636,*fishes, Karroo*
+34,2637,*Faunas--Paleozoic and Mesozoic*
+34,2637,*Karroo system, correlation*
+34,2638,*Faunas--Tertiary*
+34,2638,*mammals, Hessen*
+34,2640,*Faunas--Tertiary*
+34,2640,*deer, Germany*
+34,2641,*Faunas--Quaternary*
+34,2641,*red deer, Germany*
+34,2646,*Faunas--Quaternary*
+34,2646,*northern India*
+34,2652,*Faunas--Cenozoic*
+34,2652,*mammals, Formosa, stratigraphic*
+34,2658,*Faunas--Quaternary*
+34,2658,*frozen mammoth*
+34,2665,*Faunas--Quaternary*
+34,2665,*mammals, Silesia*
+34,2669,*Faunas--Permian*
+34,2669,*fishes, Norway*
+34,2671,*Faunas--Devonian*
+34,2674,*Faunas--Devonian*
+34,2674,*arthrodires, Spitzbergen*
+34,2680,*Faunas--Quaternary*
+34,2680,*Felis, Germany*
+34,2681,*Faunas -- Quaternary -- Cave Faunas*
+34,2682,*Faunas -- Quaternary -- Cave Faunas*
+34,2683,*Faunas -- Quaternary -- Cave Faunas*
+34,2683,*otter, France*
+34,2684,*Faunas -- Quaternary -- Cave Faunas*
+34,2684,*Felis, Switzerland*
+34,2685,*Faunas--Quaternary*
+34,2685,*mustelids, Germany*
+34,2688,*Faunas--Cenozoic*
+34,2688,*edentates, Europe*
+34,2689,*Faunas--Quaternary*
+34,2689,*marmot, Germany*
+34,2690,*Faunas--Quaternary*
+34,2690,*small mammals, Germany*
+34,2693,*Faunas--Eocene*
+34,2693,*artiodactyl, Germany*
+34,2694,*Faunas--Quaternary*
+34,2694,*mouse, Germany*
+34,2695,*Faunas--Eocene*
+34,2695,*lemur, Germany*
+34,2696,*Faunas--Eocene*
+34,2696,*bat, Germany*
+34,2697,*Faunas--Eocene*
+34,2699,*Faunas--Pliocene*
+34,2699,*chiefly mammals, Germany*
+34,2700,*Faunas--Quaternary*
+34,2700,*chiefly mammals, Germany*
+34,2701,*Faunas--Eocene*
+34,2701,*mammals, Germany*
+34,2702,*Faunas -- Quaternary -- Cave Faunas*
+34,2703,*Faunas--Permian*
+34,2703,*ichnites, Germany*
+34,2704,*Faunas--Pliocene*
+34,2704,*bears, Germany*
+34,2707,*Faunas--Devonian*
+34,2707,*fish, Gt. Britain*
+34,2716,*Faunas--Jurassic*
+34,2716,*stegosaur, E. Africa*
+34,2732,*Faunas--Devonian*
+34,2732,*arthrodire, Austria*
+34,2734,*Faunas--Cenozoic*
+34,2735,*Faunas--Cretaceous*
+34,2739,*Caudata, Germany*
+34,2739,*Faunas--Eocene*
+34,2740,*Faunas--Tertiary*
+34,2740,*salamander, Spain*
+34,2741,*Faunas--Eocene*
+34,2741,*salamanders, Germany*
+34,2742,*Faunas--General*
+34,2742,*Urodela*
+34,2745,*Elephas, Switzerland*
+34,2745,*Faunas--Quaternary*
+34,2746,*Faunas--Pliocene*
+34,2746,*vole, California*
+34,2748,*Faunas--Pliocene*
+34,2748,*mastodon, Nebraska*
+34,2750,*Faunas--Triassic*
+34,2750,*fish, Utah*
+34,2751,*Faunas--Pliocene*
+34,2751,*chiefly mammals, Nebraska*
+34,2752,*Faunas--Triassic*
+34,2752,*fishes, western N. America*
+34,2753,*Faunas--Eocene*
+34,2753,*fish, Washington*
+34,2754,*Faunas--Pliocene*
+34,2755,*Faunas--Pliocene*
+34,2755,*chiefly mammals, Oklahoma*
+34,2756,*Faunas--Tertiary*
+34,2756,*fishes, California*
+34,2757,*Faunas--Miocene*
+34,2757,*Texas Gulf coast*
+34,2758,*Faunas--Miocene*
+34,2758,*pipe-fish, California*
+34,2759,*Faunas--Cretaceous*
+34,2759,*dinosaur, California*
+34,2769,*Faunas--General*
+34,2769,*recent tortoises, S. Africa*
+34,2770,*Faunas--Pliocene*
+34,2770,*felids, associated fauna, Kansas*
+34,2771,*Faunas--Pliocene*
+34,2771,*sunfishes, Kansas*
+34,2772,*Faunas--Quaternary*
+34,2772,*vole, Kansas*
+34,2773,*Faunas--Quaternary*
+34,2773,*prairie dog, Kansas*
+34,2774,*Faunas--Quaternary*
+34,2774,*mammals, Kansas*
+34,2775,*Faunas--Pliocene*
+34,2775,*chiefly mammals, Texas*
+34,2776,*Faunas--Pliocene*
+34,2776,*mammals, Kansas*
+34,2777,*Faunas--Carboniferous*
+34,2777,*fish, Missouri*
+34,2778,*Faunas -- Quaternary -- Cave Faunas*
+34,2778,*mammals associated with man, New Mexico*
+34,2785,*Faunas--Quaternary*
+34,2785,*paleolithic, Hungary*
+34,2786,*Faunas--Tertiary*
+34,2786,*fresh water fishes, Queensland*
+34,2787,*Faunas--Cretaceous*
+34,2787,*fish, Syria*
+34,2788,*Faunas--Devonian*
+34,2789,*Faunas--Devonian*
+34,2789,*arthrodire, Australia*
+34,2790,*Faunas -- Quaternary -- Cave Faunas*
+34,2791,*Faunas--Quaternary*
+34,2791,*beaver, Germany*
+34,2793,*Faunas -- Quaternary -- Cave Faunas*
+34,2794,*Faunas -- Quaternary -- Cave Faunas*
+34,2795,*Faunas -- Quaternary -- Cave Faunas*
+34,2796,*Faunas -- Quaternary -- Cave Faunas*
+34,2796,*mammals, Oberklausen, Germany*
+34,2797,*Faunas--Quaternary*
+34,2797,*bear, Germany*
+34,2800,*Faunas--Quaternary*
+34,2801,*Faunas--Quaternary*
+34,2802,*Faunas--Cenozoic*
+34,2802,*mammals, northwestern U. S., stratigraphic*
+34,2805,*Faunas--Cretaceous*
+34,2806,*Faunas--Cretaceous*
+34,2806,*dinosaurs, Indo-China, stratigraphic*
+34,2807,*Faunas--Jurassic*
+34,2808,*Faunas -- Quaternary -- Cave Faunas*
+34,2808,*Ofnet cave, Germany*
+34,2809,*Faunas--General*
+34,2809,*serpents*
+34,2810,*Faunas--Tertiary*
+34,2810,*elapid snakes, France*
+34,2811,*Faunas--Quaternary*
+34,2811,*mammals, Austria*
+34,2821,*Faunas--Paleozoic*
+34,2821,*ostracoderms, Norway, stratigraphic*
+34,2831,*Faunas--Quaternary*
+34,2831,*man, elephants, associated Pleistocene mammals*
+34,2832,*Faunas--Quaternary*
+34,2832,*mammals, E. Africa*
+34,2833,*Faunas--Miocene*
+34,2833,*primates, E. Africa*
+34,2835,*Faunas--Cenozoic*
+34,2835,*Proboscidea, China*
+34,2836,*Faunas--Quaternary*
+34,2836,*Pleistocene stratigraphy*
+34,2838,*Faunas--Quaternary*
+34,2838,*mammals, E. Africa*
+34,2843,*Faunas--Quaternary*
+34,2843,*horses, E. Africa*
+34,2844,*Faunas--Eocene*
+34,2844,*shark, India*
+34,2845,*Faunas--Quaternary*
+34,2845,*fishes, India*
+34,2846,*Faunas--Cenozoic*
+34,2847,*Faunas--Cenozoic*
+34,2847,*fishes, India, stratigraphic*
+34,2848,*Faunas--Cenozoic*
+34,2848,*fishes, India*
+34,2849,*Faunas -- Quaternary -- Cave Faunas*
+34,2849,*chiefly mammals, Germany*
+34,2850,*Faunas--Quaternary*
+34,2850,*man and apes, Wu%Frttemberg*
+34,2851,*Faunas--Quaternary*
+34,2851,*carnivores, Germany*
+34,2853,*Faunas -- Quaternary -- Cave Faunas*
+34,2855,*Faunas -- Quaternary -- Cave Faunas*
+34,2855,*Guadalupe Mts., Texas*
+34,2856,*Faunas--Quaternary*
+34,2858,*Faunas--Quaternary*
+34,2859,*Faunas--Quaternary*
+34,2860,*Faunas--Quaternary*
+34,2861,*Faunas--Quaternary*
+34,2863,*Faunas--Quaternary*
+34,2864,*Faunas--Quaternary*
+34,2865,*Faunas--Quaternary*
+34,2866,*Faunas--Quaternary*
+34,2867,*Faunas--Quaternary*
+34,2868,*Faunas--Quaternary*
+34,2869,*Faunas--Quaternary*
+34,2870,*Faunas--Quaternary*
+34,2872,*Faunas--Quaternary*
+34,2872,*man in N. America*
+34,2873,*Faunas--Quaternary*
+34,2873,*man, N. America*
+34,2875,*Faunas -- Quaternary -- Cave Faunas*
+34,2875,*eagle, Nevada*
+34,2876,*Faunas--Quaternary*
+34,2877,*Faunas--Quaternary*
+34,2878,*Faunas--Quaternary*
+34,2879,*Faunas--Quaternary*
+34,2879,*birds, California*
+34,2880,*Faunas--Quaternary*
+34,2881,*Faunas--Quaternary*
+34,2881,*birds, Rancho La Brea*
+34,2883,*Faunas--Pliocene*
+34,2883,*fishes, Australia, stratigraphy*
+34,2894,*Faunas--Quaternary*
+34,2897,*Faunas--Quaternary*
+34,2897,*man, Wyoming*
+34,2898,*Faunas--Quaternary*
+34,2898,*Poland*
+34,2907,*Faunas--Quaternary*
+34,2909,*Faunas--Quaternary*
+34,2915,*Faunas--Devonian*
+34,2915,*shark tooth, Indiana*
+34,2916,*Faunas -- Quaternary -- Cave Faunas*
+34,2916,*man, mammals, Switzerland*
+34,2917,*Faunas--Carboniferous*
+34,2917,*fishes, Gt. Britain, stratigraphic*
+34,2921,*Faunas--Cretaceous*
+34,2921,*mosasaur, E. Indies*
+34,2922,*Faunas--Triassic*
+34,2922,*rhynchocephalian, Germany*
+34,2924,*Faunas--Jurassic*
+34,2924,*plesiosaur, Germany*
+34,2925,*Faunas--Triassic*
+34,2925,*placodont reptile, Germany*
+34,2926,*Faunas--Cretaceous*
+34,2927,*Faunas--Triassic*
+34,2927,*dinosaurs, Germany*
+34,2928,*Faunas--Cretaceous*
+34,2928,*reptiles, Uruguay*
+34,2930,*Faunas--Triassic*
+34,2930,*Faunas--Triassic*
+34,2930,*reptile trackways, Europe*
+34,2931,*Faunas--Triassic*
+34,2931,*Mixosaurus, Italy*
+34,2932,*Faunas--Jurassic*
+34,2932,*plesiosaur, Greenland*
+34,2933,*Chirotherium, Brazil*
+34,2933,*Faunas--Triassic*
+34,2934,*Faunas--General*
+34,2934,*anomodonts*
+34,2938,*Faunas--Mesozoic*
+34,2938,*ichthyosaur, East Indies*
+34,2939,*Faunas--Triassic*
+34,2939,*dicynodonts, Brazil*
+34,2941,*Faunas--Triassic*
+34,2943,*Cynodontia, Brazil*
+34,2943,*Faunas--General*
+34,2943,*Faunas--Triassic*
+34,2943,*therapsids*
+34,2946,*Faunas--Jurassic*
+34,2946,*plesiosaur, east Baltic region*
+34,2950,*Faunas--Triassic*
+34,2950,*reptile footprints*
+34,2951,*Faunas--Jurassic*
+34,2951,*plesiosaur, Abyssinia*
+34,2952,*Faunas--Triassic*
+34,2952,*pseudosuchian, E. Africa*
+34,2953,*Faunas--Triassic*
+34,2953,*placodont, Germany*
+34,2954,*Faunas--Paleozoic and Mesozoic*
+34,2954,*Faunas--Permian*
+34,2954,*theriodonts*
+34,2954,*theriodonts, S. Africa*
+34,2955,*Faunas--Triassic*
+34,2955,*rhynchosaur, E. Africa*
+34,2956,*Faunas--Triassic*
+34,2956,*Pseudosuchia, Saurischia, and Rhynchocephalia, Brazil, India*
+34,2957,*Faunas--Pliocene*
+34,2957,*horses, California, stratigraphic*
+34,2959,*Faunas -- Quaternary -- Cave Faunas*
+34,2959,*mammals, Mousterian, France*
+34,2960,*Faunas--Quaternary*
+34,2960,*chronology*
+34,2961,*Faunas--Eocene*
+34,2961,*turtles, Germany*
+34,2962,*Faunas--Quaternary*
+34,2962,*mammals, Germany*
+34,2963,*Faunas--Eocene*
+34,2963,*fishes, Germany*
+34,2966,*Faunas--Quaternary*
+34,2967,*Faunas--Quaternary*
+34,2967,*man in America*
+34,2971,*Faunas--Oligocene*
+34,2971,*anoplothere, France*
+34,2972,*Faunas--Devonian*
+34,2972,*Phlyctaenaspis*
+34,2980,*Elephas, Japan*
+34,2980,*Faunas--Cenozoic*
+34,2985,*Faunas--Quaternary*
+34,2985,*mammals, Rumania*
+34,2988,*Faunas--Jurassic*
+34,2988,*plesiosaur, eastern Baltic region*
+34,2989,*Faunas--Quaternary*
+34,2990,*Faunas--Mesozoic*
+34,2990,*dinosaur locality, Russia*
+34,2991,*Faunas -- Quaternary -- Cave Faunas*
+34,2991,*rodents, Pin Hole cave, England*
+34,2992,*Faunas--Quaternary*
+34,2992,*mammals, England*
+34,2999,*Faunas--Quaternary*
+34,2999,*mammoth, Germany*
+34,3000,*Faunas--Quaternary*
+34,3000,*mammoth, Sweden*
+34,3001,*Alca, Sweden*
+34,3001,*Faunas--Quaternary*
+34,3014,*Faunas--Quaternary*
+34,3014,*Quaternary chronology*
+34,3016,*Faunas--Jurassic*
+34,3017,*Faunas--Jurassic*
+34,3018,*Faunas--Jurassic*
+34,3020,*Faunas--Jurassic*
+34,3026,*Faunas--Jurassic*
+34,3026,*sauropod dinosaurs, E. Africa*
+34,3027,*Faunas--Oligocene*
+34,3027,*fish, Moravia*
+34,3028,*Faunas--Devonian*
+34,3028,*crossopterygians, Russia*
+34,3030,*Faunas--Quaternary*
+34,3030,*mammals, Spain*
+34,3032,*Faunas -- Quaternary -- Cave Faunas*
+34,3033,*Faunas--Quaternary*
+34,3033,*man, France*
+34,3034,*Faunas--Quaternary*
+34,3034,*shark, France, stratigraphic*
+34,3035,*Ethiopia, general*
+34,3035,*Faunas--Quaternary*
+34,3042,*Faunas--Quaternary*
+34,3044,*Faunas--Quaternary*
+34,3045,*Faunas--Quaternary*
+34,3045,*chiefly mammals, Minnestoa*
+34,3046,*Faunas--Quaternary*
+34,3047,*Faunas--Quaternary*
+34,3048,*Faunas--Quaternary*
+34,3048,*Sauk Valley skeleton*
+34,3051,*Faunas--Oligocene*
+34,3051,*White River*
+34,3052,*Faunas--Oligocene*
+34,3052,*Faunas--Tertiary*
+34,3052,*lemur, S. Dakota*
+34,3052,*lemurs, N. America*
+34,3053,*Faunas--Paleocene*
+34,3053,*rodent, Montana*
+34,3054,*Faunas--Paleocene*
+34,3054,*Polecat Bench, Wyoming*
+34,3055,*Ballybetagh bogs, Ireland*
+34,3055,*Faunas--Quaternary*
+34,3056,*Big Bone Lick, Kentucky*
+34,3056,*Faunas--Quaternary*
+34,3057,*Faunas -- Quaternary -- Cave Faunas*
+34,3057,*mammals, Spain*
+34,3058,*Faunas -- Quaternary -- Cave Faunas*
+34,3059,*Faunas -- Quaternary -- Cave Faunas*
+34,3059,*mammals, Magdalenian, France*
+34,3060,*E. Greenland, faunal zones and localities*
+34,3060,*Faunas--Devonian*
+34,3062,*Faunas--Tertiary*
+34,3063,*Faunas--Tertiary*
+34,3063,*Valentine fm., Nebraska, correlation*
+34,3065,*Faunas--Carboniferous*
+34,3065,*coprolites, fishes, Colorado*
+34,3066,*Faunas--Cretaceous*
+34,3066,*fishes, Colorado, stratigraphic*
+34,3067,*Faunas--Quaternary*
+34,3067,*peccaries, Oklahoma*
+34,3068,*Faunas--Pliocene*
+34,3068,*mammal tracks, Texas*
+34,3069,*Faunas--Pliocene*
+34,3069,*rhinoceros, Texas*
+34,3070,*Faunas--Quaternary*
+34,3070,*sloth, Texas*
+34,3071,*Faunas--Pliocene*
+34,3073,*Faunas--Pliocene*
+34,3073,*turtle, Texas*
+34,3074,*Faunas--Pliocene*
+34,3074,*horse, Texas*
+34,3075,*Faunas--Pliocene*
+34,3075,*coyote, Texas*
+34,3081,*Faunas--Quaternary*
+34,3081,*chronology, N. Africa*
+34,3085,*Faunas--Quaternary*
+34,3085,*Nigeria*
+34,3089,*Faunas--Eocene*
+34,3089,*percoid fish, Egypt*
+34,3090,*Equus, Sahara*
+34,3090,*Faunas--Quaternary*
+34,3091,*Faunas--Quaternary*
+34,3092,*Faunas--Cenozoic*
+34,3092,*mammals, N. Africa*
+34,3093,*Faunas--Quaternary*
+34,3093,*chiefly mammals, N. Africa*
+34,3094,*Cervicornia, Africa*
+34,3094,*Faunas--Cenozoic*
+34,3097,*Faunas--Quaternary*
+34,3097,*mammals, N. Africa*
+34,3098,*Faunas--Cenozoic*
+34,3098,*apes, Asia, Africa*
+34,3100,*Faunas--Quaternary*
+34,3100,*man, general*
+34,3102,*Faunas--Cenozoic*
+34,3102,*antelopes, N. Africa*
+34,3106,*Faunas--Quaternary*
+34,3106,*mammals, France*
+34,3109,*Faunas--Mesozoic and Cenozoic*
+34,3109,*Sahara*
+34,3112,*Champlain cave, Algeria*
+34,3112,*Faunas -- Quaternary -- Cave Faunas*
+34,3113,*Elephas, Central Africa*
+34,3113,*Faunas--Quaternary*
+34,3114,*Faunas--Quaternary*
+34,3114,*mammals, N. Africa*
+34,3114,*Faunas--Quaternary*
+34,3115,*Faunas--Quaternary*
+34,3120,*Faunas--Quaternary*
+34,3120,*primates, Sterkfontein*
+34,3127,*Faunas--Cenozoic*
+34,3127,*mammals, France, stratigraphic*
+34,3130,*Faunas -- Quaternary -- Cave Faunas*
+34,3131,*Faunas -- Quaternary -- Cave Faunas*
+34,3132,*Faunas -- Quaternary -- Cave Faunas*
+34,3133,*Faunas -- Quaternary -- Cave Faunas*
+34,3134,*Faunas -- Quaternary -- Cave Faunas*
+34,3136,*Faunas -- Quaternary -- Cave Faunas*
+34,3137,*Faunas--Quaternary*
+34,3138,*Faunas--Quaternary*
+34,3139,*Faunas -- Quaternary -- Cave Faunas*
+34,3140,*Faunas -- Quaternary -- Cave Faunas*
+34,3142,*Faunas -- Quaternary -- Cave Faunas*
+34,3143,*Faunas -- Quaternary -- Cave Faunas*
+34,3144,*Faunas -- Quaternary -- Cave Faunas*
+34,3146,*Faunas--Oligocene*
+34,3146,*Syngnathus, Czecho-Slovakia*
+34,3147,*Amphisile, Czecho-Slovakia*
+34,3147,*Faunas--Oligocene*
+34,3149,*Faunas--Oligocene*
+34,3149,*crocodilid, Spain*
+34,3156,*Faunas--Quaternary*
+34,3156,*Florisbad man*
+34,3157,*Faunas--Quaternary*
+34,3157,*Solo man*
+34,3161,*Faunas--Permian*
+34,3162,*Faunas--Permian*
+34,3162,*pareiasaurs, Russia*
+34,3163,*Faunas--Permian*
+34,3163,*reptiles, USSR*
+34,3165,*Faunas--Quaternary*
+34,3165,*Minnesota man, stratigraphic*
+34,3166,*Faunas--Tertiary*
+34,3166,*Uinta basin, stratigraphic*
+34,3169,*Faunas--Quaternary*
+34,3169,*Fort River Dam, Montana*
+34,3171,*Faunas--Quaternary*
+34,3172,*Faunas--Quaternary*
+34,3172,*man, S. Africa*
+34,3173,*Faunas--Quaternary*
+34,3173,*Palestine man*
+34,3178,*Faunas--Quaternary*
+34,3178,*man, stratigraphic*
+34,3179,*Faunas -- Quaternary -- Cave Faunas*
+34,3180,*Faunas -- Quaternary -- Cave Faunas*
+34,3180,*Mount Carmel man*
+34,3186,*Faunas -- Quaternary -- Cave Faunas*
+34,3186,*Mount Carmel man*
+34,3188,*Faunas--Triassic*
+34,3188,*fishes, Gt. Britain, stratigraphic*
+34,3189,*Faunas--Triassic*
+34,3189,*fishes, Gt. Britain, stratigraphic*
+34,3192,*Faunas--Carboniferous*
+34,3193,*Faunas--Carboniferous*
+34,3193,*Faunas--Carboniferous*
+34,3194,*Faunas--Miocene*
+34,3194,*whale, Patagonia*
+34,3195,*Faunas--Miocene*
+34,3195,*whale, California*
+34,3196,*Faunas--Miocene*
+34,3196,*whales, Maryland*
+34,3204,*Faunas--Jurassic*
+34,3204,*reptiles, Gt. Britain, stratigraphic*
+34,3217,*Faunas--Quaternary*
+34,3217,*Minnesota man, stratigraphic*
+34,3219,*Faunas--Paleozoic*
+34,3219,*ostracoderms, Spitzbergen*
+34,3228,*Faunas--Permian*
+34,3229,*Faunas--Permian*
+34,3229,*Texas, stratigraphy*
+34,3230,*Faunas--Quaternary*
+34,3230,*Swanscombe man, stratigraphic*
+34,3231,*Faunas--Quaternary*
+34,3231,*Pleistocene, Thames Valley*
+34,3232,*Faunas--Paleozoic*
+34,3232,*fishes, western Europe*
+34,3233,*Chirotherium beds, Germany*
+34,3233,*Faunas--Triassic*
+34,3235,*Faunas--Quaternary*
+34,3237,*Faunas--Quaternary*
+34,3237,*mammals, Austria*
+34,3239,*Faunas--Miocene*
+34,3239,*mastodons, Germany*
+34,3241,*Cretaceo-Tertiary boundary, Europe*
+34,3241,*Faunas--Mesozoic and Tertiary*
+34,3243,*Faunas--Pliocene*
+34,3243,*mammals, Arizona*
+34,3247,*Faunas--Pliocene*
+34,3247,*North Park fm., Wyoming, stratigraphic*
+34,3248,*Faunas--Tertiary*
+34,3248,*scombrid fishes, Japan*
+34,3249,*Faunas -- Quaternary -- Cave Faunas*
+34,3249,*chiefly mammals, cavernes de St. Brais, Switzerland*
+34,3251,*Faunas--General*
+34,3251,*Greenland, stratigraphic*
+34,3254,*Faunas--Quaternary*
+34,3254,*Java, Soloman, associated faunas*
+34,3255,*Faunas--Quaternary*
+34,3256,*Faunas--Quaternary*
+34,3257,*Faunas--Cenozoic*
+34,3257,*mammals, Java*
+34,3258,*Faunas--Quaternary*
+34,3259,*Faunas--Cenozoic*
+34,3259,*mammals, S. China*
+34,3261,*Faunas--Quaternary*
+34,3262,*Faunas--Quaternary*
+34,3263,*Faunas--Quaternary*
+34,3263,*mammals, Java*
+34,3264,*Faunas--Quaternary*
+34,3265,*Faunas--Quaternary*
+34,3265,*Modjokerto man*
+34,3267,*Faunas--Quaternary*
+34,3268,*Faunas--Quaternary*
+34,3268,*man, mammals, Pleistocene, Java, China*
+34,3269,*Faunas--Quaternary*
+34,3270,*Faunas--Quaternary*
+34,3270,*early man and stratigraphy, Java*
+34,3271,*Faunas--Quaternary*
+34,3272,*Faunas--Quaternary*
+34,3273,*Faunas--Quaternary*
+34,3273,*Pithecanthropus*
+34,3274,*Faunas--Quaternary*
+34,3274,*Pithecanthropus*
+34,3276,*Faunas--Jurassic*
+34,3276,*Ramphorhynchus, Solnhofen*
+34,3280,*Faunas--Quaternary*
+34,3280,*man, E. Africa*
+34,3288,*Faunas--Cenozoic*
+34,3288,*Hungary*
+34,3290,*Faunas--Quaternary*
+34,3290,*mammals, Pleistocene, Poland*
+34,3292,*Faunas--Quaternary*
+34,3293,*Faunas--Quaternary*
+34,3293,*Saccopastore man, stratigraphic*
+34,3294,*Faunas--Quaternary*
+34,3294,*man, Palestine*
+34,3295,*Faunas--Quaternary*
+34,3295,*Neanderthal man*
+34,3296,*Faunas--Quaternary*
+34,3297,*Faunas -- Quaternary -- Cave Faunas*
+34,3297,*Palestine man*
+34,3300,*Faunas--Tertiary*
+34,3300,*bear, Hungary*
+34,3301,*Faunas--Pliocene*
+34,3301,*mustelids, Hungary*
+34,3302,*Faunas--Pliocene*
+34,3302,*pangolin, Hungary*
+34,3303,*Faunas--Pliocene*
+34,3303,*rodent, E. Asia*
+34,3304,*Faunas--Pliocene*
+34,3304,*insectivores, bats, and rodents, Hungary*
+34,3305,*Faunas--Tertiary*
+34,3305,*hares, Hungary*
+34,3306,*Faunas--Cenozoic*
+34,3306,*chiefly mammals, Poland*
+34,3307,*Faunas -- Quaternary -- Cave Faunas*
+34,3308,*Faunas--Pliocene*
+34,3308,*voles, Huntary*
+34,3309,*Faunas--Cenozoic*
+34,3309,*procyonid, Hungary*
+34,3311,*Faunas -- Quaternary -- Cave Faunas*
+34,3311,*small mammals, Germany*
+34,3312,*Faunas -- Quaternary -- Cave Faunas*
+34,3312,*small mammals, Austria*
+34,3313,*Faunas--Pliocene*
+34,3313,*mammals, Hungary*
+34,3315,*Faunas--General*
+34,3315,*spalacid rodents*
+34,3316,*Faunas--Pliocene*
+34,3316,*shrews, Hungary*
+34,3317,*Faunas--Pliocene*
+34,3317,*cricetids, Hungary*
+34,3318,*Faunas--Quaternary*
+34,3318,*general, Hungary*
+34,3319,*Faunas--Triassic*
+34,3326,*Faunas--Quaternary*
+34,3326,*sloth, Argentina*
+34,3327,*Faunas--Pliocene*
+34,3327,*S. America*
+34,3329,*Faunas--Quaternary*
+34,3329,*mammals, S. America*
+34,3332,*Faunas--Quaternary*
+34,3332,*mammals, Germany*
+34,3334,*Faunas--Devonian*
+34,3334,*fishes, East Baltic region stratigraphic*
+34,3336,*Africa, stratigraphic*
+34,3336,*Faunas--General*
+34,3337,*Faunas--Cenozoic*
+34,3337,*carnivores, Hungary*
+34,3345,*Faunas--Quaternary*
+34,3345,*mammals, Germany*
+34,3351,*Faunas--Cenozoic*
+34,3351,*mammals, Hungary*
+34,3361,*Faunas--Quaternary*
+34,3361,*mammals, Trinidad, stratigraphic*
+34,3362,*Faunas--Quaternary*
+34,3362,*mammals, Switzerland*
+34,3365,*Faunas--Tertiary*
+34,3365,*archaeocetes, Germany*
+34,3366,*Callovian, Germany, stratigraphic*
+34,3366,*Faunas--Jurassic*
+34,3369,*Faunas--Triassic*
+34,3369,*amphibians, reptiles, Germany*
+34,3374,*Bavaria*
+34,3374,*Faunas--Tertiary*
+34,3376,*Faunas--Jurassic*
+34,3376,*fishes, reptiles, Germany*
+34,3377,*Faunas--Eocene*
+34,3377,*crocodiles, Germany*
+34,3379,*Faunas--Triassic*
+34,3379,*plateosaur footprint, Germany*
+34,3381,*Faunas--Quaternary*
+34,3381,*deer, Holland*
+34,3383,*Faunas--General*
+34,3384,*Faunas--Devonian*
+34,3384,*fish, Germany*
+34,3387,*Faunas--Triassic*
+34,3387,*stegocephalians, Russia*
+34,3389,*Bison, Lithuania*
+34,3389,*Faunas--Quaternary*
+34,3390,*Faunas -- Quaternary -- Cave Faunas*
+34,3390,*mammals, Austria*
+34,3391,*Faunas--Quaternary*
+34,3391,*man, Austria*
+34,3392,*Eoanthropus*
+34,3392,*Faunas--Quaternary*
+34,3393,*Faunas--Quaternary*
+34,3393,*man, Thibet*
+34,3396,*Faunas--Quaternary*
+34,3396,*paleolithic, England, stratigraphic*
+34,3398,*Faunas--Quaternary*
+34,3403,*Faunas--Tertiary*
+34,3403,*sharks, Fiji*
+34,3404,*Faunas--Jurassic*
+34,3404,*teleosaur, Isle of Re%A, France*
+34,3414,*Faunas--Quaternary*
+34,3415,*Faunas--Quaternary*
+34,3416,*Faunas--Quaternary*
+34,3417,*Faunas--Quaternary*
+34,3419,*Faunas--Quaternary*
+34,3420,*Faunas--Quaternary*
+34,3421,*Faunas--Quaternary*
+34,3421,*lemurs, birds, Madagascar*
+34,3421,*Faunas--Quaternary*
+34,3426,*Faunas--General*
+34,3426,*man*
+34,3430,*Faunas--Eocene*
+34,3430,*birds, Geiseltal, Germany*
+34,3433,*Faunas--Pliocene*
+34,3435,*Faunas--Pliocene*
+34,3444,*Faunas--Cretaceous*
+34,3444,*Ichthyornis*
+34,3445,*Dinornis and Aepyornis*
+34,3445,*Faunas--Quaternary*
+34,3448,*Faunas--Miocene*
+34,3448,*mammals, France, stratigraphic*
+34,3449,*Faunas--Cretaceous*
+34,3449,*dinosaurs, France*
+34,3450,*Faunas--Tertiary*
+34,3450,*mammals, France, stratigraphic*
+34,3451,*Faunas--Tertiary*
+34,3451,*chiefly mammals, France, stratigraphic*
+34,3455,*Faunas--Miocene*
+34,3455,*Jugoslavia*
+34,3456,*Faunas--Miocene*
+34,3456,*suid, Jugoslavia*
+34,3457,*Faunas--Miocene*
+34,3457,*mastodon, Jugoslavia*
+34,3460,*Faunas--General*
+34,3460,*Rhine river region*
+34,3461,*Faunas -- Quaternary -- Cave Faunas*
+34,3461,*rodents, Bahamas*
+34,3465,*Faunas -- Quaternary -- Cave Faunas*
+34,3465,*Faunas--General*
+34,3465,*Isle of Caldey, Wales*
+34,3465,*Isle of Caldey, Wales*
+34,3470,*Faunas--Quaternary*
+34,3471,*Faunas--Quaternary*
+34,3472,*Faunas--Quaternary*
+34,3474,*Faunas--Quaternary*
+34,3474,*man, Kenya*
+34,3475,*Faunas--Quaternary*
+34,3475,*man, associated mammals, E. Africa*
+34,3476,*Faunas -- Quaternary -- Cave Faunas*
+34,3476,*Faunas--Quaternary*
+34,3476,*Stone Age, Africa*
+34,3476,*stone age, Africa*
+34,3482,*Faunas--Quaternary*
+34,3482,*Paleoanthropology*
+34,3488,*Faunas--Quaternary*
+34,3488,*Palaeoanthropology, Europe*
+34,3489,*Faunas--Devonian*
+34,3489,*France, stratigraphic*
+34,3490,*Faunas -- Quaternary -- Cave Faunas*
+34,3490,*Russia*
+34,3491,*Faunas--Quaternary*
+34,3492,*Faunas--Quaternary*
+34,3492,*man and mammals, N. Africa*
+34,3495,*Faunas--Silurian*
+34,3495,*fishes, Downtonian, Sweden*
+34,3498,*Faunas--Quaternary*
+34,3498,*man and mammals, Texas, geologic age*
+34,3508,*Faunas -- Quaternary -- Cave Faunas*
+34,3508,*cave paintings, France*
+34,3511,*Faunas -- Quaternary -- Cave Faunas*
+34,3512,*Faunas -- Quaternary -- Cave Faunas*
+34,3513,*Faunas -- Quaternary -- Cave Faunas*
+34,3514,*Faunas -- Quaternary -- Cave Faunas*
+34,3514,*Switzerland*
+34,3515,*Elephas, Italy*
+34,3515,*Faunas--Quaternary*
+34,3516,*Faunas -- Quaternary -- Cave Faunas*
+34,3516,*mammals, Italy*
+34,3517,*Faunas--Quaternary*
+34,3517,*man, USSR*
+34,3518,*Faunas--Quaternary*
+34,3519,*Faunas--Quaternary*
+34,3519,*mammals, Ukraine, stratigraphic*
+34,3520,*Faunas--Quaternary*
+34,3520,*beaver, Estonia*
+34,3521,*Faunas--Quaternary*
+34,3521,*mammals, Estonia*
+34,3523,*Faunas -- Quaternary -- Cave Faunas*
+34,3523,*man, Italy*
+34,3524,*Faunas--Quaternary*
+34,3524,*seals, neolithic, Scandinavia*
+34,3525,*Faunas--Tertiary*
+34,3526,*Faunas--Cretaceous*
+34,3526,*fishes, Asia Minor*
+34,3527,*Faunas--Tertiary*
+34,3527,*fishes, Belgium*
+34,3528,*Faunas--Cretaceous*
+34,3528,*fishes, Belgium*
+34,3529,*Faunas--Cretaceous*
+34,3529,*fishes, France*
+34,3530,*Faunas--Oligocene*
+34,3530,*fishes, Netherlands*
+34,3531,*Faunas--Cenozoic*
+34,3531,*squalid sharks*
+34,3532,*Faunas--Tertiary*
+34,3533,*Faunas--Tertiary*
+34,3534,*Faunas--Tertiary*
+34,3535,*Faunas--Mesozoic*
+34,3535,*fishes, Poland*
+34,3536,*Faunas--Tertiary*
+34,3537,*Faunas--Cenozoic*
+34,3537,*Kaiso beds, E. Africa*
+34,3538,*Faunas--Tertiary*
+34,3538,*fishes, Western Europe, stratigraphic*
+34,3539,*Faunas--Mesozoic and Tertiary*
+34,3539,*fishes, circum-Caribbean region*
+34,3541,*Faunas--Quaternary*
+34,3547,*Faunas--General*
+34,3548,*Asia*
+34,3548,*Faunas--General*
+34,3552,*Faunas--Tertiary*
+34,3553,*Faunas--Miocene*
+34,3553,*suid, Siwaliks*
+34,3554,*Faunas--Tertiary*
+34,3555,*Faunas--Cenozoic*
+34,3555,*Siwaliks, correlation*
+34,3556,*Faunas--Tertiary*
+34,3557,*Faunas--Tertiary*
+34,3557,*apes, Siwaliks*
+34,3558,*Faunas--Tertiary*
+34,3558,*Valentine fm., correlation*
+34,3559,*Faunas--Pliocene*
+34,3559,*Orycteropus, India*
+34,3560,*Faunas--Pliocene*
+34,3560,*rodent, Siwaliks*
+34,3561,*Faunas--Pliocene*
+34,3561,*giraffids, Siwaliks*
+34,3569,*Faunas--Quaternary*
+34,3569,*paleolithic and neolithic sites, Sahara*
+34,3571,*Faunas--Pliocene*
+34,3571,*mammals, central Shansi*
+34,3572,*Faunas--Miocene*
+34,3572,*sciurid, Czechoslovakia*
+34,3573,*Faunas -- Quaternary -- Cave Faunas*
+34,3574,*Faunas--Oligocene*
+34,3574,*beaver, Czechoslovakia*
+34,3575,*Faunas--Quaternary*
+34,3575,*mammals, Czechoslovakia*
+34,3576,*Faunas--Tertiary*
+34,3576,*crocodile, Czechoslovakia*
+34,3578,*Faunas -- Quaternary -- Cave Faunas*
+34,3578,*mammals, birds, Czechoslovakia*
+34,3579,*Faunas -- Quaternary -- Cave Faunas*
+34,3579,*mammals, Czechoslovakia*
+34,3580,*Faunas--Tertiary*
+34,3580,*artiodactyls, Czechoslovakia*
+34,3583,*Faunas--Triassic*
+34,3584,*"swim tracks" of fishes, Germany*
+34,3584,*Faunas--Triassic*
+34,3585,*Ceratodus, Germany*
+34,3585,*Faunas--Triassic*
+34,3588,*Faunas--Quaternary*
+34,3588,*man, Germany*
+34,3591,*Faunas--Quaternary*
+34,3591,*mammals in tar, popular*
+34,3594,*Faunas--Paleozoic*
+34,3594,*ostracoderms, Germany, stratigraphic*
+34,3596,*Faunas -- Quaternary -- Cave Faunas*
+34,3596,*Mussolini cave, Hungary*
+34,3597,*Faunas--Mesozoic*
+34,3597,*reptiles, Brazil*
+34,3598,*Faunas--General*
+34,3598,*Wyoming*
+34,3600,*Faunas -- Quaternary -- Cave Faunas*
+34,3601,*Faunas -- Quaternary -- Cave Faunas*
+34,3601,*mammals, Julia cave, Italy*
+34,3603,*Australia*
+34,3603,*Faunas--General*
+34,3604,*Faunas--Quaternary*
+34,3604,*mammals, E. Africa*
+34,3605,*Faunas--Quaternary*
+34,3605,*Pithecanthropus*
+34,3607,*Faunas--Miocene*
+34,3607,*antilocaprid, Wyoming*
+34,3608,*Faunas--Miocene*
+34,3608,*canids, western U.S.*
+34,3609,*Faunas--Miocene*
+34,3609,*camel, Wyoming*
+34,3610,*Faunas--Jurassic*
+34,3610,*frogs, Spain*
+34,3612,*Faunas--Quaternary*
+34,3612,*association of man and Elephas antiquus, Italy*
+34,3613,*Faunas--Quaternary*
+34,3613,*hippopotamus, Italy*
+34,3614,*Faunas--Quaternary*
+34,3614,*mammals, Italy*
+34,3623,*Faunas--Mesozoic*
+34,3624,*Faunas--Mesozoic*
+34,3624,*dinosaur, China*
+34,3625,*Faunas--Quaternary*
+34,3626,*Faunas--Quaternary*
+34,3627,*Faunas--Quaternary*
+34,3627,*mammals, Manchuria*
+34,3630,*Faunas--Quaternary*
+34,3630,*man in S. Africa*
+34,3636,*Faunas--Quaternary*
+34,3637,*Faunas--Quaternary*
+34,3638,*Faunas--Quaternary*
+34,3640,*Faunas--Tertiary*
+34,3640,*Valentine fm., correlation*
+34,3645,*Faunas--Cretaceous*
+34,3651,*Balta beds, Russia, stratigraphic*
+34,3651,*Faunas--Cenozoic*
+34,3652,*Faunas--Quaternary*
+34,3652,*Pleistocene loess, Ukraine, stratigraphic*
+34,3653,*Faunas--Pliocene*
+34,3653,*Faunas--Quaternary*
+34,3653,*Ukraine*
+34,3653,*Ukraine*
+34,3654,*Faunas--Quaternary*
+34,3654,*mammut, Poland*
+34,3655,*Faunas--Permian*
+34,3655,*Russia, stratigraphic*
+34,3656,*Faunas--Eocene*
+34,3656,*snake, Virginia*
+34,3657,*Faunas--Quaternary*
+34,3657,*ground sloth, California*
+34,3658,*Faunas--Quaternary*
+34,3659,*Faunas--Quaternary*
+34,3659,*mammals, Pleistocene, Indiana*
+34,3661,*Faunas--Quaternary*
+34,3661,*Symbos, Pleistocene, Indiana*
+34,3662,*Faunas--Cenozoic*
+34,3662,*antelope, Russia*
+34,3663,*Faunas--Cenozoic*
+34,3663,*mammals, Bessarabia*
+34,3664,*Faunas--Tertiary*
+34,3664,*mammals, Meotian, Rumania*
+34,3673,*Faunas--Quaternary*
+34,3673,*Scotland*
+34,3675,*Faunas--Quaternary*
+34,3678,*Faunas--Quaternary*
+34,3678,*N. America, lake*
+34,3680,*Faunas--Quaternary*
+34,3681,*Faunas--Quaternary*
+34,3682,*Faunas--Quaternary*
+34,3683,*Faunas--Quaternary*
+34,3684,*Faunas--Quaternary*
+34,3685,*Faunas--Quaternary*
+34,3685,*Neanderthaloid man, Palestine*
+34,3689,*Faunas--Quaternary*
+34,3689,*man, Asia*
+34,3691,*Faunas--Quaternary*
+34,3694,*Faunas--Quaternary*
+34,3694,*Neanderthaloid man, Palestine*
+34,3697,*American caves and cave dwellers*
+34,3697,*Faunas -- Quaternary -- Cave Faunas*
+34,3698,*Faunas--Quaternary*
+34,3700,*Faunas--Devonian*
+34,3700,*Kentucky, stratigraphic*
+34,3701,*Faunas--Quaternary*
+34,3701,*man, associated fauna, S. Africa*
+34,3702,*Faunas--Paleozoic*
+34,3702,*Scotland*
+34,3703,*Faunas--Pliocene*
+34,3703,*canid, Nebraska*
+34,3705,*Faunas--Tertiary*
+34,3705,*didelphids, Nebraska*
+34,3708,*Faunas--Pliocene*
+34,3708,*mammals, Nebraska*
+34,3709,*Faunas--Tertiary*
+34,3709,*Valentine fm., Nebraska, correlation*
+34,3711,*Faunas--Miocene*
+34,3711,*deer, Africa*
+34,3712,*Faunas--Cenozoic*
+34,3714,*Faunas--Permian*
+34,3714,*footprints, Arizona*
+34,3715,*Arizona*
+34,3715,*Faunas--Permian*
+34,3716,*Big Horn Basin, Wyoming, stratigraphic*
+34,3716,*Faunas--Cenozoic*
+34,3717,*Bushman or Boskop, S. Africa*
+34,3717,*Faunas--Quaternary*
+34,3719,*Faunas -- Quaternary -- Cave Faunas*
+34,3719,*caves of the world, popular*
+34,3721,*Faunas--Cretaceous*
+34,3721,*Rumania*
+34,3730,*Faunas--Quaternary*
+34,3730,*man, Australia*
+34,3732,*Faunas--Miocene*
+34,3732,*dolphin, Japan*
+34,3733,*Faunas--Cenozoic*
+34,3733,*Proboscidea, Japan*
+34,3734,*Faunas--Quaternary*
+34,3734,*frog, Japan*
+34,3736,*Faunas--General*
+34,3736,*index fossils, Russia*
+34,3739,*Faunas--Quaternary*
+34,3739,*Rho%Dne valley, stratigraphic*
+34,3740,*Faunas--Miocene*
+34,3740,*frog, Germany*
+34,3744,*Faunas--Quaternary*
+34,3745,*Faunas--Quaternary*
+34,3746,*Faunas -- Quaternary -- Cave Faunas*
+34,3746,*artifacts and mammals, N. Africa*
+34,3747,*Faunas -- Quaternary -- Cave Faunas*
+34,3747,*pottery and mammals, N. Africa*
+34,3748,*Faunas -- Quaternary -- Cave Faunas*
+34,3748,*man and mammals, N. Africa*
+34,3749,*Faunas--Quaternary*
+34,3749,*man, N. Africa*
+34,3750,*Faunas--Quaternary*
+34,3750,*mammals, N. Africa*
+34,3753,*Faunas--Triassic*
+34,3753,*reptiles, Italy*
+34,3758,*Dinichthys, Belgium*
+34,3758,*Faunas--Devonian*
+34,3759,*Faunas--Quaternary*
+34,3759,*mammals, Colombia*
+34,3762,*Faunas--Quaternary*
+34,3765,*Faunas--Quaternary*
+34,3766,*Faunas--Quaternary*
+34,3767,*Faunas--Quaternary*
+34,3770,*Faunas--Eocene*
+34,3770,*fishes, England, stratigraphic*
+34,3771,*Faunas--Cenozoic*
+34,3771,*mammals, France*
+34,3772,*Faunas--Quaternary*
+34,3772,*moas, New Zealand*
+34,3773,*Faunas--Quaternary*
+34,3773,*origin of domestic ducks*
+34,3776,*Faunas--Quaternary*
+34,3776,*mammals, California*
+34,3778,*Faunas--Permian*
+34,3778,*trackway of flying reptile, Texas*
+34,3781,*Faunas--Quaternary*
+34,3783,*Faunas--Quaternary*
+34,3783,*Pr%Jedmost man*
+34,3785,*Faunas--Paleocene*
+34,3785,*mammals, reptiles, New Mexico*
+34,3789,*Faunas--Cretaceous*
+34,3789,*ganoids, Brazil*
+34,3791,*Bos primigenius, Rumania*
+34,3791,*Faunas--Quaternary*
+34,3792,*Faunas--Permian*
+34,3792,*Russia*
+34,3793,*Faunas--Tertiary*
+34,3793,*Hipparion faunas, N. America*
+34,3795,*Faunas--Paleozoic and Mesozoic*
+34,3795,*Permo-Triassic, Russia, stratigraphy*
+34,3796,*Elephas, France*
+34,3796,*Faunas--Quaternary*
+34,3797,*Faunas--Quaternary*
+34,3797,*paleolithic, France, stratigraphic*
+34,3799,*Faunas--Tertiary*
+34,3799,*mammals, Nebraska*
+34,3800,*Faunas -- Quaternary -- Cave Faunas*
+34,3800,*man, S. Africa*
+34,3801,*Faunas--Cretaceous*
+34,3801,*crocodiles, Kansas*
+34,3802,*Faunas--Cretaceous*
+34,3802,*aquatic dinosaur, Kansas*
+34,3803,*Faunas--Quaternary*
+34,3804,*Faunas--Quaternary*
+34,3804,*Wilton skulls, S. Africa*
+34,3808,*Faunas--Quaternary*
+34,3808,*mammals, England*
+34,3811,*Faunas--Quaternary*
+34,3811,*mesolithic, Portugal*
+34,3814,*Faunas--Triassic*
+34,3814,*Platychelys*
+34,3816,*European Russia*
+34,3816,*Faunas--Cenozoic*
+34,3820,*Elephas primigenius beds, Normandy*
+34,3820,*Faunas--Quaternary*
+34,3821,*Faunas--General*
+34,3821,*first fossil reptiles found in Caen region, France*
+34,3822,*Bathonian, France*
+34,3822,*Faunas--Jurassic*
+34,3825,*Faunas--Quaternary*
+34,3825,*man, N. America*
+34,3838,*Canis, Germany*
+34,3838,*Faunas--Quaternary*
+34,3839,*Faunas--Quaternary*
+34,3839,*mammals, Alaska*
+34,3840,*Faunas--Miocene*
+34,3840,*rhinoceros, France*
+34,3841,*Faunas--Cenozoic*
+34,3841,*France, stratigraphic*
+34,3845,*Faunas--Quaternary*
+34,3845,*man and animals, Germany*
+34,3846,*Faunas--General*
+34,3846,*Tertiary relicts in recent avifauna, Jura Mts.*
+34,3850,*Faunas--Pliocene*
+34,3851,*Faunas--Pliocene*
+34,3851,*mammals, France, stratigraphic*
+34,3854,*Faunas--Cenozoic*
+34,3854,*mammals, Japan*
+34,3858,*Faunas--Quaternary*
+34,3858,*birds, California*
+34,3859,*Faunas--Pliocene*
+34,3859,*goose footprints, California*
+34,3863,*Faunas--Quaternary*
+34,3863,*goose, California*
+34,3864,*Faunas--Quaternary*
+34,3865,*Faunas--Miocene*
+34,3868,*Faunas--Quaternary*
+34,3868,*Faunas--Quaternary*
+34,3868,*birds, California*
+34,3868,*condor-like birds, California*
+34,3869,*Faunas--Pliocene*
+34,3869,*Faunas--Pliocene*
+34,3869,*Parapavo, Texas*
+34,3869,*puffin, California*
+34,3877,*Faunas--Quaternary*
+34,3878,*Faunas--Quaternary*
+34,3879,*Faunas--Quaternary*
+34,3880,*Faunas--Quaternary*
+34,3881,*Faunas--Quaternary*
+34,3881,*proboscideans, Georgia*
+34,3884,*Amebelodon, Kansas*
+34,3884,*Faunas--Quaternary*
+34,3885,*Faunas -- Quaternary -- Cave Faunas*
+34,3885,*Pennsylvania cave exploration*
+34,3886,*Faunas--Quaternary*
+34,3886,*man, Moravia, stratigraphic*
+34,3891,*Faunas--Quaternary*
+34,3891,*man, mammals, England*
+34,3892,*Faunas--Tertiary*
+34,3892,*mammals associated with artifacts, England*
+34,3893,*Faunas--Cenozoic*
+34,3893,*age of Cromer Forest bed*
+34,3899,*Combette cave, France*
+34,3899,*Faunas -- Quaternary -- Cave Faunas*
+34,3908,*Faunas--Pliocene*
+34,3908,*whale, Italy*
+34,3910,*Cro-Magnonoid man, France*
+34,3910,*Faunas -- Quaternary -- Cave Faunas*
+34,3913,*Faunas--Quaternary*
+34,3913,*man, general*
+34,3915,*Belgium, stratigraphic*
+34,3915,*Faunas--Quaternary*
+34,3919,*Faunas--Cretaceous*
+34,3919,*crocodilian, Montana*
+34,3924,*Faunas--Mesozoic and Cenozoic*
+34,3926,*Faunas--Quaternary*
+34,3926,*Swanscombe man*
+34,3927,*Africa, correlation*
+34,3927,*Faunas--Quaternary*
+34,3929,*Faunas--Cretaceous*
+34,3929,*turtle, France*
+34,3930,*Faunas--Oligocene*
+34,3930,*mammals, France*
+34,3934,*Faunas--Quaternary*
+34,3934,*mammals with artifacts, Japan*
+34,3935,*Faunas--Cenozoic*
+34,3935,*cervid tracks, Japan*
+34,3936,*Faunas--Quaternary*
+34,3937,*Faunas--Quaternary*
+34,3938,*Faunas--Quaternary*
+34,3939,*Faunas--Pliocene*
+34,3940,*Faunas--Quaternary*
+34,3941,*Faunas--Quaternary*
+34,3942,*Faunas--Pliocene*
+34,3943,*Faunas--Pliocene*
+34,3945,*Faunas--Quaternary*
+34,3947,*Faunas--Quaternary*
+34,3948,*Faunas--Tertiary*
+34,3948,*fishes, France, stratigraphic*
+34,3950,*Central Asia*
+34,3950,*Faunas--Cretaceous*
+34,3953,*Faunas--Eocene*
+34,3953,*zeuglodont, Mississippi*
+34,3954,*Faunas--Pliocene*
+34,3954,*Neohipparion, California*
+34,3956,*"manatee," St. Helena*
+34,3956,*Faunas--Quaternary*
+34,3957,*Faunas -- Quaternary -- Cave Faunas*
+34,3957,*man, France*
+34,3966,*Faunas -- Quaternary -- Cave Faunas*
+34,3967,*Faunas -- Quaternary -- Cave Faunas*
+34,3969,*Faunas -- Quaternary -- Cave Faunas*
+34,3969,*Mustela and Lutreola, Hungary*
+34,3970,*Faunas -- Quaternary -- Cave Faunas*
+34,3971,*Faunas -- Quaternary -- Cave Faunas*
+34,3971,*Hungary*
+34,3972,*Faunas--Quaternary*
+34,3972,*Hungary*
+34,3974,*Faunas -- Quaternary -- Cave Faunas*
+34,3974,*man, associated fauna, Ireland*
+34,3975,*Faunas--Carboniferous*
+34,3977,*Faunas--Carboniferous*
+34,3978,*Faunas--Carboniferous*
+34,3979,*Faunas--General*
+34,3979,*fishes, Leeds City Mus., England*
+34,3980,*Faunas--Carboniferous*
+34,3980,*coelacanthids, Gt. Britain*
+34,3981,*Faunas--Paleozoic and Mesozoic*
+34,3981,*coelacanthids, Madagascar*
+34,3982,*Faunas--Carboniferous*
+34,3983,*Faunas--Carboniferous*
+34,3984,*Faunas--Carboniferous*
+34,3984,*coelacanthids, Gt. Britain, Ireland*
+34,3985,*Faunas--Carboniferous*
+34,3986,*Faunas--Carboniferous*
+34,3987,*Faunas--Carboniferous*
+34,3988,*Faunas--Carboniferous*
+34,3988,*elasmobranchs, Gt. Britain*
+34,3989,*Faunas--Carboniferous*
+34,3989,*palaeoniscids, Gt. Britain*
+34,3992,*Faunas--Carboniferous*
+34,3992,*actinopterygians, Gt. Britain*
+34,3998,*Faunas--Miocene*
+34,3998,*clupeid fish, Austria*
+34,3999,*Faunas -- Quaternary -- Cave Faunas*
+34,3999,*mammals, Switzerland*
+34,4000,*Faunas -- Quaternary -- Cave Faunas*
+34,4000,*Peters cave, Austria, Protolithic bone "artifacts"*
+34,4001,*Faunas -- Quaternary -- Cave Faunas*
+34,4001,*rodents, Merkenstein cave*
+34,4002,*Faunas--General*
+34,4002,*Mexico, stratigraphic*
+34,4004,*Elephas, Russia*
+34,4004,*Faunas--Quaternary*
+34,4007,*Faunas--Triassic*
+34,4007,*footprints, Germany*
+34,4008,*Faunas--Quaternary*
+34,4009,*Faunas--Quaternary*
+34,4009,*ground sloth, Mexico*
+34,4011,*Faunas--Miocene*
+34,4011,*Lompoc diatomite, California, stratigraphic*
+34,4014,*Faunas--Tertiary*
+34,4015,*Faunas--Tertiary*
+34,4015,*fishes, Sumatra*
+34,4016,*Faunas--Eocene*
+34,4016,*albulid fish, Maryland*
+34,4017,*Faunas--General*
+34,4017,*fresh water fishes, N. and S. America*
+34,4019,*Faunas--Mesozoic and Tertiary*
+34,4019,*Wyoming, stratigraphic*
+34,4023,*Faunas--Tertiary*
+34,4024,*Faunas--Mesozoic*
+34,4025,*Faunas--Tertiary*
+34,4026,*Desmostylella, Japan*
+34,4026,*Faunas--Tertiary*
+34,4027,*Desmostylus, Japan*
+34,4027,*Faunas--Tertiary*
+34,4029,*Faunas--Mesozoic*
+34,4029,*trachodont dinosaur, Japan*
+34,4030,*Desmostylus, Japan*
+34,4030,*Faunas--Tertiary*
+34,4034,*Faunas--Jurassic*
+34,4034,*reptiles, Oxford clay*
+34,4035,*Faunas--Quaternary*
+34,4035,*mammals, peat beds, England*
+34,4036,*Faunas--Cenozoic*
+34,4038,*Faunas--Cenozoic*
+34,4038,*New Mexico, popular*
+34,4039,*Faunas--Tertiary*
+34,4040,*Faunas--Quaternary*
+34,4040,*Florida chronology*
+34,4042,*Faunas--Quaternary*
+34,4042,*man, America*
+34,4045,*Faunas--Quaternary*
+34,4045,*fossil man*
+34,4052,*Faunas--Tertiary*
+34,4052,*fish, Italy*
+34,4061,*Faunas--Quaternary*
+34,4061,*mammals, Rumania*
+34,4062,*Faunas--Quaternary*
+34,4062,*mammals, France*
+34,4063,*Faunas--Quaternary*
+34,4063,*France, stratigraphic*
+34,4065,*Faunas--Paleozoic and Mesozoic*
+34,4065,*Permian and Eotriassic, Greenland*
+34,4066,*Faunas--Triassic*
+34,4066,*fishes, Greenland*
+34,4068,*Faunas -- Quaternary -- Cave Faunas*
+34,4068,*mammals, Poland*
+34,4069,*Bison, Poland*
+34,4069,*Faunas--Quaternary*
+34,4071,*Faunas--Quaternary*
+34,4071,*age of Volga fauna, Russia*
+34,4072,*Faunas--Quaternary*
+34,4073,*Faunas--Quaternary*
+34,4073,*fishes, neolithic, Russia*
+34,4079,*Faunas--Triassic*
+34,4080,*Faunas--Quaternary*
+34,4080,*auroch, Europe*
+34,4081,*Faunas--Triassic*
+34,4081,*stegocephalian, Sweden*
+34,4082,*Faunas -- Quaternary -- Cave Faunas*
+34,4082,*mammals, paleolithic, Caucasus*
+34,4088,*Faunas--Quaternary*
+34,4089,*Faunas--Quaternary*
+34,4089,*man, N. Europe*
+34,4090,*Faunas--General*
+34,4090,*flatfishes*
+34,4093,*Faunas--Tertiary*
+34,4093,*lacertilians, Eurasia*
+34,4094,*Faunas--Paleozoic and Mesozoic*
+34,4094,*Karroo, S. Africa*
+34,4098,*Faunas--Quaternary*
+34,4098,*mammals associated with Swanscombe man*
+34,4099,*Faunas--Quaternary*
+34,4099,*Swanscombe man, stratigraphic*
+34,4100,*Faunas--Quaternary*
+34,4100,*mammals, England*
+34,4103,*Faunas--Quaternary*
+34,4104,*Faunas--Quaternary*
+34,4104,*loess chronology, Europe*
+34,4106,*Faunas--Quaternary*
+34,4106,*man and mammals, Spain*
+34,4107,*Faunas -- Quaternary -- Cave Faunas*
+34,4107,*mammals, Mousterian, Germany*
+34,4108,*Faunas--Quaternary*
+34,4110,*Faunas--Quaternary*
+34,4110,*Southern Europe, stratigraphic*
+34,4111,*Faunas--Cenozoic*
+34,4111,*Kaiso bone bed, E. Africa*
+34,4112,*Coccosteus, Russia*
+34,4112,*Faunas--Devonian*
+34,4113,*Faunas--Silurian*
+34,4113,*Russia*
+34,4116,*Faunas--Quaternary*
+34,4116,*loess of USSR*
+34,4119,*Faunas--Cretaceous*
+34,4119,*plesiosaur, Arizona*
+34,4123,*Faunas -- Quaternary -- Cave Faunas*
+34,4123,*Kent's Cavern England*
+34,4124,*Faunas -- Quaternary -- Cave Faunas*
+34,4124,*Kent's Cavern, England*
+34,4125,*Faunas--Quaternary*
+34,4125,*frog, Japan*
+34,4126,*Faunas--Miocene*
+34,4126,*fishes, Idaho, popular*
+34,4130,*Faunas--Permian*
+34,4130,*Youngina, S. Africa*
+34,4132,*Faunas--Permian*
+34,4132,*gorgonopsid, S. Africa*
+34,4133,*Faunas--Permian*
+34,4133,*anomodont, S. Africa*
+34,4134,*Faunas--Miocene*
+34,4134,*lizard, Nebraska*
+34,4137,*Faunas--Permian*
+34,4137,*tetrapods, S. Africa*
+34,4138,*Faunas--Permian*
+34,4138,*Faunas--Pliocene*
+34,4138,*anomodont, S. Africa*
+34,4138,*mammals, Honduras*
+34,4142,*Faunas--Mesozoic*
+34,4142,*S. America, stratigraphic*
+34,4143,*Faunas--Paleozoic and Mesozoic*
+34,4143,*S. America, stratigraphic*
+34,4144,*Faunas--Cenozoic*
+34,4144,*S. America, stratigraphic*
+34,4151,*Faunas--Quaternary*
+34,4151,*badger, W. Siberia*
+34,4157,*Faunas--Quaternary*
+34,4157,*old world camels*
+34,4159,*Faunas--Eocene*
+34,4159,*review of Geiseltal faunas*
+34,4160,*Faunas--Tertiary*
+34,4160,*carnivores, W. Siberia*
+34,4161,*Faunas--Tertiary*
+34,4162,*Faunas--Tertiary*
+34,4162,*new localities mammals, Kazakhstan*
+34,4163,*Faunas--Tertiary*
+34,4163,*mammals, Siberia*
+34,4164,*Faunas--Tertiary*
+34,4164,*new localities mammals, Caucasus*
+34,4165,*Faunas--Quaternary*
+34,4165,*reviews Palestine finds*
+34,4172,*Faunas--Cenozoic*
+34,4172,*proboscideans, S. Africa*
+34,4180,*Amynodon, Mongolia*
+34,4180,*Faunas--Eocene*
+34,4187,*Faunas--Tertiary*
+34,4188,*Faunas--Tertiary*
+34,4188,*Japan, stratigraphic*
+34,4189,*Faunas--Miocene*
+34,4189,*whale, Oregon*
+34,4190,*Faunas--Miocene*
+34,4190,*whale, Oregon*
+34,4194,*Caucasus, stratigraphic*
+34,4194,*Faunas--Tertiary*
+34,4198,*Faunas -- Quaternary -- Cave Faunas*
+34,4198,*cave exploration*
+34,4199,*Abri Alain, Algeria*
+34,4199,*Faunas -- Quaternary -- Cave Faunas*
+34,4201,*England, stratigraphic*
+34,4201,*Faunas -- Quaternary -- Cave Faunas*
+34,4207,*Faunas -- Quaternary -- Cave Faunas*
+34,4207,*mammals, France*
+34,4208,*Faunas--Mesozoic and Cenozoic*
+34,4208,*Switzerland*
+34,4209,*Faunas--Quaternary*
+34,4209,*reptiles, Galapagos Islands*
+34,4210,*Faunas--Mesozoic*
+34,4210,*dinosaurs, Roy. Ontario Mus.*
+34,4211,*Faunas--Cretaceous*
+34,4211,*trachodont dinosaurs, Alberta*
+34,4216,*Faunas--Triassic*
+34,4216,*ancestral lizard, S. Africa*
+34,4218,*Faunas--Permian*
+34,4218,*cynodont reptiles*
+34,4222,*Faunas -- Quaternary -- Cave Faunas*
+34,4222,*Mousterian, Southwest Europe*
+34,4223,*Faunas--Quaternary*
+34,4224,*Faunas--Quaternary*
+34,4224,*mammals, Sicily*
+34,4226,*Faunas--Quaternary*
+34,4226,*paleolithic, England, stratigraphic*
+34,4229,*Faunas--Jurassic*
+34,4232,*Elephas, Rumania*
+34,4232,*Faunas--Quaternary*
+34,4233,*Canis, France*
+34,4233,*Faunas--Quaternary*
+34,4236,*Aisne valley, France*
+34,4236,*Faunas--Quaternary*
+34,4237,*Faunas--Quaternary*
+34,4237,*France, stratigraphic*
+34,4238,*Faunas--Paleocene*
+34,4242,*Faunas--Tertiary*
+34,4242,*typotherid, Patagonia*
+34,4244,*Faunas--Tertiary*
+34,4244,*notohippid, Patagonia*
+34,4245,*Faunas--Paleocene*
+34,4245,*pantolambdid, Colorado*
+34,4247,*Caiman, Argentina*
+34,4247,*Faunas--Cenozoic*
+34,4247,*Faunas--Quaternary*
+34,4247,*crocodiles, S. America*
+34,4248,*Faunas--Paleocene*
+34,4248,*mammals, Colorado*
+34,4252,*Faunas--Pliocene*
+34,4252,*didelphines, Argentina*
+34,4253,*Faunas--Oligocene*
+34,4253,*insectivores, western U. S.*
+34,4254,*Faunas--Oligocene*
+34,4255,*Faunas--Oligocene*
+34,4256,*Faunas--Oligocene*
+34,4258,*Faunas--Oligocene*
+34,4259,*Faunas--Oligocene*
+34,4260,*Faunas--Miocene*
+34,4261,*Faunas--Miocene*
+34,4262,*Faunas--Oligocene*
+34,4263,*Faunas--Tertiary*
+34,4264,*Faunas--Quaternary*
+34,4265,*Faunas--Miocene*
+34,4266,*Faunas--Oligocene*
+34,4268,*Faunas--Quaternary*
+34,4269,*Faunas--Quaternary*
+34,4269,*giant deer, Russia*
+34,4270,*Faunas--Miocene*
+34,4270,*Palaeomeryx, Kherson*
+34,4271,*Faunas--Quaternary*
+34,4271,*Volga, Russia*
+34,4274,*Faunas--Tertiary*
+34,4289,*Carnivora, Locality 1, Choukoutien*
+34,4289,*Faunas -- Quaternary -- Cave Faunas*
+34,4290,*Faunas -- Quaternary -- Cave Faunas*
+34,4290,*late paleolithic, Choukoutien*
+34,4291,*Choukoutien*
+34,4291,*Faunas -- Quaternary -- Cave Faunas*
+34,4292,*Faunas -- Quaternary -- Cave Faunas*
+34,4292,*mammals, Kwangsi caves, China*
+34,4294,*Faunas -- Quaternary -- Cave Faunas*
+34,4294,*mammals, Locality 3, Choukoutien*
+34,4295,*Faunas -- Quaternary -- Cave Faunas*
+34,4296,*Faunas -- Quaternary -- Cave Faunas*
+34,4297,*Faunas -- Quaternary -- Cave Faunas*
+34,4297,*Sinanthropus*
+34,4300,*Choukoutien localities*
+34,4300,*Faunas -- Quaternary -- Cave Faunas*
+34,4303,*Faunas--Quaternary*
+34,4303,*man, migrations, Germany*
+34,4305,*Faunas--Quaternary*
+34,4305,*man, distribution*
+34,4306,*Faunas--Quaternary*
+34,4306,*mammals, Europe*
+34,4308,*Faunas--Quaternary*
+34,4309,*Faunas--Quaternary*
+34,4309,*man, Italy*
+34,4310,*Faunas--Quaternary*
+34,4310,*birds, mammals, France*
+34,4319,*Faunas--Tertiary*
+34,4321,*Faunas--Tertiary*
+34,4321,*Wyoming, stratigraphic*
+34,4323,*Faunas--Eocene*
+34,4323,*titanotheres, Utah*
+34,4324,*Faunas--Oligocene*
+34,4324,*reptiles, mammals, Utah*
+34,4330,*Faunas--Tertiary*
+34,4330,*neogene mammals, Serbia, stratigraphic*
+34,4331,*Faunas--Quaternary*
+34,4332,*Faunas--Quaternary*
+34,4332,*mammals, Czechoslovakia*
+34,4333,*Faunas -- Quaternary -- Cave Faunas*
+34,4334,*Faunas -- Quaternary -- Cave Faunas*
+34,4335,*Faunas -- Quaternary -- Cave Faunas*
+34,4335,*mammals, Libya*
+34,4336,*Faunas--Quaternary*
+34,4336,*mammals, Greece*
+34,4337,*Faunas--Jurassic*
+34,4337,*bird, Bavaria*
+34,4339,*Faunas--Triassic*
+34,4339,*nothosaurs, Italy*
+34,4340,*Faunas--Triassic*
+34,4340,*excavations, European Alps*
+34,4342,*Faunas--Triassic*
+34,4342,*placodonts, Switzerland*
+34,4343,*Faunas--Triassic*
+34,4344,*Faunas--Triassic*
+34,4344,*rhynchocephalians, Switzerland*
+34,4345,*Faunas--Triassic*
+34,4346,*Faunas--Triassic*
+34,4346,*protorosaur, Switzerland*
+34,4347,*Faunas--Triassic*
+34,4347,*reptiles, European Alps*
+34,4349,*Faunas--Triassic*
+34,4349,*Tanystropheus, Italy*
+34,4350,*Faunas--Triassic*
+34,4350,*reptiles, Switzerland*
+34,4351,*Faunas--Triassic*
+34,4351,*nothosaur, Switzerland*
+34,4352,*Faunas--Triassic*
+34,4352,*ganoid, Switzerland*
+34,4353,*Faunas--Jurassic*
+34,4353,*ichthyosaur, other reptiles, Switzerland*
+34,4354,*Faunas -- Quaternary -- Cave Faunas*
+34,4354,*man and mammals, France*
+34,4357,*Aurignacian, France*
+34,4357,*Faunas--Quaternary*
+34,4359,*Faunas--Quaternary*
+34,4359,*Faunas--Quaternary*
+34,4359,*mammals, France*
+34,4359,*mammals, birds, France*
+34,4360,*Faunas--Quaternary*
+34,4360,*mammals, associated artifacts, France*
+34,4363,*Faunas -- Quaternary -- Cave Faunas*
+34,4363,*cave drawings, France*
+34,4364,*Faunas--Quaternary*
+34,4364,*mammoth localities, Siberia*
+34,4365,*Faunas--Devonian*
+34,4365,*fishes, Scotland, stratigraphic*
+34,4367,*Faunas--Quaternary*
+34,4367,*origin of domestic pigs*
+34,4372,*Faunas--Miocene*
+34,4373,*Faunas--Miocene*
+34,4373,*whales, Viennese region*
+34,4377,*Faunas--Quaternary*
+34,4377,*Palestine*
+34,4378,*Faunas--Tertiary*
+34,4378,*rodents, Ukraine*
+34,4379,*Faunas--Quaternary*
+34,4379,*Ukraine*
+34,4380,*Faunas--Cenozoic*
+34,4380,*rodents and carnivores, Russia*
+34,4381,*Faunas--Quaternary*
+34,4381,*extinct and relict faunas, Ukraine*
+34,4382,*Faunas--Quaternary*
+34,4382,*mammals, Urakine*
+34,4383,*Citellus, Ukraine*
+34,4383,*Faunas--Quaternary*
+34,4384,*Faunas--Quaternary*
+34,4384,*exhibits of Ukrainian mammals*
+34,4385,*Faunas--Quaternary*
+34,4385,*marmot, Ukraine*
+34,4386,*Faunas--Quaternary*
+34,4387,*Faunas--Quaternary*
+34,4388,*Faunas--Quaternary*
+34,4390,*Faunas--Quaternary*
+34,4390,*mammal finds near Azov Sea*
+34,4391,*Faunas--Quaternary*
+34,4392,*Faunas--Quaternary*
+34,4392,*man and mammals, Ukraine*
+34,4393,*Faunas--Quaternary*
+34,4393,*origin of S. Russian loess*
+34,4394,*Faunas--Quaternary*
+34,4394,*Faunas--Quaternary*
+34,4395,*Faunas--Quaternary*
+34,4395,*Ukraine*
+34,4396,*Faunas--General*
+34,4396,*Ukraine*
+34,4397,*Faunas--Pliocene*
+34,4397,*fish, Austria*
+34,4401,*Faunas--Cenozoic*
+34,4401,*India, correlation*
+34,4402,*Faunas--Miocene*
+34,4402,*antelopes, Mongolia*
+34,4403,*Bovidae, India*
+34,4403,*Faunas--Tertiary*
+34,4409,*Belgium, Belgian Congo, stratigraphic*
+34,4409,*Faunas--General*
+34,4410,*Faunas--Oligocene*
+34,4411,*Faunas--Oligocene*
+34,4412,*Faunas--Eocene*
+34,4413,*Faunas--Oligocene*
+34,4414,*Faunas--Oligocene*
+34,4415,*Faunas--Oligocene*
+34,4415,*cyprinid fishes, France*
+34,4416,*Faunas--Eocene*
+34,4417,*Faunas--Triassic*
+34,4417,*fishes, Madagascar*
+34,4418,*Faunas--General*
+34,4418,*reptiles, Menat*
+34,4419,*Faunas--Eocene*
+34,4419,*characinid fishes, France*
+34,4425,*Faunas--Cretaceous*
+34,4425,*snake, Madagascar*
+34,4426,*Faunas--Triassic*
+34,4426,*fish, Madagascar*
+34,4428,*Faunas--Oligocene*
+34,4428,*rodent, France*
+34,4431,*Faunas--Triassic*
+34,4431,*actinopterygians, Madagascar*
+34,4432,*Faunas--Eocene*
+34,4432,*crocodiles, N. Africa*
+34,4433,*Faunas--Oligocene*
+34,4433,*creodonts, France*
+34,4434,*Faunas--Triassic*
+34,4434,*fishes, Greenland, Spitzbergen, Madagascar*
+34,4436,*Faunas--Miocene*
+34,4436,*mammals, Pontian, Iraq*
+34,4437,*Faunas--Triassic*
+34,4442,*Faunas--Triassic*
+34,4442,*Protobatrachus, Madagascar*
+34,4443,*Faunas--Triassic*
+34,4443,*actinopterygians, Madagascar*
+34,4444,*Dicynodon, Indo-China*
+34,4444,*Faunas--Paleozoic and Mesozoic*
+34,4445,*Faunas--Permian*
+34,4445,*dicynodont, Indochina*
+34,4446,*Faunas--Jurassic*
+34,4446,*dinosaur footprints, Morocco*
+34,4447,*Faunas--Quaternary*
+34,4448,*Faunas--Quaternary*
+34,4449,*Faunas--Quaternary*
+34,4450,*Faunas--Quaternary*
+34,4450,*Orkney Isles*
+34,4453,*Faunas -- Quaternary -- Cave Faunas*
+34,4453,*mammals, man, Brazil*
+34,4458,*Faunas--General*
+34,4458,*Wales, stratigraphic*
+34,4460,*Faunas--Quaternary*
+34,4460,*mammoth, Russia*
+34,4464,*Faunas--Mesozoic and Cenozoic*
+34,4464,*France, stratigraphic*
+34,4468,*Faunas--Quaternary*
+34,4468,*paleolithic, mesolithic, Russia*
+34,4469,*Faunas--Quaternary*
+34,4469,*giant animals still live?*
+34,4473,*Faunas--Quaternary*
+34,4473,*France*
+34,4475,*Faunas--Quaternary*
+34,4475,*Felis, review*
+34,4476,*Faunas -- Quaternary -- Cave Faunas*
+34,4482,*Faunas -- Quaternary -- Cave Faunas*
+34,4482,*Mauer tooth*
+34,4483,*Faunas--Quaternary*
+34,4483,*Indiana*
+34,4488,*Faunas--Quaternary*
+34,4488,*mammals, peat bog, Illinois*
+34,4491,*Faunas--Quaternary*
+34,4491,*mammals, India*
+34,4495,*Faunas--Cenozoic*
+34,4496,*Faunas--Cenozoic*
+34,4497,*Faunas--Cenozoic*
+34,4497,*mammals, India, general*
+34,4498,*Faunas -- Quaternary -- Cave Faunas*
+34,4498,*man, Dietersberg cave, Switzerland*
+34,4505,*Bison, Utah*
+34,4505,*Faunas--Quaternary*
+34,4508,*Faunas--Permian*
+34,4508,*cotylosaurs, Texas*
+34,4509,*Faunas--Tertiary*
+34,4509,*Italy, stratigraphic*
+34,4510,*Faunas--General*
+34,4510,*Scotland, stratigraphic*
+34,4514,*Faunas--General*
+34,4514,*Wales, stratigraphic*
+34,4517,*Czechoslovakia*
+34,4517,*Faunas--Tertiary*
+34,4519,*Faunas -- Quaternary -- Cave Faunas*
+34,4519,*USSR*
+34,4522,*Faunas--General*
+34,4522,*Jugoslavia, stratigraphic*
+34,4523,*Faunas--Miocene*
+34,4523,*whales, N. Carolina*
+34,4524,*Faunas -- Quaternary -- Cave Faunas*
+34,4524,*pathology, bears*
+34,4526,*Faunas--Quaternary*
+34,4526,*Saccopastore man*
+34,4530,*Faunas--Quaternary*
+34,4530,*rhinocerotid, Austria*
+34,4543,*Faunas--Devonian*
+34,4544,*Australia, stratigraphic*
+34,4544,*Faunas--Paleozoic and Mesozoic*
+34,4545,*Faunas -- Quaternary -- Cave Faunas*
+34,4545,*mammals, France*
+34,4549,*Faunas--Quaternary*
+34,4549,*marmot, Jugoslavia*
+34,4550,*Faunas -- Quaternary -- Cave Faunas*
+34,4550,*musk ox, Jugoslavia*
+34,4551,*Faunas--Pliocene*
+34,4552,*Faunas--Quaternary*
+34,4552,*hippopotamus, Italy*
+34,4553,*Elephas, Italy*
+34,4553,*Faunas--Pliocene*
+34,4559,*Faunas--Miocene*
+34,4559,*Southwest Africa*
+34,4560,*Faunas--Quaternary*
+34,4560,*Rhinoceros, Germany*
+34,4565,*Faunas -- Quaternary -- Cave Faunas*
+34,4565,*fishes, mesolithic, Germany*
+34,4571,*Faunas--Quaternary*
+34,4572,*Faunas--Quaternary*
+34,4572,*mammals, Netherlands*
+34,4573,*Faunas--Quaternary*
+34,4573,*giant deer, Europe*
+34,4579,*Faunas--Quaternary*
+34,4579,*man, Texas*
+34,4586,*Faunas--Paleozoic and Mesozoic*
+34,4586,*fishes, reptiles, Gt. Britain, stratigraphic*
+34,4590,*Faunas--Quaternary*
+34,4590,*man*
+34,4592,*Faunas--Quaternary*
+34,4592,*man, Central Africa*
+34,4593,*Faunas--Quaternary*
+34,4593,*bovids, E. Africa*
+34,4594,*Faunas--Quaternary*
+34,4594,*Oldoway, E. Africa*
+34,4595,*Faunas--Quaternary*
+34,4595,*antelope, E. Africa*
+34,4596,*Faunas--Quaternary*
+34,4596,*man and mammals, E. Africa*
+34,4598,*Faunas--Tertiary*
+34,4598,*southern California, stratigraphic*
+34,4602,*Faunas--Quaternary*
+34,4602,*mammals, Arizona*
+34,4605,*Faunas--Quaternary*
+34,4605,*mammals, Germany*
+34,4606,*Faunas--Jurassic*
+34,4606,*reptiles, Germany*
+34,4607,*Faunas--Triassic*
+34,4607,*Gipskeuper, Germany*
+34,4612,*Faunas--Devonian*
+34,4613,*Faunas--Tertiary*
+34,4614,*Faunas--Cenozoic*
+34,4615,*Faunas--Cenozoic*
+34,4618,*Faunas--Paleocene*
+34,4619,*Faunas--Pliocene*
+34,4620,*Faunas--Pliocene*
+34,4621,*Faunas--Cenozoic*
+34,4622,*Faunas--Pliocene*
+34,4625,*Faunas--Cenozoic*
+34,4626,*Faunas--Tertiary*
+34,4628,*Faunas--Pliocene*
+34,4629,*Faunas--Jurassic*
+34,4632,*Cypress Hills beds, Saskatchewan*
+34,4632,*Faunas--Oligocene*
+34,4633,*Faunas--Mesozoic and Tertiary*
+34,4633,*turtles, western Canada*
+34,4635,*Faunas--Eocene*
+34,4635,*tillodont mammal, British Columbia*
+34,4637,*Faunas--Cretaceous*
+34,4637,*Milk River beds, Alberta*
+34,4638,*Faunas--Cretaceous*
+34,4638,*plesiosaur, Manitoba*
+34,4640,*Faunas--Mesozoic and Tertiary*
+34,4640,*mammals, western Canada*
+34,4641,*Faunas--Cretaceous*
+34,4641,*multituberculate, Alberta*
+34,4642,*Faunas--Oligocene*
+34,4642,*creodont Saskatchewan*
+34,4643,*Faunas--Oligocene*
+34,4643,*titanothere, Saskathchewan*
+34,4644,*Faunas--Quaternary*
+34,4644,*man, Germany*
+34,4645,*Faunas--Quaternary*
+34,4645,*Holstein*
+34,4646,*Faunas--Quaternary*
+34,4646,*reindeer hunters, associated mammals, birds, Germany*
+34,4649,*Faunas--Oligocene*
+34,4649,*Stampian, Switzerland*
+34,4652,*Faunas--General*
+34,4652,*original specimens in Basle Museum*
+34,4656,*Faunas -- Quaternary -- Cave Faunas*
+34,4657,*Faunas -- Quaternary -- Cave Faunas*
+34,4658,*Faunas -- Quaternary -- Cave Faunas*
+34,4658,*dio%Asgyo%Fr cave, Hungary*
+34,4660,*Alaska*
+34,4660,*Faunas--Quaternary*
+34,4661,*Faunas--Tertiary*
+34,4662,*Bos, Rumania*
+34,4662,*Faunas--Quaternary*
+34,4663,*Bison, Rumaina*
+34,4663,*Faunas--Quaternary*
+34,4664,*Elephas, Rumania*
+34,4664,*Faunas--Quaternary*
+34,4665,*Faunas--Quaternary*
+34,4665,*mammals, Rumania*
+34,4676,*Faunas--Quaternary*
+34,4676,*man, Pleistocene, Rhine region*
+34,4679,*Faunas--Quaternary*
+34,4680,*Faunas--Quaternary*
+34,4681,*Faunas--Quaternary*
+34,4689,*Faunas--Quaternary*
+34,4690,*Faunas--Quaternary*
+34,4690,*mammals, Ecuador*
+34,4692,*Faunas--Quaternary*
+34,4692,*man, Italy*
+34,4693,*Faunas--Quaternary*
+34,4693,*mammals, pre-Chellean, Italy*
+34,4694,*Faunas--Quaternary*
+34,4694,*Neanderthal man, Italy*
+34,4700,*Faunas--Cretaceous*
+34,4700,*reptiles, Alabama*
+34,4701,*Faunas--Cenozoic*
+34,4701,*Gulf Coastal Plain, stratigraphic*
+34,4703,*Faunas--Carboniferous*
+34,4706,*Faunas--Tertiary*
+34,4706,*mammals, France, stratigraphic*
+34,4709,*Faunas -- Quaternary -- Cave Faunas*
+34,4709,*mammals, neolithic, Switzerland*
+34,4712,*Cervidae, Gt. Britain*
+34,4712,*Faunas--Quaternary*
+34,4713,*Alces, Gt. Britain*
+34,4713,*Faunas--Quaternary*
+34,4714,*Faunas--Quaternary*
+34,4714,*Ovibos, Gt. Britain*
+34,4715,*Faunas--Mesozoic*
+34,4716,*Faunas--Jurassic*
+34,4716,*reptiles, England, popular*
+34,4717,*Faunas--Paleozoic and Mesozoic*
+34,4717,*fish, Gt. Britain, stratigraphic*
+34,4718,*Faunas--Paleocene*
+34,4718,*insectivores, New Mexico*
+34,4719,*Faunas--Permian*
+34,4719,*dinocephalian, Russia*
+34,4721,*Faunas--Miocene*
+34,4722,*Faunas--Miocene*
+34,4722,*passerine birds, Caucasus*
+34,4723,*Faunas--Cretaceous*
+34,4723,*turtle, Central Asia*
+34,4724,*Faunas--Jurassic*
+34,4724,*plesiosaur, Franz-Joseph Land*
+34,4725,*Faunas--Miocene*
+34,4725,*whale, Caucasus*
+34,4726,*Faunas--Mesozoic*
+34,4726,*dinosaur, Transbaikalia*
+34,4728,*Faunas -- Quaternary -- Cave Faunas*
+34,4728,*cave lion, Black Sea region*
+34,4729,*Faunas--Cretaceous*
+34,4729,*crested dinosaurs, Caucasus*
+34,4732,*Faunas--Cretaceous*
+34,4732,*mosasaurs, Russia*
+34,4733,*Faunas--Cretaceous*
+34,4733,*Faunas--Oligocene*
+34,4733,*Microzeuglodon, Russia*
+34,4733,*reptiles, Russia*
+34,4737,*Faunas--Miocene*
+34,4737,*mammals, France*
+34,4739,*Diceratherium, France*
+34,4739,*Faunas--Miocene*
+34,4740,*Faunas--Oligocene*
+34,4740,*tapir, France*
+34,4741,*Faunas--Quaternary*
+34,4741,*mastodon, North Carolina*
+34,4742,*Faunas--Quaternary*
+34,4742,*man, associated molluscs, N. America*
+34,4743,*Faunas--Quaternary*
+34,4743,*Pleistocene, Florida, stratigraphic*
+34,4749,*Faunas--Pliocene*
+34,4749,*canid, California*
+34,4759,*Faunas--General*
+34,4759,*Persia, stratigraphic*
+34,4760,*Faunas--Permian*
+34,4760,*Zechstein, Germany*
+34,4761,*Faunas -- Quaternary -- Cave Faunas*
+34,4761,*Lonetal caves, Germany*
+34,4762,*Faunas--Triassic*
+34,4762,*Faunas--Triassic*
+34,4762,*Roques*
+34,4762,*reptile, Europe*
+34,4763,*Faunas--Mesozoic*
+34,4763,*ichthyosaurs, Univ. Tu%Fbingen Mus.*
+34,4764,*Argentina, stratigraphic*
+34,4764,*Faunas--Cenozoic*
+34,4765,*Faunas--Pliocene*
+34,4765,*marsupial saber-tooth, Argentina*
+34,4766,*Faunas--Miocene*
+34,4767,*Argentina, stratigraphic*
+34,4767,*Faunas--Pliocene*
+34,4768,*Faunas--Quaternary*
+34,4768,*mammals, Illinois*
+34,4769,*Cervalces, Indiana, Illinois*
+34,4769,*Faunas--Quaternary*
+34,4771,*Faunas--Eocene*
+34,4771,*notoungulates, Patagonia*
+34,4774,*Faunas--Cenozoic*
+34,4774,*mammals, Formosa, stratigraphic*
+34,4775,*Faunas--Cretaceous*
+34,4775,*marine reptiles, Alabama, popular*
+34,4776,*Faunas--Quaternary*
+34,4776,*chiefly recent, Scotland*
+34,4784,*Faunas--Quaternary*
+34,4785,*Faunas--Quaternary*
+34,4786,*Faunas--Quaternary*
+34,4787,*Faunas--Quaternary*
+34,4788,*Faunas--Quaternary*
+34,4789,*Faunas--Quaternary*
+34,4789,*mammals and artifacts, Colorado*
+34,4790,*Faunas--Quaternary*
+34,4790,*man, Colorado*
+34,4791,*Faunas--Quaternary*
+34,4791,*Folsom man*
+34,4794,*Faunas--Silurian*
+34,4797,*Faunas--Devonian*
+34,4797,*ostracoderms, Canada*
+34,4799,*Faunas--Silurian*
+34,4800,*Faunas--Silurian*
+34,4803,*Faunas--Silurian*
+34,4803,*ostracoderms, Estonia*
+34,4806,*Faunas--Tertiary*
+34,4806,*fishes, Spain*
+34,4807,*Faunas -- Quaternary -- Cave Faunas*
+34,4807,*Kilgreany cave, Ireland*
+34,4812,*Enchodus, Germany*
+34,4812,*Faunas--Cretaceous*
+34,4813,*Faunas--Carboniferous*
+34,4813,*dipnoan, Germany*
+34,4817,*Faunas--Paleozoic and Mesozoic*
+34,4817,*footprints of amphibians, birds, Colorado*
+34,4824,*Faunas--Quaternary*
+34,4826,*Faunas--Quaternary*
+34,4826,*man, associated fauna, N. Africa*
+34,4828,*Faunas--Pliocene*
+34,4828,*mammals, France*
+34,4829,*Faunas--Cenozoic*
+34,4831,*Faunas--Cenozoic*
+34,4831,*Rho%Dne Valley, stratigraphic*
+34,4832,*Anthracotherium, France*
+34,4832,*Faunas--Oligocene*
+34,4834,*Elephas, France*
+34,4834,*Faunas--Quaternary*
+34,4835,*Faunas--Miocene*
+34,4835,*mammals, N. Africa*
+34,4836,*Faunas--Miocene*
+34,4836,*mammals, France*
+34,4841,*Faunas--Paleozoic*
+34,4841,*Permo-Carboniferous, Texas*
+34,4843,*Faunas--Paleozoic*
+34,4843,*tetrapods, Permo-Carboniferous, N. America*
+34,4848,*Faunas--Permian*
+34,4848,*pelycosaurs, southwest U. S.*
+34,4856,*Faunas--Carboniferous*
+34,4856,*dipnoans, N. America*
+34,4858,*Faunas -- Quaternary -- Cave Faunas*
+34,4858,*antilocaprid, Arizona*
+34,4859,*Faunas--Triassic*
+34,4861,*Faunas--Cenozoic*
+34,4861,*mammals, Uruguay*
+34,4862,*Faunas--Triassic*
+34,4863,*Faunas--Jurassic*
+34,4863,*Greenland, stratigraphic*
+34,4864,*Faunas--Quaternary*
+34,4864,*goose, Pleistocene, California*
+34,4866,*Faunas--Quaternary*
+34,4868,*Faunas--Quaternary*
+34,4876,*Faunas--Cretaceous*
+34,4876,*crocodilian, Brazil*
+34,4877,*Bahia beds, Argentina*
+34,4877,*Faunas--Cretaceous*
+34,4878,*Faunas--General*
+34,4878,*reptiles, Brazil*
+34,4879,*Brazil*
+34,4879,*Faunas--General*
+34,4879,*Faunas--Pliocene*
+34,4879,*crocodiles, Brazil*
+34,4881,*Faunas--Cretaceous*
+34,4881,*fish, Brazil*
+34,4884,*Faunas--Quaternary*
+34,4884,*paleolithic man, N. Africa*
+34,4885,*Faunas--Miocene*
+34,4886,*Faunas--Tertiary*
+34,4887,*Faunas--Miocene*
+34,4888,*Faunas--Miocene*
+34,4889,*Faunas--Quaternary*
+34,4891,*Faunas--Miocene*
+34,4892,*Faunas--Cenozoic*
+34,4893,*Faunas--Miocene*
+34,4894,*Faunas--Quaternary*
+34,4895,*Faunas--Quaternary*
+34,4896,*Faunas--Eocene*
+34,4897,*Faunas--Miocene*
+34,4898,*Faunas--Quaternary*
+34,4899,*Faunas--Miocene*
+34,4900,*Faunas--Miocene*
+34,4901,*Faunas--Cenozoic*
+34,4902,*Faunas--Quaternary*
+34,4906,*Chirotherium and other tracks, Saar region*
+34,4906,*Faunas--Triassic*
+34,4907,*Faunas--Quaternary*
+34,4907,*mammals, Germany*
+34,4909,*Faunas--Triassic*
+34,4911,*Faunas--Quaternary*
+34,4912,*Faunas--Quaternary*
+34,4912,*paleolithic, Morocco*
+34,4913,*Faunas -- Quaternary -- Cave Faunas*
+34,4913,*mammals, Morocco*
+34,4916,*Faunas--Quaternary*
+34,4916,*with cultural remains, Argentina*
+34,4920,*Faunas--Tertiary*
+34,4920,*camels*
+34,4923,*Faunas--Cenozoic*
+34,4923,*rodent, Pampean, Argentina*
+34,4925,*Faunas--Pliocene*
+34,4926,*Faunas--Pliocene*
+34,4927,*Faunas--Pliocene*
+34,4928,*Faunas--Pliocene*
+34,4928,*chinchillid, Uruguay*
+34,4929,*Faunas--Pliocene*
+34,4929,*mammals, Argentina*
+34,4935,*Faunas--Oligocene*
+34,4935,*primates, Patagonia*
+34,4936,*Faunas--Cenozoic*
+34,4936,*human remains, Pampean, Argentina*
+34,4937,*Faunas--Quaternary*
+34,4937,*ground sloth, Argentina*
+34,4939,*Faunas--Tertiary*
+34,4939,*gavials, Argentina*
+34,4940,*Argentina, stratigraphic*
+34,4940,*Faunas--Quaternary*
+34,4941,*Faunas--Pliocene*
+34,4942,*Faunas--Quaternary*
+34,4942,*living S. Amer. relatives*
+34,4945,*Ensenadense beds, Argentina*
+34,4945,*Faunas--Pliocene*
+34,4946,*Faunas--Tertiary*
+34,4946,*mammals, Argentina*
+34,4947,*Faunas -- Quaternary -- Cave Faunas*
+34,4949,*Faunas--Mesozoic*
+34,4949,*leptolepid fishes, Manchuria*
+34,4950,*Desmostylus, Japan*
+34,4950,*Faunas--Miocene*
+34,4951,*Dinantian, France, stratigraphic*
+34,4951,*Faunas--Carboniferous*
+34,4957,*Faunas--Quaternary*
+34,4957,*mammals, stone age, Sweden*
+34,4962,*Faunas--Tertiary*
+34,4962,*fresh water fishes, Sumatra*
+34,4963,*Faunas--Quaternary*
+34,4963,*man in America*
+34,4965,*Faunas--Quaternary*
+34,4966,*Faunas--Quaternary*
+34,4967,*Faunas--Quaternary*
+34,4967,*paleolithic man, Nile Valley*
+34,4969,*Central Africa, stratigraphic*
+34,4969,*Faunas--General*
+34,4971,*Faunas--Quaternary*
+34,4971,*paleolithic man, Nile Valley*
+34,4973,*Faunas--Quaternary*
+34,4973,*turkey-peacock, Oklahoma*
+34,4974,*Faunas--Quaternary*
+34,4974,*mastodon, Indiana*
+34,4975,*Faunas--Cenozoic*
+34,4975,*New England, popular*
+34,4976,*Faunas--Mesozoic and Cenozoic*
+34,4976,*Mexico, stratigraphic*
+34,4977,*Central America, stratigraphic*
+34,4977,*Faunas--General*
+34,4979,*Faunas--Quaternary*
+34,4980,*Faunas--Quaternary*
+34,4980,*Minnesota man*
+34,4981,*Faunas--Cretaceous*
+34,4981,*Faunas--Pliocene*
+34,4981,*fish, Italy*
+34,4981,*fish, Italy*
+34,5000,*Faunas--Quaternary*
+34,5001,*Faunas--Quaternary*
+34,5001,*elephants, Sakhalin*
+34,5002,*Faunas--General*
+34,5002,*Manchoukuo, stratigraphic*
+34,5005,*Faunas--Devonian*
+34,5006,*Faunas--Devonian*
+34,5006,*Greenland, fossiliferous localities, stratigraphy*
+34,5008,*Faunas--Triassic*
+34,5008,*stegocephalians, Greenland*
+34,5009,*Faunas--Triassic*
+34,5009,*stegocephalians, Spitzbergen*
+34,5010,*Faunas--Paleozoic*
+34,5010,*Greenland, fossiliferous localities, stratigraphy*
+34,5011,*Faunas--Devonian*
+34,5011,*Rhynchodipterus, Scotland, Greenland*
+34,5012,*Faunas--Triassic*
+34,5012,*labyrinthodonts, Spitzbergen, Russia*
+34,5013,*Agnathi and Pisces*
+34,5013,*Faunas--General*
+34,5016,*Faunas--Miocene*
+34,5017,*Faunas--Quaternary*
+34,5017,*W. N. America, geologic history*
+34,5018,*Faunas--Cenozoic*
+34,5018,*simplicidentates, China, Mongolia*
+34,5020,*Faunas--Tertiary*
+34,5020,*machairodontids, Eurasia*
+34,5021,*Faunas--Cenozoic*
+34,5021,*mammals, Venezuela, Trinidad*
+34,5022,*Faunas--Pliocene*
+34,5022,*hamster Eastern Europe*
+34,5023,*Faunas--Quaternary*
+34,5023,*ground sloth, Venezuela*
+34,5024,*Faunas--Pliocene*
+34,5024,*Megalovis, Eurasia*
+34,5025,*Faunas -- Quaternary -- Cave Faunas*
+34,5026,*Faunas -- Quaternary -- Cave Faunas*
+34,5026,*murid, East Indies*
+34,5027,*Faunas--Pliocene*
+34,5027,*cavicorn, China*
+34,5028,*Faunas--Cenozoic*
+34,5028,*murids, Eurasia*
+34,5030,*Faunas--Miocene*
+34,5030,*fishes, Idaho*
+34,5031,*Faunas--Tertiary*
+34,5031,*mammals, northwestern U. S.*
+34,5034,*Faunas--Quaternary*
+34,5034,*edentates, Grand Canyon*
+34,5036,*Faunas--Quaternary*
+34,5036,*man, S. Africa*
+34,5038,*Faunas--Quaternary*
+34,5038,*bovines, Europe*
+34,5041,*Faunas--Quaternary*
+34,5041,*water buffalo, Germany*
+34,5042,*Faunas--Quaternary*
+34,5042,*ovibovine, Germany*
+34,5043,*Faunas--Quaternary*
+34,5043,*diluvial bovids, Germany*
+34,5045,*Faunas--Quaternary*
+34,5045,*Steinheim man*
+34,5047,*Faunas--Tertiary*
+34,5047,*giant mammals, Patagonia*
+34,5054,*Faunas -- Quaternary -- Cave Faunas*
+34,5055,*Faunas--Cenozoic*
+34,5055,*mammals, Plio-Pleistocene, Moravia*
+34,5056,*Faunas -- Quaternary -- Cave Faunas*
+34,5056,*mammals, Germany*
+34,5057,*Faunas--Tertiary*
+34,5057,*fish, Argentina*
+34,5058,*Faunas--Oligocene*
+34,5058,*zalambdodont, Wyoming*
+34,5059,*Faunas--Miocene*
+34,5059,*oreodonts, Wyoming*
+34,5060,*Faunas--Cretaceous*
+34,5060,*reptiles, Wyoming*
+34,5061,*Faunas--Oligocene*
+34,5061,*mammals, Wyoming*
+34,5062,*Faunas--Tertiary*
+34,5062,*mammals, Oligocene and Miocene, Wyoming*
+34,5063,*Faunas--Miocene*
+34,5063,*tapir, Wyoming*
+34,5064,*Faunas--Miocene*
+34,5064,*Parahippus, Wyoming*
+34,5065,*Faunas--Tertiary*
+34,5065,*fishes, Alaska*
+34,5073,*Faunas -- Quaternary -- Cave Faunas*
+34,5073,*Protolithic bone "artifacts," Peters Cave, Austria*
+34,5076,*Faunas--Quaternary*
+34,5076,*giant elk, Germany*
+34,5077,*Faunas--Carboniferous*
+34,5077,*conodont, fish, Germany*
+34,5079,*Faunas--Devonian*
+34,5079,*coccosteid fish, Germany*
+34,5080,*Faunas--Paleocene*
+34,5080,*crocodilians, Colorado*
+34,5082,*Faunas--Triassic*
+34,5082,*Spain*
+34,5088,*Faunas--General*
+34,5088,*Nigeria*
+34,5090,*Faunas--General*
+34,5090,*fishes, Chile*
+34,5096,*Faunas--Oligocene*
+34,5097,*Faunas--Oligocene*
+34,5097,*anthracotheres, Germany*
+34,5098,*Faunas--Oligocene*
+34,5098,*Germany, correlation*
+34,5103,*Faunas--Cenozoic*
+34,5103,*beaver, Rumania*
+34,5104,*Faunas--Quaternary*
+34,5104,*carnivores, Netherlands and Eurasiatic Grisoninae*
+34,5106,*Faunas--Quaternary*
+34,5106,*voles, lemming, Netherlands*
+34,5107,*Faunas--Quaternary*
+34,5107,*hare, Netherlands*
+34,5108,*Faunas--Quaternary*
+34,5108,*suids, Netherlands*
+34,5109,*Faunas--Permian*
+34,5109,*dinocephalians, Russia*
+34,5110,*Faunas--Tertiary*
+34,5110,*fresh-water fishes, W. Siberia*
+34,5110,*Faunas--Tertiary*
+34,5116,*Faunas--Jurassic*
+34,5116,*Tendaguru, correlation*
+34,5118,*Faunas--Permian*
+34,5118,*correlation, marine sequences*
+34,5121,*Congo basin, stratigraphic*
+34,5121,*Faunas--General*
+34,5129,*Faunas -- Quaternary -- Cave Faunas*
+34,5129,*Sinanthropus*
+34,5130,*Faunas--Quaternary*
+34,5130,*mammals, Pleistocene, Nebraska*
+34,5132,*Faunas--Miocene*
+34,5132,*Nebraska, correlation*
+34,5133,*Burnet cave, New Mexico*
+34,5133,*Faunas -- Quaternary -- Cave Faunas*
+34,5133,*Faunas--Quaternary*
+34,5134,*Faunas--Quaternary*
+34,5134,*mammals associated with artifacts, U. S.*
+34,5136,*Faunas--Oligocene*
+34,5136,*Nebraska*
+34,5137,*Faunas--Pliocene*
+34,5137,*Plesippus, California*
+34,5138,*Faunas--Cenozoic*
+34,5138,*mammals, Plio-Pleistocene, California*
+34,5139,*Faunas--Quaternary*
+34,5139,*mammals, California*
+34,5140,*Faunas--Quaternary*
+34,5140,*mammals, Idaho*
+34,5145,*Faunas--Cenozoic*
+34,5148,*Faunas--Quaternary*
+34,5148,*Sinanthropus*
+34,5159,*Astrapotheria, Patagonia*
+34,5159,*Faunas--Oligocene*
+34,5160,*Faunas--Eocene*
+34,5161,*Faunas--Eocene*
+34,5162,*Faunas--Mesozoic and Cenozoic*
+34,5162,*land mammals, Western Hemisphere*
+34,5163,*Faunas--Eocene*
+34,5163,*saber-toothed creodont, Utah*
+34,5164,*Faunas--Cenozoic*
+34,5164,*camel-like ruminants, N. America*
+34,5165,*Faunas--Oligocene*
+34,5165,*artiodactyls, Wyoming*
+34,5166,*Faunas--Oligocene*
+34,5166,*Insectivora, Carnivora, Wyoming*
+34,5168,*Faunas--Silurian*
+34,5168,*chordate (?), Scotland*
+34,5170,*Faunas--Cretaceous*
+34,5170,*South Dakota, stratigraphic*
+34,5171,*Faunas--Miocene*
+34,5172,*Faunas--Mesozoic*
+34,5176,*Bohemian squirrels, Furstlichen Mus.*
+34,5176,*Faunas--Cenozoic*
+34,5181,*Faunas--Quaternary*
+34,5182,*Faunas--Quaternary*
+34,5182,*man in N. America*
+34,5183,*Faunas--Quaternary*
+34,5183,*elephant, associated artifacts, Texas*
+34,5196,*Faunas--Quaternary*
+34,5196,*Saccopastore man, stratigraphic*
+34,5199,*Faunas--Cenozoic*
+34,5199,*Pliocene-Quaternary, Italy, stratigraphic*
+34,5211,*Faunas--Quaternary*
+34,5211,*hyrax, S. Africa*
+34,5212,*Faunas--Quaternary*
+34,5212,*pigs, S. Africa*
+34,5213,*Faunas -- Quaternary -- Cave Faunas*
+34,5213,*birds, Choukoutien*
+34,5214,*Faunas--Quaternary*
+34,5214,*birds, China*
+34,5215,*Faunas -- Quaternary -- Cave Faunas*
+34,5215,*ostrich, Choukoutien*
+34,5221,*Faunas--Quaternary*
+34,5221,*mammoth, England*
+34,5225,*Faunas--Quaternary*
+34,5225,*wild boar, Gt. Britain*
+34,5228,*England, stratigraphic*
+34,5228,*Faunas--Mesozoic and Cenozoic*
+34,5231,*Faunas--Cenozoic*
+34,5231,*Machairodus, Pliocene or Pleistocene, Korea*
+34,5232,*Faunas--Pliocene*
+34,5233,*Cervus, Japan*
+34,5233,*Faunas--Quaternary*
+34,5234,*Faunas--Pliocene*
+34,5235,*Cervus, Japan*
+34,5235,*Faunas -- Quaternary -- Cave Faunas*
+34,5236,*Faunas--Pliocene*
+34,5236,*proboscidean, Japan*
+34,5237,*Faunas--Cenozoic*
+34,5237,*Sus, Japan*
+34,5238,*Faunas--Cenozoic*
+34,5238,*mammal footprint, Japan*
+34,5239,*Faunas--Pliocene*
+34,5239,*cervids, Formosa*
+34,5240,*Faunas--Quaternary*
+34,5240,*proboscidean, Japan*
+34,5242,*Faunas--Quaternary*
+34,5242,*pathological cervid, Japan*
+34,5243,*Faunas -- Quaternary -- Cave Faunas*
+34,5243,*Kuzuii fissures, Japan*
+34,5245,*Asia*
+34,5245,*Faunas -- Quaternary -- Cave Faunas*
+34,5246,*Faunas--Quaternary*
+34,5247,*Faunas -- Quaternary -- Cave Faunas*
+34,5247,*mammals, Japan*
+34,5248,*Faunas--Quaternary*
+34,5249,*Faunas--Quaternary*
+34,5249,*Nebraska Loess man*
+34,5257,*Faunas--Quaternary*
+34,5257,*chiefly recent mammals, S. Africa*
+34,5258,*Faunas--Quaternary*
+34,5258,*elephants, Texas*
+34,5259,*Faunas--Cretaceous*
+34,5260,*Faunas--Cretaceous*
+34,5260,*dinosaur trackways, Texas*
+34,5264,*Faunas--Quaternary*
+34,5264,*Piltdown man*
+34,5266,*Egyptian and European Sirenia*
+34,5266,*Faunas--Tertiary*
+34,5267,*Faunas--Tertiary*
+34,5267,*mammals, Germany*
+34,5268,*Faunas--Pliocene*
+34,5268,*bovid, Samos*
+34,5269,*Faunas--Tertiary*
+34,5269,*value in stratigraphy*
+34,5270,*Desmostylus*
+34,5270,*Faunas--Miocene*
+34,5272,*Anthracotherium, Italy*
+34,5272,*Faunas--Tertiary*
+34,5273,*Anthracotherium, France*
+34,5273,*Faunas--Oligocene*
+34,5275,*Faunas--Oligocene*
+34,5275,*mammals, Europe*
+34,5276,*Austria*
+34,5276,*Faunas--Tertiary*
+34,5278,*Faunas--Pliocene*
+34,5279,*Anthracotherium, Rumania*
+34,5279,*Faunas--Miocene*
+34,5281,*Faunas--Pliocene*
+34,5282,*Faunas--Quaternary*
+34,5297,*Faunas--Quaternary*
+34,5297,*as climatic indicators*
+34,5298,*Faunas--Tertiary*
+34,5298,*notoungulate, Patagonia*
+34,5303,*Chubut, Argentina, stratigraphic*
+34,5303,*Faunas--Tertiary*
+34,5304,*Faunas--Tertiary*
+34,5304,*mammals, Argentina*
+34,5305,*Faunas--Paleocene*
+34,5306,*Faunas--Paleocene*
+34,5307,*Faunas--Paleocene*
+34,5307,*mammals, Colorado*
+34,5308,*Faunas--Tertiary*
+34,5308,*chiefly mammals, Rio Chico of Patagonia*
+34,5309,*Faunas--Paleocene*
+34,5311,*Faunas--Mesozoic*
+34,5311,*mammals, classification and distribution*
+34,5315,*Faunas--Cretaceous*
+34,5315,*multituberculate, Montana*
+34,5316,*Faunas--Eocene*
+34,5316,*entelonychids, Patagonia*
+34,5317,*Faunas--Paleocene*
+34,5317,*census of mammals, Europe, Asia, N. and S. America*
+34,5318,*Faunas--Paleocene*
+34,5318,*mammals, New Mexico*
+34,5319,*Faunas--Paleocene*
+34,5320,*Faunas--Tertiary*
+34,5320,*mammals of Roth collection, Argentina*
+34,5323,*Faunas--General*
+34,5323,*relationships of local and continental faunas*
+34,5324,*Faunas--Eocene*
+34,5324,*Pseudostylops, Argentina*
+34,5328,*Faunas--Eocene*
+34,5328,*reptiles, Argentina*
+34,5329,*Faunas--Paleocene*
+34,5330,*Faunas--Jurassic*
+34,5330,*pantothere, Wyoming*
+34,5331,*Faunas--Paleocene*
+34,5331,*mammals, Wyoming*
+34,5332,*Faunas--Mesozoic and Tertiary*
+34,5332,*crocodile, Patagonia*
+34,5334,*Faunas--Paleocene*
+34,5334,*mammals, Montana*
+34,5336,*Faunas--Paleocene*
+34,5336,*mammals, general*
+34,5343,*Faunas--Eocene*
+34,5343,*marsupial, Patagonia*
+34,5344,*Faunas--Eocene*
+34,5344,*turtle, Patagonia*
+34,5345,*Faunas--Triassic*
+34,5345,*Tritylodon, Orange Free State*
+34,5346,*Faunas--Carboniferous*
+34,5346,*fishes, Great Britain*
+34,5347,*Faunas--Carboniferous*
+34,5347,*Gyracanthus spine, England*
+34,5349,*Faunas--Carboniferous*
+34,5349,*fishes, Great Britain, stratigraphic*
+34,5350,*Faunas--Tertiary*
+34,5350,*Paleocene and Eocene, Wyoming, general*
+34,5358,*Faunas--Quaternary*
+34,5360,*Faunas--General*
+34,5360,*reptiles, Galapagos Islands*
+34,5363,*Faunas -- Quaternary -- Cave Faunas*
+34,5365,*Faunas--Quaternary*
+34,5365,*Faunas--Quaternary*
+34,5365,*bone masses at Solutre%A*
+34,5365,*bone piles, Solutre%A*
+34,5366,*Faunas--Oligocene*
+34,5366,*fishes, Russia*
+34,5367,*Faunas--Oligocene*
+34,5367,*fishes, North Caucasus*
+34,5368,*Faunas -- Quaternary -- Cave Faunas*
+34,5370,*Faunas--Quaternary*
+34,5370,*birds, mammals, Illinois*
+34,5371,*Africa*
+34,5371,*Faunas--General*
+34,5381,*Faunas--Quaternary*
+34,5381,*N. America, archeological*
+34,5382,*Faunas--Quaternary*
+34,5382,*chiefly mammals, Kansas, stratigraphic*
+34,5383,*Faunas--Tertiary*
+34,5383,*New Mexico, stratigraphic*
+34,5384,*Faunas--Quaternary*
+34,5384,*man in N. America, stratigraphic*
+34,5397,*Faunas--Quaternary*
+34,5397,*hyaenas, Germany*
+34,5398,*Faunas -- Quaternary -- Cave Faunas*
+34,5398,*Hyaena, Germany*
+34,5399,*Faunas--Devonian*
+34,5399,*placoderm, Canada*
+34,5400,*Faunas--Quaternary*
+34,5400,*mammals, S. Africa, stratigraphic*
+34,5402,*Faunas--Quaternary*
+34,5402,*age of man in East Anglia*
+34,5403,*Faunas--Quaternary*
+34,5403,*paleolithic, N. Asia*
+34,5404,*Faunas--Quaternary*
+34,5404,*paleolithic mammals, Siberia*
+34,5406,*China, domestic*
+34,5406,*Faunas--Quaternary*
+34,5412,*Faunas--Quaternary*
+34,5412,*Java man*
+34,5415,*Faunas--Quaternary*
+34,5415,*extinct tortoise, China*
+34,5416,*Faunas -- Quaternary -- Cave Faunas*
+34,5416,*hyaena, Choukoutien, popular*
+34,5417,*Faunas -- Quaternary -- Cave Faunas*
+34,5417,*Sinanthropus, associated mammals, popular*
+34,5418,*Faunas--Quaternary*
+34,5418,*mammals, France*
+34,5421,*Faunas--Miocene*
+34,5423,*Faunas--Mesozoic and Tertiary*
+34,5423,*dinosaurs, Utah, stratigraphic*
+34,5427,*Faunas--Quaternary*
+34,5427,*Neohippus, Ecuador*
+34,5428,*Faunas--Quaternary*
+34,5428,*early man in America*
+34,5432,*Faunas--Devonian*
+34,5432,*fish, Germany*
+34,5436,*Faunas--Paleozoic and Mesozoic*
+34,5436,*stegocephalian, Helgoland*
+34,5437,*Faunas--Cretaceous*
+34,5437,*turtle, Brazil*
+34,5440,*Faunas--Devonian*
+34,5440,*fish, New Mexico*
+34,5441,*Faunas--Carboniferous*
+34,5442,*Faunas--Carboniferous*
+34,5443,*Faunas--Carboniferous*
+34,5443,*fishes, Belgium*
+34,5444,*Faunas--Quaternary*
+34,5444,*Megaceros, Russia*
+34,5445,*Faunas--Quaternary*
+34,5445,*meadow deer, Russia*
+34,5447,*Faunas--Tertiary*
+34,5448,*Faunas--Tertiary*
+34,5448,*mammals, Colorado*
+34,5449,*Faunas--Devonian*
+34,5449,*fishes, conodonts, Ohio*
+34,5450,*Faunas--Carboniferous*
+34,5450,*amphibians, Nova Scotia*
+34,5451,*Faunas--Permian*
+34,5451,*amphibian, Germany*
+34,5452,*Faunas--Paleozoic*
+34,5452,*amphibians, Czechoslovakia*
+34,5455,*Faunas--Miocene*
+34,5456,*Faunas--Miocene*
+34,5457,*Cyrenaica*
+34,5457,*Faunas--Miocene*
+34,5458,*Elephas, Italy*
+34,5458,*Faunas--Pliocene*
+34,5461,*Faunas--Cenozoic*
+34,5462,*Faunas--Quaternary*
+34,5463,*Faunas--Quaternary*
+34,5465,*Faunas--Pliocene*
+34,5466,*Faunas--Quaternary*
+34,5470,*Bubalus, Italy*
+34,5470,*Faunas--Pliocene*
+34,5474,*Faunas--Miocene*
+34,5474,*gazelle, Switzerland*
+34,5476,*Faunas--Miocene*
+34,5476,*deer, Europe and Asia*
+34,5480,*Faunas--Oligocene*
+34,5480,*stratigraphic, Upper Rhine*
+34,5483,*Faunas--Cenozoic*
+34,5483,*asinid horses, Europe*
+34,5494,*Faunas--Quaternary*
+34,5497,*Faunas--Devonian*
+34,5501,*Faunas--Cretaceous*
+34,5501,*amiid, China*
+34,5502,*Faunas--Devonian*
+34,5502,*Placodermi, E. Greenland*
+34,5505,*Faunas--Devonian*
+34,5505,*coelacanthids, Germany*
+34,5508,*Faunas--Devonian*
+34,5508,*Placodermi, Ichthyodorulites, E. Greenland*
+34,5514,*Faunas--Cretaceous*
+34,5514,*hadrosaurids, Canada*
+34,5517,*Faunas--Cretaceous*
+34,5517,*Monoclonius and Centrosaurus, Alberta*
+34,5520,*Faunas--Cretaceous*
+34,5520,*bird, Canada*
+34,5521,*Faunas--Quaternary*
+34,5522,*Faunas--Quaternary*
+34,5522,*man, Florida*
+34,5524,*Faunas--Quaternary*
+34,5524,*mammals, Belgium, stratigraphic*
+34,5529,*Amblycastor, Mongolia*
+34,5529,*Faunas--Miocene*
+34,5530,*Faunas--Pliocene*
+34,5530,*mammals, California*
+34,5532,*Faunas--Tertiary*
+34,5533,*Faunas--Pliocene*
+34,5533,*mammals, N. America, correlation*
+34,5534,*Faunas--Pliocene*
+34,5534,*ruminant, Texas*
+34,5535,*Faunas--Pliocene*
+34,5535,*beaver, Arizona*
+34,5537,*Faunas--Tertiary*
+34,5537,*mammals, Nevada and California*
+34,5538,*Faunas--Tertiary*
+34,5538,*mammals, California*
+34,5539,*Faunas--Tertiary*
+34,5539,*mammals, value in Holarctic correlation*
+34,5541,*Faunas--Quaternary*
+34,5541,*mammals, California*
+34,5542,*Faunas--Tertiary*
+34,5542,*Miocene and Pliocene mammals, Nebraska*
+34,5545,*Faunas--Eocene*
+34,5546,*Faunas--Eocene*
+34,5546,*primate, California*
+34,5547,*Faunas--Eocene*
+34,5547,*insectivore, condylarth, California*
+34,5548,*Faunas--Eocene*
+34,5549,*Faunas--Oligocene*
+34,5549,*oreodont, California*
+34,5550,*Faunas--Eocene*
+34,5550,*hypertragulid, California*
+34,5552,*Faunas--Eocene*
+34,5552,*miacid, California*
+34,5553,*Faunas--Eocene*
+34,5553,*mammals, California*
+34,5554,*Faunas--Eocene*
+34,5554,*aplodont rodents, California*
+34,5555,*Faunas--Miocene*
+34,5555,*artiodactyls, California*
+34,5556,*Faunas--Eocene*
+34,5556,*creodonts, California*
+34,5557,*Faunas--Eocene*
+34,5558,*Faunas--Eocene*
+34,5559,*Faunas--Quaternary*
+34,5560,*Faunas--Tertiary*
+34,5560,*mammals in well cores, California*
+34,5561,*Faunas--Tertiary*
+34,5561,*Sespe faunas, California*
+34,5562,*Faunas--Cenozoic*
+34,5562,*ground sloth, Pliocene or Pleistocene, Mexico*
+34,5563,*Faunas--Eocene*
+34,5563,*didelphids, California*
+34,5564,*Faunas--Eocene*
+34,5564,*artiodactyl, California*
+34,5565,*Faunas--Eocene*
+34,5565,*perissodactyls, California*
+34,5566,*Faunas--Oligocene*
+34,5566,*titanotheres, California*
+34,5567,*Faunas--Pliocene*
+34,5567,*Pliomastodon, Nevada*
+34,5568,*Faunas--Quaternary*
+34,5568,*mammals contemporaneous with man, N. America*
+34,5569,*Conklin and Gypsum caves, U. S.*
+34,5569,*Faunas -- Quaternary -- Cave Faunas*
+34,5571,*Faunas--Quaternary*
+34,5571,*elephants, Channel Islands, California*
+34,5572,*Faunas--Quaternary*
+34,5572,*mammal tracks, Nevada*
+34,5573,*Faunas--Tertiary*
+34,5573,*bears, California, popular*
+34,5574,*Faunas--Pliocene*
+34,5574,*mammals, California*
+34,5575,*Faunas--Eocene*
+34,5576,*Faunas--Miocene*
+34,5576,*peccary, California*
+34,5577,*Faunas--Tertiary*
+34,5577,*Sespe, California, correlation*
+34,5578,*Faunas--Eocene*
+34,5578,*insectivores, California*
+34,5579,*Bison, California, popular*
+34,5579,*Faunas--Quaternary*
+34,5580,*Faunas--Miocene*
+34,5580,*mammals, Temblor fm., California*
+34,5581,*Faunas--Oligocene*
+34,5581,*mammals, California*
+34,5582,*Eocene and Oligocene mammals as indicators of climatic changes, California*
+34,5582,*Faunas--Tertiary*
+34,5583,*Faunas--Quaternary*
+34,5583,*mammals, California*
+34,5585,*Faunas--Eocene*
+34,5585,*tarsiid primate, mixodectid, California*
+34,5586,*Faunas--Eocene*
+34,5586,*titanothere, California*
+34,5587,*Faunas--Quaternary*
+34,5587,*canid, California*
+34,5589,*Faunas--Oligocene*
+34,5589,*mammals, California*
+34,5590,*Faunas--Quaternary*
+34,5590,*chiefly mammals, associated with man, New Mexico*
+34,5593,*Faunas--Paleozoic and Mesozoic*
+34,5593,*Karroo, Tanganyika territory*
+34,5596,*Faunas--Jurassic*
+34,5596,*ramphorhynchid, Germany*
+34,5598,*Faunas--Pliocene*
+34,5598,*Hipparion, Sylt, stratigraphic*
+34,5604,*Faunas--Quaternary*
+34,5604,*deer, Italy*
+34,5606,*Faunas--Quaternary*
+34,5606,*ungulate, Oklahoma*
+34,5607,*Faunas--Permian*
+34,5607,*pelycosaur, Oklahoma*
+34,5608,*Faunas--Jurassic*
+34,5609,*Faunas--Jurassic*
+34,5609,*dinosaurs, Oklahoma*
+34,5610,*Faunas--Quaternary*
+34,5610,*tapir, Oklahoma*
+34,5611,*Faunas--Quaternary*
+34,5611,*pathological proboscidean jaw, Oklahoma*
+34,5612,*Faunas--Quaternary*
+34,5612,*grizzly bears, Oklahoma*
+34,5613,*Faunas--Quaternary*
+34,5613,*bovid, Oklahoma*
+34,5614,*Faunas--Oligocene*
+34,5614,*coprolite, S. Dakota*
+34,5615,*Faunas--Pliocene*
+34,5615,*mammals, Oklahoma*
+34,5616,*Faunas--Quaternary*
+34,5616,*Faunas--Triassic*
+34,5616,*grizzly bear, Oklahoma*
+34,5616,*phytosaur, Texas*
+34,5617,*Arizona, stratigraphic*
+34,5617,*Faunas--Paleozoic*
+34,5618,*Arizona*
+34,5618,*Faunas--Mesozoic and Tertiary*
+34,5632,*Dinosauria, Egypt*
+34,5632,*Faunas--Cretaceous*
+34,5633,*Faunas--Cretaceous*
+34,5633,*Testudinata, Egypt*
+34,5636,*Faunas--Cretaceous*
+34,5636,*Plesiosauria, Egypt*
+34,5640,*Egypt*
+34,5640,*Faunas--Mesozoic and Tertiary*
+34,5642,*Faunas--Pliocene*
+34,5642,*mammals, Germany*
+34,5645,*Faunas--Pliocene*
+34,5645,*ungulates, Germany*
+34,5650,*Faunas--Quaternary*
+34,5650,*artifacts with animals, Nebraska*
+34,5657,*Faunas--Triassic*
+34,5657,*reptiles, Muschelkalk, Germany*
+34,5662,*Faunas--Quaternary*
+34,5662,*Minnesota man*
+34,5664,*Faunas--Tertiary*
+34,5664,*sirenians, Jugoslavia*
+34,5666,*Faunas--Quaternary*
+34,5666,*man, mammals, Ecuador*
+34,5667,*Faunas--Permian*
+34,5667,*cynodont, Russia*
+34,5668,*Faunas--Permian*
+34,5668,*stegocephalian, Russia*
+34,5678,*Faunas--Cretaceous*
+34,5678,*dinosaurs, Isle of Wight*
+34,5679,*Faunas--Eocene*
+34,5679,*iguana, Barbados*
+34,5680,*Faunas--Eocene*
+34,5680,*crocodile, Belgium*
+34,5685,*Faunas--Cenozoic*
+34,5686,*Faunas--Cenozoic*
+34,5687,*Faunas--Cenozoic*
+34,5687,*Testudinata, Hungary*
+34,5689,*Faunas--Miocene*
+34,5689,*Testudo, Hungary*
+34,5690,*Faunas--Quaternary*
+34,5690,*turtle, Malta*
+34,5692,*Faunas--General*
+34,5692,*tortoise, Portugal*
+34,5693,*Desmostylus, Japanese Sakhalin*
+34,5693,*Faunas--Miocene*
+34,5694,*Faunas--Cenozoic*
+34,5694,*Pliocene or Pleistocene elephant, Japan*
+34,5695,*Faunas--Quaternary*
+34,5695,*elephants, Japan*
+34,5696,*Faunas--Quaternary*
+34,5696,*mammals, Japan*
+34,5697,*Faunas--Quaternary*
+34,5697,*elephant, Korea*
+34,5698,*Faunas--Cenozoic*
+34,5698,*mammals, Japan*
+34,5699,*Faunas--Cenozoic*
+34,5699,*turtle, Japan*
+34,5703,*Faunas--General*
+34,5703,*fishes, Utah*
+34,5704,*Faunas -- Quaternary -- Cave Faunas*
+34,5704,*mammals, Argentina*
+34,5705,*Elephas, Ukraine*
+34,5705,*Faunas--Quaternary*
+34,5706,*Faunas--Quaternary*
+34,5706,*fish, E. Russia*
+34,5707,*Faunas--Quaternary*
+34,5707,*Marmosa, Yucatan*
+34,5710,*Faunas--Pliocene*
+34,5711,*Faunas--Pliocene*
+34,5711,*amphibians, Kansas*
+34,5718,*Faunas--Paleozoic and Mesozoic*
+34,5718,*Tanganyika, stratigraphy*
+34,5722,*Faunas--General*
+34,5722,*Little Tibet*
+34,5732,*Faunas--Cenozoic*
+34,5732,*India*
+34,5734,*Asiatic cycles and early man*
+34,5734,*Faunas--Cenozoic*
+34,5736,*Faunas--Cenozoic*
+34,5736,*Siwaliks and early man*
+34,5738,*Faunas--Quaternary*
+34,5738,*man, associated mammals, Asia and Germany*
+34,5739,*Faunas--Quaternary*
+34,5739,*climate and man, Asia*
+34,5740,*Faunas--Quaternary*
+34,5740,*N. India, stratigraphic*
+34,5741,*Faunas--Quaternary*
+34,5741,*S. E. Asia, stratigraphic*
+34,5742,*Faunas--Cenozoic*
+34,5742,*India*
+34,5743,*Dinotherium, Rhinoceros, France*
+34,5743,*Faunas--Tertiary*
+34,5744,*Faunas--Oligocene*
+34,5745,*Faunas--Oligocene*
+34,5745,*fishes, France*
+34,5746,*Faunas--Quaternary*
+34,5747,*Faunas--Oligocene*
+34,5747,*fishes, France*
+34,5748,*Faunas--Quaternary*
+34,5748,*Minnesota man*
+34,5756,*Faunas--Quaternary*
+34,5756,*slothhunters, N. America*
+34,5762,*Faunas--Devonian*
+34,5762,*fishes, Wyoming, popular*
+34,5778,*Faunas--Eocene*
+34,5778,*condylarth, Wyoming*
+34,5780,*Faunas--Triassic*
+34,5780,*fish, Connecticut*
+34,5781,*Faunas--Tertiary*
+34,5781,*Merycoidodontidae*
+34,5785,*Faunas--Eocene*
+34,5789,*Faunas--Tertiary*
+34,5789,*marine molasse, Baden*
+34,5790,*Faunas -- Quaternary -- Cave Faunas*
+34,5790,*fishes, Crimea*
+34,5791,*Faunas--Permian*
+34,5791,*USSR*
+34,5792,*Elephas, Sahara*
+34,5792,*Faunas--Quaternary*
+34,5796,*Faunas--Quaternary*
+34,5796,*mammals, S. Australia*
+34,5800,*Faunas--Cenozoic*
+34,5800,*suid, Germany*
+34,5801,*Faunas--Pliocene*
+34,5801,*suids, Egypt*
+34,5803,*Faunas--Miocene*
+34,5803,*Hipparion, S. W. Germany*
+34,5805,*Faunas--Cretaceous*
+34,5805,*trachodont dinosaur, Colorado*
+34,5806,*Faunas--Tertiary*
+34,5806,*bird egg, Colorado*
+34,5807,*Faunas--Paleozoic*
+34,5808,*Faunas--Quaternary*
+34,5808,*mammals, Thuringia*
+34,5809,*Capra, Thuringia*
+34,5809,*Faunas--Quaternary*
+34,5810,*Faunas -- Quaternary -- Cave Faunas*
+34,5810,*man, associated fauna, Germany*
+34,5811,*Faunas--Tertiary*
+34,5812,*Faunas--Mesozoic and Cenozoic*
+34,5813,*Faunas--Quaternary*
+34,5814,*Faunas--Cenozoic*
+34,5815,*Faunas--Cenozoic*
+34,5815,*elephants, Japan*
+34,5817,*Faunas--Quaternary*
+34,5817,*general, Japan*
+34,5818,*Faunas--Pliocene*
+34,5818,*rhinoceroses, Japan*
+34,5819,*Faunas--Cenozoic*
+34,5820,*Faunas--Quaternary*
+34,5821,*Faunas--Quaternary*
+34,5821,*elephant, Japan*
+34,5822,*Desmostylus, Japan*
+34,5822,*Faunas--Miocene*
+34,5823,*Faunas--Tertiary*
+34,5823,*crocodile, Taiwan*
+34,5824,*Faunas--Cenozoic*
+34,5825,*Faunas--Quaternary*
+34,5826,*Faunas--Quaternary*
+34,5827,*Faunas--Cenozoic*
+34,5829,*Faunas--Quaternary*
+34,5829,*chiefly mammals, Manchoukuo*
+34,5830,*Faunas--Miocene*
+34,5830,*pomacentrid fish, Japan*
+34,5831,*Faunas--Quaternary*
+34,5831,*elephants, Japan*
+34,5832,*Faunas--Quaternary*
+34,5832,*roe-deer, Japan*
+34,5833,*Faunas--Quaternary*
+34,5833,*pathological elephant mandible, Japan*
+34,5834,*Faunas -- Quaternary -- Cave Faunas*
+34,5835,*Faunas -- Quaternary -- Cave Faunas*
+34,5835,*elephants, Japan*
+34,5836,*Faunas--Miocene*
+34,5839,*Faunas--Quaternary*
+34,5839,*mammals, England, stratigraphic*
+34,5840,*Faunas -- Quaternary -- Cave Faunas*
+34,5840,*mammals, Italy*
+34,5843,*Faunas--Quaternary*
+34,5844,*Faunas--Quaternary*
+34,5844,*early man, associated mammals, southwestern U. S.*
+34,5849,*Faunas--General*
+34,5849,*Northern Range, Trinidad*
+34,5850,*Faunas -- Quaternary -- Cave Faunas*
+34,5850,*Faunas--Quaternary*
+34,5850,*chiefly mammals, Malta*
+34,5850,*chiefly mammals, Malta*
+34,5852,*Faunas--Oligocene*
+34,5852,*manatee, Cuba*
+34,5854,*Faunas--Quaternary*
+34,5854,*cichlid fishes, E. Africa*
+34,5855,*Faunas -- Quaternary -- Cave Faunas*
+34,5855,*mammals, Italy*
+34,5858,*Eohippus, N. America*
+34,5858,*Faunas--Eocene*
+34,5859,*Diatryma, Wyoming*
+34,5859,*Faunas--Eocene*
+34,5863,*Faunas--Jurassic*
+34,5863,*tracks, Germany*
+34,5864,*Chirotherium tracks, Germany*
+34,5864,*Faunas--Triassic*
+34,5865,*Faunas--Cretaceous*
+34,5865,*stegocephalian, Germany*
+34,5866,*Faunas--Triassic*
+34,5867,*Faunas--Quaternary*
+34,5867,*mammals, Main river, Germany, stratigraphic*
+34,5868,*Faunas--Triassic*
+34,5868,*labyrinthodonts, Germany*
+34,5869,*Faunas--Triassic*
+34,5869,*Gyrolepis remains in coprolite of Nothosaurus, Germany*
+34,5874,*Faunas--Cenozoic*
+34,5874,*arctic faunas, Eurasia*
+34,5875,*Faunas--Pliocene*
+34,5875,*birds, Siberia*
+34,5876,*Faunas -- Quaternary -- Cave Faunas*
+34,5876,*birds, Crimean peninsula*
+34,5877,*Faunas--Cenozoic*
+34,5877,*birds, Russia*
+34,5882,*Faunas--General*
+34,5882,*finds in Inner Mongolia*
+34,5883,*Faunas--Ordovician*
+34,5883,*age of Harding ss., Colorado*
+34,5884,*Faunas--Quaternary*
+34,5884,*mammoths, Sakhalin*
+34,5892,*Faunas--Quaternary*
+34,5892,*Kanam and Kanjera man*
+34,5893,*Faunas--Quaternary*
+34,5893,*Minnesota man*
+34,5894,*Faunas--Quaternary*
+34,5894,*Javanthropus, associated fauna*
+34,5896,*Faunas--Quaternary*
+34,5896,*supposed human pigmy, India*
+34,5898,*Faunas--Quaternary*
+34,5898,*man, Palestine*
+34,5906,*Faunas--Quaternary*
+34,5906,*Florisbad man*
+34,5909,*Faunas--Miocene*
+34,5910,*Faunas--Tertiary*
+34,5911,*Faunas--Cretaceous*
+34,5912,*Faunas--Cenozoic*
+34,5912,*Faunas--General*
+34,5913,*Faunas--Cenozoic*
+34,5915,*Faunas--Quaternary*
+34,5916,*Chinle fm., southwestern U. S., stratigraphic*
+34,5916,*Faunas--Triassic*
+34,5917,*Faunas--Pliocene*
+34,5917,*mammals, California*
+34,5919,*Faunas--Quaternary*
+34,5919,*northern California*
+34,5923,*Desmostylus*
+34,5923,*Faunas--Miocene*
+34,5927,*Faunas--Quaternary*
+34,5928,*Faunas--Quaternary*
+34,5929,*Faunas--Quaternary*
+34,5930,*Faunas--Quaternary*
+34,5932,*Faunas--Quaternary*
+34,5933,*Faunas--Quaternary*
+34,5934,*Faunas--Paleozoic and Mesozoic*
+34,5937,*Faunas--Pliocene*
+34,5941,*Faunas--Quaternary*
+34,5941,*man, Palestine*
+34,5942,*Faunas -- Quaternary -- Cave Faunas*
+34,5942,*man, Choukoutien*
+34,5943,*Faunas -- Quaternary -- Cave Faunas*
+34,5943,*man, Palestine*
+34,5944,*Faunas--Quaternary*
+34,5944,*chellean man*
+34,5948,*Faunas--Quaternary*
+34,5948,*man, N. Africa*
+34,5949,*Faunas -- Quaternary -- Cave Faunas*
+34,5949,*man and associated faunas, France, N. Africa, 1928-1933*
+34,5953,*Faunas--Quaternary*
+34,5953,*Folsom artifacts, associated Bison*
+34,5956,*Faunas--Quaternary*
+34,5956,*primates, E. Asia*
+34,5957,*Capsian, N. Africa, stratigraphic*
+34,5957,*Faunas--Quaternary*
+34,5958,*Faunas--Quaternary*
+34,5958,*origin of domestic animals*
+34,5959,*Faunas--Triassic*
+34,5959,*fishes, Congo Basin, stratigraphic*
+34,5963,*Faunas--Cenozoic*
+34,5963,*mammals, Paraguay*
+34,5964,*Faunas -- Quaternary -- Cave Faunas*
+34,5964,*Lege%Any cave, Hungary*
+34,5970,*Faunas--Quaternary*
+34,5975,*Faunas--Carboniferous*
+34,5975,*fishes, Siberia, stratigraphic*
+34,5977,*Faunas--Quaternary*
+34,5977,*man, associated mammals, Argentina*
+34,5978,*Faunas--Quaternary*
+34,5978,*man in America*
+34,5979,*Faunas--Miocene*
+34,5979,*rhinoceros, Spain*
+34,5980,*Faunas--Quaternary*
+34,5981,*Faunas--Quaternary*
+34,5982,*Faunas--Quaternary*
+34,5982,*mammals, Chile*
+34,5984,*Faunas--Quaternary*
+34,5985,*Faunas--General*
+34,5985,*dipodid rodents, Russia*
+34,5986,*Faunas -- Quaternary -- Cave Faunas*
+34,5986,*rodents, insectivores, Crimea*
+34,5988,*Faunas--Pliocene*
+34,5988,*mammals, Catalogne*
+34,5990,*Faunas--Miocene*
+34,5990,*mustelid, France*
+34,5991,*Faunas--Jurassic*
+34,5991,*dinosaurs, France*
+34,5993,*Faunas--Miocene*
+34,5993,*Sus, France, stratigraphic*
+34,5994,*Faunas--Oligocene*
+34,5995,*Faunas--Triassic*
+34,5995,*batrachian, Madagascar*
+34,5996,*Erinaceidae*
+34,5996,*Faunas--General*
+34,5999,*Faunas--Tertiary*
+34,5999,*mammals, France*
+34,6001,*Faunas--Quaternary*
+34,6001,*Trogontherium France*
+34,6002,*Faunas--Quaternary*
+34,6002,*mammals, France*
+34,6003,*Faunas--Miocene*
+34,6003,*mammals, Aquitanian, France*
+34,6012,*Faunas -- Quaternary -- Cave Faunas*
+34,6012,*Schalbergfelsen cave, Switzerland*
+34,6014,*Faunas -- Quaternary -- Cave Faunas*
+34,6014,*cave-bear hunters*
+34,6015,*Faunas--Eocene*
+34,6015,*fishes, Braunkohle, Germany*
+34,6018,*Faunas--Eocene*
+34,6018,*frog epithelial cells, Braunkohle, Germany*
+34,6021,*Faunas--Eocene*
+34,6021,*Pisces, Amphibia, Reptilia, Braunkohle, Germany*
+34,6023,*Faunas--Oligocene*
+34,6023,*acanthopterygian, Germany*
+34,6024,*Faunas--Eocene*
+34,6024,*red blood corpuscles, lizard, Braunhohle, Germany*
+34,6025,*Faunas--Eocene*
+34,6025,*muscle tissue, Braunkohle, Germany*
+34,6026,*Faunas--Pliocene*
+34,6026,*chiefly mammals, Meotic, Russia*
+34,6027,*Faunas--Pliocene*
+34,6027,*mammals, Austria*
+34,6030,*Faunas--General*
+34,6030,*Tanganyika, correlation*
+34,6031,*Faunas--Triassic*
+34,6031,*fishes, Wales*
+34,6034,*Faunas--Quaternary*
+34,6034,*Pleistocene, India*
+34,6035,*Faunas--Tertiary*
+34,6035,*anthropoids, India*
+34,6037,*Faunas--Quaternary*
+34,6037,*man, systematic position*
+34,6039,*Faunas--Triassic*
+34,6039,*Mastodonsaurus, Germany*
+34,6040,*Faunas--Triassic*
+34,6040,*Trematosaurus and Mastodonsaurus, Germany*
+34,6043,*Faunas--Quaternary*
+34,6043,*mammals, England*
+34,6046,*Faunas -- Quaternary -- Cave Faunas*
+34,6046,*Homo and associated mammals, S. America*
+34,6048,*Elephas, Germany*
+34,6048,*Faunas--Quaternary*
+34,6050,*Faunas--Devonian*
+34,6050,*cephalaspid, Spitzbergen*
+34,6053,*Faunas--Quaternary*
+34,6053,*Nebraska man*
+34,6054,*Faunas--Quaternary*
+34,6054,*man, S. Australia*
+34,6058,*Faunas--Paleozoic and Mesozoic*
+34,6058,*fishes, Canada*
+34,6059,*Dinichthys, Canada, stratigraphic*
+34,6059,*Faunas--Devonian*
+34,6060,*Faunas--Quaternary*
+34,6060,*mammoth associated with artifact*
+34,6065,*Faunas--Carboniferous*
+34,6065,*fishes, Sarre basin*
+34,6066,*Faunas--Carboniferous*
+34,6066,*Lorraine*
+34,6070,*Faunas--Devonian*
+34,6071,*Faunas--Devonian*
+34,6072,*Faunas--Devonian*
+34,6072,*fishes, Scotland*
+34,6075,*Faunas--Devonian*
+34,6075,*ptyctodont, Scotland*
+34,6082,*Faunas--Quaternary*
+34,6082,*mammals associated with artifacts, Uganda*
+34,6086,*Faunas--General*
+34,6086,*birds*
+34,6089,*Faunas--Quaternary*
+34,6089,*marmots, Germany*
+34,6099,*Faunas -- Quaternary -- Cave Faunas*
+34,6106,*Faunas -- Quaternary -- Cave Faunas*
+34,6109,*Faunas -- Quaternary -- Cave Faunas*
+34,6110,*Faunas -- Quaternary -- Cave Faunas*
+34,6117,*Faunas--Quaternary*
+34,6117,*Pithecanthropus*
+34,6118,*Faunas -- Quaternary -- Cave Faunas*
+34,6118,*Sinanthropus*
+34,6119,*Faunas--Eocene*
+34,6120,*Faunas--Eocene*
+34,6121,*Faunas--Eocene*
+34,6122,*Faunas--Eocene*
+34,6123,*Faunas--Eocene*
+34,6124,*Faunas--Eocene*
+34,6125,*Faunas--Eocene*
+34,6125,*Geiseltal Braunkohle, Germany*
+34,6126,*Faunas--Eocene*
+34,6126,*Lophiodon, Braunkhole, Germany*
+34,6131,*Faunas--General*
+34,6131,*fishes, Poland, stratigraphic*
+34,6133,*Faunas--Eocene*
+34,6133,*fish, Germany*
+34,6134,*Faunas--Mesozoic and Cenozoic*
+34,6134,*fish, Upper Rhine*
+34,6137,*Faunas--Tertiary*
+34,6137,*fishes, Germany*
+34,6138,*Faunas--Cretaceous*
+34,6138,*fishes, Egypt*
+34,6139,*Faunas--Quaternary*
+34,6140,*Faunas--Oligocene*
+34,6141,*Faunas--Oligocene*
+34,6142,*Faunas--Quaternary*
+34,6143,*Faunas--Oligocene*
+34,6144,*Faunas--Quaternary*
+34,6144,*mammals, Germany*
+34,6145,*Faunas--Oligocene*
+34,6145,*fishes, Hungary*
+34,6146,*Faunas--Permian*
+34,6146,*fish, Germany*
+34,6149,*Faunas--Quaternary*
+34,6149,*Oldoway man, E. Africa*
+34,6153,*Faunas--Quaternary*
+34,6153,*man, phylogeny*
+34,6155,*Faunas--Quaternary*
+34,6155,*Steinheim man*
+34,6160,*Faunas -- Quaternary -- Cave Faunas*
+34,6160,*Sinanthropus*
+34,6166,*Africanthropus, "late Pliocene" associated with "Hipparion," later referred to Quaternary in Weinert 1938D*
+34,6166,*Faunas--Pliocene*
+34,6167,*Faunas--Quaternary*
+34,6168,*Africanthropus*
+34,6168,*Faunas--Quaternary*
+34,6171,*Faunas--Quaternary*
+34,6171,*Steinheim man*
+34,6173,*Faunas--Triassic*
+34,6173,*reptile trackways, Germany*
+34,6174,*Faunas--Eocene*
+34,6175,*Faunas--Quaternary*
+34,6177,*Faunas--Miocene*
+34,6177,*frog, Germany*
+34,6178,*Faunas--Eocene*
+34,6178,*crocodiles, Germany*
+34,6179,*Faunas--Miocene*
+34,6179,*crocodiles, Germany*
+34,6180,*England, stratigraphic*
+34,6180,*Faunas--General*
+34,6181,*Faunas--Paleozoic*
+34,6181,*Permo-Carboniferous, New Mexico*
+34,6184,*Elephas, West Virginia*
+34,6184,*Faunas--Quaternary*
+34,6189,*Faunas--Devonian*
+34,6190,*Faunas--Quaternary*
+34,6191,*Faunas--Quaternary*
+34,6191,*man, S. Africa*
+34,6201,*Faunas--Devonian*
+34,6203,*Faunas--Permian*
+34,6203,*palaeoniscid, France*
+34,6204,*Faunas--Devonian*
+34,6204,*fishes, Scotland*
+34,6206,*Faunas--Devonian*
+34,6206,*crossopterygian, eastern Canada*
+34,6215,*Faunas--Cenozoic*
+34,6215,*birds, Mongolia*
+34,6218,*Faunas--Miocene*
+34,6218,*quail, Nebraska*
+34,6219,*Faunas--Quaternary*
+34,6219,*swan, Illinois*
+34,6223,*Faunas--Miocene*
+34,6223,*hawks, Nebraska*
+34,6225,*Faunas--Quaternary*
+34,6225,*birds, Virgin Islands*
+34,6226,*Faunas -- Quaternary -- Cave Faunas*
+34,6226,*birds, Bahamas*
+34,6227,*Faunas--Pliocene*
+34,6227,*grebe, California*
+34,6228,*Faunas--Pliocene*
+34,6228,*birds, Kansas*
+34,6230,*Faunas--Oligocene*
+34,6230,*bird, South Dakota*
+34,6232,*Faunas--Miocene*
+34,6232,*birds, Maryland*
+34,6233,*Faunas--Eocene*
+34,6233,*owl, Wyoming*
+34,6234,*Faunas -- Quaternary -- Cave Faunas*
+34,6234,*birds, West Indies*
+34,6235,*Faunas--Eocene*
+34,6235,*duck, Utah*
+34,6236,*Faunas--Oligocene*
+34,6236,*hawk, South Dakota*
+34,6241,*Faunas -- Quaternary -- Cave Faunas*
+34,6241,*Merkenstein cave, Austria*
+34,6245,*Faunas--Quaternary*
+34,6245,*musk ox, Germany*
+34,6246,*Faunas--Eocene*
+34,6246,*fishes, Germany*
+34,6248,*Faunas--Permian*
+34,6249,*Faunas--Permian*
+34,6249,*Helicoprion, Nevada*
+34,6252,*Faunas--Quaternary*
+34,6252,*Pleistocene, Ireland*
+34,6253,*Faunas--Eocene*
+34,6253,*percoid fishes, Egypt, Italy*
+34,6255,*Faunas--Paleozoic*
+34,6255,*acanthodians, Scotland*
+34,6256,*Faunas--Jurassic*
+34,6256,*palaeoniscid, Turkestan*
+34,6257,*Faunas--Mesozoic and Tertiary*
+34,6257,*fishes, Nigeria*
+34,6258,*Faunas--Paleozoic*
+34,6258,*Pteraspis*
+34,6259,*Faunas--Devonian*
+34,6259,*ostracoderms, England*
+34,6263,*Faunas--Quaternary*
+34,6263,*fishes, W. Africa*
+34,6264,*Faunas--Devonian*
+34,6264,*pteraspids, Wales*
+34,6267,*Faunas--Cretaceous*
+34,6267,*plesiosaur, Australia*
+34,6274,*Faunas--Jurassic*
+34,6274,*Kouphichnium, Germany*
+34,6277,*Faunas--Devonian*
+34,6277,*footprints, Pennsylvania*
+34,6281,*Faunas--Quaternary*
+34,6281,*Pleistocene, California*
+34,6282,*Bison, Yukon*
+34,6282,*Faunas--Quaternary*
+34,6285,*Faunas--Silurian*
+34,6285,*ostracoderms, England*
+34,6286,*Faunas--Quaternary*
+34,6287,*Faunas--Quaternary*
+34,6287,*mammals, England, stratigraphic*
+34,6292,*Faunas--Devonian*
+34,6292,*fishes, Orkney Islands*
+34,6293,*Faunas--Devonian*
+34,6293,*fishes, Orkney and Shetland Islands, stratigraphic*
+34,6296,*Faunas--Miocene*
+34,6296,*marine mammals, California*
+34,6297,*Faunas--Miocene*
+34,6297,*dolphin, California*
+34,6300,*Faunas--Cenozoic*
+34,6300,*rodents, Idaho*
+34,6301,*Faunas--Oligocene*
+34,6301,*rodents, California*
+34,6302,*Faunas--Pliocene*
+34,6302,*castorid rodent, Orgeon*
+34,6303,*Faunas--Eocene*
+34,6305,*Faunas--Cenozoic*
+34,6305,*porcupine, Idaho*
+34,6306,*Faunas--Oligocene*
+34,6306,*mammals, California*
+34,6307,*Faunas--Pliocene*
+34,6307,*rodents, Nevada*
+34,6308,*Faunas--Quaternary*
+34,6308,*deer-mouse, California*
+34,6309,*Faunas--Pliocene*
+34,6310,*Faunas--Pliocene*
+34,6310,*rodents, Western N. America*
+34,6311,*Faunas--Eocene*
+34,6312,*Faunas--Pliocene*
+34,6312,*rodent, Mexico*
+34,6313,*Faunas--Eocene*
+34,6313,*rodents, California*
+34,6314,*Faunas--Eocene*
+34,6314,*rodents, Wyoming*
+34,6315,*Faunas--Jurassic*
+34,6315,*reptiles, England, stratigraphic*
+34,6316,*Aepyornis, Mullerornis, Madagascar*
+34,6316,*Faunas--Quaternary*
+34,6323,*Faunas--Quaternary*
+34,6323,*Lansing man*
+34,6329,*Faunas--Quaternary*
+34,6330,*Canis, Poland*
+34,6330,*Faunas--Quaternary*
+34,6333,*Faunas--Quaternary*
+34,6333,*Germany, correlation with glaciation*
+34,6334,*Faunas--Quaternary*
+34,6334,*investigation, Germany*
+34,6336,*Faunas -- Quaternary -- Cave Faunas*
+34,6336,*bibliography*
+34,6339,*Faunas--Quaternary*
+34,6339,*reindeer and horses, Germany*
+34,6345,*Faunas--Carboniferous*
+34,6345,*fishes, Wales*
+34,6346,*Faunas--Miocene*
+34,6346,*cricetid rodents, western U. S.*
+34,6347,*Faunas--Oligocene*
+34,6347,*rodents, Oregon*
+34,6348,*Faunas--Tertiary*
+34,6349,*Faunas--Tertiary*
+34,6349,*cricetid rodents, described by Leidy and Cope, N. America*
+34,6350,*Faunas--Miocene*
+34,6350,*rodents, Mongolia*
+34,6351,*Faunas--Tertiary*
+34,6351,*geomyid rodents, western U. S.*
+34,6352,*Faunas--Tertiary*
+34,6352,*heteromyid rodents, Western N. America*
+34,6353,*Faunas--Pliocene*
+34,6353,*rodent, Kansas*
+34,6354,*Faunas--Miocene*
+34,6354,*heteromyid rodents, western U. S.*
+34,6355,*Faunas--Quaternary*
+34,6355,*giant beaver, Nebraska*
+34,6356,*Faunas--Pliocene*
+34,6357,*Faunas--Pliocene*
+34,6357,*mammals, California*
+34,6358,*Faunas--Pliocene*
+34,6358,*rodents, Siwalik beds, India*
+34,6360,*Faunas--Oligocene*
+34,6360,*Rodentia, Wyoming*
+34,6366,*Faunas--Tertiary*
+34,6366,*rhinoceroses, Mongolia*
+34,6368,*Faunas--Oligocene*
+34,6368,*amynodont rhinoceros, S. Dakota*
+34,6370,*Faunas--Eocene*
+34,6370,*rhinoceros, Mongolia*
+34,6371,*Bozeman Lake beds, Montana*
+34,6371,*Faunas--Cenozoic*
+34,6374,*Faunas--Eocene*
+34,6374,*mammals, Wyoming*
+34,6375,*Faunas--Tertiary*
+34,6375,*chiefly, mammals, Texas*
+34,6380,*Faunas--Paleozoic*
+34,6380,*recent fish finds*
+34,6381,*Faunas--Silurian*
+34,6381,*ostracoderm, Gt. Britain*
+34,6389,*Faunas--Cretaceous*
+34,6389,*teleost, England*
+34,6390,*Faunas--Quaternary*
+34,6390,*man and associated faunas, old world*
+34,6394,*Faunas--Devonian*
+34,6394,*fish, (Gt. Britain)*
+34,6398,*Faunas--Jurassic*
+34,6398,*fish, Belgium*
+34,6401,*Faunas--Cenozoic*
+34,6401,*New England, stratigraphic*
+34,6405,*Faunas--Carboniferous*
+34,6405,*amphibian tracks, Kansas*
+34,6407,*Faunas--Quaternary*
+34,6407,*Pleistocene, Europe, America*
+34,6408,*Faunas--Mesozoic and Cenozoic*
+34,6408,*Gt. Britain, stratigraphic*
+34,6409,*Faunas--Carboniferous*
+34,6409,*fishes, England*
+34,6416,*Faunas--Eocene*
+34,6416,*chiefly fishes, England*
+34,6417,*Faunas--Devonian*
+34,6417,*fishes, Germany, stratigraphic*
+34,6418,*Brown Coal, Germany, popular*
+34,6418,*Faunas--Miocene*
+34,6420,*Faunas--Tertiary*
+34,6421,*Faunas--Jurassic*
+34,6421,*mammal, S. Manchuria*
+34,6422,*Faunas--Quaternary*
+34,6422,*probable bird gizzard stones, Borodino Islands*
+34,6423,*Faunas--Cenozoic*
+34,6423,*Pliocene or Pleistocene shark, Borodino Islands*
+34,6424,*Faunas--Quaternary*
+34,6424,*mammoth, Manchuria*
+34,6425,*Faunas--Quaternary*
+34,6425,*mammoth, Sakhalin*
+34,6429,*Faunas -- Quaternary -- Cave Faunas*
+34,6443,*Faunas--Quaternary*
+34,6444,*Faunas--Quaternary*
+34,6444,*man, China*
+34,6445,*Faunas -- Quaternary -- Cave Faunas*
+34,6445,*mammals, Choukoutien*
+34,6446,*Faunas--Tertiary*
+34,6446,*mammals, China*
+34,6447,*Faunas--Cenozoic*
+34,6447,*mammals, Shansi and Honan*
+34,6448,*Faunas--Cretaceous*
+34,6449,*Faunas--Mesozoic*
+34,6449,*Hybodus, Kansu province, China*
+34,6450,*Faunas--Mesozoic*
+34,6450,*reptiles, Szechuan, China*
+34,6451,*Faunas--Quaternary*
+34,6451,*mammals, Szechuan, China*
+34,6452,*B. C. mammals, China*
+34,6452,*Faunas--Quaternary*
+34,6452,*Faunas--Triassic*
+34,6453,*Faunas--Mesozoic*
+34,6453,*Faunas--Quaternary*
+34,6453,*Sinanthropus*
+34,6453,*dinosaurs, Shantung, China*
+34,6454,*Faunas--Mesozoic and Cenozoic*
+34,6454,*reptiles, China*
+34,6455,*Faunas--Quaternary*
+34,6455,*Primates, China*
+34,6456,*Faunas--Triassic*
+34,6456,*dicynodonts, Sinkiang*
+34,6459,*Faunas--Quaternary*
+34,6459,*central China*
+34,6460,*Faunas--Cenozoic*
+34,6460,*Shantung, China*
+34,6461,*Faunas--Miocene*
+34,6461,*frog, Shantung, China*
+34,6462,*Faunas--Triassic*
+34,6462,*pelycosimian, Sinkiang*
+34,6463,*Bubalus, China*
+34,6463,*Faunas--Quaternary*
+34,6467,*Faunas--Triassic*
+34,6467,*reptiles, Sinkiang*
+34,6468,*Faunas--Cretaceous*
+34,6469,*Faunas--Cretaceous*
+34,6469,*dinosaurs, China*
+34,6470,*China, stratigraphic*
+34,6470,*Faunas--Cenozoic*
+34,6470,*Faunas--Mesozoic*
+34,6470,*reptiles, China*
+34,6471,*Faunas--Miocene*
+34,6471,*mammals, Shantung and Hopei, China*
+34,6472,*Faunas--Mesozoic and Cenozoic*
+34,6472,*new localities, China*
+34,6473,*Faunas--Triassic*
+34,6473,*dicynodonts, Shansi, China*
+34,6474,*Faunas--Tertiary*
+34,6474,*chiefly mammals, Shansi, China*
+34,6476,*China, new localities*
+34,6476,*Faunas--General*
+34,6477,*Faunas--General*
+34,6477,*Shantung*
+34,6478,*Faunas--Paleozoic and Mesozoic*
+34,6478,*central China*
+34,6479,*Faunas--Pliocene*
+34,6479,*Stegodon, Kwangsi, China*
+34,6480,*Faunas--Mesozoic and Cenozoic*
+34,6480,*Shantung, China*
+34,6481,*China, stratigraphic*
+34,6481,*Faunas--Cenozoic*
+34,6481,*Faunas--Tertiary*
+34,6481,*chiefly Cyprinidae, China*
+34,6482,*Faunas--Cenozoic*
+34,6482,*Kansu, China*
+34,6484,*Faunas--Quaternary*
+34,6484,*Katanga skull*
+34,6488,*Faunas--Mesozoic*
+34,6488,*theromorphs, Sinkiang*
+34,6489,*Faunas--Paleozoic and Mesozoic*
+34,6490,*Faunas--Triassic*
+34,6490,*ganoid, Sinkiang*
+34,6491,*Faunas--Permian*
+34,6491,*dicynodont, Sinkiang*
+34,6492,*Faunas--Triassic*
+34,6492,*Lystrosaurus, Sinkiang*
+34,6495,*Faunas--Quaternary*
+34,6495,*man, recent finds, review*
+34,6497,*Faunas--Quaternary*
+34,6497,*giant deer, Ukraine*
+34,6498,*Elephas, Ukraine*
+34,6498,*Faunas--Quaternary*
+34,6499,*Faunas--Quaternary*
+34,6499,*Recent mammalian fauna, Austria, compared with Quaternary fauna*
+34,6500,*Faunas--Quaternary*
+34,6500,*chiefly mammals, Aurignacian, Russia*
+34,6501,*Faunas--Quaternary*
+34,6501,*mammals, Mousterian, Russia*
+34,6502,*Faunas--Triassic*
+34,6503,*Faunas--Miocene*
+34,6503,*seal, Czechoslovakia*
+34,6505,*Faunas--Cenozoic*
+34,6505,*Russia, stratigraphic*
+34,6506,*Faunas--Miocene*
+34,6507,*Faunas--Quaternary*
+34,6508,*Faunas--Miocene*
+34,6508,*chiefly mammals, Portugal*
+34,6509,*Faunas--Pliocene*
+34,6509,*perissodactyls, Pontian, China*
+34,6510,*Faunas--Mesozoic*
+34,6510,*mosasaurs, Africa*
+34,6511,*Faunas--Pliocene*
+34,6511,*Promephitis, Pontian, China*
+34,6512,*Faunas--Eocene*
+34,6514,*Faunas--General*
+34,6514,*condonts, Barrandian, Czechoslovakia*
+34,6515,*Faunas--Cretaceous*
+34,6515,*fishes, Czechoslovakia, stratigraphic*
+34,6517,*Faunas--Permian*
+34,6517,*Tartarian, Czechoslovakia*
+34,6520,*Faunas -- Quaternary -- Cave Faunas*
+34,6521,*Bohemia*
+34,6521,*Faunas--Quaternary*
+34,6525,*Czechoslovakia*
+34,6525,*Faunas--Quaternary*
+34,6526,*Faunas--Quaternary*
+34,6526,*weasel, Bohemia*
+34,6527,*Faunas--Quaternary*
+34,6527,*fitches, Czechoslovakia*
+34,6528,*Canis, Czechoslovakia*
+34,6528,*Faunas--Quaternary*
+34,6533,*Faunas--Quaternary*
+34,6533,*man, Russia*
+34,6534,*Faunas--Quaternary*
+34,6534,*Russian Quaternary explorations 1932-1935*
+34,6536,*Faunas--Quaternary*
+34,6537,*Faunas--Quaternary*
+34,6537,*rhinoceros, Germany*
+34,6538,*Faunas--Quaternary*
+34,6540,*Faunas--Quaternary*
+34,6540,*Pleistocene chronology, Europe*
+34,6541,*Faunas--Quaternary*
+34,6541,*paleolithic, stratigraphic*
+34,6543,*Faunas--Devonian*
+34,6543,*supposed teleost, Germany*
+34,6546,*Faunas--Miocene*
+34,6546,*Faunas--Quaternary*
+34,6552,*Faunas--Cenozoic*
+34,6552,*Iman river basin, Russia*
+34,6559,*Faunas -- Quaternary -- Cave Faunas*
+

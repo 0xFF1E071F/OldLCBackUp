@@ -1,0 +1,9 @@
+P:\cs131 Spring 2014\ch4 pricebreak\bin\Debug\ch4 pricebreak.exe
+P:\cs131 Spring 2014\ch4 pricebreak\bin\Debug\ch4 pricebreak.pdb
+P:\cs131 Spring 2014\ch4 pricebreak\bin\Debug\ch4 pricebreak.xml
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4_pricebreak.Form1.resources
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4_pricebreak.Resources.resources
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4 pricebreak.vbproj.GenerateResource.Cache
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4 pricebreak.exe
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4 pricebreak.xml
+P:\cs131 Spring 2014\ch4 pricebreak\obj\x86\Debug\ch4 pricebreak.pdb

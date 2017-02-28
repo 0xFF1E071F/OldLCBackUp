@@ -1,0 +1,3293 @@
+*Acanthaspis*,*armata*,*Devonian (Corniferous); Ohio*
+*Acanthoessus*,*affinis*,*Upper Devonian; Quebec, Canada*
+*Acanthoessus*,*concinnus*,*Upper Devonian; Quebec, Canada*
+*Acanthoessus*,*pristis*,*Devonian (Genesee); New York*
+*Acanthoessus*,*semistriatus*,*Lower Devonian; New Brunswick*
+*Acentrophorus*,*chicopensis*,*Triassic; New Jersey, Connecticut*
+*Aceratherium*,*platycephalum*,*Oligocene (White River); South Dakota*
+*Achaenodon*,*insolens*,*Eocene (Bridger); Wyoming: (Uinta); Utah*
+*Achaenodon*,*robustus*,*Eocene (Bridger); Wyoming*
+*Acheloma*,*cumminsi*,*Permian; Texas*
+*Acherontemys*,*heckmani*,*Miocene (Roslyn sandstone); Washington*
+*Acipenser*,*ornatus*,*Miocene; Virginia*
+*Aciprion*,*formosum*,*Oligocene (White River); South Dakota*
+*Acondylacanthus*,*aequicostatus*,*Subcarboniferous (Keokuk); Iowa*
+*Acondylacanthus*,*gracilis*,*Subcarboniferous (Kinderhook); Iowa*
+*Acondylacanthus*,*gracillimus*,*Subcarboniferous (St. Louis); Missouri, Illinois, Michigan*
+*Acondylacanthus*,*mudgianus*,*Coal-measures; Kansas*
+*Acondylacanthus*,*nuperus*,*Coal-measures; Illinois*
+*Acondylacanthus*,*rectus*,*Coal-measures; Illinois*
+*Acrodus*,*emmonsi*,*Miocene?; North Carolina?*
+*Acrodus*,*humilis*,*Cretaceous; New Jersey*
+*Acrolepis*,*hortonensis*,*Subcarboniferous; New Brunswick*
+*Adjidaumo*,*minutus*,*Oligocene (White River); Colorado*
+*Adjidaumo*,*trilophus*,*Oligocene (White River); Colorado*
+*Adocus*,*agilis*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Adocus*,*beatus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Adocus*,*pectoralis*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Adocus*,*pravus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Adocus*,*syntheticus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Ae%Ftobatus*,*arcuatus*,*Miocene; Europe, Maryland, North Carolina.  The identification of the American specimens is doubtful*
+*Ae%Ftobatus*,*perspicuus*,*Eocene?;  New Jersey*
+*Ae%Ftobatus*,*profundus*,*Miocene; Maryland*
+*Aechmophorus*,*occidentalis*,*Recent; Western North America: Pleistocene; Oregon*
+*Aelurodon*,*compressus*,*Miocene (Loup Fork); Nebraska*
+*Aelurodon*,*haydeni*,*Miocene (Loup Fork); Nebraska*
+*Aelurodon*,*hyaenoides*,*Miocene (Loup Fork); Kansas or Nebraska*
+*Aelurodon*,*meandrinus*,*Miocene (Loup Fork); Nebraska*
+*Aelurodon*,*saevus*,*Miocene (Loup Fork); Nebraska, New Mexico*
+*Aelurodon*,*taxoides*,*Miocene (Loup Fork); Nebraska*
+*Aelurodon*,*ursinus*,*Miocene (Loup Fork); New Mexico, Nebraska*
+*Aelurodon*,*wheelerianus*,*Miocene (Loup Fork); New Mexico, Nebraska*
+*Aelurotherium*,*leidyanum*,*Eocene (Bridger); Wyoming*
+*Agabelus*,*porcatus*,*Miocene; New Jersey*
+*Agathaumas*,*mortuarius*,*Cretaceous (Laramie); Colorado*
+*Agathaumas*,*sylvestris*,*Cretaceous (Laramie); Wyoming*
+*Agomphus*,*firmus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Agomphus*,*oxysternum*,*Tertiary?; Georgia*
+*Agomphus*,*petrosus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Agomphus*,*turgidus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Agorophius*,*pygmaeus*,*Eocene; South Carolina*
+*Agouti*,*paca*,*Recent; Mexico to Paraguay.  Reported by Harlan as a fossil found in vicinity of Philadelphia; but d*
+*Agriochoerus*,*antiquus*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*auritus*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*ferox*,*Miocene (John Day); Oregon*
+*Agriochoerus*,*gaudryi*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*guyotianus*,*Miocene (John Day); Oregon*
+*Agriochoerus*,*latifrons*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*macrocephalus*,*Miocene (John Day); Oregon*
+*Agriochoerus*,*major*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*migrans*,*Oligocene (White River); South Dakota*
+*Agriochoerus*,*ryderanus*,*Miocene (John Day); Oregon*
+*Agriochoerus*,*trifrons*,*Miocene (John Day); Oregon*
+*Aix*,*sponsa*,*Recent; North America: Pleistocene; Oregon*
+*Alces*,*americanus*,*Recent in northern portions of North America: Pleistocene; Kentucky, Kansas?, Alaska*
+*Alces*,*brevitrabalis*,*Pleistocene; Washington*
+*Alces*,*semipalmatus*,*Pleistocene; Washington*
+*Aletornis*,*bellus*,*Eocene (Bridger); Wyoming*
+*Aletornis*,*gracilis*,*Eocene (Bridger); Wyoming*
+*Aletornis*,*nobilis*,*Eocene (Bridger); Wyoming*
+*Aletornis*,*pernix*,*Eocene (Bridger); Wyoming*
+*Aletornis*,*venustus*,*Eocene (Bridger); Wyoming*
+*Allacodon*,*fortis*,*Cretaceous (Laramie); Wyoming*
+*Allacodon*,*lentus*,*Cretaceous (Laramie); Wyoming*
+*Allacodon*,*pumilis*,*Cretaceous (Laramie); Wyoming*
+*Allacodon*,*rarus*,*Cretaceous (Laramie); Wyoming*
+*Alligator*,*mississippiensis*,*Recent and in Peace Creek beds; Florida: Pleistocene; South Carolina*
+*Allodon*,*fortis*,*Jurassic; Wyoming*
+*Allodon*,*laticeps*,*Jurassic; Wyoming*
+*Allomys*,*cavatus*,*Miocene (John Day); Oregon*
+*Allomys*,*hippodus*,*Miocene (John Day); Oregon*
+*Allomys*,*liolophus*,*Miocene (John Day); Oregon*
+*Allomys*,*multiplicatus*,*Miocene (John Day); Oregon*
+*Allomys*,*nitens*,*Miocene (John Day); Oregon*
+*Allopus*,*littoralis*,*Coal-measures; Kansas*
+*Allosaurus*,*fragilis*,*Jurassic; Colorado*
+*Amacanthus*,*gibbosus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Ambloctonus*,*sinosus*,*Eocene (Wasatch); New Mexico*
+*Amblyodon*,*problematicus*,*Coal-measures; Nova Scotia*
+*Amblypterus*,*carolinae*,*Triassic; North Carolina*
+*Amblypus*,*dextratus*,*Triassic; Massachusetts*
+*Ameiurus*,*cancellatus*,*Oligocene; Northwest Territory, Canada*
+*Ameiurus*,*maconnellii*,*Oligocene; Northwest Territory, Canada*
+*Amia*,*depressa*,*Eocene (Bridger); Wyoming*
+*Amia*,*dictyocephala*,*Eocene (Amyzon shales); Colorado*
+*Amia*,*elegans*,*Eocene (Bridger); Wyoming*
+*Amia*,*gracilis*,*Eocene (Bridger); Wyoming*
+*Amia*,*macrospondyla*,*Miocene; N. W. Territory, Canada*
+*Amia*,*media*,*Eocene (Bridger); Wyoming*
+*Amia*,*newberriana*,*Eocene (Bridger); Wyoming*
+*Amia*,*scutata*,*Eocene (Amyzon shales); Colorado*
+*Amia*,*uintaensis*,*Eocene (Bridger); Wyoming*
+*Amia*,*whiteavesiana*,*Lower Miocene; N. W. Territory, Canada*
+*Amiopsis*,*dartoni*,*Jurassic; South Dakota*
+*Ammodon*,*bathrodon*,*Oligocene (White River); South Dakota?*
+*Ammodon*,*leidyanus*,*Miocene; New Jersey*
+*Ammosaurus*,*major*,*Triassic; Connecticut*
+*Amphibamus*,*grandiceps*,*Coal-measures; Illinois*
+*Amphicoelias*,*altus*,*Jurassic; Colorado*
+*Amphicoelias*,*fragillimus*,*Jurassic; Colorado*
+*Amphicoelias*,*latus*,*Jurassic; Colorado*
+*Amphiplaga*,*brachyptera*,*Eocene (Green River); Wyoming*
+*Amynodon*,*advenus*,*Eocene (Uinta); Utah*
+*Amynodon*,*antiquus*,*Eocene (Bridger); Wyoming*
+*Amynodon*,*intermedius*,*Eocene (Uinta); Utah*
+*Amyzon*,*brevipinne*,*Tertiary (Amyzon shales); British Columbia*
+*Amyzon*,*commune*,*Tertiary (Amyzon shales); Colorado*
+*Amyzon*,*fusiforme*,*Tertiary (Amyzon shales); Colorado*
+*Amyzon*,*mentale*,*Tertiary (Amyzon shales); Colorado*
+*Amyzon*,*pandatum*,*Tertiary (Amyzon shales); Colorado*
+*Anaclitacanthus*,*semicostatus*,*Subcarboniferous (Burlington); Iowa*
+*Anacodon*,*ursidens*,*Eocene (Wasatch); Wyoming*
+*Anaptogonia*,*cloacina*,*Pleistocene; Pennsylvania*
+*Anaptogonia*,*hiatidens*,*Pleistocene; Pennsylvania*
+*Anaptomorphus*,*aemulus*,*Eocene (Bridger); Wyoming*
+*Anaptomorphus*,*homunculus*,*Eocene (Wasatch); Wyoming*
+*Anaptomorphus*,*insignis*,*Eocene (Bridger); Wyoming*
+*Anas*,*americana*,*Recent; North America: Pleistocene; Oregon*
+*Anas*,*boschas*,*Recent; Northern Hemisphere: Pleistocene: Oregon*
+*Anas*,*carolinensis*,*Recent; North America: Pleistocene; Oregon*
+*Anas*,*cyanoptera*,*Recent; South America, Western North America: Pleistocene; Oregon*
+*Anas*,*discors*,*Recent; North America: Pleistocene; Oregon*
+*Anchippodus*,*minor*,*Eocene (Bridger); Wyoming*
+*Anchippodus*,*riparius*,*Eocene; New Jersey*
+*Anchippodus*,*vetulus*,*Eocene (Bridger); Wyoming*
+*Anchippus*,*brevidens*,*Miocene (Loup Fork); Oregon*
+*Anchippus*,*texanus*,*Miocene (Loup Fork?); Texas, Colorado*
+*Anchisaurus*,*colurus*,*Triassic; Connecticut*
+*Anchisaurus*,*polyzelus*,*Triassic; Massachusetts*
+*Anchisaurus*,*solus*,*Triassic; Connecticut*
+*Anchisodon*,*quadriplicatus*,*Oligocene (White River); Colorado*
+*Anchisodon*,*tubifer*,*Miocene (John Day); Oregon*
+*Anchitherium*,*equinum*,*Miocene (Loup Fork); Montana*
+*Ancodon*,*americanus*,*Oligocene (White River); South Dakota*
+*Ancodon*,*brachyrhynchus*,*Oligocene (White River); South Dakota*
+*Ancodon*,*rostratus*,*Oligocene (White River); South Dakota*
+*Ancyropus*,*heteroclitus*,*Triassic; Connecticut*
+*Anisacodon*,*elegans*,*Eocene (Bridger); Wyoming*
+*Anisodexis*,*enchodus*,*Coal-measures; Ohio*
+*Anisodexis*,*imbricarius*,*Permian; Texas*
+*Anisonchus*,*gillianus*,*Eocene (Puerco); New Mexico*
+*Anisonchus*,*sectorius*,*Eocene (Torrejon); New Mexico*
+*Anogmius*,*aratus*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*contractus*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*evolutus*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*favirostris*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*intermedius*,*Cretaceous (Niborara); Kansas*
+*Anogmius*,*polymicrodus*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*rotundus*,*Cretaceous (Niobrara); Kansas*
+*Anogmius*,*zitteli*,*Cretaceous (Niobrara); Kansas*
+*Anomodon*,*snyderi*,*Pleistocene; northern Illinois*
+*Anomoepus*,*culbertsonii*,*Coal-measures; Pennsylvania*
+*Anomoepus*,*cuneatus*,*Triassic; Massachusetts*
+*Anomoepus*,*curvatus*,*Triassic; Connecticut*
+*Anomoepus*,*gallinuloides*,*Coal-measures; Pennsylvania*
+*Anomoepus*,*gracillimus*,*Triassic; Massachusetts, Pennsylvania*
+*Anomoepus*,*intermedius*,*Triassic; Massachusetts, Connecticut*
+*Anomoepus*,*isodactylus*,*Triassic; Massachusetts*
+*Anomoepus*,*major*,*Triassic; Massachusetts, New Jersey*
+*Anomoepus*,*minimus*,*Triassic; Massachusetts*
+*Anomoepus*,*scambus*,*Triassic; Massachusetts, New Jersey*
+*Anoplonassa*,*forcipata*,*Tertiary (Phosphate beds); South Carolina*
+*Anosteira*,*ornata*,*Eocene (Bridger); Wyoming*
+*Anosteira*,*radulina*,*Eocene (Bridger); Wyoming*
+*Anser*,*albifrons*,*Recent, Northern regions: Pleistocene; Oregon*
+*Anser*,*condoni*,*Pleistocene; Oregon*
+*Anthracopus*,*ellangowensis*,*Coal-measures; Pennsylvania*
+*Anthracotherium*,*curtum*,*Oligocene (White River); South Dakota*
+*Anthracotherium*,*gibbiceps*,*Oligocene (White River); South Dakota?*
+*Anthracotherium*,*karense*,*Oligocene (White River); South Dakota*
+*Antiacodon*,*nanus*,*Eocene (Bridger); Wyoming*
+*Antiacodon*,*venustus*,*Eocene (Bridger); Wyoming*
+*Anticheiropus*,*hamatus*,*Triassic; Massachusetts*
+*Anticheiropus*,*pilulatus*,*Triassic; Massachusetts*
+*Antilocapra*,*americana*,*Recent; Mexico and California to British America.  Pleistocene in lead region of Illinois, Iowa, and*
+*Antipus*,*bifidus*,*Triassic; Massachusetts*
+*Antipus*,*flexiloquus*,*Triassic; Massachusetts*
+*Antliodus*,*arcuatus*,*Subcarboniferous (St. Louis); Indiana*
+*Antliodus*,*cucullus*,*Subcarboniferous (Keokuk); Illinois*
+*Antliodus*,*gracilis*,*Subcarboniferous (Warsaw); Illinois*
+*Antliodus*,*minutus*,*Subcarboniferous; Europe: (Keokuk); Illinois: (St. Louis); Indiana*
+*Antliodus*,*mucronatus*,*Subcarboniferous (St. Louis); Illinois*
+*Antliodus*,*parvulus*,*Subcarboniferous (Burlington, Keokuk); Illinois*
+*Antliodus*,*perovalis*,*Subcarboniferous (Warsaw); Illinois*
+*Antliodus*,*politus*,*Subcarboniferous (Keokuk); Illinois*
+*Antliodus*,*robustus*,*Subcarboniferous (Chester); Illinois*
+*Antliodus*,*sarcululus*,*Subcarboniferous (Burlington); Iowa*
+*Antliodus*,*similis*,*Subcarboniferous (Keokuk); Illinois, Indiana*
+*Antliodus*,*simplex*,*Subcarboniferous (Burlington); Iowa*
+*Antliodus*,*sulcatus*,*Subcarboniferous (Keokuk); Illinois*
+*Antrodemus*,*lucaris*,*Jurassic; Colorado*
+*Antrodemus*,*medius*,*Jurassic (Potomac); Maryland*
+*Antrodemus*,*valens*,*Jurassic; Colorado*
+*Apateacanthus*,*vetustus*,*Devonian (Genesee); New York*
+*Apatemys*,*bellulus*,*Eocene (Bridger); Wyoming*
+*Apatemys*,*bellus*,*Eocene (Bridger); Wyoming*
+*Apatichnus*,*bellus*,*Triassic; Massachusetts*
+*Apatichnus*,*circumagens*,*Triassic; Massachusetts*
+*Apatichnus*,*crassus*,*Triassic; New Jersey*
+*Apatichnus*,*holyokensis*,*Triassic; Massachusetts*
+*Apatodon*,*mirus*,*Jurassic; Rocky Mountain region*
+*Apatornis*,*celer*,*Cretaceous (Niobrara); Kansas*
+*Apatosaurus*,*ajax*,*Jurassic; Colorado*
+*Apatosaurus*,*laticollis*,*Jurassic; Colorado*
+*Apedodus*,*priscus*,*Devonian (Catskill); Pennsylvania*
+*Aphelichthys*,*lindahlii*,*Pliocene or Pleistocene; S. Illinois*
+*Apheliscus*,*insidiosus*,*Eocene; New Mexico*
+*Aphelophis*,*talpivorus*,*Oligocene (White River); Colorado*
+*Aphelops*,*crassus*,*Miocene (Loup Fork); Nebraska, Kansas, Colorado*
+*Aphelops*,*jemezanus*,*Miocene (Loup Fork); New Mexico*
+*Aphelops*,*malacorhinus*,*Miocene (Loup Fork); Kansas, Florida*
+*Aphelops*,*matutinus*,*Miocene; New Jersey*
+*Aphelops*,*megalodus*,*Miocene (Loup Fork); Colorado*
+*Aphelops*,*meridianus*,*Miocene (Loup Fork); Texas, New Mexico*
+*Aphelops*,*profectus*,*Miocene (Loup Fork); Colorado*
+*Aphelops*,*superciliosus*,*Miocene (Loup Fork); Nebraska*
+*Apsopelix*,*sauriformis*,*Cretaceous (Benton); Kansas*
+*Aquila*,*danana*,*Pliocene?; Nebraska*
+*Aquila*,*pliogryps*,*Pleistocene; Oregon*
+*Aquila*,*sodalis*,*Pleistocene; Oregon*
+*Arachnichnus*,*dehiscens*,*Triassic; Massachusetts*
+*Archaelurus*,*debilis*,*Miocene (John Day); Oregon*
+*Archaeobatis*,*gigas*,*Subcarboniferous (St. Louis); Indiana*
+*Archaeobelus*,*vellicatus*,*Permian; Illinois*
+*Archelon*,*ischyros*,*Cretaceous (Pierre); South Dakota*
+*Archelon*,*marshii*,*Cretaceous (Pierre); South D kota*
+*Arctodus*,*haplodon*,*Pleistocene (Port Kennedy Cave); Pennsylvania*
+*Arctodus*,*pristinus*,*Pleistocene; South Carolina*
+*Arctodus*,*simus*,*Pleistocene; California*
+*Arctomys*,*monax*,*Recent; United States to Hudson Bay: Pleistocene; Illinois, Virginia*
+*Arctomys*,*tortus*,*Pleistocene; Virginia*
+*Arctomys*,*vetus*,*Miocene (Loup Fork); Nebraska*
+*Arctosaurus*,*osborni*,*Mesozoic; Bathurst Island*
+*Ardea*,*paloccidentalis*,*Pleistocene; Oregon*
+*Argoides*,*isodactylatus*,*Triassic; Massachusetts, Connecticut*
+*Argoides*,*robustus*,*Triassic: Massachusetts*
+*Argoides*,*macrodactylatus*,*Triassic; Massachusetts, Connecticut, New Jersey*
+*Argoides*,*redfieldianus*,*Triassic; Massachusetts*
+*Artediellus*,*atlanticus*,*Recent; Labrador to Cape Cod: Pleistocene; Canada*
+*Asineops*,*pauciradiatus*,*Eocene (Green River); Wyoming*
+*Asineops*,*squamifrons*,*Eocene (Green River); Wyoming*
+*Aspidichthys*,*clavatus*,*Devonian (Cleveland shale); Ohio: (Portage); New York*
+*Asteroptychius*,*bellulus*,*Coal-measures: Illinois, Iowa*
+*Asteroptychius*,*elegans*,*Subcarboniferous (Waverly); Michigan*
+*Asteroptychius*,*gracilis*,*Subcarboniferous (St. Louis); Illinois*
+*Asteroptychius*,*keokuk*,*Subcarboniferous (Keokuk); Illinois*
+*Asteroptychius*,*sancti-ludovici*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Asteroptychius*,*tenellus*,*Coal-measures: Kansas*
+*Asteroptychius*,*tenuis*,*Subcarboniferous (Chester); Illinois*
+*Asteroptychius*,*triangularis*,*Subcarboniferous (Burlington): Iowa*
+*Asteroptychius*,*vetustus*,*Subcarboniferous (Kinderhook); Iowa*
+*Asterosteus*,*stenocephalus*,*Devonian (Corniferous): Ohio*
+*Asthenodon*,*segnis*,*Jurassic; Wyoming*
+*Astraspis*,*desiderata*,*Silurian (Ordovician); Colorado*
+*Astrodon*,*johnstoni*,*Jurassic (Potomac); Maryland*
+*Athya*,*marila*,*Recent; North America: Pleistocene; Oregon*
+*Atlantochelys*,*mortoni*,*Cretaceous; New Jersey*
+*Atlantosaurus*,*immanis*,*Jurassic; Wyoming, Colorado*
+*Atlantosaurus*,*montanus*,*Jurassic; Colorado*
+*Axestemys*,*byssinus*,*Eocene (Bridger); Wyoming*
+*Bae%Fna*,*arenosa*,*Eocene (Bridger); Wyoming: (Wasatch); New Mexico*
+*Bae%Fna*,*hebraica*,*Eocene (Bridger); Wyoming*
+*Bae%Fna*,*ponderosa*,*Eocene (Bridger); Wyoming*
+*Bae%Fna*,*undata*,*Eocene (Bridger); Wyoming*
+*Balaena*,*affinis*,*Miocene; England, Maryland?, North Carolina*
+*Balaenoptera*,*sursiplana*,*Miocene; Maryland*
+*Baphetes*,*minor*,*Coal-measures; Nova Scotia*
+*Baphetes*,*planiceps*,*Coal-measures; Nova Scotia*
+*Baptanodon*,*discus*,*Jurassic; Wyoming*
+*Baptanodon*,*natans*,*Jurassic; Wyoming*
+*Baptemys*,*costilatus*,*Eocene (Wasatch); N. Mexico*
+*Baptemys*,*wyomingensis*,*Eocene (Bridger); Wyoming*
+*Baptemys*,*sp. indet.*,*Eocene (Wind River); Wyoming*
+*Baptornis*,*advenus*,*Cretaceous (Niobrara); Kansas*
+*Baptosaurus*,*fraternus*,*Cretaceous; New Jersey*
+*Baptosaurus*,*onchognathus Merriam*,*Cretaceous (Niobrara); Kansas*
+*Baptosaurus*,*platyspondylus*,*Cretaceous; New Jersey*
+*Baropus*,*lentus*,*Coal-measures; Kansas*
+*Barornis*,*regens*,*Eocene; New Jersey*
+*Barosaurus*,*affinis*,*Jurassic; Wyoming*
+*Barosaurus*,*lentus*,*Jurassic; South Dakota*
+*Bascanion*,*acuminatus*,*Pleistocene; Pennsylvania*
+*Basilemys*,*imbricarius*,*Cretaceous (Laramie); Montana*
+*Basilemys*,*variolosus*,*Cretaceous (Laramie); Saskatchewan, Montana*
+*Basilosaurus*,*brachyspondylus*,*Eocene; Alabama*
+*Basilosaurus*,*cetoides*,*Eocene; Alabama, Mississippi, Louisiana, Arkansas, Florida, North Carolina*
+*Bassariscus*,*astutus*,*Recent; Mexico to Oregon.  Pleistocene (Port Kennedy); Pennsylvania, fide Cope*
+*Batacanthus*,*baculiformis*,*Subcarboniferous (Keokuk); Iowa, Missouri, Illinois*
+*Batacanthus*,*necis*,*Subcarboniferous (Keokuk); Iowa*
+*Batacanthus*,*stellatus*,*Subcarboniferous (Keokuk); Illinois, Missouri (fide Hambach)*
+*Bathrodon*,*annectens*,*Eocene (Bridger); Wyoming*
+*Bathrodon*,*typus*,*Eocene (Bridger); Wyoming*
+*Bathygnathus*,*borealis*,*Triassic; Prince Edwards Island*
+*Bathyopsis*,*fissidens*,*Eocene (Wind River); Wyoming*
+*Batodon*,*tenuis*,*Cretaceous (Laramie); Wyoming*
+*Batrachichnus*,*plainvillensis*,*Carboniferous; Massachusetts*
+*Batrachoides*,*nidificans*,*Triassic; Massachusetts*
+*Batrachopus*,*deweyanus*,*Triassic; Connecticut*
+*Batrachopus*,*gracilis*,*Triassic; Massachusetts, New Jersey, Pennsylvania*
+*Batrachopus*,*gracilior*,*Triassic; Massachusetts*
+*Beryx*,*insculptus*,*Cretaceous; New Jersey*
+*Bison*,*alleni*,*Miocene (Loup Fork; Kansas, Oklahoma, Idaho*
+*Bison*,*antiquus*,*Pleistocene; Kentucky, Virginia?, Illinois?, California*
+*Bison*,*bison*,*Within recent times occupying a large portion of N. America.  Pleistocene; Illinois, Iowa, Wisconsin*
+*Bison*,*ferox*,*Miocene (Loup Fork); Nebraska*
+*Bison*,*latifrons*,*Pleistocene; Kentucky, South Carolina?, Mississippi, Ohio, Georgia?, Texas, Florida, Arizona, Mexico*
+*Bison*,*occidentalis*,*Pleistocene; Alaska, Kansas*
+*Bison*,*crassicornis*,*Pleistocene; Alaska*
+*Blarina*,*simplicidens*,*Pleistocene; Pennsylvania*
+*Blastomeryx*,*antilopinus*,*Miocene (Loup Fork); Montana*
+*Blastomeryx*,*borealis*,*Miocene (Loup Fork); Montana, Oregon*
+*Blastomeryx*,*gemmifer*,*Miocene (Loup Fork); Colorado, Texas?, New Mexico, Nebraska*
+*Boavus*,*agilis*,*Eocene (Bridger); Wyoming*
+*Boavus*,*brevis*,*Eocene (Bridger); Wyoming*
+*Boavus*,*occidentalis*,*Eocene (Bridger); Wyoming*
+*Bolbodon*,*tenuitectus*,*Permian; Texas*
+*Bolosaurus*,*striatus*,*Permian; Texas*
+*Borophagus*,*diversidens*,*Pliocene (Blanco); Texas*
+*Bothremys*,*cookii*,*Cretaceous (Green-sand No. 4); New Jersey*
+*Bothriolepis*,*canadensis*,*Devonian; Province of Quebec, Canada*
+*Bothriolepis*,*minor*,*Devonian (Chemung); Pennsylvania*
+*Bothriolepis*,*nitida*,*Devonian (Catskill); Pennsylvania, New York*
+*Bothrolabis*,*pristinus*,*Miocene (John Day); Oregon*
+*Bothrolabis*,*rostratus*,*Miocene (John Day); Oregon*
+*Bothrolabis*,*subaequans*,*Miocene (John Day); Oregon*
+*Bothrolabis*,*trichaenus*,*Miocene (John Day); Oregon*
+*Bottosaurus*,*harlani*,*Cretaceous; New Jersey*
+*Bottosaurus*,*perrugosus*,*Cretaceous; Colorado, British America?*
+*Bottosaurus*,*tuberculatus*,*Cretaceous; New Jersey*
+*Brachydectes*,*newberryi*,*Coal-measures; Ohio*
+*Brachyrophus*,*altarkansanus*,*Jurassic; Colorado*
+*Brachysaurus*,*overtoni*,*Cretaceous (Pierre); Kansas*
+*Branta*,*canadensis*,*Recent; North America: Pleistocene; Oregon*
+*Branta*,*hypsibata*,*Pleistocene; Oregon*
+*Branta*,*propinqua Shufeldt*,*Pleistocene; Oregon*
+*Brontichthys*,*clarki*,*Devonian (Cleveland shale); Ohio*
+*Brontosaurus*,*amplus*,*Jurassic; Wyoming*
+*Brontosaurus*,*excelsus*,*Jurassic; Wyoming, Colorado*
+*Brontotherium*,*bucco*,*Oligocene (White River); Colorado*
+*Brontotherium*,*curtum*,*Oligocene (White River); Colorado, South Dakota*
+*Brontotherium*,*dolichoceras*,*Oligocene (White River); South Dakota*
+*Brontotherium*,*gigas*,*Oligocene (White River); Colorado, South Dakota*
+*Brontotherium*,*hypoceras*,*Oligocene (White River); Colorado*
+*Brontotherium*,*medium*,*Oligocene (White River); South Dakota*
+*Brontotherium*,*ophryas*,*Oligocene (White River); Colorado*
+*Brontotherium*,*platyceras*,*Oligocene (White River); South Dakota*
+*Brontotherium*,*ramosum*,*Oligocene (White River); South Dakota*
+*Brontotherium*,*robustum*,*Oligocene (White River); Nebraska, Colorado*
+*Brontotherium*,*selwynianum*,*Oligocene (White River); Swift Current Creek, Canada*
+*Brontotherium*,*tichoceras*,*Oligocene (White River); South Dakota*
+*Bryactinus*,*amorphus*,*Cretaceous; New Jersey*
+*Bubo*,*leptosteus*,*Eocene (Bridger); Wyoming*
+*Bubo*,*virginianus*,*Recent; North America: Pleistocene; Oregon*
+*Bunaelurus*,*lagophagus*,*Oligocene (White River); Colorado*
+*Bunomeryx*,*elegans*,*Eocene (Uinta); Utah*
+*Bunomeryx*,*montanus*,*Eocene (Uinta); Utah*
+*Bythiacanthus*,*siderius*,*Subcarboniferous; Tennessee*
+*Bythiacanthus*,*vanhornei*,*Subcarboniferous (St. Louis); Illinois*
+*Caenopus*,*copei*,*Oligocene (White River); South Dakota*
+*Caenopus*,*mitis*,*Oligocene (White River); South Dakota, Canada*
+*Caenopus*,*occidentalis*,*Oligocene (White Biver); South Dakota, Nebraska, Colorado, Canada*
+*Caenopus*,*simplicidens*,*Oligocene (White River); Nebraska*
+*Caenopus*,*tridactylus*,*Oligocene (White River); South Dakota, North Dakota*
+*Calamagras*,*murivorus*,*Oligocene (White River); Colorado*
+*Calamodon*,*arcamoenus*,*Eocene (Wasatch); New Mexico*
+*Calamodon*,*simplex*,*Eocene (Wasatch); Wyoming, New Mexico*
+*Callognathus*,*regularis*,*Devonian (Cleveland shale); Ohio*
+*Callognathus*,*serratus*,*Devonian (Cleveland shale); Ohio*
+*Calops*,*consors*,*Oligocene (White River); South Dakota*
+*Calops*,*cristatus*,*Oligocene (White River); South Dakota*
+*Camarasaurus*,*leptodirus*,*Jurassic; Colorado*
+*Camarasaurus*,*supremus*,*Jurassic; Colorado*
+*Camelomeryx*,*longiceps*,*Eocene (Uinta); Wyoming*
+*Camelops*,*californicus*,*Pleistocene; California*
+*Camelops*,*hesternus*,*Pleistocene; California, Oregon, Mexico*
+*Camelops*,*kansanus*,*Pleistocene; Kansas*
+*Camelops*,*macrocephalus*,*Pliocene (Equus beds); Texas*
+*Camelops*,*vitakerianus*,*Pliocene; Oregon*
+*Camelus*,*americanus*,*Pleistocene; Nebraska*
+*Campodus*,*basalis*,*Coal-measures; Illinois*
+*Campodus*,*corrugatus*,*Coal-measures; Illinois, Kansas*
+*Campodus*,*scitulus*,*Coal-measures; Illinois, Iowa*
+*Campodus*,*variabilis*,*Subcarboniferous; Belgium: Coal-measures; West Virginia, Iowa, Kansas*
+*Campodus*,*virginianus*,*Coal-measures; West Virginia*
+*Camptomus*,*amplus*,*Cretaceous (Laramie); Wyoming*
+*Camptosaurus*,*amplus*,*Jurassic; Wyoming*
+*Camptosaurus*,*dispar*,*Jurassic; Wyoming*
+*Camptosaurus*,*medius*,*Jurassic; Colorado*
+*Camptosaurus*,*nanus*,*Jurassic; Wyoming*
+*Canimartes*,*cumminsii*,*Pliocene (Blanco); Texas*
+*Canis*,*anceps*,*Miocene (Loup Fork); Montana*
+*Canis*,*brachypus*,*Miocene (Loup Fork); Wyoming*
+*Canis*,*cinereoargentatus*,*Pleistocene; lead region of Illinois, New York?, Pennsylvania*
+*Canis*,*dirus*,*Pleistocene; lead region of Upper Mississippi River*
+*Canis*,*indianensis*,*Pleistocene; Indiana, lead region of Upper Mississippi River; California (Leidy)*
+*Canis*,*latrans*,*Recent; northern part of Mississippi Valley to Alberta.  Pleistocene; Illinois, Indiana, Oregon*
+*Canis*,*marshii*,*Eocene (Bridger); Wyoming*
+*Canis*,*occidentalis*,*Recent; North America.  Pleistocene; lead region of Upper Mississippi River*
+*Canis*,*priscolatrans*,*Pleistocene; Pennsylvania*
+*Canis*,*temerarius*,*Miocene (Loup Fork); Nebraska, Colorado*
+*Canis*,*vafer*,*Miocene (Loup Fork); Nebraska*
+*Captorhinus*,*angusticeps*,*Permian; Texas*
+*Carcharhinus*,*Prionace antiquus*,*Miocene; California*
+*Carcharhinus*,*Prionace egertoni*,*Eocene; South Carolina: Miocene; Maryland, North Carolina*
+*Carcharhinus*,*Aprionodon gibbesii*,*Eocene; South Carolina, Alabama: Miocene; Maryland*
+*Carcharhinus*,*Prionace tenuis*,*Senonian; Switzerland: Eocene?; South Carolina*
+*Carcharhinus*,*sp. indet.*,*Eocene; Alabama*
+*Carcharias*,*contortidens*,*Eocene and Miocene; Europe: Eocene; South Carolina and Alabama: Miocene?; North Carolina*
+*Carcharias*,*verticalis*,*Eocene: Europe, Egypt, South Carolina, Alabama*
+*Carcharodon*,*auriculatus*,*Tertiary; Europe, North Africa, Arabia, Victoria, New Zealand, North America: Eocene; Alabama, Missi*
+*Carcharodon*,*carcharias*,*Recent in all temperate and tropical seas: Pliocene; Europe: Miocene and Eocene; South Carolina, Nor*
+*Carcharodon*,*contortidens*,*Eocene; North Carolina*
+*Carcharodon*,*lanciformis*,*Phosphate beds; South Carolina*
+*Carcharodon*,*leptodon*,*Eocene; South Carolina*
+*Carcharodon*,*megalodon*,*Tertiary; Europe, Arabia, East Indies, West Indies, North and South America, Central America, Austra*
+*Carcharodon*,*rectus*,*Miocene; California*
+*Carcharopsis*,*wortheni*,*Subcarboniferous; Alabama*
+*Carcinodon*,*filholianus*,*Eocene (Puerco); New Mexico*
+*Castor*,*canadensis*,*Recent; North America.  Pleistocene; New York, Pennsylvania, Virginia, Tennessee, New Jersey, South*
+*Castoroides*,*ohioensis*,*Pleistocene; Ohio, Indiana, Illino's, Tennessee, New York, South Carolina, Pennsylvania, Texas, Mich*
+*Catopsalis*,*foliatus*,*Eocene (Puerco); New Mexico*
+*Catostomus*,*batrachops*,*Pleistocene (Equus beds); Oregon*
+*Catostomus*,*cristatus*,*Pleistocene (Equus beds); Idaho*
+*Catostomus*,*labiatus*,*Recent and Pleistocene; Klamath Lake, Oregon*
+*Catostomus*,*shoshonensis*,*Pleistocene (Equus beds); Idaho*
+*Caulodon*,*diversidens*,*Jurassic; Colorado*
+*Caulodon*,*leptoganus*,*Jurassic; Colorado*
+*Ccelosaurus*,*antiquus*,*Cretaceous; New Jersey*
+*Centetodon*,*altidens*,*Eocene (Bridger); Wyoming*
+*Centetodon*,*pulcher*,*Eocene (Bridger); Wyoming*
+*Centracodon*,*delicatus*,*Eocene (Bridger); Wyoming*
+*Cephalaspis*,*campbelltonensis*,*Lower Devonian; New Brunswick*
+*Cephalaspis*,*dawsoni*,*Lower Devonian; Gaspe%A, Canada*
+*Cephalaspis*,*jexi*,*Upper Devonian; Scaumenac Bay, Canada*
+*Cephalaspis*,*laticeps*,*Upper Devonian; Scaumenac Bay, Canada*
+*Cephalotropus*,*coronatus*,*Miocene; Maryland*
+*Ceratodus*,*americanus*,*Jurassic; Wyoming*
+*Ceratodus*,*eruciferus*,*Cretaceous (Laramie); Montana*
+*Ceratodus*,*favosus*,*Permian; Texas*
+*Ceratodus*,*gu%Fntheri*,*Jurassic; Colorado*
+*Ceratodus*,*hieroglyphus*,*Cretaceous (Laramie); Montana*
+*Ceratodus*,*robustus*,*Jurassic; Wyoming*
+*Ceratops*,*alticornis*,*Cretaceous (Laramie); Colorado*
+*Ceratops*,*montanus*,*Cretaceous (Laramie); Montana*
+*Ceratops*,*paucidens*,*Cretaceous (Laramie); Montana*
+*Ceratosaurus*,*nasicornis*,*Jurassic; Colorado*
+*Cercariomorphus*,*parvisquamis*,*Coal-measures; Ohio*
+*Cervalces*,*americanus*,*Pleistocene; Kentucky, New Jersey*
+*Cervus*,*canadensis*,*Pleistocene and Recent.  Fossil in New York, New Jersey, Kentucky, North Carolina, Florida, Ontario;*
+*Cervus*,*fortis*,*Pliocene (Loup Fork); Oregon*
+*Ceterhinops*,*longifrons*,*Tertiary (Phosphate beds); South Carolina*
+*Cetophis*,*heteroclivus*,*Miocene; Maryland*
+*Cetotherium*,*cephalum*,*Miocene; Maryland*
+*Cetotherium*,*davidsonii*,*Miocene; California*
+*Cetotherium*,*leptocentrum*,*Miocene; Virginia*
+*Cetotherium*,*megalophysum*,*Miocene; Maryland*
+*Cetotherium*,*mysticetoides*,*Miocene; North Carolina*
+*Cetotherium*,*parvum*,*Miocene; Maryland, South Carolina*
+*Cetotherium*,*polyporum*,*Miocene; North Carolina*
+*Chaenohyus*,*decedens*,*Miocene (John Day); Oregon*
+*Chaetodipterus*,*faber*,*Recent; Cape Cod to Rio Janeiro: Pleistocene; Florida*
+*Chalicotherium*,*bilobatum*,*Oligocene (White River); Canada*
+*Chamops*,*segnis*,*Cretaceous (Laramie); Wyoming*
+*Champsodelphis*,*acutidens*,*Miocene; Maryland*
+*Champsosaurus*,*annectens*,*Cretaceous (Laramie); Montana*
+*Champsosaurus*,*australis*,*Eocene (Puerco); N. Mexico*
+*Champsosaurus*,*brevicollis*,*Cretaceous (Laramie); Montana*
+*Champsosaurus*,*profundus*,*Cretaceous (Laramie); Montana*
+*Champsosaurus*,*puercensis*,*Eocene (Puerco); N. Mexico*
+*Champsosaurus*,*saponensis*,*Eocene (Puerco); N. Mexico*
+*Champsosaurus*,*vaccinsulensis*,*Cretaceous (Laramie); Montana*
+*Charadrius*,*sheppardianus*,*Eocene; Colorado*
+*Cheiracanthus*,*costellatus*,*Subcarboniferous; Scotland: Devonian; Province of Quebec, Canada (if correctly identified)*
+*Cheirolepis*,*canadensis*,*Upper Devonian; Province of Quebec*
+*Cheirotheroides*,*pilulatus*,*Triassic; Massachusetts*
+*Chelichnus*,*wymanianus*,*Triassic; Pennsylvania*
+*Chelonoides*,*incedens*,*Triassic; Massachusetts*
+*Chelydra*,*crassa*,*Eocene (Puerco); New Mexico*
+*Chelydra*,*serpentina*,*Recent: Pleistocene; Maryland*
+*Chilonyx*,*rapidens*,*Permian; Texas*
+*Chirodus*,*acutus*,*Coal-measures; Ohio*
+*Chirotherium*,*heterodactylum*,*Coal-measures; Pennsylvania*
+*Chirotherium*,*reiteri*,*Coal-measures; Pennsylvania*
+*Chirox*,*plicatus*,*Eocene (Torrejon); New Mexico*
+*Chitinodus*,*antiquus*,*Subcarboniferous (Burlington); Iowa*
+*Chitinodus*,*latus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Chitinodus*,*liratus*,*Subcarboniferous (St. Louis); Illinois*
+*Chitinodus*,*rugosus*,*Subcarboniferous (Keokuk); Illinois*
+*Chitinodus*,*springeri*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Chitinodus*,*tribulis*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Chlamytherium*,*humboldtii*,*Pliocene; South America, Florida*
+*Cholodus*,*inaequalis*,*Coal-measures; Illinois, Iowa*
+*Chomatodus*,*affinis*,*Subcarboniferous (Keokuk); Illinois*
+*Chomatodus*,*angustus*,*Subcarboniferous (St. Louis); Indiana*
+*Chomatodus*,*arcuatus*,*Coal-measures; Iowa, Nebraska, Belgium*
+*Chomatodus*,*chesterensis*,*Subcarboniferous (Chester); Illinois*
+*Chomatodus*,*comptus*,*Subcarboniferous (Burlington); Iowa*
+*Chomatodus*,*costatus*,*Subcarboniferous (Keokuk); Illinois*
+*Chomatodus*,*cultellus*,*Subcarboniferous (Chester); Illinois*
+*Chomatodus*,*inconstans*,*Subcarboniferous (St. Louis); Iowa*
+*Chomatodus*,*incrassatus*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Chomatodus*,*insignis*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Chomatodus*,*loriformis*,*Subcarboniferous (Keokuk); Illinois*
+*Chomatodus*,*molaris*,*Subcarboniferous (Keokuk); Illinois*
+*Chomatodus*,*newberryi*,*Subcarboniferous (St. Louis); Indiana*
+*Chomatodus*,*parallelus*,*Subcarboniferous (Warsaw); Illinois, Missouri*
+*Chomatodus*,*pusillus*,*Subcarboniferous (Keokuk); Illinois, Indiana*
+*Chomatodus*,*selliformis*,*Subcarboniferous (St. Louis); Illinois, Indiana*
+*Chomatodus*,*varsouviensis*,*Subcarboniferous (Warsaw); Illinois, Missouri*
+*Chonespondylus*,*grandis*,*Triassic; Nevada*
+*Choneziphius*,*coelops*,*Tertiary (Phosphate beds); South Carolina*
+*Choneziphius*,*liops*,*Tertiary (Phosphate beds); South Carolina*
+*Choneziphius*,*trachops*,*Tertiary (Phosphate beds); South Carolina*
+*Chriacus*,*angulatus*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Chriacus*,*baldwini*,*Eocene (Torrejon); New Mexico*
+*Chriacus*,*pelvidens*,*Eocene (Torrejon); New Mexico*
+*Chriacus*,*schlosserianus*,*Eocene (Torrejon); New Mexico*
+*Chriacus*,*stenops*,*Eocene (Torrejon); New Mexico*
+*Chriacus*,*truncatus*,*Eocene (Torrejon); New Mexico*
+*Cimolestes*,*curtus*,*Cretaceous (Laramie); Wyoming*
+*Cimolestes*,*incisus*,*Cretaceous (Laramie); Wyoming*
+*Cimoliasaurus*,*grandis*,*Cretaceous; Arkansas*
+*Cimoliasaurus*,*laramiensis*,*Jurassic (Shirley); Wyoming*
+*Cimoliasaurus*,*magnus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Cimoliasaurus*,*planior*,*Cretaceous; Mississippi*
+*Cimoliasaurus*,*snowii*,*Cretaceous (Niobrara); Kansas*
+*Cimoliasaurus*,*vetustus*,*Cretaceous; Alabama, New Jersey*
+*Cimoliasaurus*,*sp. indet.*,*Cretaceous; Kansas*
+*Cimolichthys*,*dirus*,*Cretaceous (Fox Hills); North Dakota*
+*Cimolomys*,*agilis*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*bellus*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*digona*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*formosus*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*gracilis*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*minutus*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*nitidus*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*parvus*,*Cretaceous (Laramie); Wyoming*
+*Cimolomys*,*serratus*,*Cretaceous (Laramie); Wyoming*
+*Cimolopteryx*,*retusus*,*Cretaceous (Laramie): Wyoming*
+*Cionodon*,*arctatus*,*Cretaceous (Laramie); Colorado*
+*Cionodon*,*stenopsis*,*Cretaceous (Laramie); Saskatchewan*
+*Cladocyclus*,*occidentalis*,*Cretaceous; South Dakota, Manitoba*
+*Cladodus*,*acuminatus*,*Coal-measures; Ohio*
+*Cladodus*,*alternatus*,*Subcarboniferous (Kinderhook, Burlington); Iowa*
+*Cladodus*,*angulatus*,*Subcarboniferous (Keokuk); Illinois*
+*Cladodus*,*bellifer*,*Subcarboniferous (Burlington); Iowa*
+*Cladodus*,*carinatus*,*Coal-measures; Illinois, Iowa*
+*Cladodus*,*concinnus*,*Devonian (Cleveland shale); Ohio*
+*Cladodus*,*coniger*,*Devonian (Chemung); Pennsylvania*
+*Cladodus*,*costatus*,*Subcarboniferous (Chester); Illinois*
+*Cladodus*,*deflexus*,*Subcarboniferous (Burlington); Illinois*
+*Cladodus*,*eccentricus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Cladodus*,*elegans*,*Subcarboniferous (St. Louis); Missouri*
+*Cladodus*,*euglypheus*,*Subcarboniferous (St. Louis); Illinois, Missouri, Iowa*
+*Cladodus*,*exiguus*,*Subcarboniferous (Kinderhook); Iowa*
+*Cladodus*,*exilis*,*Subcarboniferous (Kinderhook); Iowa*
+*Cladodus*,*ferox*,*Subcarboniferous (St. Louis); Missouri*
+*Cladodus*,*fulleri*,*Coal-measures; Illinois, Iowa*
+*Cladodus*,*girtyi*,*Coal-measures; Colorado*
+*Cladodus*,*gomphoides*,*Subcarboniferous (Burlington); Iowa*
+*Cladodus*,*gracilis*,*Coal-measures; Indiana*
+*Cladodus*,*grandis*,*Subcarboniferous (Chester); Illinois*
+*Cladodus*,*hertzeri*,*Subcarboniferous (below Berea Grit); Ohio*
+*Cladodus*,*intercostatus*,*Subcarboniferous (Burlington); Iowa, Illinois*
+*Cladodus*,*ischypus*,*Subcarboniferous (St. Louis); Missouri*
+*Cladodus*,*keokuk*,*Subcarboniferous (Keokuk); Iowa, Illinois*
+*Cladodus*,*lamnoides*,*Subcarboniferous (Keokuk); Illinois.  Also reported from Russia*
+*Cladodus*,*magnificus*,*Subcarboniferous; Alabama, Illinois, Iowa*
+*Cladodus*,*micropus*,*Subcarboniferous (Keokuk); Illinois*
+*Cladodus*,*monroei*,*Devonian (Hamilton); Ohio*
+*Cladodus*,*mortifer*,*Coal-measures; Illinois, Indiana, Iowa, Nebraska, Kansas*
+*Cladodus*,*newmani*,*Subcarboniferous; Alabama*
+*Cladodus*,*occidentalis*,*Coal-measures; Kansas*
+*Cladodus*,*pandatus*,*Coal-measures; Illinois*
+*Cladodus*,*parvulus*,*Devonian; Ohio*
+*Cladodus*,*pattersoni*,*Subcarboniferous (Waverly); Ohio, Kentucky*
+*Cladodus*,*politus*,*Subcarboniferous (Chester); Illinois*
+*Cladodus*,*praenuntius*,*Subcarboniferous (Burlington); Iowa*
+*Cladodus*,*raricostatus*,*Subcarboniferous (Keokuk); Iowa*
+*Cladodus*,*rivi-petrosi*,*Devonian (Cleveland shale); Ohio*
+*Cladodus*,*robustus*,*Subcarboniferous (Keokuk); Illinois*
+*Cladodus*,*romingeri*,*Subcarboniferous (Waverly); Michigan*
+*Cladodus*,*spinosus*,*Subcarboniferous (St. Louis); Missouri*
+*Cladodus*,*splendens*,*Subcarboniferous (Kinderhook); Iowa*
+*Cladodus*,*springeri*,*Subcarboniferous (Kinderhook); Iowa.  Also reported from Belgium*
+*Cladodus*,*stenopus*,*Subcarboniferous (St. Louis); Illinois*
+*Cladodus*,*striatus*,*Subcarboniferous; England, Ireland: Devonian (Corniferous); Ohio (if correctly identified)*
+*Cladodus*,*subulatus*,*Devonian (Cleveland shale); Ohio*
+*Cladodus*,*succinctus*,*Subcarboniferous (Kinderhook); Iowa*
+*Cladodus*,*terrelli*,*Devonian (Cleveland shale); Ohio*
+*Cladodus*,*tumidus*,*Devonian (Cleveland shale); Ohio*
+*Cladodus*,*turritus*,*Subcarboniferous (Keokuk); Illinois*
+*Cladodus*,*vanhornei*,*Subcarboniferous (St. Louis); Illinois*
+*Cladodus*,*wachsmuthi*,*Subcarboniferous (Kinderhook); Iowa*
+*Cladodus*,*zygopus*,*Subcarboniferous (Chester); Illinois*
+*Cladoselache*,*clarki*,*Devonian (Cleveland shale); Ohio*
+*Cladoselache*,*fyleri*,*Devonian (Cleveland shale); Ohio*
+*Cladoselache*,*kepleri*,*Devonian (Cleveland shale); Ohio*
+*Cladoselache*,*newberryi*,*Subcarboniferous (Waverly); Ohio*
+*Cladoselache*,*sinuatus*,*Devonian (Cleveland shale); Ohio*
+*Claenodon*,*corrugatus*,*Eocene (Torrejon); New Mexico*
+*Claenodon*,*ferox*,*Eocene (Torrejon); New Mexico*
+*Claenodon*,*protogonioides*,*Eocene (Puerco and Torrejon); New Mexico*
+*Clangula*,*hyemalis*,*Recent; Northern Hemisphere: Pleistocene; Oregon*
+*Claorhynchus*,*trihedrus*,*Cretaceous (Laramie); Montana*
+*Clemmys*,*insculpta*,*Recent; Eastern U. S.: Pleistocene (Port Kennedy); Pennsylvania*
+*Clemmys*,*percrassa*,*Pleistocene (Port Kennedy); Pennsylvania*
+*Clepsydrops*,*collettii*,*Permian; Illinois, Kansas*
+*Clepsydrops*,*leptocephalus*,*Permian; Texas*
+*Clepsydrops*,*limbatus*,*Permian; Texas*
+*Clepsydrops*,*macrospondylus*,*Permian; Texas*
+*Clepsydrops*,*natalis*,*Permian; Texas*
+*Clepsydrops*,*pedunculatus*,*Permian; Illinois*
+*Clepsydrops*,*vinslovii*,*Permian; Illinois*
+*Clepsysaurus*,*pennsylvanicus*,*Triassic; Pennsylvania, New Jersey, North Carolina*
+*Clepsysaurus*,*veatleianus*,*Triassic; Pennsylvania*
+*Clidastes*,*cinerearum*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*conodon*,*Cretaceous; New Jersey*
+*Clidastes*,*dispar*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*iguanavus*,*Cretaceous; New Jersey*
+*Clidastes*,*intermedius*,*Cretaceous; Alabama*
+*Clidastes*,*liodontus*,*Cretaceous; Kansas*
+*Clidastes*,*propython*,*Cretaceous; Alabama*
+*Clidastes*,*pumilis*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*rex*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*stenops*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*tortor*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*validus*,*Cretaceous; New Jersey*
+*Clidastes*,*velox*,*Cretaceous (Niobrara); Kansas*
+*Clidastes*,*westii*,*Cretaceous (Pierre); Kansas*
+*Clidastes*,*wymani*,*Cretaceous (Niobrara); Kansas*
+*Climatius*,*latispinosus*,*Lower Devonian; New Brunswick*
+*Coccosteus*,*canadensis*,*Devonian; Canada*
+*Coccosteus*,*cuyahogae*,*Devonian (Cleveland shale); Ohio*
+*Coccosteus*,*macromus*,*Devonian (Chemung); Pennsylvania*
+*Coccosteus*,*occidentalis*,*Devonian (Corniferous); Ohio*
+*Cochliodus*,*costatus*,*Subcarboniferous (Burlington); Iowa*
+*Cochliodus*,*leidyi*,*Subcarboniferous (Chester); Illinois*
+*Cochliodus*,*obliquus*,*Subcarboniferous (St. Louis); Missouri*
+*Cochliodus*,*vanhornii*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Cocytinus*,*gyrinoides*,*Coal-measures; Ohio*
+*Coelacanthus*,*elegans*,*Coal-measures; Ohio*
+*Coelacanthus*,*ornatus*,*Coal-measures; Ohio*
+*Coelacanthus*,*robustus*,*Coal-measures; Ohio, Illinois*
+*Coelodus*,*brownii*,*Cretaceous (Comanche); Oklahoma*
+*Coelodus*,*stantoni*,*Cretaceous (Kiowa shales); Kansas*
+*Coelophysis*,*bauri*,*Triassic; New Mexico*
+*Coelophysis*,*longicollis*,*Triassic; New Mexico*
+*Coelophysis*,*willistoni*,*Triassic; New Mexico*
+*Coelorhynchus*,*acus*,*Eocene; New Jersey*
+*Coelorhynchus*,*ornatus*,*Eocene; Alabama*
+*Coelosteus*,*ferox*,*Subcarboniferous (St. Louis): Illinois*
+*Coelurus*,*agilis*,*Jurassic; Colorado*
+*Coelurus*,*fragilis*,*Jurassic; Wyoming*
+*Coelurus*,*gracilis*,*Jurrassic (Potomac); Maryland*
+*Collettosaurus*,*indianaensis*,*Coal-measures; Indiana*
+*Colodon*,*dakotensis*,*Oligocene (White River); South Dakota*
+*Colodon*,*longipes*,*Oligocene (White River); South Dakota*
+*Colodon*,*luxatus*,*Oligocene (White River); South Dakota*
+*Colodon*,*occidentalis*,*Oligocene (White River); South Dakota:  Miocene (John Day); Oregon*
+*Colodon*,*procuspidatus*,*Oligocene (White River); South Dakota*
+*Colonoceras*,*agrestis*,*Eocene (Bridger); Wyoming*
+*Colonymys*,*celer*,*Eocene (Green River); Wyoming*
+*Coluber*,*sp. indet.*,*Pleistocene; Pennsylvania*
+*Colymbus*,*auritus*,*Recent; Northern Hemisphere: Pleistocene; Oregon, Tennessee*
+*Colymbus*,*holboelii*,*Recent; North America: Pleistocene (Equus beds); Oregon*
+*Colymbus*,*nigricollis*,*Recent; Western North America: Pleistocene (Equus beds); Oregon*
+*Compsacanthus*,*laevis*,*Coal-measures; Ohio*
+*Compsemys*,*lineolatus*,*Cretaceous (Laramie); Montana, Colorado, Saskatchewan*
+*Compsemys*,*obscurus*,*Cretaceous (Laramie); Montana*
+*Compsemys*,*plicatulus*,*Jurassic; Colorado, Wyoming*
+*Compsemys*,*victus*,*Cretaceous (Laramie); Montana, Colorado, Saskatchewan*
+*Compsemys*,*sp. indet.*,*Eocene (Puerco); New Mexico*
+*Comptichnus*,*obesus*,*Triassic; Massachusetts*
+*Conacodon*,*cophater*,*Eocene (Puerco); New Mexico*
+*Conacodon*,*entoconus*,*Eocene (Puerco); New Mexico*
+*Conchodus*,*plicatus*,*Coal-measures; Nova Scotia*
+*Coniophis*,*precedens*,*Cretaceous (Laramie); Wyoming*
+*Coniornis*,*altus*,*Cretaceous; Montana*
+*Conodectes*,*favosus*,*Permian; Texas*
+*Conoryctes*,*comma*,*Eocene (Puerco); New Mexico*
+*Conosaurus*,*bowmani*,*Cretaceous (Greensand); New Jersey*
+*Copodus*,*marginatus*,*Subcarboniferous (St. Louis); Indiana*
+*Copodus*,*pusillus*,*Subcarboniferous (Chester); Illinois*
+*Copodus*,*vanhornii*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Corax*,*affinis*,*Upper Cretaceous; Europe.  A specimen in the Enniskillen collection from the Eocene of Alabama may b*
+*Corax*,*curvatus*,*Cretaceous (Benton); Kansas*
+*Corax*,*falcatus*,*Cretaceous; Europe, Alabama, Mississippi, Texas, Kansas, Colorado, New Jersey*
+*Corax*,*pristodontus*,*Upper Cretaceous; Europe, India, Africa, New Jersey: Eocene; Alabama, Mississippi, South Carolina: M*
+*Corvipes*,*lacertoideus*,*Triassic; Massachusetts, Connecticut*
+*Corvus*,*annectens a^Shufeldt*,*Pleistocene; Oregon*
+*Coryphodon*,*anax*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*armatus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*cinctus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*curvicristis*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*cuspidatus*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Coryphodon*,*elephantopus*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Coryphodon*,*hamatus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*latidens*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Coryphodon*,*latipes*,*Eocene; New Mexico*
+*Coryphodon*,*lobatus*,*Eocene; New Mexico, Wyoming*
+*Coryphodon*,*marginatus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*molestus*,*Eocene (Wasatch); New Mexico*
+*Coryphodon*,*obliquus*,*Eocene (Wasatch); New Mexico*
+*Coryphodon*,*radians*,*Eocene (Wasatch); Wyoming, New Mexico*
+*Coryphodon*,*repandus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*semicinctus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*singularis*,*Eocene (Wind River); Wyoming*
+*Coryphodon*,*subquadratus*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*testis*,*Eocene (Wasatch); Wyoming*
+*Coryphodon*,*ventanus*,*Eocene (Wind River); Wyoming, Colorado*
+*Coryphodon*,*wortmani*,*Eocene (Wind River); Wyoming*
+*Cosmacanthus*,*bullatus*,*Subcarboniferous (Chester); Illinois*
+*Cosmacanthus*,*stellatus*,*Subcarboniferous (St. Louis); Missouri*
+*Cottus*,*cryptotremus*,*Pleistocene (Equus); Idaho*
+*Cottus*,*divaricatus*,*Pleistocene (Equus); Oregon*
+*Cottus*,*hypoceras*,*Pleistocene (Equus); Oregon*
+*Cottus*,*pontifex*,*Pleistocene (Equus); Oregon*
+*Cremastosaurus*,*carinicollis*,*Oligocene (White River); Colorado*
+*Creosaurus*,*atrox*,*Jurassic; Colorado*
+*Cricotus*,*crassidiscus*,*Permian; Texas*
+*Cricotus*,*gibsoni*,*Permian; Illinois*
+*Cricotus*,*heteroclitus*,*Permian; Illinois*
+*Cricotus*,*hypantricus*,*Permian; Texas*
+*Cricotus*,*sp. indet.*,*Permian; Illinois*
+*Crocodylus*,*acer*,*Eocene (Manti beds); Utah*
+*Crocodylus*,*affinis*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*antiquus*,*Eocene; Virginia*
+*Crocodylus*,*aptus*,*Eocene (Wasatch?); Wyoming*
+*Crocodylus*,*brevicollis*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*chamensis*,*Eocene (Wasatch); New Mexico*
+*Crocodylus*,*clavis*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*elliotti*,*Eocene (Bridger); Wyoming, New Mexico*
+*Crocodylus*,*fastigiatus*,*Eocene; Virginia*
+*Crocodylus*,*grinnellii*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*grypus*,*Eocene (Bridger?); New Mexico*
+*Crocodylus*,*heterodon*,*Eocene (Wasatch); Wyoming*
+*Crocodylus*,*humilis*,*Cretaceous (Laramie); Montana, Colorado*
+*Crocodylus*,*liodon*,*Eocene; Wyoming, New Mexico*
+*Crocodylus*,*marylandicus*,*Eocene; Maryland*
+*Crocodylus*,*parvus*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*polyodon*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*rugosus*,*Eocene; North Carolina*
+*Crocodylus*,*sericodon*,*Miocene; Maryland, New Jersey*
+*Crocodylus*,*serratus*,*Eocene; New Jersey*
+*Crocodylus*,*sicarius*,*Miocene; Maryland*
+*Crocodylus*,*solaris*,*Pliocene?; South Dakota*
+*Crocodylus*,*squankensis*,*Eocene; New Jersey*
+*Crocodylus*,*stavelianus*,*Eocene (Puerco); New Mexico*
+*Crocodylus*,*subulatus*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*sulciferus*,*Eocene (Bridger); Wyoming*
+*Crocodylus*,*wheelerii*,*Eocene; New Mexico*
+*Crommyodus*,*irregularis*,*Miocene; New Jersey*
+*Crossopholis*,*magnicaudatus*,*Eocene; Wyoming*
+*Crotalus*,*horridus*,*Pleistocene; Pennsylvania, New Jersey*
+*Crucipes*,*parvus*,*Coal-measures; Missouri*
+*Ctenacanthus*,*acutus*,*Subcarboniferous (Keokuk); Iowa*
+*Ctenacanthus*,*amblyxiphias*,*Permian; Texas*
+*Ctenacanthus*,*angulatus*,*Subcarboniferous (Chester); Illinois*
+*Ctenacanthus*,*angustus*,*Devonian (Cleveland shale); Ohio*
+*Ctenacanthus*,*burlingtonensis*,*Subcarboniferous (Burlington); Iowa, Illinois*
+*Ctenacanthus*,*buttersi*,*Coal-measures; Illinois*
+*Ctenacanthus*,*cannaliratus*,*Subcarboniferous (Chester); Illinois*
+*Ctenacanthus*,*chemungensis*,*Devonian (Chemung); Pennsylvania*
+*Ctenacanthus*,*clarkii*,*Devonian (Cleveland shale); Ohio*
+*Ctenacanthus*,*compressus*,*Devonian (Cleveland shale); Ohio*
+*Ctenacanthus*,*coxianus*,*Subcarboniferous (Keokuk); Iowa*
+*Ctenacanthus*,*cylindricus*,*Subcarboniferous (Keokuk); Kentucky*
+*Ctenacanthus*,*deflexus*,*Subcarboniferous (St. Louis); Illinois*
+*Ctenacanthus*,*depressus*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenacanthus*,*elegans*,*Subcarboniferous; Alabama*
+*Ctenacanthus*,*excavatus*,*Subcarboniferous (Keokuk); Missouri, Iowa*
+*Ctenacanthus*,*fallax*,*Subcarboniferous*
+*Ctenacanthus*,*formosus*,*Subcarboniferous(Waverly); Ohio, Kentucky*
+*Ctenacanthus*,*furcicarinatus*,*Subcarboniferous (Waverly); Kentucky*
+*Ctenacanthus*,*gemmatus*,*Subcarboniferous (St. Louis); Illinois*
+*Ctenacanthus*,*gradocostatus*,*Subcarboniferous(Burlington); Illinois, Iowa*
+*Ctenacanthus*,*gurleyi*,*Subcarboniferous (St. Louis); Indiana*
+*Ctenacanthus*,*harrisoni*,*Subcarboniferous (St. Louis); Illinois*
+*Ctenacanthus*,*keokuk*,*Subcarboniferous (Keokuk); Missouri, Illinois, Iowa*
+*Ctenacanthus*,*littoni*,*Subcarboniferous (St. Louis); Missouri*
+*Ctenacanthus*,*marshii*,*Coal-measures; Ohio*
+*Ctenacanthus*,*mayi*,*Subcarboniferous (Burlington); Iowa*
+*Ctenacanthus*,*pellensis*,*Subcarboniferous (St. Louis); Iowa*
+*Ctenacanthus*,*pugiunculus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Ctenacanthus*,*randalli*,*Devonian (Chemung); Pennsylvania*
+*Ctenacanthus*,*sculptus*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenacanthus*,*similis*,*Subcarboniferous (Chester); Illinois*
+*Ctenacanthus*,*speciosus*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenacanthus*,*spectabilis*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenacanthus*,*triangularis*,*Subcarboniferous (Waverly); Ohio; also in Russia*
+*Ctenacanthus*,*varians*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenacanthus*,*vetustus*,*Devonian (Huron shale); Ohio*
+*Ctenacanthus*,*wrighti*,*Devonian (Hamilton); New York*
+*Ctenacanthus*,*xiphias*,*Subcarboniferous (Keokuk); Iowa*
+*Ctenacodon*,*nanus*,*Jurassic; Wyoming*
+*Ctenacodon*,*potens*,*Jurassic; Wyoming*
+*Ctenacodon*,*serratus*,*Jurassic; Wyoming*
+*Ctenerpeton*,*alveolatum*,*Coal-measures; Pennsylvania*
+*Ctenodus*,*wagneri*,*Devonian (Cleveland shale); Ohio*
+*Ctenopetalus*,*bellulus*,*Subcarboniferous (St. Louis); Iowa, Illinois*
+*Ctenopetalus*,*limatulus*,*Subcarboniferous (Chester); Illinois*
+*Ctenopetalus*,*medius*,*Subcarboniferous (Chester); Illinois*
+*Ctenopetalus*,*occidentalis*,*Coal-measures; Iowa*
+*Ctenopetalus*,*vinosus*,*Subcarboniferous (Keokuk); Iowa*
+*Ctenoptychius*,*acuminatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Ctenoptychius*,*cristatus*,*Coal-measures; Nova Scotia*
+*Ctenoptychius*,*pertenuis*,*Subcarboniferous (Chester); Illinois*
+*Ctenoptychius*,*semicircularis*,*Coal-measures; Ohio, Indiana, Nebraska*
+*Ctenoptychius*,*stevensoni*,*Coal-measures; West Virginia*
+*Cunichnoides*,*marsupialoides*,*Triassic; Connecticut*
+*Cyathaspis*,*acadica*,*Upper Silurian; New Brunswick*
+*Cyclopidius*,*brevifacies*,*Miocene (Loup Fork); Montana*
+*Cyclopidius*,*decedens*,*Miocene (Loup Fork); Montana*
+*Cyclopidius*,*emydinus*,*Miocene (Deep River); Montana*
+*Cyclopidius*,*heterodon*,*Miocene (Loup Fork); Montana*
+*Cyclopidius*,*incisivus*,*Miocene (Loup Fork); Montana*
+*Cyclopidius*,*simus*,*Miocene (Deep River); Montana*
+*Cyclopterus*,*lumpus*,*Recent; eastern and western shores of northern Atlantic: Pleistocene; Ontario, Canada*
+*Cyclotomodon*,*vagrans*,*Phosphate deposit; South Carolina*
+*Cymatodus*,*oblongus*,*Coal-measures; Illinois*
+*Cymbospondylus*,*petrinus*,*Triassic; Nevada*
+*Cymbospondylus*,*piscosus*,*Triassic; Nevada*
+*Cynocercus*,*incisus*,*Cretaceous (Niobrara); Kansas*
+*Cynodesmus*,*thooides*,*Oligocene (White River); Montana*
+*Cynodictis*,*gregarius*,*Oligocene (White River); Colorado, Nebraska, South Dakota: (John Day); Oregon, fide Cope*
+*Cynodictis*,*hylactor*,*Oligocene (White River); South Dakota*
+*Cynodictis*,*lippincottianus*,*Oligocene (White River); Colorado, Oregon*
+*Cynodictis*,*temnodon*,*Oligocene (White River); South Dakota*
+*Cynodontomys*,*latidens*,*Eocene (Wasatch); Wyoming*
+*Cyphornis*,*magnus*,*Eocene?; Vancouvers Island*
+*Cyrtacanthus*,*dentatus*,*Devonian (Corniferous); Ohio*
+*Cystophora*,*cristata*,*Recent; along shores of Northern Atlantic; said by Lyell to have been found in Tertiary strata of Ma*
+*Daeodon*,*shoshonensis*,*Miocene (John Day); Oregon*
+*Dafila*,*acuta*,*Recent; Northern Hemisphere: Pleistocene; Oregon*
+*Dama*,*dolichopsis*,*Pleistocene; Indiana*
+*Dama*,*ensifer*,*Pleistocene (Equus beds); Oregon*
+*Dama*,*laevicornis*,*Pleistocene; Pennsylvania*
+*Dama*,*virginiana*,*Pleistocene and Recent.  Fossil from South Carolina, New Jersey, Indiana, Kentucky, Virginia, Pennsy*
+*Dama*,*whitneyi*,*Pleistocene; lead region of Illinois, Iowa, and Wisconsin*
+*Daphoenus*,*angustidens*,*Oligocene (White River); Nebraska*
+*Daphoenus*,*dodgei*,*Oligocene (White River); Nebraska*
+*Daphoenus*,*felinus*,*Oligocene (White River); Nebraska*
+*Daphoenus*,*hartshornianus*,*Oligocene (White River); Colorado, South Dakota*
+*Daphoenus*,*robustus*,*Oligocene (White River); Colorado*
+*Daphoenus*,*vetus*,*Oligocene (White River); South Dakota, Colorado*
+*Dasyatis*,*carolinensis*,*Tertiary; North Carolina*
+*Dasyatis*,*hastata*,*Post-pliocene; South Carolina*
+*Dasyatis*,*radians*,*Eocene (Green R.); Wyoming*
+*Dasyatis*,*sp. indet.*,*Miocene; Virginia*
+*Deinictis*,*bombifrons*,*Oligocene (White River); South Dakota*
+*Deinictis*,*brachyops*,*Miocene (John Day); Oregon*
+*Deinictis*,*cyclops*,*Oligocene (John Day); Oregon*
+*Deinictis*,*felina*,*Oligocene (White River); South Dakota, Colorado*
+*Deinictis*,*fortis*,*Oligocene (White River); Colorado*
+*Deinictis*,*major*,*Oligocene (White River); Nebraska*
+*Deinictis*,*paucidens*,*Oligocene (White River)*
+*Deinictis*,*platycopis*,*Miocene (John Day); Oregon*
+*Deinictis*,*squalidens*,*Oligocene (White River); Colorado*
+*Deinodon*,*amplus*,*Cretaceous (Laramie); Wyoming*
+*Deinodon*,*cristatus*,*Cretaceous (Laramie); Wyoming*
+*Deinodon*,*horridus*,*Cretaceous (Laramie); Montana*
+*Deinodon*,*lateralis*,*Cretaceous (Laramie); Montana*
+*Delphinapterus*,*leucas*,*Recent; Arctic seas.  Pleistocene; Ontario*
+*Delphinapterus*,*orcina*,*Miocene; North Carolina*
+*Delphinapterus*,*vermontana*,*Pleistocene; Vermont, Quebec*
+*Delphinodon*,*mento*,*Miocene; Maryland, South Carolina*
+*Delphinodon*,*venustus*,*Miocene; Virginia*
+*Delphinodon*,*leidyi*,*Miocene; Maryland*
+*Delphinus*,*occiduus*,*Miocene; California*
+*Deltatherium*,*fundaminis*,*Eocene (Puerco); New Mexico*
+*Deltatherium*,*interruptum*,*Eocene (Puerco); New Mexico*
+*Deltodopsis*,*affinis*,*Subcarboniferous (Warsaw); Illinois*
+*Deltodopsis*,*angustus*,*Subcarboniferous (Chester); Illinois*
+*Deltodopsis*,*bialveatus*,*Subcarboniferous (Burlington); Iowa: (St. Louis); Illinois*
+*Deltodopsis*,*convolutus*,*Subcarboniferous (Burlington); Iowa, Illinois*
+*Deltodopsis*,*exornatus*,*Subcarboniferous (Warsaw); Illinois*
+*Deltodopsis*,*sancti-ludovici*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Deltodus*,*alatus*,*Subcarboniferous (Keokuk); Illinois*
+*Deltodus*,*cinctulus*,*Subcarboniferous (Warsaw); Illinois, Missouri, Indiana*
+*Deltodus*,*cinctus*,*Subcarboniferous (St. Louis); Iowa*
+*Deltodus*,*cingulatus*,*Subcarboniferous (Chester); Illinois*
+*Deltodus*,*complanatus*,*Subcarboniferous (Burlington); Iowa*
+*Deltodus*,*fasciatus*,*Subcarboniferous (Keokuk); Illinois*
+*Deltodus*,*grandis*,*Subcarboniferous (Keokuk); Illinois, Indiana*
+*Deltodus*,*inornatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Deltodus*,*intermedius*,*Subcarboniferous (St. Louis); Illinois, Iowa: Coal-measures; Iowa*
+*Deltodus*,*latior*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Deltodus*,*littoni*,*Subcarboniferous; Missouri*
+*Deltodus*,*mercurii*,*Coal-measures; New Mexico*
+*Deltodus*,*obliquus*,*Subcarboniferous (Warsaw); Indiana*
+*Deltodus*,*occidentalis*,*Subcarboniferous; Illinois*
+*Deltodus*,*parvus*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Deltodus*,*planidens*,*Carboniferous?; Texas*
+*Deltodus*,*powellii*,*Carboniferous; Utah*
+*Deltodus*,*propinquus*,*Coal-measures; Illinois*
+*Deltodus*,*spatulatus*,*Subcarboniferous; Illinois, Indiana*
+*Deltodus*,*trilobus*,*Subcarboniferous (Warsaw); Illinois*
+*Deltodus*,*undulatus*,*Subcarboniferous (Keokuk); Iowa*
+*Deltoptychius*,*expansus*,*Subcarboniferous (St. Louis); Illinois, Missouri, Iowa*
+*Deltoptychius*,*nitidus*,*Subcarboniferous (Chester); Illinois*
+*Deltoptychius*,*primus*,*Subcarboniferous (Burlington); Iowa*
+*Deltoptychius*,*varsoviensis*,*Subcarboniferous (Warsaw); Illinois*
+*Deltoptychius*,*wachsmuthi*,*Subcarboniferous (Keokuk); Illinois, Iowa, Missouri*
+*Dendrerpeton*,*acadianum*,*Coal-measures; Nova Scotia*
+*Dendrerpeton*,*oweni*,*Coal-measures; Nova Scotia*
+*Dendrodus*,*arisaigensis*,*Silurian or Devonian; Nova Scotia*
+*Dermodactylus*,*montanus*,*Jurassic; Wyoming*
+*Desmatippus*,*crenidens*,*Miocene (Loup Fork); Montana*
+*Desmatochelys*,*lowii*,*Cretaceous (Niobrara); Nebraska, Kansas*
+*Desmiodus*,*costelliferus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Desmiodus*,*flabellum*,*Subcarboniferous (Keokuk); Missouri*
+*Desmiodus*,*ligoniformis*,*Subcarboniferous (Keokuk); Missouri, Iowa*
+*Desmiodus*,*minusculus*,*Subcarboniferous (Keokuk); Illinois*
+*Desmiodus*,*tumidus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Desmostylus*,*hesperus*,*Tertiary; California*
+*Diacium*,*quinquepedale*,*Oligocene (White River); Colorado*
+*Diacodon*,*alticuspis*,*Eocene (Wasatch); New Mexico*
+*Diacranodus*,*platypternus*,*Permian; Texas*
+*Diacranodus*,*texensis*,*Permian; Texas, Illinois*
+*Diadectes*,*biculminatus*,*Permian; Texas*
+*Diadectes*,*latibuccatus*,*Permian; Texas*
+*Diadectes*,*phaseolinus*,*Permian; Texas*
+*Diadectes*,*sideropelicus*,*Permian; Texas*
+*Diastichus*,*macrodon*,*Late Tertiary; Idaho*
+*Diastichus*,*parvidens*,*Late Tertiary; Idaho*
+*Diastichus*,*strangulatus*,*Late Tertiary; Idaho*
+*Diatryma*,*giganteum*,*Eocene; New Mexico*
+*Diceratherium*,*annectens*,*Miocene (John Day); Oregon*
+*Diceratherium*,*armatum*,*Miocene (John Day); Oregon*
+*Diceratherium*,*hesperium*,*Miocene; California: (John Day); Oregon*
+*Diceratherium*,*nanum*,*Miocene (John Day); Oregon*
+*Diceratherium*,*oregonense*,*Miocene (Loup Fork); Oregon*
+*Diceratherium*,*pacificum*,*Miocene (John Day); Oregon*
+*Diceratherium*,*truquianum*,*Miocene (John Day); Oregon*
+*Dicrocynodon*,*victor*,*Jurassic; Wyoming*
+*Dictyocephalus*,*elegans*,*Triassic (Chatham); North Carolina*
+*Dictyodus*,*silovianus*,*Miocene; New Jersey*
+*Dictyodus*,*speciosus*,*Miocene; New Jersey*
+*Dictyopyge*,*macrura*,*Triassic; Virginia*
+*Dictyorhabdus*,*priscus*,*Silurian (Ordovician); Colorado*
+*Dicynodon*,*rosmarus*,*Triassic; Pennsylvania*
+*Didelphis*,*alternans*,*Oligocene (White River); Colorado*
+*Didelphis*,*comstocki*,*Eocene (Wasatch); Wyoming*
+*Didelphis*,*fugax*,*Oligocene (White River); Colorado*
+*Didelphis*,*huntii*,*Oligocene (White River); Colorado*
+*Didelphis*,*marginalis*,*Oligocene (White River); Colorado*
+*Didelphis*,*pygmaea*,*Oligocene (White River); Colorado*
+*Didelphis*,*scalaris*,*Oligocene (White River); Colorado*
+*Didelphis*,*tricuspis*,*Oligocene; Colorado*
+*Didelphis*,*virginiana*,*Recent; eastern North America: Pleistocene; South Carolina*
+*Didelphodon*,*comptus*,*Cretaceous (Laramie); Wyoming*
+*Didelphodon*,*ferox*,*Cretaceous (Laramie); Wyoming*
+*Didelphodon*,*vorax*,*Cretaceous (Laramie); Wyoming*
+*Didelphodus*,*absarokae*,*Eocene (Wasatch); Wyoming*
+*Dimetrodon*,*gigas*,*Permian; Texas*
+*Dimetrodon*,*incisivus*,*Permian; Texas*
+*Dimetrodon*,*rectiformis*,*Permian; Texas*
+*Dimetrodon*,*semiradicatus*,*Permian; Texas*
+*Dinichthys*,*canadensis*,*Upper Devonian; Manitoba*
+*Dinichthys*,*clarki*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*curtus*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*gouldii*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*gracilis*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*halmodeus*,*Devonian; New York*
+*Dinichthys*,*hertzeri*,*Devonian (Huron shale); Ohio*
+*Dinichthys*,*intermedius*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*lincolni*,*Devonian (Marcellus); Pennsylvania*
+*Dinichthys*,*minor*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*newberryi*,*Devonian (Hamilton); New York*
+*Dinichthys*,*praemaxillaris*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*precursor*,*Devonian (Corniferous); Ohio*
+*Dinichthys*,*prentis-clarki*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*pustulosus*,*Devonian (Hamilton); Wisconsin, Iowa, Illinois, New York*
+*Dinichthys*,*ringuebergi*,*Devonian (Portage); Ohio*
+*Dinichthys*,*terrelli*,*Devonian (Cleveland shale); Ohio*
+*Dinichthys*,*tuberculatus*,*Devonian (Chemung); Pennsylvania: (Corniferous); Ohio: (Hamilton); Wisconsin: (Upper Devonian); Iowa*
+*Dinichthys*,*sp. indet.*,*Devonian (Chemung); New York*
+*Dinichthys*,*sp. indet.*,*Devonian (Catskill); New York*
+*Dinobastis*,*serus*,*Pleistocene; Kansas, Oklahoma*
+*Dinoceras*,*agreste*,*Eocene (Bridger); Wyoming*
+*Dinoceras*,*cuneum*,*Eocene (Bridger); Wyoming*
+*Dinoceras*,*distans*,*Eocene (Bridger); Wyoming*
+*Dinoceras*,*laticeps*,*Eocene (Wyoming); Wyoming*
+*Dinoceras*,*lucare*,*Eocene (Wyoming); Wyoming*
+*Dinoceras*,*mirabile*,*Eocene (Bridger); Wyoming*
+*Dinoceras*,*reflexum*,*Eocene (Bridger); Wyoming*
+*Diodon*,*vetus*,*Phosphate beds; South Carolina: Miocene; North Carolina*
+*Dioplotheriun*,*manigaultii*,*Tertiary (Phosphate beds); South Carolina*
+*Diplacanthus*,*crassisimus*,*Devonian; Scotland, Canada?*
+*Diplacodon*,*elatus*,*Eocene (Uinta); Utah*
+*Diplacodon*,*emarginatus*,*Eocene (Uinta); Utah*
+*Diplocaulus*,*limbatus*,*Permian; Texas*
+*Diplocaulus*,*magnicornis*,*Permian; Texas*
+*Diplocaulus*,*salamandroides*,*Permian; Illinois*
+*Diplocynodon*,*sphenops*,*Eocene; New Mexico*
+*Diplodocus*,*lacustris*,*Jurassic; Colorado*
+*Diplodocus*,*longus*,*Jurassic; Wyoming, Colorado*
+*Diplognathus*,*mirabilis*,*Devonian (Cleveland shale); Ohio*
+*Diplomystus*,*altus*,*Eocene (Green River); Wyoming*
+*Diplomystus*,*analis*,*Eocene (Green River); Wyoming*
+*Diplomystus*,*dentatus*,*Eocene (Green River); Wyoming*
+*Diplomystus*,*humilis*,*Eocene (Green River); Wyoming*
+*Diplomystus*,*pectorosus*,*Eocene (Green River); Wyoming*
+*Diplomystus*,*theta*,*Eocene (Green River); Wyoming*
+*Diplotomodon*,*horrificus*,*Cretaceous; New Jersey*
+*Diplurus*,*longicaudatus*,*Triassic; New Jersey, Connecticut*
+*Dipterus*,*calvini*,*Devonian (Cedar Valley limestone); Iowa*
+*Dipterus*,*contraversus Hay*,*Devonian (Catskill); Pennsylvania*
+*Dipterus*,*costatus*,*Devonian (Upper); Iowa*
+*Dipterus*,*flabelliformis*,*Devonian (Chemung); Pennsylvania*
+*Dipterus*,*fleisheri*,*Devonian ("Catskill"); Pennsylvania*
+*Dipterus*,*ithacensis*,*Devonian (Chemung); New York*
+*Dipterus*,*minutus*,*Devonian (Chemung); Pennsylvania*
+*Dipterus*,*mordax*,*Devonian (Upper); Iowa*
+*Dipterus*,*nelsoni*,*Devonian (Chemung); Pennsylvania, New York*
+*Dipterus*,*sherwoodi*,*Devonian (Catskill); Pennsylvania*
+*Dipterus*,*uddeni*,*Devonian (Cedar Valley limestone); Iowa*
+*Diracodon*,*laticeps*,*Jurassic; Wyoming*
+*Dissacus*,*navajovius*,*Eocene (Torrejon); New Mexico*
+*Dissacus*,*saurognathus*,*Eocene (Torrejon); New Mexico*
+*Dissorhophus*,*articulatus*,*Permian; Texas*
+*Dissorhophus*,*multicinctus*,*Permian; Texas*
+*Dittodus*,*acinaces*,*Coal-measures; Nova Scotia*
+*Dittodus*,*compressus*,*Coal-measures; Indiana, Ohio*
+*Dittodus*,*gibbosus*,*Coal-measures; England: Permian; Texas*
+*Dittodus*,*gracilis*,*Coal-measures; Ohio*
+*Dittodus*,*latus*,*Coal-measures; Indiana, Ohio, Illinois, Belgium*
+*Dittodus*,*lucasi*,*Coal-measures; Illinois*
+*Dittodus*,*penetrans*,*Coal-measures; Nova Scotia*
+*Dittodus*,*priscus*,*Devonian; Illinois*
+*Dittodus*,*striatus*,*Devonian; Illinois*
+*Docodon*,*striatus*,*Jurassic; Wyoming*
+*Dolichorhinus*,*cornutus*,*Eocene (Uinta); Utah*
+*Doliodus*,*problematicus*,*Lower Devonian; New Brunswick*
+*Domnina*,*crassigenis*,*Oligocene (White River); Colorado*
+*Domnina*,*gradata*,*Oligocene (White River); Colorado*
+*Dorudon*,*serratus*,*Eocene; Alabama, South Carolina, Louisiana*
+*Dromatherium*,*sylvestre*,*Triassic; North Carolina, New Jersey*
+*Dromopus*,*agilis*,*Coal-measures; Kansas*
+*Dryolestes*,*arcuatus*,*Jurassic; Wyoming*
+*Dryolestes*,*gracilis*,*Jurassic; Wyoming, Colorado*
+*Dryolestes*,*obtusus*,*Jurassic; Wyoming*
+*Dryolestes*,*priscus*,*Jurassic; Wyoming*
+*Dryolestes*,*tenax*,*Cretaceous (Laramie); Wyoming*
+*Dryolestes*,*vorax*,*Jurassic; Wyoming*
+*Dryosaurus*,*altus*,*Jurassic; Colorado, Wyoming*
+*Dryptodon*,*crassus*,*Eocene (Wasatch); New Mexico*
+*Dryptosaurus*,*aquilunguis*,*Cretaceous; New Jersey*
+*Dryptosaurus*,*cristatus*,*Cretaceous; Montana*
+*Dryptosaurus*,*explanatus*,*Cretaceous; Montana*
+*Dryptosaurus*,*falculus*,*Cretaceous; Montana*
+*Dryptosaurus*,*hazenianus*,*Cretaceous; Montana*
+*Dryptosaurus*,*incrassatus*,*Cretaceous; Montana, British America*
+*Dryptosaurus*,*kenabekides*,*Cretaceous (Laramie); Montana*
+*Dryptosaurus*,*laevifrons*,*Cretaceous; Montana*
+*Dryptosaurus*,*macropus*,*Cretaceous; New Jersey*
+*Dryptosaurus*,*trihedrodon*,*Jurassic; Colorado*
+*Dysganus*,*bicarinatus*,*Cretaceous (Laramie); Montana*
+*Dysganus*,*encaustus*,*Cretaceous (Laramie); Montana*
+*Dysganus*,*haydenianus*,*Cretaceous (Laramie); Montana*
+*Dysganus*,*peiganus*,*Cretaceous (Laramie); Montana*
+*Dystrophaeus*,*viaemalae*,*Triassic?; Utah*
+*Ectocion*,*osbornianum*,*Eocene (Wasatch, Wind River); Wyoming*
+*Ectoconodon*,*petersoni*,*Cretaceous (Laramie) Wyoming*
+*Ectoconus*,*ditrigonus*,*Eocene (Puerco); New Mexico*
+*Ectoganus*,*gliriformis*,*Eocene; New Mexico*
+*Ectoganus*,*novomehicanus*,*Eocene (Wasatch); New Mexico*
+*Eczematolepis*,*fragilis*,*Devonian (Corniferous); Ohio, New York*
+*Edaphodon*,*divaricatus*,*Cretaceous; New Jersey*
+*Edaphodon*,*eocaenus*,*Eocene; New Jersey*
+*Edaphodon*,*fecundus*,*Cretaceous; New Jersey*
+*Edaphodon*,*gaskillii*,*Cretaceous; New Jersey*
+*Edaphodon*,*incrassatus*,*Cretaceous; New Jersey*
+*Edaphodon*,*laqueatus*,*Cretaceous; Mississippi*
+*Edaphodon*,*laterigerus*,*Cretaceous; New Jersey*
+*Edaphodon*,*latidens*,*Cretaceous; New Jersey*
+*Edaphodon*,*longirostris*,*Cretaceous; New Jersey*
+*Edaphodon*,*miersii*,*Cretaceous; New Jersey*
+*Edaphodon*,*mirificus*,*Cretaceous; New Jersey*
+*Edaphodon*,*monolophus*,*Cretaceous; New Jersey*
+*Edaphodon*,*smockii*,*Cretaceous; New Jersey*
+*Edaphodon*,*solidulus*,*Cretaceous; New Jersey*
+*Edaphodon*,*stenobryus*,*Cretaceous; New Jersey*
+*Edaphodon*,*tripartitus*,*Cretaceous; New Jersey*
+*Edaphosaurus*,*pogonias*,*Permian; Texas*
+*Edestus*,*giganteus*,*Coal-measures; Illinois*
+*Edestus*,*lecontei*,*Carboniferous?; Nevada*
+*Edestus*,*minor*,*Coal-measures; Indiana*
+*Edestus*,*heinrichsii*,*Coal-measures; Illinois, Indiana*
+*Edestus*,*vorax*,*Coal-measures; Arkansas*
+*Elachoceras*,*parvum*,*Eocene (Bridger); Wyoming*
+*Elasmosaurus*,*intermedius*,*Cretaceous (Pierre); S. Dakota*
+*Elasmosaurus*,*orientalis*,*Cretaceous; New Jersey, Upper Missouri region*
+*Elasmosaurus*,*platyurus*,*Cretaceous (Niobrara); Kansas*
+*Elasmosaurus*,*serpentinus*,*Cretaceous (Niobrara); Nebraska*
+*Elasmosaurus*,*sp. indet.*,*Cretaceous (Niobrara); Dakota*
+*Elephas*,*columbi*,*Pleistocene; Georgia, South Carolina, Alabama, Texas, Colorado, Oregon, New Mexico, California, New*
+*Elephas*,*primigenius*,*Pleistocene; New York, Vermont, New Jersey, Pennsylvania, Alaska, British Columbia, Ontario, Alberta*
+*Ellipsodon*,*inaequidens*,*Eocene (Torrejon); New Mexico*
+*Elliptonodon*,*compressus*,*Cretaceous; North Carolina*
+*Elomeryx*,*armatus*,*Oligocene (White River); South Dakota*
+*Elomeryx*,*mitis*,*Oligocene (White River); South Dakota?*
+*Elonichthys*,*browni*,*Subcarboniferous; New Brunswick*
+*Elonichthys*,*elegans*,*Mesozoic; N. Carolina, Pennsylvania*
+*Elonichthys*,*hypsilepis*,*Coal-measures; Illinois*
+*Elonichthys*,*macropterus*,*Coal-measures; Europe, Illinois*
+*Elonichthys*,*peltigerus*,*Coal-measures; Ohio, Illinois, Indiana*
+*Elotherium*,*clavum*,*Oligocene (White River); South Dakota?, Colorado*
+*Elotherium*,*coarctatum*,*Oligocene (White River); Northwest Territory, Canada*
+*Elotherium*,*crassum*,*Oligocene (White River); South Dakota, Colorado?*
+*Elotherium*,*humerosum*,*Miocene (John Day); Oregon*
+*Elotherium*,*imperator*,*Miocene (John Day); Oregon*
+*Elotherium*,*ingens*,*Oligocene (White River); South Dakota*
+*Elotherium*,*mortoni*,*Oligocene (White River); South Dakota, Nebraska, Colorado*
+*Elotherium*,*ramosum*,*Oligocene (White River); Colorado, North Dakota*
+*Elotherium*,*superbum*,*Miocene; California*
+*Embalorhynchus*,*kinnei*,*Eocene; New Jersey*
+*Embaphias*,*circulosus*,*Cretaceous (Pierre); South Dakota*
+*Embolophorus*,*fritillus*,*Permian; Texas*
+*Embolophorus*,*dollovianus*,*Permian; Texas*
+*Empedias*,*alatus*,*Permian; Texas*
+*Empedias*,*fissus*,*Permian; Texas*
+*Empedias*,*molaris*,*Permian; Texas*
+*Empo*,*contracta*,*Cretaceous (Niobrara); Kansas*
+*Empo*,*lisbonensis*,*Cretaceous (Pierre); Kansas*
+*Empo*,*merrillii*,*Cretaceous (Niobrara); Kansas*
+*Empo*,*nepaholica*,*Cretaceous (Niobrara); Kansas*
+*Empo*,*semianceps*,*Cretaceous (Niobrara); Kansas*
+*Emys*,*cibollensis*,*Eocene (Wasatch); New Mexico*
+*Emys*,*euglypha*,*Pliocene (Peace Creek beds); Florida*
+*Emys*,*euthneta*,*Eocene (Wasatch); Wyoming*
+*Emys*,*haydeni*,*Eocene (Bridger); Wyoming*
+*Emys*,*latilabiata*,*Eocene (Bridger); Wyoming*
+*Emys*,*lativertebralis*,*Eocene (Wasatch); New Mexico*
+*Emys*,*megaulax*,*Eocene (Wasatch); Wyoming*
+*Emys*,*petrolei*,*Quaternary; Texas*
+*Emys*,*polycypha*,*Eocene (Bridger); Wyoming*
+*Emys*,*septaria*,*Eocene (Bridger); Wyoming*
+*Emys*,*shaughnessiana*,*Eocene (Bridger); Wyoming*
+*Emys*,*terrestris*,*Eocene (Bridger); Wyoming*
+*Emys*,*testudinea*,*Eocene (Green River); Wyoming*
+*Emys*,*wyomingensis*,*Eocene (Bridger); Wyoming*
+*Enchodus*,*amicrodus*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*anceps*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*calliodon*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*carinatus*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*dolichus*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*ferox*,*Cretaceous; New Jersey*
+*Enchodus*,*gentryi*,*Miocene; New Jersey*
+*Enchodus*,*gladiolus*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*oxytomus*,*Cretaceous; New Jersey*
+*Enchodus*,*parvus*,*Cretaceous (Niobrara); Kansas*
+*Enchodus*,*petrosus*,*Cretaceous (Niobrara) Kansas*
+*Enchodus*,*pressidens*,*Cretaceous; New Jersey*
+*Enchodus*,*semistriatus*,*Cretaceous; New Jersey*
+*Enchodus*,*shumardii*,*Cretaceous; Dakota, Manitoba*
+*Enchodus*,*tetraecus*,*Cretaceous; Delaware, New Jersey*
+*Enchodus*,*sp. indet.*,*Cretaceous (Niobrara); Kansas*
+*Enhydrocyon*,*stenocephalus*,*Miocene (John Day); Oregon*
+*Ennacodon*,*affinis*,*Jurassic; Wyoming*
+*Ennacodon*,*crassus*,*Jurassic; Wyoming*
+*Entomacodon*,*angustidens*,*Eocene (Bridger); Wyoming*
+*Entomacodon*,*minutus*,*Eocene (Bridger); Wyoming*
+*Entomodon*,*comptus*,*Eocene (Bridger); Wyoming*
+*Entoptychus*,*cavifrons*,*Miocene (John Day); Oregon*
+*Entoptychus*,*crassiramis*,*Miocene (John Day), Oregon*
+*Entoptychus*,*lambdoideus*,*Miocene (John Day); Oregon*
+*Entoptychus*,*minor*,*Miocene (John Day), Oregon*
+*Entoptychus*,*planifrons*,*Miocene (John Day); Oregon*
+*Eobasileus*,*furcatus*,*Eocene (Bridger); Wyoming*
+*Eobatrachus*,*agilis*,*Jurassic; Wyoming*
+*Eohippus*,*craspedotus*,*Eocene (Wind River); Wyoming*
+*Eohippus*,*cristatus*,*Eocene (Wasatch); Wyoming*
+*Eohippus*,*index*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Eohippus*,*pernix*,*Eocene (Wasatch); Wyoming*
+*Eohippus*,*tapirinus*,*Eocene (Wasatch); Wyoming, New Mexico*
+*Eohippus*,*validus*,*Eocene (Wasatch); New Mexico*
+*Eohippus*,*vasacciensis*,*Eocene (Wasatch); Wyoming*
+*Eohyus*,*distans*,*Eocene (Wasatch); New Mexico*
+*Eohyus*,*robustus*,*Eocene (Wasatch); New Mexico*
+*Eomeryx*,*pumilis*,*Eocene (Uinta); Utah*
+*Eosaurus*,*acadianus*,*Coal-measures; Nova Scotia*
+*Epanterias*,*amplexus*,*Jurassic; Colorado*
+*Epihippus*,*gracilis*,*Eocene (Uinta); Utah*
+*Epihippus*,*uintensis*,*Eocene (Uinta); Utah*
+*Episcoposaurus*,*haplocerus*,*Triassic; Texas*
+*Episcoposaurus*,*horridus*,*Triassic; New Mexico*
+*Eporeodon*,*longifrons*,*Miocene (John Day); Oregon*
+*Eporeodon*,*major*,*Oligocene (White River); South Dakota, North Dakota, Colorado, Nebraska*
+*Eporeodon*,*occidentalis*,*Miocene (John Day); Oregon*
+*Eporeodon*,*pacificus*,*Miocene (John Day); Oregon*
+*Eporeodon*,*socialis*,*Miocene (John Day); Oregon*
+*Eporeodon*,*trigonocephalus*,*Miocene (John Day); Oregon*
+*Equus*,*caballus*,*Pleistocene; Alaska, California, Kansas, Missouri, North Carolina, South Carolina, Canada*
+*Equus*,*complicatus*,*Pleistocene; Mississippi, Missouri, South Carolina, New Jersey, Pennsylvania, New York, Massachusett*
+*Equus*,*conversidens*,*Pleistocene; Valley of Mexico*
+*Equus*,*crenidens*,*Pleistocene; Mexico*
+*Equus*,*excelsus*,*Pleistocene; South Dakota, Nebraska, Texas, Mexico, Oregon?, Kansas*
+*Equus*,*fraternus*,*Pleistocene; South Carolina, North Carolina, Mississippi, Georgia, Kentucky, Texas, New Jersey, Indi*
+*Equus*,*giganteus*,*Pleistocene; Texas*
+*Equus*,*occidentalis*,*Pleistocene; California*
+*Equus*,*pacificus*,*Pleistocene; Oregon*
+*Equus*,*pectinatus*,*Pleistocene; Pennsylvania, Illinois?*
+*Equus*,*scotti*,*Pleistocene (Equus beds); Texas*
+*Equus*,*semiplicatus*,*Pleistocene; Texas*
+*Equus*,*tau*,*Pleistocene; Mexico, Texas*
+*Ereptodon*,*priscus*,*Pleistocene; Mississippi*
+*Erethizon*,*cloacinus*,*Pleistocene; Pennsylvania*
+*Erethizon*,*dorsatus*,*Recent; northeastern U. S.; Canada, west to Saskatchewan.  Pleistocene; Pennsylvania*
+*Erethizon*,*venustus*,*Pleistocene; Nebraska*
+*Eriptychius*,*americanus*,*Lower Silurian (Ordovician); Colorado*
+*Erismacanthus*,*maccoyanus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Erismatopterus*,*endlichii*,*Eocene (Green River); Wyoming*
+*Erismatopterus*,*levatus*,*Eocene (Green River); Wyoming*
+*Erismatopterus*,*rickseckeri*,*Eocene (Green River); Wyoming*
+*Eryops*,*erythroliticus*,*Permian; Texas*
+*Eryops*,*ferricolus*,*Permian; Texas*
+*Eryops*,*megacephalus*,*Permian; Texas, Indian Territory*
+*Eryops*,*platypus*,*Coal-measures; Ohio*
+*Eryops*,*reticulatus*,*Permian; New Mexico*
+*Eschatius*,*conidens*,*Pliocene; Oregon, Mexico*
+*Eschatius*,*longirostris*,*Pliocene; Oregon*
+*Esthonyx*,*acer*,*Eocene (Wasatch); New Mexico*
+*Esthonyx*,*acutidens*,*Eocene (Wind River); Wyoming*
+*Esthonyx*,*bisulcatus*,*Eocene (Wasatch); New Mexico*
+*Esthonyx*,*burmeisterii*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Esthonyx*,*spatularius*,*Eocene (Wasatch, Wind River); Wyoming*
+*Eubrontes*,*approximatus*,*Triassic; Massachusetts, New Jersey*
+*Eubrontes*,*dananus*,*Triassic; Massachusetts, Connecticut, New Jersey, Pennsylvania*
+*Eubrontes*,*oxpansus*,*Triassic; Massachusetts*
+*Eubrontes*,*exsertus*,*Triassic; Massachusetts*
+*Eubrontes*,*giganteus*,*Triassic; Massachusetts, Connecticut, New Jersey*
+*Eubrontes*,*minusculus*,*Triassic; Massachusetts, New Jersey*
+*Eubrontes*,*tuberatus*,*Triassic; Massachusetts*
+*Eubrontes*,*tuberosus*,*Triassic; Massachusetts*
+*Eubrontes*,*divaricatus*,*Triassic; Massachusetts, Connecticut*
+*Eucastor*,*tortus*,*Miocene (Loup Fork); Nebraska*
+*Eucrotaphus*,*jacksoni*,*Oligocene (White River); South Dakota*
+*Euctenius*,*sp. indet.*,*Coal-measures; Ohio*
+*Eumetopias*,*stelleri*,*Recent; Pacific coast from California to Japan.  Pleistocene; California, fide Bowers*
+*Eumys*,*elegans*,*Oligocene (White River); South Dakota, Colorado, Nebraska*
+*Eunemacanthus*,*costatus*,*Subcarboniferous (St. Louis); Illinois, Missouri (fide Hambach)*
+*Eupachemys*,*obtusa*,*Phosphate beds; South Carolina*
+*Eupalamopus*,*dananus*,*Triassic; Massachusetts*
+*Eupelor*,*durus*,*Triassic; Pennsylvania*
+*Euphanerops*,*longaevus*,*Devonian; Quebec*
+*Euryacodon*,*lepidus*,*Eocene (Bridger); Wyoming*
+*Eurythorax*,*sublaevis*,*Coal-measures; Ohio*
+*Eusmilus*,*dakotensis*,*Oligocene (White River); South Dakota*
+*Eusthenopteron*,*foordii*,*Upper Devonian; Province of Quebec, Canada*
+*Exocampe*,*arcta*,*Triassic; Massachusetts*
+*Exocampe*,*minima*,*Triassic; Massachusetts*
+*Exocampe*,*ornata*,*Triassic; Massachusetts*
+*Exostinus*,*serratus*,*Oligocene (White River); Colorado*
+*Felis*,*augustus*,*Miocene (Loup Fork); Nebraska*
+*Felis*,*calcaratus*,*Pleistocene; Pennsylvania*
+*Felis*,*concolor*,*Recent: Mexico to Canada.  Pleistocene; Illinois*
+*Felis*,*eyra*,*Recent; Guiana to Mexico.  Pleistocene; Pennsylvania*
+*Felis*,*hillianus*,*Pliocene (Blanco); Texas*
+*Felis*,*imperialis*,*Pleistocene; California*
+*Felis*,*inexpectatus*,*Pleistocene; Pennsylvania*
+*Felis*,*maximus*,*Miocene (Loup Fork); Kansas*
+*Felis*,*ruffus*,*Recent; United States to Mexico.  Pleistocene?; caves of Pennsylvania, fide Allen*
+*Fiber*,*zibethicus*,*Recent; North America north of Mexico.  Pleistocene; South Carolina, New Jersey, Pennsylvania?*
+*Fissodus*,*bifidus*,*Subcarboniferous (Chester); Illinois*
+*Fissodus*,*tricuspidatus*,*Subcarboniferous (Chester); Illinois*
+*Fritschia*,*curtidentata*,*Coal-measures; Nova Scotia*
+*Fulica*,*americana*,*Recent; North America: Pleistocene; Oregon*
+*Fulica*,*minor*,*Pleistocene; Oregon*
+*Fulicopus*,*lyellianus*,*Triassic; Massachusetts*
+*Fulicopus*,*giganteus*,*Triassic; Massachusetts*
+*Galeocerdo*,*aduncus*,*Tertiary; Europe: Eocene; North Carolina, South Carolina, Alabama: Miocene; Maryland*
+*Galeocerdo*,*contortus*,*Eocene; North Carolina, South Carolina, Alabama: Miocene; Virginia and Maryland.  Variety ^hassiae i*
+*Galeocerdo*,*crassidens*,*Cretaceous (Niobrara); Kansas*
+*Galeocerdo*,*hartwellii*,*Cretaceous (Niobrara); Kansas, Colorado*
+*Galeocerdo*,*laevissimus*,*Miocene; Maryland*
+*Galeocerdo*,*latidens*,*Tertiary; Europe and North Africa: Eocene; North Carolina, South Carolina, Alabama, and Mississippi:*
+*Galeocerdo*,*minor*,*Tertiary; Europe: Eocene; Alabama.  (Woodward.)*
+*Galeocerdo*,*productus*,*Miocene; California*
+*Galeocerdo*,*subcrenatus*,*A doubtful species, without indicated formation; North Carolina*
+*Galeocerdo*,*sp. indet.*,*Eocene; South Carolina*
+*Galeorhinus*,*sp. indet.*,*Eocene; Alabama*
+*Galictis*,*macrodon*,*Pleistocene; Maryland*
+*Gallinuloides*,*wyomingensis*,*Eocene (Bridger, Green River shales); Wyoming*
+*Gamphacanthus*,*politus*,*Devonian (Hamilton); Wisconsin*
+*Gamphacanthus*,*uddeni*,*Devonian (Hamilton); Iowa, Wisconsin, Illinois*
+*Gampsacanthus*,*latus*,*Subcarboniferous (Keokuk); Missouri*
+*Gampsacanthus*,*squamosus*,*Subcarboniferous (St. Louis); Missouri*
+*Gampsacanthus*,*typus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Ganorhynchus*,*beecheri*,*Devonian (Chemung); Pennsylvania*
+*Ganorhynchus*,*oblongus*,*Devonian (Catskill): Pennsylvania*
+*Gasterosteus*,*bispinosus*,*Living; Labrador to New Jersey: Pleistocene; Canada*
+*Gavialis*,*fraterculus*,*Cretaceous; New Jersey*
+*Gavialis*,*minor*,*Eocene; New Jersey*
+*Geolabis*,*rhynchaeus*,*Oligocene (White River); Colorado*
+*Geomys*,*bisulcatus*,*Miocene (Loup Fork); Nebraska*
+*Geomys*,*bursarius*,*Recent; Mississippi Valley.  Pleistocene; Illinois, Nebraska*
+*Gephyura*,*concentrica*,*Oligocene?;  South Dakota*
+*Gigandipus*,*caudatus*,*Triassic; Massachusetts*
+*Gigandipus*,*minor*,*Triassic; Massachusetts*
+*Gillicus*,*arcuatus*,*Cretaceous (Niobrara); Kansas*
+*Ginglymostom*,*obliquum*,*Eocene; New Jersey*
+*Ginglymostom*,*serra*,*Eocene; South Carolina*
+*Glaucionetta*,*islandica*,*Recent; North America and Northern Europe: Pleistocene; Oregon*
+*Glymmatacanthus*,*irishii*,*Subcarboniferous (Kinderhook); Iowa*
+*Glymmatacanthus*,*petrodoides*,*Subcarboniferous (Chester); Illinois*
+*Glymmatacanthus*,*rudis*,*Subcarboniferous (Keokuk); Iowa*
+*Glyptaspis*,*verrucosa*,*Devonian (Cleveland shale); Ohio*
+*Glyptodon*,*euphractus*,*Pliocene; South America, Florida*
+*Glyptodon*,*petaliferus*,*Pliocene; Mexico, Texas, Florida*
+*Glyptodon*,*reticulatus*,*Pliocene; South America, Florida*
+*Glyptopomus*,*sayrei*,*Devonian (Catskill); Pennsylvania*
+*Glyptosaurus*,*anceps*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*brevidens*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*nodosus*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*ocellatus*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*princeps*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*rugosus*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*sphenodon*,*Eocene (Bridger); Wyoming*
+*Glyptosaurus*,*sylvestris*,*Eocene (Bridger); Wyoming*
+*Gnathorhiza*,*serrata*,*Permian; Texas*
+*Gonatodus*,*brainerdi*,*Devonian (Berea grit); Ohio*
+*Goniacodon*,*levisanus*,*Eocene (Torrejon); New Mexico*
+*Goniopholis*,*felix*,*Jurassic; Colorado*
+*Goniopholis*,*lucasii*,*Jurassic; Colorado*
+*Goniopholis*,*vebbianus*,*Cretaceous (Benton); Kansas*
+*Graculavus*,*pumilis*,*Cretaceous; New Jersey*
+*Graculavus*,*velox*,*Cretaceous; New Jersey*
+*Grallator*,*cuneatus*,*Triassic; Connecticut, New Jersey*
+*Grallator*,*cursorius*,*Triassic; Massachusetts, New Jersey*
+*Grallator*,*formosus*,*Triassic; Connecticut, Massachusetts, New Jersey*
+*Grallator*,*gracilis*,*Triassic; Massachusetts, New Jersey*
+*Grallator*,*parallelus*,*Triassic; Massachusetts, New Jersey*
+*Grallator*,*parallelus*,*Triassic; Massachusetts, New Jersey, Connecticut*
+*Graphiodon*,*vinearius*,*Miocene; Massachusetts*
+*Grus*,*haydeni*,*Pliocene (?); Nebraska*
+*Grus*,*proavus*,*Pleistocene; New Jersey*
+*Gryphodobatis*,*uncus*,*Phosphate beds; South Carolina*
+*Grypodon*,*texanus*,*Cretaceous; Texas*
+*Gyracanthus*,*alleni*,*Subcarboniferous (Waverly); Ohio*
+*Gyracanthus*,*compressus*,*Subcarboniferous (Waverly); Ohio, Indiana*
+*Gyracanthus*,*cordatus*,*Subcarboniferous (Keokuk); Iowa*
+*Gyracanthus*,*duplicatus*,*Coal-measures; Nova Scotia*
+*Gyracanthus*,*incurvus*,*Devonian; Province of Quebec*
+*Gyracanthus*,*inornatus*,*Subcarboniferous (Waverly); Ohio*
+*Gyracanthus*,*magnificus*,*Subcarboniferous; Cape Breton*
+*Gyracanthus*,*sherwoodi*,*Devonian; Pennsylvania*
+*Hadrianus*,*allabiatus*,*Eocene (Bridger); Wyoming*
+*Hadrianus*,*corsoni*,*Eocene (Bridger); Wyoming: (Wasatch); New Mexico*
+*Hadrianus*,*octonarius*,*Eocene (Bridger); Wyoming*
+*Hadrianus*,*schucherti*,*Eocene (Jackson); Alabama*
+*Hadrodus*,*priscus*,*Cretaceous; Mississippi*
+*Hadrohyus*,*supremus*,*Miocene; Oregon*
+*Hallopus*,*victor*,*Jurassic; Colorado*
+*Haploconus*,*angustus*,*Eocene (Torrejon); New Mexico*
+*Haploconus*,*corniculatus*,*Eocene (Torrejon); New Mexico*
+*Haploconus*,*lineatus*,*Eocene (Torrejon); New Mexico*
+*Haplolepis*,*corrugata*,*Coal-measures; Ohio*
+*Haplolepis*,*granulata*,*Coal-measures; Ohio*
+*Haplolepis*,*minima*,*Coal-measures; Ohio*
+*Haplolepis*,*ornatissima*,*Coal-measures; Ohio*
+*Haplolepis*,*ovoidea*,*Coal-measures; Ohio*
+*Haplolepis*,*serrata*,*Coal-measures; Ohio*
+*Haplolepis*,*striolata*,*Coal-measures; Ohio*
+*Haplolepis*,*tuberculata*,*Coal-measures; Ohio*
+*Harpacanthus*,*fimbriatus*,*Subcarboniferous (St. Louis); Illinois.  Also in Scotland*
+*Harpacodus*,*compactus*,*Subcarboniferous (Chester); Illinois*
+*Harpacodus*,*occidentalis*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Harpalodon*,*sylvestris*,*Eocene (Bridger); Wyoming*
+*Harpalodon*,*vulpinus*,*Eocene (Bridger); Wyoming*
+*Harpedactylus*,*crassus*,*Triassic; Massachusetts*
+*Harpedactylus*,*gracilior*,*Triasic; Massachusetts*
+*Harpedactylus*,*tenuissimus*,*Triassic; Massachusetts*
+*Hedronchus*,*sternbergi*,*Cretaceous (Ft. Union); Montana*
+*Helagras*,*prisciformis*,*Eocene (Puerco); New Mexico*
+*Helaletes*,*boops*,*Eocene (Bridger); Wyoming*
+*Helaletes*,*guyotii*,*Eocene (Bridger); Wyoming.  (Uinta); Utah*
+*Helaletes*,*minusculus*,*Eocene (Bridger); Wyoming*
+*Helaletes*,*nanus*,*Eocene (Bridger); Wyoming*
+*Helcura*,*anguinea*,*Triassic; Massachusetts*
+*Helcura*,*littoralis*,*Triassic; Massachusetts*
+*Helcura*,*surgens*,*Triassic; Massachusetts*
+*Heliscomys*,*vetus*,*Oligocene (White River); Colorado*
+*Helodectes*,*isaaci*,*Permian; Texas*
+*Helodectes*,*paridens*,*Permian; Texas*
+*Helodus*,*angulatus*,*Subcarboniferous (Burlington); Illinois*
+*Helodus*,*biformis*,*Subcarboniferous (Kinderhook): Iowa*
+*Helodus*,*carbonarius*,*Coal-measures: Illinois*
+*Helodus*,*consolidatus*,*Subcarboniferous (Keokuk); Illinois, Missouri*
+*Helodus*,*crenulatus*,*Subcarboniferous (Keokuk); Illinois, Missouri (fide Hambach)*
+*Helodus*,*dens-humani*,*Subcarboniferous (Keokuk); Illinois*
+*Helodus*,*denticulatus*,*Subcarboniferous (Keokuk); Illinois*
+*Helodus*,*gibberulus*,*Carboniferous; Europe: Subcarboniferous (Waverly); Pennsylvania: ("Mountain limestone"); Illinois, I*
+*Helodus*,*gibbus*,*Subcarboniferous (Warsaw); Illinois*
+*Helodus*,*laevis*,*Subcarboniferous (St. Louis); Indiana*
+*Helodus*,*limax*,*Subcarboniferous (Burlington); Iowa*
+*Helodus*,*politus*,*Subcarboniferous (Keokuk); Illinois*
+*Helodus*,*rugosus*,*Coal-measures; Illinois*
+*Helodus*,*sulcatus*,*Subcarboniferous (Keokuk); Illinois*
+*Helodus*,*undulatus*,*Subcarboniferous (Keokuk); Illinois*
+*Helodus*,*wortheni*,*Subcarboniferous (Burlington); Illinois*
+*Helodus*,*coniculus*,*Subcarboniferous (Keokuk); Illinois: (St. Louis); Indiana: (Burlington); Iowa*
+*Helodus*,*elytra*,*Subcarboniferous (Keokuk); Illinois*
+*Helohippus*,*pumilus*,*Eocene (Bridger); Wyoming*
+*Helohyus*,*lentus*,*Eocene (Bridger); Wyoming*
+*Helohyus*,*plicodon*,*Eocene (Bridger); Wyoming*
+*Helohyus*,*validus*,*Eocene (Bridger); Wyoming*
+*Hemiacodon*,*gracilis*,*Eocene (Bridger); Wyoming*
+*Hemiacodon*,*pucillus*,*Eocene (Bridger); Wyoming*
+*Hemicaulodon*,*effodiens*,*Eocene; New Jersey*
+*Hemipristis*,*heteropleurus*,*Miocene; California*
+*Hemipristis*,*serra*,*Tertiary; Europe: Eocene; North Carolina, South Carolina: Miocene; Virginia: Pliocene?; Argentine Re*
+*Hemipristis*,*sp. indet.*,*Eocene; South Carolina*
+*Hemipsalodon*,*grandis*,*Oligocene (White River); Northwest Territory, Canada*
+*Hemiptychodus*,*mortoni*,*Cretaceous; Alabama, Mississippi, Kansas*
+*Hemitrypus*,*jordanianus*,*Cretaceous (Laramie); Montana*
+*Heptodon*,*Heptodon*,*Eocene (Wind River); Wyoming*
+*Heptodon*,*posticus*,*Eocene (Wasatch); Wyoming*
+*Heptodon*,*singularis*,*Eocene (Wind River); New Mexico*
+*Heptodon*,*ventorum*,*Eocene (Wind River); Wyoming*
+*Heptranchias*,*plectrodon*,*Tertiary; Maryland*
+*Heptranchias*,*primigenius*,*Eocene and Miocene; Europe: Eocene; Virginia: Miocene; New Jersey, Maryland, North Carolina*
+*Hesperornis*,*crassipes*,*Cretaceous (Niobrara); Kansas*
+*Hesperornis*,*gracilis*,*Cretaceous (Niobrara); Kansas*
+*Hesperornis*,*regalis*,*Cretaceous (Niobrara); Kansas*
+*Heterodontosuchus*,*ganei*,*Triassic; Utah*
+*Hipparion*,*affine*,*Miocene (Loup Fork); Nebraska, Texas*
+*Hipparion*,*calamarium*,*Miocene (Loup Fork); New Mexico, Colorado*
+*Hipparion*,*eurystylum*,*Pliocene (Goodnight?); Texas*
+*Hipparion*,*gratum*,*Miocene (Loup Fork); Nebraska, Kansas*
+*Hipparion*,*isonesum*,*Miocene (Ticholeptus); Montana, Oregon, Colorado*
+*Hipparion*,*minimum*,*Miocene; Montana*
+*Hipparion*,*occidentale*,*Miocene (Loup Fork); South Dakota, Texas*
+*Hipparion*,*paniense*,*Miocene (Loup Fork); Colorado*
+*Hipparion*,*peninsulatum*,*Miocene (Loup Fork); Mexico*
+*Hipparion*,*plicatile*,*Miocene; Florida*
+*Hipparion*,*rectidens*,*Miocene (Loup Fork); Mexico*
+*Hipparion*,*relictum*,*Pliocene (Blanco); Oregon*
+*Hipparion*,*retrusum*,*Miocene (Loup Fork); Kansas*
+*Hipparion*,*seversum*,*Miocene?  (Ticholeptus); Oregon*
+*Hipparion*,*sinclairii*,*Miocene (Loup Fork); Oregon*
+*Hipparion*,*speciosum*,*Miocene (Upper); South Dakota, New Mexico.  Colorado, Texas, Kansas*
+*Hipparion*,*sphenodus*,*Miocene (Loup Fork); Colorado*
+*Hipparion*,*venustum*,*Tertiary; South Carolina*
+*Hippidion*,*interpolatum*,*Pliocene (Palo Duro); Texas*
+*Hippidion*,*spectans*,*Miocene (Loup Fork); Oregon: Pliocene (Palo Duro); Texas*
+*Hipposyus*,*formosus*,*Eocene (Bridger); Wyoming*
+*Hipposyus*,*robustior*,*Eocene (Bridger); Wyoming*
+*Holcodus*,*acutidens*,*Cretaceous; Mississippi*
+*Holonema*,*horridum*,*Devonian (Chemung); Pennsylvania*
+*Holonema*,*rugosum*,*Devonian (Chemung); Pennsylvania, New York*
+*Holops*,*basitruncatus*,*Eocene; New Jersey*
+*Holops*,*brevispinis*,*Cretaceous; New Jersey*
+*Holops*,*cordatus*,*Cretaceous; New Jersey*
+*Holops*,*glyptodon*,*Cretaceous; New Jersey*
+*Holops*,*obscurus*,*Cretaceous; New Jersey*
+*Holops*,*pneumaticus*,*Cretaceous; New Jersey*
+*Holoptychius*,*americanus*,*Devonian (Catskill, Ithaca); Pennsylvania, New York*
+*Holoptychius*,*filosus*,*Devonian (Chemung); Pennsylvania*
+*Holoptychius*,*flabellatus*,*Devonian (Catskill?); Pennsylvania*
+*Holoptychius*,*giganteus*,*Devonian; Europe: (Catskill?); Pennsylvania*
+*Holoptychius*,*granulatus*,*Devonian (Chemung): Pennsylvania*
+*Holoptychius*,*hallii*,*Devonian (Catskill): New York*
+*Holoptychius*,*latus*,*Devonian (Catskill?); Pennsylvania*
+*Holoptychius*,*pustulosus*,*Devonian (Chemung); Pennsylvania*
+*Holoptychius*,*quebecensis*,*Upper Devonian; Province of Quebec, Canada*
+*Holoptychius*,*radiatus*,*Devonian (Catskill?); Pennsylvania*
+*Holoptychius*,*serrulatus*,*Devonian (Catskill?); Pennsylvania*
+*Holoptychius*,*tuberculatus*,*Devonian (Chemung); Pennsylvania*
+*Holosaurus*,*abruptus*,*Cretaceous (Niobrara); Kansas*
+*Homacanthus*,*gracilis*,*Lower Devonian; New Brunswick*
+*Homacodon*,*priscus*,*Eocene; Wyoming, New Mexico*
+*Homacodon*,*pucillus*,*Eocene; Wyoming, New Mexico*
+*Homacodon*,*vagans*,*Eocene (Bridger); Wyoming*
+*Homogalax*,*primaevus*,*Eocene (Wasatch); Wyoming*
+*Homogalax*,*protapirinus*,*Eocene (Wasatch); Wyoming*
+*Homogalax*,*semihians*,*Eocene (Wasatch); Wyoming*
+*Homorophus*,*insuetus*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Hoplichnus*,*equus*,*Triassic; Massachusetts, Connecticut*
+*Hoplichnus*,*quadrupedans*,*Triassic; Massachusetts*
+*Hoplocetus*,*obesus*,*Miocene; California*
+*Hoplonchus*,*parvulus*,*Devonian (Cleveland shale); Ohio*
+*Hoplophoneus*,*catocopis*,*Miocene (Loup Fork); Kansas*
+*Hoplophoneus*,*cerebralis*,*Miocene (John Day); Oregon*
+*Hoplophoneus*,*crassidens*,*Miocene?  (Loup Fork?); Kansas*
+*Hoplophoneus*,*insolens*,*Oligocene (White River); South Dakota*
+*Hoplophoneus*,*occidentalis*,*Oligocene (White River); South Dakota*
+*Hoplophoneus*,*oreodontis*,*Oligocene (White River); Colorado*
+*Hoplophoneus*,*primaevus*,*Oligocene (White River); South Dakota*
+*Hoplophoneus*,*robustus*,*Oligocene (White River); South Dakota, Nebraska*
+*Hoplophoneus*,*strigidens*,*Miocene (John Day); Oregon*
+*Hyaenocyon*,*basilatus*,*Miocene (John Day); Oregon*
+*Hyaenocyon*,*sectorius*,*Miocene (John Day); Oregon*
+*Hyaenodon*,*crucians*,*Oligocene (White River); South Dakota*
+*Hyaenodon*,*cruentus*,*Oligocene (White River); South Dakota, Colorado*
+*Hyaenodon*,*horridus*,*Oligocene (White River); South Dakota*
+*Hyaenodon*,*leptocephalus*,*Oligocene (White River); South Dakota*
+*Hyaenodon*,*mustelinus*,*Oligocene (White River); South Dakota*
+*Hyaenodon*,*paucidens*,*Oligocene (White River); South Dakota*
+*Hybemys*,*arenarius*,*Eocene (Bridger); Wyoming*
+*Hybocladodus*,*compressus*,*Subcarboniferous (Burlington); Iowa*
+*Hybocladodus*,*intermedius*,*Subcarboniferous (Keokuk); Iowa, Illinois*
+*Hybocladodus*,*nitidus*,*Subcarboniferous (Chester); Illinois*
+*Hybocladodus*,*plicatilis*,*Subcarboniferous (Burlington); Iowa*
+*Hybocladodus*,*tenuicostatus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Hybodus*,*clarkensis*,*Cretaceous (Neocomian); Kansas*
+*Hybodus*,*copei*,*Triassic?; Texas*
+*Hybodus*,*polyprion*,*Stonesfield Slate, England: Jurassic; Black Hills, Wyoming*
+*Hydrochelidon*,*nigra*,*Recent; Old and New Worlds: Pleistocene; Oregon*
+*Hydrochoerus*,*aesopi*,*Pleistocene; South Carolina*
+*Hydrochoerus*,*robustus*,*Pleistocene; Nicaragua, Florida*
+*Hydrodamalis*,*gigas*,*Recently extinct; Commander Islands*
+*Hylerpeton*,*dawsonii*,*Coal-measures; Nova Scotia*
+*Hylerpeton*,*intermedium*,*Coal-measures; Nova Scotia*
+*Hylerpeton*,*longidentatum*,*Coal-measures; Nova Scotia*
+*Hylonomus*,*latidens*,*Coal-measures; Nova Scotia*
+*Hylonomus*,*lyelli*,*Coal-measures; Nova Scotia*
+*Hylonomus*,*multidens*,*Coal-measures; Nova Scotia*
+*Hylonomus*,*wymani*,*Coal-measures; Nova Scotia*
+*Hylopus*,*caudifer*,*Coal-measures; Nova Scotia*
+*Hylopus*,*hardingi*,*Subcarboniferous; Nova Scotia*
+*Hylopus*,*logani*,*Subcarboniferous; Nova Scotia*
+*Hylopus*,*minor*,*Coal-measures; Nova Scotia*
+*Hylopus*,*trifidus*,*Coal-measures; Nova Scotia*
+*Hylopus*,*sp. indet.*,*Coal-measures; Nova Scotia*
+*Hyomeryx*,*breviceps*,*Eocene (Uinta); Utah*
+*Hyopsodus*,*gracilis*,*Eocene (Bridger, Uinta); Wyoming*
+*Hyopsodus*,*laticuneus*,*Eocene (Wasatch); Wyoming*
+*Hyopsodus*,*lemoinianus*,*Eocene (Wasatch, Wind River); Wyoming*
+*Hyopsodus*,*minusculus*,*Eocene (Bridger); Wyoming*
+*Hyopsodus*,*miticulus*,*Eocene (Wasatch, Wind River); New Mexico*
+*Hyopsodus*,*paulus*,*Eocene (Wasatch, Wind River, Bridger); Wyoming*
+*Hyopsodus*,*powellianus*,*Eocene (Wasatch); Wyoming*
+*Hyopsodus*,*vicarius*,*Eocene (Wasatch, Wind River, Bridger); Wyoming*
+*Hyotherium*,*americanum*,*Oligocene (White River); South Dakota?*
+*Hyotherium*,*platyops*,*Oligocene (White River); South Dakota*
+*Hypertragulus*,*calcaratus*,*Oligocene (White River); Colorado, South Dakota, Montana, Canada: (Deep River beds?)  Montana*
+*Hypertragulus*,*hesperius*,*Miocene (John Day); Oregon: (Deep River?); Montana*
+*Hypertragulus*,*transversus*,*Oligocene (White River); Canada*
+*Hyphasma*,*laevis*,*Coal-measures; Ohio*
+*Hyphepus*,*fieldi*,*Triassic; Massachusetts*
+*Hypisodus*,*minimus*,*Oligocene (White River); Colorado*
+*Hypocetus*,*mediatlanticus*,*Miocene; Maryland*
+*Hypohippus*,*affinis*,*Pliocene; South Dakota*
+*Hypopnous*,*squaliceps*,*Permian; Texas*
+*Hyposaurus*,*ferox*,*Cretaceous; New Jersey*
+*Hyposaurus*,*rogersii*,*Cretaceous, New Jersey, Kansas*
+*Hypsibema*,*crassicauda*,*Cretaceous; New Jersey*
+*Hypsorhina*,*antiqa*,*Oligocene (White River); South Dakota*
+*Hyrachyus*,*affinis*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*eximius*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*imperialis*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*implicatus*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*modestus*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*paradoxus*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*princeps*,*Eocene (Bridger); Wyoming*
+*Hyrachyus*,*agrarius*,*Eocene (Bridger); Wyoming, Utah*
+*Hyracodon*,*arcidens*,*Oligocene (White River); Colorado*
+*Hyracodon*,*major*,*Oligocene (White River).  Locality unknown*
+*Hyracodon*,*nebraskensis*,*Oligocene (White River); South Dakota, Colorado, Nebraska*
+*Hyracodon*,*planiceps*,*Oligocene (White River); South Dakota*
+*Hyracops*,*socialis*,*Eocene (Wasatch); New Mexico*
+*Icanodus*,*limitaris*,*Subcarboniferous (Burlington); Iowa*
+*Ichthycanthus*,*ohiensis*,*Coal-measures; Ohio*
+*Ichthyodectes*,*acanthicus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*anaides*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*cruentus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*ctenodon*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*goodeanus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*hamatus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*multidentatus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*parvus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyodectes*,*prognathus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*agilis*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*anceps*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*dispar*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*lentus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*tener*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*validus*,*Cretaceous (Niobrara); Kansas*
+*Ichthyornis*,*victor*,*Cretaceous (Niobrara); Kansas*
+*Ichthyotringa*,*tenuirostris*,*Cretaceous (Niobrara); South Dakota*
+*Ictops*,*bullatus*,*Oligocene (White River); South Dakota*
+*Ictops*,*dakotensis*,*Oligocene (White River); South Dakota*
+*Ictops*,*didelphoides*,*Eocene (Wind River); Wyoming*
+*Iguanavus*,*exilis*,*Eocene (Bridger); Wyoming*
+*Iguanavus*,*teres*,*Cretaceous (Laramie); Wyoming*
+*Indrodon*,*malaris*,*Eocene (Torrejon); New Mexico*
+*Ischyrhiza*,*antiqua*,*Cretaceous; North Carolina: (Fox Hills); New Mexico*
+*Ischyrhiza*,*mira*,*Cretaceous; New Jersey: Miocene?;  South Carolina*
+*Ischyrhiza*,*radiata*,*Eocene; Virginia*
+*Ischyromys*,*typus*,*Oligocene (White River); South Dakota, Nebraska, Colorado*
+*Isectolophus*,*annectens*,*Eocene (Uinta); Wyoming*
+*Isectolophus*,*latidens*,*Eocene (Bridger); Wyoming*
+*Isocampe*,*strata*,*Triassic; Connecticut, Massachusetts*
+*Isodectes*,*megalops*,*Permian; Texas*
+*Isotaenia*,*neocaesariensis*,*Cretaceous; New Jersey*
+*Istiophorus*,*antiquus*,*Eocene; New Jersey*
+*Istiophorus*,*homalorhamphus*,*Tertiary greensand; New Jersey*
+*Istiophorus*,*parvulus*,*Eocene; New Jersey*
+*Istiophorus*,*robustus*,*Post-pliocene; South Carolina*
+*Isurus*,*crassus*,*Eocene; South Carolina, Alabama*
+*Isurus*,*desorii*,*Tertiary; Europe and United States: Eocene; Alabama, North Carolina, South Carolina: Miocene; Maryla*
+*Isurus*,*hastalis*,*Tertiary; Europe, Australia, New Zealand, and United States: Eocene; Alabama, South Carolina: Miocen*
+*Isurus*,*mantellii*,*Cretaceous; Europe, Alabama, New Jersey, Virginia, Mississippi, Kansas, Texas*
+*Isurus*,*minutus*,*Eocene; South Carolina, Maryland, New Jersey, North Carolina: Miocene; North Carolina (fide Cope)*
+*Isurus*,*planus*,*Miocene; California*
+*Isurus*,*tumulus*,*Miocene; California*
+*Ithygrammodon*,*cameloides*,*Eocene (Bridger); Wyoming*
+*Ixacanthus*,*atropius*,*Miocene; Maryland*
+*Ixacanthus*,*coelospondylus*,*Miocene; Maryland, New Jersey*
+*Ixacanthus*,*conradi*,*Miocene; Virginia, Maryland*
+*Ixacanthus*,*spinosus*,*Miocene; Maryland*
+*Ixacanthus*,*stenus*,*Miocene; Maryland*
+*Janassa*,*brevis*,*Coal-measures; Ohio*
+*Janassa*,*gurleiana*,*Permian; Illinois*
+*Janassa*,*ordiana*,*Permian; Texas*
+*Janassa*,*strigilina*,*Permian; Illinois*
+*Keraterpeton*,*divaricatum*,*Coal-measures; Ohio*
+*Keraterpeton*,*punctolineatum*,*Coal-measures; Ohio*
+*Keraterpeton*,*tenuicorne*,*Coal-measures; Ohio, Pennsylvania*
+*Labidosaurus*,*hamatus*,*Permian; Texas*
+*Lambdodus*,*calceolus*,*Subcarboniferous (Burlington); Iowa, Illinois: (Keokuk); Illinois, Missouri, Iowa*
+*Lambdodus*,*costatus*,*Subcarboniferous (Burlington, Keokuk); Iowa, Illinois, Missouri*
+*Lambdodus*,*hamulus*,*Subcarboniferous (Chester); Illinois*
+*Lambdodus*,*reflexus*,*Subcarboniferous (Chester); Illinois*
+*Lambdodus*,*transversus*,*Subcarboniferous (St. Louis); Illinois*
+*Lambdotherium*,*popoagicum*,*Eocene (Wind River); Wyoming, Colorado*
+*Lamna*,*clavata*,*Miocene; California*
+*Lamna*,*crassidens*,*Eocene, Europe, North Carolina (Emmons), South Carolina: Miocene?; Virginia (Wyman)*
+*Lamna*,*cuspidata*,*Eocene; Europe, Georgia, Alabama, Virginia, Kansas, South Carolina: Miocene; Maryland, North Carolin*
+*Lamna*,*elegans*,*Eocene and Miocene; Europe, New Zealand, Australia, and United States: Eocene; South Carolina, North*
+*Lamna*,*gracilis*,*Cretaceous; Europe: Eocene; South Carolina*
+*Lamna*,*macrorhiza*,*Cretaceous (Niobrara); Kansas: Cretaceous of Europe*
+*Lamna*,*manitobensis*,*Cretaceous (Niobrara); Manitoba*
+*Lamna*,*mudgei*,*Cretaceous (Niobrara); Kansas: ("Greensand"); New Jersey*
+*Lamna*,*ornata*,*Miocene; California*
+*Lamna*,*quinquelateralis*,*Cretaceous (Comanche); Kansas*
+*Lamna*,*texana*,*Cretaceous; Texas, Kansas, Alabama, Mississippi, New Jersey, Kansas*
+*Lamna*,*sp. indet.*,*Cretaceous (Kiowa shales); Kansas*
+*Langunculapes*,*latus*,*Triassic; Massachusetts*
+*Laodon*,*venustus*,*Jurassic; Wyoming*
+*Laopteryx*,*priscus*,*Jurassic; Wyoming*
+*Laornis*,*edvardsianus*,*Cretaceous; New Jersey*
+*Laosaurus*,*celer*,*Jurassic; Wyoming*
+*Laosaurus*,*consors*,*Jurassic; Wyoming*
+*Laosaurus*,*gracilis*,*Jurassic; Colorado*
+*Larus*,*argentatus*,*Recent; North America: Pleistocene; Oregon*
+*Larus*,*californicus*,*Recent; Western North America: Pleistocene; Oregon*
+*Larus*,*oregonus*,*Pleistocene; Oregon*
+*Larus*,*philadelphia*,*Recent; North America: Pleistocene; Oregon*
+*Larus*,*robustus*,*Pleistocene; Oregon*
+*Lecracanthus*,*unguiculus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Leidy*,*gracilis*,*Oligocene (White River); South Dakota*
+*Leidy*,*spectabilis*,*Oligocene (White River); South Dakota*
+*Leiodus*,*calcaratus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Leiodus*,*grossipunctatus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Lembonax*,*insularis*,*Eocene; New Jersey*
+*Lembonax*,*polemicus*,*Eocene; New Jersey*
+*Lembonax*,*prophylaeus*,*Eocene; New Jersey*
+*Lemuravus*,*distans*,*Eocene (Bridger); Wyoming*
+*Lepidotus*,*sp. indet.*,*Cretaceous (Kiowa shales); Kansas*
+*Lepisosteus*,*aganus*,*Eocene (Wasatch); New Mexico*
+*Lepisosteus*,*atrox*,*Eocene (Bridger); Wyoming*
+*Lepisosteus*,*cuneatus*,*Eocene (Manti beds); Utah*
+*Lepisosteus*,*cycliferus*,*Eocene (Bridger); Wyoming*
+*Lepisosteus*,*glaber*,*Eocene (Bridger); Wyoming*
+*Lepisosteus*,*integer*,*Eocene (Wasatch); New Mexico*
+*Lepisosteus*,*nahunticus*,*Miocene; North Carolina*
+*Lepisosteus*,*notabilis*,*Eocene (Bridger); Wyoming*
+*Lepisosteus*,*occidentalis*,*Cretaceous (Laramie); Wyoming*
+*Lepisosteus*,*osseus*,*Recent; Vermont to Texas: Post-pliocene: South Carolina*
+*Lepisosteus*,*simplex*,*Eocene (Bridger); Wyoming*
+*Lepisosteus*,*whitneyi*,*Eocene (Bridger); Wyoming*
+*Leptaceratherium*,*trigonodum*,*Oligocene (White River); South Dakota*
+*Leptarctus*,*primus*,*Miocene (Loup Fork); South Dakota*
+*Leptauchenia*,*decora*,*Oligocene (White River); South Dakota, Colorado*
+*Leptauchenia*,*major*,*Oligocene (White River); South Dakota*
+*Leptauchenia*,*nitida*,*Oligocene (White River); South Dakota*
+*Leptichthys*,*agilis*,*Cretaceous; Kansas*
+*Leptictis*,*haydeni*,*Oligocene (White River); South Dakota*
+*Leptomeryx*,*esulcatus*,*Oligocene (White River); Canada*
+*Leptomeryx*,*evansi*,*Oligocene (White River); South Dakota, Colorado, Nebraska*
+*Leptomeryx*,*mammifer*,*Oligocene (White River); Canada, Colorado*
+*Leptomylus*,*cookii*,*Cretaceous; New Jersey*
+*Leptomylus*,*densus*,*Cretaceous; New Jersey*
+*Leptomylus*,*forfex*,*Cretaceous; New Jersey*
+*Leptonyx*,*lateralis*,*Triassic; Massachusetts*
+*Leptophractus*,*lineolatus*,*Coal-measures; Ohio*
+*Leptophractus*,*obsoletus*,*Coal-measures; Ohio*
+*Leptoreodon*,*gracilis*,*Eocene (Uinta); Utah*
+*Leptoreodon*,*marshi*,*Eocene (Uinta); Utah*
+*Leptostyrax*,*bicuspidatus*,*Cretaceous (Mentor beds); Kansas*
+*Leptotrachelus*,*longipinnis*,*Cretaceous (Niobrara); S. Dakota*
+*Leptotragulus*,*proavus*,*Eocene (Uinta); Wyoming*
+*Lepus*,*ennisianus*,*Miocene (John Day); Oregon*
+*Lepus*,*sylvaticus*,*Recent; eastern United States.  Pleistocene; Illinois, South Carolina, Pennsylvania, Virginia*
+*Lestophis*,*crassus*,*Eocene (Bridger); Wyoming*
+*Lestosaurus*,*clidastoides*,*Cretaceous; Kansas*
+*Lestosaurus*,*coryphaeus*,*Cretaceous (Niobrara, Pierre?); Kansas*
+*Lestosaurus*,*crassartus*,*Cretaceous (Pierre); Colorado*
+*Lestosaurus*,*curtirostris*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*felix*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*glandiferus*,*Cretaceous (Niobrara, Pierre?); Kansas*
+*Lestosaurus*,*gracilis*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*ictericus*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*latifrons*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*latispinus*,*Cretaceous (Pierre); Kansas*
+*Lestosaurus*,*mudgei*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*oxyrhinus*,*Cretaceous; Kansas*
+*Lestosaurus*,*planifrons*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*simus*,*Cretaceous (Niobrara); Kansas*
+*Lestosaurus*,*tectulus*,*Cretaceous (Pierre); Kansas*
+*Leuciscus*,*arciferus*,*Pleistocene; Idaho*
+*Leuciscus*,*bairdii*,*Pleistocene; Idaho*
+*Leuciscus*,*laminatus*,*Pleistocene; Idaho*
+*Leuciscus*,*posticus*,*Pleistocene; Idaho*
+*Leuciscus*,*reddingi*,*Pleistocene; Idaho*
+*Leuciscus*,*turneri*,*Miocene; Nevada*
+*Limnohyops*,*fontinalis*,*Eocene (Bridger); Wyoming*
+*Limnohyops*,*laticeps*,*Eocene (Bridger); Wyoming*
+*Limnopus*,*vagus*,*Coal-measures; Kansas*
+*Limnosaurus*,*ziphodon*,*Eocene; Wyoming*
+*Limnosaurus*,*biturgidus*,*Cretaceous?; North Carolina*
+*Limnotherium*,*tyrannus*,*Eocene (Bridger); Wyoming*
+*Liognathus*,*spatulatus*,*Devonian (Corniferous); Ohio*
+*Lisgodus*,*affinis*,*Subcarboniferous (St. Louis); Illinois, Missouri, Indiana*
+*Lisgodus*,*curtus*,*Subcarboniferous (Burlington); Iowa, Illinois, Missouri*
+*Lisgodus*,*selluliformis*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Lisgodus*,*serratus*,*Subcarboniferous (Burlington); Iowa, Illinois*
+*Listracanthus*,*hildrethi*,*Coal-measures; Ohio*
+*Listracanthus*,*hystrix*,*Coal-measures; Illinois, Ohio, Missouri (fide Hambach).  Also reported from Belgium*
+*Lithophis*,*sargenti*,*Eocene (Bridger); Wyoming*
+*Lobodon*,*vetus*,*Miocene?; New Jersey*
+*Lophocetus*,*calvertensis*,*Miocene; Maryland*
+*Lophodytes*,*cucullatus*,*Recent; North America: Pleistocene; Oregon*
+*Loxolophus*,*attenuatus*,*Eocene (Puerco); New Mexico*
+*Loxolophus*,*hyattianus*,*Eocene (Puerco); New Mexico*
+*Loxolophus*,*priscus*,*Eocene (Puerco); New Mexico*
+*Lutra*,*canadensis*,*Recent; North America.  In caves of Pennsylvania, fide Allen*
+*Lutra*,*piscinaria*,*Pliocene; Idaho*
+*Lutra*,*rhoadsii*,*Pleistocene; Pennsylvania*
+*Lutrictis*,*lycopotamicus*,*Miocene (Loup Fork); Oregon*
+*Lysorophus*,*tricarinatus*,*Permian; Illinois*
+*Lytoloma*,*angusta*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Lytoloma*,*jeanesii*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Lytoloma*,*platyops*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Lytoloma*,*sp. indet.*,*Eocene; Maryland*
+*Macelognathus*,*vagans*,*Jurassic; Wyoming*
+*Machaeracanthus*,*major*,*Devonian (Corniferous); Ohio*
+*Machaeracanthus*,*peracutus*,*Devonian (Corniferous); Ohio*
+*Machaeracanthus*,*sulcatus*,*Devonian (Corniferous); Ohio*
+*Machairodus*,*gracilis*,*Pleistocene; Pennsylvania*
+*Machairodus*,*mercerii*,*Pleistocene; Pennsylvania*
+*Macrepistius*,*arenatus*,*Cretaceous (Trinity); Texas*
+*Macropetalichthys*,*rhapheidolabis*,*Devonian (Corniferous); Indiana*
+*Macropetalichthys*,*sullivanti*,*Devonian (Corniferous); Ohio*
+*Macrosaurus*,*laevis*,*Cretaceous; New Jersey*
+*Macrosaurus*,*mitchillii*,*Cretaceous; New Jersey*
+*Mallotus*,*villosus*,*Living in northern seas: Pleistocene; Canada*
+*Mammut*,*americanum*,*Pleistocene: Virginia, Ohio, Michigan, New Jersey, Connecticut, Massachusetts, Maryland, South Carol*
+*Mammut*,*brevidens*,*Miocene (Loup Fork); Montana*
+*Mammut*,*campestre*,*Miocene (Loup Fork); Kansas, Nebraska*
+*Mammut*,*euhypodon*,*Miocene (Loup Fork); Kansas*
+*Mammut*,*floridanum*,*Pliocene; Florlda*
+*Mammut*,*humboldii*,*Pliocene (Blanco); South America, Texas*
+*Mammut*,*mirificum*,*Miocene (Loup Fork); Nebraska*
+*Mammut*,*obscurum*,*Founded on a cast of a tooth said to have come from the Miocene of Maryland; also reported from Nort*
+*Mammut*,*praecursor*,*Miocene (Loup Fork); Texas. Pliocene (Blanco); Texas*
+*Mammut*,*proavus*,*Miocene (Loup Fork); Kansas, Nebraska, Colorado, New Mexico*
+*Mammut*,*productum*,*Miocene (Loup Fork); New Mexico*
+*Mammut*,*rugosidens*,*Upper Pliocene; South Carolina*
+*Mammut*,*serridens*,*Miocene (Loup Fork); Texas*
+*Mammut*,*shepardi*,*Pliocene (Blanco); California, Texas, Kansas, Mexico*
+*Mammut*,*tropicum*,*Pliocene (Blanco); Texas, Mexico, South America*
+*Manospondylus*,*gigas*,*Cretaceous (Laramie)*
+*Manta*,*unios*,*Phosphate beds; South Carolina*
+*Manteoceras*,*manteoceras*,*Eocene (Bridger); Wyoming.  (Uinta); Utah*
+*Marracanthus*,*rectus*,*Subcarboniferous (St. Louis); Missouri, Illinois*
+*Mastodonsaurus*,*sp. indet.*,*Carboniferous; Kansas*
+*Mazodus*,*kepleri*,*Subcarboniferous (Waverly); Ohio*
+*Megacerops*,*amplus*,*Oligocene (White River); South Dakota*
+*Megacerops*,*angustigenis*,*Oligocene (White River); Swift Current Creek, Canada*
+*Megacerops*,*coloradensis*,*Oligocene (White River); South Dakota*
+*Megacerops*,*crassicornis*,*Oligocene (White River); South Dakota*
+*Megacerops*,*dispar*,*Oligocene (White River); South Dakota*
+*Megacerops*,*serotinus*,*Oligocene (White River); South Dakota*
+*Megalichthys*,*anceps*,*Subcarboniferous (St. Louis); Illinois*
+*Megalichthys*,*angustus*,*Coal-measures; Ohio*
+*Megalichthys*,*incurvus*,*Coal-measures; Ohio*
+*Megalichthys*,*lancifer*,*Coal-measures; Ohio*
+*Megalneusaurus*,*rex*,*Jurassic; Wyoming*
+*Megalonyx*,*dissimilis*,*Pleistocene; Mississippi*
+*Megalonyx*,*jeffersonii*,*Pleistocene; West Virginia, Northern Illinois, Indiana, Ohio, Kentucky, Tennessee, Alabama, Mississi*
+*Megalonyx*,*leidyi*,*Pliocene; Kansas*
+*Megalonyx*,*leptostomus*,*Pliocene (Blanco); Texas*
+*Megalonyx*,*loxodon*,*Pleistocene; Pennsylvania*
+*Megalonyx*,*scalper*,*Pleistocene; Pennsylvania*
+*Megalonyx*,*tortulus*,*Pleistocene; Pennsylvania*
+*Megalonyx*,*validus*,*Pleistocene; Texas*
+*Megalonyx*,*wheatleyi*,*Pleistocene; Pennsylvania*
+*Megaptera*,*boops*,*Recent in North Atlantic: Pleistocene; Ontario*
+*Megatherium*,*mirabile*,*Pleistocene; Georgia, South Carolina*
+*Megencephalon*,*primaevus*,*Eocene; Wyoming*
+*Meleagris*,*antiquus*,*Oligocene (White River); Colorado*
+*Meleagris*,*celer*,*Pleistocene; New Jersey*
+*Meleagris*,*superbus*,*Pleistocene; New Jersey*
+*Menacodon*,*rarus*,*Jurassic; Wyoming*
+*Meniscoessus*,*brevis*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*caperatus*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*coelatus*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*conquistus*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*fragilis*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*lunatus*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*robustus*,*Cretaceous (Laramie); Wyoming*
+*Meniscoessus*,*sculptus*,*Cretaceous (Laramie); Wyoming*
+*Meniscotherium*,*chamense*,*Eocene (Wasatch); New Mexico*
+*Meniscotherium*,*tapiacitis*,*Eocene (Wasatch); New Mexico*
+*Meniscotherium*,*terraerubrae*,*Eocene (Wasatch); New Mexico*
+*Menotherium*,*lemurinum*,*Oligocene (White River); Colorado*
+*Menotherium*,*robustum*,*Oligocene (White River); 30 miles south of Black Hills, South Dakota*
+*Mephitis*,*fossidens*,*Pleistocene; Pennsylvania*
+*Mephitis*,*frontata*,*Pleistocene; Pennsylvania*
+*Mephitis*,*leptops*,*Pleistocene; Pennsylvania*
+*Mephitis*,*mephitica*,*Recent; Louisiana northward to Nova Scotia and Saskatchewan.  Pleistocene; Pennsylvania, fide Allen*
+*Mephitis*,*obtusata*,*Pleistocene; Pennsylvania*
+*Mephitis*,*orthrostica*,*Pleistocene; Pennsylvania*
+*Merychippus*,*avus*,*Miocene (Loup Fork); Oregon*
+*Merychippus*,*castilli*,*Miocene (Loup Fork); Mexico*
+*Merychippus*,*cumminsii*,*Pliocene (Blanco); Texas, Oklahoma*
+*Merychippus*,*fossulatus*,*Miocene (Loup Fork); Texas*
+*Merychippus*,*insignis*,*Miocene (Loup Fork); South Dakota, Kansas, Oregon, Mexico*
+*Merychippus*,*labrosus*,*Miocene (Loup Fork); Colorado*
+*Merychippus*,*mirabilis*,*Miocene (Loup Fork); Nebraska, Colorado, South Dakota, Texas, Utah*
+*Merychippus*,*pachyops*,*Miocene (Loup Fork); Texas*
+*Merychippus*,*parvulus*,*Miocene (Loup Fork); Nebraska, Texas*
+*Merychippus*,*perditus*,*Miocene (Loup Fork); Nebraska, Colorado, Oklahoma, Kansas, Wyoming: Pliocene (Palo Duro); Texas*
+*Merychippus*,*phlegon*,*Pliocene (Blanco); Texas*
+*Merychippus*,*placidus*,*Miocene (Loup Fork); Nebraska, Colorado, South Dakota, Texas*
+*Merychippus*,*sejunctus*,*Miocene (Loup Fork); Colorado, Montana, Oregon?  New Mexico*
+*Merychippus*,*supremus*,*Miocene (Loup Fork); South Dakota*
+*Merychippus*,*sp. indet.*,*Miocene (Loup Fork); New Mexico*
+*Merychippus*,*sp. indet.*,*Miocene; Montana*
+*Merychyus*,*arenarum*,*Miocene (Loup Fork); Wyoming*
+*Merychyus*,*elegans*,*Miocene (Loup Fork); Nebraska*
+*Merychyus*,*major*,*Miocene (Loup Fork); Nebraska, Colorado*
+*Merychyus*,*medius*,*Miocene (Loup Fork); Nebraska, New Mexico, Colorado*
+*Merychyus*,*pariogonus*,*Miocene (Loup Fork); Wyoming, Montana*
+*Merychyus*,*zygomaticus*,*Miocene (Loup Fork); Montana*
+*Merycochoerus*,*chelydra*,*Miocene (John Day); Oregon*
+*Merycochoerus*,*coenopus*,*Miocene (Loup Fork); Nebraska*
+*Merycochoerus*,*laticeps*,*Miocene (Loup Fork); Montana*
+*Merycochoerus*,*leidyi*,*Miocene (John Day); Oregon*
+*Merycochoerus*,*macrostegus*,*Miocene (John Day); Oregon*
+*Merycochoerus*,*montanus*,*Miocene (Loup Fork); Montana*
+*Merycochoerus*,*obliquidens*,*Miocene (Loup Fork); Oregon*
+*Merycochoerus*,*proprius*,*Miocene (Loup Fork); Wyoming*
+*Merycochoerus*,*rusticus*,*Miocene (Loup Fork); Wyoming*
+*Merycochoerus*,*superbus*,*Miocene (John Day); Oregon*
+*Merycodus*,*agilis*,*Miocene; Montana*
+*Merycodus*,*furcatus*,*Miocene (Loup Fork); Nebraska, New Mexico*
+*Merycodus*,*necatus*,*Pliocene; South Dakota, Wyoming Nebraska, New Mexico*
+*Merycodus*,*ramosus*,*Pliocene; New Mexico*
+*Merycodus*,*tehuanus*,*Pliocene; New Mexico*
+*Merycodus*,*teres*,*Miocene (Loup Fork); New Mexico*
+*Merycodus*,*trilateralis*,*Miocene (Loup Fork); New Mexico*
+*Merycoidodon*,*affinis*,*Oligocene (White River); South Dakota*
+*Merycoidodon*,*bullatus*,*Oligocene (White River); South Dakota*
+*Merycoidodon*,*culbertsonii*,*Oligocene (White River); South Dakota*
+*Merycoidodon*,*gracilis*,*Oligocene (White River); South Dakota, Nebraska, Colorado*
+*Merycoidodon*,*hybridus*,*Oligocene (White River); South Dakota*
+*Mesacodon*,*speciosus*,*Eocene (Bridger); Wyoming*
+*Mesobatis*,*eximius*,*Phosphate beds; South Carolina*
+*Mesocetus*,*siphunculus*,*Miocene; Virginia*
+*Mesocyon*,*coryphaeus*,*Miocene (John Day) Oregon*
+*Mesocyon*,*josephi*,*Miocene (John Day); Oregon*
+*Mesodectes*,*caniculus*,*Oligocene (White River); Colorado*
+*Mesodmodus*,*explanatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Mesodmodus*,*exsculptus*,*Subcarboniferous (Kinderhook); Iowa*
+*Mesodmodus*,*ornatus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Mesogaulus*,*ballensis*,*Miocene (Deep River); Montana*
+*Mesonyx*,*dakotensis*,*Oligocene (White River); South Dakota*
+*Mesonyx*,*lanius*,*Eocene (Bridger); Wyoming*
+*Mesonyx*,*obtusidens*,*Eocene (Bridger); Wyoming: (Uinta); Utah*
+*Mesonyx*,*uintensis*,*Eocene (Uinta); Utah*
+*Mesonyx*,*vorax*,*Eocene (Bridger); Wyoming*
+*Mesoplodon*,*prorops*,*Tertiary (Phosphate beds); South Carolina*
+*Mesoreodon*,*chelonyx*,*Miocene (Deep River); Montana*
+*Mesoreodon*,*intermedius*,*Miocene (Deep River); Montana*
+*Mesoteras*,*kerrianus*,*Miocene; North Carolina*
+*Metamosaurus*,*fossatus*,*Permian; Texas*
+*Metamynodon*,*planifrons*,*Oligocene (White River); South Dakota*
+*Metopocetus*,*durinasus*,*Miocene; Maryland*
+*Microclaenodon*,*assurgens*,*Eocene (Puerco); New Mexico*
+*Microconodon*,*tenuirostris*,*Triassic; North Carolina*
+*Microdus*,*laevis*,*Triassic; North Carolina*
+*Microsus*,*cuspidatus*,*Eocene (Bridger); Wyoming*
+*Microsyops*,*elegans*,*Eocene (Bridger); Wyoming*
+*Microsyops*,*gracilis*,*Eocene (Wasatch, Wind River, Bridger); Wyoming*
+*Microsyops*,*scottianus*,*Eocene (Wind River); Wyoming*
+*Microsyops*,*speirianus*,*Eocene (Wind River); Wyoming*
+*Microsyops*,*uintensis*,*Eocene (Uinta); Wyoming*
+*Microtus*,*diluvianus*,*Pleistocene; Pennsylvania*
+*Microtus*,*involutus*,*Pleistocene; Pennsylvania*
+*Microtus*,*pennsylvanicus*,*Recent; eastern United States.  Pleistocene; Illinois, Virginia*
+*Microtus*,*pinetorum*,*Recent; United States.  Pleistocene?; Pennsylvania.  Not given in Cope 1899 A, as found in Port Kenn*
+*Microtus*,*speothen*,*Pleistocene; Pennsylvania*
+*Microtus*,*sp. indet.*,*Pleistocene (Equus beds); Oregon*
+*Microtus*,*didelta*,*Pleistocene; Pennsylvania*
+*Mioclaenus*,*acolytus*,*Eocene (Torrejon); New Mexico*
+*Mioclaenus*,*lemuroides*,*Eocene (Torrejon); New Mexico*
+*Mioclaenus*,*lydekkerianus*,*Eocene (Torrejon); New Mexico*
+*Mioclaenus*,*turgidunculus*,*Eocene (Puerco); New Mexico*
+*Mioclaenus*,*turgidus*,*Eocene (Torrejon); New Mexico*
+*Miohippus*,*agrestis*,*Miocene; Montana*
+*Miohippus*,*anceps*,*Miocene (John Day); Oregon*
+*Miohippus*,*annectens*,*Oligocene?  (White River); Montana?: Miocene (John Day); Oregon*
+*Miohippus*,*australis*,*Miocene (Loup Fork); Texas*
+*Miohippus*,*bairdi*,*Oligocene (White River); South Dakota, Nebraska, Colorado, Oregon*
+*Miohippus*,*brachylophus*,*Miocene (John Day); Oregon*
+*Miohippus*,*celer*,*Oligocene (White River); Colorado*
+*Miohippus*,*condoni*,*Miocene (John Day); Oregon*
+*Miohippus*,*copei*,*Oligocene (White River); South Dakota*
+*Miohippus*,*cuneatus*,*Oligocene (White River); Colorado*
+*Miohippus*,*equiceps*,*Miocene (John Day); Oregon.  Oligocene?  (White River?); Montana*
+*Miohippus*,*exoletus*,*Oligocene (White River); Colorado*
+*Miohippus*,*intermedius*,*Oligocene (White River); South Dakota, Nebraska*
+*Miohippus*,*longicristis*,*Miocene (John Day); Oregon*
+*Miohippus*,*praestans*,*Miocene (John Day); Oregon*
+*Miohippus*,*ultimus*,*Miocene (Loup Fork); Oregon*
+*Miohippus*,*westonii*,*Oligocene (White River); Canada*
+*Miolabis*,*transmontanus*,*Miocene (Loup Fork); Oregon*
+*Mioplosus*,*abbreviatus*,*Eocene (Green River); Wyoming*
+*Mioplosus*,*beani*,*Eocene (Green River); Wyoming*
+*Mioplosus*,*labracoides*,*Eocene (Green River); Wyoming*
+*Mioplosus*,*longus*,*Eocene (Green River); Wyoming*
+*Mioplosus*,*multidentatus*,*Tertiary (Oligocene?);  South Dakota*
+*Mioplosus*,*sauvageanus*,*Eocene (Green River); Wyoming*
+*Mixodectes*,*crassiusculus*,*Eocene (Torrejon); New Mexico*
+*Mixodectes*,*pungens*,*Eocene (Torrejon); New Mexico*
+*Molgophis*,*brevicostatus*,*Coal-measures; Ohio*
+*Molgophis*,*macrurus*,*Coal-measures; Ohio*
+*Molgophis*,*wheatleyi*,*Coal-measures; Ohio*
+*Monocladodus*,*clarki*,*Devonian (Cleveland shale); Ohio*
+*Monocladodus*,*pinnatus*,*Devonian (Cleveland shale); Ohio*
+*Monoclonius*,*crassus*,*Cretaceous (Laramie); Montana*
+*Monoclonius*,*fissus*,*Cretaceous (Laramie); Montana*
+*Monoclonius*,*recurvicornis*,*Cretaceous (Laramie); Montana*
+*Monoclonius*,*sphenocerus*,*Cretaceous (Laramie); Montana*
+*Monodon*,*monoceros*,*Recent; Arctic seas.  Pleistocene; Alaska*
+*Moropus*,*distans*,*Miocene (John Day); Oregon*
+*Moropus*,*elatus*,*Miocene (Loup Fork); Nebraska*
+*Moropus*,*senex*,*Miocene (John Day); Oregon*
+*Morosaurus*,*agilis*,*Jurassic; Colorado*
+*Morosaurus*,*grandis*,*Jurassic; Wyoming?, Colorado*
+*Morosaurus*,*impar*,*Jurassic; "Rocky Mountain region."*
+*Morosaurus*,*lentus*,*Jurassic; Wyoming*
+*Morosaurus*,*robustus*,*Jurassic; Wyoming*
+*Morotherium*,*gigas*,*Pliocene; California*
+*Morotherium*,*leptonyx*,*Pliocene; Idaho*
+*Mosasaurus*,*brumbyi*,*Cretaceous (Rotten limestone); Alabama*
+*Mosasaurus*,*carolinensis*,*Cretaceous; South Carolina*
+*Mosasaurus*,*copeanus*,*Cretaceous (Green-sand No. 4); New Jersey*
+*Mosasaurus*,*couperi*,*Cretaceous; Georgia*
+*Mosasaurus*,*crassidens*,*Cretaceous; North Carolina*
+*Mosasaurus*,*dekayi*,*Cretaceous; New Jersey, South Carolina*
+*Mosasaurus*,*depressus*,*Cretaceous; New Jersey*
+*Mosasaurus*,*fulciatus*,*Cretaceous; New Jersey*
+*Mosasaurus*,*horridus*,*Cretaceous (Niobrara); Kansas*
+*Mosasaurus*,*maximus*,*Cretaceous; New Jersey*
+*Mosasaurus*,*miersii*,*Cretaceous; New Jersey*
+*Mosasaurus*,*minor*,*Cretaceous; Alabama*
+*Mosasaurus*,*missouriensis*,*Cretaceous; Nebraska*
+*Mosasaurus*,*oarthrus*,*Cretaceous; New Jersey*
+*Mosasaurus*,*princeps*,*Cretaceous; New Jersey*
+*Mustela*,*americana*,*Recent; North America.  Pleistocene or Recent, in caves; Pennsylvania, fide Ahen*
+*Mustela*,*diluviana*,*Pleistocene; Pennsylvania*
+*Mustela*,*parviloba*,*Miocene (Loup Fork); Colorado, Nebraska*
+*Mylagaulus*,*monodon*,*Miocene (Loup Fork); Nebraska, Colorado*
+*Mylagaulus*,*sesquipedalis*,*Miocene (Loup Fork); Nebraska*
+*Myledaphus*,*bipartitus*,*Cretaceous (Fort Union); Montana*
+*Myliobatis*,*bisulcus*,*Eocene; New Jersey*
+*Myliobatis*,*copeanus*,*Eocene; Maryland, Virginia*
+*Myliobatis*,*fastigiatus*,*Eocene; New Jersey*
+*Myliobatis*,*gigas*,*Miocene; Maryland*
+*Myliobatis*,*glottoides*,*Eocene; New Jersey*
+*Myliobatis*,*holmesii*,*Phosphate beds; South Carolina*
+*Myliobatis*,*jugosus*,*Eocene; New Jersey*
+*Myliobatis*,*leidyi*,*Eocene; New Jersey*
+*Myliobatis*,*mordax*,*Phosphate beds; South Carolina*
+*Myliobatis*,*pachyodon*,*Miocene; Maryland*
+*Myliobatis*,*rectidens*,*Cretaceous; New Jersey*
+*Myliobatis*,*rugosus*,*Eocene: New Jersey*
+*Myliobatis*,*transversalis*,*Eocene; South Carolina*
+*Myliobatis*,*vicomicanus*,*Miocene; Maryland*
+*Myliobatis*,*sp. indet.*,*Miocene; Virginia*
+*Mylocyprinus*,*inflexus*,*Pleistocene; Idaho*
+*Mylocyprinus*,*robustus*,*Pleistocene; Idaho*
+*Mylodon*,*harlani*,*Pleistocene; Kentucky, Missouri, Louisiana, Mississippi, South Carolina, Oregon, Kansas?, Pennsylvan*
+*Mylodon*,*renidens*,*Pleistocene; Louisiana*
+*Mylodon*,*sodalis*,*Pliocene; Oregon, Texas*
+*Mylodon*,*sulcidens*,*Pleistocene; Louisiana*
+*Mylognathus*,*priscus*,*Eocene (Fort Union); Nebraska*
+*Mylostoma*,*terrelli*,*Devonian (Cleveland shale); Ohio*
+*Mylostoma*,*variabile*,*Devonian (Cleveland shale); Ohio*
+*Mysops*,*fraternus*,*Eocene (Bridger); Wyoming*
+*Mysops*,*minimus*,*Eocene (Bridger); Wyoming*
+*Myxophagus*,*spelaeus*,*Pleistocene; Virginia*
+*Nanohyus*,*porcinus*,*Oligocene (White River); South Dakota?*
+*Nanomeryx*,*caudatus*,*Eocene (Bridger); Wyoming*
+*Nanopus*,*caudatus*,*Coal-measures; Kansas*
+*Nanosaurus*,*agilis*,*Jurassic; Colorado*
+*Nanosaurus*,*rex*,*Jurassic; Colorado*
+*Naocephalus*,*porrectus*,*Eocene (Bridger); Wyoming*
+*Naosaurus*,*claviger*,*Permian; Texas*
+*Naosaurus*,*cruciger*,*Permian; Texas*
+*Naosaurus*,*microdus*,*Permian; Texas*
+*Neoplagiaulax*,*americanus*,*Eocene (Puerco); New Mexico*
+*Neoplagiaulax*,*molestus*,*Eocene (Torrejon); New Mexico*
+*Neotoma*,*floridana*,*Recent; southeastern United States.  Pleistocene?; Pennsylvania*
+*Neotoma*,*magister*,*Pleistocene; Pennsylvania, Virginia, Kentucky, Missouri*
+*Neptunochelys*,*tuberosa*,*Cretaceous; Mississippi*
+*Neurodromicus*,*dorsalis*,*Oligocene (White River); Colorado*
+*Nimravus*,*confertus*,*Miocene (John Day); Oregon*
+*Nimravus*,*gomphodus*,*Miocene (John Day); Oregon*
+*Nodosaurus*,*textilis*,*Cretaceous; Wyoming, British America*
+*Notalacerta*,*missouriensis*,*Coal-measures; Missouri*
+*Notamphibia*,*magna*,*Coal-measures; Missouri*
+*Notharctus*,*tenebrosus*,*Eocene (Bridger); Wyoming*
+*Nothocyon*,*geismarianus*,*Miocene (John Day); Oregon*
+*Nothocyon*,*latidens*,*Miocene (John Day); Oregon*
+*Nothocyon*,*lemur*,*Miocene (John Day); Oregon*
+*Nothodon*,*lentus*,*Permian; New Mexico*
+*Nothosaurops*,*occiduus*,*Cretaceous (Laramie); S. Dakota*
+*Notogoneus*,*osculus*,*Eocene (Green River); Montana*
+*Notomorpha*,*gravis*,*Eocene (Wasatch); Wyoming*
+*Notropis*,*angustarcus*,*Pleistocene (Equus); Oregon*
+*Nummopalatus*,*carolinensis*,*Phosphate beds; South Carolina*
+*Nyctilestes*,*serotinus*,*Eocene (Bridger); Wyoming*
+*Nyctitherium*,*priscum*,*Eocene (Bridger); Wyoming*
+*Nyctitherium*,*velox*,*Eocene (Bridger); Wyoming*
+*Nyctosaurus*,*gracilis*,*Cretaceous; Kansas*
+*Ochotona*,*palatinus*,*Pleistocene; Pennsylvania*
+*Octacodon*,*valens*,*Oligocene (White River); South Dakota*
+*Odobenus*,*rosmarus*,*Recent; shores of Northern Atlantic and Arctic oceans from Labrador to Siberia.  Pleistocene; Labrad*
+*Odobenus*,*virginianus*,*Pleistocene; Maine, Nova Scotia, Massachusetts, New Jersey, Virginia, South Carolina*
+*Oestocephalus*,*rectidens*,*Coal-measures; Ohio*
+*Oestocephalus*,*remex*,*Coal-measures; Ohio*
+*Oestophorus*,*n. sp. Eastman*,*Devonian; Iowa*
+*Ogmophis*,*angulatus*,*Oligocene (White River); Colorado*
+*Ogmophis*,*oregonensis*,*Miocene (John Day); Oregon*
+*Oligobunis*,*crassivultus*,*Miocene (John Day); Oregon*
+*Oligoplarchus*,*squamipinnis*,*Oligocene?;  South Dako*
+*Oligosimus*,*grandaevus*,*Cretaceous?; Wyoming*
+*Olor*,*paloregonus*,*Pleistocene; Oregon*
+*Omomys*,*carteri*,*Eocene (Bridger); Wyoming*
+*Onchus*,*clintoni*,*Silurian (Clinton); Pennsylvania*
+*Onchus*,*pennsylvanicus*,*Upper Silurian; Pennsylvania*
+*Onchus*,*rectus*,*Devonian (Catskill); New York*
+*Oncobatis*,*pentagonus*,*Pliocene; Idaho*
+*Ontocetus*,*emmonsi*,*Miocene; North Carolina*
+*Onychodectes*,*rarus*,*Eocene (Puerco); New Mexico*
+*Onychodectes*,*tisonensis*,*Eocene (Puerco); New Mexico*
+*Onychodus*,*ortoni*,*Devonian (Huron shale); Ohio*
+*Onychodus*,*sigmoides*,*Devonian (Corniferous); Ohio, New York: (Chemung); New York*
+*Onychodus*,*sp. indet.*,*Devonian; Manitoba*
+*Ophiacodon*,*grandis*,*Permian; New Mexico*
+*Ophiacodon*,*mirus*,*Permian; New Mexico*
+*Opisthotomus*,*astutus*,*Eocene: New Mexico, Wyoming*
+*Opisthotomus*,*flagrans*,*Eocene; New Mexico*
+*Oracanthus*,*lineatus*,*Subcarboniferous (St. Louis); Indiana*
+*Oracanthus*,*multiseriatus*,*Subcarboniferous; Ohio*
+*Oracanthus*,*obliquus*,*Subcarboniferous (Keokuk); Illinois*
+*Oracanthus*,*pnigeus*,*Subcarboniferous (Keokuk); Iowa*
+*Oracanthus*,*rectus*,*Subcarboniferous (Chester); Illinois*
+*Oracanthus*,*trigonalis*,*Subcarboniferous (St. Louis); Illinois*
+*Oracanthus*,*vetustus*,*Carboniferous; Missouri Territory: Subcarboniferous (St. Louis); Illinois, Missouri*
+*Oracodon*,*anceps*,*Cretaceous (Laramie); Wyoming*
+*Oracodon*,*conulus*,*Cretaceous (Laramie); Wyoming*
+*Oricardinus*,*sheareri*,*Cretaceous (Niobrara); Kansas*
+*Oricardinus*,*tortus*,*Cretaceous (Niobrara); Kansas*
+*Ornithomimus*,*grandis*,*Cretaceous (Laramie); Colorado*
+*Ornithomimus*,*minutus*,*Cretaceous (Laramie); Colorado*
+*Ornithomimus*,*sedens*,*Cretaceous (Laramie); Colorado*
+*Ornithomimus*,*tenuis*,*Cretaceous (Laramie); Colorado*
+*Ornithomimus*,*velox*,*Cretaceous (Laramie); Colorado*
+*Ornithotarsus*,*immanis*,*Cretaceous; New Jersey*
+*Orodus*,*alleni*,*Lower Coal-measures; Iowa*
+*Orodus*,*carinatus*,*Subcarboniferous (Keokuk); Iowa*
+*Orodus*,*colletti*,*Subcarboniferous (St. Louis); Indiana*
+*Orodus*,*daedaleus*,*Subcarboniferous (Kinderhook); Iowa*
+*Orodus*,*decussatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Orodus*,*elegantulus*,*Subcarboniferous; Iowa, Indiana, Ohio*
+*Orodus*,*fastigiatus*,*Subcarboniferous (Burlington); Iowa*
+*Orodus*,*gibbosus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Orodus*,*major*,*Subcarboniferous (Burlington); Iowa*
+*Orodus*,*mammillaris*,*Subcarboniferous (Keokuk); Illinois*
+*Orodus*,*minutus*,*Subcarboniferous (Keokuk); Illinois*
+*Orodus*,*neglectus*,*Subcarboniferous (St. Louis); Illinois, Iowa*
+*Orodus*,*ornatus*,*Subcarboniferous (Keokuk); Illinois, Indiana*
+*Orodus*,*parallellus*,*Subcarboniferous (Kinderhook); Iowa*
+*Orodus*,*parvulus*,*Subcarboniferous (St. Louis); Illinois*
+*Orodus*,*plicatus*,*Subcarboniferous (St. Louis); Missouri*
+*Orodus*,*ramosus*,*Subcarboniferous; Europe, Indiana, Michigan*
+*Orodus*,*tuberculatus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Orodus*,*turgidus*,*Subcarboniferous (Chester); Illinois*
+*Orodus*,*variabilis*,*Subcarboniferous (Waverly); Ohio, Kentucky*
+*Orodus*,*variocostatus*,*Subcarboniferous (Burlington); Illinois, Iowa, Missouri (fide Hambach)*
+*Orodus*,*whitei*,*Subcarboniferous (Kinderhook); Iowa*
+*Orohippus*,*agilis*,*Eocene (Bridger); Wyoming: Eocene (Uinta); New Mexico*
+*Orohippus*,*ballardi*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*cinctus*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*major*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*osbornianus*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*procyoninus*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*pumilis*,*Eocene (Bridger); Wyoming ssylvaticus*
+*Orohippus*,*pumilis*,*Eocene (Bridger); Wyoming*
+*Orohippus*,*uintanus*,*Eocene (Bridger); Wyoming*
+*Oromeryx*,*plicatus*,*Eocene (Uinta); Utah*
+*Orophosaurus*,*pauciporus*,*Cretaceous (Fox Hills); New Mexico*
+*Orthacanthus*,*gracilis*,*Permian; Illinois*
+*Orthodactylus*,*floriferus*,*Triassic; Massachusetts*
+*Orthodactylus*,*introvergens*,*Triassic; Massachusetts*
+*Orthodactylus*,*linearis*,*Triassic; Massachusetts*
+*Orthopleurodus*,*angularis*,*Coal-measures; Indiana, Illinois, Iowa, Missouri, Kansas, and Nebraska*
+*Orthopleurodus*,*convexus*,*Coal-measures; West Virginia*
+*Orthopleurodus*,*novo-mexicanus*,*Subcarboniferous; New Mexico*
+*Orycterocetus*,*cornutidens*,*Miocene; North Carolina, Maryland*
+*Orycterocetus*,*quadratidens*,*Miocene; Virginia, North Carolina*
+*Osmotherium*,*spelaeum*,*Pleistocene; Pennsylvania*
+*Osteopygis*,*chelydrinus*,*Cretaceous; New Jersey*
+*Osteopygis*,*emarginatus*,*Cretaceous; New Jersey*
+*Osteopygis*,*erosus*,*Cretaceous; New Jersey*
+*Osteopygis*,*platylomus*,*Cretaceous; New Jersey*
+*Osteopygis*,*ponderosus*,*Cretaceous; New Jersey*
+*Osteopygis*,*repandus*,*Cretaceous; New Jersey*
+*Osteopygis*,*sopitus*,*Cretaceous; New Jersey*
+*Otocoelus*,*mimeticus*,*Permian; Texas*
+*Otocoelus*,*testudineus*,*Permian; Texas*
+*Otodus*,*apiculatus*,*Eocene; South Carolina*
+*Otodus*,*appendiculatus*,*Cretaceous: Europe, Australia, New Jersey, North Carolina, Mississippi: Tertiary; Virginia, Texas, N*
+*Otodus*,*crassus*,*Cretaceous; Europe, Alabama*
+*Otodus*,*divaricatus*,*Cretaceous; Texas, Kansas*
+*Otodus*,*levis*,*Eocene; South Carolina, New Jersey*
+*Otodus*,*macrotus*,*Eocene; Europe, New Zealand, South Carolina, Virginia*
+*Otodus*,*obliquus*,*Upper Cretaceous and Eocene; Europe and Egypt: Eocene; Virginia, New Jersey: Miocene; Virginia, Nort*
+*Otodus*,*trigonatus*,*Upper Eocene; Bavaria, South Carolina (?)*
+*Otozoum*,*caudatum*,*Triassic; Connecticut*
+*Otozoum*,*moodii*,*Triassic; Massachusetts, Connecticut*
+*Otozoum*,*parvum*,*Triassic; New Jersey, Pennsylvania*
+*Ovibos*,*appalachicolus*,*Pleistocene; Pennsylvania*
+*Ovibos*,*bombifrons*,*Pleistocene; Kentucky*
+*Ovibos*,*cavifrons*,*Pleistocene; Indian Territory, Missouri, Kentucky, Ohio, Iowa, Alaska*
+*Ovibos*,*moschatus*,*Recent; North America, Greenland.  Pleistocene; Alaska, Greenland, Europe, and Asia*
+*Ovis*,*mamillaris*,*Pleistocene?; Ohio*
+*Oxyacodon*,*agapetillus*,*Eocene (Puerco); New Mexico*
+*Oxyacodon*,*apiculatus*,*Eocene (Puerco), New Mexico*
+*Oxyaena*,*forcipata*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Oxyaena*,*huerfanensis*,*Eocene (Wind River); Colorado*
+*Oxyaena*,*lupina*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Oxyaena*,*morsitans*,*Eocene (Wasatch); New Mexico*
+*Oxyaenodon*,*dysodus*,*Eocene (Uinta); Utah*
+*Oxyaenodon*,*dysclerus*,*Eocene (Uinta); Utah*
+*Oxyclaenus*,*cuspidatus*,*Eocene (Puerco); New Mexico*
+*Oxyclaenus*,*simplex*,*Eocene (Puerco); New Mexico*
+*Pachyaena*,*gigantea*,*Eocene (Wasatch); Wyoming*
+*Pachyaena*,*intermedia*,*Eocene (Wasatch); Wyoming*
+*Pachyaena*,*ossifraga*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Pachycyon*,*robustus*,*Pleistocene; Virginia*
+*Pachyrhizodus*,*caninus*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*curvatus*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*kingii*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*latimentum*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*leptognathus*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*leptopsis*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*minimus*,*Cretaceous (Niobrara); Kansas*
+*Pachyrhizodus*,*velox*,*Cretaceous (Niobrara); Kansas*
+*Paciculus*,*insolitus*,*Miocene (John Day); Oregon*
+*Paciculus*,*lockingtonianus*,*Miocene (John Day); Oregon*
+*Palaeacodon*,*vagus*,*Eocene (Bridger); Wyoming*
+*Palaeacodon*,*verus*,*Eocene (Bridger); Wyoming*
+*Palaeaspis*,*americana*,*Devonian (Onondaga); Pennsylvania*
+*Palaeaspis*,*elliptica*,*Upper Silurian; Pennsylvania*
+*Palaedaphus*,*lesleyi*,*Devonian (Chemung); Pennsylvania*
+*Palaeictops*,*bicuspis*,*Eocene (Wasatch); Wyoming*
+*Palaeoborus*,*umbrosus*,*Pliocene; New Mexico*
+*Palaeoctonus*,*appalachianus*,*Triassic; Pennsylvania*
+*Palaeoctonus*,*dumblianus*,*Triassic; Texas*
+*Palaeoctonus*,*orthodon*,*Triassic; Texas*
+*Palaeolagus*,*haydeni*,*Oligocene (White River); South Dakota, Nebraska, Colorado, Oregon*
+*Palaeolagus*,*intermedius*,*Oligocene (White River); Colorado*
+*Palaeolagus*,*leporinus*,*Oligocene (White River); Colorado*
+*Palaeolagus*,*triplex*,*Oligocene (White River); Colorado*
+*Palaeolagus*,*turgidus*,*Oligocene (White River); Colorado, western Canada*
+*Palaeomeryx*,*americanus*,*Miocene (Loup Fork); Montana*
+*Palaeomeryx*,*madisonius*,*Miocene (Loup Fork); Montana*
+*Palaeomylus*,*crassus*,*Devonian (Corniferous); Ohio*
+*Palaeomylus*,*frangens*,*Devonian (Corniferous); Ohio*
+*Palaeomylus*,*greenei*,*Devonian (Hamilton); Wisconsin*
+*Palaeonictis*,*occidentalis*,*Eocene (Wasatch); Wyoming*
+*Palaeoniscum*,*antiquum*,*Devonian (Portage); New York*
+*Palaeoniscum*,*devonicum*,*Devonian (Genesee); New York*
+*Palaeoniscum*,*reticulatum*,*Devonian (Portage); New York*
+*Palaeoniscum*,*scutigerum*,*Coal-measures; Ohio*
+*Palaeophis*,*grandis*,*Eocene; New Jersey*
+*Palaeophis*,*halidanus*,*Eocene; New Jersey*
+*Palaeophis*,*littoralis*,*Eocene; New Jersey*
+*Palaeosauropus*,*antiquior*,*Subcarboniferous; Nova Scotia*
+*Palaeosauropus*,*primaevus*,*Coal-measures; Pennsylvania*
+*Palaeosauropus*,*sydenensis*,*Coal-measures; Cape Breton Island*
+*Palaeosauropus*,*unguifer*,*Carboniferous (Millstone Grit); Nova Scotia*
+*Palaeoscincus*,*costatus*,*Cretaceous (Laramie); Montana*
+*Palaeoscincus*,*latus*,*Cretaceous (Laramie); Wyoming*
+*Palaeosinopa*,*veterrima*,*Eocene (Wasatch); Wyoming*
+*Palaeospiza*,*bella*,*Eocene?  (Amyzon shales); Colorado*
+*Palaeosyops*,*humilis*,*Eocene (Bridger); Wyoming*
+*Palaeosyops*,*junior*,*Eocene (Bridger); Wyoming*
+*Palaeosyops*,*laevidens*,*Eocene (Bridger); Wyoming*
+*Palaeosyops*,*longirostris*,*Eocene (Bridger); Wyoming*
+*Palaeosyops*,*paludosus*,*Eocene (Bridger); Wyoming*
+*Palaeosyops*,*ultimus*,*Eocene (Uinta); Utah*
+*Palaeotetrix*,*gillii*,*Pleistocene; Oregon*
+*Palaeotringa*,*littoralis*,*Cretaceous; New Jersey*
+*Palaeotringa*,*vagans*,*Cretaceous; New Jersey*
+*Palaeotringa*,*vetus*,*Cretaceous; New Jersey*
+*Palamopus*,*anomalus*,*Triassic; Massachusetts*
+*Palamopus*,*divaricans*,*Triassic; Massachusetts*
+*Palamopus*,*gracilipes*,*Triassic; Massachusetts*
+*Palamopus*,*rogersianus*,*Triassic; Massachusetts, Connecticut*
+*Panolax*,*sanctaefidei*,*Miocene (Loup Fork); New Mexico*
+*Pantolambda*,*bathmodon*,*Eocene (Torrejon); New Mexico*
+*Pantolambda*,*cavirictus*,*Eocene (Torrejon); New Mexico*
+*Pantolestes*,*longicaudus*,*Eocene (Bridger); Wyoming*
+*Pantosaurus*,*striatus*,*Jurassic; Wyoming*
+*Pantylus*,*coi%Fcodus*,*Permian; Texas*
+*Pantylus*,*cordatus*,*Permian; Texas*
+*Pappichthys*,*corsoni*,*Eocene (Bridger); Wyoming*
+*Pappichthys*,*laevis*,*Eocene (Bridger); Wyoming*
+*Pappichthys*,*plicatus*,*Eocene (Bridger); Wyoming*
+*Pappichthys*,*sclerops*,*Eocene (Bridger); Wyoming*
+*Parabatrachus*,*ciceronius*,*Permian; Texas*
+*Parabatrachus*,*macropomus*,*Carboniferous; Kansas*
+*Parabatrachus*,*maxillaris*,*Coal-measures; Great Britain, Cape Breton Island.  Scales and bones not distinguishable as different*
+*Parabatrachus*,*nitidus*,*Permian: Texas*
+*Paradaphaenus*,*cuspigerus*,*Miocene (John Day); Oregon*
+*Paradaphaenus*,*transversus*,*Miocene (John Day); Oregon*
+*Paradoxodon*,*ru%Ftimeyeranus*,*Eocene (Puerco); New Mexico*
+*Parahyus*,*aberrans*,*Eocene (Bridger); Wyoming*
+*Parahyus*,*vagus*,*Eocene (Bridger); Wyoming*
+*Parameryx*,*laevis*,*Eocene (Uinta); Wyoming*
+*Parameryx*,*sulcatus*,*Eocene (Uinta); Wyoming*
+*Paramys*,*buccatus*,*Eocene (Wasatch); New Mexico, Wyoming: (Bridger); Wyoming*
+*Paramys*,*delicatior*,*Eocene (Wind River, Bridger); Wyoming (Wasatch); New Mexico, Wyoming*
+*Paramys*,*delicatissimus*,*Eocene (Bridger); Wyoming: (Wasatch?); New Mexico, Wyoming*
+*Paramys*,*delicatus*,*Eocene (Bridger); Wyoming*
+*Paramys*,*hians*,*Eocene (Bridger); Wyoming*
+*Paramys*,*leptodus*,*Eocene (Bridger); Wyoming*
+*Paramys*,*nitidus*,*Eocene (Bridger); Wyoming*
+*Paramys*,*parvidens*,*Eocene (Bridger); Wyoming*
+*Paramys*,*robustus*,*Eocene (Bridger); Wyoming*
+*Paramys*,*sciuroides*,*Eocene (Uinta); Utah*
+*Paramys*,*superbus*,*Eocene (Bridger); Wyoming*
+*Paramys*,*uintensis*,*Eocene (Uinta); Utah*
+*Paramys*,*undans*,*Eocene (Bridger); Wyoming*
+*Paramys*,*sp. indet.*,*Eocene (Bridger); Wyoming*
+*Parictis*,*primaevus*,*Miocene (John Day); Oregon*
+*Pariostegus*,*myops*,*Triassic; North Carolina*
+*Pariotichus*,*aduncus*,*Permian; Texas*
+*Pariotichus*,*aguti*,*Permian; Texas*
+*Pariotichus*,*brachyops*,*Permian; Texas*
+*Pariotichus*,*incisivus*,*Permian; Texas*
+*Pariotichus*,*isolomus*,*Permian; Texas*
+*Pariotichus*,*ordinatus*,*Permian; Texas*
+*Paronychodon*,*lacustris*,*Cretaceous (Laramie); Montana*
+*Patriofelis*,*ferox*,*Eocene (Bridger); Wyoming*
+*Patriofelis*,*latidens*,*Eocene (Bridger); Wyoming.  A doubtful species*
+*Patriofelis*,*tigrina*,*Eocene (Wind River); Wyoming*
+*Patriofelis*,*ulta*,*Eocene (Bridger); Wyoming*
+*Paurodon*,*valens*,*Jurassic; Wyoming*
+*Pediocaetes*,*lucasii*,*Pleistocene; Oregon*
+*Pediocaetes*,*nanus*,*Pleistocene; Oregon*
+*Pediocaetes*,*phasianellus*,*Recent; western and northern America: Pleistocene; Oregon*
+*Pediomys*,*elegans*,*Cretaceous (Laramie); Wyoming*
+*Pelecanus*,*erythrorhynchos*,*Recent; North America: Pleistocene; Oregon*
+*Pelecorapis*,*berycinus*,*Cretaceous (Pierre); Montana*
+*Pelecorapis*,*varius*,*Cretaceous (Benton); Kansas*
+*Peltodus*,*plicomphalus*,*Subcarboniferous (Chester); Illinois*
+*Peltodus*,*pulvinulus*,*Subcarboniferous; Illinois*
+*Peltodus*,*quadratus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Peltodus*,*unguiformis*,*Coal-measures; Illinois*
+*Peltosaurus*,*granulosus*,*Miocene; Colorado*
+*Pelycictis*,*lobulatus*,*Pleistocene; Pennsylvania*
+*Pelycodus*,*frugivorus*,*Eocene (Wasatch, Wind River); New Mexico, Wyoming*
+*Pelycodus*,*jarrovii*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Pelycodus*,*tutus*,*Eocene (Wasatch, Wind River); New Mexico, Wyoming, Colorado*
+*Pelycorhamphus*,*pertortus*,*Miocene.  Locality unknown*
+*Pentacodon*,*inversus*,*Eocene (Puerco); New Mexico*
+*Peplorhina*,*anthracina*,*Coal-measures; Ohio*
+*Peplorhina*,*arctata*,*Permian; Illinois*
+*Peplorhina*,*exanthematica*,*Coal-measures; Ohio*
+*Perchoerus*,*antiquus*,*Miocene; New Jersey*
+*Perchoerus*,*lentus*,*Miocene (John Day); Oregon*
+*Perchoerus*,*nanus*,*Oligocene (White River); South Dakota*
+*Perchoerus*,*probus*,*Oligocene (White River); South Dakota*
+*Perchoerus*,*robustus*,*Oligocene (White River); South Dakota*
+*Perchoerus*,*socialis*,*Miocene (John Day); Oregon*
+*Periplectrodus*,*compressus*,*Subcarboniferous (St. Louis); Illinois*
+*Periplectrodus*,*expansus*,*Subcarboniferous (Chester); Illinois*
+*Periplectrodus*,*warreni*,*Subcarboniferous (Burlington); Iowa*
+*Periptychus*,*carinidens*,*Eocene (Torrejon); New Mexico*
+*Periptychus*,*coarctatus*,*Eocene (Puerco); New Mexico*
+*Periptychus*,*rhabdodon*,*Eocene (Torrejon); New Mexico*
+*Peritresius*,*ornatus*,*Cretaceous; New Jersey, Georgia*
+*Peromyscus*,*leucopus*,*Recent; eastern United States from Carolinas to New York.  Pleistocene?; caves of Virginia and Penns*
+*Peromyscus*,*loxodon*,*Miocene (Loup Fork); New Mexico*
+*Peromyscus*,*nematodon*,*Miocene (John Day); Oregon*
+*Petalodus*,*curtus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Petalodus*,*hybridus*,*Subcarboniferous (St. Louis); Illinois*
+*Petalodus*,*knappi*,*Subcarboniferous (Keokuk); Indiana*
+*Petalodus*,*linguifer*,*Subcarboniferous (Chester); Illinois, Missouri (fide Hambach)*
+*Petalodus*,*ohioensis*,*Coal-measures; Pennsylvania, Ohio, Illinois, Nebraska, Arkansas, Missouri*
+*Petalodus*,*proximus*,*Coal-measures; Illinois*
+*Petalorhynchus*,*distortus*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Petalorhynchus*,*pseudosagittatus*,*Subcarboniferous (St. Louis); Illinois, Missouri, Iowa*
+*Petalorhynchus*,*spatulatus*,*Subcarboniferous (St. Louis); Illinois, Iowa*
+*Petalorhynchus*,*striatus*,*Subcarboniferous (Burlington); Illinois*
+*Petrodus*,*acutus*,*Coal-measures; Illinois*
+*Petrodus*,*occidentalis*,*Coal-measures; Illinois, Indiana*
+*Petrodus*,*pustulosus*,*Subcarboniferous (Burlington); Iowa*
+*Phalacrocorax*,*idahensis*,*Pleistocene; Idaho*
+*Phalacrocorax*,*macropus*,*Pleistocene; Oregon*
+*Phalacrocorax*,*perspicillatus*,*Recently extinct; Bering Island*
+*Phalaropus*,*lobatus*,*Recent; Northern Hemisphere: Pleistocene; Oregon*
+*Phareodus*,*acutus*,*Eocene (Bridger); Wyoming*
+*Phareodus*,*aequipinnis*,*Eocene (Green River); Wyoming*
+*Phareodus*,*encaustus*,*Eocene (Green River); Wyoming*
+*Phareodus*,*testis*,*Eocene (Green River); Wyoming*
+*Phenacodus*,*brachypternus*,*Eocene (Wasatch); Wyoming*
+*Phenacodus*,*hemiconus*,*Eocene (Wasatch); Wyoming*
+*Phenacodus*,*macropternus*,*Eocene (Wasatch); Wyoming*
+*Phenacodus*,*nunie%Fnus*,*Eocene (Wasatch); Wyoming*
+*Phenacodus*,*omnivorus*,*Eocene (Wasatch); New Mexico*
+*Phenacodus*,*primaevus*,*Eocene (Wasatch, Wind River); Wyoming, New Mexico*
+*Phenacodus*,*suicatus*,*Eocene; New Mexico*
+*Phenacodus*,*vortmani*,*Eocene (Wasatch, Wind River); Wyoming*
+*Phlaocyon*,*leucosteus*,*Oligocene (White River); Colorado*
+*Phlegethontia*,*linearis*,*Coal-measures; Ohio*
+*Phlegethontia*,*serpens*,*Coal-measures; Ohio*
+*Phlyctaenacanthus*,*telleri*,*Devonian (Hamilton); Wisconsin, Iowa*
+*Phlyctaenaspis*,*acadica*,*Devonian; New Brunswick*
+*Phoca*,*groenlandica*,*Recent in Northern Atlantic and in Arctic Ocean around the poles.  Pleistocene; Canada, Maine*
+*Phoca*,*wymani*,*Miocene; Virginia*
+*Phoebodus*,*macisaacsii*,*Middle Devonian; Iowa*
+*Phoebodus*,*politus*,*Devonian (Cleveland shale); Ohio, Illinois*
+*Phoebodus*,*sophiae*,*Middle Devonian, Iowa*
+*Phoebodus*,*springeri*,*Subcarboniferous (Kinderhook); Iowa*
+*Phoenicopterus*,*copei*,*Pleistocene; Oregon*
+*Pholidophorus*,*americanus*,*Jurassic; South Dakota*
+*Phyllodus*,*curvidens*,*Miocene; New Jersey*
+*Phyllodus*,*elegans*,*Eocene; New Jersey*
+*Phyllodus*,*hipparionyx*,*Eocene; South Carolina*
+*Phyllolepis*,*delicatula*,*Devonian (Chemung); Pennsylvania*
+*Physeter*,*macrocephalus*,*Recent in warm seas: Pleistocene?; Louisiana.  "A doubtful fossil."*
+*Physeter*,*vetus*,*Pleistocene; South Carolina.  Miocene; North Carolina, Virginia, New Jersey*
+*Physonemus*,*carinatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Physonemus*,*chesterensis*,*Subcarboniferous (Chester); Illinois*
+*Physonemus*,*depressus*,*Subcarboniferous (Kinderhook); Iowa*
+*Physonemus*,*falcatus*,*Subcarboniferous (St. Louis); Missouri*
+*Physonemus*,*gigas*,*Subcarboniferous (Burlington); Illinois*
+*Physonemus*,*parvulus*,*Subcarboniferous (Keokuk); Missouri, Illinois*
+*Physonemus*,*proclivus*,*Subcarboniferous (Kinderhook); Iowa*
+*Physonemus*,*stellatus*,*Subcarboniferous (St. Louis); Indiana*
+*Phytosaurus*,*buceros*,*Triassic; New Mexico*
+*Phytosaurus*,*carolinensis*,*Triassic; North Carolina*
+*Phytosaurus*,*leaii*,*Triassic; North Carolina*
+*Phytosaurus*,*lepturus*,*Triassic; Pennsylvania*
+*Phytosaurus*,*priscus*,*Triassic; North Carolina*
+*Phytosaurus*,*scolopax*,*Triassic; New Mexico*
+*Phytosaurus*,*serridens*,*Triassic; Pennsylvania*
+*Phytosaurus*,*superciliosus*,*Triassic; Texas*
+*Phytosaurus*,*validus*,*Triassic; Connecticut*
+*Pipistrellus*,*anemophilus*,*Eocene (Wind River); Wyoming*
+*Piptomerus*,*hexagonus*,*Cretaceous (Fox Hills); N. Mexico*
+*Piptomerus*,*megaloporus*,*Cretaceous (Fox Hills); N. Mexico*
+*Piptomerus*,*microporus*,*Cretaceous (Fox Hills); N. Mexico*
+*Piratosaurus*,*plicatus*,*Cretaceous; Minnesota*
+*Placosaurus*,*sp. indet.*,*Eocene; New Mexico*
+*Plastomenus*,*communis*,*Eocene (Puerco?  and Wasatch); New Mexico*
+*Plastomenus*,*corrugatus*,*Eocene (Wasatch); New Mexico*
+*Plastomenus*,*costatus*,*Cretaceous (Laramie); Saskatchewan*
+*Plastomenus*,*fractus*,*Eocene (Wasatch); New Mexico*
+*Plastomenus*,*insignis*,*Cretaceous (Laramie); Colorado*
+*Plastomenus*,*lachrymalis*,*Eocene (Wasatch); New Mexico*
+*Plastomenus*,*molopinus*,*Eocene (Bridger); Wyoming: (Wasatch); New Mexico*
+*Plastomenus*,*oedemius*,*Eocene (Bridger); Wyoming*
+*Plastomenus*,*punctulatus*,*Cretaceous (Laramie); Colorado, South Dakota, Montana*
+*Plastomenus*,*serialis*,*Eocene (Wasatch); New Mexico*
+*Plastomenus*,*thomasii*,*Eocene (Bridger); Wyoming: (Wasatch); New Mexico*
+*Plastomenus*,*trionychoides*,*Eocene (Bridger); Wyoming*
+*Platacodon*,*nanus*,*Cretaceous (Laramie); Wyoming*
+*Platax*,*sp. indet.*,*Pliocene; South Carolina*
+*Platecarpus*,*tympaniticus*,*Cretaceous; Mississippi*
+*Platygonus*,*bicalcaratus*,*Pliocene (Blanco); Texas*
+*Platygonus*,*compressus*,*Pleistocene; Illinois, Indiana, Kentucky, Ohio, New York, Missouri, Iowa, Kansas*
+*Platygonus*,*condoni*,*Pliocene; Oregon*
+*Platygonus*,*leptorhinus*,*Pliocene; Kansas*
+*Platygonus*,*rex*,*Pliocene; Oregon*
+*Platygonus*,*striatus*,*Miocene (Loup Fork); Nebraska*
+*Platygonus*,*vetus*,*Pleistocene; Pennsylvania*
+*Platygonus*,*ziegleri*,*Eocene (Bridger); Wyoming*
+*Platyodus*,*lineatus*,*Subcarboniferous (Waverly); Kentucky*
+*Platypterna*,*concamerata*,*Triassic; Massachusetts*
+*Platypterna*,*delicatula*,*Triassic; Connecticut*
+*Platypterna*,*digitigrada*,*Triassic; Massachusetts*
+*Platypterna*,*recta*,*Triassic; Massachusetts*
+*Platypterna*,*tenuis*,*Triassic; Connecticut*
+*Platypterna*,*deaniana*,*Triassic; Connecticut*
+*Platypterna*,*gracillima*,*Triassic; Massachusetts*
+*Platyrhachis*,*coloradoensis*,*Oligocene (White River); Colorado*
+*Platyrhachis*,*rhambastes*,*Oligocene (White River); Colorado*
+*Platyrhachis*,*unipedalis*,*Oligocene (White River); Colorado*
+*Platysomus*,*circularis*,*Coal-measures; Illinois*
+*Platysomus*,*lacovianus*,*Coal-measures; Illinois*
+*Platysomus*,*orbicularis*,*Coal-measures; Illinois*
+*Platysomus*,*palmaris*,*Permian; Indian Territory*
+*Platystegos*,*loricatum*,*Coal-measures; Nova Scotia*
+*Platyxystrodus*,*bellulus*,*Lower Coal-measures; Illinois*
+*Platyxystrodus*,*imitatus*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Platyxystrodus*,*inconditus*,*Subcarboniferous (Keokuk); Illinois, Iowa*
+*Platyxystrodus*,*simplex*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Platyxystrodus*,*verus*,*Subcarboniferous (Chester); Illinois*
+*Plautus*,*impennis*,*Recently extinct; once an inhabitant of Newfoundland, Iceland, Denmark, etc.*
+*Plectropterna*,*angusta*,*Triassic; Massachusetts*
+*Plectropterna*,*elegans*,*Triassic; Connecticut*
+*Plectropterna*,*lineans*,*Triassic; Connecticut*
+*Plectropterna*,*minitans*,*Triassic; Connecticut, Massachusetts*
+*Plectropterna*,*gracilis*,*Triassic; Massachusetts, Connecticut*
+*Plesiochelys*,*belviderensis*,*Cretaceous (Comanche series); Kansas*
+*Plesiornis*,*giganteus*,*Triassic; Connecticut*
+*Plesiornis*,*minimus*,*Triassic; Massachusetts, Connecticut*
+*Plesiornis*,*minor*,*Triassic; Massachusetts*
+*Plesiornis*,*mirabilis*,*Triassic; Massachusetts*
+*Plesiornis*,*pilulatus*,*Triassic; Massachusetts*
+*Plesiosaurus*,*brevifemur*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Plesiosaurus*,*gouldii*,*Cretaceous (Comanche); Kansas*
+*Plesiosaurus*,*gulo*,*Cretaceous (Niobrara); Kansas*
+*Plesiosaurus*,*lockwoodii*,*Cretaceous (Clay No. 1); New Jersey*
+*Plesiosaurus*,*mudgei*,*Cretaceous (Neocomian); Kansas*
+*Plesiosaurus*,*shirleyensis*,*Jurassic (Shirley); Wyoming*
+*Pleuracanthus*,*arcuatus*,*Coal-measures; Ohio*
+*Pleuracanthus*,*biserialis*,*Coal-measures; Ohio*
+*Pleuracanthus*,*dilatatus*,*Coal-measures; Ohio*
+*Pleuracanthus*,*quadriseriatus*,*Permian; Illinois*
+*Pleurocoelus*,*altus*,*Jurassic (Potomac); Maryland*
+*Pleurocoelus*,*montanus*,*Formation and locality not given*
+*Pleurocoelus*,*nanus*,*Jurassic (Potomac); Maryland*
+*Pleurolicus*,*diplophysus*,*Miocene (John Day); Oregon*
+*Pleurolicus*,*leptophrys*,*Miocene (John Day); Oregon*
+*Pleurolicus*,*sulcifrons*,*Miocene (John Day); Oregon*
+*Pleuroptyx*,*clavatus*,*Coal-measures; Ohio*
+*Pliauchenia*,*humphreysiana*,*Miocene (Loup Fork); New Mexico, Kansas*
+*Pliauchenia*,*minima*,*Miocene (Loup Fork); Kansas*
+*Pliauchenia*,*spatula*,*Pliocene (Blanco); Texas*
+*Pliauchenia*,*vulcanorum*,*Miocene (Loup Fork); New Mexico*
+*Plinthicus*,*stenodon*,*Miocene; New Jersey*
+*Pliogonodon*,*priscus*,*Miocene?; North Carolina*
+*Pliohippus*,*gracilis*,*Pliocene; Oregon*
+*Pliohippus*,*pernix*,*Miocene (Loup Fork); Nebraska, Colorado*
+*Pliohippus*,*robustus*,*Miocene (Loup Fork); Nebraska*
+*Pliohippus*,*simplicidens*,*Pliocene (Palo Duro, Blanco); Texas*
+*Pliolophus*,*cristonensis*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Pliolophus*,*montanus*,*Eocene (Wasatch); Wyoming*
+*Plioplarchus*,*septemspinosus*,*Tertiary, below John Day beds; Oregon*
+*Plioplarchus*,*sexspinosus*,*Upper Cretaceous or Lower Tertiary; South Dakota*
+*Plioplarchus*,*whitei*,*Upper Cretaceous or Lower Tertiary; South Dakota*
+*Pneumatoarthrus*,*peloreus*,*Cretaceous; New Jersey*
+*Podilymbus*,*podiceps*,*Recent; North America: Pleistocene; Oregon*
+*Poebrotherium*,*eximium*,*Oligocene (White River); South Dakota*
+*Poebrotherium*,*labiatum*,*Oligocene (White River); Colorado, South Dakota*
+*Poebrotherium*,*wilsoni*,*Oligocene (White River); South Dakota, Nebraska*
+*Poecilodus*,*carbonarius*,*Upper Coal-measures; Illinois, Kansas*
+*Poecilodus*,*cestriensis*,*Subcarboniferous (Chester); Illinois*
+*Poecilodus*,*convolutus*,*Subcarboniferous (Keokuk); Illinois*
+*Poecilodus*,*sancti-ludovici*,*Subcarboniferous (St. Louis); Illinois, Missouri, Iowa*
+*Poecilodus*,*springeri*,*Subcarboniferous; New Mexico*
+*Poecilodus*,*varsoviensis*,*Subcarboniferous (Warsaw); Illinois*
+*Poecilodus*,*wortheni*,*Subcarboniferous (Chester); Illinois*
+*Pogonias*,*cromis*,*Recent; Long Island Sound to N. Mexico Sands of Ashley River; South Carolina*
+*Pogonias*,*multidentatus*,*Miocene; Virginia*
+*Pogonias*,*sp. indet.*,*Eocene?;  South Carolina*
+*Polemarchus*,*gigas*,*Triassic; Massachusetts, New Jersey, Pennsylvania*
+*Polycotylus*,*latipinnis*,*Cretaceous (Niobrara); Kansas, Nebraska*
+*Polygonodon*,*rectus*,*Miocene; North Carolina*
+*Polygonodon*,*vetus*,*Cretaceous; New Jersey*
+*Polymastodon*,*attenuatus*,*Eocene (Puerco); New Mexico*
+*Polymastodon*,*latimolis*,*Eocene (Puerco); New Mexico*
+*Polymastodon*,*selenodus*,*Eocene (Puerco); New Mexico*
+*Polymastodon*,*tao%Fensis*,*Eocene (Puerco); New Mexico*
+*Polyrhizodus*,*amplus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Polyrhizodus*,*carbonarius*,*Coal-measures; Illinois*
+*Polyrhizodus*,*concavus*,*Subcarboniferous (St. Louis); Illinois*
+*Polyrhizodus*,*dentatus*,*Subcarboniferous (Chester); Illinois*
+*Polyrhizodus*,*digitatus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Polyrhizodus*,*excavatus*,*Subcarboniferous (Chester); Illinois*
+*Polyrhizodus*,*inflexus*,*Subcarboniferous (Chester); Illinois*
+*Polyrhizodus*,*latus*,*Subcarboniferous (St. Louis); Illinois*
+*Polyrhizodus*,*littoni*,*Subcarboniferous (St. Louis); Missouri, Indiana*
+*Polyrhizodus*,*minimus*,*Subcarboniferous (St. Louis); Illinois*
+*Polyrhizodus*,*modestus*,*Subcarboniferous; Ohio*
+*Polyrhizodus*,*nanus*,*Subcarboniferous (Keokuk); Iowa*
+*Polyrhizodus*,*piasae%Fnsis*,*Subcarboniferous (Warsaw); Illinois*
+*Polyrhizodus*,*ponticulus*,*Subcarboniferous (Chester); Illinois*
+*Polyrhizodus*,*porosus*,*Subcarboniferous(Burlington); Illinois, Iowa*
+*Polyrhizodus*,*princeps*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Polyrhizodus*,*rectus*,*Subcarboniferous (St. Louis); Illinois*
+*Polyrhizodus*,*truncatus*,*Subcarboniferous (Burlington); Illinois*
+*Polyrhizodus*,*williamsi*,*Subcarboniferous (Keokuk); Missouri, Io*
+*Polythorax*,*missuriensis*,*Cretaceous (Laramie); Montana*
+*Pomatotherium*,*pachycephalum*,*Miocene (Loup Fork); Nebraska*
+*Pontobasileus*,*tuberculatus*,*Tertiary; Alabama*
+*Portheus*,*audax*,*Cretaceous (Niobrara); Kansas*
+*Portheus*,*brachygnathus*,*Cretaceous (Niobrara); Kansas*
+*Portheus*,*lestrio*,*Cretaceous (Niobrara); Kansas*
+*Portheus*,*lowii*,*Cretaceous (Benton); Kansas*
+*Portheus*,*molossus*,*Cretaceous (Niobrara); Kansas*
+*Portheus*,*mudgei*,*Cretaceous (Niobrara); Kansas*
+*Portheus*,*thaumas*,*Cretaceous (Niobrara); Kansas, Colorado?*
+*Priacodon*,*ferox*,*Jurassic; Wyoming*
+*Priscacara*,*clivosa*,*Eocene (Green River); Wyoming*
+*Priscacara*,*cypha*,*Eocene (Green River); Wyoming*
+*Priscacara*,*hypsacantha*,*Eocene (Green River); Wyoming*
+*Priscacara*,*liops*,*Eocene (Green River); Wyoming*
+*Priscacara*,*oxyprion*,*Eocene (Green River); Wyoming*
+*Priscacara*,*pealei*,*Eocene (Green River); Wyoming*
+*Priscacara*,*serrata*,*Eocene (Green River); Wyoming*
+*Priscacara*,*testudinaria*,*Eocene (Manti); Utah*
+*Priscodelphinus*,*gabbii*,*Miocene; Maryland*
+*Priscodelphinus*,*grandaevus*,*Miocene; New Jersey*
+*Priscodelphinus*,*harlani*,*Miocene; New Jersey*
+*Priscodelphinus*,*lacertosus*,*Miocene; Maryland*
+*Priscodelphinus*,*ruschenbergeri*,*Miocene; Maryland*
+*Priscodelphinus*,*uraeus*,*Miocene; New Jersey, Maryland*
+*Pristis*,*agassizi*,*Eocene; South Carolina*
+*Pristis*,*amblodon*,*Eocene; New Jersey*
+*Pristis*,*attenuatus*,*Tertiary; North Carolina*
+*Pristis*,*brachyodon*,*Cretaceous (Greensand); Virginia: Miocene; North Carolina*
+*Pristis*,*curvidens*,*Cretaceous (Greensand); New Jersey*
+*Pristis*,*ensidens*,*Phosphate beds; South Carolina*
+*Proballostomus*,*longulus*,*Oligocene?; S. Dakota*
+*Procamelus*,*altus*,*Miocene; Oregon, Colorado*
+*Procamelus*,*angustidens*,*Miocene (Loup Fork); Colorado, Kansas*
+*Procamelus*,*fissidens*,*Miocene (Loup Fork); Colorado*
+*Procamelus*,*gracilis*,*Miocene (Loup Fork); Nebraska, New Mexico, Texas*
+*Procamelus*,*heterodontus*,*Miocene (Loup. Fork); Colorado*
+*Procamelus*,*lacustris*,*Miocene; Montana*
+*Procamelus*,*leptognathus*,*Miocene (Loup Fork); Texas*
+*Procamelus*,*madisonius*,*Miocene; Montana*
+*Procamelus*,*major*,*Pliocene; Florida*
+*Procamelus*,*minimus*,*Pliocene; Florida*
+*Procamelus*,*minor*,*Pliocene; Florida*
+*Procamelus*,*montanus*,*Miocene; Montana*
+*Procamelus*,*occidentalis*,*Miocene (Loup Fork); South Dakota, Nebraska, New Mexico, Texas*
+*Procamelus*,*robustus*,*Miocene (Loup Fork); Nebraska, Kansas, Texas, New Mexico*
+*Procamelus*,*virginiensis*,*Miocene; Virginia*
+*Procynodictis*,*vulpiceps*,*Eocene (Uinta); Utah*
+*Procyon*,*lotor*,*Recent; Central and North America.  Pleistocene; South Carolina, Virginia, Pennsylvania, New Jersey*
+*Procyon*,*priscus*,*Pleistocene; Galena, Illinois*
+*Prodaphaenus*,*scotti*,*Eocene (Uinta); Wyoming*
+*Prodaphaenus*,*uintensis*,*Eocene (Uinta); Utah*
+*Proroziphius*,*chonops*,*Tertiary (Phosphate beds); South Carolina*
+*Proroziphius*,*macrops*,*Tertiary (Phosphate beds); South Carolina*
+*Prosinopa*,*eximia*,*Eocene (Bridger); Wyoming*
+*Prospiraxis*,*major*,*Devonian (Chemung); Ohio, New York*
+*Prospiraxis*,*randallii*,*Devonian (Chemung); Pennsylvania New York*
+*Protagras*,*lacustris*,*Eocene (Bridger); Wyoming*
+*Protagriochoerus*,*annectens*,*Eocene (Uinta); Utah*
+*Protapirus*,*obliquidens*,*Oligocene (White River); South Dakota*
+*Protapirus*,*simplex*,*Oligocene (White River); South Dakota*
+*Protapirus*,*validus*,*Oligocene (White River); South Dakota*
+*Protautoga*,*conidens*,*Miocene; Virginia*
+*Protelotherium*,*unitense*,*Eocene (Uinta); Utah*
+*Proteosaurus*,*sp. indet.*,*Jurassic; Exmouth Island (lat. 77[deg] 16' N., long. 96[deg] W.)*
+*Protocatostomus*,*constablei*,*Eocene; Wyoming*
+*Protoceras*,*celer*,*Oligocene (White River); South Dakota*
+*Protoceras*,*comptus*,*Oligocene (White River); South Dakota*
+*Protoceras*,*nasutus*,*Oligocene (White River); South Dakota*
+*Protodus*,*jexi*,*Lower Devonian; New Brunswick*
+*Protogonodon*,*pentacus*,*Eocene (Puerco); New Mexico*
+*Protogonodon*,*stenognathus*,*Eocene (Puerco); New Mexico*
+*Protolambda*,*hatcheri*,*Cretaceous (Laramie) Wyoming*
+*Protomeryx*,*cameloides*,*Miocene (John Day); Oregon*
+*Protomeryx*,*halli*,*Oligocene (White River); South Dakota, Colorado*
+*Protomeryx*,*sternbergii*,*Miocene (John Day); Oregon*
+*Protoptychus*,*hatcheri*,*Eocene (Uinta); Utah*
+*Protoreodon*,*minor*,*Eocene (Uinta); Utah*
+*Protoreodon*,*paradoxicus*,*Eocene (Uinta); Utah*
+*Protoreodon*,*parvus*,*Eocene (Uinta); Utah*
+*Protoreodon*,*sp. indet.*,*Eocene (Uinta); Utah*
+*Protorohippus*,*venticolus*,*Eocene (Wind River); Wyoming, Colorado*
+*Protoselene*,*opisthaca*,*Eocene (Torrejon); New Mexico*
+*Protosorex*,*crassus*,*Oligocene (White River); South Dakota*
+*Protosphyraena*,*angulata*,*Cretaceous; North Carolina*
+*Protosphyraena*,*bentoniana*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*chirurgus*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*dimidiata*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*gigas*,*Cretaceous (Pierre); Kansas*
+*Protosphyraena*,*gladius*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*nitida*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*obliquidens*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*penetrans*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*perniciosa*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*recurvirostris*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*tenuis*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*ziphioides*,*Cretaceous (Niobrara); Kansas*
+*Protosphyraena*,*occidentalis*,*Cretaceous (Niobrara); Kansas*
+*Protostega*,*gigas*,*Cretaceous (Niobrara); Kansas*
+*Protylopus*,*petersoni*,*Eocene (Uinta); Utah*
+*Proviverra*,*americana*,*Eocene (Bridger); Wyoming*
+*Psammodus*,*angularis*,*Subcarboniferous (Chester); Illinois*
+*Psammodus*,*antiquus*,*Devonian (Corniferous); Ohio*
+*Psammodus*,*caelatus*,*Subcarboniferous (St. Louis); Iowa, Missouri (fide Hambach)*
+*Psammodus*,*crassidens*,*Subcarbonferous (St. Louis); Illinois, Iowa*
+*Psammodus*,*glyptus*,*Subcarboniferous (Burlington); Illinois*
+*Psammodus*,*grandis*,*Subcarboniferous (Keokuk); Iowa*
+*Psammodus*,*lovianus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Psammodus*,*plenus*,*Subcarboniferous (St. Louis); Missouri, Illinois, Michigan*
+*Psammodus*,*reticulatus*,*Subcarboniferous (Chester); Illinois, Missouri (fide Hambach)*
+*Psammodus*,*springeri*,*Subcarboniferous (Burlington); Iowa, Illinois*
+*Psammodus*,*tumidus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Psammodus*,*turgidus*,*Subcarboniferous (division beds of Burlington and Keokuk); Iowa*
+*Psammodus*,*sp*,*Coal-measures; Nova Scotia*
+*Psephodus*,*crenulatus*,*Subcarboniferous (Chester); Illinois, Kentucky, Missouri, Indiana*
+*Psephodus*,*latus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Psephodus*,*lunulatus*,*Subcarboniferous (Chester); Illinois*
+*Psephodus*,*obliquus*,*Subcarboniferous (Kinderhook); Iowa*
+*Psephodus*,*placenta*,*Subcarboniferous (Kinderhook); Iowa*
+*Psephodus*,*politus*,*Subcarboniferous (Burlington); Illinois*
+*Psephodus*,*regularis*,*Subcarboniferous (Warsaw); Indiana*
+*Psephodus*,*reticulatus*,*Subcarboniferous (Kinderhook); Iowa*
+*Psephodus*,*symmetricus*,*Subcarboniferous (Kinderhook); Iowa*
+*Pseudaelurus*,*intrepidus*,*Miocene (Loup Fork); Nebraska, Colorado*
+*Psittacotherium*,*multifragum*,*Eocene (Puerco); New Mexico*
+*Pteranodon*,*comptus*,*Cretaceous (Niobrara); Kansas*
+*Pteranodon*,*ingens*,*Cretaceous (Niobrara); Kansas*
+*Pteranodon*,*longiceps*,*Cretaceous; Kansas*
+*Pteranodon*,*nanus*,*Cretaceous; Kansas*
+*Pteranodon*,*occidentalis*,*Cretaceous (Niobrara); Kansas*
+*Pteranodon*,*velox*,*Cretaceous (Niobrara); Kansas*
+*Pteropelyx*,*grallipes*,*Cretaceous; (Laramie) Montana*
+*Pterosphenus*,*schucherti*,*Eocene (Jackson); Alabama*
+*Ptilodus*,*mediaevus*,*Eocene (Torrejon); New Mexico*
+*Ptilodus*,*trouessartianus*,*Eocene (Torrejon); New Mexico*
+*Ptychodus*,*decurrens*,*Cretaceous; England, France, Germany; also from Kearns Can%Eon, Arizona (specimen in U. S. National*
+*Ptychodus*,*janevaii*,*Cretaceous (Niobrara); Kansas*
+*Ptychodus*,*mammillaris*,*Cretaceous; Europe, Delaware*
+*Ptychodus*,*martini*,*Cretaceous (Niobrara); Kansas*
+*Ptychodus*,*occidentalis*,*Cretaceous (Niobrara); Kansas*
+*Ptychodus*,*papillosus*,*Cretaceous; Colorado*
+*Ptychodus*,*parvulus*,*Cretaceous (Niobrara); Manitoba*
+*Ptychodus*,*polygyrus*,*Cretaceous; Alabama, Kansas*
+*Ptychodus*,*whipplei*,*Cretaceous (Niobrara); Kansas, Colorado, New Mexico*
+*Ptychodus*,*sp. indet.*,*Cretaceous (Benton); Kansas*
+*Ptycholepis*,*marshii*,*Triassic; Connecticut*
+*Ptyctodus*,*calceolus*,*Devonian (Hamilton); Illinois, Iowa, Missouri, Manitoba*
+*Ptyctodus*,*compressus*,*Devonian (Hamilton); Wisconsin*
+*Ptyctodus*,*ferox*,*Devonian (Hamilton); Wisconsin*
+*Ptyonius*,*marshii*,*Coal-measures; Ohio*
+*Ptyonius*,*nummifer*,*Coal-measures; Ohio*
+*Ptyonius*,*pectinatus*,*Coal-measures; Ohio; Bohemia?*
+*Ptyonius*,*serrula*,*Coal-measures; Ohio*
+*Ptyonius*,*vinchellianus*,*Coal-measures; Ohio*
+*Puffinus*,*conradi*,*Miocene; Maryland*
+*Puppigerus*,*grandaevus*,*Miocene; New Jersey*
+*Puppigerus*,*parvitectus*,*Miocene; New Jersey, Maryland*
+*Putorius*,*nambianus*,*Miocene (Loup Fork); New Mexico*
+*Putorius*,*vison*,*Recent; North America.  In caves of Pennsylvania, fide Allen*
+*Pycnodus*,*carolinensis*,*Miocene; North Carolina*
+*Pycnodus*,*phaseolus*,*Cretaceous; Mississippi, New Jersey*
+*Pycnodus*,*robustus*,*Cretaceous; New Jersey*
+*Pycnodus*,*sp. indet.*,*Triassic (Chatham); North Carolina*
+*Pygopterus*,*humboldti*,*Permian; Europe: Triassic; Pennsylvania?*
+*Rabdiolepis*,*speciosa*,*Triassic (Chatham); North Carolina, Pennsylvania*
+*Raja*,*dux*,*Miocene; Maryland*
+*Rana*,*sp. indet.*,*Pleistocene; Pennsylvania*
+*Rangifer*,*caribou*,*Recent; Newfoundland to Alaska; not on Arctic coasts.  Pleistocene; New England, New York, New Jerse*
+*Rangifer*,*tarandus*,*Recent in northern Europe and northern America.  Pleistocene in Alaska.  Has been reported from New-*
+*Redfieldius*,*anguilliformis*,*Triassic; Connecticut, New Jersey*
+*Redfieldius*,*gracilis*,*Triassic; Connecticut, Massachusetts, New Jersey*
+*Redfieldius*,*minor*,*Triassic; Connecticut*
+*Redfieldius*,*ornatus*,*Triassic; Connecticut*
+*Redfieldius*,*parvulus*,*Triassic; Connecticut*
+*Redfieldius*,*redfieldi*,*Triassic; Connecticut, New Jersey*
+*Rhabdofario*,*lacustris*,*Pleistocene; Idaho*
+*Rhabdopelix*,*longispinis*,*Triassic; Pennsylvania*
+*Rhabdosteus*,*latiradix*,*Miocene; Maryland*
+*Rhadinichthys*,*alberti*,*Subcarboniferous; New Brunswick*
+*Rhadinichthys*,*cairnsii*,*Subcarboniferous; New Brunswick*
+*Rhadinichthys*,*gracilis*,*Coal-measures; Illinois*
+*Rhadinichthys*,*leidyianus*,*Coal-measures; Pennsylvania*
+*Rhadinichthys*,*lineatus*,*Coal-measures; Ohio*
+*Rhadinichthys*,*modulus*,*Subcarboniferous; New Brunswick*
+*Rhegnopsis*,*palaeatlanticus*,*Miocene; Virginia*
+*Rhineastes*,*arcuatus*,*Eocene (Bridger); Wyoming*
+*Rhineastes*,*calvus*,*Eocene (Bridger); Wyoming*
+*Rhineastes*,*pectinatus*,*Tertiary (Eocene?); Colorado*
+*Rhineastes*,*peltatus*,*Eocene (Bridger); Wyoming*
+*Rhineastes*,*radulus*,*Eocene (Bridger); Wyoming*
+*Rhineastes*,*rhaeas*,*Oligocene or Lower Miocene; Northwest Territory, Canada*
+*Rhineastes*,*smithii*,*Eocene (Bridger); Wyoming*
+*Rhineura*,*hatcherii*,*Oligocene (White River); South Dakota*
+*Rhinoptera*,*dubia*,*Phosphate beds; South Carolina*
+*Rhinoptera*,*sp. indet.*,*Miocene; California*
+*Rhizodopsis*,*mazonius*,*Coal-measures, Illinois*
+*Rhynchodus*,*excavatus*,*Devonian (Hamilton); Wisconsin, Iowa*
+*Rhynchodus*,*occidentalis*,*Devonian (Hamilton); Iowa*
+*Rhynchodus*,*secans*,*Devonian (Corniferous); Ohio*
+*Rhynchodus*,*sp. indet.*,*Devonian; Manitoba*
+*Rutilus*,*altarcus*,*Pleistocene (Equus); Oregon*
+*Rutilus*,*condonianus*,*Pleistocene (Equus); Oregon*
+*Rutilus*,*gibbarcus*,*Pleistocene (Equus); Oregon*
+*Rutilus*,*latus*,*Pleistocene (Equus); Idaho*
+*Sagenodus*,*angustus*,*Devonian (Chemung); Pennsylvania*
+*Sagenodus*,*copeanus*,*Coal-measures; Kansas*
+*Sagenodus*,*dialophus*,*Permian; Texas*
+*Sagenodus*,*foliatus*,*Coal-measures; Illinois*
+*Sagenodus*,*fossatus*,*Permian; Illinois*
+*Sagenodus*,*gurleyanus*,*Permian; Illinois*
+*Sagenodus*,*heterolophus*,*Permian; Illinois*
+*Sagenodus*,*jugosus*,*Coal-measures; Ohio*
+*Sagenodus*,*lacovianus*,*Coal-measures; Illinois*
+*Sagenodus*,*occidentalis*,*Coal-measures; Illinois*
+*Sagenodus*,*ohionensis*,*Coal-measures; Ohio*
+*Sagenodus*,*paucicristatus*,*Permian; Illinois*
+*Sagenodus*,*periprion*,*Permian; Texas*
+*Sagenodus*,*porrectus*,*Permian; Texas*
+*Sagenodus*,*pusillus*,*Permian; Illinois*
+*Sagenodus*,*quadratus*,*Coal-measures; Ohio, Illinois*
+*Sagenodus*,*quincunciatus*,*Coal-measures; Illinois*
+*Sagenodus*,*reticulatus*,*Coal-measures; Illinois*
+*Sagenodus*,*serratus*,*Coal-measures; Ohio*
+*Sagenodus*,*textilis*,*Coal-measures; Illinois*
+*Sagenodus*,*vabasensis*,*Permian; Illinois*
+*Sagenodus*,*vinslovii*,*Permian; Illinois*
+*Sandalodus*,*angustus*,*Subcarboniferous (Keokuk); Illinois*
+*Sandalodus*,*crassus*,*Subcarboniferous; Illinois, Iowa, Missouri, Indiana*
+*Sandalodus*,*ellipticus*,*Subcarboniferous (Kinderhook); Iowa*
+*Sandalodus*,*minor*,*Subcarboniferous (Keokuk); Illinois, (St. Louis,) Indiana*
+*Sandalodus*,*parvulus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Sandalodus*,*rhomboideus*,*Subcarboniferous (St. Louis), Illinois, Missouri*
+*Saniwa*,*ensidens*,*Eocene (Bridger); Wyoming*
+*Saniwa*,*major*,*Eocene (Bridger); Wyoming*
+*Sarcolemur*,*crassus*,*Eocene (Wasatch); New Mexico*
+*Sarcolemur*,*mentalis*,*Eocene (Wasatch); New Mexico*
+*Sarcolemur*,*pygmaeus*,*Eocene (Bridger); Wyoming*
+*Sarcothraustes*,*antiquus*,*Eocene (Torrejon); New Mexico*
+*Sardinius*,*blackburnii*,*Oligocene?; S. Dakota*
+*Sardinius*,*lineatus*,*Cretaceous (Niobrara); S. Dakota*
+*Sardinius*,*nasutulus*,*Cretaceous (Niobrara); S. Dakota*
+*Sardinius*,*percrassus*,*Cretaceous (Niobrara); S. Dakota*
+*Sauripteris*,*taylori*,*Devonian (Catskill); Pennsylvania*
+*Saurocephalus*,*arapahovius*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*broadheadi*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*dentatus*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*ferox*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*lanciformis*,*Cretaceous (Niobrara); Nebraska, Kansas*
+*Saurocephalus*,*leanus*,*Cretaceous; New Jersey*
+*Saurocephalus*,*pamphagus*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*phlebotomus*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*pygmaeus*,*Cretaceous (Niobrara); Kansas*
+*Saurocephalus*,*xiphirostris*,*Cretaceous (Niobrara); Kansas*
+*Saurocetus*,*gibbesii*,*Eocene; South Carolina*
+*Sauropleura*,*digitata*,*Coal-measures; Ohio*
+*Sauropleura*,*foveata*,*Coal-measures; Ohio*
+*Sauropleura*,*latithorax*,*Coal-measures; Ohio*
+*Sauropleura*,*newberryi*,*Coal-measures; Ohio*
+*Sauropleura*,*pauciradiata*,*Coal-measures; Ohio*
+*Sauropleura*,*scutellata*,*Coal-measures; Ohio*
+*Sauropus*,*barrattii*,*Triassic; Connecticut, Massachusetts*
+*Sauropus*,*ingens*,*Triassic; New Jersey*
+*Scalops*,*sp. indet.*,*Pleistocene; Pennsylvania*
+*Scapherpeton*,*excisum*,*Cretaceous (Laramie); Montana*
+*Scapherpeton*,*favosum*,*Cretaceous (Laramie); Montana*
+*Scapherpeton*,*laticolle*,*Cretaceous (Laramie); Montana*
+*Scapherpeton*,*tectum*,*Cretaceous (Laramie); Montana*
+*Scaumenacia*,*curta*,*Devonian (Upper); Canada*
+*Sciurus*,*ballovianus*,*Miocene (John Day); Oregon*
+*Sciurus*,*panolius*,*Pleistocene; Virginia*
+*Sciurus*,*relictus*,*Oligocene (White River); Colorado*
+*Sciurus*,*vortmani*,*Miocene (John Day): Oregon, Colorado*
+*Scolecophagus*,*affinis*,*Pleistocene; Oregon*
+*Scylliorhinus*,*gracilis*,*Cretaceous (Greenleaf sandstone); Kansas*
+*Scylliorhinus*,*planidens*,*Cretaceous (Greenleaf sandstone); Kansas*
+*Scylliorhinus*,*rugosus*,*Cretaceous (Greenleaf sandstone); Kansas*
+*Scymnorhinus*,*occidentalis*,*Miocene; California*
+*Sebastodes*,*rosae*,*Tertiary; California*
+*Selenichnus*,*breviusculus*,*Triassic; Massachusetts*
+*Selenichnus*,*falcatus*,*Triassic; Massachusetts*
+*Semionotus*,*agassizii*,*Triassic; New Jersey*
+*Semionotus*,*alatus*,*Triassic; New Jersey*
+*Semionotus*,*braunii*,*Triassic; New Jersey*
+*Semionotus*,*elegans*,*Triassic; New Jersey*
+*Semionotus*,*fultus*,*Triassic; Massachusetts, Connecticut, New Jersey*
+*Semionotus*,*gigas*,*Triassic; New Jersey*
+*Semionotus*,*lenticularis*,*Triassic; New Jersey*
+*Semionotus*,*lineatus*,*Triassic; New Jersey*
+*Semionotus*,*marshii*,*Triassic; Massachusetts*
+*Semionotus*,*micropterus*,*Triassic; Connecticut*
+*Semionotus*,*minutus*,*Triassic; Connecticut*
+*Semionotus*,*modestus*,*Triassic; New Jersey*
+*Semionotus*,*ovatus*,*Triassic; Massachusetts, New Jersey*
+*Semionotus*,*parvus*,*Triassic; Massachusetts*
+*Semionotus*,*robustus*,*Triassic; New Jersey*
+*Semionotus*,*tenuiceps*,*Triassic; Massachusetts, Connecticut, New Jersey*
+*Shastasaurus*,*pacificus*,*Triassic; California*
+*Shepardia*,*palmipes*,*Triassic; Massachusetts*
+*Sigmogomphius*,*lecontei*,*Pliocene; California*
+*Sillimanius*,*gracilior*,*Triassic; Connecticut*
+*Sillimanius*,*tetradactylus*,*Triassic; Massachusetts, Connecticut*
+*Siphonocetus*,*clarkianus*,*Miocene; Maryland*
+*Siphonocetus*,*expansus*,*Miocene; Virginia, Maryland*
+*Siphonocetus*,*priscus*,*Miocene; Virginia*
+*Sironectes*,*anguliferus*,*Cretaceous (Niobrara); Kansas*
+*Smilerpeton*,*aciedentatum*,*Coal-measures; Nova Scotia*
+*Smilodon*,*fatalis*,*Pleistocene; Texas*
+*Smilodon*,*floridanus*,*Pleistocene; Florida*
+*Spaniodon*,*simus*,*Cretaceous (Niobrara); S. Dakota*
+*Sparodus*,*sp. indet.*,*Coal-measures; Nova Scotia*
+*Spatula*,*clypeata*,*Recent; North America, Europe, Asia: Pleistocene; Oregon*
+*Sphagepoea*,*aciculata*,*Cretaceous; New Jersey*
+*Sphenacodon*,*ferox*,*Permian; New Mexico*
+*Sphenocoelus*,*uintensis*,*Eocene (Unita); Utah*
+*Sphenodus*,*rectidens*,*Cretaceous; North Carolina*
+*Sphyraena*,*major*,*Sands of Ashley River; South Carolina*
+*Sphyrna*,*gibbesii*,*Eocene; South Carolina, North Carolina*
+*Sphyrna*,*lata*,*Tertiary; Virginia: Eocene; South Carolina*
+*Sphyrna*,*magna*,*Miocene; Virginia*
+*Sphyrna*,*prisca*,*Miocene; Europe, Maryland, New Jersey, North Carolina, South Carolina*
+*Spilogale*,*perdicida*,*Pleistocene; Virginia*
+*Squalodon*,*atlanticus*,*Miocene; New Jersey, Maryland*
+*Squalodon*,*debilis*,*Eocenc; South Carolina*
+*Squalodon*,*holmesii*,*Eocene; South Carolina*
+*Squalodon*,*modestus*,*Eocene; South Carolina*
+*Squalodon*,*pelagius*,*Eocene; South Carolina*
+*Squalodon*,*protervus*,*Eocene; South Carolina*
+*Squalodon*,*tiedemani*,*Eocene; South Carolina*
+*Stagodon*,*nitor*,*Cretaceous (Laramie); Wyoming*
+*Stagodon*,*tumidus*,*Cretaceous (Laramie); Wyoming*
+*Stagodon*,*validus*,*Cretaceous (Laramie); Wyoming*
+*Stegomus*,*arcuatus*,*Triassic; Connecticut*
+*Stegosaurus*,*affinis*,*Jurassic; Wyoming*
+*Stegosaurus*,*armatus*,*Jurassic; Colorado*
+*Stegosaurus*,*discurus*,*Jurassic; Colorado*
+*Stegosaurus*,*duplex*,*Jurassic; Wyoming*
+*Stegosaurus*,*seeleyanus*,*Jurassic; Colorado*
+*Stegosaurus*,*stenops*,*Jurassic; Colorado*
+*Stegosaurus*,*sulcatus*,*Jurassic; Colorado*
+*Stegosaurus*,*ungulatus*,*Jurassic; Wyoming*
+*Stemmatias*,*bicristatus*,*Subcarboniferous (Burlington); Iowa*
+*Stemmatias*,*bifurcatus*,*Subcarboniferous (Burlington); Iowa*
+*Stemmatias*,*cheiriformis*,*Subcarboniferous (Burlington); Iowa*
+*Stemmatias*,*compactus*,*Subcarboniferous (Chester); Illinois*
+*Stemmatias*,*keokuk*,*Subcarboniferous (Keokuk); Iowa, Illinois*
+*Stemmatias*,*simplex*,*Subcarboniferous (Burlington); Iowa*
+*Stemmatias*,*symmetricus*,*Subcarboniferous (Burlington); Iowa*
+*Stenacodon*,*rarus*,*Eocene (Bridger); Wyoming*
+*Steneofiber*,*gradatus*,*Miocene (John Day); Oregon*
+*Steneofiber*,*montanus*,*Oligocene (White River); Montana*
+*Steneofiber*,*nebrascensis*,*Oligocene (White River); South Dakota, Nebraska, North Dakota*
+*Steneofiber*,*pansus*,*Miocene (Loup Fork); New Mexico, Nebraska*
+*Steneofiber*,*peninsulatus*,*Miocene (John Day); Oregon*
+*Stenodactylus*,*curvatus*,*Triassic; Massachusetts*
+*Stenogale*,*robusta*,*Miocene (Loup Fork); Nebraska*
+*Stenognathus*,*corrugatus*,*Devonian (Cleveland shale); Ohio*
+*Stenopterodus*,*elongatus*,*Subcarboniferous (Warsaw); Illinois*
+*Stenopterodus*,*planus*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Stenopterodus*,*spindet*,*Subcarboniferous (Keokuk); Illinois*
+*Sterna*,*elegans*,*Recent; New England to California and Brazil: Pleistocene; Oregon*
+*Sterna*,*forsteri*,*Recent; North America: Pleistocene; Oregon*
+*Steropoides*,*elegans*,*Triassic; Massachusetts*
+*Steropoides*,*ingens*,*Triassic; Massachusetts, New Jersey*
+*Steropoides*,*loripes*,*Triassic; Massachusetts*
+*Steropoides*,*infelix*,*Triassic; Massachusetts*
+*Steropoides*,*uncus*,*Triassic; Massachusetts*
+*Sterrholophus*,*flabellatus*,*Cretaceous (Laramie); Wyoming*
+*Stethacanthus*,*altonensis*,*Subcarboniferous (St. Louis); Illinois*
+*Stethacanthus*,*compressus*,*Subcarboniferous (Burlington); Iowa*
+*Stethacanthus*,*productus*,*Subcarboniferous (Burlington); Iowa*
+*Stethacanthus*,*tumidus*,*Devonian (Cleveland shale); Ohio, Pennsylvania*
+*Stibarus*,*obtusilobus*,*Oligocene (White River); Colorado*
+*Stratodus*,*apicalis*,*Cretaceous (Niobrara); Kansas*
+*Stratodus*,*oxypogon*,*Cretaceous (Niobrara); Kansas*
+*Strepsodus*,*arenosus*,*Subcarboniferous; Pennsylvania*
+*Strepsodus*,*dawsoni*,*Coal-measures; Nova Scotia*
+*Strepsodus*,*hardingi*,*Subcarboniferous; Nova Scotia*
+*Stylacodon*,*gracilis*,*Jurassic; Wyoming*
+*Stylacodon*,*validus*,*Jurassic; Wyoming*
+*Stylemys*,*niobrarensis*,*Miocene; South Dakota*
+*Stylemys*,*oregorensis*,*Miocene (John Day); Oregon*
+*Stylinodon*,*cylindrifer*,*Eocene (Wind River, Bridger); Wyoming*
+*Stylinodon*,*mirus*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*aculeatus*,*Eocene (Wasatch); New Mexico*
+*Stypolophus*,*agilis*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*hians*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Stypolophus*,*insectivorus*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*multicuspis*,*Eocene (Wasatch); New Mexico*
+*Stypolophus*,*pungens*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*rapax*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*secundarius*,*Eocene (Wasatch); New Mexico*
+*Stypolophus*,*strenuus*,*Eocene (Wasatch); New Mexico, Wyoming*
+*Stypolophus*,*verus*,*Eocene (Bridger); Wyoming*
+*Stypolophus*,*viverrinus*,*Eocene (Wasatch, Wind River); New Mexico, Wyoming*
+*Stypolophus*,*whiteae*,*Eocene (Wasatch and Wind River); Wyoming*
+*Stypolophus*,*brevicalcaratus*,*Eocene (Bridger); Wyoming*
+*Styptobasis*,*aculeata*,*Coal-measures; Illinois*
+*Styptobasis*,*knightiana*,*Permian; Nebraska*
+*Suchoprion*,*aulacodus*,*Triassic; Pennsylvania*
+*Suchoprion*,*cyphodon*,*Triassic; Pennsylvania*
+*Suchoprion*,*sulcidens*,*Triassic; Pennsylvania*
+*Sula*,*loxostyla*,*Miocene; North Carolina*
+*Sycium*,*cloacinum*,*Pleistocene; Pennsylvania*
+*Syllaemus*,*latifrons*,*Cretaceous; New Mexico?:  Cretaceous (Benton); Kansas*
+*Syllomus*,*crispatus*,*Neocene; Virginia*
+*Symborodon*,*acer*,*Oligocene (White River); Colorado, Nebraska, South Dakota, Canada*
+*Symborodon*,*montanus*,*Oligocene (White River); South Dakota*
+*Symborodon*,*torvus*,*Oligocene (White River); Colorado, South Dakota, Nebraska*
+*Symmorium*,*reniforme*,*Coal-measures; Illinois*
+*Symphyrophus*,*musculosus*,*Jurassic; Colorado*
+*Synconodon*,*sexcuspis*,*Cretaceous (Laramie) Wyoming*
+*Syntegmodus*,*altus*,*Cretaceous (Niobrara); Kansas*
+*Synthetodus*,*trisulcatus*,*Upper Devonian; Iowa*
+*Taeniolabis*,*sulcatus*,*Eocene (Puerco); New Mexico*
+*Talpavus*,*nitidus*,*Eocene (Bridger); Wyoming*
+*Tamias*,*laevidens*,*Pleistocene; Virginia*
+*Tamiobatis*,*vetustus*,*Devonian?;  Kentucky*
+*Tanaodus*,*angularis*,*Coal-measures; Illinois*
+*Tanaodus*,*bellicinctus*,*Subcarboniferous (Chester); Illinois*
+*Tanaodus*,*depressus*,*Subcarboniferous (Chester); Illinois*
+*Tanaodus*,*gracillimus*,*Subcarboniferous (Burlington); Iowa*
+*Tanaodus*,*grossiplicatus*,*Subcarboniferous (Chester); Illinois*
+*Tanaodus*,*multiplicatus*,*Subcarboniferous (Burlington); Iowa.  Also in Subcarboniferous of Belgium*
+*Tanaodus*,*obscurus*,*Coal-measures; Illinois*
+*Tanaodus*,*polymorphus*,*Subcarboniferous (Chester); Illinois*
+*Tanaodus*,*praenuntius*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Tanaodus*,*pumilis*,*Subcarboniferous (St. Louis); Illinois, Iowa*
+*Tanaodus*,*sculptus*,*Subcarboniferous (St. Louis); Illinois, Iowa, Missouri*
+*Tanaodus*,*sublunatus*,*Subcarboniferous (St. Louis); Illinois*
+*Tanyops*,*undans*,*Miocene; South Dakota*
+*Taphrosphys*,*leslianus*,*Cretaceous (Green-sand); New Jersey*
+*Taphrosphys*,*longinuchus*,*Cretaceous (Green-sand); New Jersey*
+*Taphrosphys*,*molops*,*Cretaceous (Green-sand); New Jersey*
+*Taphrosphys*,*nodosus*,*Cretaceous (Green-sand); New Jersey*
+*Taphrosphys*,*strenuus*,*Cretaceous (Green-sand); New Jersey, Georgia, North Carolina*
+*Taphrosphys*,*sulcatus*,*Cretaceous (Green-sand); New Jersey*
+*Tapiravus*,*rarus*,*"Pliocene"; Rocky Mountain region*
+*Tapiravus*,*validus*,*Miocene; New Jersey*
+*Tapirus*,*haysii*,*Pleistocene; South Carolina, Mississippi, Virginia, Pennsylvania, Indiana*
+*Tapirus*,*terrestris*,*Pleistocene; Virginia, Illinois, California, Texas, Louisiana, Kentucky, Mississippi, Indiana, Ohio,*
+*Tarsodactylus*,*caudatus*,*Triassic; Massachusetts*
+*Tarsodactylus*,*expansus*,*Triassic; Massachusetts*
+*Taxidea*,*taxus*,*Recent.  Ohio to Oklahoma, north to Hudson Bay.  Pleistocene; Pennsylvania*
+*Taxidea*,*sulcata*,*Pleistocene (Equus beds); State of Washington*
+*Taxymys*,*lucaris*,*Eocene (Bridger); Wyoming*
+*Tayassu*,*hesperius*,*Pliocene; Oregon*
+*Tayassu*,*nasutus*,*Pleistocene; Indiana, New Jersey*
+*Tayassu*,*pennsylvanicus*,*Pleistocene; Pennsylvania*
+*Tayassu*,*serus*,*Miocene (Loup Fork); Kansas*
+*Tayassu*,*tajacu*,*Living; South America, Central America, North America to Arkansas: Pleistocene; South Carolina, Mary*
+*Tayassu*,*tetragonus*,*Pleistocene; Pennsylvania*
+*Tayassu*,*sp. indet.*,*Pliocene?; Niobrara River*
+*Tayassu*,*sp. indet.*,*Miocene (Loup Fork); Nebraska?*
+*Tegeolepis*,*clarkii*,*Devonian (Cleveland shale); Ohio*
+*Telacodon*,*laevis*,*Cretaceous (Laramie); Wyoming*
+*Telacodon*,*praestans*,*Cretaceous (Laramie); Wyoming*
+*Teleoceras*,*fossiger*,*Miocene (Loup Fork); Kansas, Nebraska, Colorado, Florida*
+*Teleodus*,*avus*,*Oligocene (White River); South Dakota*
+*Teleopternus*,*orientalis*,*Pleistocene; Pennsylvania*
+*Telmalestes*,*crassus*,*Eocene (Bridger); Wyoming*
+*Telmatherium*,*boreale*,*Eocene (Wind River); Wyoming*
+*Telmatherium*,*cultridens*,*Eocene (Bridger); Wyoming*
+*Telmatherium*,*diploconum*,*Eocene (Uinta); Utah*
+*Telmatherium*,*hyognathum*,*Eocene (Bridger); Wyoming: (Uinta); Utah*
+*Telmatherium*,*megarhinum*,*Eocene (Bridger); Wyoming*
+*Telmatherium*,*validum*,*Eocene (Bridger); Wyoming*
+*Telmatherium*,*vallidens*,*Eocene (Bridger); Wyoming*
+*Telmatocyon*,*riparius*,*Eocene (Wind River, Bridger); Wyoming*
+*Telmatornis*,*affinis*,*Cretaceous; New Jersey*
+*Telmatornis*,*priscus*,*Cretaceous; New Jersey*
+*Temnocyon*,*altigenis*,*Miocene (John Day); Oregon*
+*Temnocyon*,*ferox*,*Miocene (John Day); Oregon*
+*Temnocyon*,*wallovianus*,*Miocene (John Day); Oregon*
+*Terrapene*,*anguillulata*,*Pleistocene (Port Kennedy); Pennsylvania*
+*Terrapene*,*eurypygia*,*Pleistocene; Maryland*
+*Terrapene*,*marnochii*,*Pleistocene (Equus beds); Texas*
+*Testudo*,*amphithorax*,*Oligocene (White River); Colorado*
+*Testudo*,*brontops*,*Oligocene (White River); South Dakota, Colorado*
+*Testudo*,*crassiscutata*,*Pliocene; Florida*
+*Testudo*,*cultrata*,*Oligocene (White River); Colorado*
+*Testudo*,*cyclopygia*,*Miocene (Loup Fork); Kansas*
+*Testudo*,*gilbertii*,*Miocene (Loup Fork); Kansas*
+*Testudo*,*hexagonata*,*Pleistocene (Equus beds); Texas*
+*Testudo*,*klettiana*,*Miocene (Loup Fork); New Mexico*
+*Testudo*,*laticaudata*,*Pleistocene (Equus beds); Texas*
+*Testudo*,*laticunea*,*Oligocene (White River); Colorado*
+*Testudo*,*ligonia*,*Oligocene (White River); Colorado*
+*Testudo*,*orthopygia*,*Miocene (Loup Fork); Kansas*
+*Testudo*,*pertenuis*,*Pliocene (Blanco); Texas*
+*Testudo*,*quadrata*,*Oligocene (White River); Colorado*
+*Testudo*,*snoviana*,*Miocene (Loup Fork); Kansas*
+*Testudo*,*turgida*,*Pliocene (Blanco); Texas*
+*Testudo*,*undata*,*Miocene (Loup Fork); New Mexico*
+*Testudo*,*sp. indet.*,*Pleistocene; South Carolina*
+*Tetheodus*,*pephredo*,*Cretaceous (Niobrara); Kansas*
+*Tetraclaenodon*,*minor*,*Eocene (Torrejon); New Mexico*
+*Tetraclaenodon*,*puercensis*,*Eocene (Torrejon); New Mexico*
+*Tetraclaenodon*,*subquadratus*,*Eocene (Torrejon); New Mexico*
+*Thecodontosaurus*,*fraserianus*,*Triassic; Pennsylvania*
+*Thecodontosaurus*,*gibbider*,*Triassic; Pennsylvania*
+*Thenaropus*,*leptodactylus*,*Coal-measures; Pennsylvania*
+*Thenaropus*,*ovoidactylus*,*Coal-measures; Pennsylvania*
+*Thenaropus*,*pachydactylus*,*Coal-measures; Pennsylvania*
+*Thenaropus*,*sphaerodactylus*,*Coal-measures; Pennsylvania*
+*Theropleura*,*obtusidens*,*Permian; Texas*
+*Theropleura*,*retroversa*,*Permian; Texas*
+*Theropleura*,*triangulata*,*Permian; Texas*
+*Theropleura*,*uniformis*,*Permian; Texas*
+*Thespesius*,*agilis*,*Cretaceous (Niobrara); Kansas*
+*Thespesius*,*occidentalis*,*Cretaceous (Laramie); Wyoming, Colorado, South Dakota*
+*Thinocyon*,*velox*,*Eocene (Bridger); Wyoming*
+*Thinolestes*,*anceps*,*Eocene (Bridger); Wyoming*
+*Thinopus*,*antiquus*,*Devonian; Pennsylvania*
+*Thinosaurus*,*agilis*,*Eocene (Bridger); Wyoming*
+*Thinosaurus*,*grandis*,*Eocene (Bridger); Wyoming*
+*Thinosaurus*,*leptodus*,*Eocene (Bridger); Wyoming*
+*Thinosaurus*,*paucidens*,*Eocene (Bridger); Wyoming*
+*Thinotherium*,*annulatum*,*Miocene?; Virginia*
+*Thleodon*,*padanicus*,*Cretaceous (Laramie); Wyoming*
+*Thomomys*,*bulbivorus*,*Recent; northwestern United States.  Pleistocene; Oregon*
+*Thomomys*,*clusius*,*Recent; Wyoming, Idaho.  Pleistocene; (Equus beds); Oregon*
+*Thomomys*,*talpoides*,*Recent; Canada to Upper Missouri River, Pleistocene; Oregon*
+*Thoracodus*,*emydinus*,*Permian; Illinois*
+*Thoracosaurus*,*neocesariensis*,*Cretaceous; New Jersey*
+*Thrinacodus*,*bicornis*,*Subcarboniferous (St. Louis); Indiana*
+*Thrinacodus*,*duplicatus*,*Subcarboniferous (Keokuk); Illinois, Belgium*
+*Thrinacodus*,*incurvus*,*Subcarboniferous (Keokuk); Illinois*
+*Thrinacodus*,*nanus*,*Subcarboniferous (Kinderhook); Iowa*
+*Thyrsidium*,*fasciculare*,*Coal-measures; Ohio*
+*Tichosteus*,*aequifacies*,*Jurassic; Colorado*
+*Tichosteus*,*lucasanus*,*Jurassic; Colorado*
+*Tillomys*,*parvus*,*Eocene (Bridger); Wyoming*
+*Tillomys*,*senex*,*Eocene (Bridger); Wyoming*
+*Tillotherium*,*fodiens*,*Eocene (Bridger); Wyoming, Colorado*
+*Tillotherium*,*hyracoides*,*Eocene (Bridger); Wyoming*
+*Tillotherium*,*latidens*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*affine*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*anceps*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*annectens*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*cornutum*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*crassifrons*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*galeatum*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*grande*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*hians*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*ingens*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*jugum*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*lacustre*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*latum*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*longiceps*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*pugnax*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*speirianum*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*stenops*,*Eocene (Bridger); Wyoming*
+*Tinoceras*,*vagans*,*Eocene (Bridger); Wyoming*
+*Tinodon*,*bellus*,*Jurassic; Wyoming*
+*Tinodon*,*lepidus*,*Jurassic; Wyoming*
+*Tinodon*,*robustus*,*Jurassic; Wyoming*
+*Tinosaurus*,*lepidus*,*Eocene (Bridger); Wyoming*
+*Tinosaurus*,*stenodon*,*Eocene (Bridger); Wyoming*
+*Titanichthys*,*agassizii*,*Devonian (Cleveland shale); Ohio*
+*Titanichthys*,*brevis*,*Devonian (Cleveland shale); Ohio*
+*Titanichthys*,*clarkii*,*Devonian (Cleveland shale); Ohio*
+*Titanichthys*,*rectus*,*Devonian (Cleveland shale?); Ohio*
+*Titanichthys*,*attenuatus*,*Devonian (Cleveland shale); Ohio*
+*Titanotherium*,*heloceras*,*Oligocene (White River); Colorado*
+*Titanotherium*,*ingens*,*Oligocene (White River); Colorado, South Dakota*
+*Titanotherium*,*proutii*,*Oligocene (White River); South Dakota*
+*Titanotherium*,*trigonoceras*,*Oligocene (White River); Colorado, South Dakota*
+*Tomarctus*,*brevirostris*,*Miocene (Loup Fork); Colorado*
+*Tomiopsis*,*ferruminatus*,*Neocene?; Texas*
+*Tomitherium*,*affine*,*Eocene (Bridger); Wyoming*
+*Tomitherium*,*rostratum*,*Eocene (Bridger); Wyoming*
+*Torosaurus*,*gladius*,*Cretaceous (Laramie); Wyoming*
+*Torosaurus*,*latus*,*Cretaceous (Laramie); Wyoming*
+*Toxichnus*,*inaequalis*,*Triassic; Massachusetts*
+*Toxochelys*,*latiremis*,*Cretaceous (Niobrara and Pierre); Kansas*
+*Toxochelys*,*serrifer*,*Cretaceous (Niobrara); Kansas*
+*Toxochelys*,*brachyrhinus*,*Cretaceous; Kansas*
+*Trachemys*,*bisornata*,*Pliocene; Texas*
+*Trachemys*,*hilli*,*Miocene (Loup Fork); Kansas*
+*Trachodon*,*breviceps*,*Cretaceous (Laramie); Montana*
+*Trachodon*,*calamarius*,*Cretaceous (Laramie); Montana*
+*Trachodon*,*cavatus*,*Cretaceous; New Jersey*
+*Trachodon*,*foulkii*,*Cretaceous; New Jersey*
+*Trachodon*,*longiceps*,*Cretaceous (Laramie); Wyoming*
+*Trachodon*,*minor*,*Cretaceous; New Jersey*
+*Trachodon*,*mirabilis*,*Cretaceous (Laramie); Montana, British America*
+*Trachodon*,*pentagonus*,*Cretaceous (Laramie); Montana*
+*Trachodon*,*perangulatus*,*Cretaceous (Laramie); Montana*
+*Trachodon*,*tripos*,*Cretaceous; North Carolina, Georgia*
+*Trachosteus*,*clarkii*,*Devonian (Cleveland shale); Ohio*
+*Tretulias*,*buccatus*,*Miocene; Maryland*
+*Triacodon*,*fallax*,*Eocene (Bridger); Wyoming*
+*Triacodon*,*grandis*,*Eocene (Bridger); Wyoming*
+*Triacodon*,*nanus*,*Eocene (Bridger); Wyoming*
+*Triaenaspis*,*virgulatus*,*Cretaceous (Niobrara): S. Dakota*
+*Triaenopus*,*baileyanus*,*Triassic; Connecticut*
+*Tricentes*,*crassicollidens*,*Eocene (Torrejon); New Mexico*
+*Tricentes*,*subtrigonus*,*Eocene (Torrejon); New Mexico*
+*Triceratops*,*calicornis*,*Cretaceous; Wyoming*
+*Triceratops*,*elatus*,*Cretaceous (Laramie); Wyoming*
+*Triceratops*,*galeus*,*Cretaceous (Laramie); Colorado*
+*Triceratops*,*horridus*,*Cretaceous (Laramie); Wyoming, Colorado*
+*Triceratops*,*obtusus*,*Cretaceous (Laramie); Wyoming*
+*Triceratops*,*prorsus*,*Cretaceous (Laramie); Wyoming*
+*Triceratops*,*serratus*,*Cretaceous (Laramie); Wyoming*
+*Triceratops*,*sulcatus*,*Cretaceous (Laramie); Wyoming*
+*Triceratops*,*sp. indet.*,*Cretaceous; British America*
+*Trichechus*,*antiquus*,*Pleistocene; South Carolina: Pliocene (Peace Creek); Florida*
+*Trichechus*,*inornatus*,*Tertiary (Phosphate beds); South Carolina*
+*Trichechus*,*manatus*,*Recent; and probably including many or all of the undetermined bones of Manatus which have been foun*
+*Trichechus*,*sp. indet.*,*Pleistocene; New Jersey, Maryland, Virginia, North Carolina, South Carolina, Florida*
+*Trichiurus*,*lepturus*,*Recent; West Indies to Virginia: Post-pliocene; South Carolina*
+*Trichophanes*,*copei*,*Oligocene; Colorado*
+*Trichophanes*,*foliarum*,*Oligocene; Colorado*
+*Trichophanes*,*hians*,*Oligocene; Nevada*
+*Triconodon*,*bisulcus*,*Jurassic; Wyoming*
+*Trigonias*,*osborni*,*Oligocene (White River); South Dakota*
+*Trigonolestes*,*brachystomus*,*Eocene (Wasatch); Wyoming*
+*Trigonolestes*,*chacensis*,*Eocene (Wasatch); Wyoming*
+*Trigonolestes*,*etsagicus*,*Eocene (Wasatch); Wyoming*
+*Trigonolestes*,*metsiacus*,*Eocene (Wasatch); Wyoming*
+*Trigonolestes*,*nuptus*,*Eocene (Wasatch); Wyoming*
+*Trigonolestes*,*secans*,*Eocene (Wind River); Wyoming, Colorado*
+*Trihamus*,*elegans*,*Triassic; Connecticut*
+*Trihamus*,*magnus*,*Triassic; Connecticut*
+*Trihamus*,**,*Triassic; Massachusetts*
+*Triisodon*,*gaudrianus*,*Eocene (Puerco); New Mexico*
+*Triisodon*,*heilprinianus*,*Eocene (Puerco); New Mexico*
+*Triisodon*,*quivirensis*,*Eocene (Puerco); New Mexico*
+*Trimerorhachis*,*bilobatus*,*Permian; Texas*
+*Trimerorhachis*,*conangulus*,*Permian; Texas*
+*Trimerorhachis*,*insignis*,*Permian; Texas*
+*Trimerorhachis*,*mesops*,*Permian; Texas*
+*Trinacromerum*,*bentonianum*,*Cretaceous (Benton); Kansas*
+*Trionyx*,*buiei*,*Miocene; North Carolina*
+*Trionyx*,*cariosus*,*Eocene (Wasatch); New Mexico*
+*Trionyx*,*cellulosus*,*Miocene; Maryland*
+*Trionyx*,*coalescens*,*Cretaceous (Laramie); Saskatchewan*
+*Trionyx*,*concentricus*,*Eocene (Bridger); Wyoming*
+*Trionyx*,*foveatus*,*Cretaceous (Laramie); Montana, Colorado*
+*Trionyx*,*guttatus*,*Eocene (Bridger); Wyoming: (Wasatch); New Mexico*
+*Trionyx*,*halophilus*,*Cretaceous (Green-sand No. 4); Delaware, New Jersey, Virginia*
+*Trionyx*,*heteroglyptus*,*Eocene (Bridger); Wyoming*
+*Trionyx*,*leptomitus*,*Eocene (Wasatch); New Mexico*
+*Trionyx*,*leucopotamicus*,*Oligocene (White River); N. W. Terr. of British America, North Dakota*
+*Trionyx*,*lima*,*Miocene; New Jersey*
+*Trionyx*,*mammilaris*,*Cretaceous (Laramie); Montana*
+*Trionyx*,*pennatus*,*Eocene (Green-sand); New Jersey*
+*Trionyx*,*priscus*,*Cretaceous (Green-sand No. 4); New Jersey*
+*Trionyx*,*punctiger*,*Oligocene (White River); South Dakota*
+*Trionyx*,*radulus*,*Eocene (Wasatch); New Mexico: (Bridger); Wyoming*
+*Trionyx*,*scutumantiquum*,*Eocene (Wasatch); Wyoming*
+*Trionyx*,*uintae%Fnsis*,*Eocene (Bridger); Wyoming*
+*Trionyx*,*vagans*,*Cretaceous (Laramie); Colorado, Montana, Saskatchewan*
+*Trionyx*,*ventricosus*,*Eocene (Wasatch); New Mexico*
+*Trionyx*,*virginianus*,*Eocene; Virginia*
+*Triplopus*,*amarorum*,*Eocene (Bridger); Wyoming*
+*Triplopus*,*cubitalis*,*Eocene (Bridger); Wyoming*
+*Triplopus*,*obliquidens*,*Eocene (Bridger); Wyoming: (Uinta); Utah*
+*Troo%Fdon*,*formosus*,*Cretaceous (Laramie); Montana*
+*Tuditanus*,*brevirostris*,*Coal-measures; Ohio*
+*Tuditanus*,*huxleyi*,*Coal-measures; Ohio*
+*Tuditanus*,*longipes*,*Coal-measures; Ohio*
+*Tuditanus*,*mordax*,*Coal-measures; Ohio*
+*Tuditanus*,*obtusus*,*Coal-measures; Ohio*
+*Tuditanus*,*punctulatus*,*Coal-measures; Ohio*
+*Tuditanus*,*radiatus*,*Coal-measures; Ohio*
+*Tuditanus*,*tabulatus*,*Coal-measures; Ohio*
+*Turseodus*,*acutus*,*Triassic?; Pennsylvania*
+*Tylosaurus*,*congrops*,*Cretaceous; Alabama*
+*Tylosaurus*,*dyspelor*,*Cretaceous (Niobrara); New Mexico, Kansas*
+*Tylosaurus*,*laticaudus*,*Cretaceous; New Jersey*
+*Tylosaurus*,*micromus*,*Cretaceous (Niobrara); Kansas*
+*Tylosaurus*,*nepaeolicus*,*Cretaceous (Niobrara); Kansas*
+*Tylosaurus*,*perlatus*,*Cretaceous; Alabama*
+*Tylosaurus*,*proriger*,*Cretaceous (Niobrara); Kansas*
+*Tylosaurus*,*rapax*,*Cretaceous; New Jersey*
+*Tylosaurus*,*sectorius*,*Cretaceous; New Jersey*
+*Tylosteus*,*ornatus*,*Cretaceous?; Montana?  (Head of Missouri River.)*
+*Tympanuchus*,*pallidicinctus*,*Recent; Great Plains: Pleistocene; Oregon*
+*Typodus*,*abrasus*,*Cretaceous (Neocomian); Kansas*
+*Typodus*,*diastematicus*,*Cretaceous; Texas*
+*Typodus*,*dumblei*,*Cretaceous; Texas*
+*Typopus*,*abnormis*,*Triassic: Massachusetts, Connecticut*
+*Typopus*,*gracilis*,*Triassic; Connecticut*
+*Typothorax*,*coccinarum*,*Triassic; New Mexico*
+*Uintacyon*,*bathygnathus*,*Eocene (Bridger); Wyoming*
+*Uintacyon*,*brevirostris*,*Eocene (Wind River, Wasatch); Wyoming*
+*Uintacyon*,*canavus*,*Eocene (Wasatch and Wind River); Wyoming*
+*Uintacyon*,*edax*,*Eocene (Bridger); Wyoming*
+*Uintacyon*,*promicrodon*,*Eocene (Wasatch); Wyoming*
+*Uintacyon*,*pugnax*,*Eocene; Wyoming*
+*Uintacyon*,*vorax*,*Eocene (Wind River, Bridger); Wyoming*
+*Uintacyon*,*vulpinus*,*Eocene (Uinta); Utah*
+*Uintatherium*,*alticeps*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*latifrons*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*leidianum*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*princeps*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*robustum*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*segne*,*Eocene (Bridger); Wyoming*
+*Uintatherium*,*sp. indet.*,*Eocene (Bridger); Wyoming*
+*Uintornis*,*lucaris*,*Eocene (Bridger); Wyoming*
+*Ulias*,*moratus*,*Miocene; Maryland*
+*Uranoplosus*,*arctatus*,*Cretaceous (Comanche); Oklahoma*
+*Uranoplosus*,*flectidens*,*Cretaceous (Comanche); Oklahoma*
+*Uria*,*affinis*,*Pleistocene; New Jersey*
+*Uria*,*antiqua*,*Miocene; North Carolina*
+*Uronautes*,*cetiformis*,*Cretaceous (Fox Hills); Montana*
+*Uronautes*,*sp. indet.*,*Cretaceous (Fox Hills); New Mexico*
+*Ursus*,*americanus*,*Recent; North America.  Pleistocene; Kentucky, Mississippi, Pennsylvania*
+*Ursus*,*amplidens*,*Pleistocene; Mississippi, Virginia*
+*Ursus*,*procerus*,*Pleistocene; Ohio*
+*Vaticinodus*,*carbonarius*,*Lower Coal-measures; Illinois*
+*Vaticinodus*,*discrepans*,*Subcarboniferous (Burlington); Iowa*
+*Vaticinodus*,*lepis*,*Upper Coal-measures; Illinois*
+*Vaticinodus*,*similis*,*Subcarboniferous (Chester); Illinois*
+*Vaticinodus*,*simplex*,*Subcarboniferous (St. Louis); Illinois, Missouri, Iowa*
+*Vaticinodus*,*vetustus*,*Subcarboniferous (Kinderhook); Iowa*
+*Venustodus*,*argutus*,*Subcarboniferous (Chester); Illinois*
+*Venustodus*,*robustus*,*Subcarboniferous (Burlington); Iowa*
+*Venustodus*,*tenuicristatus*,*Subcarboniferous (Keokuk): Illinois, Iowa, Missouri*
+*Venustodus*,*variabilis*,*Subcarboniferous (Burlington); Illinois, Iowa*
+*Venustodus*,*venustus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Vespertilio*,*fuscus*,*Recent; Georgia to California and northward.  Pleistocene?; cave in Tennessee*
+*Viverravus*,*altidens*,*Eocene (Wasatch, Wind River, Bridger); Wyoming*
+*Viverravus*,*curtidens*,*Eocene (Wasatch); Wyoming*
+*Viverravus*,*gracilis*,*Eocene (Wasatch, Wind River, Bridger); Wyoming, Colorado*
+*Viverravus*,*haydenianus*,*Eocene (Torrejon); New Mexico*
+*Viverravus*,*leptomylus*,*Eocene (Wind River); Wyoming*
+*Viverravus*,*massetericus*,*Eocene (Wasatch); Wyoming*
+*Viverravus*,*nitidus*,*Eocene (Bridger); Wyoming*
+*Viverravus*,*protenus*,*Eocene (Wasatch); New Mexico, Wyoming, Colorado*
+*Vulpavus*,*palustris*,*Eocene (Bridger); Wyoming*
+*Vulpavus*,*parvivorus*,*Eocene (Bridger); Wyoming*
+*Wortmania*,*otariidens*,*Eocene (Puerco); New Mexico*
+*Xema*,*sabinii*,*Recent; Arctic America and Europe: Pleistocene; Oregon*
+*Xenodolamia*,*pravus*,*Phosphate beds; South Carolina*
+*Xenodolamia*,*simplex*,*Phosphate beds; South Carolina*
+*Xenodus*,*hertzeri*,*Devonian (Huron Shale); Ohio*
+*Xestops*,*gracilis*,*Eocene (Bridger); Wyoming*
+*Xestops*,*lentus*,*Eocene (Bridger); Wyoming*
+*Xestops*,*microdus*,*Eocene (Bridger); Wyoming*
+*Xestops*,*minutus*,*Eocene (Bridger); Wyoming*
+*Xestops*,*vagans*,*Eocene (Bridger); Wyoming*
+*Xiphodolamia*,*ensis*,*"Marls" (Cretaceous?); New Jersey*
+*Xiphopeza*,*triplex*,*Triassic; Massachusetts*
+*Xystracanthus*,*acinaciformis*,*Coal-measures; Illinois*
+*Xystracanthus*,*anceps*,*Coal-measures; Illinois*
+*Xystracanthus*,*arcuatus*,*Coal Measures; Kansas*
+*Xystracanthus*,*gemmatus*,*Subcarboniferous (Keokuk); Iowa*
+*Xystracanthus*,*mirabilis*,*Coal-measures; Illinois*
+*Xystracanthus*,*reversus*,*Subcarboniferous (St. Louis); Illinois, Missouri*
+*Zapsalis*,*abradens*,*Cretaceous (Laramie); Montana*
+*Zapus*,*hudsonius*,*Recent; Alaska to Hudson Bay, south to New Jersey, west to Iowa and Missouri.  Pleistocene; Pennsylv*
+*Zarhachis*,*flagellator*,*Miocene; Maryland*
+*Zarhachis*,*tysonii*,*Miocene; Maryland*
+*Zarhachis*,*velox*,*Miocene; Maryland*
+*Zatomus*,*sarcophagus*,*Mesozoic; North Carolina*
+*Zatrachys*,*apicalis*,*Permian; New Mexico*
+*Zatrachys*,*conchigerus*,*Permian; Texas*
+*Zatrachys*,*microphthalmus*,*Permian; Texas*
+*Zatrachys*,*serratus*,*Permian; Texas*
+*Zetodon*,*gracilis*,*Eocene (Puerco); New Mexico*
+*Ziphacodon*,*rugatus*,*Eocene (Bridger); Wyoming*
+*Zygoramma*,*microglypha*,*Cretaceous (Green-sand No. 5); New Jersey*
+*Zygoramma*,*striatula*,*Cretaceous (Green-sand No. 5); New Jersey*
+

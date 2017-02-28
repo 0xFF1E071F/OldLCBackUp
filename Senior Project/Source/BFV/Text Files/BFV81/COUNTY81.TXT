@@ -1,0 +1,281 @@
+81,10,*County:*,*Brewster*,*Texas*
+81,10,*County:*,*Presidio*,*Texas*
+81,20,*County:*,*Cheyenne*,*Nebraska*
+81,20,*County:*,*Morrill*,*Nebraska*
+81,20,*County:*,*Garden*,*Nebraska*
+81,40,*County:*,*Carbon*,*Wyoming*
+81,70,*County:*,*Mesa*,*Colorado*
+81,100,*County:*,*Howard*,*Texas*
+81,110,*County:*,*Clay*,*Mississippi*
+81,160,*County:*,*Cherry*,*Nebraska*
+81,490,*County:*,*Polk*,*Florida*
+81,510,*County:*,*Sandoval*,*New Mexico*
+81,570,*County:*,*Kay*,*Oklahoma*
+81,570,*County:*,*Noble*,*Oklahoma*
+81,570,*County:*,*Tillman*,*Oklahoma*
+81,570,*County:*,*Archer*,*Texas*
+81,570,*County:*,*Wichita*,*Texas*
+81,570,*County:*,*Baylor*,*Texas*
+81,570,*County:*,*Taylor*,*Texas*
+81,570,*County:*,*Wetzel*,*West Virginia*
+81,580,*County:*,*Uintah*,*Utah*
+81,600,*County:*,*Logan*,*Colorado*
+81,610,*County:*,*Crosby*,*Texas*
+81,630,*County:*,*San Jacinto*,*Texas*
+81,640,*County:*,*Mesa*,*Colorado*
+81,660,*County:*,*Jackson*,*Colorado*
+81,680,*County:*,*Uintah*,*Utah*
+81,980,*County:*,*Millard*,*Utah*
+81,1010,*County:*,*Gove*,*Kansas*
+81,1020,*County:*,*Cherry*,*Nebraska*
+81,1050,*County:*,*Rio Arriba*,*New Mexico*
+81,1060,*County:*,*San Diego*,*California*
+81,1080,*County:*,*San Jacinto*,*Texas*
+81,1080,*County:*,*Tyler*,*Texas*
+81,1080,*County:*,*Washington*,*Texas*
+81,1180,*County:*,*San Juan*,*New Mexico*
+81,1330,*County:*,*Garfield*,*Montana*
+81,1330,*County:*,*McCone*,*Montana*
+81,1590,*County:*,*Seward*,*Nebraska*
+81,1600,*County:*,*San Juan*,*New Mexico*
+81,1600,*County:*,*Sandoval*,*New Mexico*
+81,1610,*County:*,*Alachua*,*Florida*
+81,2160,*County:*,*Garfield*,*Montana*
+81,2160,*County:*,*McCone*,*Montana*
+81,3180,*County:*,*Twiggs*,*Georgia*
+81,3180,*County:*,*Houston*,*Georgia*
+81,3430,*County:*,*Brown*,*Nebraska*
+81,3430,*County:*,*Cherry*,*Nebraska*
+81,3430,*County:*,*Logan*,*Colorado*
+81,3430,*County:*,*Contra Costa*,*California*
+81,3430,*County:*,*San Joaquin*,*California*
+81,3430,*County:*,*Kern*,*California*
+81,3430,*County:*,*Rio Arriba*,*New Mexico*
+81,3560,*County:*,*Yuma*,*Colorado*
+81,4260,*County:*,*Alachua*,*Florida*
+81,4350,*County:*,*Lawrence*,*Indiana*
+81,4390,*County:*,*Brewster*,*Texas*
+81,5050,*County:*,*Esmeralda*,*Nevada*
+81,5080,*County:*,*Park*,*Wyoming*
+81,5170,*County:*,*Brown*,*Nebraska*
+81,7540,*County:*,*Milwaukee*,*Wisconsin*
+81,7540,*County:*,*Polk*,*Wisconsin*
+81,7540,*County:*,*Fond du Lac*,*Wisconsin*
+81,7540,*County:*,*Uinta*,*Wyoming*
+81,7600,*County:*,*Maury*,*Tennessee*
+81,7840,*County:*,*Sioux*,*Nebraska*
+81,7840,*County:*,*Morrill*,*Nebraska*
+81,7840,*County:*,*Shannon*,*South Dakota*
+81,7840,*County:*,*Teton*,*Wyoming*
+81,7840,*County:*,*Logan*,*Colorado*
+81,7840,*County:*,*Lewis and Clark*,*Montana*
+81,7840,*County:*,*Billings*,*North Dakota*
+81,8090,*County:*,*Emery*,*Utah*
+81,8260,*County:*,*St. Francis*,*Arkansas*
+81,8260,*County:*,*Hinds*,*Mississippi*
+81,8280,*County:*,*Phillips*,*Kansas*
+81,8290,*County:*,*Sublette*,*Wyoming*
+81,8290,*County:*,*Lincoln*,*Wyoming*
+81,8290,*County:*,*Uinta*,*Wyoming*
+81,8290,*County:*,*Sweetwater*,*Wyoming*
+81,8290,*County:*,*Uintah*,*Utah*
+81,8300,*County:*,*Meagher*,*Montana*
+81,8310,*County:*,*San Diego*,*California*
+81,8320,*County:*,*Contra Costa*,*California*
+81,8320,*County:*,*Lincoln*,*Nevada*
+81,8410,*County:*,*Sioux*,*Nebraska*
+81,8430,*County:*,*Meagher*,*Montana*
+81,8430,*County:*,*Jefferson*,*Montana*
+81,8430,*County:*,*Logan*,*Colorado*
+81,8430,*County:*,*Niobrara*,*Wyoming*
+81,8430,*County:*,*Bennett*,*South Dakota*
+81,8430,*County:*,*Sioux*,*Nebraska*
+81,8430,*County:*,*Fremont*,*Wyoming*
+81,8430,*County:*,*Shannon*,*South Dakota*
+81,8440,*County:*,*Gilchrist*,*Florida*
+81,8440,*County:*,*Citrus*,*Florida*
+81,8440,*County:*,*Coconino*,*Arizona*
+81,8450,*County:*,*Polk*,*Florida*
+81,8620,*County:*,*Sherman*,*Kansas*
+81,8620,*County:*,*Wallace*,*Kansas*
+81,8620,*County:*,*Hemphill*,*Texas*
+81,8620,*County:*,*Trego*,*Kansas*
+81,8620,*County:*,*Stanislaus*,*California*
+81,8620,*County:*,*Contra Costa*,*California*
+81,8620,*County:*,*Umatilla*,*Oregon*
+81,8620,*County:*,*Rio Arriba*,*New Mexico*
+81,8620,*County:*,*Polk*,*Florida*
+81,8620,*County:*,*Navajo*,*Arizona*
+81,8620,*County:*,*Mohave*,*Arizona*
+81,8620,*County:*,*Pima*,*Arizona*
+81,8620,*County:*,*Texas*,*Oklahoma*
+81,8630,*County:*,*Colleton*,*South Carolina*
+81,8630,*County:*,*Crosby*,*Texas*
+81,8630,*County:*,*Randall*,*Texas*
+81,8630,*County:*,*Hudspeth*,*Texas*
+81,8630,*County:*,*Knox*,*Texas*
+81,8630,*County:*,*Brisco*,*Texas*
+81,8630,*County:*,*Cameron*,*Texas*
+81,8630,*County:*,*Nueces*,*Texas*
+81,8630,*County:*,*San Patricio*,*Texas*
+81,8630,*County:*,*Bee*,*Texas*
+81,8630,*County:*,*Calhoun*,*Texas*
+81,8630,*County:*,*Matagorda*,*Texas*
+81,8630,*County:*,*Jones*,*Texas*
+81,8630,*County:*,*Hunt*,*Texas*
+81,8630,*County:*,*Williamson*,*Texas*
+81,8630,*County:*,*Harris*,*Texas*
+81,8630,*County:*,*Graham*,*Arizona*
+81,8630,*County:*,*Cochise*,*Arizona*
+81,8630,*County:*,*Tillman*,*Oklahoma*
+81,8630,*County:*,*Gilchrist*,*Florida*
+81,8630,*County:*,*Charlotte*,*Florida*
+81,8630,*County:*,*Citrus*,*Florida*
+81,8630,*County:*,*Pinellas*,*Florida*
+81,8630,*County:*,*Levy*,*Florida*
+81,8630,*County:*,*Brevard*,*Florida*
+81,8630,*County:*,*Orange*,*Florida*
+81,8630,*County:*,*Hendry*,*Florida*
+81,8630,*County:*,*Sarasota*,*Florida*
+81,8630,*County:*,*Marion*,*Florida*
+81,8630,*County:*,*Indian River*,*Florida*
+81,8630,*County:*,*De Soto*,*Florida*
+81,8630,*County:*,*Manatee*,*Florida*
+81,8630,*County:*,*Volusia*,*Florida*
+81,8640,*County:*,*Stanislaus*,*California*
+81,8650,*County:*,*Cherry*,*Nebraska*
+81,9020,*County:*,*Kern*,*California*
+81,9030,*County:*,*Fulton*,*Ohio*
+81,9050,*County:*,*Coshocton*,*Ohio*
+81,9490,*County:*,*Garfield*,*Colorado*
+81,9490,*County:*,*Santa Fe*,*New Mexico*
+81,9490,*County:*,*Emery*,*Utah*
+81,9490,*County:*,*Sandoval*,*New Mexico*
+81,9490,*County:*,*Sweet Grass*,*Montana*
+81,9490,*County:*,*Carbon*,*Wyoming*
+81,9490,*County:*,*Brewster*,*Texas*
+81,9490,*County:*,*Mesa*,*Colorado*
+81,9490,*County:*,*Washakie*,*Wyoming*
+81,9490,*County:*,*Lincoln*,*Wyoming*
+81,9490,*County:*,*Uinta*,*Wyoming*
+81,9490,*County:*,*Sweetwater*,*Wyoming*
+81,9490,*County:*,*Uintah*,*Utah*
+81,9490,*County:*,*Sublette*,*Wyoming*
+81,9500,*County:*,*San Juan*,*New Mexico*
+81,9500,*County:*,*Sandoval*,*New Mexico*
+81,9510,*County:*,*Santa Fe*,*New Mexico*
+81,9510,*County:*,*Rio Arriba*,*New Mexico*
+81,9510,*County:*,*Grant*,*New Mexico*
+81,9510,*County:*,*Catron*,*New Mexico*
+81,9510,*County:*,*Sandoval*,*New Mexico*
+81,9510,*County:*,*Dona Ana*,*New Mexico*
+81,9510,*County:*,*Hudspeth*,*Texas*
+81,9520,*County:*,*Sandoval*,*New Mexico*
+81,9530,*County:*,*Sandoval*,*New Mexico*
+81,9540,*County:*,*Catron*,*New Mexico*
+81,10010,*County:*,*Garden*,*Nebraska*
+81,10020,*County:*,*Frontier*,*Nebraska*
+81,10030,*County:*,*Keya Paha*,*Nebraska*
+81,10030,*County:*,*Brown*,*Nebraska*
+81,10190,*County:*,*Meade*,*Kansas*
+81,10200,*County:*,*Big Horn*,*Wyoming*
+81,10200,*County:*,*Clark*,*Kansas*
+81,10370,*County:*,*Pendleton*,*West Virginia*
+81,10380,*County:*,*Monongalia*,*West Virginia*
+81,10790,*County:*,*Ontario*,*New York*
+81,11240,*County:*,*Santa Clara*,*California*
+81,11240,*County:*,*San Diego*,*California*
+81,11250,*County:*,*Jefferson*,*Missouri*
+81,12320,*County:*,*San Bernardino*,*California*
+81,12360,*County:*,*Lake*,*California*
+81,12370,*County:*,*Santa Clara*,*California*
+81,12370,*County:*,*San Mateo*,*California*
+81,12370,*County:*,*Santa Cruz*,*California*
+81,12440,*County:*,*San Juan*,*New Mexico*
+81,12470,*County:*,*Washoe*,*Nevada*
+81,12480,*County:*,*Elmore*,*Idaho*
+81,12480,*County:*,*Owyhee*,*Idaho*
+81,12490,*County:*,*Lincoln*,*Wyoming*
+81,12510,*County:*,*Gregory*,*South Dakota*
+81,12510,*County:*,*Todd*,*South Dakota*
+81,12510,*County:*,*Tripp*,*South Dakota*
+81,12510,*County:*,*Bennett*,*South Dakota*
+81,12520,*County:*,*Stanislaus*,*California*
+81,12970,*County:*,*Billings*,*North Dakota*
+81,12980,*County:*,*Billings*,*North Dakota*
+81,13280,*County:*,*Park*,*Wyoming*
+81,13370,*County:*,*Lake*,*Oregon*
+81,13520,*County:*,*Los Angeles*,*California*
+81,13540,*County:*,*Los Angeles*,*California*
+81,13540,*County:*,*Kern*,*California*
+81,13550,*County:*,*Los Angeles*,*California*
+81,13570,*County:*,*Los Angeles*,*California*
+81,13680,*County:*,*Kern*,*California*
+81,13700,*County:*,*Kern*,*California*
+81,13700,*County:*,*San Diego*,*California*
+81,13700,*County:*,*Alameda*,*California*
+81,13700,*County:*,*Curry*,*Oregon*
+81,13700,*County:*,*Los Angeles*,*California*
+81,13700,*County:*,*Humboldt*,*California*
+81,13730,*County:*,*Natrona*,*Wyoming*
+81,13760,*County:*,*Frontier*,*Nebraska*
+81,13840,*County:*,*Emery*,*Utah*
+81,13850,*County:*,*Emery*,*Utah*
+81,13860,*County:*,*Emery*,*Utah*
+81,13870,*County:*,*Grand*,*Utah*
+81,13880,*County:*,*Power*,*Idaho*
+81,13890,*County:*,*Uinta*,*Wyoming*
+81,14040,*County:*,*Park*,*Wyoming*
+81,14040,*County:*,*Big Horn*,*Wyoming*
+81,14220,*County:*,*Huerfano*,*Colorado*
+81,14240,*County:*,*Santa Barbara*,*California*
+81,14250,*County:*,*Orange*,*California*
+81,14420,*County:*,*San Juan*,*New Mexico*
+81,14420,*County:*,*Rio Arriba*,*New Mexico*
+81,14420,*County:*,*Sandoval*,*New Mexico*
+81,14500,*County:*,*Emery*,*Utah*
+81,14500,*County:*,*Sweet Grass*,*Montana*
+81,14500,*County:*,*Brewster*,*Texas*
+81,14500,*County:*,*Carbon*,*Wyoming*
+81,14680,*County:*,*Alachua*,*Florida*
+81,14810,*County:*,*Antelope*,*Nebraska*
+81,15880,*County:*,*Meade*,*Kansas*
+81,15900,*County:*,*Lassen*,*California*
+81,15900,*County:*,*Churchill*,*Nevada*
+81,16130,*County:*,*Wabaunsee*,*Kansas*
+81,16830,*County:*,*Park*,*Wyoming*
+81,16830,*County:*,*Teton*,*Wyoming*
+81,16830,*County:*,*Big Horn*,*Wyoming*
+81,16830,*County:*,*Carbon*,*Montana*
+81,16930,*County:*,*Cannon*,*Tennessee*
+81,16930,*County:*,*Power*,*Idaho*
+81,16930,*County:*,*Douglas*,*South Dakota*
+81,16930,*County:*,*Brown*,*Nebraska*
+81,16930,*County:*,*McPherson*,*Kansas*
+81,16930,*County:*,*Lubbock*,*Texas*
+81,16930,*County:*,*Crockett*,*Texas*
+81,16930,*County:*,*Knox*,*Texas*
+81,16930,*County:*,*Williamson*,*Texas*
+81,16930,*County:*,*Bexar*,*Texas*
+81,16930,*County:*,*Marion*,*Florida*
+81,16930,*County:*,*Citrus*,*Florida*
+81,16940,*County:*,*Blount*,*Tennessee*
+81,16950,*County:*,*Maury*,*Tennessee*
+81,16950,*County:*,*Sullivan*,*Tennessee*
+81,16950,*County:*,*Woodford*,*Kentucky*
+81,16950,*County:*,*Overton*,*Tennessee*
+81,16960,*County:*,*Hickman*,*Tennessee*
+81,16960,*County:*,*Robertson*,*Tennessee*
+81,16960,*County:*,*Montgomery*,*Tennessee*
+81,17040,*County:*,*Charlotte*,*Florida*
+81,17150,*County:*,*Graham*,*Arizona*
+81,17190,*County:*,*Trego*,*Kansas*
+81,17190,*County:*,*Knox*,*Nebraska*
+81,17200,*County:*,*Sioux*,*Nebraska*
+81,17200,*County:*,*Dawes*,*Nebraska*
+81,17200,*County:*,*Sheridan*,*Nebraska*
+81,17200,*County:*,*Box Butte*,*Nebraska*
+81,17740,*County:*,*Rio Arriba*,*New Mexico*
+81,17770,*County:*,*Sampson*,*North Carolina*
+81,17770,*County:*,*Bladen*,*North Carolina*
+

@@ -1,0 +1,66 @@
+DROP DATABASE IF EXISTS `clubdb`;
+create database clubdb;
+
+use clubdb;
+
+create table users
+(
+	id int unsigned not Null auto_increment primary key,
+	username varchar(10) not Null,
+	password varchar(50) not Null,
+	admin int unsigned not Null default "0",
+	superadmin int unsigned not Null default "0"	
+);
+	
+create table uinfo
+(
+	`id` int unsigned not Null auto_increment primary key,
+	`f_name` char(25) not Null,
+	`l_name` char(25) not Null,
+	`tel` char(13) not Null default "-",
+	`uid` int unsigned not Null,
+	FOREIGN KEY (`uid`) 
+      REFERENCES `users`(`id`)
+      ON UPDATE CASCADE ON DELETE RESTRICT
+);
+	
+create table dates
+(
+	`id` int unsigned not null auto_increment primary key,
+	`date` int unsigned not Null
+);
+
+create table checkouts
+(
+	`dateId` int unsigned not Null,
+	`userId` int unsigned not Null,
+	
+	FOREIGN Key (`dateId`)
+      REFERENCES `dates`(`id`)
+      ON UPDATE CASCADE ON DELETE RESTRICT,
+	FOREIGN Key (`userId`)
+      REFERENCES `users`(`id`)
+      ON UPDATE CASCADE ON DELETE RESTRICT
+);
+
+
+INSERT INTO users (username,password,admin,superadmin) VALUE ("admin",sha1("admin"),1,1);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("admin","",1);
+
+INSERT INTO users (username,password,admin) VALUE ("test1",sha1("test1"),1);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test1F","test1L",2);
+
+INSERT INTO users (username,password,admin) VALUE ("test2",sha1("test2"),1);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test2F","test2L",3);
+
+INSERT INTO users (username,password,admin) VALUE ("test3",sha1("test3"),0);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test3F","test3L",4);
+
+INSERT INTO users (username,password,admin) VALUE ("test4",sha1("test4"),0);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test4F","test4L",5);
+
+INSERT INTO users (username,password,admin) VALUE ("test5",sha1("test5"),0);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test5F","test5L",6);
+
+INSERT INTO users (username,password,admin) VALUE ("test6",sha1("test6"),0);
+INSERT INTO uinfo (f_name,l_name,uid) VALUE ("test6F","test6L",7);

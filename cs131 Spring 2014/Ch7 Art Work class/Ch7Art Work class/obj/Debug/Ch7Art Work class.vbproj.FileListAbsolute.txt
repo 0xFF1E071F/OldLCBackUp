@@ -1,0 +1,31 @@
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.exe
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.pdb
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.xml
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\ResolveAssemblyReference.cache
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.ArtForm.resources
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.Resources.resources
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.Shoppinglistsform.resources
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.exe
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.xml
+\\artemus\norko_w$\public\CS131 Shared Folder\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.pdb
+P:\private\CS131 Spring 2012\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.exe
+P:\private\CS131 Spring 2012\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.xml
+P:\private\CS131 Spring 2012\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.pdb
+P:\private\CS131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.exe
+P:\private\CS131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.xml
+P:\private\CS131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.pdb
+P:\cs131Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.exe
+P:\cs131Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.xml
+P:\cs131Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.pdb
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.exe
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.xml
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.pdb
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.exe
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.pdb
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\bin\Debug\Ch7Art Work class.xml
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.ArtForm.resources
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.Resources.resources
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art_Work_class.Shoppinglistsform.resources
+P:\cs131 Spring 2014\Ch7 Art Work class\Ch7Art Work class\obj\Debug\Ch7Art Work class.vbproj.GenerateResource.Cache

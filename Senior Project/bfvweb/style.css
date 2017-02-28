@@ -1,0 +1,18 @@
+/*
+==========================================================
+					   style.css
+					  Nov 25.2015
+					     Yu Fu
+==========================================================
+this is the css file for bfv web
+
+*/
+
+h1{
+	color: blue;
+    text-align: center;
+}
+p {
+    font-family: "Times New Roman";
+    font-size: 16px;
+}

@@ -1,0 +1,10 @@
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\bin\Debug\Ch4 class 1.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\bin\Debug\Ch4 class 1.pdb
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\bin\Debug\Ch4 class 1.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4_class_1.Form1.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4_class_1.Resources.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4 class 1.vbproj.GenerateResource.Cache
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4 class 1.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4 class 1.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\Ch4 class 1\obj\Debug\Ch4 class 1.pdb

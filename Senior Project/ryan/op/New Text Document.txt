@@ -1,0 +1,11 @@
+select * from auths into outfile 'U:\ryan\op\auths.txt';
+select * from authsbak into outfile 'U:\ryan\op\authsbak.txt';
+select * from jnfull into outfile 'U:\ryan\op\jnfull.txt';
+select * from ref into outfile 'U:\ryan\op\ref.txt';
+select * from refbak into outfile 'U:\ryan\op\refbak.txt';
+select * from subj into outfile 'U:\ryan\op\subj.txt';
+select * from subjbak into outfile 'U:\ryan\op\subjbak.txt';
+select * from tref into outfile 'U:\ryan\op\tref.txt';
+select * from tsubj into outfile 'U:\ryan\op\tsubj.txt';
+select * from ttax into outfile 'U:\ryan\op\ttax.txt';
+

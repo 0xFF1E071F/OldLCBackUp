@@ -1,0 +1,82 @@
+Enter the word length: 5
+Enter number of guesses: 10
+Would you like to see a count of possible words (Y/N)? Y
+You have 10 guesses left.
+Used letters: 
+Word: -----
+Possible word count: 8548
+Enter a guess: n
+Sorry there are no n's
+
+You have 9 guesses left.
+Used letters: n 
+Word: -----
+Possible word count: 6718
+Enter a guess: s
+Sorry there are no s's
+
+You have 8 guesses left.
+Used letters: n s 
+Word: -----
+Possible word count: 3454
+Enter a guess: t
+Sorry there are no t's
+
+You have 7 guesses left.
+Used letters: n s t 
+Word: -----
+Possible word count: 2553
+Enter a guess: l
+Sorry there are no l's
+
+You have 6 guesses left.
+Used letters: l n s t 
+Word: -----
+Possible word count: 1668
+Enter a guess: r
+Sorry there are no r's
+
+You have 5 guesses left.
+Used letters: l n r s t 
+Word: -----
+Possible word count: 828
+Enter a guess: a
+Sorry there are no a's
+
+You have 4 guesses left.
+Used letters: a l n r s t 
+Word: -----
+Possible word count: 483
+Enter a guess: e
+Sorry there are no e's
+
+You have 3 guesses left.
+Used letters: a e l n r s t 
+Word: -----
+Possible word count: 209
+Enter a guess: i
+Sorry there are no i's
+
+You have 2 guesses left.
+Used letters: a e i l n r s t 
+Word: -----
+Possible word count: 122
+Enter a guess: o
+Sorry there are no o's
+
+You have 1 guesses left.
+Used letters: a e i l n o r s t 
+Word: -----
+Possible word count: 44
+Enter a guess: u
+Yes, there is 1 copy of u
+
+You have 1 guesses left.
+Used letters: a e i l n o r s t u 
+Word: -u---
+Possible word count: 37
+Enter a guess: d
+Sorry there are no d's
+You lose! The word was: bubby
+
+Would you like to play another game(Y/N)? N

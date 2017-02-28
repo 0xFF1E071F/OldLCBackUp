@@ -1,0 +1,1282 @@
+--
+-- Data for TOC Entry ID 29 (OID 16578)
+--
+-- Name: jnfull Type: TABLE DATA Owner: osirisdba
+--
+
+
+COPY jnfull FROM stdin;
+#0000001	Abstracts of Papers -- Pacific Science Congress (Pacific Science Association)	.	.
+#0000002	Bloomington Indiana Grotto Newsletter	Bloomington, IN, USA	Bloomington Indiana Grotto, Indiana University
+#0000003	Bla%Ftter des Schwa%Fbischen Albvereins	Stuttgart, FRG	Schwa%Fbischer Albverein
+#0000004	Comunicaciones Paleontolo%Agicas del Museo Municipal Real de San Carlos	Colonia, Uruguay	Museo Municipal Real de San Carlos
+#0000005	Revista del Instituto de Ciencias Geolo%Agicas (San Salvador de Jujuy, Argentina)	San Salvador de Jujuy, Argentina	Repu%Ablica Argentina, Universidad Nacional de Jujuy, Instituto de Ciencias Geolo%Agicas
+#0000006	Revue Pe%Ariodique de ``La Physiophile'' (N. S.)	Montceau-les-Mines, France	Socie%Ate%A d'E%Atudes des Sciences Naturelles et Historiques de Montceau-les-Mines
+#0000007	Cie%Dncias da Terra (Lisbon)	Lisbon, Portugal	Universidade Nova de Lisboa, Faculdade de Cie%Dncias e Tecnologia
+#0000008	Contributions to Vertebrate Evolution	Basel, Switzerland	S. Karger
+#0000009	Open File Report -- New Brunswick, Natural Resources	[Fredericton], NB, Canada	New Brunswick, [Department of] Natural Resources
+#0000010	Mededelingen van het Koninklijk Zeeuwsch Genootschap de Wetenschappen, Archief	Middelburg, The Netherlands	Koninklijk Zeeuwsch Genootschap de Wetenschappen
+#0000011	Publicacion Extra -- Museo Nacional de Historia Natural (Montevideo)	Montevideo, Uruguay	Museo Nacional de Historia Natural
+#0000012	Special Publication of the Museum of Natural History, University of Kansas	Lawrence, KS, USA	The University of Kansas, Museum of Natural History
+#0000013	Beitra%Fge zur Pala%Fontologie von O%Fsterreich	Vienna, Austria	Institut fu%Fr Pala%Fontologie der Universita%Ft Wien
+#0000014	Mesozoic Vertebrate Life	San Diego, CA, USA	George Olshevsky
+#0000015	Professional Papers of Stratigraphy and Palaeontology [Diceng Gushengwu Lunwenji = Ti-ts'eng Ku-sheng-wu Lun-wen-chi = Coll. Papers on Stratigr. and Paleo.] (Beijing)	Beijing, China	Dizhi Chubanshe
+#0000016	Actas del Congreso Latinoamericano de Paleontologi%Aa = Anais do Congresso Latino-Americano de Paleontologia	.	.
+#0000017	Don%Eana -- Acta Vertebrata. Revista de Vertebrados de la Estacio%An Biolo%Agica de Don%Eana	Seville, Spain	Estacio%An Biolo%Agica de Don%Eana (Consejo Superior de Invest. Cienti%Aficas)
+#0000019	Investigations on Cetacea. Institute of Brain Anatomy, University of Bern	Bern, Switzerland	Institute of Brain Anatomy, University of Bern
+#0000020	Bulletin of the University of Utah	Salt Lake City, UT, USA	University of Utah
+#0000021	Brass Light	Richmond, VA, USA	RASS (Richmond Area Speleological Society)
+#0000023	Renleixue Xuebao [=Jen-lei-hsu%Feh Hsu%Feh-pao, =Anthropology Journal] = Acta Anthropologica Sinica. (Acad. Sinica Inst. of Vert. Paleontol. and Paleoanthro.)	Beijing, China	Kexue Chubanshe
+#0000024	Speleon	Barcelona, Spain	Centre Excursionista de Catalunya
+#0000025	Zhongguo Kexue [= Chung-kuo K'o-hsu%Feh, = Chinese Science] = Scientia Sinica (English Edition)	Beijing, China	Zhongguo Kexue Yuan Zhuban -- Academia Sinica
+#0000026	Zhongguo Kexue [= Chung-kuo K'o-hsu%Feh, = Chinese Science] -- Scientia Sinica. Series B (Chemical, Biological, Agricultural, Medical & Earth Sciences). (Engl. Ed.)	Beijing, China	Acad. Sin.
+#0000027	Rendiconti della Societa%C Geologica Italiana. Supplemento al Bollettino della Societa%C Italiana	Rome, Italy	Societa%C Geologica Italiana
+#0000029	Annalen des Naturhistorischen Museums in Wien. Ser. A fu%Fr Mineralogie und Petrographie, Geologie und Pala%Fontologie, Anthropologie und Pra%Fhistorie	Vienna, Austria	Natur. Mus. Wien
+#0000030	North American Paleontological Convention -- Proceedings. [s.l.]	North American Paleontological Convention	\N
+#0000031	Eesti NSV Teaduste Akadeemia Toimetised, Bioloogiline Seeria = Izvestiya Akademii Nauk Estonskoy SSR, Seriya Biologicheskaya\tTallin, EstSSR, USSR\t Izdatel'stvo ``Perioodika''	\N	\N
+#0000032	Rivista del Museo Civico di Scienze Naturali ``E. Caffi''	Bergamo, Italy	Museo Civico di Scienze Naturali di Bergamo
+#0000033	International Geological Correlation Programme, Project 73/1/24: Quaternary Glaciations in the Northern Hemisphere, Report	Prague, Czechoslovakia	Internat. Geological Correlation Programme
+#0000035	Izvestiya Akademii Nauk Tadzhikskoy SSR, Otdeleniye Fiziko-Matematicheskikh i Geologo-Khimicheskikh Nauk	Dushanbe, TazhSSR, USSR	Izdatel'stvo ``Donish''
+#0000036	Mitteilungen der Naturforschenden Gesellschaft Luzern	Lucerne, Switzerland	Kommissionsverlag Eugen Haag, Lucerne, Switzerland
+#0000037	Publication of the Geological Research and Development Centre. Paleontology Series. Ministry of Mines and Energy(Indonesia)	Bandung, Indonesia	Republic of Indonesia, Ministry of Mines and Energy, Directorate General of Mines
+#0000038	I Quaderni	Maglie, Italy	Museo Communale di Paleontologia
+#0000039	Haiyang Huikan [= Hai-yang Hui-k'an = Marine Journal] = Journal of Marine Science (Taiwan)	Taibei [= T'ai-pei], Taiwan	Institute of Marine Science and Dept. of Marine Science, Chinese Culture University
+#0000040	Quaternary of South America and Antarctic Peninsula	Rotterdam, The Netherlands	A. A. Balkema
+#0000041	Australian Quaternary Newsletter	Canberra, ACT, Australia	Research School of Pacific Studies, The Australian National University
+#0000042	Mississippi Geology	Jackson, MS, USA	State of Mississippi, Bureau of Geology, Department of Natural Resources
+#0000043	QDR -- Quaderni di Documentazione Regionale, Nuova Serie	Milano, Italy	Istituto Lombardo Accademia di Scienze e Lettere
+#0000044	De Rebus in Palaeontologico Museo Upsaliensi Collectis = Illustr. Catal. of the Type Collections of the Palaeontol. Mus. of the Univ. of Uppsala	Uppsala, Sweden	Palaeontol. Museum, Univ. Uppsala. 1973
+#0000045	Memoirs of the Natural History Foundation of Orange County (California)	Huntington Beach, CA, USA	The Natural History Foundation of Orange County
+#0000046	Geologi%Aa Norandina(Bogota%A)	Bogota%A, Colombia	Sociedad Colombiana de Geologi%Aa
+#0000047	Occasional Paper -- Imperial Valley College Museum Society	El Centro, CA, USA	Imperial Valley College Museum Society
+#0000048	Jornadas Argentinas de Paleontologi%Aa de Vertebrados, Resu%Amenes	La Plata, Argentina	Comisio%An de Investigaciones Cienti%Aficas de la Provincia de Buenos Aires
+#0000049	Dakoterra	Rapid City, SD, USA	South Dakota School of Mines and Technology
+#0000050	Memo%Arias do Museu do Mar, Serie Zoolo%Agica, Municipio de Cascais	Cascais, Portugal	Museu do Mar
+#0000051	Actas del Congreso Latinoamericano de Geologi%Aa	.	.
+#0000052	Hercynica	Rennes, Frence	Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne
+#0000053	Dortmunder Beitra%Fge zur Landeskunde, Naturwissenschaftliche Mitteilungen	Dortmund, Germany	Museum fu%Fr Naturkunde
+#0000054	Journal of the Sydney Speleological Society	Sydney, Australia	Sydney Speleological Society
+#0000055	Relatorio del Congreso Geolo%Agico Argentino	Buenos Aires, Argentina	Asociacio%An Geolo%Agica Argentina
+#0000056	The Linnean. Newsletter and Proceedings of the Linnean Society of London	London, England	The Linnean Society
+#0000057	Le Figaro-Magazine	Paris, France	Le Figaro
+#0000058	Current Trends in Geology (New Delhi)	New Delhi, India	Today & Tomorrow's Printers and Publishers
+#0000059	Nymphaea. Folia Naturae Bihariae	Oradea, Romania	Muzeul T%Ba%Rrii Cris%Burilor
+#0000060	Studi e Ricerche sui Giacimenti Terziari di Bolca	Verona, Italy	Museo Civico di Storia Naturale
+#0000061	Proceedings of the Indian Colloquium on Micropalaeontology and Stratigraphy	.	.
+#0000062	Akademiya Nauk Ukrayns'koy RSR. Instytut Geologichesnykh Nauk. Seriya Stratygrafii i Paleontologii [Trudy]	Kiev, USSR	Akad. Nauk Ukr. RSR
+#0000063	Atlal. The Journal of Saudi Arabian Archaeology	Riyadh, Kingdom of Saudi Arabia	Department of Antiquities and Museums, Ministry of Education
+#0000064	BGS Reports	London, England	British Geological Survey. Her Majesty's Stationary Office
+#0000065	BGS Short Communications	London, England	British Geological Survey. Her Majesty's Printing Office
+#0000066	Recent Researches in Geology (Delhi)	Delhi, India	Hindustan Publishing Corporation
+#0000067	Trudy Tsentral'nogo Nauchno-Issledovatel'skogo Geologo-Razvedochnogo Instituta (TsNIGRI)	Leningrad, USSR	Glavnoye Geologo-Gidro-Geodezicheskoye Upravleniye
+#0000068	Trudy Komissii po Izucheniyu Chetvertichnogo Perioda (Leningrad)	Leningrad, USSR	Akademiya Nauk SSSR, Komissiya po Izucheniyu Chetvertichnogo Perioda
+#0000069	Fossilia Baltica	Tallin, Estonian SSR, USSR	Akademiya Nauk Estonskoy SSR, Institut Geologii
+#0000070	Trudy Mongol'skoy Komissii	Moscow-Leningrad, USSR	Akademiya Nauk SSSR, Komitet Nauk Mongol'skoy Narodnoy Respubliki
+#0000071	Scho%Fnes Schwaben	Ammerbuch-Entringen, Germany	Verlag Scho%Fnes Schwaben Appelkamp
+#0000072	O%Fsle%Anytani Vita%Ak (Budapest)	Budapest, Hungary	Magyarhoni O%Fsle%Anytani Ta%Arsulat
+#0000073	Investigation -- New Jersey State Museum	Trenton, NJ, USA	New Jersey State Museum
+#0000074	Mizunami-Shi Kaseki Hakubutsukan Sempo%N = Monographs of the Mizunami Fossil Museum	Mizunami City, Japan	.
+#0000075	University of Colorado at Denver, Geology Department Magazine	Denver, CO, USA	University of Colorado at Denver, Geology Department
+#0000076	Beitra%Fge zur Naturkunde in Osthessen	Fulda, Germany	Verein fu%Fr Naturkunde in Osthessen
+#0000077	Annales du Muse%Aum du Havre	Le Havre, France	Muse%Aum du Havre
+#0000078	Occasional Short Notes -- Saskatchewan Museum of Natural History	Regina, Sask., Canada	Saskatchewan Culture and Recreation
+#0000079	Beihefte zum Tu%Fbinger Atlas des Vorderen Orients. Reihe A: Naturwissenschaften	Wiesbaden, Germany	Dr. Ludwig Reichert Verlag
+#0000080	Sagittarius (South African Museum). Magazine of the South African Museum = Tyskrif van die Sud Afrikaanse Museum	Cape Town, South Africa	The Museum
+#0000081	Geogaceta	Madrid, Spain	Sociedad Geolo%Agica de Espan%Ea
+#0000082	Mitteilungen der Naturforschenden Gesellschaft Schaffhausen	Schaffhausen, Switzerland	Naturforschende Gesellschaft Schaffhausen
+#0000083	Publicationes de la Fundacio%An de Investigationes Arqueolo%Agicas Nacionales (Bogata%A)	Bogata%A, Colombia	Banco de la Repu%Ablica.
+#0000084	Bulletin de la Socie%Ate%A Ge%Aologique de France. Se%Arie 5	Paris, France	Socie%Ate Ge%Aologique de France
+#0000085	Current Mammalogy	New York, NY, USA	Plenum Publishing Corp
+#0000086	American Philosophical Society. Grantees' Reports	Philadelphia, PA, USA	American Philosophical Society
+#0000087	Journal of Mediterranean Anthropology and Archaeology	Xanthi, Greece	Anthropological Museum of the International Demokritos Foundation of Xanthi
+#0000088	Kashmir Journal of Geology	.	.
+#0000089	Occasional Papers of the Tyrrell Museum of Palaeontology	Drumheller, Canada	Tyrrell Museum of Palaeontology
+#0000090	Papers in Florida Paleontology	Gainesville, FL, USA	Florida Paleontological Society, Inc., Florida Museum of Natural History, University of Florida
+#0000091	Ningxia Dizhi [Ning-hsia Ti-chih] = Ningxia Geology	Yinchuan, China	Bureau of Geology and Minerals of Ningxia
+#0000092	Yezhegodnik Tsentral'nogo Nauchno-Issledovatelskogo Geologo-Razvedochnogo Muzeya im. Akad. F. N. Chernysheva = Annals of the Central Geological and Prospecting Scientific Research Museum	.	.
+#0000093	Trudy Adygeyskogo Nauchno-Issledovatel'skogo Instituta Yazyka, Literatury i Istorii	Maykop, USSR	Adygeyskoe Knizhoye Izdatel'stvo
+#0000094	Beitra%Fge zur Naturkundlichen Forschung in Su%Fdwestdeutschland	Karlsruhe, Germany	.
+#0000095	Urgeschichtliche Materialhefte	Tu%Fbingen, Germany	Institut fu%Fr Urgeschichte der Universita%Ft Tu%Fbingen. Verlag Archaeologica Venatoria
+#0000096	Tu%Fbinger Monographien zur Urgeschichte	Tu%Fbingen, Germany	Institut fu%Fr Urgeschichte der Universita%Ft Tu%Fbingen. Verlag Archaeologica Venatoria
+#0000097	Point Reyes Bird Observatory Newsletter	Stinson Beach, CA, USA	Point Reyes Bird Observatory
+#0000098	Atti della Reale Accademia delle Scienze Fisiche e Matematiche, Serie 3	Naples	Societa%C Reale di Napoli
+#0000099	Verslagen der Geologische Sectie. Geologisch-Mijnbouwkundig Genootschap voor Nederland en Kolonie%Fn	The Hague, The Netherlands	Mouton & Co.
+#0000100	Chetvertynnyi%R Period	Kiev, USSR	Akademiya Nauk URSR, Komisiya Vyvchannya Chetvertynnoho Periodu. Vydavnytstvo Akademii%F Nauk URSR
+#0000101	Peshchery = Caves	Perm', USSR	Permskiy Gosudarstvennyy Universitet. Institut Karstovedeniya i Speleologii
+#0000102	Quaderns de l'Institut	Le%Arida (Leida), Spain	Institut d'Estudis Ilerdencs
+#0000103	Encuentro. Revista Boliviana de Cultura	La Paz, Bolivia	A.T.C. S.A. Administradora de Tarjetas c%Ba Cre%Adito
+#0000104	Archief Zeeuwsch Genootschap der Wetenschappen	Middleburg, The Netherlands	.
+#0000105	Se%Arie Geologia -- Brasil	Brasilia, Brazil	Ministe%Ario das Minas e Energia. Departamento Nacional da Produc%Ba%Eo Mineral
+#0000106	Contributions to Himalayan Geology	Delhi, India	Hindustan Publishing Corporation
+#0000107	Oxford Monographs on Geology and Geophysics	Oxford/New York	Oxford University Press
+#0000108	Special Publication. The Paleontological Society	Knoxville, TN	The Paleontological Society
+#0000109	Oxford Geological Sciences Series	Oxford/New York	Oxford University Press
+#0000110	Geologica Carpathica	Bratislava, Slovakia	Slovak Academy of Sciences, Slovak Academic Press
+#0000111	Annali dell'Universita%C di Ferrara (Nuova Serie). Sezione: Scienze della Terra	Ferrara, Italy	Universita%C degli Studi di Ferrara
+#0000112	Studia Universitatis Babes%B-Bolyai. Geologia	Cluj-Napoca, Romania.	Universitatea Babes%B-Bolyai
+#0000113	Trabajos sobre Neogeno-Cuaternario. Madrid, Spain	Seccio%An de Paleontologi%Aa de Vertebrados y Humana, Instituto ``Lucas Mallada'' del CSIC	\N
+#0000114	Azerbajcanin Paleontolokija ve Stratigrafijasi Meselaleri = Voprosy Paleontologii i Stratigrafii Azerbaydzhana\tBaku, USSR\t Akademiya Nauk Azerbaydzhanskoy SSR	\N	\N
+#0000115	Azerbajcan Elmlar Akademijasi%Tni%Tn Habarlari. Jer Elmlari Serijasi%T. Qeoloqija = Izvestiya Akademii Nauk Azerbaydzhana. Seriya Nauk o Zemle. Geologiya	Baku, Azerbaydzhan	Izdatel'stvo `Elm'
+#0000116	Bulletin -- Acade%Amie Royale de Belgique. Classe des Sciences. [6e se%Arie]	Brussels, Belgium	Acade%Amie Royale de Belgique
+#0000117	Bulletin de la Socie%Ate%A Ge%Aologique de France	Paris, France	Socie%Ate%A Ge%Aologique de France
+#0000118	Bollettino della Societa%C di Scienze Naturali ed Economiche di Palermo. Nuova Serie (=Ser. 3.)	Palermo, Italy	Societa%C di Scienze Naturali ed Economiche di Palermo
+#0000119	Beijing Ziran Bowuguan Yanjiu Baogao [=Pei-ching tzu-jan po-wu-kuan yen-chiu-pao-kao] = Memoirs of Beijing Natural History Museum	Beijing	Beijing Natural History Museum
+#0000120	Research & Exploration	Washington, DC, USA	National Geographic Society
+#0000121	Revista Te%Acnica de Yacimientos Petroli%Aferos Fiscales Bolivianos	La Paz & Santa Cruz, Bolivia	YPFB
+#0000122	Scientific Papers -- The Mammoth Site of Hot Springs, South Dakota	Hot Springs, SD, USA	The Mammoth Site of Hot Springs, South Dakota, Inc.
+#0000123	San Bernardino County Museum Association Quarterly	Redlands, CA, USA	San Bernardino County Museum Association
+#0000124	San Bernardino County Museum Association Special Publication	Redlands, CA, USA	San Bernardino County Museum Association
+#0000125	Museum of the Rockies Occasional Paper	Bozeman, MT, USA	Museum of the Rockies
+#0000126	Quaternaria Nova	Rome, Italy	Istituto Italiano di Paleontologia Umana
+00013765	Anais da Academia Brasileira de Cie%Dncias	Rio de Janeiro, Brazil	Academia Brasileira de Cie%Dncias
+00014109	Bulletin de l'Acade%Amie Polonaise des Sciences. Se%Arie des Sciences de la Terre	Warsaw, Poland	Pan%Astwowe Wydawnictwo Naukowe
+00014141	Bulletin de la Classe des Sciences, Acade%Amie Royale de Belgique. 5e se%Arie	Brussels, Belgium	Acade%Amie Royale de Belgique
+00015709	Acta Geologica Polonica	Warsaw	Polska Akademia Nauk, Komitet Nauk Geologicznich
+00015717	Dizhi Xuebao [= Ti-chih Hsu%Feh-pao = Geology Journal] = Acta Geologica Sinica	Beijing, China	Dizhi Chubanshe
+00016616	Gushengwuxue Bao [= Ku-sheng-wu-hsu%Feh Pao = Paleontology Journal] = Acta Palaeontologica Sinica	Beijing, China	Kexue Chubanshe
+00017132	Acta Universitatis Carolinae, Geologica	Prague, Czechoslovakia	Univerzita Karlova v Praze
+00017264	Acta Zoologica Academiae Scientiarum Hungaricae	Budapest, Hungary	Akade%Amiai Kiado%A
+00017272	Acta Zoologica (Stockholm)	Stockholm, Sweden	Royal Swedish Academy of Sciences
+00017299	Acta Zoologica Fennica	Helsinki, Finland	Finnish Zoological Publishing Board
+00017302	Dongwuxue Bao [= Tung-wu-hsu%Feh Pao = Zoology Journal] = Acta Zoologica Sinica	Beijing, China	Zhongguo Dongwuxue Hui. Koxue Chubanshe
+00023078	Azerbaycan SSR Elmlar Akademiyasi%T Maruzalar = Akademiya Nauk Azerbaydzhanskoy SSR Doklady	Baku, USSR	Izdatel'stvo ``Elm''
+00023124	Azerbaycan SSR Elmlar Akademiyasinin Habarlari. Yer Elmlari Seriyasi = Izvestiya Akademii Nauk Azerbaydzhanskoy SSR. Seriya Nauk o Zemle	Baku, USSR	Izdatel'stvo ``Elm''
+00023175	Izvestiya Akademii Nauk Kazakhskoy SSR, Seriya Geologicheskaya	Alma Ata, USSR	Izdatel'stvo ``Nauka'' Kazakhskoy SSR
+00023183	Qazaq SSR Ghylym Akademiyasynyn' Habarlary, Seriya Biologicheskaya = Izvestiya Akademii Nauk Kazakhskoy SSR, Seriya Biologicheskaya	Alma Ata, USSR	Izdatel'stvo ``Nauka'' Kazakhskoy SSR
+00023213	Qazaq SSR Ghylym Akademiyasynyn' Habarshysy = Vestnik Akademii Nauk Kazakhskoy SSR	Alma-Ata, USSR	AN Kazakh. SSR
+00023264	Doklady Akademii Nauk. Rossiyskaya Akademiya Nauk	Moscow, Russia	Izdatel'stov ``Nauka''
+00023272	Trudy Geologicheskogo Instituta, Akademiya Nauk SSSR	Moscow, USSR	Izdatel'stvo ``Nauka''
+00023469	Dokladhoi Akademiyai Fanhoi RSS Tojikiston = Doklady Akademii Nauk Tadzhikskoy SSR	Dushanbe, USSR	Izdatel'stvo ``Donish''
+00023485	Akhboroti Akad. Fanhoi RSS Tojikiston. Shu%Nbai Fan. Fiz. Mat. Khim. va Geol. = Izv. Akad. Nauk Tadzh. SSR, Otd. Fiz.-Mat. Khim. Geol. Nauk.	Dushanbe, USSR	Izdatel'stvo ``Donish''
+00023523	Dopovidi Akademii%F Nauk Ukrai%Fns'koi%F RSR. Seriya B. Heolohichni, Khimichni ta Biolohichni Nauky	Kiev, USSR	Vydavnytsvo ``Naukova Dumka''
+0002354X	Doklady Akademii Nauk Belorusi	Minsk, USSR	Nauka i Tekhnika
+00027014	Ameghiniana. Revista de la Asociacio%An Paleontolo%Agica Argentina	Buenos Aires, Argentina	Asociacio%An Paleontolo%Agica Argentina
+00027065	Jahrbuch des Obero%Fsterreichischen Musealvereines Gesellschaft fu%Fr Landeskunde	Linz, Austria	Obero%Fsterreichischer Musealvereines -- Gesellschaft fu%Fr Landeskunde
+00027979	Journal of the American Dental Association (JADA)	Chicago, IL, USA	American Dental Association
+00029483	American Journal of Physical Anthropology	New York, NY, USA	Alan R. Liss, Inc.
+00029599	American Journal of Science	New Haven, CT, USA	Kline Geology Laboratory, Yale University
+00030031	American Midland Naturalist	South Bend, IN, USA	University of Notre Dame, The University Press
+00030082	American Museum Novitates	New York, NY, USA	American Museum of Natural History
+00030090	Bulletin of the American Museum of Natural History	New York, NY, USA	American Museum of Natural History
+00030147	American Naturalist	Chicago, IL, USA	University of Chicago Press
+0003049X	Proceedings of the American Philosophical Society	Philadelphia, PA, USA	American Philosophical Society
+00030996	American Scientist	Research Triangle Park, NC, USA	Sigma Xi, the Scientific Research Society
+00031569	American Zoologist	Lawrence, KS, USA	American Society of Zoologists
+0003455X	Annales Zoologici Fennici	Helsinki, Finland	Finnish Academy of Sciences, Societas Scientiarum Fennica, Societas pro Fauna et Flora Fennica, Societas Biologica Fennica Vanamo
+00035335	Antarctic Journal of the United States	Washington, DC, USA	National Science Foundation, Office of Polar Programs
+00035505	Jinruigaku Zasshi [= Anthropology Journal] = Journal of the Anthropological Society of Nippon	To%Nkyo%N, Japan	Nihon Jinrui Gakkai (Japanese Anthropological Society)
+00035521	L'Anthropologie	Paris, France	Masson et Cie
+00035572	Anthropos. Studies in Anthropology, Palaeoethnology, Palaeontology and Quaternary Geology	Brno, Czechoslovakia	Anthropos Institute -- Moravian Museum
+00039969	Archives of Oral Biology	Oxford, England - New York, NY, USA	Pergamon Press
+00040843	Arctic	Calgary, AB, Canada	Arctic Institute of North America
+00041378	Journal of the Arizona Academy of Science	[Tucson], AZ, USA	Arizona Academy of Science
+00042110	Arkiv for Zoologi	Stockholm, Sweden	Kungl. Svenska Vetenskapakademien
+00044822	Asociacio%An Geolo%Agica Argentina Revista	Buenos Aires, Argentina	Asociacio%An Geolo%Agica Argentina
+00045500	Bulletin de l'Association Franc%Baise pour l'E%Atude du Quaternaire. 2e Se%Arie	Paris, France	Maison de la Ge%Aologie
+00047856	Aufschluss. Zeitschrift fu%Fr die Freunde der Mineralogie und Geologie	Heidelberg, Germany	Vereinigung der Freunde der Mineralogie und Geologie
+00048038	Auk. A Quarterly Journal of Ornithology	Washington, DC, USA	The American Ornithologists' Union
+00056995	Abhandlungen, Bayerische Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse	Munich, Germany	Verlag der Bayerischen Akademie der Wissenschaften
+00057266	Baylor Geological Studies, Bulletin	Waco, TX, USA	Baylor University, Department of Geology
+00058122	Beitra%Fge zur Naturkundlichen Forschung in Su%Fdwestdeutschland	Karlsruhe, Germany	Landessammlungen fu%Fr Naturkunde Karlsruhe
+00062375	Bild der Wissenschaft. Zeitschrift fu%Fr Naturwissenschaft and Technik in Unserer Zeit	Stuttgart, Germany	Pegasus Buch- und Zeitschriften-Vertriebsgesellschaft
+00063231	Biological Reviews of the Cambridge Philosophical Society	London, England / New York, NY, USA	Cambridge University Press
+0006324X	Proceedings of the Biological Society of Washington	Washington, DC, USA	Biological Society of Washington
+00063568	BioScience	Washington, DC, USA	Institute of Biological Sciences
+00066982	Journal of the Bombay Natural History Society	Bombay, India	Bombay Natural History Society
+00067172	Bonner Zoologische Beitra%Fge	Bonn, Germany	Zoologisches Forschungsinstitut und Museum Alexander Ko%Fnig
+00069698	Breviora	Cambridge, MA, USA	Harvard University, Museum of Comparative Zoology
+00071072	British Journal of Herpetology	London, England	British Herpetological Society
+00071471	Bulletin of the British Museum (Natural History), Geology	London, England	British Museum (Natural History)
+00071498	Bulletin of the British Museum (Natural History), Zoology	London, England	British Museum (Natural History)
+00073938	Spisanie na Bu%Rlgarskoto Geologichesko Druzhestvo = Review of the Bulgarian Geological Society	Sofiya, Bulgaria	Izdatelstvoto na Bu%Rlgarskata Akadimiya Naukite
+00074802	Bulletin of Canadian Petroleum Geology	Calgary, AB, Canada	Canadian Society of Petroleum Geologists
+00075167	Bulletin of Zoological Nomenclature	London, England	International Commission on Zoological Nomenclature
+00075779	Bulletins of American Paleontology	Ithaca, NY, USA	Paleontological Research Institution
+00076104	Bulletin du Bureau de Recherches Ge%Aologiques et Minie%Cres (France). Section 1: Ge%Aologie de la France (Serie 2)	Orleans, France	E%Aditions BRGM
+00080241	Cahiers Ge%Aologiques	Paris, France	Association des Amis et Anciens E%Ale%Cves du Laboratoire de Ge%Aologie, Universite%A de Paris, Faculte%A des Sciences
+00080594	Calcified Tissue Research	New York, NY, USA	Springer Verlag New York, Inc.
+00081000	Bulletin -- California Division of Mines and Geology	Sacramento, CA, USA	California Division of Mines and Geology
+00083550	Canadian Field-Naturalist	Ottawa, Canada	Ottawa Field-Naturalists' Club
+00084077	Canadian Journal of Earth Sciences = Journal Canadien des Sciences de la Terre	Ottawa, Canada	National Research Council of Canada
+00084301	Canadian Journal of Zoology = Journal Canadien de Zoologie	Ottawa, Canada	The National Research Council of Canada
+00086452	Caribbean Journal of Science	Mayagu%Fez, Puerto Rico	University of Puerto Rico, Faculty of Arts and Sciences
+00087351	C%Jasopis Na%Arodni%Aho Muzea v Praze, R%Jada Pr%Ji%Arodove%Jdna%A	Prague, Czechoslovakia	Na%rodni%A Muzeum v Praze, Vydavatelstvo Panorama
+00087378	C%Jasopis pro Mineralogii a Geologii	Prague, Czechoslovakia	Societas Mineralogica et Geologica Bohemoslovaca
+00089672	Bulletin du Centre de Recherches de Pau	Pau, France	Socie%Ate%As des Pe%Atroles d'Aquitaine
+00090700	C%Jeskoslovensky%A C%Jasopis pro Fyziku. Sekce A	Prague, Czechoslovakia	C%Jeskoslovenska%A Akademie Ve%Jd.
+00092347	Chemical & Engineering News	Washington, DC, USA	American Chemical Society
+00092770	Chemicke%A Listy	Prague	C%Jeskoslovenska%A Spolec%Jnost Chemicka%A, Academia Publishers
+00105422	Condor. Journal of the Cooper Ornithological Society	Lawrence, KS, USA	Allen Press, Inc.
+00106275	Connoisseur	New York, NY, USA	Hearst Corporation
+0010650X	The Conservationist	Albany, NY, USA	New York State Department of Environmental Conservation
+00107980	Contributions to Geology, University of Wyoming	Laramie, WY, USA	The University of Wyoming, Department of Geology and Geophysics
+00113069	Curator	New York, NY, USA	American Museum of Natural History
+00113204	Current Anthropology	Chicago, IL, USA	University of Chicago Press for the Wenner-Gren Foundation of Anthropological Research
+00114014	Currents in Modern Biology	Amsterdam, The Netherlands	North Holland Publ. Co.
+00116297	Bulletin of the Geological Society of Denmark = Meddelelser fra Dansk Geologisk Forening	Copenhagen, Denmark	Geological Society of Denmark
+0011796X	Delphin, Der. Revue der Unterwasserwelt	Hamburg, Germany	Verband deutscher Sporttaucher
+00120189	Zeitschrift der Deutschen Geologischen Gesellschaft	Hannover, Germany	Deutsche Geologische Gesellschaft
+00123633	Discovery	New Haven, CT, USA	Yale University, Peabody Museum of Natural History
+0012494X	Transactions (Doklady) of the USSR Academy of Sciences. Earth Science Sections. [Transl. of papers from Doklady Akad. Nauk SSSR]	Washington DC, USA	Scripta Technica, Inc. & Am. Geol. Inst.
+0012821X	Earth and Planetary Science Letters	Amsterdam, The Netherlands	Elsevier Scientific Publishing Company
+00128228	Earth Science	Alexandria, VA, USA	American Geological Institute
+00129402	Eclogae Geologicae Helvetiae	Basel, Switzerland	Birkha%Fuser Verlag
+00132144	Eesti NSV Teaduste Akadeemia Toimetised, Bioloogia = Izvestiya Akademii Nauk Estonskoy SSR, Biologiya	Tallin, EstSSR, USSR	Izdatel'stvo ``Perioodika''
+00136220	The Journal of the Elisha Mitchell Scientific Society	Chapel Hill, NC, USA	University of North Carolina
+00137812	Engineering and Science	Pasadena, CA, USA	California Institute of Technology
+00143820	Evolution	Lawrence, KS, USA	Society for the Study of Evolution
+00145009	Explorer	Cleveland, OH, USA	Cleveland Museum of Natural History
+00145025	Explorers Journal	New York, NY, USA	The Explorers Club
+00145793	FEBS Letters for the rapid publication of short reports in biochemistry, biophysics and molecular biology	Amsterdam, The Netherlands	Elsvier for the Feder. of European Biochem. Societies
+00150703	Field Museum of Natural History Bulletin	Chicago, IL, USA	Field Museum of Natural History
+00150754	Fieldiana, Zoology (New Series)	Chicago, IL, USA	Field Museum of Natural History
+00153850	Quarterly Journal of the Florida Academy of Sciences	Gainesville, FL, USA	Florida Academy of Sciences
+00155411	Fo%Fldrajzi Ko%Fzleme%Anyek. Uj Folyam (= New series)	Budapest, Hungary	Magyar Fo%Fldrajzi Ta%Arsasa%Ag
+0015542X	Fo%Fldtani Ko%Fzlo%Fny	Budapest, Hungary	Magyar Fo%Fldtani Ta%Arsulat
+00155489	Folia Biochimica et Biologica Graeca	Athens, Greece	Institute of Marine Molecular Biochemistry and Biology
+00155586	Folia Histochemica et Cytobiologica	Krako%Aw, Poland	Polish Histochemical and Cytochemical Society
+00155640	Folia Morphologica	Prague, Czechoslovakia	Czechoslovak Academy of Sciences
+00155713	Folia Primatologica	International Journal of Primatology. Basel, Switzerland	S. Karger
+0015573X	Folia Quaternaria. (Polska Akademia Nauk, Oddzial w Krakowie, Komisja Paleogeografii Czwartorze%Kdu)	Krakow, Poland	Zaklad Narodowy im. Ossolin%Askich -- Wydawnictwo
+00159298	Fragmenta Balcanica Musei Macedonici Scientiarum Naturalium	Skopje, Yugoslovia	Prirodonauc%Jniot Muzej
+00164127	Gallia Pre%Ahistoire	Paris, France	Centre National de la Recherche Scientifique
+0016531X	Gayana, Zoologi%Aa	Concepcio%An, Chile	Universidad de Concepcio%An
+00166995	Ge%Aobios -- Pale%Aontologie, Stratigraphie, Pale%Aoe%Acologie	Lyon, France	Universite%A de Lyon
+00167037	Geochimica et Cosmochimica Acta. Journal of the Geochemical Society and the Meteoritical Society	New York, Oxford, etc.	Pergamon Press
+00167525	Geokhimiya (Akademiya Nauk SSSR)	Moscow, USSR	Izdatel'stvo ``Nauka''
+0016755X	Geologica Bavarica	Munich, Germany	Bayerisches Geologisches Landesamt
+00167568	Geological Magazine	Cambridge, England	Cambridge University Press
+00167585	The Quarterly Journal of the Geological Mining and Metallurgical Society of India	Calcutta, India	The Geological Mining and Metallurgical Society of India. 1-58, 1926-1986//
+00167606	Geological Society of America Bulletin	Boulder, CO, USA	Geological Society of America
+00167614	Journal of the Geological Society of Australia	Adelaide, SA, Australia	Geological Society of Australia, Inc.
+00167622	Journal of the Geological Society of India	Bangalore, India	Geological Society of India
+00167630	Chishitsugaku Zasshi = Journal of the Geological Society of Japan	Tokyo, Japan	Nippon Chishitsugaku Gakkai
+00167649	Journal of the Geological Society, London	London, England	The Geological Society of London
+00167738	Geologicky%A Zborni%Ak = Geologica Carpathica	Bratislava, Czechoslovakia	Slovenska%A Akade%Amia Vied, Izdatel'stvo ``Veda''
+00167746	Geologie en Mijnbouw	Amsterdam, The Netherlands	Koninklijk Nederlands Geologisch Mijnbouwkundig Genootschap
+00167762	Izvestiya Vysshikh Uchebnykh Zavedeniy, Geologiya i Razvedka	Moscow, USSR	Moskovskiy Ordena Trudovogo Krasnogo Znameni Geologorazvedochnyy Institut im. S. Ordzhonikidze
+00167789	Geologija -- Razprave in Poroc%Jila	Ljubljana, Yugoslavia	Geolos%Jki Zavod v Ljubljani in Slovensko Geolos%Jko Drus%Jtvo
+00167797	Geologische Bla%Ftter fu%Fr Nordost-Bayern und Angrenzende Gebiete	Erlangen, Germany	Institut fu%Fr Geologie und Mineralogie der Universita%Ft Erlangen-Nu%Frnberg
+00167800	Jahrbuch der Geologischen Bundesanstalt (Austria)	Vienna, Austria	Geologische Bundesanstalt
+00167819	Verhandlungen der Geologischen Bundesanstalt	Vienna, Austria	Geologische Bundesanstalt
+00167835	Geologische Rundschau. Internationales Jahrbuch fu%Fr Geologie (Geologische Vereinigung)	Stuttgart, Germany	Ferdinand Enke Verlag
+0016786X	Geologiska Fo%Freningens i Stockholm Fo%Frhandlingar	Stockholm, Sweden	Geological Society of Sweden
+00167878	Proceedings of the Geologists' Association	Colchester, England	The Geologists' Association, London
+00167886	Geologiya i Geofizika. (Akademiya Nauk SSSR, Sibirskoye Otdeleniye)	Novosibirsk, USSR	Izdatel'stvo ``Nauka'' Sibirskoye Otdeleniye
+00167924	Geolos%Jki Vjesnik	Zagreb, Yugoslavia	Geolos%Jki Zavod u Zagrebu i Hrvatsko Geolos%Jko Drus%Jtvo
+00168114	Georgia Journal of Science	Athens, GA, USA	The Georgia Academy of Science
+00168556	Geotimes	Falls Church, VA, USA	American Geological Institute
+00170291	Giornale di Geologia. Rivista di Geologia Sedimentaria e Geologia Marina. Serie 3	Bologna, Italy	Universita%C di Bologna
+00173614	Great Basin Naturalist	Provo, UT, USA	Brigham Young University
+00174505	Grondboor en Hamer. Tijdschrift van de Nederlandse Geologische Vereniging	Winterswijk, The Netherlands	Nederlandse Geologische Vereniging
+00179973	Helictite. Journal of Australasian Cave Research	Broadway, Australia	Speleological Research Council, Ltd.
+00180637	Hercynia. Beitra%Fge zur Erforschung und Pflege der natu%Frlichen Ressourcen	Leipzig, Germany	Akademische Verlagsgesellschaft Geest & Portig K.-G. Neue Folge
+00180831	Herpetologica	Lawrence, KS, USA	Herpetologists' League, Inc.
+00183091	Ho%Fhle, Die. Zeitschrift fu%Fr Karst- und Ho%Fhlenkunde	Vienna, Austria	Verband O%Fsterreichischer Ho%Fhlenforscher
+00183474	Journal of the Faculty of Science, Hokkaido University. Series 4, Geology and Minerology	Sapporo, Japan	The Hokkaido University
+00189634	Bulletin de l'Institut Fondamental d'Afrique Noire. Serie A: Sciences Naturelles	Dakar, Senegal	Institut Fondamental d'Afrique Noire
+00191019	Ibis. Journal of the British Ornithologists' Union	London, England	Academic Press
+00192252	Transactions of the Illinois State Academy of Science	Springfield, IL, USA	Illinois Academy of Science
+00204234	Da%Rri de Seama%R ale S%Bedint%Belor = Comptes Rendus des Se%Aances, Institutul Geologic, Bucharest	Bucharest, Romania	Institutul Geologic
+00211311	Irish Naturalists' Journal	Belfast, Northern Ireland	I. N. J. Committee
+00211753	Isis. An International Review Devoted to the History of Science and its Cultural Influences	Philadelphia, PA, USA	History of Science Society
+00212059	Israel Exploration Journal	Jerusalem, Israel	Israel Exploration Society, Institute of Archaelogy, Hebrew University, Department of Antiquities & Museums, Ministry of Education & Culture
+00212164	Israel Journal of Earth Sciences	Jerusalem, Israel	The Weizmann Science Press of Israel
+00212210	Israel Journal of Zoology	Jerusalem, Israel	The Weizman Science Press of Israel
+00212504	Rendiconti, Istituto Lombardo Accademia di Scienze e Lettere. A. Scienze Matematiche, Fisiche, Chimiche e Geologiche	Milan, Italy	Istituto Lombardo di Scienze e Lettere
+00214280	Proceedings of the Japan Academy = Nihon Gakushi-in Kiyo	Tokyo, Japan	The Japan Academy
+00214922	Japanese Journal of Applied Physics. Part 2. Letters	Tokyo, Japan	Publication Board, Japanese Journal of Applied Physics
+00217646	Journal Belge de Radiologie	Brussels, Belgium	Socie%Ate%A Royale Belge de Radiologie
+00218359	Journal fu%Fr Hirnforschung. International Journal of Brain Research and Neurobiology	Berlin, Germany	Akademie-Verlag
+00218375	Journal fu%Fr Ornithologie	Berlin, Germany	R. Friedla%Fnder & Sohn
+00218782	Journal of Anatomy. (Anatomical Society of Great Britain and Ireland)	Cambridge, England	Cambridge University Press
+00219533	Journal of Cell Science	London, England	Cambridge University Press
+00220345	Journal of Dental Research	Washington, D.C., USA	International Association for Dental Research
+0022135X	Chigaku Zasshi = Journal of Geography	Tokyo, Japan	Tokyo%N Chigaku Kyokai = Tokyo Geographical Society
+00221368	Journal of Geological Education	Lawrence, KS, USA	National Association of Geology Teachers
+00221376	Journal of Geology	Chicago, IL, USA	The University of Chicago Press
+00221511	Journal of Herpetology	Riverside, CA, USA	Society for the Study of Amphibians and Reptiles
+00222372	Journal of Mammalogy	Lawrence, KS, USA	American Society of Mammalogists
+00222763	Journal of Mining and Geology (Ibadan)	Ibadan, Nigeria	The Nigerian Mining, Geological and Metallurgical Society
+00222933	Journal of Natural History. An International Journal of Taxonomic and General Biology	London, England	Taylor and Francis
+00223360	Journal of Paleontology	Lawrence, KS, USA	Paleontological Society
+00224081	Journal of Radioanalytical Chemistry	Lausanne, Switzerland, Elsevier Sequoia S.A. and Budapest, Hungary	Akade%Amiai Kiado%A
+00225010	Journal of the History of Biology	Dordrecht, The Netherlands & Boston, MA, USA	D. Reidel Publishing Company
+00225193	Journal of Theoretical Biology	London, New York, San Francisco	Academic Press
+00225460	Journal of Zoology. Proceedings of the Zoological Society of London	London, England	Academic Press
+00228443	Transactions of the Kansas Academy of Science	Lawrence, KS, USA	Kansas Academy of Science
+00228850	University of Kansas Science Bulletin	Lawrence, KS, USA	University of Kansas
+0023074X	Kexue Tongbao [=K'o Hsu%Feh T'ung Pao] = Science Journal (Academia Sinica)	Beijing, China	Kexue Chubanshe
+00233366	Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen, Series B: Palaeontology, Geology, Phys., Chem., Anthropol	Amsterdam, The Netherlands	North-Holland Pub. Co.
+00233374	Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Biological, Chemical, Geological, Physical and Medical Sciences	Amsterdam, The Netherlands	North-Holland Pub. Co.
+00234230	Kosmos. Gesellschaft der Naturfreunde, Stuttgart	Stuttgart, FRG	Franckh'sche Verlagshandlung W. Keller & Co
+00235873	Kwartalnik Geologiczny	Warsaw, Poland	Pan%Astwowy Instytut Geologiczny
+00237906	Abhandlungen aus dem Landesmuseum fu%Fr Naturkunde zu Mu%Fnster in Westfalen -- Landschaftsverband Westfalen-Lippe	Mu%Fnster, Germany	Westfa%Flische Vereinsdruckerei
+00240672	Zoologische Mededelingen	Leiden, The Netherlands	Rijksmuseum van Natuurlijke Historie te Leiden
+00240834	Vestnik Leningradskogo Universiteta. Seriya 7, Geologiya, Geografiya	Leningrad, USSR	Izdatel'stvo Leningradskogo Universiteta
+00241164	Lethaia. An International Journal of Palaeontology and Stratigraphy	Oslo, Norway	Universitetsforlaget
+00244066	Biological Journal of the Linnean Society	London, England	Academic Press
+00244082	Zoological Journal of the Linnean Society	London, England	Linnean Society
+00246492	Lore	Milwaukee, WI, USA	Friends of the Milwaukee Public Museum
+00247634	Lutra. Orgaan van de Vereniging voor Zoogdierkunde en Zoogdierbescherming = Bulletin de la Socie%Ate%A pour l'E%Atude et la Protection des Mammife%Cres	Leiden, The Netherlands	E.J. Brill
+00251461	Mammalia -- Morphologie, Biologie, Syste%Amatique des Mammife%Cres	Paris, France	Muse%Aum National d'Histoire Naturelle
+00256676	Meddelelser om Gro%Snland (Kommissionen for Videnskabelige Underso%Sgelser i Gro%Snland)	Copenhagen, Denmark	C. A. Rietzels Forlag
+0025990X	Mercian Geologist. (East Midlands Geological Society)	Nottingham, England	Nottingham University Press
+00262005	Michigan Academician. Papers of the Michigan Academy of Science, Arts and Letters	Ann Arbor, MI, USA	\N
+00262803	Micropaleontology\tNew York, NY, USA\t American Museum of Natural History	\N	\N
+00264555	California Geology	Sacramento, CA, USA	California Division of Mines and Geology
+00264563	Bulletin of the Mineral Research and Exploration Institute of Turkey. Foreign Edition	Ankara, Turkey	Maden Tetkik ve Arama Enstitusu
+00266493	Annals of the Missouri Botanical Garden	St. Louis, MO, USA	Missouri Botanical Garden
+00267775	Modern Geology	London, England	Gordon and Breach Science Publishers, Inc
+00271284	Mosaic	Washington, DC, USA	National Science Foundation
+00271403	Byulleten' Moskovskogo Obshchestva Ispytateley Prirody, Otdel Biologicheskiy	Moscow, USSR	Izdatel'stvo Moskovskogo Universiteta
+0027254X	Mountain Geologist	Denver, CO, USA	The Rocky Mountain Association of Geologists
+00273414	Munibe	San Sebastian, Spain	Sociedad de Ciencias Naturales Aranzadi
+00273910	Boletin -- Museo Nacional de Historia Natural (Santiago)	Santiago, Chile	Museo Nacional de Historia Natural
+00274070	Bulletin du Muse%Aum National d'Histoire Naturelle, [Se%Arie 3], Sciences de la Terre	Paris, France	Muse%Aum National d'Histoire Naturelle
+00274100	Bulletin of the Museum of Comparative Zoology	Cambridge, MA, USA	Harvard University
+00278424	Proceedings of the National Academy of Sciences of the United States of America	Washington, DC, USA	National Academy of Sciences of the United States
+00279358	National Geographic	Washington, DC, USA	National Geographic Society
+00280119	Kokuritsu Kagaku Hakubutsukan Kenkyu%N Ho%Nkoku = Bulletin of the National Science Museum. [New Series]	Tokyo, Japan	.
+00280712	Natural History	New York, NY, USA	American Museum of Natural History
+00280798	Le Naturaliste Canadien	Quebec, PQ, Canada	Les Presses de l'Universite%A Laval
+00280801	Les Naturalistes Belges. Bulletin de la Fe%Ade%Aration des Socie%Ate%As Belges des Sciences de la Nature	Brussels, Belgium	Les Naturalistes Belges.
+00280836	Nature (London)	London, England	Macmillan Journals
+00280887	Naturen. Populaervitenskapelig tidsskrift	Bergen, Norway	Universitetsforlaget
+00280917	Berichte der Naturforschenden Gesellschaft zu Freiburg im Breisgau	Freiburg i. Br., Germany	Naturforschende Gesellschaft zu Freiburg i. Br. 1886-
+00281042	Naturwissenschaften	Berlin, Germany	Springer Verlag
+00281050	Naturwissenschaftliche Rundschau	Stuttgart, Germany	Wissenschaftliche Verlagsgesellschaft
+00281107	Natuurhistorisch Maandblad	Maastricht, The Netherlands	Natuurhistorisch Genootschap in Limburg
+00281263	Nauka i Zhizn'	Moscow, USSR	Vsesoyuznoye Obshchestvo ``Znaniye''. Izdatel'stvo ``Pravda''
+00281301	Natur und Museum. Bericht der Senckenbergischen Naturforschenden Gesellschaft	Frankfurt am Main, Germany	Senckenbergische Naturforschende Gesellschaft
+00282960	Netherlands Journal of Zoology = Archives Ne%Aerlandaises de Zoologie	Leiden, The Netherlands	E. J. Brill
+00283630	Neues Jahrbuch fu%Fr Geologie und Pala%Fontologie, Monatshefte	Stuttgart, Germany	E. Schweizerbart'sche Verlagsbuchhandlung
+00285463	Bulletin -- New Jersey Academy of Science	New Brunswick, NJ, USA	New Jersey Academy of Science
+00286133	New Mexico Academy of Science Bulletin	Las Vegas, NM, USA	New Mexico Academy of Science
+00286664	New Scientist	London, England	IPC Magazines
+00288306	New Zealand Journal of Geology and Geophysics	Wellington, New Zealand	New Zealand Dept. of Scientific and Industrial Research
+0029196X	Norsk Geologisk Tidsskrift. A Norwegian Journal of Geology	Oslo, Norway	Norsk Geologisk Forening. Universitetsforlaget
+0029344X	Northwest Science	Pullman, WA, USA	Northwest Scientific Association
+00294470	Notornis. Quaterly Journal of the Ornithological Society of New Zealand	Dunedin, New Zealand	.
+00295671	La Recherche	Paris, France	Socie%Ate%A d'E%Aditions Scientifiques
+00296864	Norwegian Journal of Zoology	Oslo, Norway	Universitetsforlaget
+00298174	Oceans	San Francisco, CA, USA	Oceanic Society
+00298808	Sitzungsberichte -- O%Fsterreichische Akademie der Wissenschaften, Mathematisch-Naturwissenschaft. Klasse, Abt. 1: Biol., Mineral., Erdk., und Verw. Wiss	Vienna, Austria	Springer
+00300950	The Ohio Journal of Science	Columbus, OH, USA	The Ohio Academy of Science
+00301736	Oklahoma Geology Notes	Norman, OK, USA	Oklahoma Geological Survey, University of Oklahoma
+00306525	Ostrich. The Journal of the South African Ornithological Society = Die Tydskrif van die Suider-Afrikaanse Voe%Flkundige Vereniging	Johannesburg, South Africa	\N
+00308641	Pacific Discovery\tSan Francisco, CA, USA\t California Academy of Sciences	\N	\N
+00309923	Pakistan Journal of Zoology	Lahore, Pakistan	The Zoological Society of Pakistan
+00310182	Palaeogeography, Palaeoclimatology, Palaeoecology. An International Journal for the Geo-Sciences	Amsterdam, The Netherlands	Elsevier Scientific Publishing Company
+00310204	Nihon Koseibutsu Gakkai. Ho%Nkoku, Kiji = Transactions and Proceedings of the Palaeontological Society of Japan. New Series	Tokyo, Japan	Palaeontological Society of Japan
+00310220	Pala%Fontologische Zeitschrift (Pala%Fontologische Gesellschaft)	Stuttgart, Germany	Schweizerbart'sche Verlagsbuchhandlung
+00310239	Palaeontology	London, England	Palaeontological Association
+00310247	Palaeovertebrata	Montpellier, France	Laboratoires de Pale%Aontologie, E%Acole Pratique des Hautes E%Atudes & Universite%A des Sciences et Techniques du Languedoc
+00310298	PaleoBios	Berkeley, CA, USA	University of California, Museum of Paleontology
+00310301	Paleontological Journal (English translation of Paleontologicheskiy Zhurnal)	New York, NY, USA	Scripta Technica, Inc.
+0031031X	Paleontologicheskiy Zhurnal (Rossiyskaya Akademiya Nauk)	Moscow, Russia	Izdatel'stvo ``Nauka''
+00316229	Petermanns Geographische Mitteilungen	Gotha, GDR	VEB Hermann Haack, Geographisch-Kartographische Anstalt Gotha
+00320889	Proceedings of the Oklahoma Academy of Science	[City varies], OK, USA	Oklahoma Academy of Science
+00320889	Proceedings of the Oklahoma Academy of Science	[City varies], OK, USA	Oklahoma Academy of Science
+00321346	Plateau	Flagstaff, AZ, USA	Museum of Northern Arizona
+00326542	Der Pra%Fparator	Bochum, Germany	Verband Deutscher Pra%Fparatoren
+00328332	Primates. Journal of Primatology	Inuyama, Aichi Prefecture, Japan	Japan Monkey Centre
+0032874X	Priroda (Moscow). Yezhemesyachnyy Populyarnyy Yestestvenno-Nauchnyy Zhurnal	Moscow, USSR	Izdatel'stvo ``Nauka''
+00328758	Pr%Ji%Arodove%Jdne%A Pra%Ace U%Astavu%A C%Jeskoslovenske%A Akademie Ve%Jd v Brne%J = Acta Scientiarum Naturalium Academiae Scientiarum Bohemoslovacae, Brno	Prague, Czechoslovakia	Academia
+00332151	Przegla%Kd Geologiczny	Warsaw, Poland	Wydawnictwa Geologiczne
+0033247X	Przegla%Kd Zoologiczny	Wroclaw, Poland	Polskie Towarzystwo Zoologiczne
+00335770	Quarterly Review of Biology	Stony Brook, NY, USA	Stony Brook Foundation for State University of New York
+00335894	Quaternary Research (New York). An Interdisciplinary Journal	New York, NY, USA	Academic Press
+00340596	Revista de la Real Academia de Ciencias Exactas, Fi%Asicas y Naturales de Madrid	Madrid, Spain	Real Academia de Ciencias Exactas, Fi%Asicas y Naturales de Madrid
+00350915	Revue Canadienne de Biologie	Montreal, PQ, Canada	Les Presses de l'Universite%A de Montreal
+00351814	Revue de Zoologie et de Botanique Africaines	Brussels, Belgium	.
+00356514	Rivista di Scienze Preistoriche	Florence, Italy	Istituto Italiano di Preistoria i Protoistoria
+00356883	Rivista Italiana di Paleontologia e Stratigrafia	Milan, Italy	Universita%C degli Studi di Milano
+00358843	Annals of the Royal College of Surgeons of England	London, England	Royal College of Surgeons of England
+0035919X	Transactions of the Royal Society of South Africa	Cape Town, South Africa	The Royal Society of South Africa
+00359211	Proceedings of the Royal Society of Victoria	Melbourne, Australia	Royal Society of Victoria
+0035922X	Journal of the Royal Society of Western Australia	Perth, Australia	The Royal Society of Western Australia
+00361372	Za%Apadne%A Karpaty, Se%Aria Paleontolo%Agia	Bratislava, Czechoslovakia	Geologicky%A U%Astav Diony%Aza S%Jtu%Ara
+00362344	Sa%Fugetierkundliche Mitteilungen	Munich, FRG	Bayerischer Landwirtschaftsverlag
+00363286	Saishu%N to Shiiku = Collecting and Breeding	Tokyo, Japan	Nihon Kagaku Kyokai (Japanese Science Association)
+00363375	Salamandra. Zeitschrift fu%Fr Herpetologie und Terrarienkunde	Frankfurt am Main, Germany	Deutsche Gesellschaft fu%Fr Herpetologie und Terrarienkunde
+00365270	Sborni%Ak Geologicky%Ach Ve%Jd. Antropozoikum = Journal of Geological Sciences. Anthropozoic	Prague, Czechoslovakia	U%Astr%Jedni%A U%Astav Geologicky%A
+00365297	Sborni%Ak Geologicky%Ach Ve%Jd. Paleontologie [Journal of Geological Sciences. Paleontology]	Prague, Czechoslovakia	Czechoslovakia, U%Astr%Jedni%A U%Astav Geologicky%A
+00365343	Sborni%Ak Narodni%Aho Muzea v Praze = Acta Musei Nationalis Pragae, Rada B: Pr%Ji%Arodni%A Ve%Jdy	Prague, Czechoslovakia	Narodni%A Muzeum v Praze, Nakladatelstvo Orbis
+00368075	Science	Washington, DC, USA	American Association for the Advancement of Science
+00368156	Science and Culture, a Monthly Journal Devoted to Natural and Cultural Sciences	New Delhi, India	Indian Science News Association
+0036816X	The Sciences	New York, NY, USA	New York Academy of Science
+00368733	Scientific American	New York, NY, USA	Scientific American, Inc.
+00369276	Scottish Journal of Geology	Edinburgh, Scotland	Scottish Academic Press
+00372102	Senckenbergiana Biologica. Wissenschaftliche Mitteilungen der Senckenbergischen Naturforschenden Gesellschaft	Frankfurt-am-Main, Germany	Senckenbergische Naturforschende Gesellschaft
+00372110	Senckenbergiana Lethaea	Frankfurt-am-Main, Germany	Senckenbergische Naturforschende Gesellschaft
+00372730	Comunicac%Bo%Ees dos Servic%Bos Geolo%Agicos de Portugal	Lisbon, Portugal	Direcc%Ba%Eo-Geral de Geologia e Minas.
+00376604	Sky and Telescope	Cambridge, MA, USA	Sky Publ. Co
+00377333	Smithsonian	Washington, DC, USA	Smithsonian Associates.
+00378518	Memoria -- Sociedad de Ciencias Naturales La Salle	Caracas, Venezuela	Sociedad de Ciencias Naturales La Salle
+00378763	Bolletino della Societa%C Geologica Italiana	Rome, Italy	Societa%C Geologica Italiana
+00378828	Rendiconti della Societa%C Italiana di Mineralogia e Petrologia. Una Rivista Europea di Mineral., Petrol., Geochimica e Giacimenti Minerali	Milan, Italy	Mus. Civico di Storia Naturale, Milan, Italy
+00378844	Atti della Societa%C Italiana de Scienze Naturali e del Museo Civico di Storia Naturale di Milano	Milan, Italy	Societa%C Italiana de Scienze Naturali
+00378984	Bulletins et Me%Amoires de la Socie%Ate%A d'Anthropologie de Paris. XIVe Se%Arie	Paris, France	Socie%Ate%A d'Anthropologie de Paris, Muse%Ae de l'Homme
+00378984 A	Bulletins et Me%Amoires de la Socie%Ate%A d'Anthropologie de Paris. XIIIe Se%Arie	Paris, France	Socie%Ate%A d'Anthropologie de Paris, Muse%Ae de l'Homme
+00379018	Compte Rendu des Se%Aances de la Socie%Ate%A de Bioge%Aographie	Paris, France	Socie%Ate%A de Bioge%Aographie
+00379395	Annales de la Socie%Ate%A Ge%Aologique de Belgique	Lie%Cge, Belgium	Socie%Ate%A Ge%Aologique de Belgique
+00379406	Bulletin de la Socie%Ate%A Ge%Aologique de France. Se%Arie 7	Paris, France	Socie%Ate%A Ge%Aologique de France
+00379409	Bulletin de la Socie%Ate%A Ge%Aologique de France	Paris, France	Socie%Ate%A Ge%Aologique de France
+00379417	Compte Rendu Sommaire des Se%Aances de la Socie%Ate%A Ge%Aologique de France	Paris, France	Socie%Ate%A Ge%Aologique de France
+00379603	Bulletin de la Socie%Ate%A Vaudoise des Sciences Naturelles	Lausanne, Switzerland	Socie%Ate%A Vaudoise des Sciences Naturelles
+00382353	South African Journal of Science = Suid-Afrikaanse Tydskrif vir Wetenskap	Johannesburg, South Africa	South African Association for the Advancement of Science
+00382965	South Australian Naturalist: A Quarterly Journal of Natural History	Adelaide, Australia	Field Nauralists' Society of South Australia
+00383678	Southeastern Geology	Durham, NC, USA	Duke University, Department of Geology
+00383872	Bulletin of the Southern California Academy of Sciences	Los Angeles, CA, USA	Los Angeles County Museum of Natural History
+00384909	Southwestern Naturalist	Lubbock, TX, USA	The Southwestern Association of Naturalists
+00385069	Sovetskaya Geologiya. Organ Ministerstva Geologii	Moscow, USSR	Izdatel'stvo ``Nedra''
+00386804	Special Papers in Palaeontology (The Palaeontological Association)	London, England	The Palaeontological Association
+0039341X	Studia Universitatis Babes%B-Bolyai. Geologia-Geographia	Cluj-Napoca, Romania	Universitatea Babes%B-Bolyai
+00397989	Systematic Zoology	Washington, DC, USA	Society of Systematic Zoology
+00400823	Tebiwa -- Miscellaneous Papers in Regional Anthropology	Pocatello, Idaho	Idaho Museum of Natural History
+0040313X	Journal of the Tennessee Academy of Science	Nashville, TN, USA	Tennessee Academy of Science
+00403733	Terra	Los Angeles, CA, USA	The Natural History Museum Alliance of Los Angeles County
+00404403	Texas Journal of Science	San Angelo, TX, USA	Texas Academy of Science
+00411752	Annals of the Transvaal Museum = Annale van die Transvaal-Museum	Pretoria, South Africa	The Transvaal Museum
+00413860	Tuatara. Journal of the Departments of Botany and Zoology, Victoria University of Wellington	Wellington, New Zealand	Victoria University Press, New Zealand
+00414018	Tulane Studies in Geology and Paleontology	New Orleans, LA, USA	Tulane University, Department of Geology
+00416347	Umschau in Wissenschaft und Technik	Frankfurt-am-Main, Germany	Bechhold Verlag
+00419079	Universitas. Zeitschrift fu%Fr Wissenschaft, Kunst und Literatur	Stuttgart, Germany	Wissenschaftliche Verlagsgesellschaft
+00421685	Uzbekiston Biologiya Zhurnali = Uzbekskiy Biologicheskiy Zhurnal	Tashkent, USSR	Akademiya Nauk Usbekskoy SSR, Izdetel'stvo ``Fan''
+00421693	Uzbekiston Geologiya Zhurnali = Uzbekskiy Geologicheskiy Zhurnal. (Akademiya Nauk Uzbekskoy SSR, Ministerstvo Geologii Uzbekskoy SSR)	Tashkent, USSR	Izdatel'stvo ``FAN'' Uzbekskoy SSR
+00423211	Veliger	Davis, CA, USA	California Malacozoological Society
+00424404	Gu Jizhui Dongwu yu Gu Renlei = Vertebrata PalAsiatica [=Ku Chi-chui Tung-wu yu Ku Jenlei = Ancient Vertebrates & Ancient Hominids]	Beijing, China	Academia Sinica, IVPP
+00424730	Ve%Jstni%Ak U%Astr%Jedni%Aho U%Astavu Geologicke%Aho = Bulletin of the Geological Survey, Prague	Prague, Czechoslovakia	Czechoslovakia, U%Astr%Jedni%A U%Astav Geologicky%A
+00425184	Victorian Naturalist	South Yarra, Australia	Field Naturalists Club of Victoria
+00425672	Vierteljahrsschrift der Naturforschenden Gesellschaft in Zu%Frich	Zu%Frich, Switzerland	Leeman
+00428752	Voprosy Ikhtiologii (Rossiyskaya Akademiya Nauk)	Moscow, USSR	Izdatel'stvo  ``Nauka''
+00435643	The Wilson Bulletin. A Quarterly Magazine of Ornithology	Oberlin, OH, USA	Wilson Ornithological Society
+00440604	Proceedings of the Yorkshire Geological Society. Ser. 2	York, England	Yorkshire Geological Society
+00442798	Zeitschrift fu%Fr Geomorphologie, Supplementband	Berlin -- Stuttgart, Germany	Gebru%Fder Borntra%Fger
+0044314X	Zeitschrift fu%Fr Morphologie und Anthropologie	Stuttgart, Germany	E. Schweizerbart'sche Verlagsbuchhandlung
+00443468	Zeitschrift fu%Fr Sa%Fugetierkunde. International Journal of Mammalian Biology	Hamburg -- Berlin, Germany	Deutschen Gesellschaft fu%Fr Sa%Fugetierkunde, Verlag Paul Parey
+00443808	Zeitschrift fu%Fr Zoologische Systematik und Evolutionsforschung	Hamburg -- Berlin, Germany	Verlag Paul Parey
+00444189	Zentralblatt fu%Fr Geologie und Pala%Fontologie, Teil 2: Pala%Fontologie	Stuttgart, Germany	E. Schweizerbart'sche Verlagsbuchhandlung
+00445134	Zoologicheskiy Zhurnal. Akademiya Nauk SSSR	Moscow, USSR	Izdatel'stvo ``Nauka''
+00445142	Zoologicke%A Listy = Folia Zoologica	Prague, Czechoslovakia	``Academia'', Nakladatelstvi%A C%Jeskoslovenske%A Akademie
+00445177	Zoologische Jahrbu%Fcher, Abteilung fu%Fr Anatomie und Ontogenie der Tiere	Jena, Germany	VEB Gustav Fischer Verlag
+00445207	Zoologische Mededelingen	Leiden, The Netherlands	Rijksmuseum van Natuurlijke Historie te Leiden
+00445282	Zoonooz	San Diego, CA, USA	San Diego Zoo
+00452033	Seibutsu Kagaku = Biological Science	Tokyo, Japan	Nihon Seibutsu Kagakusha Kyokai (Japanese Society of Biological Scientists)
+00458511	Copeia	Gainesville, FL, USA	American Society of Ichthyologists and Herpetologists
+00465739	Geological Society of the Oregon Country, Geological Newsletter	Portland, OR, USA	Geological Society of the Oregon Country
+00472484	Journal of Human Evolution	London, England	Academic Press
+00651710	Acta Zoologica Cracoviensia	Krako%Aw, Poland	Polska Akademia Nauk, Zakl%Sad Zoologii Systematycznej i Dos%Awiadczalnej. Pan%Astwowe Wydawnictwo Naukowe
+0065535X	Anzeiger der O%Fsterreichische Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse	Vienna, Austria	Springer-Verlag
+00655503	Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afdeling Natuurkunde, Eerste Reeks	Amsterdam, The Netherlands	K. Nederl. Akad. Wet.
+00656631	Abhandlungen und Berichte des Naturkundlichen Museums ``Mauritianum'' Altenburg	Altenburg, Germany	Mauritianum, Naturkundliches Museum
+00658448	Geophysical Monograph	Washington, D.C., USA	American Geophysical Union
+00659746	Transactions of the American Philosophical Society	Philadelphia, PA, USA	American Philosophical Society
+00659762	American Philosophical Society Year Book	Philadelphia, PA, USA	American Philosophical Society
+00664162	Annual Review of Ecology and Systematics	Palo Alto, CA, USA	Annual Reviews, Inc
+00664634	Antarctic Research Series	Washington, DC, USA	American Geophysical Union
+00664693	Mitteilungen der Anthropologischen Gesellschaft in Wien	Vienna, Austria	Anthropologische Gesellschaft in Wien
+00667412	Arizona Geological Society Digest	Tucson, AZ, USA	Arizona Geological Society, University of Arizona
+00667781	Arnoldia (Rhodesia)	Salisbury, Rhodesia	National Museums of Rhodesia
+0067155X	Records of the Australian Academy of Science	Canberra, Australia	Australian Academy of Science
+00671975	Records of the Australian Museum	Sydney, Australia	Australian Museum
+00672238	Australian Zoologist	Mosman, Australia	Royal Zoological Society of New South Wales
+00678546	Bijdragen tot de Dierkunde	Amsterdam, The Netherlands	Commissie voor Artis-Bibliotheek
+00679038	Biuletyn Peryglacjalny	Lodz, Poland	L%So%Adzkie Towarstwo Naukowe -- Societas Scientiarum Lodziensis
+0067964X	Boletim Paranaense de Geocie%Dncias	Curitiba, Brazil	Universidade Federal do Parana%A, Setor de Tecnologia, Departamento de Geologia
+00681016	Brigham Young University Geology Studies	Provo, UT, USA	Department of Geology, Brigham Young University
+00682306	Bulletin of the British Museum (Natural History), Historical Series	London, England	British Museum (Natural History)
+00683078	Travaux du Muse%Aum d'Histoire Naturelle ``Grigore Antipa''	Bucharest, Romania	Muzeul de Istorie Naturala%R ``Grigore Antipa''
+00683183	Analele Universita%Rt%Bii Bucures%Bti, [Seria]: Geologie	Bucharest, Romania	Universitatea Bucures%Bti
+00683981	Izvestiya na Zoologicheskiya Institut s Muzey = Bulletin de l'Institut de Zoologie et Muse%Ae	Sofia, Bulgaria	Izdatelstvo na Bu%Rlgarskata Akademiya na Naukite
+00685461	Occasional Papers of the California Academy of Sciences	San Francisco, CA, USA	California Academy of Sciences
+0068547X	Proceedings of the California Academy of Sciences	San Francisco, CA, USA	The California Academy of Sciences
+0068645X	University of California Publications in Geological Sciences	Berkeley-Los Angeles, CA, USA	University of California Press
+00687634	Memoir -- Geological Survey of Canada	Ottawa, Canada	Geological Survey of Canada
+00687642	Miscellaneous Report -- Geological Survey of Canada	Ottawa, Canada	Geological Survey of Canada
+0069066X	Year Book -- Carnegie Institution of Washington	Washington, DC, USA	Carnegie Institution of Washington
+00695874	Sondervero%Fffentlichungen des Geologischen Instituts der Universtita%Ft Ko%Fln	Cologne, Germany	Geologisches Institut, Universita%Ft Ko%Fln
+00704342	Verhandlungen der Deutschen Zoologischen Gesellschaft	Stuttgart, Germany -- New York, NY, USA	Gustav Fischer Verlag
+00707112	Dorset Natural History and Archaeological Society -- Proceedings	Dorchester, England	Dorset Natural History & Archaeological Society
+0071108X	Eretz-Israel [= Erets-Yisrael], Archaeological, Historical and Geographical Studies	Jerusalem, Israel	The Israel Exploration Society
+00713260	Evolutionary Biology.	New York, NY, USA	Plenum Press
+00714550	Annali dell'Universita%C di Ferrara (Nuova Serie). Sezione 9: Scienze Geologiche e Paleontologiche	Ferrara, Italy	Universita%C degli Studi di Ferrara
+00716154	Bulletin of the Florida State Museum, Biological Sciences	Gainesville, FL, USA	University of Florida
+00718246	Me%Amoire du Bureau de Recherches Ge%Aologiques et Minie%Cres	Paris, France	Bureau de Recherches Ge%Aologiques et Minie%Cres
+00719404	Freiberger Forschungshefte, Reihe C	Leipzig, Germany	Bergakademie Freiberg -- VEB Deutscher Verlag fu%Fr Grundstoffindustrie
+00719409	Freiberger Forschungshefte, Reihe C	Leipzig, Germany	Bergakademie Freiberg -- VEB Deutscher Verlag fu%Fr Grundstoffindustrie
+00720100	Gallia Pre%Ahistoire, Supplement	.	Centre National de la Recherche Scientifique
+00720992	Geologi%Aa Colombiana	Bogota%A, Colombia	Universidad Nacional de Colombia, Departamento de Geologi%Aa -- Sociedad Colombiana de Geologi%Aa
+00721018	Geologica et Palaeontologica	Marburg, FRG	Philips-Universita%Ft, Geologisch-Pala%Fontologisches Institut
+00721042	Special Paper -- Geological Association of Canada	Toronto, Canada	Geological Association of Canada
+00721069	Geological Society of America, Memoir	Boulder, CO, USA	Geological Society of America.
+00721077	Special Paper -- Geological Society of America	Boulder, CO, USA	Geological Society of America
+00721115	Mitteilungen aus dem Geologisch-Pala%Fontologischen Institut der Universita%Ft Hamburg	Hamburg, Germany	Geologisch-Pala%Fontologisches Institut der Universita%Ft Hamburg
+00721123	Geologische Gesellschaft in Wien, Mitteilungen	Vienna, Austria	Geologische Gesellschaft in Wien
+00721409	Proceedings -- Geoscience Information Society	[s.l.] USA	Geoscience Information Society
+00734446	Information Circular -- Idaho, Bureau of Mines and Geology	Moscow, ID, USA	Idaho Bureau of Mines and Geology
+00734713	Iheringia. Serie Geologia	Porto Alegre, Brazil	Museu de Cie%Dncias Naturais da Fundac%Ba%Eo Zoobota%Dnica do Rio Grande do Sul
+00739359	Report -- Institute of Geological Sciences (United Kingdom)	London, England	Her Majesty's Stationery Office
+00744336	Rapports et Proce%Cs-Verbaux des Re%Aunions -- Conseil International pour l'Exploration de la Mer	Charlottenlund Slot, Denmark	Conseil International pour l'Exploration de la Mer
+00747211	Proceedings of the International Ornithological Congress	.	.
+00755028	Miscellaneous Publication -- University of Kansas, Museum of Natural History	Lawrence, KS, USA	The University of Kansas
+00755052	University of Kansas Paleontological Contributions, Paper	Lawrence, KS, USA	The University of Kansas Paleontological Institute
+00756245	Kirtlandia	Cleveland, OH, USA	The Cleveland Museum of Natural History
+00761672	Documents des Laboratoires de Ge%Aologie Lyon	Lyon, France	Universite%A Claude-Bernard Lyon 1, Faculte%A des Sciences, Laboratoires de Ge%Aologie
+00767190	Boletin, Instituto de Geologi%Aa, Universidad Nacional Auto%Anoma de Me%Axico	Me%Axico, D.F., Me%Axico	Univ. Nacional Auto%Anoma de Me%Axico. Direccio%An General de Publicaciones
+00772070	Mitteilungen der Bayerischen Staatssammlung fu%Fr Pala%Fontologie und Historische Geologie	Munich, Germany	Bayerische Staatssammlung fu%Fr Pala%Fontologie und Historische Geologie
+00772224	Boletim do Museu Paraense Emilio Goeldi, Nova Serie, Geologia	Belem, Brazil	Instituto Nacional de Pesquisas de Amazonia
+00772933	Biographical Memoirs (National Academy of Sciences of the United States of America)	Washington, DC, USA	National Academy of Sciences
+00774626	Research Reports -- National Geographic Society	Washington, DC, USA	National Geographic Society
+00776025	Natur und Mensch. Jahresmitteilungen der Naturhistorischen Gesellschaft Nu%Frnberg e. V.	Nuremberg, Germany	Naturhistorische Gesellschaft Nu%Frnberg
+00776165	Schriften des Naturwissenschaftlichen Vereins fu%Fr Schleswig-Holstein	Kiel, Germany	Kommissions-Verlag Lispsius & Tischer
+00776343	Proceedings of the Nebraska Academy of Sciences and Affiliated Societies	Lincoln, NE, USA	Nebraska Academy of Sciences
+00777749	Neues Jahrbuch fu%Fr Geologie und Pala%Fontologie, Abhandlungen	Stuttgart, Germany	E. Schweizerbart'sche Verlagsbuchhandlung
+00778567	Guidebook -- New Mexico Geological Society Annual Field Conference	Socorro, NM, USA	New Mexico Geological Society
+00780421	Newsletters on Stratigraphy	Berlin-Stuttgart, FRG	Gebru%Fder Borntraeger
+00782947	Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereines. Neue Folge	Stuttgart, Germany	Oberrheinischer Geologischer Verein
+00784389	Bulletin -- Oklahoma Geological Survey	Norman, OK, USA	The University of Oklahoma
+00786594	Ornithological Monographs	Washington, D. C., USA	The American Ornithological Union
+00786675	Bulletin of the O%Nsaka Museum of Natural History = O%Nsaka Shiritsu Shizenshi Hakubutsukan Kenkyu%N Ho%Nkoku	O%Nsaka-shi, O%Nsaka-ken, Japan	O%Nsaka Museum of Natural History
+00788538	Palaeoecology of Africa and the Surrounding Islands	Rotterdam, The Netherlands	A. A. Balkema
+00788554	Palaeontologia Africana	Johannesburg, South Africa	Bernard Price Institute for Palaeontological Research, University of Witwatersrand
+00788562	Palaeontologia Polonica	Warsaw & Krako%Aw, Poland	Pan%Astwowe Wydawnictwo Naukowe
+00789763	Me%Amoires du Muse%Aum National d'Histoire Naturelle, Se%Arie C, Sciences de la Terre	Paris, France	Muse%Aum National d'Histoire Naturelle
+0079032X	Bulletin -- Peabody Museum of Natural History, Yale University	New Haven, CT, USA	Peabody Museum of Natural History, Yale University
+00790354	Pearce-Sellards Series	Austin, TX, USA	Texas Memorial Museum
+00790943	Science Series -- Natural History Museum of Los Angeles County	Los Angeles, CA, USA	Natural History Museum of Los Angeles County
+00791091	Boletin de la Sociedad Geolo%Agica del Peru	Lima, Peru	Sociedad Geolo%Agica del Peru
+00794295	Postilla	New Haven, CT, USA	Peabody Museum of Natural History, Yale University
+00794376	Vero%Fffentlichungen des Museums fu%Fr Ur- und Fru%Fhgeschichte Potsdam	Berlin, Germany	VEB Deutscher Verlag der Wissenschaften
+00798835	Memoirs of the Queensland Museum	Brisbane, Australia	Queensland Museum
+00799815	Raymond Dart Lectures	Johannesburg, South Africa	Witwatersrand University Press for The Institute for the Study of Man in Africa
+00803200	Boletim do Museu Nacional (Rio de Janeiro) Geologia [Nova Serie]	Rio de Janeiro, Brazil	Museu Nacional (Rio de Janeiro)
+00804568	Transactions -- Royal Society of Edinburgh	Edinburgh, Scotland	Royal Society Edinburgh
+00804622	Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences	London, England	Royal Society of London
+00804649	Proceedings of the Royal Society of London, Series B: Biological Sciences	London, England	The Royal Society of London
+0080469X	Proceedings of the Royal Society of Queensland	St. Lucia, Australia	Royal Society of Queensland
+00805947	Transactions of the San Diego Society of Natural History	San Diego, CA, USA	San Diego Society of Natural History
+00807389	Schweizerische Pala%Fontologische Abhandlungen = Me%Amoires Suisses de Pale%Aontologie = Memorie Svizzere di Paleontologia	Basel, Switzerland	Birkha%Fuser Verlag
+00810223	Smithsonian Contributions to Anthropology	Washington, DC, USA	Smithsonian Institution Press
+00810266	Smithsonian Contributions to Paleobiology	Washington, DC, USA	Smithsonian Institution Press
+00810282	Smithsonian Contributions to Zoology	Washington, DC, USA	Smithsonian Institution Press
+0081153X	Symposia of the Society for the Study of Human Biology	London, England	Taylor & Francis Ltd.
+00812677	Records of the South Australian Museum	Adelaide, Australia	South Australian Museum
+00816426	Studia Geologica Polonica	Warsaw, Poland	Polska Akademia Nauk, Zakl%Sad Nauk Geologicznykh
+00817961	Studies in Geography in Hungary	Budapest, Hungary	Research Institute of Geography,  Academy of Sciences. Akade%Amiai Kiado%A
+00819271	Sumer. A journal of archaeology and history in Arab World	Baghdad, Republic of Iraq	Ministry of Culture and Information, The State Organization of Antiquities and Heritage
+00822930	Bulletin of the Texas Archaeological Society	Austin, TX, USA	Texas Archeological Society
+00823074	Bulletin of the Texas Memorial Museum	Austin, TX, USA	Texas Memorial Museum
+00824755	Kokuritsu Kagaku Hakubutsukan Sempo = Memoirs of the National Science Museum (Tokyo)	Tokyo, Japan	Kokuritsu Kagaku Hakubutsukan
+00825093	Life Sciences Miscellaneous Publications -- Royal Ontario Museum	Toronto, ON, Canada	Royal Ontario Museum
+00825107	Life Sciences Occasional Papers -- Royal Ontario Museum	Toronto, ON, Canada	Royal Ontario Museum
+00826782	Tulane Studies in Zoology and Botany	New Orleans, LA, USA	Tulane University, Department of Biology
+00835986	Memoirs of the National Museum of Victoria, Melbourne	Melbourne, Australia	National Museum of Victoria
+00836133	Annalen der Naturhistorischen Museums in Wien	Vienna, Austria	Naturhistorisches Museum Wien
+00843199	Publications -- University of Wyoming	Laramie, WY, USA	The University of Wyoming
+00845604	Vestnik Zoologii = Zoological Record. Nauchnyy Zhurnal Instituta Zoologii Imeni I. I. Shmal'gauzena Akademii Nauk Ukrainskoy SSR	Kiev, USSR	Izdatel'stvo ``Naukova Dumka'
+00845612	Symposia of the Zoological Society of London	London, England, New York, NY, USA	Academic Press.
+00845620	Transactions of the Zoological Society of London	London, England	The Zoological Society of London
+00846597	Annual Review of Earth and Planetary Sciences	Palo Alto, CA, USA	Annual Reviews, Inc.
+00847895	Biological Society of Nevada, Occasional Papers	Verdi, NV, USA	Biological Society of Nevada
+00848948	Geografia Fisica e Dinamica Quaternaria (Bollettino del Comitato Glaciologico Italiano, Serie 3)	Turin, Italy	Comitato Glaciologico Italiano
+00850640	Special Publication -- Florida Bureau of Geology	Tallahassee, FL, USA	Florida Bureau of Geology
+00852236	Proceedings of the Iowa Academy of Science	Des Moines, IA, USA	Iowa Academy of Science
+00852465	Monograph of the Museum of Natural History, University of Kansas	Lawrence, KS, USA	Museum of Natural History, University of Kansas
+00854271	A%Hrbok -- Norsk Polarinstituut	Oslo, Norway	Norsk Polarinstituut
+00855235	Quaternaria	Rome, Italy	E. A. Blanc
+00855278	Records of the Queen Victoria Museum Launceston	Launceston, Tasmania	Queen Victoria Museum
+00917613	Geology	Boulder, CO, USA	Geological Society of America
+00917958	Occasional Papers of the Museum of Natural History, The University of Kansas	Lawrence, KS, USA	University of Kansas Press
+00934755	Evolutionary Theory	Chicago, IL, USA	University of Chicago, Department of Biology
+00948373	Paleobiology (Paleontological Society)	Chicago, IL, USA	University of Chicago, Dept. of Geological Sciences
+00958638	Connecticut State Geological and Natural History Survey, Bulletin	Hartford, CT, USA	State Geological and Natural History Survey of Connecticut
+00960446	Geological Survey Professional Paper (United States)	Washington, DC, USA	U. S. Geological Survey
+00962279	Journal of the Colorado-Wyoming Academy of Science	Fort Collins, CO, USA	\N
+00962651	Fieldiana, Geology (New Series)\tChicago, IL, USA\t Field Museum of Natural History	\N	\N
+0096378X	Proceedings of the South Dakota Academy of Science	Vermillion, SD, USA	South Dakota Academy of Science
+00964131	Bulletin of the Buffalo Society of Natural Sciences	Buffalo, NY, USA	Buffalo Society of Natural Sciences
+0096414X	Bulletin of the South Carolina Academy of Science	Columbia, SC, USA	South Carolina Academy of Science
+00964263	Proceedings of the West Virginia Academy of Science	Morgantown, WV, USA	West Virginia Academy of Science
+00964948	Circular -- New Mexico Bureau of Mines and Mineral Resources	Socorro, NM, USA	New Mexico Bureau of Mines and Mineral Res., a Division of New Mexico Inst. of Mining & Technology
+00966053	Bulletin -- Geological Survey of Wyoming	Laramie, WY, USA	The Geological Survey of Wyoming
+00967769	Northwest Geology	University of Montana, Missoula, MT, USA	.
+00969117	News Bulletin -- Society of Vertebrate Paleontology	Lincoln, NE, USA	Society of Vertebrate Paleontology
+00969206	Proceedings of the Montana Academy of Sciences	Billings, MT, USA	Montana Academy of Sciences
+00969214	Proceedings of the North Dakota Academy of Science	Grand Forks, ND, USA	University of North Dakota Press
+00973157	Proceedings of the Academy of Natural Sciences of Philadelphia	Philadelphia, PA, USA	Academy of Natural Sciences of Philadelphia
+00973270	Special Publication -- Society of Economic Paleontologists and Mineralogists	Tulsa, OK, USA	Society of Economic Paleontologists and Mineralogists
+00973556	Contributions from the Museum of Paleontology, University of Michigan	Ann Arbor, MI, USA	Museum of Paleontology, The University of Michigan
+00974463	Annals of Carnegie Museum	Pittsburgh, PA, USA	Carnegie Museum of Natural History
+00984590	Florida Scientist	Orlando, FL, USA	Florida Academy of Sciences
+00994227	Report of Investigations -- North Dakota Geological Survey	Grand Forks, ND, USA	North Dakota Geological Survey
+01005375	Pesquisas (Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias)	Porto Allegre, Brazil	Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias
+01026887	Paula-Coutiana	Porto Alegre, Brazil	Museu de Cie%Dncias Naturais da Fundac%Ba%Eo Zoobota%Dnica do Rio Grande do Sul
+01034278	Boletim do Museo Paraense Emi%Alio Goeldi. Se%Arie Cie%Dncias da Terra	Bele%Am, Brazil	Secretaria Especial da Cie%Dncia e Tecnologia. Conselho Nacional de Desenvolvimento Cie%Dn. Tecnol.
+01053507	Gro%Snlands, Geologiske Undersoegelse, Bulletin	Copenhagen, Denmark	Gro%Snlands Geologiske Undersoegelse
+01061046	Meddelelser om Gro%Snland. Geoscience. (Kommissionen for Videnskabelige Underso%Sgelser i Gro%Snland)	Copenhagen, Denmark	Nyt Nordisk Forlag
+0110943X	National Museum of New Zealand Records	Wellington, New Zealand	National Museum of New Zealand
+0112465X	Record -- New Zealand Geological Survey	Lower Hutt, New Zealand	New Zealand Geological Survey
+0120274X	Geologi%Aa Norandina	Bogota%A, Colombia	Sociedad Colombiana de Geologi%Aa
+01312634	Paleontologicheskiy Sbornik. L'vovskiy Gosudarstvennyy Universitet	L'vov, UkrSSR, USSR	Izdatel'stvo ``Vyshcha Shkola''
+01321447	Sak'arthvelos SSR Mets'nierebatha Akademiis Moambi = Soobshcheniya Akademii Nauk Gruzinskoy SSR = Bulletin of the Academy of Sciences of the Georgian SSR	Tbilisi, Georgia	.
+01340603	O%Fsle%Anytani Vita%Ak	Budapest, Hungary	Magyarhoni O%Fsle%Anytani Ta%Arsulat
+01344307	UzSSR Fanlar Akademiyasining Dokladlari = Doklady Akademii Nauk UzSSR	Tashkent, USSR	Izdatel'stvo ``Fan''
+01350714	Peshchery Gruzii -- Sakart'velos Mghvimeebi da Bamokvabulebi = Georgian Caves	Tbilisi, USSR	Izdatel'stvo ``Metsniereba''
+0135227X	Chetvertynnyi%R Period	Kiev, USSR	Akademiya Nauk URSR, Komisiya Vyvchannya Chetvertynnoho Periodu. Vydavnytstvo Akademii%F Nauk URSR
+01375482	Kras i Speleologia	Katowice, Poland	Uniwersytet S%Ala%Kski
+01381059	Abhandlungen der Akademie der Wissenschaften der DDR, Abteilung Mathematik, Naturwissenschaften, Technik	Berlin, Germany	Akademie Verlag
+01383094	Petermanns Geographische Mitteilungen. Erga%Fnzungheft	Gotha, Germany	VEB Hermann Haack, Geographisch-Kartographische Anstalt Gotha
+01383116	Quarta%Frpala%Fontologie. Abhandlungen und Berichte des Instituts fu%Fr Quarta%Frpala%Fontologie Weimar	Berlin, Germany	Akademie-Verlag
+01383647	Hallesches Jahrbuch fu%Fr Geowissenschaften	Halle-Wittenberg, Germany	Martin Luther Universita%Ft
+01392875	Elme%Alet -- Mo%Adszer -- Gyakorlat	Budapest, Hungary	Geographical Research Institute,  Academy of Sciences
+01397893	Folia Zoologica (Prague). International Journal of Vertebratology	Prague, Czechoslovakia	``Academia'', Nakladatelstvi%A C%Jeskoslovenske%A Akademie Ve%Jd.
+01401963	Journal of Arid Environments	London, etc.	Academic Press
+01413511	Transactions of the Leicester Literary & Philosophical Society	Leicester, England	Leicestershire Museums Service
+01439286	Bulletin of the Geological Society of Norfolk	Norwich, England	Geological Society of Norfolk
+0144221X	Transactions of the Natural History Society of Northumbria	Newcastle upon Tyne, England	The Hancock Museum
+01445294	GCG. The Geological Curator	Keele, England	Geological Curators Group
+01459031	Special Publication of Carnegie Museum of Natural History	Pittsburgh, PA, USA	Carnegie Museum of Natural History
+01459058	Bulletin of Carnegie Museum of Natural History	Pittsburgh, PA, USA	Carnegie Museum of Natural History
+01469517	National Speleological Society Bulletin	Lake Mills, IA, USA	National Speleological Society
+01483838	Papers on Paleontology	Ann Arbor, MI, USA	Museum of Paleontology, University of Michigan
+01491423	American Association of Petroleum Geologists Bulletin	Tulsa, OK, USA	American Association of Petroleum Geologists
+0149175X	Occasional Papers -- The Museum, Texas Tech University	Lubbock, TX, USA	The Museum, Texas Tech University
+01491768	Special Publications -- The Museum, Texas Tech University	Lubbock, TX, USA	The Museum, Texas Tech University
+01538446	Bulletin du Bureau de Recherches Ge%Aologiques et Minie%Cres. 2e Serie. Section 4: Ge%Aologie Ge%Ane%Arale	Paris, France	Bureau de Recherches Ge%Aologiques et Minie%Cres
+01539183	Annales de l'Universite%A de Savoie, Sciences Naturelles	Chambery (Savoie), France	Universite%A de Savoie
+01553410	Quarterly Notes -- Geological Survey of New South Wales	Sydney, NSW, Australia	Department of Mineral Resources, Geological Survey of New South Wales
+01584197	Emu. Journal of the Royal Australasian Ornithologists Union	Melbourne, Victoria, Australia	Royal Australasian Ornithologists Union
+01600532	New Mexico Bureau of Mines and Mineral Resources, Annual Report	Socorro, NM, USA	New Mexico Institute of Mining & Technology
+01603655	Public Information Circular -- Geological Survey of Wyoming	Laramie, WY, USA	Geological Survey of Wyoming
+01604643	Virginia Division of Mineral Resources Publication	Charlottesville, VA, USA	Virginia Division of Mineral Resources
+01604937	Special Publications -- Southern California Paleontological Society	Los Angeles, CA, USA	Southern California Paleontological Society
+01605313	Contributions in Biology and Geology	Milwaukee, WI, USA	Milwaukee Public Museum
+01610449	NATO Advanced Science Institutes Series. Series A. Life Sciences	New York / London	Plenum Press
+01614452	Scientific Publications of the Science Museum of Minnesota. New Series	Saint Paul, MN, USA	The Science Museum of Minnesota
+0161522X	Marine Recreational Fisheries	Washington, D.C	Sport Fishing Institute
+01616366	Linnean Society Symposium Series	London, England	Linnean Society of London, Academic Press
+01628003	Advances in Archaeological Method and Theory	New York, NY, USA	Academic Press
+01630164	Arizona Geology	Tucson, AZ, USA	Arizona, Bureau of Geology and Mineral Technology
+01639013	Transactions of the Nebraska Academy of Sciences and Affiliated Societies	Lincoln, NE, USA	Nebraska Academy of Sciences
+01640291	International Journal of Primatology. [International Primatological Society]	New York and London	Plenum Press
+01640429	AAAS Selected Symposia Series	Boulder, CO, USA	Westview Press for the American Association for the Advancement of Science
+01643304	Oregon Geology	Portland, OR, USA	Oregon Department of Geology and Mineral Industries
+01651951	Mededelingen Rijks Geologische Dienst. Nieuwe Serie (Netherlands)	Maastricht, The Netherlands	Rijks Geologische Dienst
+01652753	Utrecht Micropaleontological Bulletins. Special Publication	Odijk, The Netherlands	\N
+0165280X	Contributions to Tertiary and Quaternary Geology = Mededelingen van de Werkgroep voor Tertiaire en Kwartaire Geologie\tRotterdam, The Netherlands\t Backhuys	\N	\N
+0166459X	Mededelingen van het Koninklijk Zeeuwsch Genootschap de Wetenschappen, Archief	Middelburg, The Netherlands	Koninklijk Zeeuwsch Genootschap de Wetenschappen
+01675524	Wetenschappelijke Mededelingen Koninklijke Nederlandse Natuurhistorische Vereniging	Hoogwoud, The Netherlands	Koninklijke Nederlandse Natuurhistorische Vereniging
+01686151	Modern Quaternary Research in Southeast Asia	Rotterdam, The Netherlands	A. A. Balkema
+01686208	Palaeoecology of Africa and the Surrounding Islands	Rotterdam, The Netherlands	A. A. Balkema
+01686305	Quaternary of South America and Antarctic Peninsula	Rotterdam, The Netherlands	A. A. Balkema
+0171967X	Calcified Tissue International	New York, NY, USA	Springer Verlag New York, Inc.
+01728784	Berliner Geowissenschaftliche Abhandlungen, Reihe A: Geologie und Pala%Fontologie	Berlin, Germany	Dietrich Reimer Verlag
+01735373	Amphibia -- Reptilia	Leiden, The Netherlands	E. J. Brill
+01737481	Abhandlungen des Naturwissenschaftlichen Vereins in Hamburg	Hamburg, Germany	Verlag Paul Parey
+0173749X	Verhandlungen des Naturwissenschaftlichen Vereins in Hamburg	Hamburg, Germany	Verlag Paul Parey
+01746081	Erlanger Forschungen. Reihe B: Naturwissenschaften und Medizin	Erlangen, Germany	Verlag Universita%Ftsbund Erlangen-Nu%Frenberg e. V.
+01753495	Abhandlungen aus dem Landesmuseum fu%Fr Naturkunde zu Mu%Fnster in Westfalen -- Landschaftsverband Westfalen-Lippe	Mu%Fnster, Germany	Westfa%Flische Vereinsdruckerei
+01763997	Carolinea Beitra%Fge zur Naturkundlichen Forschung in Su%Fdwestdeutschland	Karlsruhe, Germany	Staatliches Museum fu%Fr Naturkunde Karlsruhe
+01770950	Mu%Fnchner Geowissenschaftliche Abhandlungen. Reihe A. Geologie und Pala%Fontologie	Munich, Germany	Verlag Friedrich Pfeil
+01771671	Verhandlungen der Ornithologischen Gesellschaft in Bayern	Munich, Germany	Ornithologische Gesellschaft in Bayern e. V.
+01810642	Bulletin du Muse%Aum National d'Histoire Naturelle. Section C: Sciences de la Terre: Pale%Aontologie, Ge%Aologie, Mine%Aralogie. [Se%Arie 4]	Paris, France	Mus. National d'Histoire Naturelle
+01850962	Revista -- Universidad Nacional Auto%Anoma de Me%Axico, Instituto de Geologi%Aa	Mexico, D.F., Mexico	Instituto de Geologi%Aa, Universidad Nacional Auto%Anoma de Me%Axico
+0185478X	Paleontologi%Aa Mexicana	Mexico, D.F., Mexico	Universidad Nacional Autono%Ama, Instituto de Geologi%Aa
+01855530	Boletin, Instituto de Geologi%Aa, Universidad Nacional Auto%Anoma de Me%Axico	Me%Axico, D.F., Me%Axico	Univ. Nacional Auto%Anoma de Me%Axico. Direccio%An General de Publicaciones
+01880039	Revista de la Sociedad Mexicana de Paleontologi%Aa	Mexico, D.F., Mexico	Sociedad Mexicana de Paleontologi%Aa
+01905724	Carnivore (Carnivorous Mammals Including Man)	Seattle, WA, USA	University of Washington, Carnivore Reserch Institute
+01914030	Stereo World	Columbus, OH, USA	National Stereoscopic Association
+0192737X	Field Trip Guide -- American Association of Stratigraphic Palynologists	.	Annual Meeting of the American Association of Stratigraphic Palynologists
+01934406	Brimleyana. The Journal of the North Carolina State Museum of Natural History	Raleigh, NC, USA	North Carolina State Museum of Natural History
+01934511	Science[nn]	Washington, DC, USA	American Association for the Advancement of Science
+01938509	Journal of the Arizona-Nevada Academy of Science	Tempe, AZ, USA	Arizona-Nevada Academy of Science
+01953338	Ichnology Newsletter	Albuquerque, NM, USA	University of New Mexico, Department of Geology
+01956671	Cretaceous Research	London, New York, etc.	Academic Press
+0195864X	San Bernardino County Museum Association Quarterly	Redlands, CA, USA	San Bernardino County Museum Association
+01961497	Open File Report (United States Geological Survey)	Reston, VA, USA	U. S. Geological Survey
+01969110	Encyclia. The Journal of the Utah Academy of Sciences, Arts, and Letters	Salt Lake City, UT, USA	Utah Academy of Sciences, Arts, and Letters
+0196948X	New Mexico Geology. Science and Service	Socorro, NM, USA	New Mexico Bureau of Mines and Mineral Resources
+01979337	Earth Surface Processes and Landforms. The Journal of the British Geomorphological Research Group	Leeds, England	John Wiley & Sons
+01988565	Paleontological Series	East Lansing, MI, USA	Michigan State University
+01995553	Museum Magazine	New York, NY, USA	Museum Magazine Associates
+0201680X	Nauka i Chelovechestvo. Mezhdunarodnyy Yezhegodnik	Moscow, USSR	Izdatel'stvo ``Znaniye''
+02018136	Eesti NSV Teaduste Akadeemia Toimetised, Geoloogia = Izvestiya Akademii Nauk Estonskoy SSR, Geologiya	Tallin, EstSSR, USSR	Izdatel'stvo ``Perioodika''
+02019280	Ezhegodnik Vsesoyuznogo Paleontologicheskogo Obshchestva (Akademiya Nauk SSSR)	Leningrad, USSR	.
+0202327X	Lietuvos TSR Auks%Jtu%Kju%K Mokyklu%K Mokslo Darbai-Geologija = Nauchnyye Trudy Vysshikh Uchebnykh Zavedeniy Litovskoy SSR-Geologiya	Vil'nyus, USSR	``Mokslas''
+02033070	Trudy -- Sovmestnaya Sovetsko-Mongol'skaya Nauchno-Issledovatel'skaya Ekspeditsiya	Moscow, USSR	Izdatel'stvo ``Nauka''
+02047217	Paleontologiya, Stratigrafiya i Litologiya	Sofiya, Bulgaria	Izdatelstvo na Bulgarskata Akademiya na Naukite
+02060477	Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR	Leningrad, USSR	Izdatel'stvo ``Nauka''
+02086603	Biuletyn Pan%Astwowego Instytutu Geologicznego	Warsaw, Poland	Wydawnictwa Geologiczne
+02103524	Teruel	Teruel, Spain	Instituto de Estudios Turolenses
+02105985	Don%Eana -- Acta Vertebrata. Revista de Vertebrados de la Estacio%An Biolo%Agica de Don%Eana	Seville, Spain	Estacio%An Biolo%Agica de Don%Eana (Consejo Superior de Invest. Cienti%Aficas)
+02107236	Col-Pa -- Publicaciones del Departamento de Paleontologi%Aa	Madrid, Spain	Facultad de Ciencias Geolo%Agicas, Universidad Complutense de Madrid
+02107511	Paleontologi%Aa y Evolucio%An	Sabadell, Spain	Diputacio%An de Barcelona, Institut de Paleontologi%Aa
+02110792	Butlleti Informatiu -- Institut de Paleontologia de Sabadell	Sabadell, Spain	Institut de Paleontologia de Sabadell
+0211609X	Paleontologia i Evolucio%A	Sabadell, Spain	Diputacio%A de Barcelona, Institut Paleontolo%Cgic Dr. M. Crusafont
+02118327	Studia Geolo%Agica Salmanticensia	Salamanca, Spain	Ediciones Universidad de Salamanca
+02134322	Paleomammalia	Madrid, Spain	Seminario de Ciencias Naturales del I. B. Puig Adams
+0213683X	Geogaceta	Madrid, Spain	Sociedad Geolo%Agica de Espan%Ea
+02136937	Revista Espan%Eola de Paleontologi%Aa	Madrid, Spain	Sociedad Espan%Eola de Paleontologi%Aa
+02142023	Memorias del Museo Paleontolo%Agico de la Universidad de Zaragoza. Arqueologi%Aa y Paleontologi%Aa. Serie Paleontolo%Agica Aragonesa: Monografi%As	.	Diputacio%An General de Arago%An
+02325381	Altenburger Naturwissenschaftliche Forschungen	Altenburg, Germany	Mauritianum, Naturkundliches Museum
+0233173X	Mauritiana	Altenburg, Germany	Naturkundliches Museum ``Mauritianum'' Altenburg
+02336677	Itogi Nauki i Tekhniki. Antropologiya	Moscow, USSR	VINITI
+02367130	Acta Zoologica Hungarica	Budapest, Hungary	Akade%Amiai Kiado%A
+02397277	Bulletin of the Polish Academy of Sciences. Earth Sciences	Warsaw, Poland	Pan%Astwowe Wydawnictwo Naukowe
+02430258	Me%Amoires et Travaux du Centre de Recherche Franc%Bais de Je%Arusalem	Paris, France	Association Pale%Aorient
+02459825	Documents des Laboratoires de Ge%Aologie de la Faculte%A des Sciences de Lyon, Hors Se%Arie	Lyon, France	Universite%A Claude-Bernard, De%Apartement des Sciences de la Terre
+02460874	Ge%Aologie de la France	Orle%Aans, France	E%Aditions BRGM
+02461196	Me%Amoires du Muse%Aum National d'Histoire Naturelle, Se%Arie C, Sciences de la Terre	Paris, France	Muse%Aum National d'Histoire Naturelle
+02496305	Comptes Rendus de l'Acade%Amie des Sciences. Se%Arie II: Me%Acanique-Physique, Chimie, Sciences de la Terre, Sciences de l'Univers	Paris, France	Gauthier-Villars
+02496313	Comptes Rendus de l'Acade%Amie des Sciences. Se%Arie III: Sciences de la Vie	Paris, France	Gauthier-Villars
+02497549	Me%Amoires de la Socie%Ate%A Ge%Aologique de France. Nouvelle Se%Arie	Paris	Socie%Ate%A Ge%Aologique de France
+02497577	Re%Aunion Annuelle des Sciences de la Terre [Programme et Re%Asume%As]	Paris, France	Socie%Ate%A Ge%Aologique de France
+02502933	Anuarul Institutului de Geologie s%Bi Geofizica%R = Annuaire de l'Institut de Ge%Aologie et de Ge%Aophysique	Bucharest, Romania	Institutul de Geologie s%Bi Geofizica%R
+02506386	Arnoldia Zimbabwe	Bulawayo, Zimbabwe	National Museums and Monuments
+02506521	Revista de la Facultad de Humanidades y Ciencias. Serie Ciencias de la Tierra (Montevideo)	Montevideo, Uruguay	Universidad de la Republica
+02507870	Zhongguo Kexue [= Chung-kuo K'o-hsu%Feh, = Chinese Science] = Scientia Sinica (English Edition)	Beijing, China	Zhongguo Kexue Yuan Zhuban -- Academia Sinica
+02517493	Mitteilungen der O%Fsterreichischen Geologischen Gesellschaft	Vienna, Austria	O%Fsterreichische Geologische Gesellschaft
+02529289	Archives des Sciences et Compte Rendu des Se%Aances de la Socie%Ate%A	Geneva, Switzerland	Socie%Ate%A de Physique et d'Histoire Naturelle de Gene%Cve
+02535823	Zhongguo Kexue [= Chung-kuo K'o-hsu%Feh, = Chinese Science] -- Scientia Sinica. Series B (Chemical, Biological, Agricultural, Medical & Earth Sciences). (Engl. Ed.)	Beijing, China	Acad. Sin.
+02536072	Changchun Dizhi Xueyuan Xuebao (=Ch'ang-Ch'un Ti-chih Hsu%Feh-yu%Fan Hsu%Feh-pao). Journal of Changchun University of Earth Sciences	.	.
+02536730	Revue de Pale%Aobiologie	Geneva, Switzerland	Muse%Aum d'Histoire Naturelle de Gene%Cve
+02536846	Publication of the Centre of Advanced Study in Geology. New Series	Chandigarh, India	Panjab University, Centre of Advanced Study in Geology.
+02540436	Special Publication -- Geological Survey of India	Calcutta, India	Geological Survey of India
+0254055X	Cie%Dncias da Terra	Lisbon, Portugal	Universidade Nova de Lisboa, Faculdade de Cie%Dncias e Tecnologia
+02550091	Annalen des Naturhistorischen Museums in Wien. Ser. A fu%Fr Mineralogie und Petrographie, Geologie und Pala%Fontologie, Anthropologie und Pra%Fhistorie	Vienna, Austria	Natur. Mus. Wien
+02580446	Man and Environment	Pune, India	Indian Society for Prehistoric and Quaternary Studies
+02605805	British Herpetological Society Bulletin	London, England	British Herpetological Society, Zoological Society of London
+02609541	Archives of Natural History. Society for the History of Natural History	London, England	British Museum (Natural History)
+02635933	Transactions of the Royal Society of Edinburgh: Earth Sciences	Edinburgh, Scotland	Royal Society of Edinburgh
+0265072X	Oxford Surveys in Evolutionary Biology	Oxford, England	Oxford University Press
+02680130	The Herpetological Journal	London, England	The British Herpetological Society
+0268196X	Journal of Zoology. Series B	London, England	The Zoological Society of London
+02703017	New Mexico Journal of Science	Las Vegas, NM, USA	New Mexico Academy of Science
+02705451	Geological Newsletter	Portland, OR, USA	Geological Society of the Oregon Country
+02712296	The Potomac Caver	Arlington, VA, USA	Potomac Speleological Club
+02714213	Circular -- New York State Museum and Science Service	Albany, NY, USA	The University of the State of New York, The State Education Department
+02720809	Evolutionary Monographs	Chicago, IL, USA	Leigh M. Van Valen
+02724634	Journal of Vertebrate Paleontology	Lincoln, NE, USA	Society of Vertebrate Paleontology
+02728869	Bibliography of Fossil Vertebrates	Lincoln, NE	Society of Vertebrate Paleontology
+02734419	Whalewatcher. Journal of the American Cetacean Society	San Pedro, CA, USA	American Cetacean Society
+02738457	Polar Geography and Geology	Silver Spring, MD, USA	V. H. Winston and Sons
+02758555	Mississippi Geology	Jackson, MS, USA	State of Mississippi, Bureau of Geology, Department of Natural Resources
+02771918	Journal of the Alaska Geological Society	Anchorage, AK, USA	Alaska Geological Society
+02773791	Quaternary Science Reviews. The International Multidisciplinary Review Journal	Oxford, New York, etc.	Pergamon Press
+02783703	Special Paper -- State of Oregon, Department of Geology and Mineral Industries	Portland, OR, USA	State of Oregon, Department of Geology and Mineral Industries
+02871750	Original Report of the Okamura Fossil Laboratory	Nagoya, Japan	Okamura Fossil Laboratory
+02909944	Terra Cognita. The Journal of the European Union of Geosciences	Paris, France	Imprimerie Scripta
+02911655	Travaux de l'Institut Franc%Bais d'E%Atudes Andines (Lima)	Paris, France	E%Aditions A.D.P.F.
+02918390	Bulletin Trimestriel de la Socie%Ate%A d'Histoire Naturelle et des Amis du Museum d'Autun	Autun, France	Socie%Ate%A d'Histoire Naturelle et les Amis du Museum d'Autun
+02928477	Ge%Aochronique	Paris, France	Bureau de Recherches Ge%Aologiques et Minie%Cres -- Socie%Ate%A Ge%Aologique de France
+02931176	Cahiers de Pale%Aoanthropologie	Paris, France	Centre National de la Recherche Scientifique
+0293843X	Ge%Aobios. Me%Amoire Spe%Acial	Lyon, France	Universite%A de Lyon
+02980248	Les Faunes Plio-Ple%Aistoce%Cnes de la Valle%Ae de l'Omo (Ethiopie). Cahiers de Pale%Aontologie. Travaux de Pale%Aontologie Est-Africaine	Paris, France	Centre National de la Recherche Scient.
+03003256	Zoologica Scripta	Stockholm, Sweden	Royal Swedish Academy of Sciences and Norwegian Academy of Science and Letters
+03008010	Actes du Congre%Cs National des Socie%Ate%As Savantes. Section des Sciences	Paris, France	Ministe%Cre de l'E%Aducation National. Comite%A des Travaux Historiques et Scientifiques (CTHS)
+03009483	Boreas. An International Journal of Quaternary Geology	Oslo, Norway	Universitetsforlaget
+03009491	Fossils and Strata	Oslo, Norway	Universitetsforlaget
+03012697	Abhandlungen und Verhandlungen des Naturwissenschaftlichen Vereins in Hamburg	Hamburg, Germany	Verlag Paul Parey
+03014223	New Zealand Journal of Zoology	Wellington, New Zealand	Department of Scientific and Industrial Research
+03014231	Contributions to Primatology	Basel, Switzerland	S. Karger
+03019187	Travaux de l'Institut de Spe%Aologie ``E%Amile Racovitza''	Bucharest, Romania	Academia Republicii Socialiste Romania
+03022684	Sciences Ge%Aologiques, Me%Amoires	Strasbourg, France	Universite%A Louis Pasteur de Strasbourg. Institut de Ge%Aologie
+03022692	Sciences Ge%Aologiques, Bulletin	Strasbourg, France	Universite%A Louis Pasteur de Strasbourg. Institut de Ge%Aologie
+03022749	Bulletin of the Geological Institutions of the University of Uppsala. New Series. [Acta Universitatis Upsaliensis]	Uppsala, Sweden	University of Uppsala
+03032515	Annals of the South African Museum = Annale van die Suid-Afrikaanse Museum	Cape Town, South Africa	South African Museum
+03032647	BioSystems	Amsterdam, The Netherlands	North Holland Publishing Co.
+03034534	Zeitschrift fu%Fr Geologische Wissenschaften	Berlin, Germany	Gesellschaft fu%Fr Geologische Wissenschaften -- Academie Verlag
+03036758	Journal of the Royal Society of New Zealand	Wellington, New Zealand	The Royal Society of New Zealand
+03039110	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique. Sciences de la Terre	Brussels, Belgium	Institut Royal des Sciences Naturelles de Belgique
+03040798	Annals of the Natal Museum = Annale van die Natalse Museum	Pietermaritzburg, Natal, South Africa	The Council of the Natal Museum
+03041425	Bulletin de la Socie%Ate%A Royale Belge d'Anthropologie et de Pre%Ahistoire	Brussels, Belgium	Socie%Ate%A Royale Belge d'Anthropologie et de Pre%Ahistoire
+03045285	Rapport Annuel du De%Apartement de Ge%Aologie et de Mine%Aralogie du Muse%Ae Royal de l'Afrique Centrale	Tervuren, Belgium	Koninklijk Museum voor Midden-Afrika. Mus. Roy. Afr. Centr.
+0304579X	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique. Biologie = Bulletin van het Konink. Belgisch Inst. Natuurwet. Biol.	Brussels, Belgium	Inst. R. Sci. Nat. Belg.
+03050270	Journal of Biogeography	Oxford, England	Blackwell Scientific Publications
+03050491	Comparative Biochemistry and Physiology. B. Comparative Biochemistry	Oxford, New York, Frankfurt	Pergamon Press
+03051838	Mammal Review	Oxford, England	Blackwell Scientific Publications.
+03054403	Journal of Archaeological Science	London, etc.	Academic Press.
+03058719	Geological Society Special Publications	Oxford, England	Blackwell Scientific Publications.
+03063127	Social Studies in Science	London, Beverly Hills, New Delhi	SAGE Publications
+03075052	Royal Scottish Museum, Information Series: Geology	Edinburgh, Scotland	Royal Scottish Museum.
+03080188	ISR -- Interdisciplinary Science Reviews	London, England	Heyden & Son, Ltd.
+0308681X	GCG -- Newsletter of the Geological Curators Group	Keele, England	Geological Curators Group.
+03087506	Tertiary Research Special Paper	Leiden, The Netherlands	E. J. Brill/Dr. W. Backhuys for the Tertiary Research Group, London, England
+03089649	Tertiary Research.	Leiden, The Netherlands	E. J. Brill/Dr. W. Backhuys for the Tertiary Research Group, London, England
+03092593	Systematics Association -- Special Volume	London, New York	The Systematics Association.
+03100049	Australian Mammalogy	Kensington, Australia	Australian Mammal Society.
+03115518	Alcheringa	Sydney, Australia	Association of Australasian Palaeontologists.
+03123162	Records of the Western Australian Museum	Perth, Australia	Western Australian Museum
+03124711	The Australian Geologist	Sydney, N.S.W., Australia	Geological Society of Australia
+03129608	BMR Journal of Australian Geology and Geophysics	Canberra, Australia	Australia, Bureau of Mineral Resources, Geology and Geophysics. Australian Government Publishing Service.
+0313122X	Records of the Western Australian Museum. Supplement	Perth, Australia	Western Australian Museum.
+03150941	Geoscience Canada	Toronto, Canada	Geological Association of Canada
+03151824	Canadian Geographical Journal	Ottawa, Canada	Royal Canadian Geographical Society
+03202305	Trudy -- Sovmestnaya Rossiysko-Mongol'skaya Paleontologicheskaya Ekspeditsiya	Moscow, Russia	Izdatel'stvo ``Nauka''
+03211339	Haykakan SSH Gitut'yunneri Akademia, Zekuyts'ner = Akademiya Nauk Armyanskoy SSR, Doklady.	Yerevan, USSR	Izdatel'stvo Akademii Nauk Armyanskoy SSR
+03211665	Sak'arthvelos SSR Mets'nierebatha Akademiis Matsne. Biologis Seria = Izvestiya Akademii Nauk Gruzinskoy SSR, Seriya Biologicheskaya	Tbilisi, USSR	Izdatel'stvo ``Metsniereba''
+03211703	Izvestiya Akademii Nauk SSSR, Seriya Geologicheskaya	Moscow, USSR	Izdatel'stvo ``Nauka''
+0321186X	Vestnik Leningradskogo Universiteta. Seriya 3, Biologiya	Leningrad, USSR	Izdatel'stvo Leningradskogo Universiteta
+03231119	Anthropologie (Brno). International Journal of the Science of Man	Brno, Czechoslovakia	Anthropos Institute, Moravian Museum.
+03234444	Leopoldina. Reihe 3. Jahrbuch der Deutschen Akademie der Naturforscher Leopoldina	Halle (Saale), Germany	Deutschen Akademie der Naturforscher Leopoldina.
+03238946	Schriftenreihe fu%Fr Geologische Wissenschaften. Gesellschaft fu%Fr Geologische Wissenschaften der DDR	Berlin, Germany	Akademie Verlag
+03240479	Godishnik na Sofiyskiya Universitet ``Kliment Okhridski'' Geologo-Geografski Fakultet	Sofia, Bulgaria	Universitetsko Izdatelstvo ``Kliment Okhridski''.
+03240770	Acta Zoologica Bulgarica	Sofia, Bulgaria	Institut po Zoologiya. Izdatelstvo na Bu%Rlgarskata Akademiya na Naukite.
+03240894	Geologica Balcanica	Sofia, Bulgaria	Bulgarska Akademiya na Naukite
+03246221	Karszt e%As Barlang	Budapest, Hungary	Magyar Karszt- e%As Barlangkutato%A Ta%Arsulat
+03246574	Karszt- e%As Barlangkutata%As. A Magyar Karszt- e%As Barlangkutato%A Ta%Arsulat E%Avko%Fnyve	Budapest, Hungary	Magyar Karszt- e%As Barlangkutato%A Bizottsa%Ag.
+03252620	Actas del Congreso Geolo%Agico Argentino	Buenos Aires, Argentina	Congreso Geolo%Agico Argentino.
+03258327	Revista del Instituto de Ciencias Geolo%Agicas (San Salvador de Jujuy, Argentina)	San Salvador de Jujuy, Argentina	Repu%Ablica Argentina, Universidad Nacional de Jujuy, Instituto de Ciencias Geolo%Agicas
+03261018	Revista del Instituto de Ciencias Geolo%Agicas (San Salvador de Jujuy, Argentina)	San Salvador de Jujuy, Argentina	Repu%Ablica Argentina, Universidad Nacional de Jujuy, Instituto de Ciencias Geolo%Agicas
+03321851	Journal of Earth Sciences	Dublin, Ireland	Royal Dublin Society.
+03355160	Bulletin de la Socie%Ate%A Ge%Aologique de Normandie et des Amis du Muse%Aum du Havre	Le Havre, France	Havre-Eclair
+03356566	Mineraux et Fossiles, Le Guide du Collectionneur. Meung-sur-Loire, France	Mineraux et Fossiles.	\N
+03358178	Me%Amoires et Travaux de l'Institut de Montpellier de l'E%Acole Pratique des Hautes E%Atudes\tMontpellier, France\t E%Acole Pratique des Hautes E%Atudes.	\N	\N
+03364917	Annales du Museum d'Histoire Naturelle de Nice	Nice	E%Aditions du Centre d'E%Atudes Me%Aditerrane%Aennes
+03369994	Bulletin Trimestriel de la Socie%Ate%A Ge%Aologique de Normandie et des Amis du Muse%Aum du Havre	Le Havre, France	Muse%Aum du Havre
+03403718	Abhandlungen Herausgegeben vom Naturwissenschaftlichen Verein zu Bremen	Bremen, Germany	Naturwissenschaftlichen Vereins zu Bremen
+03403734	Berichte des Naturwissenschaftlichen Vereins fu%Fr Schwaben e. V. Aus der Schwa%Fbischen Heimat	Augsburg, Germany	Naturwissenschaflicher Verein fu%Fr Schwaben e.
+03403750	Bericht -- Naturforschende Gesellschaft in Bamberg	Bamberg, Germany	Naturforschende Gesellschaft in Bamberg
+03404404	Mainzer Geowissenschaftliche Mitteilungen	Mainz, Germany	Geologisches Landesamt Rheinland-Pfalz
+03410145	Stuttgarter Beitra%Fge zur Naturkunde, Serie A: Biologie	Stuttgart, Germany	Staatliches Museum fu%Fr Naturkunde, Stuttgart
+03410153	Stuttgarter Beitra%Fge zur Naturkunde, Serie B: Geologie und Pala%Fontologie	Stuttgart, Germany	Staatliches Museum fu%Fr Naturkunde, Stuttgart
+03410161	Stuttgarter Beitra%Fge zur Naturkunde, Serie C: Allgemeinversta%Fndliche Aufsa%Ftze	Stuttgart, Germany	Staatliches Museum fu%Fr Naturkunde, Stuttgart
+03414027	Geologisches Jahrbuch Hessen	Wiesbaden, Germany	Hessisches Landesamt fu%Fr Bodenforschung
+03414043	Geologische Abhandlungen Hessen	Wiesbaden, Germany	Hessisches Landesamt fu%Fr Bodenforschung
+03414116	CFS, Courier Forschungsinstitut Senckenberg	Frankfurt-am-Main, Germany	Senckenbergische Naturforschende Gesellschaft
+03414167	Arbeiten aus dem Institut fu%Fr Geologie und Pala%Fontologie an der Universita%Ft Stuttgart. Neue Folge	Stuttgart, Germany	Universita%Ft Stuttgart, Institut fu%Fr Geologie und Pala%Fontologie
+03416399	Geologisches Jahrbuch, Reihe A: Allgemeine und Regionale Geologie	Hanover, Germany	Bundesanstalt fu%Fr Geowissenschaften und Rohstoffe und den Geologischen Landesamten in der BRDeutschland
+03416402	Geologisches Jahrbuch, Reihe B: Regionale Geologie Ausland	Hannover, Germany	Bundesanstalt fu%Fr Geowissenschaften und Rohstoffe und den Geologischen Landesa%Fmtern in der BRDeutschland
+0341907X	Mineralien Magazin.	Stuttgart, Germany	Franckh'sche Verlagshandlung, W. Keller & Co., Kosmos Verlag.
+03419665	Mitteilungen der Pollichia	Bad Du%Frkheim, Germany	Selbstverlag der Pollichia, Pollichia-Museum (Naturwissenschaftliches Museum der Pfalz)
+03425452	Beitra%Fge zur Naturkunde in Osthessen	Fulda, Germany	Verein fu%Fr Naturkunde in Osthessen e. V.
+03427595	Die Schwa%Fbische Heimat	Stuttgart, Germany	Schwa%Fbischer Heimatbund, Theiss Verlag
+0343737X	Sammlung Geologischer Fu%Fhrer	Berlin-Stuttgart, Germany	Gebru%Fder Borntraeger
+03437620	Philippia -- Abhandlungen und Berichte aus dem Naturkundemuseum im Ottoneum zu Kassel	Kassel, Germany	Philippi-Gesellschaft zur Fo%Frderung der Naturwissenschaften.
+03484386	Striolae.	Uppsala, Sweden	Societas Upsaliensis pro Geologia Quaternaria.
+03500608	Geolos%Jki Anali Balkanskoga Poluostrva = Annales Ge%Aologiques de la Pe%Aninsule Balkanique	Belgrade, Yugoslavia	Geolos%Jki Zavod Univerziteta u Beogradu
+0350235X	Geolos%Jki Glasnik = Herald Geological = Bulletin Ge%Aologique	Sarajevo, Yugoslavia	``Geoinz%Jenjering''.
+03505189	Larus. Godis%Jnjak Zavoda za Ornitologiju Istraz%Jivac%Jkog Centra Jugoslavenske Akademije Znanosti i Umjetnosti	Zagreb, Yugoslavia	Institute of Ornithology, Yugoslav Academy of Sciences & Arts
+03513297	Rad Jugoslavenske Akademije Znanosti i Umjetnosti. Prirodne Znanosti	Zagreb, Yugoslavia	Jugoslavenska Akademija Znanosti i Umjetnosti
+03521206	Geologica Macedonica	S%Jtip, Yugoslavia	Rudarsko Geolos%Jki Fakultet, Univerzitet ``Kiril i Metodij'' (Skopje, Yugoslavia).
+03600270	Reports of Investigations, Illinois State Museum	Springfield, IL, USA	Illinois State Museum.
+03601269	Earth Surface Processes. The Journal of the British Geomorphological Research Group	Leeds, England	John Wiley & Sons
+03617149	Russian Geology and Geophysics (English translation of Geologiya i Geofizika, Akademiya Nauk SSSR, Sibirskoye Otdeleniye)	New York, NY, USA	Allerton Press
+03619656	Bulletin -- Museum of Northern Arizona	Flagstaff, AZ, USA	Northern Arizona Society of Science and Art
+03622525	Journal of Morphology	New York, NY, USA	Alan R. Liss, Inc.
+03634132	Guidebook -- University of Texas at Austin, Bureau of Economic Geology	Austin, TX, USA	University of Texas, Bureau of Economic Geology
+03644456	Report of Investigations -- Geological Survey of Wyoming	Laramie, WY	Geological Survey of Wyoming
+03644510	Geological Survey Bulletin (United States)	Reston, VA, USA	U. S. Geological Survey.
+0365026X	Atti della Accademia Nazionale dei Lincei, Memorie, Classe di Scienze Fisiche, Matematiche e Naturali, Sez. 2a: Fiz., Chim., Geol., Paleontol. Miner	Rome, Italy	Accad. Naz. Lincei
+03650898	Atas da Sociedade de Biologia do Rio de Janeiro	Rio de Janeiro, Brazil	Sociedade de Biologia do Rio de Janeiro
+03651185	Anales de la Academia Nacional de Ciencias Exactas, Fi%Asicas y Naturales.	Buenos Aires, Argentina	Academia Nacional de Ciencias Exactas, Fi%Asicas y Naturales
+03651576	Atti del Museo Civico di Storia Naturale di Trieste	Trieste, Italy	.
+0365317X	Atti dell'Istituto Geologico della Universita%C di Pavia	Pavia, Italy	Istituto Geologico della Universita%C di Pavia.
+03653188	Anuarul Institutului Geologic	Bucharest, Romania	Institutul de Geologie
+03653668	Australian Journal of Science	Sydney, Australia	Australian National Research Council
+03654192	Annales du Muse%Ae Royal du Congo Belge, Se%Arie in 8o, Sciences Ge%Aologiques	Tervuren, Belgium	Muse%Ae Royal du Congo Belge
+03655164	Archives Neerlandaises de Zoologie	Leiden, The Netherlands	Societe Neerlandaise de Zoologie
+03656799	Annales, Socie%Ate%A Ge%Aologique du Nord	Lille, France	Socie%Ate%A Ge%Aologique du Nord
+03657000	Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft	Frankfurt-am-Main, Germany	Verlag Waldemar Kramer
+03657655	Atti della Societa%C Toscana di Scienze Naturali, Memorie, Serie A	Pisa, Italy	Societa%C Toscana di Scienze Naturali.
+03659844	Bericht der Naturhistorischen Gesellschaft Hannover	Hannover, Germany	Naturhistorische Gesellschaft Hannover
+0366015X	Bulletin du Service Ge%Aologique du Luxembourg	Luxembourg	Ministe%Cre des Travaux Publiques, Service Ge%Aologique
+03660176	Boleti%An Geolo%Agico y Minero	Madrid, Spain	Instituto Geolo%Agico y Minero de Espan%Ea
+03660909	Byulleten' Komissii po Izucheniyu Chetvertichnogo Perioda, Akademiya Nauk SSSR	Moscow, USSR	Izdatel'stvo ``Nauka''
+03661237	Boletim do Museu e Laborato%Ario Mineralo%Agico e Geolo%Agico da Faculdade de Cie%Dncias da Universidade de Lisboa	Lisbon, Portugal	Univ. Lisboa, Fac. Cie%Dnc., Mus. Lab. Mineral. Geol.
+03661318	Byulleten' Moskovskogo Obshchestva Ispytaleley Prirody, Otdel Geologicheskiy	Moscow, USSR	Izdatel'stvo Moskovskogo Universiteta
+03661326	Bulletin Mensuel de la Socie%Ate%A Linne%Aenne de Lyon.	Lyon, France	Socie%Ate%A Linne%Aenne de Lyon.
+03662101	Boletim da Sociedade Geolo%Agica de Portugal	Lisbon, Portugal	Sociedade Geolo%Agica de Portugal.
+03662241	Bollettino del Servizio Geologico d'Italia	Rome, Italy	Servizio Geologico d'Italia
+03663469	Bulletin de la Socie%Ate%A Neucha%Dteloise des Sciences Naturelles	Neucha%Dtel, Switzerland	Socie%Ate%A Neucha%Dteloise des Sciences Naturelles
+03663477	Bulletin de la Socie%Ate%A d'Histoire Naturelle de Toulouse.	Toulouse, France	Faculte%A des Sciences de l'Universite%A de Toulouse.
+03663566	Buletinul Societa%Rt%Bii de S%Btiint%Be Geologice din R. S. Roma%Dnia	Bucharest, Romania	Societa%Rtea de S%Btiint%Be Geologice din Republica Socialista%R Roma%Dnia
+03664198	Bulletin of the Geological Survey of Great Britain	London, England	Institute of Geological Sciences
+03664392	Bulletin du Muse%Ae d'Histoire Naturelle de Marseille	Marseille, France	Imprimerie Municipale
+03665232	Caldasia	Bogota%A, Colombia	Instituto de Ciencias Naturales. Museo de Historia Natural de la Universidad Nacional de Colombia
+03665933	Chigaku Kenkyu%N = Geoscience Magazine	Kyoto, Japan	Nippon Chigakukenkyu-kai
+03666611	Chikyu%N Kagaku = Earth Science. Journal of the Association of the Geological Collaboration of Japan	Tokyo, Japan	Association of the Geological Collaboration of Japan
+03667634	Colloques Internationaux du Centre National de la Recherche Scientifique	Paris, France	E%Aditions du Centre National de la Recherche Scientifique
+03668681	Doklady Bolgarskoy Akademii Nauk = Comptes Rendus de l'Acade%Amie Bulgare des Sciences	Sofia, Bulgaria	Izdatelstvo na Bu%Rlgarskata Akademiya na Naukite
+0366872X	Decheniana -- Verhandlungen des Naturhistorischen Vereins der Rheinlande und Westfalens	Bonn, FRG	Naturhistorischer Verein der Rheinlande und Westfalens
+03670449	Estudios Geolo%Agicos	Madrid, Spain	Instituto de Investigaciones Geolo%Agicas ``Lucas Mallada''
+03672697	Fragmenta Mineralogica et Palaeontologica	Budapest, Hungary	Terme%Aszettudoma%Anyi Mu%Azeum
+03674290	Geologicheskiy Zhurnal. [Russian edition of Heolohichnyy Zhurnal)	Kiev, USSR	Akademiya Nauk URSR
+03674983	Glasnik Prirodnjac%Jkog Muzeja u Beogradu, Serija A: Geolos%Jke Nauke	Belgrade, Yugoslavia	Prirodnjac%Jki Muzej.
+03682307	Jahreshefte der Gesellschaft fu%Fr Naturkunde in Wu%Frttemberg	Stuttgart, Germany	Gesellschaft fu%Fr Naturkunde in Wu%Frttemberg, e. V.
+0368489X	Annalen -- Koninklijk Museum voor Midden-Afrika	Tervuren, Belgie	Reeks in 8o, Geologische Wetenschappen. Annales -- Mus. R. Afrique Centrale, Tervuren, Belgique, Ser. 8o, Sci. Geol.
+03689654	Mu%Fnstersche Forschungen zur Geologie und Pala%Fontologie	Mu%Fnster, Germany	Verein der Geologie-Studenten in Mu%Fnster e. V.
+03689751	Magyar A%Allami Fo%Fldtani Inte%Azet E%Avi Jelente%Ase = Annual Report of the  State Geological Institute	Budapest, Hungary	Mu%Fszaki Ko%Fnyvkiado
+03689824	Mededelingen Rijks Geologische Dienst (Netherlands)	Haarlem, The Netherlands	Rijks Geologische Dienst.
+03689840	Magyar A%Allami Fo%Fldtani Inte%Azet E%Avko%Fnyve = Annales Instituti Geologici Publici Hungarici	Budapest, Hungary	Magyar A%Allami Fo%Fldtani Inte%Azet.
+0368993X	Memorie degli Istituti di Geologia e Mineralogia dell' Universita%C di Padova	Padua, Italy	Universita%C di Padova
+03690016	Mitteilungen aus dem Geologisches Staatsinstitut, Hamburg	Hamburg, Germany	Geologisches Institut der Universita%Ft Hamburg.
+03690024	Memoirs of the Geological Survey of India	Calcutta, India	Geological Survey of India
+03690857	Mitteilungen der Abteilung fu%Fr Geologie, Pala%Fontologie und Bergbau am Landesmuseum Joanneum	Graz, Austria	Landesmuseum Joanneum
+03691136	Mitteilungen des Naturwissenschaftlichen Vereines fu%Fr Steiermark	Graz, Austria	Naturwissenschaftlicher Verein fu%Fr Steiermark.
+03691748	Notes et Me%Amoires du Service Ge%Aologique (Morocco)	Rabat, Morocco	E%Aditions du Service Ge%Aologique du Maroc.
+03692027	Me%Amoires de la Socie%Ate%A Ge%Aologique de France. Nouvelle Se%Arie	Paris	Socie%Ate%A Ge%Aologique de France
+03695034	Nova Acta Leopoldina. Abhandlungen der Deutschen Akademie der Naturforscher Leopoldina. Neue Folge	Halle/Saale, Germany	.
+0369514X	Notizblatt des Hessischen Landesamtes fu%Fr Bodenforschung	Wiesbaden, Germany	Hessisches Landesam fu%Fr Bodenforschung
+03695417	Skrifter -- Norsk Polarinstitutt	Oslo, Norway	Norsk Polarinstitutt
+03696243	Natura. Rivista di Scienze Naturali	Milan, Italy	Societa%C Italiana di Scienze Naturali, Museo Civico di Storia Naturale di Milano, Acquario Civico di Milano
+03698963	Periodico di Mineralogia	Rome, Italy	Dipartimento Scienze della Terra Universita%C degli Studi ``La Sapienza''
+03699846	Proceedings of the Imperial Academy (Tokyo) = Teikoku Gakushi-in Kiji	Tokyo, Japan	The Imperial Academy
+03700046	Proceedings of the Indian National Science Academy, Part A, Physical Sciences	New Delhi, India	Indian National Science Academy
+0370047X	Proceedings of the Linnean Society of New South Wales	Sydney, Australia	Linnean Society of New South Wales
+03700623	Memoria -- Servicos Geologicos de Portugal	Lisbon, Portugal	Servicos Geologicos de Portugal.
+03702952	The Quarterly Journal of Microscopical Science. Series 3	Oxford, England	Clarendon Press for the Company of Biologists, Ltd.
+03703878	Records of the Canterbury Museum	Christchurch, New Zealand	Canterbury Museum Trust Board
+03704467	REM, Revista da Escola de Minas	Ouro Preto, Brazil	Escola de Minas
+03705226	Records of the Geological Survey of India	Calcutta, India	Geological Survey of India
+03706559	Bulletin -- Royal Society of New Zealand	Wellington, New Zealand	The Royal Society of New Zealand
+03707407	Rendiconti della Societa%C Mineralogica Italiana	Milan, Italy	Museo Civico di Storia Naturale.
+03707415	Revista de la Sociedad Mexicana de Historia Natural	Mexico, D.F., Mexico	Sociedad Mexicana de Historia Natural
+03709892	Me%Amoires de la Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne	Rennes, France	Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne
+03709957	Studia Geolo%Agica Salmanticensia	Salamanca, Spain	Universidad de Salamanca.
+03712516	Search. The Journal of the Australian and New Zealand Association for the Advancement of Science	Sydney, Australia	Australian and New Zealand Association for the Advancement of Science
+03714810	Sitzungsberichte -- Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaft. Klasse. Abt. I. Miner., Biol., Erdk	Vienna, Austria	Springer.
+03715736	Dizhi Lunping [= Ti-chih Lun-p'ing] = Geological Review. (Geological Society of China and Geological Review Editorial Board)	Beijing, China	Dizhi Chubanshe
+03717208	South African Journal of Geology	Johannesburg, South Africa	Geological Society of South Africa
+03718204	Tu%Frkiye Jeoloji Kurumu Bu%Flteni = Bulletin of the Geological Society of Turkey	Ankara, Turkey	Tu%Frkiye Jeoloji Kurumu
+03721426	Transactions of the Royal Society of South Australia	Adelaide, Australia	Royal Society of South Australia
+03723577	Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR	Leningrad, USSR	Izdatel'stvo ``Nauka''
+03729966	Zapisnici Srpskog Geolos%Jkog Drus%Jtva = Compte Rendu des Se%Aances de la Socie%Ate%A Serbe de Ge%Aologie	Belgrade, Yugoslavia	Srpsko Geolos%Jko Drus%Jtvo.
+03730786	Proceedings of the Indian Science Congress	Calcutta, India	Indian Science Congress Association.
+03730972	Palaeontographia Italica	Pisa, Italy	Universita%C di Pisa, Museo di Storia Naturale e del Territorio Calci.
+03732061	Bulletin Scientifique de Bourgogne	Dijon, France	Socie%Ate%A des Sciences Naturelles de Dijon
+03732444	Izvestiya Akademii Nauk SSSR, Seriya Geograficheskaya	Moscow, USSR	Izdatel'stvo ``Nauka''
+03732851	Revue des Sciences Naturelles d'Auvergne	Clermont-Ferrand, France	Socie%Ate%A d'Histoire Naturelle d'Auvergne
+03733823	Revista del Museo de La Plata. Nueva Serie. Seccio%An Paleontologi%Aa	La Plata, Argentina	Universidad Nacional de La Plata, Facultad de Ciencias Naturales y Museo
+03733874	Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening	Copenhagen, Denmark	Dansk Naturhistorisk Forening
+0373434X	Rapports et Proce%Cs-Verbaux des Re%Aunions -- Commission Internationale pour l'Exploration Scientifique de la Mer Me%Aditerrane%Ae	Principaute%A de Monaco	Comm. Int. Explor. Sci. Mer Me%Ad.
+03734927	Proceedings of the Cotteswold Naturalists' Field Club	Gloucester, England	Cotteswold Naturalists' Field Club
+03736474	Memorias e Noticias -- Universidade de Coimbra, Museu e Laboratorio Mineralogico e Geologico	Coimbra, Portugal	Mus. Lab. Mineral. Geol. Univ. Coimbra. [Simultan. entit:Publicac%Bo%Des]
+03736636	Nouvelles Archives du Muse%Aum d'Histoire Naturelle de Lyon	Lyon, France	Muse%Aum Guimet d'Histoire Naturelle de Lyon.
+03737179	C%Jeskoslovensky%A Kras	Prague, Czechoslovakia	C%Jeskoslovenska%A Akademie Ve%Jd.
+03739627	Zitteliana. Abhandlungen der Bayerischen Staatssammlung fu%Fr Pala%Fontologie and historische Geologie	Munich, Germany	Bayerische Staatssammlung fu%Fr Pala%Fontologie und historische Geologie
+03739902	Ljetopis Jugoslavenske Akademije Znanosti i Umjetnosti.	Zagreb, Yugoslavia	Jugoslavenska Akademija Znanosti i Umjetnosti
+03739929	Annales de la Socie%Ate%A des Sciences Naturelles de la Charente-Maritime	La Rochelle, France	Museum d'Histoire Naturelle
+03741346	Bulletin d'Information des Ge%Aologues du Bassin de Paris	Paris, France	Laboratoire de Ge%Aologie des Bassins Se%Adimentaires, Universite%A de Paris
+03741893	Geologica Hungarica, Series Palaeontologica	Budapest, Hungary	Magyar A%Allami Fo%Fldtani Inte%Azet
+03743268	Geos (Ottawa)	Ottawa, Canada	Energy, Mines and Resources Canada -- Energie, Mines et Ressources Canada
+03745708	Aquila. A Magyar Mada%Artani Inte%Azet E%Avko%Fnyve = Annales Instituti Ornithologici Hungarici.	Budapest, Hungary	Az Orsza%Agos Terme%Aszetve%Adelmi Hivatal Mada%Artani Inte%Azete
+03746291	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique: Sciences de la Terre = Bull. Konink. Belg. Inst. Natuurwet.: Aardwet	Brussels, Belgium	Inst. R. Sci. Nat. Belgique.
+03746429	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique: Biologie = Bulletin van het Konink. Belgisch Inst. Natuurwet.: Biol.	Brussels, Belgium	Inst. R. Sci. Nat. de Belgique
+03746682	Bulletin des Laboratoires de Ge%Aologie, Mine%Aralogie, Ge%Aophysique et du Muse%Ae Ge%Aologique de l'Universite%A de Lausanne	Lausanne, Switzerland	Universite%A de Lausanne
+03747123	Comunicaciones Paleontolo%Agicas del Museo de Historia Natural de Montevideo	Montevideo, Uruguay	Museo Nacional de Historia Natural.
+03749789	Notes et Me%Amoires du Service Ge%Aologique (Morocco)	Rabat, Morocco	E%Aditions du Service Ge%Aologique du Maroc
+03750442	Palaeontographica. Beitra%Fge zur Naturgeschichte der Vorzeit. Abteilung A: Pala%Fozoologie, Stratigraphie	Stuttgart, Germany	E. Schweizerbart'sche Verlagsbuchhandlung
+03751015	Rad Jugoslavenske Akademije Znanosti i Umjetnosti. Razred za Drus%Jtvene Znanosti	Zagreb, Yugoslavia	Jugoslavenska Akademija Znanosti i Umjetnosti.
+03756262	Nachrichten -- Deutsche Geologische Gesellschaft	Hannover, Germany	Deutsche Geologische Gesellschaft.
+03756300	Environment Southwest	San Diego, CA, USA	San Diego Society of Natural History
+03756419	Geology and Paleontology of Southeast Asia	Tokyo, Japan	University of Tokyo Press
+03756688	Rendiconti, Istituto Lombardo Accademia di Scienze e Lettere. [Sezione] B: Scienze Biologiche e Mediche	Milan, Italy	Istituto Lombardo di Scienze e Lettere
+03756777	Kingston Geological Review	Kingston upon Thames, England	Kingston Polytechnic Geology Club
+03757471	Quarta%Fr. Jahrbuch fu%Fr Erforschung des Eiszeitalters und der Steinzeit (Hugo Obermaier-Gesellschaft)	Bonn, Germany	Ludwig Ro%Fhrscheid Verlag
+03757536	Revista Brasiliera de Geocie%Dncias	Sa%Eo Paulo, Brazil	Sociedade Brasiliera de Geologia
+03757587	Scripta Geologica	Leiden, The Netherlands	Rijksmuseum van Geologie en Mineralogie
+03757633	Bollettino della Societa%C Paleontologica Italiana	Modena, Italy	Societa%C Paleontologica Italiana
+03758095	Universum. O%Fsterreichische Monatszeitschrift fu%Fr Natur, Technik und Wirtschaft	Vienna, Austria	Gesellschaft fu%Fr Natur und Technik.
+03758176	Utah Geological Association Publication.	Provo, UT, USA	Utah Geological Association.
+03759857	Memorie della Societa%C Geologica Italiana	Rome, Italy	Societa%C Geologica Italiana.
+03761444	Trudy Paleontologicheskogo Instituta. Akademiya Nauk SSSR	Moscow, USSR	Izdatel'stvo ``Nauka''
+03762726	Memorie della Societa%C Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano	Milan, Italy	Societa%C Italiana de Scienze Naturali.
+03762734	Palaeontographical Society Monographs	London, England	The Palaeontographical Society
+03764230	Contributions to Vertebrate Evolution	Basel, Switzerland	S. Karger
+03767773	Tektonika i Stratigrafiya. Mezhvedomstvennyy Sbornik Nauchnykh Trudov (Akademiya Nauk Ukrainy, Institut Geologicheskikh Nauk)	Kiev, Ukraine	Izdatel'stvo ``Naukova Dumka''
+03782689	Centre of Asian Studies Occasional Papers and Monographs	Hong Kong	University of Hong Kong
+03786870	Geologisch-Pala%Fontologische Mitteilungen Innsbruck	Innsbruck, Austria	Institut fu%Fr Geologie und Pala%Fontologie
+03791807	Bulletin de la Socie%Ate%A Belge de Ge%Aologie = Bulletin van de Belgische Vereniging voor Geologie	Brussels, Belgium	Socie%Ate%A Belge de Ge%Aologie.
+03792897	Sinet. An Ethiopian journal of science	Addis Ababa, Ethiopia	The Faculty of Science, Addis Ababa University
+03793397	Geological Survey of Egypt -- Paper	Cairo, Egypt	Ministry of Petroleum and Mineral Wealth, The Geological Survey of Egypt and Mining Authority
+03795098	Bulletin of the Indian Geologists' Association	Chandigarh, India	Indian Geologists' Association
+03795101	Himalayan Geology	Dehra Dun, India	Wadia Institute of Himalayan Geology.
+03795128	Indian Journal of Earth Sciences	Calcutta, India	Indian Society of Earth Sciences, Department of Geology, Presidency College
+03795160	Journal of the Indian Academy of Geoscience	Hyderabad, India	Indian Academy of Geoscience, Geology Department, Osmania University
+03795225	Geological Survey of India. Palaeontologia Indica, New Series	Calcutta, India	Geological Survey of India
+03798097	Biological Memoirs. An International Journal of Biological Disciplines	Lucknow, India	International Publishers
+03848159	Life Sciences Contributions -- Royal Ontario Museum	Toronto, ON, Canada	Royal Ontario Museum.
+03850900	Mizunami-Shi Kaseki Hakubutsukan Kenkyu%N Ho%Nkoku = Bulletin of the Mizunami Fossil Museum	Mizunami City, Japan	Mizunami Fossil Museum.
+0385244X	Bulletin of the National Science Museum, Series C: Geology & Paleontology = Kokuritsu Kagaku Hakubutsukan Kenkyu%N Ho%Nkoku, C Rui: Chishitsugaku, Koseibutsugaku	Tokyo, Japan	Nat. Sci. Mus.
+03854019	Kagoshima Daigaku Rigakubu Kiyo%N (Chigaku. Seibutsugaku) -- Reports of the Faculty of Science, Kagoshima University (Earth Science and Biology)	Kagoshima, Japan	Fac. Sci., Kagoshima Univ.
+03857727	Shizen Kagaku to Hakubutsukan = Natural Science and Museums	To%Nkyo%N, Japan	National Science Museum. (Kokuritsu Kagaku Hakubutsukan)
+03858278	Kyu%Nshu%N Daigaku Rigakubu. Kenkyu%N Ho%Nkoku. Chishitsugaku -- Science Reports. Department of Geology, Kyushu University	Fukuoka, Japan	Faculty of Sci. Kyu%Nshu%N University
+03862208	Proceedings of the Japan Academy, Series B, Physical and Biological Sciences = Nihon Gakushi-in Kiyo, Kam B	Tokyo, Japan	The Japan Academy
+0386233X	Journal of the Speleological Society of Japan = Do%Nkutsugaku Zasshi	Akiyoshi-dai  Yamaguchi Prefecture, Japan	Nippon Do%Nkutsugaku Kai.
+03870022	Iden -- The Heredity	To%Nkyo%N, Japan	Shokabo.
+03870855	Fukushima Daigaku. Kyo%Nikugakubu Ronshu%N. Rika Ho%Nkoku -- Science Reports of the Faculty of Education, Fukushima University	Fukushima, Japan	Faculty of Education, Fukushima University
+03871924	Kaseki Kenkyu%Nkai Kaishi = Journal of Fossil Research (Fossil Club Bulletin)	Tokyo, Japan	Fossil Research Society of Japan (Fossil Club)
+0387964X	Bulletin of the Kitakyu%Nshu%N Museum of Natural History = Kitakyu%Nshu%N-shiritsu Shizenshi Hakubutsukan Kenkyu%N Ho%Nkoku]	Kitakyu%Nshu%N, Japan	Kitakyu%Nshu%N Museum of Natural History.
+03902196	Geo-Archeologia	L'Aquila, Italy	Associazione Geo-Archeologica Italiana
+03907686	Atti della Accademia Gioenia di Catania	Catania, Italy	Accademia Gioenia di Catania
+03915859	Gortania. Atti del Museo Friulano di Storia Naturale	Udine, Italy	Museo Friulano di Storia Naturale.
+03918602	Memorie di Scienze Geologiche	Padua, Italy	Universita%C di Padova
+03920062	Bollettino del Museo Civico di Storia Naturale di Verona	Verona, Italy	Museo Civico di Storia Naturale di Verona
+03920070	Memorie del Museo Civico di Storia Naturale di Verona. Sezione Scienze dell'Uomo	Verona, Italy	Museo Civico di Storia Naturale.
+03920089	Memorie del Museo Civico di Storia Naturale di Verona. Sezione Scienzia della Terra	Verona, Italy	Museo Civico di Storia Naturale
+03923037	Rendiconti della Societa%C Geologica Italiana. Supplemento al Bollettino della Societa%C Italiana	Rome, Italy	Societa%C Geologica Italiana
+0392758X	Bollettino -- Museo Regionale di Scienze Naturali, Torino	Turin, Italy	Museo Regionale di Scienze Naturali
+03939375	Human Evolution.	Firenze, Italy	Editrice ``Il Sedicesimo''
+03940691	Atti Ticinensi di Scienze della Terra	Pavia, Italy	Dipartimento di Scienze della Terra, Universita%C di Pavia.
+03962687	Bulletin des Centres de Recherches Exploration-Production Elf-Aquitaine (Production)	Pau, France	Societe National Elf-Aquitaine
+03969681	Histoire et Nature	Paris, France	Association pour l'Histoire des Sciences de la Nature, Laboratoire d'Ethnobotanique.
+03972844	Ge%Aologie Me%Aditerrane%Aenne, Annales de l'Universite%A de Provence	Marseille, France	Universite%A de Provence
+03982106	Bulletin du Muse%Ae d'Histoire Naturelle de Marseille	Marseille, France	Imprimerie Municipale
+03991725	Nouvelles Archives du Muse%Aum d'Histoire Naturelle de Lyon, Supple%Ament	Lyon, France	Muse%Ae Guimet d'Histoire Naturelle de Lyon
+04009673	Materialy po Istorii Fauny i Flory Kazakhstana. (Akademiya Nauk Kazakhskoy SSR, Institut Zoologii)	Alma-Ata, KazSSR, USSR	Izdatel'stvo ``Nauka'' Kazakhskoy SSR
+04024664	Annales Ge%Aologiques des Pays Helle%Aniques. 1e Se%Arie	Athens, Greece	Laboratoire de Ge%Aologie de l'Universite%A
+04081560	Jahreshefte des Geologischen Landesamtes Baden-Wu%Frttemberg	Freiberg im Breisgau, Germany	Geologisches Landesamt Baden-Wu%Frttemberg
+04089529	Me%Amoires pour Servir a%C l'Explication des Cartes Ge%Aologiques et Minie%Cres de la Belgique -- Toelichtende Verh. voor de Geol. en Mijnkarten van Belgie%F	.	Service Ge%Aologique de Belgique
+04089618	Zbornik Radova Geolos%Jkog Instituta ``Jovan Z%Jujovic%A'' = Recueil des Travaux de l'Inst. de Ge%Aol. ``Jovan Z%Jujovic%A''	Belgrade, Yugoslavia	Geol. Inst. ``Jovan Z%Jujovic%A
+04182642	Quaternary Research, The = Daiyonki Kenkyu	To%Nkyo%N, Japan	Japan Association for Quaternary Reasearch
+04186559	Report -- Geological Survey of Greenland (Rapport -- Gro%Snlands Geologiske Underso%Sgelse)	Copenhagen, Denmark	Gro%Snlands Geologiske Underso%Sgelse
+04233441	Erlanger Forschungen. Reihe B: Naturwissenschaften und Medizin.	Erlangen, Germany	Verlag Universita%Ftsbund Erlangen-Nu%Frenberg e. V.
+04246373	Eesti NSV Teaduste Akadeemia, Toimetised, Keemia, Geoloogia (Izvestiya Akademii Nauk Estonskoy SSR, Khimiya, Geologiya)	Tallin, EstSSR, USSR	Izdatel'stvo ``Perioodika''.
+04247116	Eiszeitalter und Gegenwart. Jahrbuch der Deutschen Quarta%Frvereinigung	Hannover, Germany	Deutsche Quarta%Frvereinigung
+04334795	Geologicke%A Pra%Ace, Spra%Avy	Bratislava, Czechoslovakia	Geologicky%A U%Astav Diony%Aza S%Jtu%Ara
+04353927	Geologica Romana	Rome, Italy	Universita%C di Roma, Istituto di Geologia e Paleontologia -- Consiglio Nazionale delle Ricerche, Centro di Studio per la Geologia dell'Italia Centrale
+04354281	Geomorfologiya. Akademiya Nauk SSSR	Moscow, USSR	Izdatel'stvo ``Nauka''
+04354795	Geologicke%A Pra%Ace, Spra%Avy	Bratislava, Czechoslovakia	Geologicky%A U%Astav Diony%Aza S%Jtu%Ara
+04393112	Wissenschaftliche Beihefte zur Zeitschrift ``Die Ho%Fhle''	Vienna, Austria	Verband O%Fsterreichischer Ho%Fhlenforscher
+04396812	Acta Musei Reginaehradecensis. Seria A: Scientiae Naturales = Prace%A Krajske%Aho Musea v Hradci Kra%Alove%A. Seria A: Ve%Jdy Pr%Ji%Arodni	Hradec Kra%Alove%A, Czechoslovakia	Krajske%A Museum
+04401298	Wissenschaftliche Beitra%Fge -- Martin-Luther-Universita%Ft Halle-Wittenberg	Halle, Germany	Martin-Luther-Universita%Ft Halle-Wittenberg
+04407423	Abhandlungen des Hessischen Landesamtes fu%Fr Bodenforschung	Wiesbaden, Germany	Hessisches Landesamt fu%Fr Bodenforschung
+04453395	Illinois State Museum Scientific Papers	Springfield, IL, USA	Illinois State Museum
+04531906	Kanagawa Kenritsu Hakubutsukan. Kenkyu%N Ho%Nkoku. Shizen Kagaku -- Bulletin of the Kanagawa Prefectural Museum. Natural Science	Yokohama, Japan	Kanagawa Prefectural Museum
+04532015	Noto Rinkai Jikkenjo Nenpo = Annual Report of the Noto Marine Laboratory	Ogi, Uchiura-cho, Suzu-gun, Ishikawa Pref., Japan	Noto Rinkai Jikkenjo
+04547802	Memoirs of the Faculty of Science, Kyoto University. Series of Biology	Kyo%Nto, Japan	Faculty of Science, Kyo%Nto University
+04547810	Memoirs of the Faculty of Science, Kyoto University. Series of Geology and Mineralogy	Kyo%Nto, Japan	Faculty of Science, Kyo%Nto University
+04590856	Trudy Vsesoyuznogo Nauchno-Issledovatel'skogo Geologicheskogo Instituta (VSEGEI). Novaya Seriya	Leningrad, USSR	Ministerstvo Geologii SSSR
+04598113	Contributions in Science (Natural History Museum of Los Angeles County)	Los Angeles, CA, USA	Natural History Museum of Los Angeles County
+04703901	Naturkundliches Jahrbuch der Stadt Linz	Linz, Austria	Stadtmuseum Linz
+04738144	Vero%Fffentlichungen der O%Fsterreichischen Arbeitsgemeinschaft fu%Fr Ur- und Fru%Fhgeschichte	Vienna, Austria	O%Fsterreichische Arbeitsgemeinschaft fu%Fr Ur- und Fru%Fhgeschichte
+04747313	Ornitologiya	Moscow, USSR	Izdatel'stvo Moskovskogo Universiteta
+04961102	Transvaal Museum Bulletin	Pretoria, South Africa	Transvaal Museum
+0496456X	Notes du Service Ge%Aologique, Tunisie	Tunis, Tunisia	Service Ge%Aologique de Tunisie
+04964853	Tu%Frk Biyoloji Dergisi = Acta Biologica Turcica	Istanbul, Turkey	Tu%Frk Biyoloji Derneg%Ji.
+05055164	Vero%Fffentlichungen aus dem Naturhistorischen Museum Wien. Neue Folge	Vienna, Austria	Naturhistorisches Musem Wien
+05060335	Voprosy Paleontologii.	Leningrad, USSR	Leningradskiy Universitet
+05067839	Vertebrata Hungarica	Budapest, Hungary	Terme%Aszettudoma%Anyi Muzeum (= Museum Historico-Naturalis Hungarici)
+05072921	Voprosy Antropologii	Moscow, USSR	Moskovskiy Gosudarstvennyy Universitet
+05132622	Yokosuka-shi Hakubutsukan Kenkyu%N Ho%Nkoku = Science Report of the Yokosuka City Museum	Yokosuka-shi, Kanagawa-ken, Japan	Yokosuka Municipal Museum
+05135613	Science Reports of the Yokohama National University. Section 2: Biology and Geology = Yokohama Kokuritsu Daigaku Rika Kiyo. Dai-nirui. Seibutsugaku Chigaku	Yokohama, Japan	Yokohama Nat. Univ.
+0515961X	Haystani Gitutyunneri Akademiayi Tehekagir, Gitutyunner Yerkri Masin = Izvestiya Akademii Nauk Armenii, Nauki o Zemle	Yerevan, Armenia	Izdatel'stvo Akad. Nauk Armenii
+05209455	Breviora Geolo%Agica Astu%Arica	Oviedo, Spain	Instituto de Geologi%Aa Aplicada, Facultad de Ciencias, Universidad de Oviedo
+05212359	C%Jasopis Moravske%Aho Musea, Ve%Jdy Pr%Ji%Arodni%A = Acta Musei Moraviae, Scientiae Naturales	Brno, Czechoslovakia	Moravske%A Museum
+05212367	C%Jasopis Moravske%Aho Musea, Ve%Jdy Spolec%Jenske%A = Acta Musei Moraviae, Scientiae Sociales	Brno, Czechoslovakia	Moravske%A Museum
+05214726	Annales Historico-Naturales Musei Nationali Hungarici	Budapest, Hungary	Terme%Aszettudoma%Anyi Mu%Azeum
+05229863	Wissenschaftliche Zeitschrift der Humboldt-Universita%Ft zu Berlin, Mathematisch-Naturwissenschaftliche Reihe	Berlin, Germany	Humboldt Universita%Ft
+0523056X	Annales Scientifiques de l'Universite%A de Besanc%Bon. Ge%Aologie, 4e%Cme se%Arie	Besanc%Bon, France	Institut des Sciences Naturelles, Universite%A de Besanc%Bon
+05240832	Bulletin de l'Institut de Ge%Aologie du Bassin d'Aquitaine	Talence, France	Universite%A de Bordeaux
+05249511	Revista del Museo Argentino de Ciencias Naturales ``Bernardino Rivadavia'' e Instituto Nacional de las Ciencias Naturales. Paleontologi%Aa	Buenos Aires, Argentina	Mus. Argent. de Cienc. Nat.
+05336562	Transactions -- Gulf Coast Association of Geological Societies	Houston, TX, USA	Gulf Coast Geological Societies.
+05340403	Go%Fttinger Arbeiten zur Geologie und Pala%Fontologie	Go%Fttingen, Germany	Geologisch-Pala%Fontologisches Institut der Georg-August Universita%Ft [= Universita%Ft Go%Fttingen]
+05358582	Rendiconti, Istituto Lombardo Accademia di Scienze e Lettere. [Sezione] B. Scienze Chimiche e Fisiche, Geologiche, Biologiche e Mediche	Milan, Italy	Ist. Lombardo di Scienze e Lettere
+05360242	Memorie Descrittive della Carta Geologica d'Italia	Rome, Italy	Servizio Geologico d'Italia
+05421535	Mainzer Naturwissenschaftliches Archiv	Mainz, Germany	Naturhistorischen Museums und der Rheinischen Naturforschenden Gesellschaft.
+0544540X	Transactions of the Missouri Academy of Science	Columbia, MO, USA	Missouri Academy of Science
+05447631	Bulletin du Muse%Ae d'Anthropologie Pre%Ahistorique de Monaco.	Monaco	Muse%Ae d'Anthropologie Pre%Ahistorique de Monaco & Association de Pre%Ahistoire et de Spe%Ale%Aologie de Monaco
+05448972	Montana Geological Society Guidebook to Annual Field Conference	Billings, MT, USA	Montana Geological Society
+05489784	Report -- New Zealand Geological Survey	Wellington, New Zealand	New Zealand Geological Survey
+05493927	Palaeontological Society of Japan, Special Papers = Nihon Koseibutsu Gekkai, Special Papers	Tokyo, Japan	University of Tokyo Press
+05504082	Publications of the Nuttall Ornithological Club.	Cambridge, MA, USA	Museum of Comparative Zoology, Harvard University
+05529352	Palaeontologia Jugoslavica	Zagreb, Yugoslavia	Jugoslavenska Akademija Znanosti i Umjetnosti -- Academia Scientiarum et Artium Slavorum Meridionalium
+05529360	Journal of the Palaeontological Society of India	Lucknow, India	Palaeontological Society of India
+0554288X	Plaster Jacket.	Gainesville, FL, USA	Florida Paleontological Society, Inc., Florida State Museum, University of Florida
+05544068	Poeyana. Serie A	La Habana, Cuba	Instituto de Biologi%Aa, Academia de Ciencias de Cuba
+05544076	Poeyana. Serie B	La Habana, Cuba	Instituto de Biologi%Aa, Academia de Ciencias
+05557623	Panjab University, Research Bulletin	Chandigarh, India	Panjab University.
+05557631	Research Bulletin of the Panjab University, Science	Chandigarh, India	Panjab University
+05568099	Revue Roumanie de Ge%Aologie, Ge%Aophysique et Ge%Aographie, [Se%Arie]: Ge%Aographie	Bucharest, Romania	Academiei Republicii Socialiste Roma%Dnia.
+05568102	Revue Roumaine de Ge%Aologie, Ge%Aophysique et Ge%Aographie, [Se%Arie]: Ge%Aologie	Bucharest, Romania	CARTIMEX
+05603137	Slovensky%A Kras. Zborni%Ak Mu%Azea Slovenske%Aho Krasu a Ochrany Pri%Arody v Liptovskom Mikula%As%Ji.	Liptovsky%A Mikula%As%J, Czechoslovakia	Vydavatel'stvo Osveta
+05605466	Bulletin de la Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne. Se%Arie C	Rennes, France	Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne
+05609208	Handbook -- South Africa, Geological Survey	Pretoria, South Africa	Government Printer
+0561077X	Bulletin -- South Texas Geological Society	San Antonio, TX, USA	South Texas Geological Society
+05624452	Stuttgarter Beitra%Fge zur Naturkunde	Stuttgart, Germany	Staatliches Museum fu%Fr Naturkunde, Stuttgart
+05676096	Studii si Cercetari de Geologie, Geofizica, Geografie. Seria Geologie	Bucharest, Romania	Academia Republicii Socialiste Romania
+0567655X	Comptes Rendus Hebdomadaires des Se%Aances de l'Acade%Amie des Sciences, Se%Arie D: Sciences Naturelles	Paris, France	Gauthier-Villars.
+05677505	Acta Geolo%Cgica Hispa%Cnica	Barcelona, Spain	Institut de Cie%Cncias de la Terra ''Jaume Almera'' (C.S.I.C.)
+05677513	Acta Geolo%Agica Lilloana	Tucuman, Argentina	Ministerio de Cultura y Educacio%An. Fundacio%An Miguel Lillo. Universidad Nacional de Tucuman
+05677920	Acta Palaeontologica Polonica	Warsaw, Poland	Polska Akademia Nauk, Zakl%Sad Paleozoologii
+05685192	Izvestiya Akademii Nauk Moldavskoy SSR, Seriya Biologicheskikh i Khimicheskikh Nauk = Buletinul Akademiyey de Shtiintse a RSS Moldovenesht'	Kishinev, MSSR, USSR	Izdatel'stvo ``Shtiintsa''
+05686156	Trudy Instituta Geologii, Komi Nauchnyy Tsentr, Ural'skoye Otdeleniye Rossiyskoy Akademii Nauk.	Syktyvkar, Russia	Komi Nauchnyy Tsentr UrO RAN SSSR
+0568658X	Trudy Instituta Geologii i Geofiziki. Akademiya Nauk SSSR, Sibirskoye Otdeleniye	Novosibirsk, USSR	Izdatel'stvo ``Nauka'', Sibirskoye Otdeleniye
+05701627	Annales de Pale%Aontologie, Verte%Abre%As	Paris, France	Masson et Cie
+05701880	Annals of the Cape Provincial Museums (Natural History)	Grahamstown, South Africa	Cape Provincial Museums [and] the Albany Museum.
+05706270	Arche%Aologia. Pre%Ahistoire & Arche%Aologie	Dijon, France	Arche%Aologia S. A.
+05708966	Arheolos%Jki Vestnik = Acta Archaeologica	Ljubljana, Yugoslavia	Slovenska Akademija Znanosti in Umetnosti, Ins%Jtitut za Arkheologijo.
+05771552	Me%Amoires du Centre de Recherches Anthropologiques, Pre%Ahistoriques et Ethnographiques	Algiers, Algeria	Centre de Recherches Anthropologiques, Pre%Ahistoriques et Ethnographiques
+05781604	Zhongguo Gushengwu Zhi. Xin Bing Zhong [= Chung-kuo Ku-sheng-wu Chih. Hsin Ping Chung = Chinese Paleontological Annals. New 3rd Series] = Palaeontologia Sinica. New C Series	Beijing, China	.
+05794706	Geological Survey of India, Miscellaneous Publication	Calcutta, India	Geological Survey of India
+05803896	Myotis. Mitteilungsblatt fu%Fr Fledermauskundler	Bonn, Germany	Zoologisches Forschungsinstitut und Museum Alexander Koenig
+05829747	The Sheffield University Geological Society Journal	Sheffield, England	The Sheffield University Geological Society
+0583063X	Journal of the Faculty of Science, Shinshu University, [Shinshu Daigaku Rigakubu]	Matsumoto, Nagoya Prefecture, Japan	Shinshu University
+05837510	Boleti%An de la Real Sociedad Espan%Eola de Historia Natural, Seccio%An Geolo%Agica	Madrid, Spain	Real Sociedad Espan%Eola de Historia Natural.
+05837979	Bollettino della Societa%C Paleontologica Italiana	Modena, Italy	Societa%C Paleontologica Italiana.
+05840244	Godishnik na Sofiyskiya Universitet Biologo-Geologo-Geografski Fakultet	Sofia, Bulgaria	``Nauka i Izkustvo'' Press.
+05840287	Godishnik na Sofiyskaya Universitet Geologo-Geografski Fakultet	Sofia, Bulgaria	``Nauka i Izkustvo'' Press.
+05842352	Annals of the Geological Survey, South Africa = Annale van die Geologiese Opname, Suid Afrika	Pretoria, South Africa	Republic of South Africa, Department of Mines
+0585718X	Studies in Speleology	London, England	William Pengelly Cave Studies Trust.
+05861535	Jordartsgeologiska Kartblad Skala 1:50,000. Serie Ae	Uppsala, Sweden	Sveriges Geologiska Underso%Fkning
+05865581	Scanning Electron Microscopy	Chicago, IL, USA	SEM Inc.
+05871239	Studi e Ricerche sui Giacimenti Terziari di Bolca	Verona, Italy	Museo Civico di Storia Naturale
+05906741	Contributions to Geology, University of Wyoming, Special Paper	Laramie, WY, USA	The University of Wyoming, Department of Geology and Geophysics
+05907403	Cumberland Geological Society, Proceedings	Whitehaven, England	Cumberland Geological Society
+0704576X	Syllogeus	Ottawa, Canada	National Museum of Natural Sciences, National Museums of Canada
+07062168	Canadian Geographic	Ottawa, Canada	Royal Canadian Geographical Society.
+07072996	Geological Survey Paper (Geological Survery of Canada)	Ottawa, Canada	Geological Survey of Canada
+07073887	Natural History Contributions	Regina, Canada	Saskatchewan Museum of Natural History
+07146140	Revue Canadienne de Biologie Experimental	Montreal, Canada	Les Presses de l'Universite%A de Montreal
+07160208	Revista Geolo%Agica de Chile	Santiago, Chile	Instituto de Investigaciones Geolo%Agicas
+07203705	Berichte des Naturwissenschaftlichen Vereins fu%Fr Schwaben e. V	Augsburg, Germany	Naturwissenschaftlicher Verein fu%Fr Schwaben e. V.
+0723791X	Sitzungsberichte -- O%Fsterreichische Akademie der Wissenschaften, Mathematisch-Naturwiss. Klasse, Abt. 1: Biologische Wiss. und Erdwiss.	Vienna, Austria/New York	Springer Verlag
+07238428	Documenta Naturae. Forschungen aus den Naturwissenschaften	Munich	Germany
+07244327	Forschungen und Berichte zur Vor- und Fru%Fhgeschichte in Baden-Wu%Frttemberg	Stuttgart, Germany	Komissionsverlag Konrad Theiss Verlag
+07246331	Palaeo Ichthyologica. Systematik, Morphologie, Palo%Fkologie, Pala%Fogeographie, Stratigraphie	Munich, Germany	Verlag Friedrich Pfeil.
+07259018	Terra Australis	Canberra, ACT, Australia	Department of Prehistory, Research School of Pacific Studies, The Australian National University
+07273061	Historical Records of Australian Science	Canberra, Australia	Australian Academy of Science
+07330960	Museum Studies Journal	Orinda, CA, USA	John F. Kennedy University, Center for Museum Studies
+07345909	Fossils Quarterly	Charlotte, NC, USA	Geotech Archives, Ltd.,
+07363907	The Mosasaur. The Journal of the Delaware Valley Paleontological Society	Philadelphia, PA, USA	Delaware Valley Paleontological Society
+07366234	Earth Sciences History. Journal of the History of the Earth Sciences Society	Troy, NY, USA	History of the Earth Sciences Society
+07374038	Molecular Biology and Evolution.	Chicago, IL, USA	University of Chicago Press
+0742390X	Current Ornithology	New York, NY, USA	Plenum Press.
+07439547	Journal of Southeast Asian Earth Sciences	Oxford/New York	Pergamon Press
+07483007	Cladistics. The International Journal of the Willi Hennig Society	London, England	Academic Press
+07506635	Documents des Laboratoires de Ge%Aologie Lyon.	Lyon, France	Universite%A Claude-Bernard Lyon 1, Faculte%A des Sciences, Laboratoires de Ge%Aologie
+07533969	Annales de Pale%Aontologie. Paris, France	Masson et Cie	\N
+07583818	Bulletin de la Socie%Ate%A des Sciences Naturelles de l'Ouest de la France. N. S. Nantes, France\t Socie%Ate%A des Sciences Naturelles de l'Ouest de la France	\N	\N
+07584113	Bulletin de la Socie%Ate%A d'Histoire Naturelle de Toulouse	Toulouse, France	Universite%A Paul Sabatier Toulouse
+0758962X	Guides Arche%Aologiques de la France	Paris, France	Ministe%Cre de la Culture, Imprimerie National
+07644450	Comptes Rendus de l'Acade%Amie des Sciences. Se%Arie II: Me%Acanique-Physique-Chimie, Sciences de la Terre et de l'Univers	Paris, France	Gauthier-Villars
+07651511	Me%Amoires de la Socie%Ate%A du Boulonnais.	Boulogne sur Mer, France	Socie%Ate%A d'Histoire Naturelle du Boulonnais
+07660502	Cahiers de Pale%Aontologie. Travaux de Pale%Aontologie Est-Africaine	Paris, France	Centre National de la Recherche Scientifique
+07692218	Me%Amoire de la Section d'Histoire des Sciences et des Techniques	Paris, France	E%Aditions du Comite%A des Travaux Historiques et Scientifiques
+07701748	Natuurwetenschappelijk Tijdschrift	Ghent, Belgium	Natuur- en Geneeskundige Vennootschap, V. z. W.
+07710488	Revue de Zoologie Africaine	Tervuren, Belgium	Muse%Ae Royal de l'Afrique Centrale
+07729464	Bulletin de la Socie%Ate%A Belge de Ge%Aologie = Bulletin van de Belgische Vereniging voor Geologie	Brussels, Belgium	Socie%Ate%A Belge de Ge%Aologie
+07767943	Revue de Zoologie Africaine = Journal of African Zoology	Tervuren, Belgium	Muse%Ae Royal de l'Afrique Centrale.
+07901763	Irish Journal of Earth Sciences	Dublin, Ireland	Royal Irish Academy
+08000395	Polar Research	Oslo, Norway	Norsk Polarinstitutt. 1982
+08108889	Memoir of the Association of Australasian Palaeontologists	Sydney, Australia	Association of Australasian Palaeontologists
+08120099	Australian Journal of Earth Sciences	Melbourne, etc	Blackwell Scientific Publications for the Geological Society of Australia
+08141827	Memoirs of the Museum of Victoria	Melbourne, Australia	Museum of Victoria
+08217556	Palaeontographica Canadiana	Calgary and Toronto, Canada	Canadian Society of Petroleum Geologists and Geological Assocication of Canada. 1983-
+08226741	NBM News = L'Actualite%A au MNB	Saint John, New Brunswick, Canada	New Brunswick Museum
+08240469	Marine Mammal Science	Lawrence, KS, USA	Society for Marine Mammalogy
+08700397	Memorias e Noticias -- Universidade de Coimbra, Museu e Laboratorio Mineralogico e Geologico	Coimbra, Portugal	Mus. Lab. Mineral. Geol., Univ. Coimbra. [Simultan. entit: Publicac%Bo%Des].
+08831351	Palaios	Tulsa, OK, USA	Society of Economic Paleontologists and Mineralogists.
+08836353	Geoarchaeology: An International Journal	New York, etc.	John Wiley & Sons
+08912963	Historical Biology. An International Journal of Paleobiology	London, England	Harwood Academic Publishers
+08917035	Scanning Microscopy	Chicago, IL, USA	SEM Inc.
+08923701	Hunteria	Boulder, CO, USA	Societas Palaeontographica Coloradensis
+08968381	JIAS. The journal of the Iowa Academy of Science	Cedar Falls, IA, USA	Iowa Academy of Science
+08995362	Journal of African Earth Sciences (and the Middle East)	Oxford, etc	Pergamon Press
+09167315	Kyu%Nshu%N Daigaku Rigakubu. Kenkyu%N Ho%Nkoku. Chishitsugaku -- Science Reports. Department of Geology, Kyushu University	Fukuoka, Japan	Faculty of Science, Kyu%Nshu%N University.
+09304673	Pala%Foklimaforschung	Mainz, Germany	Akademie der Wissenschaften und der Literatur. Stuttgart, New York,  Gustav Fisher Verlag.
+0933288X	Archaeopteryx. Jahreszeitschrift der Freunde des Jura-Museum Eichsta%Ftt.	Eichsta%Ftt, Germany	Freunde des Jura-Museum.
+09351221	European Journal of Mineralogy	Stuttgart, Germany	Schweizerbart'sche Verlagsbuchhandlung
+09528369	Journal of Zoology. Proceedings of the Zoological Society of London	London, England	Academic Press
+09541020	Antarctic Science	Oxford, London, etc.	Blackwell Scientific Publications.
+09544879	Terra Nova. Official Journal of the European Union of Geosciences	Oxford, England	Blackwell Scientific Publications
+09700951	Journal of Himalayan Geology	Dehra Dun, India	Journal of Himalayan Geology
+09701354	Indian Journal of Geology	Calcutta, India	The Geological, Mining and Metallurgical Society of India
+0970261X	Gondwana Geological Magazine	Nagpur, India	The Gondwana Geological Society
+09823816	Hercynica	Rennes, Frence	Socie%Ate%A Ge%Aologique et Mine%Aralogique de Bretagne
+10002383	Diqu Kexue -- Zhongguo Dizhi Daxue Xuebao. Earth Science -- Journal of China University of Geosciences	Wuhan, China	China University of Geosciences
+10003118	Gu Jizhui Dongwu Xuebao = Vertebrata PalAsiatica [= Ku Chi-chui Tung-wu Hsu%Feh-pao = Journal of Ancient Vertebrates]	Beijing, China	Academia Sinica, IVPP
+10003134	Zhongguo Kexue [= Chung-kuo K'o-hsu%Feh, = Chinese Science] -- Scientia Sinica. B Ji (Huaxue Shengwuxue Nongxue Yixue Dixue). (Chinese Edition)	Beijing, China	Zhongguo Kexue Yuan Zhuban
+10003193	Renleixue Xuebao [=Jen-lei-hsu%Feh Hsu%Feh-pao, =Anthropology Journal] = Acta Anthropologica Sinica. (Acad. Sinica Inst. of Vert. Paleontol. and Paleoanthro.)	Beijing, China	Kexue Chubanshe
+1001652X	Science in China (Scientia Sinica). Series B. Chemistry, Life Sciences and Earth Sciences. (English Edition)	Beijing, China	Academia Scinica
+10406182	Quaternary International. Journal of the International Union for Quaternary Research	Oxford, New York, etc.	Pergamon Press
+10420940	Ichnos. An international journal for plant and animal traces	New York, NY, USA	Harwood Academic Publishers
+10468390	University of Kansas Paleontological Contributions. New Series	Lawrence, KS, USA	The University of Kansas Paleontological Institute
+10468641	Environment West	San Diego, CA, USA	San Diego Natural History Museum.
+10635157	Systematic Biology	Washington, DC, USA	Society of Systematic Biologists
+11050004	Annales Ge%Aologiques des Pays Helle%Aniques	Athens, Greece	De%Apartement des Sciences de la Terre de l'Universite%A
+11206365	Atti della Accademia Nazionale dei Lincei, Memorie Lincei. Classe di Scienze Fisiche, Matematiche e Naturali. Serie IX	Rome, Italy	Accademia Nazionale dei Lincei.
+11422904	Quaternaire. Bulletin de l'Association Franc%Baise pour l'E%Atude du Quaternaire. International Journal of the French Quaternary Association	Paris	Maison de Ge%Aologie
+11830298	Canadian Paleontology Conference	Vancouver, BC, Canada	Geological Association of Canada
+12205656	Romanian Journal of Paleontology	Bucharest, Romania	Geological Institute of Romania
+12434442	Me%Amoires du Muse%Aum National d'Histoire Naturelle	Paris, France	Muse%Aum National d'Histoire Naturelle
+31KDA7	Modern Quaternary Research in Southeast Asia	Rotterdam, The Netherlands	A. A. Balkema
+34ZLAP	Actas del Congreso Argentino de Paleontologi%Aa y Bioestratigrafi%Aa	[Buenos Aires], Argentina	Asociacio%An Paleontolo%Agica Argentina
+6532447X	E%Atudes Quaternaires Languedociennes	Vauvert, France	Centre de Recherches et de Documentation Pre%Ahistoriques du Gard, Laboratoire de Pre%Ahistoroire de Vauvert
+7188712X	Cadernos Universita%Arios.	Ponta Grossa, Brazil	Universidade Estadual de Ponta Grossa
+8755724X	National Geographic Research	Washington, DC, USA	National Geographic Society
+8755898X	Current Research in the Pleistocene	Orono, ME, USA	Center for the Study of Early Man, University of Maine
+87566362	Dolphin Log	Los Angeles, CA, USA	The Cousteau Society
+AAGCA4	Atti della Accademia Gioenia di Scienze Naturali in Catania	Catania, Italy	Accademia Gioenia di Scienze Naturale in Catania
+ASGVAH	Archives des Sciences	Geneva, Switzerland	Socie%Ate%A de Physique et d'Histoire Naturelle de Gene%Cve.
+BCSAAF	Bulletin de la Classe des Sciences, Acade%Amie Royale de Belgique. 5e se%Arie	Brussels, Belgium	Acade%Amie Royale de Belgique
+BGBPA3	Bulletin d'Information des Ge%Aologues du Bassin de Paris	Paris, France	Laboratoire de Ge%Aologie des Bassins Se%Adimentaires, Universite%A de Paris
+BHNAAP	Bulletin de la Socie%Ate%A d'Histoire Naturelle de l'Afrique du Nord	Algiers, Algeria	Universite%A d'Alger, Faculte%A des Sciences.
+BNFSBE	Beitra%Fge zur Naturkundlichen Forschung in Su%Fdwestdeutschland, Beiheft. Landessammlungen fu%Fr Naturkunde Karlsruhe	Karlsruhe, FRG	.
+BSANA8	Bulletins et Me%Amoires de la Socie%Ate%A d'Anthropologie de Paris. XIIe Serie	Paris, France	Socie%Ate%A d'Anthropologie de Paris, Muse%Ae de l'Homme
+BSCGAV	Alsace-Lorraine, Service de la Carte Ge%Aologique, Bulletin	Strasbourg, France	Alsace-Lorraine, Service de la Carte Ge%Aologique
+BUCDA2	Georgia Academy of Science -- Bulletin	Atlanta, GA, USA	The Georgia Academy of Science
+BUGMAF	Geological Society of America Bulletin. Part II [microfiche]	Boulder, CO, USA	Geological Society of America
+CFAMBS	Memoirs of the California Academy of Sciences	San Francisco, CA, USA	California Academy of Sciences
+CGBGAL	Anais do Congresso Brasileiro de Geologia	Sa%Eo Paulo, Brazil	Sociedade Brasileira de Geologia
+CKKKD7	Zhongguo Kexueyuan, Gu Jizhui Dongwu yu Gu Renlei Yanjusuo, Jikan = Memoirs of the Inst. of Vert. Paleontol. and Paleoanthropol., Acad. Sinica	Beijing, China	Acad. Sinica, IVPP
+CLPAB7	Col-Pa -- Coloquios de la Ca%Atedra de Paleontologi%Aa	Madrid, Spain	Universidad de Madrid, Facultad de Ciencias
+CNGBAC	Bulletin -- Connecticut State Geological and Natural History Survey	Hartford, CT, USA	State Geological and Natural History Survey of Connecticut
+CPMHA6	Comunicaciones Paleontolo%Agicas del Museo de Historia Natural de Montevideo	Montevideo, Uruguay	Museo Nacional de Historia Natural.
+CPMYAN	Contributions to Primatology	Basel, Switzerland	S. Karger
+CRPGAW	Compte Rendu des Se%Aances de la Socie%Ate%A de Physique et d'Histoire Naturelle de Gene%Cve (Ser. 2)	Geneva, Switzerland	Socie%Ate%A de Physique et d'Histoire Naturelle
+CUESAY	Cuadernos de Espeleologi%Aa	Santander, Spain	Publicaciones del Patronato de las Cuevas Prehisto%Aricas de la Provincia de Santander
+DBGGAM	Dopovidi Akademii%F Nauk Ukrai%Fns'koi%F RSR. Seriya B. Heolohiya, Heofizika, Khimiya ta Biolohiya	Kiev, USSR	Vydavnytstvo ``Naukova Dumka''
+DSIGAF	Da%Rri de Seama%R ale S%Bedint%Belor = Comptes Rendus des Se%Aances, Institutul de Geologie s%Bi Geofizica%R	Bucharest, Romania	Inst. de Geologie s%Bi Geofizica
+DSSGDY	Da%Rri de Seama%R ale S%Bedint%Belor = Comptes Rendus des Se%Aances, Institutul de Geologie s%Bi Geofizica%R	Bucharest, Romania	Inst. de Geologie s%Bi Geofizica
+EQUPDY	E%Atudes Quaternaires. Ge%Aologie, Pale%Aontologie, Pre%Ahistoire. Me%Amoire	Marseilles, France	E%Adit. du Laboratoire de Pale%Aontologie Humaine et de Pre%Ahistoire, Univ. de Provence.
+EXBIE2	Experimental Biology. Environmental and Sensory Aspects	Berlin, FRG	Springer Verlag
+FCANDB	Fossilium Catalogus. I. Animalia	Amsterdam, The Netherlands	Kugler Publications
+FHCYAI	Folia Histochemica et Cytochemica	Krako%Aw, Poland	Polish Histochemical and Cytochemical Society
+FLDGAV	Fieldiana, Geology	Chicago, IL, USA	Field Museum of Natural History
+FLDZAK	Fieldiana, Zoology	Chicago, IL, USA	Field Museum of Natural History
+GEOBAX	Geologie. Zeitschrift fu%Fr das Gesamtgebiet der Geologischen Wissenschaften. (Deutsche Gesellschaft fu%Fr Geologischen Wissenschaften)	Berlin, GDR	Akademie Verlag
+GKGSDL	Kansas Geological Survey Guidebook Series	Lawrence, KS, USA	Kansas Geological Survey, University of Kansas
+GSIMBX	Miscellaneous Publication -- Geological Survey of India	Calcutta, India	Geological Survey of India.
+IAACAS	Contribucio%An del Instituto Anta%Artico Argentino	Buenos Aires, Argentina	Direccio%An Nacional del Anta%Artico
+IGABBY	International Geological Congress, Abstracts = Congre%Cs Ge%Aologique Internationale, Re%Asumes	.	.
+IGCGAO	International Geological Congress, Proceedings = Congre%Cs Ge%Aologique Internationale, Programme	.	.
+IPPBB2	Boletin Informativo -- Barcelona, Instituto Provincial de Paleontologi%Aa	Sabadell, Spain	Instituto Provincial de Paleontologi%Aa de Sabadell.
+ISNBAC	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique	Brussels, Belgium	Institut Royal des Sciences Naturelles
+JIGSB4	Journal of the Indian Geoscience Association	Hyderabad, India	Indian Geoscience Association, Geology Department, Osmania University
+JLJGD6	Jahresbericht -- Landesmuseum Joanneum (Neue Folge)	Graz, Austria	Steierma%Frkisches Landesmuseum Joanneum
+KMNHAA	University of Kansas Museum of Natural History, Publications	Lawrence, KS, USA	The University of Kansas
+LGMEAX	Leidse Geologische Mededelingen	Leiden, The Netherlands	Geologisch Instituut, Rijksuniversiteit de Leiden -- Rijksmuseum van Geologie en Mineralogie, Leiden
+MCGAA8	Alsace-Lorraine, Service de la Carte Ge%Aologique, Me%Amoires	Strasbourg, France	Alsace-Lorraine, Service de la Carte Ge%Aologique.
+MMGTAX	Mitteilungen des Museums fu%Fr Bergbau, Geologie und Technik am Landesmuseum ``Joanneum'' Graz	Graz, Austria	Landesmuseum ``Joanneum''
+MSDIDU	Memorie per Servire alla Descrizione della Carta Geologica d'Italia	Rome, Italy	Servizio Geologico Nazionale
+MTIEDG	Me%Amoires et Travaux de l'Institut de Montpellier de l'E%Acole Pratique des Hautes E%Atudes	Montpellier, France	E%Acole Pratique des Hautes E%Atudes
+NDNTAG	Transactions of the Natural History Society of Northumberland, Durham and Newcastle-Upon-Tyne (New Series)	Newcastle-Upon-Tyne, England	The Hancock Museum
+ORBIAW	Ore Bin	Portland, OR, USA	Oregon Department of Geology and Mineral Industries
+PACODI	Pale%Aobiologie Continentale	Montpellier, France	Universite%A des Sciences et Techniques du Languedoc
+PBMND4	British Museum (Natural History), Palaeontology Leaflet	London, England	British Museum (Natural History)
+PKGMAV	Memoirs of the Geological Survey of Pakistan	Karachi, Pakistan	Geological Survey of Pakistan
+PLBPDP	Paleolimnology of Lake Biwa and the Japanese Pleistocene	Otsu, Japan	Kyoto University, Otsu Hydrobiological Station
+PLEABR	Palaeoecology of Africa and the Surrounding Islands and Antarctica	Rotterdam, The Netherlands	A. A. Balkema
+PLIDBM	Memoirs of the Geological Survey of India. Palaeontologia Indica, New Series	Calcutta, India	Geological Survey of India
+PUFGDD	Pesquisas (Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias)	Porto Allegre, Brazil	Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias.
+QUARDW	Quarta%Frpala%Fontologie. Abhandlungen und Berichte des Instituts fu%Fr Quarta%Frpala%Fontologie Weimar	Berlin, Germany	Akademie-Verlag
+RASTCW	Re%Aunion Annuelle des Sciences de la Terre [Programme et Re%Asume%As]	Paris, France	Socie%Ate%A Ge%Aologique de France
+RIGPBF	Pesquisas (Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias)	Porto Allegre, Brazil	Universidade Federal do Rio Grande do Sul, Instituto de Geocie%Dncias
+SBSWAN	Speleologia	Warsaw, Poland	Polskie Towarzystwo Turystyczno-Krajoznawcze Zarza%Kd Gl%So%Awny, Komisja Speleologii.
+SCPLCI	Special Publications -- Southern California Paleontological Society	Los Angeles, CA, USA	Southern California Paleontological Society
+SDGRAU	Report of Investigations -- South Dakota Geological Survey	Vermillion, SD, USA	South Dakota Geological Survey
+SGSPD6	Special Publication -- Saskatchewan Geological Society	Regina, SK, Canada	Saskatchewan Geological Society.
+SGUSBN	Studia Geolo%Agica	Salamanca, Spain	Universidad de Salamanca
+SPIZAC	Poeyana	La Habana, Cuba	Instituto de Zoologia, Academia de Ciencias de Cuba
+SRNGAS	Staringia	Oldenzaal, The Netherlands	Nederlandse Geologische Vereiniging
+SUGMBX	Studia Universitatis Babes%B-Bolyai. Series Geologia-Mineralogia	Cluj, Romania	Universitatea Babes%B-Bolyai.
+TEBIDX	Tebiwa -- Miscellaneous Papers of the Idaho State University Museum of Natural History	Pocatello, ID, USA	Idaho Museum of Natural History
+TNASBH	Transactions of the Nebraska Academy of Sciences	Lincoln, NE, USA	Nebraska Academy of Sciences
+TVGEAQ	Trudy Vsesoyuznogo Nauchno-Issledovatel'skogo Geologo-Razvedochnogo Instituta (VSEGEI)	Leningrad, USSR	Ministerstvo Geologii SSSR
+UASPAH	Proceedings of the Utah Academy of Sciences, Arts, and Letters	Salt Lake City, UT, USA	Utah Academy of Sciences, Arts, and Letters.
+ZRGIA8	Zbornik Radova, Srpska Akademija Nauka, Geolos%Jki Institut	Belgrade, Yugoslavia	Srpska Akademija Nauka
+\.
